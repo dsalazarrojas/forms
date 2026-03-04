@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Project Appointment Request
+    pages:
+    - id: 1
+      name: address
+      label: Street Address
+      hint: Enter your street address
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: Select a date for your appointment
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: Select a time for your appointment
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Enter the name of the project
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: What type of property?
+      hint: Residential, Commercial or Mixed-Use
+      type: select_one
+      options:
+      - Mixed-Use
+      - Residential
+      - Commercial
+      required: false

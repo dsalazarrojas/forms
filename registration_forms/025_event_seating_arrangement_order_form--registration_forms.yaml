@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Seating Arrangement Order Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_description
+      label: event description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_count
+      label: guest count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: page_two
+      label: Seating Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seat_type
+      label: seat type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: seat_row
+      label: seat row
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: seat_col
+      label: seat column
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: page_three
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_request
+      label: special request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true

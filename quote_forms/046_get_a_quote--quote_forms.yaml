@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Get A Quote
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quote_amount
+      label: Quote Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_address
+      label: Client Address
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: quote_validity
+      label: Quote Validity
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: payment_terms2
+      label: Payment Terms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rate
+      label: Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: quote_notes
+      label: Quote Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_manager_notes
+      label: Project Manager Notes
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: quote_status
+      label: Quote Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 24
+      name: project_type
+      label: Project Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - option2
+      - option3
+      required: false

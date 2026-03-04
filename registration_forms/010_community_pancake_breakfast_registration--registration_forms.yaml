@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Pancake Breakfast Registration
+    pages:
+    - id: 1
+      name: attendee_info
+      label: Attendee Information
+      hint: Who will be attending
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: household_size
+      label: Total Number of Attendees
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: children_count
+      label: Number of Children
+      hint: Under 12 years old
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: Select your preferences
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: seating_preference
+      label: Seating Preference
+      hint: null
+      type: select_one
+      options:
+      - Indoor Seating
+      - Outdoor Seating
+      - No Preference
+      - Takeout Only
+      required: true
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pancake_preference
+      label: Pancake Preference
+      hint: null
+      type: select_one
+      options:
+      - Regular Pancakes
+      - Blueberry Pancakes
+      - Chocolate Chip Pancakes
+      - Gluten-Free Option
+      - Vegan Option
+      - No Pancakes
+      required: true
+    - id: 12
+      name: additional_items
+      label: Additional Items Desired
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bacon
+      - Sausage
+      - Fresh Fruit
+      - Yogurt
+      - Coffee
+      - Orange Juice
+      - Milk
+      required: false
+    - id: 13
+      name: volunteer_interest
+      label: Would You Like to Volunteer
+      hint: Help with the event
+      type: select_one
+      options:
+      - Yes - Before Event
+      - Yes - During Event
+      - Yes - After Event
+      - No - Just Attending
+      required: true
+    - id: 14
+      name: volunteer_tasks
+      label: Preferred Volunteer Tasks
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Setup
+      - Cooking
+      - Serving
+      - Cashier
+      - Cleanup
+      - Greeting
+      required: false
+    - id: 15
+      name: donation_interest
+      label: Would You Like to Make a Donation
+      hint: Support the event
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 16
+      name: donation_amount
+      label: Donation Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Flyer/Poster
+      - Word of Mouth
+      - Email Newsletter
+      - Local Newspaper
+      - Community Website
+      - Other
+      required: false
+    - id: 18
+      name: bring_friends
+      label: Are You Bringing Friends or Neighbors
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Move Out And In Instant Quote Request Form
+    pages:
+    - id: 1
+      name: move_out_and_in_instant_quote_request_form
+      label: move out and in instant quote request form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: move_date
+      label: move date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: move_type
+      label: move type
+      hint: null
+      type: select_one
+      options:
+      - In
+      - Out
+      - Both
+      required: true
+    - id: 5
+      name: property_type_prophets
+      label: property type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 6
+      name: number_of_movers
+      label: number of movers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: move_weight
+      label: move weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: prophets_and_proprieters
+      label: proprietors and property managers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: additional_services
+      label: prophets and property managers
+      hint: null
+      type: select_multiple
+      options:
+      - Packing and unpacking
+      - Furniture disassembly/Reassembly
+      - Equipment disassembly/Reassembly
+      - Storage and Delivery
+      required: false
+    - id: 12
+      name: estimated_price
+      label: estimated price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: service_details
+      label: service details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_terms
+      label: service terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prophets_and_proprietors_comments
+      label: proprietors and property managers comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_comments
+      label: customer comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: move_out_details
+      label: move out details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: move_in_details
+      label: move in details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: move_out_and_in_details
+      label: move out and in details
+      hint: null
+      type: text
+      options: []
+      required: false

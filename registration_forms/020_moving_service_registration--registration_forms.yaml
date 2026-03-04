@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moving Service Registration
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: moving_info
+      label: Moving Information
+      hint: Please provide your moving details.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: move_date
+      label: Move Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: move_type
+      label: Move Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Local Move'', ''value'': ''local''}'
+      - '{''label'': ''Long distance'', ''value'': ''long_distance''}'
+      required: false
+    - id: 7
+      name: pickup_details
+      label: Pickup Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Pickup Address'', ''value'': ''pickup_address''}'
+      - '{''label'': ''Pickup Contact'', ''value'': ''pickup_contact''}'
+      required: false
+    - id: 8
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

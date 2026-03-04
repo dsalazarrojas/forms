@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_asset_sale_registration
+    pages:
+    - id: 1
+      name: seller_info
+      label: Seller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seller_name
+      label: seller_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_info
+      label: Item Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_price
+      label: item_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: item_category
+      label: item_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: item_condition
+      label: item_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: buyer_name
+      label: buyer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: buyer_contact
+      label: buyer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: item_image
+      label: item_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_image_description
+      label: item_image_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: buyer_interest
+      label: buyer_interest
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sale_price
+      label: sale_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: sale_price_currency
+      label: sale_price_currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: payment_time
+      label: payment_time
+      hint: null
+      type: time
+      options: []
+      required: false

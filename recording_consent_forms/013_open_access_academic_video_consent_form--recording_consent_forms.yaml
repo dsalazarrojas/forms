@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Access Academic Video Consent Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: purpose_video_recording
+      label: Purpose of the video recording
+      hint: null
+      type: select_multiple
+      options:
+      - Research
+      - Teaching
+      - Presentation
+      - Other
+      required: true
+    - id: 3
+      name: participant_consent
+      label: Participant consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: participant_consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_consent_signed
+      label: Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: participant_information_2
+      label: Information about the participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_consent_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: researcher_information
+      label: Researcher Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_consent_note_2
+      label: Participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_video_consent
+      label: Participant's video consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: participant_consent_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: researcher_video_consent
+      label: Researcher's video consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: participant_information_3
+      label: Participant information 3
+      hint: null
+      type: text
+      options: []
+      required: false

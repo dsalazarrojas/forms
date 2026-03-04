@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Recommendation Form
+    pages:
+    - id: 1
+      name: video_recommendation_form
+      label: video_recommendation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: video_title
+      label: video_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tags
+      label: tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: video_length
+      label: video_length
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: video_type
+      label: video_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: video_format
+      label: video_format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: recommended_videos
+      label: recommended_videos
+      hint: Comma separated list
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

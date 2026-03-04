@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutor Registration Form
+    pages:
+    - id: 1
+      name: new_tutor
+      label: New Tutor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: center_location
+      label: Center Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: subject_areas
+      label: Subject Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - English
+      required: false
+    - id: 8
+      name: available_time_slots
+      label: Available Time Slots
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: payment_rate
+      label: Payment Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_rate_details
+      label: Payment Rate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contract_details
+      label: Contract Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_other
+      label: Emergency Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_other_description
+      label: Emergency Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

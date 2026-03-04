@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: royal_family_kids_camp_compass_reference_form
+    pages:
+    - id: 1
+      name: camp_leader
+      label: Camp Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_referee
+      label: Name of Referee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_player
+      label: Name of Player
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referee_relation
+      label: Referee Relation
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Coach
+      - Relative
+      - Friend
+      - Other
+      required: false
+    - id: 5
+      name: how_long
+      label: How Long
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_often
+      label: How Often
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Several times a week
+      - Several times a month
+      - Rarely
+      required: false
+    - id: 7
+      name: name_of_reference_1
+      label: Name of Reference 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name_of_reference_2
+      label: Name of Reference 2
+      hint: null
+      type: text
+      options: []
+      required: false

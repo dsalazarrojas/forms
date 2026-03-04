@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Real Estate Disclosure Form
+    pages:
+    - id: 1
+      name: disclosure_date
+      label: Disclosure Date
+      hint: Date of this disclosure
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: agent_full_name
+      label: Real Estate Agent Full Name
+      hint: Licensed agent name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_license_number
+      label: Agent License Number
+      hint: State license number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: brokerage_name
+      label: Brokerage Company Name
+      hint: Real estate brokerage
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: brokerage_address
+      label: Brokerage Address
+      hint: Office address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: brokerage_phone
+      label: Brokerage Phone
+      hint: Office phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: brokerage_email
+      label: Brokerage Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: client_full_name
+      label: Client Full Name
+      hint: Buyer or seller name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: property_address
+      label: Property Address
+      hint: Address of property in transaction
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: Type of real estate
+      type: select_one
+      options:
+      - Single family home
+      - Condominium
+      - Townhouse
+      - Multi-family
+      - Commercial
+      - Land
+      - Other
+      required: true
+    - id: 13
+      name: transaction_type
+      label: Transaction Type
+      hint: Type of real estate transaction
+      type: select_one
+      options:
+      - Purchase
+      - Sale
+      - Rental
+      - Lease
+      - Property management
+      required: true
+    - id: 14
+      name: covid_risk_acknowledgment
+      label: I acknowledge that in-person meetings and property showings may expose
+        me to COVID-19
+      hint: Risk acknowledgment
+      type: select_one
+      options:
+      - Yes I acknowledge this risk
+      - No I do not acknowledge
+      required: true
+    - id: 15
+      name: health_status_confirmation
+      label: To the best of your knowledge are you currently experiencing COVID-19
+        symptoms
+      hint: Health status
+      type: select_one
+      options:
+      - No I am not experiencing symptoms
+      - Yes I have symptoms
+      - I prefer not to answer
+      required: true
+    - id: 16
+      name: recent_positive_test
+      label: Have you tested positive for COVID-19 in the past 14 days
+      hint: Recent test history
+      type: select_one
+      options:
+      - false
+      - true
+      - I have not been tested
+      required: true
+    - id: 17
+      name: close_contact_exposure
+      label: Have you had close contact with anyone who tested positive for COVID-19
+        in the past 14 days
+      hint: Exposure history
+      type: select_one
+      options:
+      - false
+      - true
+      - I am not aware
+      required: true
+    - id: 18
+      name: safety_precautions_agreement
+      label: I agree to follow all COVID-19 safety precautions during in-person meetings
+      hint: Safety agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 19
+      name: safety_precautions_list
+      label: Which safety precautions will you follow
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wear a face mask
+      - Maintain 6 feet social distancing
+      - Use hand sanitizer
+      - Limit touching surfaces
+      - Follow occupancy limits
+      - Attend virtual meetings when possible
+      required: true
+    - id: 20
+      name: virtual_option_preference
+      label: Would you prefer virtual meetings and tours when available
+      hint: Meeting preference
+      type: select_one
+      options:
+      - Yes whenever possible
+      - No I prefer in-person
+      - Case by case basis
+      required: true
+    - id: 21
+      name: liability_release
+      label: I release and hold harmless the real estate agent and brokerage from
+        any COVID-19 related claims arising from in-person meetings
+      hint: Liability release
+      type: select_one
+      options:
+      - Yes I release liability
+      - No I do not release
+      required: true
+    - id: 22
+      name: additional_safety_requests
+      label: Do you have any additional safety requests or requirements
+      hint: Special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_signature_date
+      label: Date of Acknowledgment
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witness_signature_date
+      label: Witness Date
+      hint: Date witnessed
+      type: date
+      options: []
+      required: false

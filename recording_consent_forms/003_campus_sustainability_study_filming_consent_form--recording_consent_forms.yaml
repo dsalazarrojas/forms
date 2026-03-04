@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Sustainability Study Filming Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full legal name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: role_affiliation
+      label: Role or Affiliation
+      hint: e.g. Student, Faculty, Staff, Community Member
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_info_section
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_title
+      label: Project Title
+      hint: e.g. Campus Sustainability Documentary
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: researcher_name
+      label: Researcher or Filmmaker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: filming_date
+      label: Date of Filming
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: filming_location
+      label: Location of Filming
+      hint: Campus building or outdoor area
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_section
+      label: -- Consent --
+      hint: Please review and select your preferences
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recording_types
+      label: Recording Types
+      hint: Select the types of recordings you authorize
+      type: select_multiple
+      options:
+      - Video
+      - Audio
+      - Photographs
+      required: true
+    - id: 12
+      name: use_of_footage
+      label: Use of Footage
+      hint: Select all intended uses you authorize
+      type: select_multiple
+      options:
+      - Educational Use
+      - Research Presentation
+      - Public Website
+      - Social Media
+      - Not for Public Release
+      required: true
+    - id: 13
+      name: recording_consent
+      label: Consent to be recorded
+      hint: null
+      type: select_one
+      options:
+      - I give my consent
+      - I do not give my consent
+      required: true
+    - id: 14
+      name: name_use_preference
+      label: Use of Name
+      hint: How would you like to be identified
+      type: select_one
+      options:
+      - Use my real name
+      - Use a pseudonym
+      - Keep me anonymous
+      required: true
+    - id: 15
+      name: terms_agreement
+      label: Agreement to Terms
+      hint: I confirm that I am at least 18 years of age or have parental consent
+      type: select_one
+      options:
+      - I agree to the terms of the study
+      - I do not agree
+      required: true
+    - id: 16
+      name: signature_date
+      label: Confirmation Date
+      hint: Date of signing this consent form
+      type: date
+      options: []
+      required: true

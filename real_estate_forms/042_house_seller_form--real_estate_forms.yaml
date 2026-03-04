@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Seller Form
+    pages:
+    - id: 1
+      name: house_details
+      label: House Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: price_range
+      label: price
+      hint: Enter price of the house
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Condo
+      - Townhouse
+      required: false
+    - id: 7
+      name: property_size
+      label: Property Size
+      hint: null
+      type: select_one
+      options:
+      - 1-500 sqft
+      - 501-1000 sqft
+      - 1001-2000 sqft
+      required: false
+    - id: 8
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Sold
+      required: false

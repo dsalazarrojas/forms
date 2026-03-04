@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unit Inspection Form
+    pages:
+    - id: 1
+      name: unit_inspection_form
+      label: Rental Unit Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_in_date
+      label: Move-in Date
+      hint: Date of move-in
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: move_out_date
+      label: Move-out Date
+      hint: Date of move-out
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tenant_name
+      label: Tenant Name
+      hint: Name of the tenant
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_contact
+      label: Tenant Contact
+      hint: Contact information for the tenant
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: building_name
+      label: Building Name
+      hint: Name of the building
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: unit_condition
+      label: Unit Condition
+      hint: Brief description of the unit's current condition
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: damages_found
+      label: Damage Found
+      hint: List any damages or defects found
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: repairs_needed
+      label: Repairs Needed
+      hint: List repairs needed for the unit
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: landlord_date
+      label: Landlord Date
+      hint: Date completed by landlord
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: property_manager
+      label: Property Manager
+      hint: Name of the property manager
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_manager_contact
+      label: Property Manager Contact
+      hint: Contact information for the property manager
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: move_in_condition
+      label: Move-in Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Normal
+      - Dirty
+      required: false
+    - id: 18
+      name: move_out_condition
+      label: Move-out Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Normal
+      - Dirty
+      - Partially Clean
+      - Partially Dirty
+      required: false
+    - id: 19
+      name: damages
+      label: Damage
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Major
+      required: false
+    - id: 20
+      name: damage_type
+      label: Damage Type
+      hint: Type of damage found
+      type: select_multiple
+      options:
+      - Minor
+      - Moderate
+      - Major
+      - Other
+      required: false
+    - id: 21
+      name: cause_of_damage
+      label: Cause of Damage
+      hint: Cause of the damage
+      type: select_multiple
+      options:
+      - Minor
+      - Moderate
+      - Major
+      - Other
+      required: false
+    - id: 22
+      name: damage_level
+      label: Damage Level
+      hint: Level of damage
+      type: select_multiple
+      options:
+      - Minor
+      - Moderate
+      - Major
+      required: false
+    - id: 23
+      name: repairs_cost
+      label: Repairs Cost
+      hint: Cost of repairs
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: repairs_status
+      label: Repairs Status
+      hint: Status of repairs
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      - Deferred
+      required: false
+    - id: 25
+      name: completed_by
+      label: Completed By
+      hint: Completed by
+      type: select_one
+      options:
+      - Property Manager
+      - Landlord
+      - Other
+      required: false

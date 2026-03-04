@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furnished Rental Property Inventory And Condition Form
+    pages:
+    - id: 1
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: current_occupancy_status
+      label: current_occupancy_status
+      hint: null
+      type: select_one
+      options:
+      - Landlord
+      - Tenant
+      - Vacant
+      required: true
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Off Market
+      required: true
+    - id: 6
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: utilities
+      label: utilities
+      hint: null
+      type: select_multiple
+      options:
+      - electricity
+      - gas
+      - water
+      - internet
+      - cable
+      required: true
+    - id: 11
+      name: condition
+      label: condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: select_one
+      options:
+      - Property Manager 1
+      - Property Manager 2
+      required: true
+    - id: 18
+      name: property_status_notes
+      label: property_status_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: condition_notes
+      label: condition_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: contact_notes
+      label: contact_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: notes_for_property_owner
+      label: notes_for_property_owner
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: utilities_notes
+      label: utilities_notes
+      hint: null
+      type: note
+      options: []
+      required: true

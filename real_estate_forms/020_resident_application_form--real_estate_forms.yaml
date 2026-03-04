@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resident Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': ''State 1'', ''value'': ''State 1''}'
+      - '{''id'': 7.2, ''label'': ''State 2'', ''value'': ''State 2''}'
+      - '{''id'': 7.3, ''label'': ''State 3'', ''value'': ''State 3''}'
+      - '{''id'': 7.4, ''label'': ''State 4'', ''value'': ''State 4''}'
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rent_date
+      label: Rent Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: move_in_date
+      label: Move-In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: move_out_date
+      label: Move-Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13.1, ''label'': ''Bi-Weekly'', ''value'': ''Bi-Weekly''}'
+      - '{''id'': 13.2, ''label'': ''Monthly'', ''value'': ''Monthly''}'
+      - '{''id'': 13.3, ''label'': ''Quarterly'', ''value'': ''Quarterly''}'
+      - '{''id'': 13.4, ''label'': ''Annually'', ''value'': ''Annually''}'
+      required: false
+    - id: 14
+      name: rent_start_date
+      label: Rent Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: move_in_location
+      label: Move-In Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: move_in_type
+      label: Move-In Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 17.1, ''label'': ''Single'', ''value'': ''Single''}'
+      - '{''id'': 17.2, ''label'': ''Double'', ''value'': ''Double''}'
+      - '{''id'': 17.3, ''label'': ''Triple'', ''value'': ''Triple''}'
+      - '{''id'': 17.4, ''label'': ''Fourplex'', ''value'': ''Fourplex''}'
+      required: false
+    - id: 18
+      name: move_in_floor
+      label: Move-In Floor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: move_in_elevator
+      label: Move-In Elevator
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 19.1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 19.2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 20
+      name: move_out_floor
+      label: Move-Out Floor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: move_out_elevator
+      label: Move-Out Elevator
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21.1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 21.2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 22
+      name: rent_status
+      label: Rent Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 22.1, ''label'': ''Paid'', ''value'': ''Paid''}'
+      - '{''id'': 22.2, ''label'': ''Pending'', ''value'': ''Pending''}'
+      - '{''id'': 22.3, ''label'': ''Not Paid'', ''value'': ''Not Paid''}'
+      required: false
+    - id: 23
+      name: rent_type
+      label: Rent Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 23.1, ''label'': ''Leased'', ''value'': ''Leased''}'
+      - '{''id'': 23.2, ''label'': ''Month-to-Month'', ''value'': ''Month-to-Month''}'
+      - '{''id'': 23.3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 24
+      name: renter_type
+      label: Renter Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 24.1, ''label'': ''Individual'', ''value'': ''Individual''}'
+      - '{''id'': 24.2, ''label'': ''Couple'', ''value'': ''Couple''}'
+      - '{''id'': 24.3, ''label'': ''Family'', ''value'': ''Family''}'
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

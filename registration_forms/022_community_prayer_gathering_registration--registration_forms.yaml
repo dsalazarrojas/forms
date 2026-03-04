@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Prayer Gathering Registration
+    pages:
+    - id: 1
+      name: attendee_info
+      label: Attendee Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: gathering_info
+      label: Gathering Information
+      hint: Details about your attendance
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: gathering_name
+      label: Prayer Gathering Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: gathering_date
+      label: Gathering Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: gathering_time
+      label: Gathering Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: gathering_location
+      label: Gathering Location
+      hint: Where will it be held
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: attendance_type
+      label: Attendance Type
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual/Online
+      - Both
+      required: true
+    - id: 16
+      name: party_size
+      label: Total Number in Your Party
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: children_attending
+      label: Number of Children Attending
+      hint: Under 12 years old
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: childcare_needed
+      label: Do You Need Childcare Services
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: prayer_request
+      label: Do You Have a Prayer Request
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Share
+      required: false
+    - id: 20
+      name: prayer_request_details
+      label: Prayer Request Details
+      hint: Share your request
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_interest
+      label: Would You Like to Volunteer
+      hint: Help with the gathering
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 22
+      name: volunteer_roles
+      label: Volunteer Roles of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Setup
+      - Greeting
+      - Childcare
+      - Food Service
+      - Cleanup
+      - Technical Support
+      - Prayer Ministry
+      - Music Ministry
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: If meals are provided
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: how_heard
+      label: How Did You Hear About This Gathering
+      hint: null
+      type: select_one
+      options:
+      - Church Announcement
+      - Social Media
+      - Friend or Family
+      - Email Newsletter
+      - Website
+      - Flyer
+      - Other
+      required: false
+    - id: 27
+      name: first_time
+      label: Is This Your First Time Attending
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments or Requests
+      hint: null
+      type: text
+      options: []
+      required: false

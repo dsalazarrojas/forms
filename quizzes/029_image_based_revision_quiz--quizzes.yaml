@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: image_based_revision_quiz
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_question
+      label: Quiz Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: correct_answer
+      label: Correct Answer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: user_answer
+      label: User Answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submit_answer
+      label: Submit Answer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Save''}'
+      required: true
+    - id: 6
+      name: saved_quiz
+      label: Saved Quiz
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: quiz_results
+      label: Quiz Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: quiz_description
+      label: Quiz Description
+      hint: null
+      type: text
+      options: []
+      required: true

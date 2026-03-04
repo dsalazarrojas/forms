@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rain Coat Recommendation Quiz
+    pages:
+    - id: 1
+      name: rain_coat_preferences
+      label: What kind of activities do you usually do in the rain?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rain_coat_activity_time
+      label: How much time do you spend outdoors during rainy activities?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rain_coat_temperature
+      label: What's your average body temperature?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rain_coat_rain_intensity
+      label: What's your comfort level with heavy rain?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rain_coat_wind
+      label: What's your tolerance for wind?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rain_coat_water_resistance
+      label: What's your preference for water resistance?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rain_coat_weight
+      label: How important is weight to you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rain_coat_style
+      label: What style of raincoat are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: rain_coat_color
+      label: What color is your favorite?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: rain_coat_size
+      label: What size are you?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: rain_coat_budget
+      label: How much are you willing to spend?
+      hint: null
+      type: number
+      options: []
+      required: true

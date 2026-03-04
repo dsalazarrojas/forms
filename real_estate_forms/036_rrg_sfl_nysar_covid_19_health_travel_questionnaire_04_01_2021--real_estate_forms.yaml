@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: RRG_SFL_NYSAR_COVID_19_Health_Travel_Questionnaire_04_01_2021
+    pages:
+    - id: 1
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: have_fever
+      label: Have you had a fever
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: traveled_outside_us
+      label: Traveled outside of US
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: have_symptoms
+      label: Have you experienced any symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: close_contact
+      label: Close contact with a confirmed COVID-19 case
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: test_result
+      label: Test result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: quarantined
+      label: Have you been quarantined
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: health_care_provider
+      label: Health care provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: contact_info
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: test_result_issuer
+      label: Who issued your test result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: test_date
+      label: Test date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: travel_date
+      label: Travel date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: travel_destination
+      label: Where did you travel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: travel_duration
+      label: How long did you travel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: travel_type
+      label: Type of travel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: travel_purpose
+      label: Purpose of travel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: contact_name
+      label: Contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: have_health_condition
+      label: Have you a health condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: health_condition
+      label: Health condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: have_vaccinated
+      label: Have you been vaccinated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: vaccine_type
+      label: Type of vaccine
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

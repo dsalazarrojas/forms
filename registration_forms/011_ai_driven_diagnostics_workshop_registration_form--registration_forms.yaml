@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Driven Diagnostics Workshop Registration Form
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: --- Participant Information ---
+      hint: Please provide your professional details for registration.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_email
+      label: Professional Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: professional_title
+      label: Professional Title / Credentials
+      hint: e.g., MD, PhD, Research Fellow
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: affiliation_organization
+      label: Affiliation / Organization
+      hint: Hospital, University, or Laboratory Name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_specialty
+      label: Medical Specialty / Field of Study
+      hint: null
+      type: select_one
+      options:
+      - label: Radiology
+        value: radiology
+      - label: Pathology
+        value: pathology
+      - label: Cardiology
+        value: cardiology
+      - label: Oncology
+        value: oncology
+      - label: Neurology
+        value: neurology
+      - label: Bioinformatics
+        value: bioinformatics
+      - label: General Practice
+        value: general_practice
+      - label: Other
+        value: other
+      required: true
+    - id: 7
+      name: ai_expertise_header
+      label: --- AI & Technical Background ---
+      hint: This helps us tailor the workshop difficulty.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ai_knowledge_level
+      label: Current Level of AI Knowledge
+      hint: null
+      type: select_one
+      options:
+      - label: Beginner (No previous exposure)
+        value: beginner
+      - label: Basic (Understand concepts, no coding)
+        value: basic
+      - label: Intermediate (Can run models/scripts)
+        value: intermediate
+      - label: Advanced (Developing/training models)
+        value: advanced
+      required: true
+    - id: 9
+      name: coding_proficiency
+      label: Programming Proficiency (Python/R)
+      hint: null
+      type: select_one
+      options:
+      - label: None
+        value: none
+      - label: Basic (Read/modify code)
+        value: basic
+      - label: Proficient (Write scripts)
+        value: proficient
+      - label: Expert (Package development)
+        value: expert
+      required: true
+    - id: 10
+      name: workshop_logistics_header
+      label: --- Workshop Logistics ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workshop_date_preference
+      label: Preferred Workshop Date
+      hint: Select from available sessions.
+      type: select_one
+      options:
+      - label: Session A: March 15-16, 2026
+        value: session_a
+      - label: Session B: April 05-06, 2026
+        value: session_b
+      required: true
+    - id: 12
+      name: attendance_mode
+      label: Attendance Format
+      hint: null
+      type: select_one
+      options:
+      - label: In-Person (On-site Lab)
+        value: in_person
+      - label: Virtual (Live Stream + Remote VM)
+        value: virtual
+      required: true
+    - id: 13
+      name: hardware_requirements
+      label: Hardware Needs
+      hint: Will you bring your own laptop?
+      type: select_one
+      options:
+      - label: Yes, I will bring my own device
+        value: byod
+      - label: No, I request a loaner workstation (On-site only)
+        value: loaner
+      required: true
+    - id: 14
+      name: motivation_for_joining
+      label: Motivation for Joining
+      hint: What specific diagnostic challenge do you hope to address with AI?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: certificate_required
+      label: Do you require a Certificate of Completion?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes
+        value: yes
+      - label: No
+        value: no
+      required: true
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Restrictions (In-person only)
+      hint: null
+      type: select_multiple
+      options:
+      - label: None
+        value: none
+      - label: Vegetarian
+        value: vegetarian
+      - label: Vegan
+        value: vegan
+      - label: Gluten-Free
+        value: gluten_free
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Any other special requirements or accommodations?
+      hint: null
+      type: text
+      options: []
+      required: false

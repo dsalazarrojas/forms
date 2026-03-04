@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Removals Quote Form
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: removal_details
+      label: Removal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: removal_date
+      label: Removal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: removal_services
+      label: Removal Services
+      hint: null
+      type: select_multiple
+      options:
+      - Furniture Removals
+      - Furniture Packing
+      - Furniture Disposal
+      required: true
+    - id: 8
+      name: extra_services
+      label: Extra Services
+      hint: null
+      type: select_multiple
+      options:
+      - Wash
+      - Dry Cleaning
+      - Laundry
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mixed Use Property Development Application Form
+    pages:
+    - id: 1
+      name: mixed_use_property_development_application_form_page_1
+      label: Property Development Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mixed_use_property_development_application_form_page_2
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mixed_use_property_development_application_form_page_3
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mixed_use_property_development_application_form_page_4
+      label: Review and Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_development_questions
+      label: Property Development Questions
+      hint: What is the purpose of the property development?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Residential''}'
+      - '{''id'': 2, ''label'': ''Commercial''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Enter property address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_location
+      label: Project Location
+      hint: Enter project location
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_size
+      label: Project Size
+      hint: Enter project size
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: project_timeframe
+      label: Project Timeframe
+      hint: Enter project timeframe
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_manager_name
+      label: Property Manager Name
+      hint: Enter property manager name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_manager_email
+      label: Property Manager Email
+      hint: Enter property manager email
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: Enter property manager phone number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: project_status_notes
+      label: Project Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Questionnaire
+    pages:
+    - id: 1
+      name: general_info
+      label: general info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenant_preferences
+      label: tenant preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lease_term
+      label: lease term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: security_deposit
+      label: security deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: move_in_date
+      label: move in date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_out_date
+      label: move out date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rental_income
+      label: rental income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rent_frequency
+      label: rent frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - weekly
+      required: false
+    - id: 11
+      name: rent_frequency
+      label: rent frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: move_in_date
+      label: move in date
+      hint: null
+      type: select_one
+      options:
+      - 1/1/2024
+      - 2/1/2024
+      required: false
+    - id: 13
+      name: lease_end_date
+      label: lease end date
+      hint: null
+      type: select_multiple
+      options:
+      - 1/1/2024
+      - 2/1/2024
+      required: false
+    - id: 14
+      name: lease_status
+      label: lease status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 15
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

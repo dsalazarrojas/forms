@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Feedback Form
+    pages:
+    - id: 1
+      name: tenant_feedback_form_1
+      label: what_is_your_rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: what_do_you_like_most
+      hint: null
+      type: select_multiple
+      options:
+      - Rent and Utilities
+      - Property Management
+      - Communication
+      required: true
+    - id: 3
+      name: feedback_question_2
+      label: what_do_you_dont_like
+      hint: null
+      type: select_one
+      options:
+      - Not enough parking
+      - No amenities
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: tenant_feedback
+      label: any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_rating
+      label: rate_your_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: submit_form
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group History Day Registration
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organizer
+      label: Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: special_requirements
+      label: Special Requirements
+      hint: Please specify any special requirements for your session
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_club_group
+      label: School, Club, or Group
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Club
+      - Community Group
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: required_documents
+      label: Required Documents
+      hint: null
+      type: select_multiple
+      options:
+      - ID
+      - Passport
+      - Insurance Card
+      - Driver's License
+      - Birth Certificate
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

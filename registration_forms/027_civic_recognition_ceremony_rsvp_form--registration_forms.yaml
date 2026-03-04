@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Recognition Ceremony RSVP Form
+    pages:
+    - id: 1
+      name: guest_details_header
+      label: -- Guest Information --
+      hint: Please RSVP by the date specified in your invitation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: invitation_connection
+      label: You are attending as...
+      hint: null
+      type: select_one
+      options:
+      - An Award Recipient
+      - A Guest of an Award Recipient
+      - Community Partner/Sponsor
+      - Government Representative
+      - Volunteer/Staff
+      required: true
+    - id: 6
+      name: rsvp_status
+      label: Will you be attending the ceremony?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I am unable to attend
+      required: true
+    - id: 7
+      name: additional_guests_count
+      label: Number of additional guests (if permitted)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meal_selection_header
+      label: -- Catering and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_meal_preference
+      label: Meal Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard (Chicken/Beef)
+      - Vegetarian
+      - Vegan
+      - Halal/Kosher
+      required: true
+    - id: 10
+      name: food_allergies
+      label: Please list any severe food allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accessibility_needs
+      label: Do you require any accessibility accommodations? (e.g., wheelchair access,
+        ASL)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: award_recognition_mention
+      label: If an awardee - How would you like your name to appear in the program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_release_rsvp
+      label: I consent to being photographed at the event
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Wide Chapter Registration
+    pages:
+    - id: 1
+      name: chapter_info_header
+      label: -- Chapter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: chapter_name
+      label: Chapter Name
+      hint: Official name of your local chapter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: chapter_id
+      label: Chapter ID or Number
+      hint: If previously assigned
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: chapter_founded_date
+      label: Chapter Founded Date
+      hint: When was this chapter established
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: leadership_header
+      label: -- Leadership Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: chapter_president
+      label: Chapter President or Director Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: president_email
+      label: President Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: president_phone
+      label: President Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vice_president
+      label: Vice President or Co-Director Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vice_president_email
+      label: Vice President Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: treasurer_name
+      label: Treasurer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: treasurer_email
+      label: Treasurer Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_header
+      label: -- Contact and Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: chapter_phone
+      label: Chapter Office Phone
+      hint: Main contact number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: chapter_email
+      label: Chapter Email Address
+      hint: Main contact email
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: chapter_website
+      label: Chapter Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: membership_count
+      label: Current Active Members
+      hint: Approximate number
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: How often does the chapter meet
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As needed
+      - Other
+      required: false
+    - id: 21
+      name: primary_activities
+      label: Primary Activities and Focus Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: partner_organizations
+      label: Key Partner Organizations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_contacts
+      label: Additional Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

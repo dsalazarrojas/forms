@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Repair Service Quote Form
+    pages:
+    - id: 1
+      name: requestor_details_header
+      label: -- Requestor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: To receive your estimate
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: For follow up questions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_details
+      label: Vehicle Make, Model, and Year
+      hint: e.g. 2012 Honda Civic
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vin
+      label: VIN
+      hint: 17-digit Vehicle ID
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quote_request_header
+      label: -- Quote Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: services_requested
+      label: Services Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Oil Change
+      - Brake Pad Replacement
+      - Tire Rotation
+      - Timing Belt
+      - Engine Repair
+      - Other
+      required: true
+    - id: 10
+      name: symptoms_requests
+      label: Specific Symptoms or Requests
+      hint: Describe what is wrong with the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: Requested date for the repair
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: logistics_preference
+      label: Drop-off or Wait Preference
+      hint: How do you plan to manage the service?
+      type: select_one
+      options:
+      - Drop-off
+      - Wait at Shop
+      - Shuttle Needed
+      required: true
+    - id: 13
+      name: budget_range
+      label: Budget Range (Optional)
+      hint: Helps us provide appropriate options
+      type: text
+      options: []
+      required: false

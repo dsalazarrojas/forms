@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: meal_prep_challenge_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_ation_goal
+      label: Participant Pre-Game Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: goal_duration
+      label: Goal Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: weight_goal
+      label: Weight Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: meal_frequency
+      label: Meal Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Most Days
+      - Some Days
+      - Rarely
+      - Never
+      required: true
+    - id: 8
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: coach_phone
+      label: Coach Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_diet
+      label: Participant Diet
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Low-Carb
+      - Gluten-Free
+      - Omnivore
+      - Keto
+      - Omnivore/Low-Carb
+      required: true
+    - id: 12
+      name: participant_allergies
+      label: Participant Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_medical_conditions
+      label: Participant Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_ingredients
+      label: Participant Ingredients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coach_ation_approach
+      label: Coach Approach
+      hint: null
+      type: select_one
+      options:
+      - Macro
+      - Meal Planning
+      - Mindful Eating
+      - Portion Control
+      - Mindful Eating/Macro
+      - Macro/Portion Control
+      required: false
+    - id: 16
+      name: coach_approach_other
+      label: Coach Approach Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coach_diet
+      label: Coach Diet
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Low-Carb
+      - Gluten-Free
+      - Omnivore
+      - Omnivore/Low-Carb
+      required: false
+    - id: 18
+      name: coach_ingredients
+      label: Coach Ingredients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_medical_conditions
+      label: Coach Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: coach_experience
+      label: Coach Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coach_education
+      label: Coach Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: coach_licenses
+      label: Coach Licenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_dietary_restrictions
+      label: Participant Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_ingredients_restrictions
+      label: Participant Ingredients Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_special_requests
+      label: Participant Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

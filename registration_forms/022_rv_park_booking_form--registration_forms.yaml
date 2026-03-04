@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: rv park booking form
+    pages:
+    - id: 1
+      name: park_info
+      label: Park Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: park_guest_info
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dates
+      label: Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: spot_type
+      label: Spot Type
+      hint: null
+      type: select_one
+      options:
+      - -ประก -RV -Motorhome -Trailer
+      - Other
+      required: false
+    - id: 5
+      name: spot_size
+      label: Spot Size
+      hint: null
+      type: select_one
+      options:
+      - -Small -Medium -Large -XL
+      - Other
+      required: false
+    - id: 6
+      name: park_name
+      label: Park Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: spot_location
+      label: Spot Location
+      hint: null
+      type: select_multiple
+      options:
+      - -Row 1 -Row 2 -Row 3 -Row 4 -Row 5
+      - Other
+      required: false
+    - id: 13
+      name: spot_number
+      label: Spot Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - -Wi-Fi -Pet-friendly -No Smoking
+      - Other
+      required: false
+    - id: 16
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: departure
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: park_rules
+      label: Park Rules
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: park_rating
+      label: Park Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: guest_rating
+      label: Guest Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: comments_guest
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: park_service
+      label: Park Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: park_contact_number
+      label: Park Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guest_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

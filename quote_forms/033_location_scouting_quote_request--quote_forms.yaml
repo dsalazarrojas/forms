@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Location Scouting Quote Request
+    pages:
+    - id: 1
+      name: location_scouting_quote_request_page_1
+      label: Quote Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_info_page_1
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_contact_info_page_1
+      label: Customer Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_scouting_info_page_1
+      label: Location Scouting Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_requirements_page_1
+      label: Project Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_team_page_1
+      label: Production Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit_quote_page_1
+      label: Submit Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_quote_confirmation_page_1
+      label: Quote Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

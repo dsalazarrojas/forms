@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Conference Registration Form
+    pages:
+    - id: 1
+      name: header_attendee
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For conference updates and digital materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_church
+      label: Home Church / Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position_role
+      label: Role/Position
+      hint: e.g., Senior Pastor, Youth Leader, Lay Member, Deacon
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: header_registration
+      label: -- Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: Select the one that applies
+      type: select_one
+      options:
+      - Full Conference ($125)
+      - One Day Pass ($50)
+      - Student/Senior ($75)
+      - Volunteer (No Charge)
+      required: true
+    - id: 9
+      name: session_selection
+      label: Preferred Breakout Sessions
+      hint: Select up to three topics of interest
+      type: select_multiple
+      options:
+      - Modern Worship Trends
+      - Community Outreach Strategies
+      - Effective Youth Ministry
+      - Church Finance and Growth
+      - Global Missions
+      - Leadership Development
+      required: true
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements for Provided Lunch
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - Nut Allergy
+      - Dairy Free
+      required: true
+    - id: 11
+      name: header_accommodation
+      label: -- Travel and Accommodation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: hotel_needed
+      label: Do you require hotel recommendation/booking info?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Send hotel list
+      - No - Already booked
+      - No - Local resident
+      required: true
+    - id: 13
+      name: accessibility_needs
+      label: Specific Accessibility Needs
+      hint: e.g., Wheelchair access, sign language interpretation
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_source
+      label: How did you hear about this conference?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email Invitation
+      - Word of Mouth
+      - Worship Bulletin
+      - denominational Newsletter
+      required: false
+    - id: 15
+      name: special_requests
+      label: Other Comments or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agreement_terms
+      label: I agree to the conference terms and cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

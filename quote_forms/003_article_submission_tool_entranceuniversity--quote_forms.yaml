@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Article Submission Tool EntranceUniversity
+    pages:
+    - id: 1
+      name: author_name
+      label: Author Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: author_email
+      label: Author Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: author_affiliation
+      label: Author Affiliation or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: article_title
+      label: Article Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: article_category
+      label: Article Category
+      hint: null
+      type: select_one
+      options:
+      - Education
+      - Technology
+      - Research
+      - Opinion
+      - Tutorial
+      - News
+      - Other
+      required: true
+    - id: 6
+      name: article_keywords
+      label: Keywords or Tags
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: article_summary
+      label: Article Summary
+      hint: Brief overview of content
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: article_file
+      label: Article Document
+      hint: Upload your article file
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: article_length
+      label: Approximate Word Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: publication_rights
+      label: Original Work - Not Previously Published
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Under Review Elsewhere
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      required: false
+    - id: 14
+      name: author_bio
+      label: Author Biography
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: paint_formulation_knowledge_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: paint_type
+      label: paint_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Waterborne''}'
+      - '{''id'': 2, ''label'': ''Solventborne''}'
+      - '{''id'': 3, ''label'': ''Solventless''}'
+      - '{''id'': 4, ''label'': ''High-Pressure''}'
+      - '{''id'': 5, ''label'': ''Powder''}'
+      - '{''id'': 6, ''label'': ''Powder Coating''}'
+      required: false
+    - id: 3
+      name: binder_selection
+      label: binder_selection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Resin''}'
+      - '{''id'': 2, ''label'': ''Latex''}'
+      - '{''id'': 3, ''label'': ''Alkyd''}'
+      - '{''id'': 4, ''label'': ''Epoxy''}'
+      - '{''id'': 5, ''label'': ''Acrylic''}'
+      - '{''id'': 6, ''label'': ''Polyester''}'
+      - '{''id'': 7, ''label'': ''Urethane''}'
+      - '{''id'': 8, ''label'': ''Urethane/Alkyd''}'
+      - '{''id'': 9, ''label'': ''Polyurethane''}'
+      - '{''id'': 10, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: solvent_selection
+      label: solvent_selection
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Solvent''}'
+      - '{''id'': 2, ''label'': ''Water''}'
+      - '{''id'': 3, ''label'': ''Organic''}'
+      required: false
+    - id: 5
+      name: filler_selection
+      label: filler_selection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Silica''}'
+      - '{''id'': 2, ''label'': ''Calcium Carbonate''}'
+      - '{''id'': 3, ''label'': ''Talc''}'
+      - '{''id'': 4, ''label'': ''Silica/Silica''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: colorants_selection
+      label: colorants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pigments''}'
+      - '{''id'': 2, ''label'': ''Dyes''}'
+      - '{''id'': 3, ''label'': ''Interlayers''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      - '{''id'': 5, ''label'': ''Pint''}'
+      required: false
+    - id: 7
+      name: finish_selection
+      label: finish
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Matte''}'
+      - '{''id'': 2, ''label'': ''Gloss''}'
+      - '{''id'': 3, ''label'': ''Semi Gloss''}'
+      required: false
+    - id: 8
+      name: pigment_selection
+      label: pigment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Titanium Dioxide''}'
+      - '{''id'': 2, ''label'': ''Iron Oxide''}'
+      - '{''id'': 3, ''label'': ''Carbon Black''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: primer_selection
+      label: primer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 10, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 10
+      name: filler_ratio
+      label: filler ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: colorants_ratio
+      label: colorants ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: color_value
+      label: color value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: filler_value
+      label: filler value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: gloss_level
+      label: gloss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: thickness
+      label: thickness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: temperature
+      label: temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: finish_type
+      label: finish type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Matt''}'
+      - '{''id'': 2, ''label'': ''Semi-gloss''}'
+      - '{''id'': 3, ''label'': ''High-Gloss''}'
+      required: false
+    - id: 18
+      name: paint_type
+      label: paint type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Waterborne''}'
+      - '{''id'': 2, ''label'': ''Solventborne''}'
+      - '{''id'': 3, ''label'': ''Solventless''}'
+      - '{''id'': 4, ''label'': ''High-Pressure''}'
+      - '{''id'': 5, ''label'': ''Powder''}'
+      required: false
+    - id: 19
+      name: finish
+      label: finish
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Matte''}'
+      - '{''id'': 2, ''label'': ''Gloss''}'
+      - '{''id'': 3, ''label'': ''Semi-gloss''}'
+      required: false
+    - id: 20
+      name: colorants
+      label: colorants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pigments''}'
+      - '{''id'': 2, ''label'': ''Dyes''}'
+      - '{''id'': 3, ''label'': ''Interlayers''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: other_info
+      label: other info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission
+      label: submission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 23
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_info
+      label: submitter info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_name
+      label: submitter name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Research Participant Onboarding Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: availability_details
+      label: Availability Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: university_details
+      label: University Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false

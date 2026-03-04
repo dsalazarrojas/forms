@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Closing Property Information Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: Complete street address of the property
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: city_state_zip
+      label: City, State and ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: Select the type of property
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Multi-Unit
+      - Commercial
+      - Other
+      required: true
+    - id: 4
+      name: sale_price
+      label: Sale Price
+      hint: Total agreed upon sale price
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: seller_name
+      label: Seller Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: seller_phone
+      label: Seller Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: seller_email
+      label: Seller Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: closing_date
+      label: Scheduled Closing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: square_footage
+      label: Square Footage
+      hint: Total living area
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: mortgage_status
+      label: Mortgage Status
+      hint: Is there an existing mortgage
+      type: select_one
+      options:
+      - Free and Clear
+      - Active Mortgage
+      - Loan Assumption
+      required: true
+    - id: 14
+      name: special_conditions
+      label: Special Conditions or Disclosures
+      hint: Any known issues or conditions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspection_completed
+      label: Has Inspection Been Completed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: false

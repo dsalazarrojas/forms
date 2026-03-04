@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_treatment_quote_approval_form
+    pages:
+    - id: 1
+      name: quote
+      label: Quote
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: treatment_plans
+      label: Treatment Plans
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: insurance_details
+      label: Insurance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_approval
+      label: Patient Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: office_approval
+      label: Office Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: insurance_approval
+      label: Insurance Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: quote_approval
+      label: Quote Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: approval_note
+      label: Approval Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: quote_status
+      label: Quote Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: office_signature
+      label: Office Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: approved_by_title
+      label: Approved By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_details
+      label: Billing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: office_address
+      label: Office Address
+      hint: null
+      type: text
+      options: []
+      required: false

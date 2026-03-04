@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Appraisal Checklist Form
+    pages:
+    - id: 1
+      name: exterior_features
+      label: Exterior Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roof_condition
+      label: roof condition
+      hint: null
+      type: select_one
+      options:
+      - Asphalt
+      - Clay-Tile
+      - Composite
+      - Metal
+      - None
+      - Other
+      - Slate
+      - Wood
+      required: false
+    - id: 3
+      name: foundation_type
+      label: foundation type
+      hint: null
+      type: select_one
+      options:
+      - Concrete
+      - Gravel
+      - Sand
+      required: false
+    - id: 4
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_bedrooms
+      label: Number Of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_bathrooms
+      label: Number Of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_levels
+      label: Number Of Levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: garage_parking
+      label: Garage Parking
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 11
+      name: pool
+      label: Pool
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: fireplaces
+      label: Fireplaces
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: basement
+      label: Basement
+      hint: null
+      type: select_one
+      options:
+      - Finished
+      - Partial
+      - None
+      required: false
+    - id: 14
+      name: has_septic_system
+      label: Has Septic System
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: has_wells
+      label: Has Wells
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false

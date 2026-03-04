@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: house_painting_estimate_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_address
+      label: Job Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: estimate_date
+      label: Estimate Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: painter_name
+      label: Painter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: painting_services
+      label: Painting Services
+      hint: null
+      type: select_multiple
+      options:
+      - Exterior
+      - Interior
+      - Trim
+      - Doors
+      required: false
+    - id: 9
+      name: painting_color
+      label: Painting Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: painting_size
+      label: Painting Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: estimate_price
+      label: Estimate Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: accepted_estimate
+      label: Accepted Estimate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

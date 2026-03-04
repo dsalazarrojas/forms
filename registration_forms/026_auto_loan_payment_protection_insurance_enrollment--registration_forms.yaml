@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Loan Payment Protection Insurance Enrollment
+    pages:
+    - id: 1
+      name: primary_borrower_header
+      label: -- Primary Borrower Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: borrower_full_name
+      label: Borrower Full Name
+      hint: Legal name as it appears on the loan agreement
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_account_number
+      label: Loan Account Number
+      hint: Your unique loan identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: borrower_email
+      label: Borrower Email
+      hint: For enrollment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: borrower_phone
+      label: Borrower Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: co_applicant_header
+      label: -- Co-Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: co_applicant_full_name
+      label: Co-Applicant Full Name
+      hint: Leave blank if no co-applicant
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: co_applicant_email
+      label: Co-Applicant Email
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: coverage_selection_header
+      label: -- Coverage Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: coverage_type
+      label: Coverage Type
+      hint: Select the level of payment protection
+      type: select_one
+      options:
+      - Life and Disability
+      - Life Only
+      - Involuntary Unemployment
+      - Full Protection Bundle
+      required: true
+    - id: 11
+      name: monthly_benefit_amount
+      label: Monthly Benefit Amount
+      hint: Requested protection amount
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: coverage_premium_monthly
+      label: Monthly Coverage Premium
+      hint: Premium added to your loan payment
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: enrollment_effective_date
+      label: Enrollment Effective Date
+      hint: When coverage is set to begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: auth_signature_header
+      label: -- Authorization and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm_eligibility
+      label: I confirm I am currently employed and meet all eligibility criteria
+      hint: Verification of eligibility
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: authorize_premium_billing
+      label: Authorize Premium Billing
+      hint: Add the premium to my monthly loan payment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: electronic_signature_consent
+      label: Electronic Signature Consent
+      hint: I agree to use an electronic signature for this enrollment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

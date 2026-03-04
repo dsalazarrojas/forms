@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: CaraM Commercial Real Estate Inquiry
+    pages:
+    - id: 1
+      name: client_information
+      label: -- CLIENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_type
+      label: Type of business or organization
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Office
+      - Industrial
+      - Warehouse
+      - Restaurant
+      - Medical
+      - Other Service
+      - Multiple Uses
+      required: false
+    - id: 7
+      name: property_requirements
+      label: -- PROPERTY REQUIREMENTS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Desired property type
+      hint: null
+      type: select_one
+      options:
+      - Office Space
+      - Retail Space
+      - Industrial Building
+      - Warehouse
+      - Medical Facility
+      - Restaurant Space
+      - Mixed-Use
+      - Land
+      - Custom Facility
+      required: true
+    - id: 9
+      name: location_preference
+      label: Preferred location or area
+      hint: City, neighborhood, or region
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: square_footage_needed
+      label: Required square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: minimum_sq_ft
+      label: Minimum square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: maximum_sq_ft
+      label: Maximum square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: special_requirements
+      label: Special requirements or features needed
+      hint: Parking, accessibility, outdoor space, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: financial_information
+      label: -- FINANCIAL INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: budget_range
+      label: Budget range for monthly rent or purchase
+      hint: null
+      type: select_one
+      options:
+      - Under 2000
+      - 2000-5000
+      - 5000-10000
+      - 10000-20000
+      - 20000-50000
+      - 50000+
+      - Flexible
+      required: true
+    - id: 16
+      name: financing_method
+      label: Financing method preferred
+      hint: null
+      type: select_one
+      options:
+      - Cash Purchase
+      - Mortgage Financing
+      - Lease
+      - Loan
+      - Other
+      required: false
+    - id: 17
+      name: down_payment_available
+      label: Down payment available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: credit_score_range
+      label: Approximate credit score range
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Sure
+      - Prefer Not to Share
+      required: false
+    - id: 19
+      name: timeline
+      label: -- TIMELINE AND PREFERENCES --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: move_in_timeline
+      label: When do you need to occupy the space?
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - No Rush
+      required: true
+    - id: 21
+      name: lease_term
+      label: Preferred lease term
+      hint: null
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      - 10 Years
+      - Flexible
+      - Purchase Only
+      required: false
+    - id: 22
+      name: growth_plans
+      label: Do you anticipate needing more space in the future?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Possibly
+      - false
+      - Not Sure
+      required: false
+    - id: 23
+      name: expansion_timeline
+      label: Expansion timeline (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: business_details
+      label: Brief description of your business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Any additional information or questions?
+      hint: null
+      type: text
+      options: []
+      required: false

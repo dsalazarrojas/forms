@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_continuing_education_recording_consent
+    pages:
+    - id: 1
+      name: consent
+      label: Recording Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Educator
+      - Speaker
+      - Attendee
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_contact_info
+      label: Other Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

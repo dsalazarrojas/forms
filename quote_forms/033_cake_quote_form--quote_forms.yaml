@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Quote Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quote_date
+      label: Quote Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When is your event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: What occasion
+      type: select_one
+      options:
+      - Wedding
+      - Corporate event
+      - Birthday
+      - Anniversary
+      - Graduation
+      - Holiday party
+      - Other
+      required: true
+    - id: 8
+      name: number_of_people
+      label: Number of People to Serve
+      hint: Approximate guest count
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: cake_shape
+      label: Cake Shape
+      hint: Preferred shape
+      type: select_one
+      options:
+      - Round
+      - Square
+      - Rectangular
+      - Heart
+      - Custom
+      - Tiered
+      - Not sure
+      required: true
+    - id: 10
+      name: cake_flavor
+      label: Cake Flavor
+      hint: Preferred flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Lemon
+      - Strawberry
+      - Carrot
+      - Marble
+      - Custom
+      - Multiple flavors
+      required: true
+    - id: 11
+      name: frosting_type
+      label: Frosting Type
+      hint: Preferred frosting
+      type: select_one
+      options:
+      - Buttercream
+      - Fondant
+      - Cream cheese
+      - Ganache
+      - Whipped cream
+      - Not sure
+      required: true
+    - id: 12
+      name: cake_message
+      label: Message for Cake
+      hint: Text to display on cake
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: design_description
+      label: Design Description
+      hint: Describe your vision
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: color_scheme
+      label: Color Scheme
+      hint: Preferred colors
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget
+      type: select_one
+      options:
+      - Under $200
+      - $200-$400
+      - $400-$600
+      - $600-$800
+      - $800-$1,000
+      - Over $1,000
+      - No budget limit
+      required: false
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any restrictions
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      - Kosher
+      - Halal
+      required: false
+    - id: 17
+      name: delivery_required
+      label: Delivery Required
+      hint: Do you need delivery
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 18
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery, full address
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: setup_required
+      label: Setup Required
+      hint: Do you need setup at venue
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 20
+      name: quote_validity
+      label: Quote Validity
+      hint: How long should quote be valid
+      type: select_one
+      options:
+      - 7 days
+      - 14 days
+      - 30 days
+      - 60 days
+      required: false
+    - id: 21
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When do you need to decide
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Still exploring
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

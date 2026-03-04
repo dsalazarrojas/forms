@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_viewing_screening_form
+    pages:
+    - id: 1
+      name: prospective_tenant_info
+      label: prospective_tenant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - Property Type 1
+      - Property Type 2
+      - Property Type 3
+      required: false
+    - id: 3
+      name: viewing_preferences
+      label: viewing_preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

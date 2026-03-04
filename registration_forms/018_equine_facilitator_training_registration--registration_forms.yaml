@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: equine_facilitator_training_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: equine_experience
+      label: Equine Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''6-1'', ''name'': ''Less than 1 year'', ''label'': ''Less than
+        1 year''}'
+      - '{''id'': ''6-2'', ''name'': ''1-2 years'', ''label'': ''1-2 years''}'
+      - '{''id'': ''6-3'', ''name'': ''2-5 years'', ''label'': ''2-5 years''}'
+      - '{''id'': ''6-4'', ''name'': ''More than 5 years'', ''label'': ''More than
+        5 years''}'
+      required: false
+    - id: 7
+      name: training_history
+      label: Training History
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''7-1'', ''name'': ''No experience'', ''label'': ''No experience''}'
+      - '{''id'': ''7-2'', ''name'': True, ''label'': True}'
+      - '{''id'': ''7-3'', ''name'': ''Prefer not to say'', ''label'': ''Prefer not
+        to say''}'
+      required: false
+    - id: 8
+      name: certification
+      label: Equine Facilitation Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''8-1'', ''name'': ''Certified'', ''label'': ''Certified''}'
+      - '{''id'': ''8-2'', ''name'': ''Not Certified'', ''label'': ''Not Certified''}'
+      required: false
+    - id: 9
+      name: workshop_date
+      label: Desired Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: workshop_time
+      label: Desired Workshop Time
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''10-1'', ''name'': ''10:00-11:30'', ''label'': ''10:00-11:30''}'
+      - '{''id'': ''10-2'', ''name'': ''13:00-14:00'', ''label'': ''13:00-14:00''}'
+      - '{''id'': ''10-3'', ''name'': ''16:00-17:00'', ''label'': ''16:00-17:00''}'
+      required: false
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''11-1'', ''name'': True, ''label'': True}'
+      - '{''id'': ''11-2'', ''name'': False, ''label'': False}'
+      required: false
+    - id: 12
+      name: other_equine_experience
+      label: Other Equine Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

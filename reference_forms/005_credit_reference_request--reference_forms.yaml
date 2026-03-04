@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Reference Request
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employer
+      label: Employer Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employer_address_1
+      label: Employer Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employer_address_2
+      label: Employer Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employer_email
+      label: Employer Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baby Wishes Collection
+    pages:
+      - id: 1
+        name: well_wisher_name
+        label: Well wisher name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: message
+        label: Message to the baby and family
+        hint: Keep messages brief
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: relationship_to_family
+        label: Relationship to family
+        hint: Friend relative colleague
+        type: select_one
+        options: [Friend, Relative, Colleague, Neighbor, Other]
+        required: false
+      - id: 4
+        name: permission_to_publish
+        label: Permission to publish message
+        hint: On social media or keepsake
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 5
+        name: delivery_preference
+        label: Delivery preference for keepsake
+        hint: Digital or physical
+        type: select_one
+        options: [Digital, Physical]
+        required: false
+      - id: 6
+        name: contact_email
+        label: Contact email
+        hint: Optional for follow up
+        type: email
+        options: []
+        required: false
+      - id: 7
+        name: submitter_location
+        label: Submitter location
+        hint: City state
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: submission_date
+        label: Submission date
+        hint: Date of message
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: privacy_notes
+        label: Privacy notes
+        hint: How messages will be used and stored
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Anything else you want to share
+        type: text
+        options: []
+        required: false

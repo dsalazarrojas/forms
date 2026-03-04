@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Broker Application Form
+    pages:
+    - id: 1
+      name: real_estate_broker_application_form
+      label: Real_Estate_Broker_Application_Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: past_work_experience
+      label: past_work_experience
+      hint: Please describe your past work experience.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_history
+      label: education_history
+      hint: List your education history, including institutions attended and degrees
+        earned.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: real_estate_license
+      label: real_estate_license
+      hint: null
+      type: select_one
+      options:
+      - Real Estate License
+      - None
+      - Other
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: years_of_experience
+      hint: Please enter the number of years you have been working as a real estate
+        broker.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: certifications
+      label: certifications
+      hint: List your real estate related certifications.
+      type: select_multiple
+      options:
+      - Broker
+      - Agent
+      - Other
+      required: false
+    - id: 7
+      name: languages_spoken
+      label: languages_spoken
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: false
+    - id: 8
+      name: references
+      label: references
+      hint: Provide 2 professional references, including their name, job title, and
+        contact information.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: criminal_history
+      label: criminal_history
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: employment_status
+      label: employment_status
+      hint: Select your current employment status.
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      - Other
+      required: false

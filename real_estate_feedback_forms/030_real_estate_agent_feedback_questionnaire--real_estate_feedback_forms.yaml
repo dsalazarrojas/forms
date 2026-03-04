@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_feedback_questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_rating
+      label: Service Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 5
+      name: agent_rating
+      label: Agent Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: Please provide feedback
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

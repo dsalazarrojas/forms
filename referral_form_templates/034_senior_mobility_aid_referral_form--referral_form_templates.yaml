@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Mobility Aid Referral Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Senior_Mobility_Aid_Referral_Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_details
+      label: referral_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: care_team
+      label: care_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: urgency
+      label: urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false

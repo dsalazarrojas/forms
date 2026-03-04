@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cub Scout Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: scout_name
+      label: scout_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: scout_group
+      label: scout_group
+      hint: null
+      type: select_one
+      options:
+      - scout_group_option_1
+      - scout_group_option_2
+      required: false
+    - id: 8
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_relation
+      label: parent_relation
+      hint: null
+      type: select_one
+      options:
+      - parent_relation_option_1
+      - parent_relation_option_2
+      required: false
+    - id: 10
+      name: camp_name
+      label: camp_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: scout_rank
+      label: scout_rank
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

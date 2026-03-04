@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_basket_registration_form
+    pages:
+    - id: 1
+      name: easter_basket_registration_form
+      label: easter_basket_registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: non_profit_organization_id
+      label: non_profit_organization_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: non_profit_organization_name
+      label: non_profit_organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school
+      label: school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: non_profit_organization
+      label: non_profit_organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: birth_year
+      label: birth_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: child_name
+      label: child_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: child_dob
+      label: child_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: student_gender
+      label: student_gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: student_birth_date
+      label: student_birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: student_birth_year
+      label: student_birth_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: student_parent_permission
+      label: student_parent_permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: submission
+      hint: null
+      type: date
+      options: []
+      required: false

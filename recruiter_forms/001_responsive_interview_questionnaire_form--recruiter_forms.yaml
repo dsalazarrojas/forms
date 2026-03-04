@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Interview Questionnaire Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_one
+      label: Do you like working with others?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      - '{''id'': 3, ''label'': ''Undecided'', ''value'': ''Undecided''}'
+      required: false
+    - id: 3
+      name: question_two
+      label: How many years of experience do you have in this field?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question_three
+      label: What is your availability for the next 3 months?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: question_four
+      label: What time do you usually work?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: question_five
+      label: Do you want to work as a freelancer or have a full-time job?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Freelancer'', ''value'': ''Freelancer''}'
+      - '{''id'': 2, ''label'': ''Full-time'', ''value'': ''Full-time''}'
+      required: false
+    - id: 7
+      name: question_six
+      label: How do you feel about working in this company?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Positive'', ''value'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Neutral'', ''value'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Negative'', ''value'': ''Negative''}'
+      required: false
+    - id: 8
+      name: question_seven
+      label: Are you a US citizen?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 9
+      name: question_eight
+      label: How much time do you have for an interview?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''15 minutes'', ''value'': ''15 minutes''}'
+      - '{''id'': 2, ''label'': ''30 minutes'', ''value'': ''30 minutes''}'
+      - '{''id'': 3, ''label'': ''60 minutes'', ''value'': ''60 minutes''}'
+      - '{''id'': 4, ''label'': ''1 hour'', ''value'': ''1 hour''}'
+      required: false
+    - id: 10
+      name: question_nine
+      label: Have you ever been in trouble with the law?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 11
+      name: question_ten
+      label: Have you ever been fired from a job?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 12
+      name: question_eleven
+      label: Have you ever worked with our company?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 13
+      name: question_twelve
+      label: What is your desired salary?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: question_thirteen
+      label: How do you want to submit this form?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit'', ''value'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Save as draft'', ''value'': ''Save as draft''}'
+      required: false
+    - id: 15
+      name: question_fifteen
+      label: How would you rate your skills in the given field?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low'', ''value'': ''Low''}'
+      required: false
+    - id: 16
+      name: question_sixteen
+      label: What is the best time to contact you?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: question_seventeen
+      label: Would you like to receive a follow-up email?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 18
+      name: question_eighteen
+      label: Do you have any other questions for us?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 19
+      name: question_nineteen
+      label: How would you rate this form?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad'', ''value'': ''Bad''}'
+      required: false
+    - id: 20
+      name: question_twenty
+      label: What is the purpose of this survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question_twenty_one
+      label: How did you come to this survey?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Social media'', ''value'': ''Social media''}'
+      - '{''id'': 2, ''label'': ''Google search'', ''value'': ''Google search''}'
+      - '{''id'': 3, ''label'': ''Referral'', ''value'': ''Referral''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 22
+      name: question_twenty_two
+      label: Do you want to be contacted by our company?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 23
+      name: question_twenty_three
+      label: What do you think about our company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_twenty_four
+      label: What do you think about our company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: note
+      options: []
+      required: false

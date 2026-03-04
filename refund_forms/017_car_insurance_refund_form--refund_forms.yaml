@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Refund Form
+    pages:
+    - id: 1
+      name: policyholder_info_header
+      label: -- Policyholder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_full_name_refund
+      label: Policyholder Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number_refund
+      label: Policy Number
+      hint: Your insurance policy ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: refund_email_address
+      label: Email Address
+      hint: For refund status updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: refund_phone_number
+      label: Phone Number
+      hint: Primary contact for the refund
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: refund_details_header
+      label: -- Refund Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: refund_reason
+      label: Reason for Refund Request
+      hint: Why are you requesting a refund?
+      type: select_one
+      options:
+      - Overpayment
+      - Policy Cancellation
+      - Error in Billing
+      - Coverage Change
+      - Duplicate Payment
+      required: true
+    - id: 8
+      name: refund_amount_requested
+      label: Requested Refund Amount ($)
+      hint: Amount you are requesting
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: original_payment_date
+      label: Date of Original Payment
+      hint: Select the day it occurred
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: original_payment_method
+      label: Original Payment Method
+      hint: How did you make the payment?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Direct Bank Transfer
+      - Check
+      required: true
+    - id: 11
+      name: refund_payment_preference
+      label: Preferred Refund Method
+      hint: How would you like to receive the refund?
+      type: select_one
+      options:
+      - Original Payment Method
+      - Check
+      - Direct Deposit
+      required: true
+    - id: 12
+      name: direct_deposit_details
+      label: Direct Deposit Details (If applicable)
+      hint: Bank Name, Routing Number, and Account Number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: refund_acknowledgement_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: refund_acknowledgement
+      label: I acknowledge the refund processing terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 15
+      name: refund_signature_confirmation
+      label: Type your name for refund confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_refund_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the refund
+      type: text
+      options: []
+      required: false

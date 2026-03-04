@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Listings Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: listing_type
+      label: Listing Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Land
+      - Other
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: photo_count
+      label: Photo Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: video_count
+      label: Video Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: document_count
+      label: Document Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: listing_date
+      label: Listing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true

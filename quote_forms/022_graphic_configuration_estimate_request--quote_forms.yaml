@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Configuration Estimate Request
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: design_type
+      label: Design Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: design_format
+      label: Design Format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: estimate_needs
+      label: Estimate Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: estimated_budget
+      label: Estimated Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: estimated_time
+      label: Estimated Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: design_request_deadline
+      label: Design Request Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agency_or_team
+      label: Agency or Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agency''}'
+      - '{''id'': 2, ''label'': ''Team''}'
+      required: false
+    - id: 14
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: design_type_1
+      label: Design Type 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Graphic''}'
+      - '{''id'': 2, ''label'': ''Digital''}'
+      - '{''id'': 3, ''label'': ''Branding''}'
+      required: false
+    - id: 23
+      name: design_type_2
+      label: Design Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''label'': ''Brochure''}'
+      - '{''id'': 5, ''label'': ''Print Ad''}'
+      - '{''id'': 6, ''label'': ''Packaging''}'
+      required: false
+    - id: 24
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false

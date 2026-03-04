@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Neutral Hospitality Program Registration
+    pages:
+    - id: 1
+      name: facility_section
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_type
+      label: Type of Facility
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Resort
+      - Guesthouse
+      - Bed and Breakfast
+      - Motel
+      - Hostel
+      - Vacation Rental
+      - Other
+      required: true
+    - id: 4
+      name: number_of_rooms
+      label: Number of Guest Rooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location/Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website
+      label: Facility Website
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_section
+      label: -- Current Sustainability Efforts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_efforts
+      label: Current sustainability initiatives
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Renewable energy use
+      - Energy efficiency programs
+      - Water conservation
+      - Waste reduction
+      - Recycling programs
+      - Sustainable sourcing
+      - Staff training
+      - Green building features
+      - None
+      - Other
+      required: true
+    - id: 14
+      name: sustainability_timeline
+      label: When did sustainability efforts begin?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: carbon_offset
+      label: Current carbon offset status
+      hint: null
+      type: select_one
+      options:
+      - Not offsetting
+      - Partially offsetting
+      - Fully offsetting
+      - Carbon negative
+      required: true
+    - id: 16
+      name: goals_section
+      label: -- Climate Neutral Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: carbon_neutral_target
+      label: Target year for carbon neutrality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: sustainability_goals
+      label: Specific sustainability goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: support_needed
+      label: Support or resources needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Consulting services
+      - Technology solutions
+      - Staff training
+      - Certification support
+      - Marketing assistance
+      - Funding
+      - Partnership opportunities
+      - Other
+      required: false
+    - id: 20
+      name: motivation_section
+      label: -- Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: primary_motivation
+      label: Primary motivation for joining program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_information
+      label: Additional information or comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

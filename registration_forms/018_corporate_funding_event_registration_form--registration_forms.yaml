@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Funding Event Registration Form
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Conference
+      - Meeting
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attendee_company
+      label: Attendee Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_title
+      label: Attendee Title
+      hint: null
+      type: text
+      options: []
+      required: false

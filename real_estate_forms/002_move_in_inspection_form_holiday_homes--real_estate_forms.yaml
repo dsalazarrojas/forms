@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Move In Inspection Form Holiday Homes
+    pages:
+    - id: 1
+      name: move_in_inspection_form_holiday_homes
+      label: move_in_inspection_form_holiday_homes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: condition_of_property
+      label: condition_of_property
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: damages_found
+      label: damages_found
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Small
+      - Moderate
+      - Extensive
+      required: false
+    - id: 7
+      name: issues_found
+      label: issues_found
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Small
+      - Moderate
+      - Extensive
+      required: false
+    - id: 8
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

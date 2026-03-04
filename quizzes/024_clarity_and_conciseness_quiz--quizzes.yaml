@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clarity And Conciseness Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For quiz results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Your Role
+      hint: Select your position
+      type: select_one
+      options:
+      - Student
+      - Professional Writer
+      - Business Professional
+      - Educator
+      - Editor
+      - Other
+      required: true
+    - id: 4
+      name: experience_level
+      label: Years of Writing Experience
+      hint: Enter number of years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: Which sentence demonstrates clarity
+      hint: Select the clearest option
+      type: select_one
+      options:
+      - The report was submitted on time by the team
+      - The team submitted the report on time
+      - On time, the report was submitted by the team
+      - The report, on time, by the team was submitted
+      required: true
+    - id: 6
+      name: question_2
+      label: What is the best definition of conciseness
+      hint: In writing
+      type: select_one
+      options:
+      - Using as few words as possible without losing meaning
+      - Writing very short sentences only
+      - Removing all adjectives and adverbs
+      - Making writing as brief as possible
+      required: true
+    - id: 7
+      name: question_3
+      label: Which revision makes this sentence more concise - Due to the fact that
+        it was raining, we cancelled the event
+      hint: Select the best revision
+      type: select_one
+      options:
+      - Because it was raining, we cancelled the event
+      - The event was cancelled due to rain
+      - Rain caused event cancellation
+      - We cancelled because of the rain
+      required: true
+    - id: 8
+      name: question_4
+      label: What is wrong with this sentence - The manager made the decision to approve
+        the proposal that was submitted by the team
+      hint: Identify the issue
+      type: select_one
+      options:
+      - Wordy and uses passive voice
+      - Too short
+      - Missing punctuation
+      - Wrong verb tense
+      required: true
+    - id: 9
+      name: question_5
+      label: Which sentence is most concise
+      hint: Compare the options
+      type: select_one
+      options:
+      - In spite of the fact that he was tired, he continued working
+      - Although tired, he continued working
+      - He was tired but he kept on working anyway
+      - Despite being tired, he did continue to work
+      required: true
+    - id: 10
+      name: question_6
+      label: What should you avoid for clear writing
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Jargon and unnecessary complexity
+      - Simple vocabulary
+      - Short sentences
+      - Active voice
+      required: true
+    - id: 11
+      name: question_7
+      label: Which phrase is redundant
+      hint: Identify redundancy
+      type: select_one
+      options:
+      - Free gift
+      - Expensive purchase
+      - Quick delivery
+      - Quality product
+      required: true
+    - id: 12
+      name: question_8
+      label: How can you improve this - At this point in time, we are unable to process
+        your request
+      hint: Make it more concise
+      type: select_one
+      options:
+      - We cannot process your request now
+      - Currently we are unable to process
+      - At this time we cannot process
+      - Right now we are unable to process
+      required: true
+    - id: 13
+      name: question_9
+      label: What is the active voice version of - The meeting was led by the director
+      hint: Convert to active voice
+      type: select_one
+      options:
+      - The director led the meeting
+      - The director was leading the meeting
+      - The meeting led by the director
+      - Leading the meeting was the director
+      required: true
+    - id: 14
+      name: question_10
+      label: Which sentence avoids nominalization
+      hint: Turning verbs into nouns
+      type: select_one
+      options:
+      - We decided to proceed
+      - We made a decision to proceed
+      - The decision was made to proceed
+      - A decision was reached by us
+      required: true
+    - id: 15
+      name: question_11
+      label: What makes writing clearer
+      hint: Best practice for clarity
+      type: select_one
+      options:
+      - Using specific concrete language
+      - Using abstract concepts
+      - Long complex sentences
+      - Technical terminology
+      required: true
+    - id: 16
+      name: question_12
+      label: Which is the most concise option
+      hint: Select the best revision
+      type: select_one
+      options:
+      - Please submit reports by Friday
+      - It is requested that reports be submitted by end of day Friday
+      - We would appreciate it if you could submit reports by Friday
+      - The submission of reports should be done by Friday
+      required: true
+    - id: 17
+      name: question_13
+      label: What should you do with filler words
+      hint: Like very, really, quite
+      type: select_one
+      options:
+      - Remove them when they add no meaning
+      - Always keep them for emphasis
+      - Use them frequently
+      - Replace with longer phrases
+      required: true
+    - id: 18
+      name: question_14
+      label: Which sentence has better parallel structure
+      hint: Consistent grammatical form
+      type: select_one
+      options:
+      - She likes reading, writing, and to hike
+      - She likes to read, write, and hike
+      - She likes reading, to write, and hiking
+      - She likes to read, writing, and hiking
+      required: true
+    - id: 19
+      name: question_15
+      label: What is the goal of clear and concise writing
+      hint: Primary objective
+      type: select_one
+      options:
+      - To communicate ideas effectively and efficiently
+      - To impress readers with vocabulary
+      - To write as much as possible
+      - To use complex sentence structures
+      required: true
+    - id: 20
+      name: self_rating
+      label: How Would You Rate Your Writing Clarity
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 21
+      name: improvement_areas
+      label: Which Areas Do You Want to Improve
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Reducing wordiness
+      - Using active voice
+      - Eliminating jargon
+      - Sentence structure
+      - Vocabulary choice
+      - Grammar and punctuation
+      - Organization
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any feedback on the quiz
+      type: text
+      options: []
+      required: false

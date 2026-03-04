@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sports Fan Video Recording Consent Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: video_type
+      label: video_type
+      hint: null
+      type: select_multiple
+      options:
+      - Football
+      - Basketball
+      - Hockey
+      - Soccer
+      required: true
+    - id: 5
+      name: recording_location
+      label: recording_location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Away
+      - Neutral
+      required: true
+    - id: 6
+      name: recording_time
+      label: recording_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: recording_date
+      label: recording_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: recording_method
+      label: recording_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Video
+      required: true
+    - id: 9
+      name: recording_consent
+      label: recording_consent
+      hint: null
+      type: text
+      options: []
+      required: true

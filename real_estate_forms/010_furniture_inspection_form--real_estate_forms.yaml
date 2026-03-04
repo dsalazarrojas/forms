@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: furniture_condition
+      label: condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Good'', ''text'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Bad'', ''text'': ''Bad''}'
+      required: false
+    - id: 4
+      name: damage_present
+      label: damage_present
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''text'': True}'
+      - '{''id'': 2, ''name'': False, ''text'': False}'
+      required: false
+    - id: 5
+      name: damage_details
+      label: damage_details
+      hint: Provide details about damage.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''text'': True}'
+      - '{''id'': 2, ''name'': False, ''text'': False}'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

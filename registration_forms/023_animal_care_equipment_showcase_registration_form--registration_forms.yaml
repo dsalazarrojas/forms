@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care Equipment Showcase Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Company
+      hint: Affiliation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: registration_intro
+      label: Animal Care Equipment Showcase Registration
+      hint: Register to attend or exhibit at our animal care equipment showcase event
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: registration_type
+      label: Registration Type
+      hint: How will you participate
+      type: select_one
+      options:
+      - Attendee
+      - Exhibitor
+      - Vendor
+      - Speaker or presenter
+      - Media or press
+      - Student
+      required: true
+    - id: 8
+      name: event_date
+      label: Which Event Date Will You Attend
+      hint: Select if multiple dates
+      type: select_one
+      options:
+      - Day 1 only
+      - Day 2 only
+      - Both days
+      - Virtual attendance
+      required: true
+    - id: 9
+      name: attendee_category
+      label: Professional Category
+      hint: Select your field
+      type: select_one
+      options:
+      - Veterinarian
+      - Veterinary technician
+      - Animal shelter worker
+      - Animal rescue volunteer
+      - Pet business owner
+      - Animal trainer
+      - Groomer
+      - Student
+      - Other
+      required: true
+    - id: 10
+      name: organization_type
+      label: Type of Organization
+      hint: Where you work
+      type: select_one
+      options:
+      - Veterinary clinic
+      - Animal hospital
+      - Animal shelter
+      - Rescue organization
+      - Pet store
+      - Grooming salon
+      - Training facility
+      - Research institution
+      - Government agency
+      - Other
+      required: true
+    - id: 11
+      name: interests
+      label: Equipment Categories of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diagnostic equipment
+      - Surgical instruments
+      - Monitoring devices
+      - Imaging systems
+      - Laboratory equipment
+      - Rehabilitation equipment
+      - Grooming tools
+      - Boarding equipment
+      - Technology solutions
+      - Other
+      required: false
+    - id: 12
+      name: exhibitor_info
+      label: Exhibitor Information
+      hint: For exhibitors only
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: company_name
+      label: Company Name
+      hint: Exhibiting company
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: booth_preference
+      label: Booth Size Preference
+      hint: If exhibiting
+      type: select_one
+      options:
+      - Small - 6x6 ft
+      - Medium - 10x10 ft
+      - Large - 10x20 ft
+      - Extra large - custom
+      - Not exhibiting
+      required: false
+    - id: 15
+      name: products_showcasing
+      label: Products or Services to Showcase
+      hint: Description
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requirements
+      label: Special Booth Requirements
+      hint: Power, water, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_preferences
+      label: Educational Session Preferences
+      hint: Select topics of interest
+      type: select_multiple
+      options:
+      - New technology demonstrations
+      - Best practices workshops
+      - Industry trends
+      - Case studies
+      - Product launches
+      - Networking sessions
+      - No preference
+      required: false
+    - id: 18
+      name: networking_interest
+      label: Are you interested in networking opportunities
+      hint: Networking
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - somewhat interested
+      - No - just attending sessions
+      required: false
+    - id: 19
+      name: meal_preferences
+      label: Meal Preferences
+      hint: Dietary requirements
+      type: select_one
+      options:
+      - No restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Do you have any accessibility needs
+      hint: Accommodations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: Referral source
+      type: select_one
+      options:
+      - Email newsletter
+      - Social media
+      - Colleague referral
+      - Website
+      - Industry publication
+      - Previous attendee
+      - Other
+      required: false
+    - id: 22
+      name: first_time
+      label: Is This Your First Time Attending
+      hint: Attendance history
+      type: select_one
+      options:
+      - Yes - first time
+      - No - attended before
+      required: false
+    - id: 23
+      name: expectations
+      label: What Are Your Expectations for This Event
+      hint: Goals
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: registration_fee
+      label: Registration Fee Category
+      hint: Fee tier
+      type: select_one
+      options:
+      - Early bird rate
+      - Standard rate
+      - Student rate
+      - Group rate
+      - Exhibitor rate
+      - Complimentary
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Invoice
+      - Purchase order
+      - Check
+      - Already paid
+      required: false
+    - id: 26
+      name: additional_attendees
+      label: Are you registering additional attendees
+      hint: Group registration
+      type: select_one
+      options:
+      - No - just myself
+      - Yes - 1 additional
+      - Yes - 2-5 additional
+      - Yes - more than 5
+      required: false
+    - id: 27
+      name: additional_info
+      label: Additional Comments or Questions
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_accepted
+      label: I accept the event terms and conditions
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 29
+      name: registrant_signature
+      label: Registrant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

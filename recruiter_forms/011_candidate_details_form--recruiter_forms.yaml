@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Details Form
+    pages:
+    - id: 1
+      name: candidate_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate_address
+      label: Full Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: candidate_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: candidate_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: candidate_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: candidate_country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: LinkedIn page link
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: portfolio_website
+      label: Portfolio or Website URL
+      hint: Personal website or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_employer
+      label: Current Employer
+      hint: Current company name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_job_title
+      label: Current Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: years_of_experience
+      label: Years of Experience
+      hint: Total years in field
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: highest_education
+      label: Highest Education Level
+      hint: Highest degree obtained
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate or PhD
+      - Professional certification
+      - Other
+      required: true
+    - id: 17
+      name: field_of_study
+      label: Field of Study
+      hint: Major or area of study
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: university_name
+      label: University or Institution
+      hint: School name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: key_skills
+      label: Key Skills
+      hint: Top skills relevant to position
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: industry_experience
+      label: Industry Experience
+      hint: Industries worked in
+      type: select_multiple
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Retail
+      - Manufacturing
+      - Hospitality
+      - Government
+      - Non-profit
+      - Other
+      required: true
+    - id: 22
+      name: salary_expectation
+      label: Salary Expectation
+      hint: Expected annual salary
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: availability
+      label: Availability to Start
+      hint: When can you start
+      type: select_one
+      options:
+      - Immediately
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 2 months
+      - More than 2 months
+      required: true
+    - id: 24
+      name: work_authorization
+      label: Work Authorization Status
+      hint: Are you authorized to work
+      type: select_one
+      options:
+      - Citizen
+      - Permanent resident
+      - Work visa holder
+      - Require visa sponsorship
+      - Other
+      required: true
+    - id: 25
+      name: willing_to_relocate
+      label: Willing to Relocate
+      hint: Can you move for this position
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe - depends on opportunity
+      required: true
+    - id: 26
+      name: resume_attached
+      label: Resume Attached
+      hint: Have you attached your resume
+      type: select_one
+      options:
+      - true
+      - Will send later
+      - Not yet
+      required: true
+    - id: 27
+      name: cover_letter_attached
+      label: Cover Letter Attached
+      hint: Have you attached a cover letter
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: false
+    - id: 28
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of job posting
+      type: select_one
+      options:
+      - Company website
+      - Job board
+      - LinkedIn
+      - Employee referral
+      - Recruiter
+      - Social media
+      - Career fair
+      - Other
+      required: true
+    - id: 29
+      name: referral_name
+      label: Referred By
+      hint: Name of person who referred you
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: form_submission_date
+      label: Form Submission Date
+      hint: Date submitted
+      type: date
+      options: []
+      required: true

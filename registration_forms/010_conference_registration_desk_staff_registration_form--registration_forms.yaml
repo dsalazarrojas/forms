@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Desk Staff Registration Form
+    pages:
+    - id: 1
+      name: staff_name
+      label: Staff Member Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your staff identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Your home department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shift_preference
+      label: Shift Preference
+      hint: Which shift do you prefer
+      type: select_one
+      options:
+      - Morning Shift 7 AM to 3 PM
+      - Afternoon Shift 3 PM to 11 PM
+      - Evening Shift 11 PM to 7 AM
+      - No Preference
+      required: true
+    - id: 8
+      name: available_days
+      label: Available Days
+      hint: Select all days you can work
+      type: select_multiple
+      options:
+      - Day 1 - Setup and Registration
+      - Day 2 - Main Conference
+      - Day 3 - Main Conference
+      - Day 4 - Closing and Breakdown
+      required: true
+    - id: 9
+      name: role_preference
+      label: Preferred Role
+      hint: What role would you like
+      type: select_one
+      options:
+      - Registration Desk Staff
+      - Information Desk Staff
+      - Badge Printing Support
+      - General Assistance
+      - Team Lead
+      required: true
+    - id: 10
+      name: previous_experience
+      label: Do you have previous registration desk experience
+      hint: Have you worked similar events
+      type: select_one
+      options:
+      - Yes Multiple Events
+      - Yes One or Two Events
+      - No First Time
+      required: true
+    - id: 11
+      name: software_skills
+      label: Software Skills
+      hint: Select systems you are familiar with
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Google Workspace
+      - Event Registration Systems
+      - Badge Printing Software
+      - Customer Service Systems
+      - None
+      required: false
+    - id: 12
+      name: customer_service_rating
+      label: Rate your customer service skills
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Need Training
+      required: true
+    - id: 13
+      name: language_skills
+      label: Additional Languages Spoken
+      hint: Besides English
+      type: select_multiple
+      options:
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      - Cantonese
+      - Japanese
+      - Korean
+      - Other
+      - English Only
+      required: false
+    - id: 14
+      name: uniform_size
+      label: Uniform Size
+      hint: For staff shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      required: true
+    - id: 15
+      name: meal_preference
+      label: Meal Preference
+      hint: For staff catering
+      type: select_one
+      options:
+      - No Preference
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      required: true
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_attendance
+      label: Can you attend mandatory training
+      hint: Pre-event training session
+      type: select_one
+      options:
+      - Yes Will Attend
+      - No Cannot Attend
+      - Need More Information
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: For staff safety
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: commitment_confirmation
+      label: I confirm my availability and commitment
+      hint: Confirm your participation
+      type: select_one
+      options:
+      - I Confirm
+      - I Cannot Commit
+      required: true

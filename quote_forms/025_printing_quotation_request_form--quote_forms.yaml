@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Printing Quotation Request Form
+    pages:
+    - id: 1
+      name: printing_quotation_request_form
+      label: printing_quotation_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_contact
+      label: customer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: paper_size
+      label: paper_size
+      hint: null
+      type: select_one
+      options:
+      - A3
+      - A5
+      - A4
+      - A6
+      required: false
+    - id: 4
+      name: paper_orientation
+      label: paper_orientation
+      hint: null
+      type: select_one
+      options:
+      - Portrait
+      - Landscape
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: color
+      label: color
+      hint: null
+      type: select_one
+      options:
+      - Black and White
+      - Color
+      required: false
+    - id: 7
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false

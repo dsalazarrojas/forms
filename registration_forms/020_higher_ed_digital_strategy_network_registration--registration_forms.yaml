@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: higher_ed_digital_strategy_network_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: university
+      label: University
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Arizona State University''}'
+      - '{''value'': ''University of Michigan''}'
+      - '{''value'': ''University of Texas''}'
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''IT Manager''}'
+      - '{''value'': ''Digital Strategist''}'
+      - '{''value'': ''Digital Marketing Specialist''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 7
+      name: interest_areas
+      label: Interest Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Digital Content Creation''}'
+      - '{''value'': ''Digital Marketing''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

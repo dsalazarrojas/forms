@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Workshop RSVP
+    pages:
+    - id: 1
+      name: workshop_title
+      label: Workshop Title
+      hint: Select the workshop you are RSVPing for
+      type: select_one
+      options:
+      - Healthy Cooking 101
+      - Stress Management Seminar
+      - Diabetes Awareness Workshop
+      - First Aid Basics
+      required: true
+    - id: 2
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendance_status
+      label: Will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will be there
+      - No, I cannot attend
+      - I am still undecided
+      required: true
+    - id: 6
+      name: guest_count
+      label: Number of Additional Guests
+      hint: Not including yourself
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: dietary_needs
+      label: Dietary Restrictions or Allergies
+      hint: For workshops providing snacks or meals
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: childcare_needed
+      label: Do you require childcare during the workshop?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: marketing_source
+      label: How did you hear about this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Printed Flyer
+      - Local News
+      - Word of Mouth
+      - Email Newsletter
+      required: false
+    - id: 10
+      name: special_accommodations
+      label: Do you require any specific accommodations?
+      hint: e.g., Sign language interpreter, ramp access
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Tenant Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Address of rental property
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_unit
+      label: Unit or Apartment Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: landlord_name
+      label: Landlord or Property Owner Name
+      hint: Owner name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: landlord_contact
+      label: Landlord Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_manager_name
+      label: Property Manager Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_tenant_name
+      label: Current Tenant Name
+      hint: Tenant being replaced
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_tenant_contact
+      label: Current Tenant Contact
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: move_out_date
+      label: Current Tenant Move-Out Date
+      hint: When current tenant is leaving
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_termination
+      label: Reason for Tenant Change
+      hint: Why the tenant is leaving
+      type: select_one
+      options:
+      - Lease Expiration
+      - Lease Termination
+      - Mutual Agreement
+      - Eviction
+      - Other
+      required: false
+    - id: 11
+      name: new_tenant_name
+      label: New Tenant Name
+      hint: Incoming tenant name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_tenant_contact
+      label: New Tenant Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_tenant_move_in_date
+      label: New Tenant Move-In Date
+      hint: When new tenant is moving in
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: new_lease_start_date
+      label: New Lease Start Date
+      hint: When new lease begins
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: new_lease_end_date
+      label: New Lease End Date
+      hint: When new lease expires
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: new_monthly_rent
+      label: New Monthly Rent Amount
+      hint: Rent for new tenant
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: security_deposit_status
+      label: Security Deposit from New Tenant
+      hint: Has deposit been received
+      type: select_one
+      options:
+      - Received
+      - Pending
+      - Not Required
+      required: false
+    - id: 18
+      name: property_condition_inspection
+      label: Property Condition Inspection Completed
+      hint: Move-out inspection done
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Scheduled
+      required: false
+    - id: 19
+      name: utilities_transition
+      label: Utilities Transferred to New Tenant
+      hint: Gas, water, electric transferred
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Process
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Conditions
+      hint: Any special arrangements
+      type: text
+      options: []
+      required: false

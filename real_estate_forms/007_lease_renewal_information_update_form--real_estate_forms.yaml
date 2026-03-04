@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Renewal Information Update Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rent_start_date
+      label: Rent Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rent_end_date
+      label: Rent End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rent_interval
+      label: Rent Interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - Rent Monthly
+      - Rent Quarterly
+      - Rent Bi-Monthly
+      required: false
+    - id: 9
+      name: lease_status
+      label: Lease Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: false
+    - id: 10
+      name: lease_type
+      label: Lease Type
+      hint: null
+      type: select_multiple
+      options:
+      - Commercial
+      - Residential
+      - Industrial
+      required: false
+    - id: 11
+      name: tenant_contact_info
+      label: Tenant Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: landlord_contact_info
+      label: Landlord Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

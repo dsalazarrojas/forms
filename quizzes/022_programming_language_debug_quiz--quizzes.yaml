@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Programming Language Debug Quiz
+    pages:
+    - id: 1
+      name: first_language
+      label: Which programming language are you most familiar with?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''JavaScript''}'
+      - '{''id'': 2, ''label'': ''Python''}'
+      - '{''id'': 3, ''label'': ''C++''}'
+      required: false
+    - id: 2
+      name: programming_languages
+      label: List the programming languages that you know
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''JavaScript''}'
+      - '{''id'': 2, ''label'': ''C++''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      - '{''id'': 4, ''label'': ''Java''}'
+      required: false
+    - id: 3
+      name: debug_skills
+      label: What debugging skills do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: years_of_experience
+      label: Years of experience with programming
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: education
+      label: What level of education have you achieved
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High School''}'
+      - '{''id'': 2, ''label'': "Bachelor''s Degree"}'
+      - '{''id'': 3, ''label'': "Master''s Degree"}'
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work experience with programming
+      hint: null
+      type: text
+      options: []
+      required: false

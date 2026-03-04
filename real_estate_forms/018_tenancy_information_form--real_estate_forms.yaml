@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenancy Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tenancy_start_date
+      label: Tenancy Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: tenancy_end_date
+      label: Tenancy End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_move_out
+      label: Reason for Move Out
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Studio
+      - 1 Bedroom
+      - 2 Bedrooms
+      - 3 Bedrooms
+      required: true
+    - id: 13
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Vacant
+      - Occupied
+      - For Sale
+      - For Rent
+      required: true
+    - id: 14
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: property_size
+      label: Property Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: property_bedrooms
+      label: Property Bedrooms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: property_bathrooms
+      label: Property Bathrooms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - For Sale
+      - For Rent
+      - Vacant
+      required: false
+    - id: 22
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Fortnightly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 23
+      name: rent_frequency_start_date
+      label: Rent Frequency Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: rent_frequency_end_date
+      label: Rent Frequency End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: text
+      options: []
+      required: false

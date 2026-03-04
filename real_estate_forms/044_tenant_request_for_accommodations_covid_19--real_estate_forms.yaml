@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: tenant_request_for_accommodations_covid_19
+    pages:
+    - id: 1
+      name: tenant_request_for_accommodations_covid_19_page_1
+      label: tenant_request_for_accommodations_covid_19_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_request_for_accommodations_covid_19_page_2
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Studio Apartment''}'
+      - '{''value'': ''1 Bedroom''}'
+      - '{''value'': ''2 Bedrooms''}'
+      - '{''value'': ''3 Bedrooms''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: tenant_request_for_accommodations_covid_19_page_3
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tenant_request_for_accommodations_covid_19_page_4
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tenant_request_for_accommodations_covid_19_page_6
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tenant_request_for_accommodations_covid_19_page_7
+      label: tenant_request_for_accommodations_covid_19_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

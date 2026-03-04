@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cellular Number Registration Form
+    pages:
+    - id: 1
+      name: subscriber_details_header
+      label: -- Subscriber Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subscriber_name
+      label: Subscriber Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subscriber_email
+      label: Subscriber Email
+      hint: For confirmation and billing
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact
+      label: Primary Contact Number
+      hint: For follow-up regarding your registration
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_info_header
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: mobile_number_to_register
+      label: Mobile Number to Register
+      hint: Enter the cellular number you wish to register
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: Choose your subscription model
+      type: select_one
+      options:
+      - Prepaid
+      - Postpaid
+      required: true
+    - id: 8
+      name: sim_card_type
+      label: SIM Card Type
+      hint: Physical SIM or Electronic SIM
+      type: select_one
+      options:
+      - Physical SIM
+      - eSIM
+      required: true
+    - id: 9
+      name: network_provider
+      label: Network Provider
+      hint: Select your carrier
+      type: select_one
+      options:
+      - Provider A - National
+      - Provider B - Regional
+      - Provider C - Local
+      - Other
+      required: true
+    - id: 10
+      name: identification_header
+      label: -- Identification Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: id_type
+      label: Identification Type
+      hint: Document used for verification
+      type: select_one
+      options:
+      - National ID
+      - Passport
+      - Driver's License
+      required: true
+    - id: 12
+      name: id_number
+      label: ID Number
+      hint: Enter the number on your ID document
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_of_registration
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: terms_conditions_header
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: terms_agreement
+      label: Do you agree to the Terms of Service
+      hint: Registration cannot proceed without agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 16
+      name: additional_requests_header
+      label: -- Additional Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: comments_requests
+      label: Any other requests or comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

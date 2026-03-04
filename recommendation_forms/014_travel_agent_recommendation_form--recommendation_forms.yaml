@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_agent_recommendation_form
+    pages:
+    - id: 1
+      name: travel_agent_info
+      label: Travel Agent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_agent_name
+      label: travel_agent_name
+      hint: The name of the travel agent.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_agent_email
+      label: travel_agent_email
+      hint: The travel agent's email address.
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: travel_agent_phone
+      label: travel_agent_phone
+      hint: The travel agent's phone number.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: customer_name
+      hint: The customer's name.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: The customer's email address.
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: destination
+      label: Destination
+      hint: null
+      type: select_one
+      options:
+      - Paris, France
+      - Tokyo, Japan
+      - New York City, USA
+      required: false
+    - id: 10
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Summer
+      - Winter
+      - Spring
+      - Fall
+      required: false
+    - id: 11
+      name: activities
+      label: Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Beach
+      - Mountain
+      - City
+      - Adventure
+      required: false
+    - id: 12
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Relaxation
+      - Adventure
+      - Culture
+      - Foodie
+      required: false
+    - id: 13
+      name: preferred_travel_style
+      label: Preferred Travel Style
+      hint: null
+      type: select_one
+      options:
+      - Budget
+      - Luxury
+      - Family
+      - Solo
+      required: false
+    - id: 14
+      name: travel_agent_rating
+      label: Travel Agent Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 15
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

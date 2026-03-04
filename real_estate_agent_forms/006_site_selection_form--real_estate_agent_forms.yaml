@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: site_selection_form
+    pages:
+    - id: 1
+      name: site_selection_form_first_page
+      label: first_page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: site_selection_form_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_selection_form_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: site_selection_form_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: site_selection_form_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: site_selection_form_zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: site_selection_form_country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: site_selection_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_selection_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: site_selection_form_description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false

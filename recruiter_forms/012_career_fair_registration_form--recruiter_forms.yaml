@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Fair Registration Form
+    pages:
+    - id: 1
+      name: registration_type
+      label: Registration Type
+      hint: Are you registering as a candidate or employer?
+      type: select_one
+      options:
+      - Student or Job Seeker
+      - Employer or Recruiter
+      - University or School
+      - Volunteer or Staff
+      required: true
+    - id: 2
+      name: career_fair_name
+      label: Career Fair Name
+      hint: Which career fair are you registering for?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: We'll send confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_name
+      label: Organization or Company Name
+      hint: If registering as employer, school, or volunteer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: position_title
+      label: Your Position or Title
+      hint: Your role in organization
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employer_contact
+      label: Employer Contact Name
+      hint: For employer booth registration
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employer_contact_email
+      label: Employer Primary Contact Email
+      hint: Who should receive booth details?
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: booth_size
+      label: Booth Space Needed
+      hint: If registering as employer
+      type: select_one
+      options:
+      - Small - 6x6 feet
+      - Medium - 10x10 feet
+      - Large - 10x20 feet
+      - Extra Large - custom size
+      required: false
+    - id: 13
+      name: booth_requirements
+      label: Special Booth Requirements
+      hint: Tables, power outlets, internet access?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: positions_available
+      label: Positions You Are Recruiting For
+      hint: List available job titles and levels
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: specialties_hiring
+      label: Specialties or Departments Hiring
+      hint: What areas is your company recruiting in?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: number_recruiting
+      label: How Many People Are You Recruiting?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: student_major_interest
+      label: Major or Field of Study
+      hint: If registering as student or job seeker
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: graduation_year
+      label: Expected Graduation Year
+      hint: If student
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: industry_interest
+      label: Industries of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Engineering
+      - Marketing
+      - Sales
+      - Education
+      - Manufacturing
+      - Retail
+      - Other
+      required: false
+    - id: 20
+      name: experience_level
+      label: Experience Level
+      hint: If job seeker
+      type: select_one
+      options:
+      - Entry-level
+      - Internship
+      - 1-3 years experience
+      - 3-5 years experience
+      - 5+ years experience
+      - Career changer
+      required: false
+    - id: 21
+      name: employment_type
+      label: Type of Employment Sought
+      hint: Select preferences
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Internship
+      - Co-op
+      - Remote
+      required: false
+    - id: 22
+      name: volunteer_availability
+      label: If Volunteering - Your Availability
+      hint: When can you volunteer?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_skills
+      label: Volunteer Skills or Interests
+      hint: What type of volunteer work can you do?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If event includes meals
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed?
+      hint: null
+      type: select_one
+      options:
+      - Yes - please specify
+      - 'No'
+      required: false
+    - id: 26
+      name: accessibility_details
+      label: Specific Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: how_heard
+      label: How Did You Hear About This Career Fair?
+      hint: null
+      type: select_one
+      options:
+      - Email or social media
+      - School or university
+      - Online search
+      - Friend or colleague
+      - Previous career fair
+      - Advertisement
+      - Other
+      required: false
+    - id: 28
+      name: terms_acceptance
+      label: I agree to the career fair terms and conditions
+      hint: Required to complete registration
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

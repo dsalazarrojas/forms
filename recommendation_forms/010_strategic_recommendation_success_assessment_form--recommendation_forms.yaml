@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Recommendation Success Assessment Form
+    pages:
+    - id: 1
+      name: initiative_outcomes
+      label: Initiative Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: adoption_rates
+      label: Adoption Rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: implementation_dates
+      label: Implementation Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: recommended_by
+      label: Recommended By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: success_metrics
+      label: Success Metrics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: implementation_status
+      label: Implementation Status
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - On Hold
+      - Not Implemented
+      required: false
+    - id: 8
+      name: implementation_comments
+      label: Implementation Comments
+      hint: null
+      type: text
+      options: []
+      required: false

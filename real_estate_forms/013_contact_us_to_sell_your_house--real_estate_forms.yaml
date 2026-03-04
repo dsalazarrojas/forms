@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us to Sell Your House
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Homeowner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_property_details
+      label: -- Property Information --
+      hint: Tell us about the house you're looking to sell
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bedrooms_count
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: bathrooms_count
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: approximate_sqft
+      label: Approximate Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_selling_details
+      label: -- Selling Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: selling_timeframe
+      label: How soon are you looking to sell?
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 30 days
+      - 1-3 months
+      - 3-6 months
+      - Just curious about value
+      required: true
+    - id: 15
+      name: reason_for_selling
+      label: What is your primary reason for selling?
+      hint: null
+      type: select_one
+      options:
+      - Relocating
+      - Upsizing
+      - Downsizing
+      - Financial Reasons
+      - Inherited Property
+      - Other
+      required: false
+    - id: 16
+      name: listing_status
+      label: Is the property currently listed with an agent?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: asking_price
+      label: Desired Asking Price
+      hint: Just an estimate is fine
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Anything else we should know about your property?
+      hint: Special features, recent upgrades, or repairs needed
+      type: text
+      options: []
+      required: false

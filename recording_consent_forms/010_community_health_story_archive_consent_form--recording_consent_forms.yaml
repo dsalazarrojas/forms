@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Story Archive Consent Form
+    pages:
+      - id: 1
+        name: archive_consent_intro
+        label: -- Archive Consent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: storyteller_name
+        label: Storyteller name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: For contact and permissions
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: permission_recording
+        label: Permission to record story
+        hint: Consent for audio or video recording
+        type: select_one
+        options:
+          - Yes I give permission
+          - No I do not give permission
+        required: true
+      - id: 5
+        name: permission_storage
+        label: Permission to store story in archive
+        hint: Allow long term archival of recording
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 6
+        name: usage_rights
+        label: Rights for use of story
+        hint: Select permitted uses
+        type: select_multiple
+        options:
+          - Research
+          - Educational materials
+          - Promotional materials
+          - Public archive
+        required: true
+      - id: 7
+        name: anonymity_preference
+        label: Preference for anonymity
+        hint: Would you prefer your name withheld
+        type: select_one
+        options:
+          - Use my name
+          - Use initials
+          - Anonymize my story
+        required: true
+      - id: 8
+        name: withdraw_instructions
+        label: How to withdraw consent
+        hint: Contact details and process to withdraw
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: signature_name
+        label: Signature name
+        hint: Type full name as signature confirmation
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: signature_date
+        label: Signature date
+        hint: Date consent granted
+        type: date
+        options: []
+        required: true

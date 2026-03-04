@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afternoon Absence Form
+    pages:
+    - id: 1
+      name: student_information
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name as enrolled
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: homeroom_teacher
+      label: Homeroom teacher
+      hint: Teacher assigned to the student
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_absence
+      label: Date of absence
+      hint: Select the date the student will be absent
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: absent_periods
+      label: Absent periods or timeframe
+      hint: e.g., Afternoon only, Periods 4 and 5
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_absence
+      label: Reason for absence
+      hint: Provide brief description reasons such as illness or appointment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_contact
+      label: Parent or guardian contact number
+      hint: Phone number for confirming absence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: requires_makeup_work
+      label: Does the student require makeup work
+      hint: Check if teacher should provide makeup assignments
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: notes
+      label: Additional notes
+      hint: Any special instructions for the school
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_signature
+      label: Parent electronic signature name
+      hint: Type full name to confirm submission
+      type: text
+      options: []
+      required: true

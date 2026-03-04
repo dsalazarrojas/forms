@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employer Placement Intake Form
+    pages:
+    - id: 1
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-Time''}'
+      - '{''label'': ''Part-Time''}'
+      - '{''label'': ''Contract''}'
+      required: false
+    - id: 5
+      name: job_type_other
+      label: Job Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_posting_url
+      label: Job Posting URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_posting_date
+      label: Job Posting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_posting_time
+      label: Job Posting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone_extension
+      label: Contact Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_id
+      label: Job ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_id_other
+      label: Job ID Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 22
+      name: job_status_other
+      label: Job Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_posting_source
+      label: Job Posting Source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Job Board''}'
+      - '{''label'': ''Website''}'
+      - '{''label'': ''Referral''}'
+      required: false
+    - id: 24
+      name: job_posting_source_other
+      label: Job Posting Source Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_reason
+      label: Submission Reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''New Job''}'
+      - '{''label'': ''Job Update''}'
+      - '{''label'': ''Replacing Old Job''}'
+      - '{''label'': ''Other''}'
+      required: false

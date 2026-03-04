@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Management Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_email
+      label: Artist Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: artist_phone
+      label: Artist Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: legal_name
+      label: Legal Name if Different
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: management_start_date
+      label: Management Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: management_duration
+      label: Management Duration - Months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: management_commission
+      label: Management Commission Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: business_structure
+      label: Artist Business Structure
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietor
+      - LLC
+      - Corporation
+      - Partnership
+      - Other
+      required: false
+    - id: 10
+      name: tax_identification
+      label: Tax Identification Number
+      hint: SSN, EIN, or equivalent
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: managerial_duties
+      label: Required Managerial Duties
+      hint: null
+      type: select_multiple
+      options:
+      - Booking Agents
+      - Contract Negotiation
+      - Financial Management
+      - Social Media Management
+      - Publicity and Marketing
+      - Scheduling
+      - Licensing and Rights
+      required: true
+    - id: 12
+      name: primary_genre
+      label: Primary Genre or Discipline
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_projects
+      label: Current or Upcoming Projects
+      hint: Albums, tours, exhibitions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: revenue_streams
+      label: Revenue Streams
+      hint: null
+      type: select_multiple
+      options:
+      - Performances
+      - Recording Sales
+      - Streaming
+      - Endorsements
+      - Teaching
+      - Merchandise
+      required: false
+    - id: 15
+      name: business_objectives
+      label: Business Objectives and Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expectations_from_manager
+      label: Expectations from Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_email
+      label: Manager Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: terms_agreed
+      label: I Agree to the Management Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

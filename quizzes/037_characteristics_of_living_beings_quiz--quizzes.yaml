@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Characteristics Of Living Beings Quiz
+    pages:
+    - id: 1
+      name: section_student_info_quiz
+      label: -- Student and Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name_identity_quiz
+      label: Student Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_number_identity_quiz
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_or_class_title_quiz
+      label: Course or Class Title
+      hint: e.g., Biology 101
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_general_knowledge_living_beings
+      label: -- General Knowledge - Living Beings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: quiz_identify_primary_characteristic
+      label: What is the primary characteristic that defines all living organisms?
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Reproduction
+      - Movement
+      - Growth and Development
+      - Response to Environment
+      - All of the Above
+      required: true
+    - id: 7
+      name: quiz_living_being_cellular_structure
+      label: Is cellular structure a common trait of all living beings?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Only for some organisms
+      required: true
+    - id: 8
+      name: section_life_processes_and_functions
+      label: -- Life Processes and Functions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: quiz_process_of_metabolism
+      label: What is the process by which living beings acquire and use energy?
+      hint: Select the most accurate term
+      type: select_one
+      options:
+      - Photosynthesis
+      - Respiration
+      - Metabolism
+      - Digestion
+      required: true
+    - id: 10
+      name: quiz_homoeostasis_and_regulation
+      label: What is the term for the maintenance of a stable internal environment?
+      hint: null
+      type: select_one
+      options:
+      - Adaptation
+      - Homeostasis
+      - Evolution
+      - Growth
+      required: true
+    - id: 11
+      name: section_adaptation_and_evolution
+      label: -- Adaptation and Evolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: quiz_process_of_evolutionary_change
+      label: What is the process by which living beings change over generations?
+      hint: Select the most accurate term
+      type: select_one
+      options:
+      - Natural Selection
+      - Mutation
+      - Evolution
+      - Adaptation
+      required: true
+    - id: 13
+      name: quiz_adaptation_to_environment
+      label: Is adaptation to the environment a characteristic of living beings?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Only for some species
+      required: true
+    - id: 14
+      name: section_final_thoughts_living_beings
+      label: -- Final Quiz Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accuracy_confirmation_quiz_taker_living_beings
+      label: Confirmation of Knowledge Assessment
+      hint: I confirm that I have answered these questions to the best of my knowledge
+      type: select_one
+      options:
+      - I Confirm and Submit Quiz
+      - Other
+      required: true
+    - id: 16
+      name: date_of_knowledge_quiz_log_living_beings
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: additional_quiz_comments_living_beings
+      label: Additional Quiz Comments
+      hint: Any other thoughts on the characteristics of living beings or the story
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quiz_difficulty_rating_living_beings
+      label: Quiz Difficulty Rating
+      hint: How challenging was this quiz for you?
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: interest_in_future_quizzes_living_beings
+      label: Would you like to take more quizzes like this?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please notify me
+      - No, thank you
+      required: false
+    - id: 20
+      name: knowledge_application_example
+      label: Knowledge Application Example
+      hint: Provide a brief example of how you can apply this knowledge in real life
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_final_submission_confirmation
+      label: -- Final Submission Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: final_submission_confirmation_check
+      label: Final Submission Confirmation Check
+      hint: I confirm that I have reviewed my answers and am ready to submit
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true

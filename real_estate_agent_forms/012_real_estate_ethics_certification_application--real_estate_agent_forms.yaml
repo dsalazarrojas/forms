@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_ethics_certification_application
+    pages:
+    - id: 1
+      name: license_info
+      label: License Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: certification_info
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: agreement_info
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: license_details
+      label: License Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: real_estate_license
+      label: Real Estate License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ethics_code
+      label: Ethics Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_school
+      label: Real Estate School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: real_estate_agreed
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: real_estate_provider
+      label: Real Estate Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: real_estate_school
+      label: Real Estate School
+      hint: null
+      type: text
+      options: []
+      required: false

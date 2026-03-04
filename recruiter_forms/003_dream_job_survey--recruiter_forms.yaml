@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: dream_job_survey
+    pages:
+    - id: 1
+      name: dream_job_survey_page1
+      label: whats_your_current_job_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_satisfaction_level
+      label: job_satisfaction_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 4
+      name: dream_job_survey_question1
+      label: what_makes_your_eyes_light_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dream_job_survey_question2
+      label: what_are_your_long_term_goals
+      hint: null
+      type: text
+      options: []
+      required: false

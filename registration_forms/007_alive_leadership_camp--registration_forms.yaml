@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: ALIVE Leadership Camp
+    pages:
+    - id: 1
+      name: camper_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_email
+      label: Email Address
+      hint: Valid email for camp communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: camper_phone
+      label: Phone Number
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: camper_age
+      label: Age
+      hint: Current age as of camp start date
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: church_affiliation
+      label: Church Affiliation
+      hint: Name of your home church
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: leadership_experience
+      label: Previous Leadership Experience
+      hint: Describe any prior leadership roles or experiences
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: spiritual_background
+      label: Spiritual Background
+      hint: Describe your faith journey and relationship with God
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: camp_expectations
+      label: Expectations from Camp
+      hint: What do you hope to gain from the ALIVE Leadership Camp?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: special_dietary_requirements
+      label: Special Dietary Requirements
+      hint: Any food allergies or dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any health conditions we should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication_list
+      label: Current Medications
+      hint: List any medications you take regularly
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_camp_activities
+      label: Consent to Participate in Camp Activities
+      hint: I agree to participate in all scheduled camp activities
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: consent_photo_video
+      label: Consent for Photo and Video Recording
+      hint: I consent to being photographed or recorded during camp activities
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

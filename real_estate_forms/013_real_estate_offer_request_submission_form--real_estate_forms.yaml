@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Offer Request Submission Form
+    pages:
+    - id: 1
+      name: buyer_email
+      label: buyers_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: Address of the property for sale
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: property_price
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: buyer_phone
+      label: buyers_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agent_note
+      label: agent_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: buyer_name
+      label: buyers_name
+      hint: First and last name of the buyer
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agent_email
+      label: agents_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: agent_phone
+      label: agents_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_description
+      label: property_description
+      hint: Brief description of the property
+      type: note
+      options: []
+      required: false

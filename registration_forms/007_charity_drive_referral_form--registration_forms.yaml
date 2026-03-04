@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Drive Referral Form
+    pages:
+    - id: 1
+      name: section_referrer
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_referral
+      label: -- Referral Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: referral_name
+      label: Potential Donor Name
+      hint: Who are you referring
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referral_email
+      label: Referral Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: referral_phone
+      label: Referral Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relationship_to_referral
+      label: Your Relationship to Referral
+      hint: e.g. friend, colleague, family
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_interest
+      label: -- Referral Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: referral_interests
+      label: What is their primary interest
+      hint: null
+      type: select_multiple
+      options:
+      - Making Donations
+      - Corporate Sponsorship
+      - Volunteering
+      - Promoting the Event
+      required: true
+    - id: 11
+      name: preferred_contact_method
+      label: Best way to contact them
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 12
+      name: message_for_referral
+      label: Brief message for the referral
+      hint: What should we mention when we contact them
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_consent
+      label: -- Referral Permission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: consent_given
+      label: Does the referral know you are referring them
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Not Yet
+      required: true
+    - id: 15
+      name: referral_date
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: referral_id_code
+      label: Referral ID or Campaign Code
+      hint: null
+      type: text
+      options: []
+      required: false

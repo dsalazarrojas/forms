@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baptism Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: candidate_first_name
+      label: Candidate First Name
+      hint: First name of person being baptized
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_last_name
+      label: Candidate Last Name
+      hint: Last name of candidate
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: candidate_dob
+      label: Date of Birth
+      hint: Candidate's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: candidate_email
+      label: Email Address (if adult)
+      hint: Email contact
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: candidate_phone
+      label: Phone Number (if adult)
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: For minor candidates
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: baptism_type
+      label: Type of Baptism
+      hint: Select the appropriate type
+      type: select_one
+      options:
+      - Infant Baptism
+      - Adult Baptism
+      - Child Baptism (Age 1-12)
+      - Conditional Baptism
+      required: true
+    - id: 11
+      name: parish_affiliation
+      label: Parish or Church Affiliation
+      hint: Your home parish
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: religious_instruction_completed
+      label: Religious Instruction Completed
+      hint: Have you completed required instruction?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Currently Enrolled
+      - Not Required
+      required: true
+    - id: 13
+      name: sponsor_name
+      label: Godparent/Sponsor Name
+      hint: Name of primary sponsor
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: sponsor_email
+      label: Sponsor Email
+      hint: Sponsor contact email
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: sponsor_parish
+      label: Sponsor's Parish
+      hint: Where is the sponsor affiliated?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: alternate_sponsor_name
+      label: Alternate Sponsor Name
+      hint: If needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_date
+      label: Preferred Baptism Date
+      hint: When would you like the baptism?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: preferred_time
+      label: Preferred Time
+      hint: Morning, afternoon, or evening service?
+      type: select_one
+      options:
+      - Sunday Morning Mass
+      - Sunday Afternoon Service
+      - Weekday Mass
+      - Special Time
+      required: false
+    - id: 19
+      name: baptism_location
+      label: Baptism Location Preference
+      hint: Where should ceremony occur?
+      type: select_one
+      options:
+      - Main Church Sanctuary
+      - Chapel
+      - Outdoor Location
+      - Home (if permitted)
+      - No Preference
+      required: false
+    - id: 20
+      name: guest_anticipated
+      label: Anticipated Number of Guests
+      hint: How many people will attend?
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Considerations
+      hint: Any special circumstances?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirmation_agreement
+      label: I confirm the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

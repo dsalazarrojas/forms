@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Journal Subscription Quote Request
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Subscription Quote Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name for quote contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_name
+      label: Institution name
+      hint: Institution requesting quote
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for sending the quote
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: subscription_type
+      label: Subscription type
+      hint: Choose the subscription model requested
+      type: select_one
+      options:
+      - Individual
+      - Departmental
+      - Institutional
+      required: true
+    - id: 6
+      name: number_of_users
+      label: Number of users or seats
+      hint: Estimated count for pricing
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: desired_start_date
+      label: Desired subscription start date
+      hint: Preferred start date for access
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: billing_address
+      label: Billing address for invoice
+      hint: Address and billing contact details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_requirements
+      label: Additional requirements
+      hint: Custom access or integration needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: budget_reference
+      label: Budget reference or PO number
+      hint: Provide purchase order if available
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Step Confirmation
+    pages:
+    - id: 1
+      name: final_step_confirmation_page
+      label: Final Step Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: confirm_transaction_details
+      label: Confirm Transaction Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: confirm_event_details
+      label: Confirm Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

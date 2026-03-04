@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Care Services Registration
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: authorization
+      label: Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''landscaping''}'
+      - '{''value'': ''property care''}'
+      - '{''value'': ''both''}'
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

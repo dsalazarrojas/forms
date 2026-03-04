@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Single Release Form
+    pages:
+    - id: 1
+      name: contributor_permission
+      label: Contributor Permission
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Contributor Permission: Contributor has given permission'
+      - 'Contributor Permission: Contributor has not given permission'
+      - 'Contributor Permission: Permission pending'
+      required: false
+    - id: 2
+      name: contributor_signature
+      label: Contributor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contributor_email
+      label: Contributor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: project_owner_name
+      label: Project Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_owner_email
+      label: Project Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: project_owner_phone
+      label: Project Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_owner_signature
+      label: Project Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contributor_permission_comment
+      label: Contributor Permission Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_owner_permission_comment
+      label: Project Owner Permission Comment
+      hint: null
+      type: text
+      options: []
+      required: false

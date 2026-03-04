@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moving Inventory Form
+    pages:
+    - id: 1
+      name: moving_inventory_form
+      label: item_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: moving_inventory_form_items
+      label: items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: moving_inventory_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: moving_inventory_form_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: moving_inventory_form_from_location
+      label: from_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: moving_inventory_form_to_location
+      label: to_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: moving_inventory_form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

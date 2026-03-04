@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: propane_tank_return_and_refund_request_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: propane_tank_info
+      label: Propane Tank Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tank_serial_number
+      label: Tank Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tank_size
+      label: Tank Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: tank_capacity
+      label: Tank Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tank_type
+      label: Tank Type
+      hint: null
+      type: select_one
+      options:
+      - Above-Ground
+      - Below-Ground
+      required: true
+    - id: 8
+      name: reason_for_return
+      label: Reason For Return
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: delivery_team
+      label: Delivery Team
+      hint: null
+      type: select_one
+      options:
+      - Delivery Team 1
+      - Delivery Team 2
+      - Delivery Team 3
+      required: false
+    - id: 12
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      - Texas
+      required: true
+    - id: 19
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: user_id
+      label: user_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: timestamp
+      label: timestamp
+      hint: null
+      type: number
+      options: []
+      required: false

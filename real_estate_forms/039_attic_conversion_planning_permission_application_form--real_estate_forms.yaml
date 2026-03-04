@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attic Conversion Planning Permission Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of property owner or authorized applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Applicant Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_information
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Address of the property to be converted
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: House, apartment, etc.
+      type: select_one
+      options:
+      - Single Family Home
+      - Multi-Family
+      - Townhouse
+      - Condo
+      - Other
+      required: true
+    - id: 12
+      name: property_lot_size
+      label: Property Lot Size
+      hint: In square feet or square meters
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parcel_number
+      label: Parcel Number
+      hint: Tax assessor parcel number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_information
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: conversion_purpose
+      label: Purpose of Attic Conversion
+      hint: Residential bedroom, office, storage, etc.
+      type: select_one
+      options:
+      - Residential Bedroom
+      - Home Office
+      - Rental Unit
+      - Storage
+      - Studio
+      - Other
+      required: true
+    - id: 16
+      name: attic_area_sqft
+      label: Estimated Attic Area (sq ft)
+      hint: Square footage to be converted
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: project_description
+      label: Project Description
+      hint: Detailed description of planned conversion
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: construction_timeline
+      label: -- Construction Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: project_start_date
+      label: Proposed Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: project_end_date
+      label: Proposed Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: contractor_information
+      label: -- Contractor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contractor_name
+      label: Contractor Name
+      hint: Licensed contractor handling the project
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contractor_license_number
+      label: Contractor License Number
+      hint: Professional license number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: architect_engineer_needed
+      label: Architect or Engineer Design Required
+      hint: Is professional design plan required?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - To Be Determined
+      required: true
+    - id: 25
+      name: submission_notes
+      label: Additional Notes
+      hint: Any other information for your application?
+      type: text
+      options: []
+      required: false

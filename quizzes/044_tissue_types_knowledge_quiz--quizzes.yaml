@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tissue Types Knowledge Quiz
+    pages:
+    - id: 1
+      name: home_page
+      label: Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions_page
+      label: Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: quiz_page
+      label: Quiz
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: result_page
+      label: Result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_1
+      label: What is the main function of the circulatory system?
+      hint: null
+      type: select_one
+      options:
+      - Blood transports oxygen and carbon dioxide throughout the body.
+      - Maintains fluid balance in the body.
+      - Regulates body temperature.
+      - Supports the immune system.
+      required: false
+    - id: 6
+      name: question_2
+      label: Which type of tissue is responsible for producing hormones?
+      hint: null
+      type: select_one
+      options:
+      - Endocrine
+      - Muscular
+      - Nervous
+      - Epithelial
+      required: false
+    - id: 7
+      name: question_3
+      label: What type of tissue is responsible for movement?
+      hint: null
+      type: select_one
+      options:
+      - Muscular
+      - Nervous
+      - Epithelial
+      - None
+      required: false
+    - id: 8
+      name: question_4
+      label: What is the main function of the excretory system?
+      hint: null
+      type: select_one
+      options:
+      - Removes waste products from the body.
+      - Maintains fluid balance in the body.
+      - Regulates body temperature.
+      - Produces hormones.
+      required: false
+    - id: 9
+      name: question_5
+      label: Which type of tissue is responsible for protection?
+      hint: null
+      type: select_one
+      options:
+      - Muscular
+      - Nervous
+      - Epithelial
+      - None
+      required: false
+    - id: 10
+      name: question_6
+      label: Which type of tissue is responsible for the support and structure of
+        the body?
+      hint: null
+      type: select_one
+      options:
+      - Epithelial
+      - Muscular
+      - Nervous
+      - None
+      required: false
+    - id: 11
+      name: question_7
+      label: Which type of tissue is responsible for the transportation and storage
+        of nutrients?
+      hint: null
+      type: select_one
+      options:
+      - Epithelial
+      - Muscular
+      - Nervous
+      - None
+      required: false
+    - id: 12
+      name: result_1
+      label: Result
+      hint: null
+      type: select_multiple
+      options:
+      - Correct answers
+      - Incorrect answers
+      required: false

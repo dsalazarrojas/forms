@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Knowledge Assessment
+    pages:
+    - id: 1
+      name: medical_knowledge_assessment
+      label: Medical Knowledge Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_questions
+      label: Evaluation Questions
+      hint: Evaluate the clinical knowledge of students or healthcare staff with this
+        customizable form.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

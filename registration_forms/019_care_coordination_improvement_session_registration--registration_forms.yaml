@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Improvement Session Registration
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_organization_name
+      label: Organization/Practice Name
+      hint: Enter the name of your facility
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email_address
+      label: Attendee Email Address
+      hint: We will send your session registration confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: professional_role_title
+      label: Professional Role/Title
+      hint: Select the role that best describes you
+      type: select_one
+      options:
+      - label: Physician (MD/DO)
+        value: physician
+      - label: Nurse (RN/LPN)
+        value: nurse
+      - label: Care Manager/Coordinator
+        value: care_manager
+      - label: Practice Administrator
+        value: administrator
+      - label: Social Worker
+        value: social_worker
+      required: true
+    - id: 6
+      name: session_registration_header
+      label: -- Session Details --
+      hint: Choose the date and topics you are interested in
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: session_date_time_selection
+      label: Session Date & Time
+      hint: Select the one that fits your schedule
+      type: select_one
+      options:
+      - label: March 10, 2026 - 10:00 AM (Virtual)
+        value: session_1
+      - label: March 12, 2026 - 2:00 PM (In-Person)
+        value: session_2
+      - label: March 17, 2026 - 9:00 AM (Virtual)
+        value: session_3
+      required: true
+    - id: 8
+      name: care_coordination_interest_areas
+      label: Areas of Interest
+      hint: Select the topics you would like to focus on
+      type: select_multiple
+      options:
+      - label: Transitions of Care
+        value: transitions
+      - label: Team-Based Care Communication
+        value: communication
+      - label: Primary Care Provider (PCP) Engagement
+        value: pcp_engagement
+      - label: Patient Education & Activation
+        value: patient_ed
+      - label: Using Technology for Coordination
+        value: technology
+      required: true
+    - id: 9
+      name: preferred_workshop_format_style
+      label: Preferred Workshop Format
+      hint: Select how you like to learn
+      type: select_one
+      options:
+      - label: Lecture Style (Expert Speaker)
+        value: lecture
+      - label: Interactive Group Workshop
+        value: interactive
+      - label: Case Study Review
+        value: case_study
+      - label: Open Q&A Session
+        value: qa
+      required: true
+    - id: 10
+      name: attendee_special_needs_header
+      label: -- Special Needs & Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions_attendance
+      label: Dietary Restrictions (for in-person sessions)
+      hint: If applicable, list any allergies or food preferences
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accessibility_accommodations_needed
+      label: Accessibility Accommodations Needed
+      hint: Any specific requirements for participation
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_questions_for_speakers
+      label: Questions for the Speakers
+      hint: What would you like to ask our session leaders?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: registration_confirmation_authorization
+      label: I confirm my registration for the session selected
+      hint: null
+      type: select_one
+      options:
+      - label: Registered and Confirmed
+        value: registered
+      - Other
+      required: true

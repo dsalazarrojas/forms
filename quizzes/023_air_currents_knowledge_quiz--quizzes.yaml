@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Currents Knowledge Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class_name
+      label: Class Name
+      hint: Course or grade
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: q1_air_current
+      label: Question 1 - What is an air current
+      hint: Select the best definition
+      type: select_one
+      options:
+      - A flowing movement of air
+      - A stationary body of air
+      - A type of cloud
+      - A weather instrument
+      required: true
+    - id: 5
+      name: q2_convection
+      label: Question 2 - What causes convection currents in air
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Temperature differences causing density changes
+      - Wind blowing
+      - Earth rotation only
+      - Ocean currents
+      required: true
+    - id: 6
+      name: q3_warm_air
+      label: Question 3 - What happens to warm air
+      hint: Select the best answer
+      type: select_one
+      options:
+      - It rises because it is less dense
+      - It sinks because it is denser
+      - It stays in place
+      - It disappears
+      required: true
+    - id: 7
+      name: q4_cold_air
+      label: Question 4 - What happens to cold air
+      hint: Select the best answer
+      type: select_one
+      options:
+      - It sinks because it is denser
+      - It rises because it is less dense
+      - It stays in place
+      - It becomes invisible
+      required: true
+    - id: 8
+      name: q5_coriolis
+      label: Question 5 - What is the Coriolis effect
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Deflection of moving air due to Earth rotation
+      - A type of ocean current
+      - A weather measurement tool
+      - A cloud formation
+      required: true
+    - id: 9
+      name: q6_wind_direction
+      label: Question 6 - What determines wind direction
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Pressure differences and Earth rotation
+      - Temperature only
+      - Humidity only
+      - Cloud cover
+      required: true
+    - id: 10
+      name: q7_sea_breeze
+      label: Question 7 - What causes a sea breeze
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Land heats faster than water during the day
+      - Water heats faster than land
+      - The moon pulls the air
+      - Fish swimming in the ocean
+      required: true
+    - id: 11
+      name: q8_land_breeze
+      label: Question 8 - When does a land breeze occur
+      hint: Select the best answer
+      type: select_one
+      options:
+      - At night when land cools faster than water
+      - During the day
+      - Only in winter
+      - Only during storms
+      required: true
+    - id: 12
+      name: q9_jet_stream
+      label: Question 9 - What is the jet stream
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Fast flowing air currents high in the atmosphere
+      - A type of airplane
+      - Ocean water flow
+      - A weather balloon
+      required: true
+    - id: 13
+      name: q10_pressure_systems
+      label: Question 10 - Air moves from areas of
+      hint: Select the best answer
+      type: select_one
+      options:
+      - High pressure to low pressure
+      - Low pressure to high pressure
+      - Cold to hot only
+      - East to west only
+      required: true
+    - id: 14
+      name: q11_global_winds
+      label: Question 11 - What are trade winds
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Prevailing winds that blow from east to west near equator
+      - Winds that only blow during trade season
+      - Ocean currents
+      - Storm systems
+      required: true
+    - id: 15
+      name: q12_local_winds
+      label: Question 12 - Which is an example of a local wind
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Mountain and valley breezes
+      - Jet stream
+      - Trade winds
+      - Westerlies
+      required: true
+    - id: 16
+      name: q13_altitude
+      label: Question 13 - How does altitude affect air currents
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Air pressure and density decrease with altitude
+      - Air gets thicker with altitude
+      - No effect
+      - Air becomes warmer with altitude
+      required: true
+    - id: 17
+      name: q14_thermals
+      label: Question 14 - What are thermals
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Rising columns of warm air
+      - Cold air pockets
+      - Types of clouds
+      - Weather instruments
+      required: true
+    - id: 18
+      name: q15_turbulence
+      label: Question 15 - What causes air turbulence
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Irregular air motion from obstacles or temperature changes
+      - Smooth air flow
+      - Calm weather
+      - Perfect conditions
+      required: true
+    - id: 19
+      name: q16_bonus
+      label: Bonus Question - Explain Air Currents
+      hint: Briefly explain how air currents affect weather
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: completion_time
+      label: Completion Time (minutes)
+      hint: Time taken to complete
+      type: number
+      options: []
+      required: false

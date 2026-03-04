@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Pricing
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: price_inquiry
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - 10-20
+      - 20-30
+      - 30-40
+      required: false
+    - id: 4
+      name: goods_services
+      label: Goods/Services
+      hint: null
+      type: select_one
+      options:
+      - Goods
+      - Services
+      required: true
+    - id: 5
+      name: goods_services_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: buyer_seller
+      label: Buyer/Seller
+      hint: null
+      type: select_one
+      options:
+      - Buyer
+      - Seller
+      required: true
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: seller_info
+      label: Seller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

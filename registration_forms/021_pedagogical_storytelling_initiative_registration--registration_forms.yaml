@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedagogical Storytelling Initiative Registration
+    pages:
+    - id: 1
+      name: form_data_1
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: Select Your Roles
+      hint: null
+      type: select_one
+      options:
+      - Educator
+      - Facilitator
+      - Both
+      required: false
+    - id: 3
+      name: experience
+      label: What Experience Do You Have
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: motivations
+      label: What Motivates You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participants
+      label: Organize Your Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 3-5
+      - 6-10
+      - 11-20
+      - None
+      required: false
+    - id: 6
+      name: workshop_or_community
+      label: Which Workshop or Community Do You Want To Join?
+      hint: null
+      type: select_one
+      options:
+      - Pedagogical Storytelling Initiative
+      - Another Community
+      - None
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

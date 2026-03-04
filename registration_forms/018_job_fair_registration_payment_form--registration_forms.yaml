@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Fair Registration Payment Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: user_email
+      hint: User email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: event_date
+      hint: Event date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: employer_name
+      label: employer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_fair_type
+      label: job_fair_type
+      hint: null
+      type: select_one
+      options:
+      - Job seeker
+      - Event organizer
+      - Employer
+      required: true
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - On-site Payment
+      - Invoice
+      required: true
+    - id: 8
+      name: payment_total
+      label: payment_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Failed
+      required: true
+    - id: 10
+      name: payment_note
+      label: payment_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: employer_phone
+      label: employer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_address
+      label: event_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: event_city
+      label: event_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_state
+      label: event_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_zip
+      label: event_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: event_country
+      label: event_country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: job_fair_date
+      label: job_fair_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: job_fair_time
+      label: job_fair_time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: job_fair_location
+      label: job_fair_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: job_fair_description
+      label: job_fair_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: job_fair_url
+      label: job_fair_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: job_fair_url_text
+      label: job_fair_url_text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: job_fair_url_link
+      label: job_fair_url_link
+      hint: null
+      type: text
+      options: []
+      required: false

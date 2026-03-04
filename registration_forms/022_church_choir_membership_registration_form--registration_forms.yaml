@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Choir Membership Registration Form
+    pages:
+    - id: 1
+      name: header_personal
+      label: -- Choir Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For sheet music distribution and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: membership_status
+      label: Church Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Church Member
+      - Non-Member Guest
+      required: true
+    - id: 6
+      name: header_musical_background
+      label: -- Musical Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vocal_part
+      label: Voice Part
+      hint: Select the part you usually sing
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      - Not Sure - Needs Placement
+      required: true
+    - id: 8
+      name: can_read_music
+      label: Can you read sheet music?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Proficiently
+      - Yes - Basic
+      - No - Learn by ear
+      required: true
+    - id: 9
+      name: choir_experience
+      label: Previous Choir Experience
+      hint: List any other choirs or musical groups
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: plays_instrument
+      label: Do you play any instruments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: header_participation
+      label: -- Availability and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: weekly_rehearsal_commitment
+      label: Able to attend Thursday 7pm Rehearsals?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Most of the time
+      - Occasionally
+      required: true
+    - id: 13
+      name: special_service_availability
+      label: Available for Special Services
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Christmas Eve
+      - Easter Sunday
+      - Good Friday
+      - Summer Specials
+      required: false
+    - id: 14
+      name: solos_interest
+      label: Are you interested in singing solos or small ensembles?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe later
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Anything else the Choir Director should know?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

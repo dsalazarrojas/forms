@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lease_type
+      label: Lease Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Mixed Use
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Apartment
+      - Condo
+      - Townhouse
+      - Single Family
+      - Duplex
+      required: false
+    - id: 10
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: false
+    - id: 11
+      name: available_rooms
+      label: Available Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: security_deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: move_in_furniture
+      label: Move In Furniture
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Negotiable
+      required: false
+    - id: 14
+      name: move_in_equipment
+      label: Move In Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Refrigerator
+      - Stove
+      - Dishwasher
+      - Microwave
+      - Washing Machine
+      - Dryer
+      - Internet
+      - Television
+      required: false
+    - id: 15
+      name: pets_allowed
+      label: Pets Allowed
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 16
+      name: smoking_policy
+      label: Smoking Policy
+      hint: null
+      type: select_one
+      options:
+      - No Smoking
+      - Smoking Allowed
+      - Negotiable
+      required: false
+    - id: 17
+      name: move_in_date_time
+      label: Move In Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
+      - Semi-Monthly
+      - Annually
+      required: false
+    - id: 19
+      name: rent_amount_flexible
+      label: Rent Amount Flexible
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: utilities_included
+      label: Utilities Included
+      hint: null
+      type: select_multiple
+      options:
+      - Electricity
+      - Water
+      - Gas
+      - Heat
+      - Internet
+      - Cable
+      required: false
+    - id: 21
+      name: parking_included
+      label: Parking Included
+      hint: null
+      type: select_multiple
+      options:
+      - Included
+      - Not Included
+      required: false
+    - id: 22
+      name: amenities
+      label: Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - Pool
+      - Gym
+      - Parking
+      - View
+      - View of Lake
+      - View of Park
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: landlord_info
+      label: Landlord Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

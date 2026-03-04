@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Returns Optimization Registration Form
+    pages:
+    - id: 1
+      name: business_details
+      label: Business Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: return_volumes
+      label: Return Volumes
+      hint: null
+      type: select_multiple
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      required: false
+    - id: 3
+      name: business_challenges
+      label: Business Challenges
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: return_volumes_challenges
+      label: Return Volumes Challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_details_2
+      label: Business Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - US Eastern
+      - Europe
+      required: false
+    - id: 13
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: business_days
+      label: Business Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Agent Or Broker Application Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_info_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_info
+      label: Employment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_info_years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employment_info_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: employment_info_previous_companies
+      label: Previous Companies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employment_info_previous_company_1
+      label: Previous Company 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employment_info_previous_company_2
+      label: Previous Company 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_info_previous_company_3
+      label: Previous Company 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education_info
+      label: Education Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: education_info_degree_level
+      label: Degree Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: education_info_institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_info_field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: personal_info
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: personal_info_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: personal_info_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: personal_info_birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: license_info
+      label: License Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: license_info_license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: license_info_license_number
+      label: License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: license_info_license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

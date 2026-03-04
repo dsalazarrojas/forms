@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Service Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_information
+      label: -- Subscriber information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Legal or trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for account management
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for billing and notices
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for urgent communication
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_plan
+      label: Service plan
+      hint: Choose the subscription level
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      required: true
+    - id: 7
+      name: billing_cycle
+      label: Billing cycle
+      hint: Frequency of invoices
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 8
+      name: start_date
+      label: Service start date
+      hint: Requested start date for services
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Preferred payment option
+      type: select_one
+      options:
+      - Bank transfer
+      - Credit card
+      - Invoice
+      required: true
+    - id: 10
+      name: purchase_order_number
+      label: Purchase order number
+      hint: Optional PO number for billing
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accounting_software_integration
+      label: Accounting software integration
+      hint: Indicate software to integrate if any
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: terms_and_conditions_acceptance
+      label: Terms and conditions acceptance
+      hint: Agree to subscription terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information to help onboarding
+      type: text
+      options: []
+      required: false

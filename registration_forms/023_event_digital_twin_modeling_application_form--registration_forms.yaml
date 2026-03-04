@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Digital Twin Modeling Application Form
+    pages:
+    - id: 1
+      name: event_proposal
+      label: Event Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Event Type 1''}'
+      - '{''id'': 2, ''label'': ''Event Type 2''}'
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: organizer
+      label: Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendees
+      label: Attendees
+      hint: Number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_type_other
+      label: Other Event Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Event Category 1''}'
+      - '{''id'': 2, ''label'': ''Event Category 2''}'
+      - '{''id'': 3, ''label'': ''Event Category 3''}'
+      required: true
+    - id: 12
+      name: event_sub_category
+      label: Event Sub Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Event Sub Category 1''}'
+      - '{''id'': 2, ''label'': ''Event Sub Category 2''}'
+      - '{''id'': 3, ''label'': ''Event Sub Category 3''}'
+      required: true
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Event Status 1''}'
+      - '{''id'': 2, ''label'': ''Event Status 2''}'
+      - '{''id'': 3, ''label'': ''Event Status 3''}'
+      required: true
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file2
+      label: File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: file3
+      label: File 3
+      hint: null
+      type: text
+      options: []
+      required: false

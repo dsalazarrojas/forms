@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Funding Mortgage Audit Checklist
+    pages:
+    - id: 1
+      name: pre_funding_mortgage_audit_checklist_page_1
+      label: Pre Funding Mortgage Audit Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mortgage_file_review
+      label: Mortgage File Review
+      hint: Flag any errors or irregularities with your mortgage file review.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risks_identified
+      label: Risks Identified
+      hint: List any risks identified during audit.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_details
+      label: Risk Details
+      hint: Please provide details about the risk.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flagged_issues
+      label: Flagged Issues
+      hint: List any issues that were flagged during the audit.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

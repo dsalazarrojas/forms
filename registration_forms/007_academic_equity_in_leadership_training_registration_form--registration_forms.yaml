@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Equity In Leadership Training Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Registration for Leadership Training --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Participant full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Institutional email preferred
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job title or role
+      hint: Current role in the institution
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department or unit
+      hint: Department name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: motivation
+      label: Motivation for attending
+      hint: Brief statement of learning goals
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Indicate any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prior_training
+      label: Prior equity training experience
+      hint: Describe previous relevant training
+      type: select_one
+      options:
+        - None
+        - Some
+        - Extensive
+      required: false
+    - id: 9
+      name: session_preferences
+      label: Session format preference
+      hint: In person or online preferences
+      type: select_one
+      options:
+        - In person
+        - Online
+        - Hybrid
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Optional emergency contact
+      type: text
+      options: []
+      required: false

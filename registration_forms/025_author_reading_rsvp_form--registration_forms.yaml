@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Author Reading RSVP Form
+    pages:
+    - id: 1
+      name: rsvp_date
+      label: RSVP Date
+      hint: When you are responding
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_title
+      label: Author Reading Event Title
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When is the reading
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: Start time of the reading
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: Where is the reading being held
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: author_name
+      label: Author Name
+      hint: Who will be reading
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rsvp_response
+      label: Will You Attend
+      hint: Your attendance response
+      type: select_one
+      options:
+      - Yes - I Will Attend
+      - No - Cannot Attend
+      - Maybe - Unsure
+      - Interested - Need More Info
+      required: true
+    - id: 11
+      name: number_of_guests
+      label: Number of Guests in Your Party
+      hint: How many people total
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: guest_names
+      label: Names of Additional Guests
+      hint: If bringing others
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: relationship_to_author
+      label: Your Relationship to the Author
+      hint: How do you know the author
+      type: select_one
+      options:
+      - Fan of the Work
+      - Know the Author Personally
+      - Professional Colleague
+      - Friend or Family
+      - Just Interested
+      - Media/Press
+      required: false
+    - id: 14
+      name: read_authors_work
+      label: Have You Read the Author's Work
+      hint: Are you familiar with their books
+      type: select_one
+      options:
+      - Yes - Multiple Books
+      - Yes - One or Two
+      - No - First Time
+      - Not Sure
+      required: false
+    - id: 15
+      name: favorite_work
+      label: Favorite Work by This Author
+      hint: Which is your favorite
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transportation_needs
+      label: Transportation Assistance Needed
+      hint: Do you need help getting there
+      type: select_one
+      options:
+      - No - Have Own Transport
+      - Yes - Need Pickup
+      - Yes - Need Directions
+      - Yes - Other Help
+      required: false
+    - id: 17
+      name: accessibility_requirements
+      label: Accessibility Accommodations Needed
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: seating_preference
+      label: Seating Preference
+      hint: Front, middle, back, etc
+      type: select_one
+      options:
+      - Front Row - Close to Stage
+      - Middle Section
+      - Back - Easy Exit
+      - No Preference
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For any reception/refreshments
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: newsletter_signup
+      label: Sign Up for Author Newsletter
+      hint: Receive future updates
+      type: select_one
+      options:
+      - Yes - Subscribe Me
+      - No - Not Interested
+      - Already Subscribed
+      required: false
+    - id: 21
+      name: parking_info_needed
+      label: Need Parking Information
+      hint: Do you need parking details
+      type: select_one
+      options:
+      - Yes - Send Directions
+      - No - Already Know
+      - Not Applicable
+      required: false
+    - id: 22
+      name: prefer_contact_method
+      label: Preferred Contact Method
+      hint: How would you like updates
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No Contact - Event Confirmed
+      required: true
+    - id: 23
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Anything we should know
+      type: text
+      options: []
+      required: false

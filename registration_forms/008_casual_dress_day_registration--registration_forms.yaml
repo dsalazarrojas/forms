@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casual Dress Day Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Dress Down Registration --
+      hint: Complete this form to register for upcoming casual dress days
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Logistics
+      - Marketing
+      - R&D
+      - Sales
+      - Executive
+      required: true
+    - id: 4
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Single Event
+      - Monthly Pass (Best Value)
+      - Annual Subscription
+      required: true
+    - id: 5
+      name: events_selection
+      label: Select Upcoming Casual Friday Dates
+      hint: Select all that apply for single events
+      type: select_multiple
+      options:
+      - March 7
+      - March 14
+      - March 21
+      - March 28
+      - April 4
+      required: false
+    - id: 6
+      name: section_guidelines
+      label: -- Dress Code Guidelines --
+      hint: Please review the following rules
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: guidelines_info
+      label: Casual dress must be neat, clean, and professional. No offensive graphics
+        or unsafe footwear.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: agreement_terms
+      label: I agree to follow the company dress code policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact (Optional Update)
+      hint: Just in case we need to update our records
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_confirmation
+      label: Proof of Donation/Payment
+      hint: Have you already made your donation to our charity partner
+      type: select_one
+      options:
+      - Yes, via online portal
+      - Will bring cash
+      - Payroll deduction authorized
+      required: true
+    - id: 11
+      name: comments
+      label: Any questions or suggestions for themes
+      hint: null
+      type: text
+      options: []
+      required: false

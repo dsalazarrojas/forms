@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Committee Interest Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Official School Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_academic_year
+      label: Current Academic Year
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      required: true
+    - id: 7
+      name: section_committee_pref
+      label: -- Committee Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_choice_committee
+      label: What is your first choice committee
+      hint: null
+      type: select_one
+      options:
+      - Events and Programming
+      - Finance and Budgeting
+      - Public Relations and Marketing
+      - Academic Affairs
+      - Student Welfare
+      - Diversity and Inclusion
+      - Technology and Innovation
+      required: true
+    - id: 9
+      name: second_choice_committee
+      label: What is your second choice committee
+      hint: null
+      type: select_one
+      options:
+      - Events and Programming
+      - Finance and Budgeting
+      - Public Relations and Marketing
+      - Academic Affairs
+      - Student Welfare
+      - Diversity and Inclusion
+      - Technology and Innovation
+      required: true
+    - id: 10
+      name: reason_for_choice
+      label: Why are you interested in these specific committees
+      hint: Provide a brief explanation of your interest
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_exp_skills
+      label: -- Experience and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: relevant_experience
+      label: Describe any relevant experience for these roles
+      hint: e.g., Previous committee work, clubs, or internships
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: key_skills
+      label: What key skills would you bring to the committee
+      hint: e.g., Graphic design, public speaking, budgeting, etc.
+      type: select_multiple
+      options:
+      - Leadership
+      - Organization
+      - Communication
+      - Technical Skills
+      - Creativity
+      - Problem Solving
+      required: true
+    - id: 14
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: meeting_availability
+      label: Are you available for weekly committee meetings
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - It depends on the schedule
+      required: true
+    - id: 16
+      name: available_evenings
+      label: Which evenings are you generally available for meetings
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 17
+      name: section_personality
+      label: -- Getting to Know You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: personality_traits
+      label: How would you describe your personality or working style
+      hint: e.g., Detail-oriented, big-picture thinker, collaborator, etc.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: fun_fact
+      label: Share a fun fact about yourself
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_date_form
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: acknowledgment_interest
+      label: I confirm that I am interested in serving on the committee and will fulfill
+        my duties
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true

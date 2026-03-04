@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: request_a_showing_form
+    pages:
+    - id: 1
+      name: listing_info
+      label: Listing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: showing_preferences
+      label: showing_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Agent
+      - Owner
+      - Other
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: showing_request
+      label: showing_request
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00 AM - 12:00 PM
+      - 12:00 PM - 4:00 PM
+      - 4:00 PM - 8:00 PM
+      required: false
+    - id: 5
+      name: showings
+      label: Showings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: showing_date_time
+      label: Showing Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: showing_time
+      label: Showing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: showing_type
+      label: Showing Type
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Phone Only
+      required: false
+    - id: 9
+      name: agent_info
+      label: Agent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: showing_preferences_2
+      label: showing_preferences_2
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Phone Only
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: showing_message
+      label: Showing Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_info
+      label: Follow-up Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

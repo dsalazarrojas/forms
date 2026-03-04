@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Panel Application Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10000, ''name'': ''Business''}'
+      - '{''id'': 10001, ''name'': ''Institution''}'
+      - '{''id'': 10002, ''name'': ''Organization''}'
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10003, ''name'': ''Pending''}'
+      - '{''id'': 10004, ''name'': ''Approved''}'
+      - '{''id'': 10005, ''name'': ''Rejected''}'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10006, ''name'': ''chatjimmy''}'
+      - '{''id'': 10007, ''name'': ''another_tool''}'
+      required: false
+    - id: 11
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: panel_name
+      label: Panel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: application_id
+      label: Application Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_at
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: application_status_notes
+      label: Application Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false

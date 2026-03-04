@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_development_course_enrollment_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_selection
+      label: select_program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Program A''}'
+      - '{''id'': 2, ''label'': ''Program B''}'
+      - '{''id'': 3, ''label'': ''Program C''}'
+      required: false
+    - id: 3
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: course_selection
+      label: select_course
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Course 1''}'
+      - '{''id'': 2, ''label'': ''Course 2''}'
+      - '{''id'': 3, ''label'': ''Course 3''}'
+      - '{''id'': 4, ''label'': ''Course 4''}'
+      - '{''id'': 5, ''label'': ''Course 5''}'
+      required: false
+    - id: 5
+      name: participant_info_repeat
+      label: participant_info_repeat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_selection
+      label: select_date
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': datetime.date(2024, 1, 1)}'
+      - '{''id'': 2, ''label'': datetime.date(2024, 1, 15)}'
+      - '{''id'': 3, ''label'': datetime.date(2024, 2, 1)}'
+      required: false
+    - id: 7
+      name: time_selection
+      label: select_time
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''08:00''}'
+      - '{''id'': 2, ''label'': 840}'
+      - '{''id'': 3, ''label'': 960}'
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

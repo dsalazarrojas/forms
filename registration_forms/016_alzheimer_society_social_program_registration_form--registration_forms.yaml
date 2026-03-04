@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alzheimer Society Social Program Registration Form
+    pages:
+    - id: 1
+      name: section_participant_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for registration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Name and relation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_session
+      label: Program session
+      hint: Select preferred session
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 6
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: List any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mobility_needs
+      label: Mobility needs
+      hint: Indicate if accessibility support required
+      type: select_one
+      options:
+      - None
+      - Mild assistance
+      - Full assistance
+      required: false
+    - id: 8
+      name: consent_media_release
+      label: Consent for media release
+      hint: Select yes to allow photographs
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information for organizers
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_open_houses_xperience
+    pages:
+    - id: 1
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: home_type
+      label: home type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Townhouse
+      - Condo
+      - Duplex
+      required: false
+    - id: 8
+      name: property_type
+      label: property type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Townhouse
+      - Condo
+      - Duplex
+      required: false
+    - id: 9
+      name: home_status
+      label: home status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Coming Soon
+      - Sold
+      - Under Contract
+      - Off Market
+      required: false
+    - id: 10
+      name: virtual_viewing_date
+      label: virtual viewing date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: virtual_viewing_time
+      label: virtual viewing time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: showing_instructions
+      label: showing instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: open_houses_link
+      label: open houses link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: virtual_agent_name
+      label: virtual agent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: virtual_agent_phone
+      label: virtual agent phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: virtual_agent_email
+      label: virtual agent email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: virtual_agent_status
+      label: virtual agent status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Coming Soon
+      - Sold
+      - Under Contract
+      - Off Market
+      required: false

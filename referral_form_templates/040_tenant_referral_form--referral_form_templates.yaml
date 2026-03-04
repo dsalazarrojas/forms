@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Referral Form
+    pages:
+    - id: 1
+      name: tenant_referral_form_page_1
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: renter_info
+      label: Renter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed'', ''value'': ''employed''}'
+      - '{''label'': ''Unemployed'', ''value'': ''unemployed''}'
+      - '{''label'': ''Retired'', ''value'': ''retired''}'
+      - '{''label'': ''Disabled'', ''value'': ''disabled''}'
+      - '{''label'': ''Unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 6
+      name: rental_requirements
+      label: Rental Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tenant_referral_form_page_8
+      label: Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Lease Agreement'', ''value'': ''lease_agreement''}'
+      - '{''label'': ''Lease/ Agreement'', ''value'': ''lease_agreement/lease_agreement''}'
+      - '{''label'': ''None'', ''value'': ''none''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 10
+      name: lease_terms_agreement
+      label: Lease Terms Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

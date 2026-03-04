@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_art_class_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_selection
+      label: Select a Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: course_date
+      label: Course Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Transfer
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 10
+      name: art_medium
+      label: Art Medium
+      hint: null
+      type: select_multiple
+      options:
+      - Drawing
+      - Painting
+      - Printmaking
+      - Mixed Media
+      required: false

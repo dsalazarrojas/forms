@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Buyer Consultation Questionnaire Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Single Family Home''}'
+      - '{''id'': 2, ''value'': ''Townhouse''}'
+      - '{''id'': 3, ''value'': ''Condo''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      - '{''id'': 5, ''value'': ''Unknown''}'
+      required: false
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: num_beds
+      label: Number of Beds
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': 1}'
+      - '{''id'': 2, ''value'': 2}'
+      - '{''id'': 3, ''value'': 3}'
+      - '{''id'': 4, ''value'': ''More''}'
+      required: false
+    - id: 5
+      name: num_bath
+      label: Number of Bath
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: num_floors
+      label: Number of Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_move_in_date
+      label: Preferred Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: preferred_move_out_date
+      label: Preferred Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: preferred_move_date_range
+      label: Preferred Move Date Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: home_location
+      label: Home Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''City''}'
+      - '{''id'': 2, ''value'': ''Suburbs''}'
+      - '{''id'': 3, ''value'': ''Rural''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      - '{''id'': 5, ''value'': ''Unknown''}'
+      required: false
+    - id: 13
+      name: num_parking_spaces
+      label: Number of Parking Spaces
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: num_garage_spaces
+      label: Number of Garage Spaces
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: lot_type
+      label: Lot Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Corner Lot''}'
+      - '{''id'': 2, ''value'': ''Linear Lot''}'
+      - '{''id'': 3, ''value'': ''Cul-de-sac Lot''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      - '{''id'': 5, ''value'': ''Unknown''}'
+      required: false
+    - id: 17
+      name: view
+      label: View
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Ocean View''}'
+      - '{''id'': 2, ''value'': ''Mountain View''}'
+      - '{''id'': 3, ''value'': ''City View''}'
+      - '{''id'': 4, ''value'': ''Country View''}'
+      - '{''id'': 5, ''value'': ''Other''}'
+      required: false
+    - id: 18
+      name: home_features
+      label: Home Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Pool''}'
+      - '{''id'': 2, ''value'': ''Gourmet Kitchen''}'
+      - '{''id'': 3, ''value'': ''High Ceilings''}'
+      - '{''id'': 4, ''value'': ''Large Kitchen Island''}'
+      - '{''id'': 5, ''value'': ''Other''}'
+      required: false
+    - id: 19
+      name: neighborhood_characteristics
+      label: Neighborhood Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: neighborhood_safety
+      label: Neighborhood Safety
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very Safe''}'
+      - '{''id'': 2, ''value'': ''Somewhat Safe''}'
+      - '{''id'': 3, ''value'': ''Somewhat Not Safe''}'
+      - '{''id'': 4, ''value'': ''Not Safe''}'
+      required: false
+    - id: 21
+      name: neighborhood_fellowship
+      label: Neighborhood Fellowship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very Active''}'
+      - '{''id'': 2, ''value'': ''Somewhat Active''}'
+      - '{''id'': 3, ''value'': ''Somewhat Not Active''}'
+      - '{''id'': 4, ''value'': ''Not Active''}'
+      required: false
+    - id: 22
+      name: neighborhood_recreation
+      label: Neighborhood Recreation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very Recreational''}'
+      - '{''id'': 2, ''value'': ''Somewhat Recreational''}'
+      - '{''id'': 3, ''value'': ''Somewhat Not Recreational''}'
+      - '{''id'': 4, ''value'': ''Not Recreational''}'
+      required: false
+    - id: 23
+      name: neighborhood_affordability
+      label: Neighborhood Affordability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very Affordable''}'
+      - '{''id'': 2, ''value'': ''Somewhat Affordable''}'
+      - '{''id'': 3, ''value'': ''Somewhat Not Affordable''}'
+      - '{''id'': 4, ''value'': ''Not Affordable''}'
+      required: false
+    - id: 24
+      name: neighborhood_housing_type
+      label: Neighborhood Housing Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Single Family''}'
+      - '{''id'': 2, ''value'': ''Townhouse''}'
+      - '{''id'': 3, ''value'': ''Condo''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 25
+      name: home_amenities
+      label: Home Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Pool''}'
+      - '{''id'': 2, ''value'': ''Gourmet Kitchen''}'
+      - '{''id'': 3, ''value'': ''High Ceilings''}'
+      - '{''id'': 4, ''value'': ''Large Kitchen Island''}'
+      - '{''id'': 5, ''value'': ''Other''}'
+      required: false

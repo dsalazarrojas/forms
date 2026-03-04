@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: roof_estimate_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: roof_type
+      label: Roof Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: number_of_stories
+      label: Number of Stories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: roof_condition
+      label: Roof Condition
+      hint: null
+      type: select_one
+      options:
+      - new_roof
+      - re Roof renovation
+      - re Roof inspection
+      required: false
+    - id: 11
+      name: roof_inspection_report
+      label: Roof Inspection Report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: false
+    - id: 15
+      name: payment_due_date
+      label: Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: false
+    - id: 19
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false

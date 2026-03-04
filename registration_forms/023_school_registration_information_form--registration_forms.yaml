@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Registration Information Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_year
+      label: School Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_contact_name
+      label: Parent Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: student_dob
+      label: Student DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false

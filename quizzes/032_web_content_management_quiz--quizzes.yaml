@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Content Management Quiz
+    pages:
+    - id: 1
+      name: user_input_1
+      label: First Name
+      hint: Enter first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_input_5
+      label: What is your role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Administrator''}'
+      - '{''id'': 2, ''value'': ''Editor''}'
+      - '{''id'': 3, ''value'': ''Author''}'
+      - '{''id'': 4, ''value'': ''Reviewer''}'
+      - '{''id'': 5, ''value'': ''Commenter''}'
+      required: false
+    - id: 6
+      name: user_input_6
+      label: Which platform do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''A''}'
+      - '{''id'': 2, ''value'': ''B''}'
+      - '{''id'': 3, ''value'': ''C''}'
+      - '{''id'': 4, ''value'': ''D''}'
+      required: false
+    - id: 7
+      name: user_input_7
+      label: Last updated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: user_input_8
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: user_input_9
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: user_input_10
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''A''}'
+      - '{''id'': 2, ''value'': ''B''}'
+      - '{''id'': 3, ''value'': ''C''}'
+      required: false
+    - id: 11
+      name: user_input_11
+      label: Select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''A''}'
+      - '{''id'': 2, ''value'': ''B''}'
+      - '{''id'': 3, ''value'': ''C''}'
+      required: false

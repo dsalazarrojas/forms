@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blank Property Deed Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Deed Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: grantor_name
+      label: Grantor name
+      hint: Seller or transferor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grantee_name
+      label: Grantee name
+      hint: Buyer or transferee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property address
+      hint: Street city postal code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: legal_description
+      label: Legal description
+      hint: Lot and plan details
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consideration_amount
+      label: Consideration amount
+      hint: Amount exchanged in numbers
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: registration_date
+      label: Registration date
+      hint: Date of deed registration
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notarization_details
+      label: Notarization details
+      hint: Notary name and jurisdiction
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_names
+      label: Witness names
+      hint: Names of witnesses if required
+      type: text
+      options: []
+      required: false

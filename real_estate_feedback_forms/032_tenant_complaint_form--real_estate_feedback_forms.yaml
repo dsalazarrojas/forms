@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Complaint Form
+    pages:
+    - id: 1
+      name: complaint_details
+      label: Tenant Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complaint_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: 123-456-7890 format
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: note
+      options: []
+      required: true

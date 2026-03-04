@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Buying Experience Report Form
+    pages:
+    - id: 1
+      name: home_location
+      label: Home Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Condo
+      - Detached
+      - Townhouse
+      - Apartment
+      required: false
+    - id: 3
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: realtor_name
+      label: Realtor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: realtor_rating
+      label: Realtor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: home_inspection
+      label: Home Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: closing_process
+      label: Closing Process
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false

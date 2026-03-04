@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telepsychiatry Session Recording Consent Form
+    pages:
+    - id: 1
+      name: session_recording_consent_form
+      label: session_recording_consent_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_recording_consent
+      label: session_recording_consent
+      hint: null
+      type: select_one
+      options:
+      - Consent
+      - No Consent
+      required: false
+    - id: 5
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: client_phone_number
+      label: client_phone_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: client_phone_ext
+      label: client_phone_ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_reason
+      label: consent_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_date_of_birth
+      label: client_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: client_gender
+      label: client_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 12
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: client_ip
+      label: client_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: client_time
+      label: client_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: consent_time
+      label: consent_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: client_agreed_session_recording
+      label: client_agreed_session_recording
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: client_agreed_session_recording_ip
+      label: client_agreed_session_recording_ip
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: client_agreed_session_recording_phone
+      label: client_agreed_session_recording_phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: session_agreed_recording
+      label: session_agreed_recording
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: recording_agreed
+      label: recording_agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: client_agreed_ip
+      label: client_agreed_ip
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: client_ip_agreed
+      label: client_ip_agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

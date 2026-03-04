@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Sculpting Technician Renewal Registration Form
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: technician_id
+      label: Technician License or ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: salon_name
+      label: Current Salon or Studio Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: salon_address
+      label: Salon Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Experience as Brow Technician
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_certification
+      label: Current Certifications Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brow Sculpting Certification
+      - Microblading Certification
+      - Threading Certification
+      - Lamination Certification
+      - Advanced Brow Design
+      required: true
+    - id: 9
+      name: renewal_reason
+      label: Reason for Renewal
+      hint: null
+      type: select_one
+      options:
+      - License Expiration
+      - Continuing Education
+      - Skills Update
+      - Career Advancement
+      required: true
+    - id: 10
+      name: training_needed
+      label: Training Topics of Interest
+      hint: Select areas you want to improve
+      type: select_multiple
+      options:
+      - Advanced Techniques
+      - Color Theory
+      - Client Consultation
+      - Aftercare Protocols
+      - Safety Standards
+      required: false
+    - id: 11
+      name: renewal_course
+      label: Which renewal course would you like
+      hint: null
+      type: select_one
+      options:
+      - Basic Renewal - 8 hours
+      - Advanced Renewal - 16 hours
+      - Specialty Track - 12 hours
+      - Online Renewal - Flexible
+      required: true
+    - id: 12
+      name: course_date
+      label: Preferred Course Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 14
+      name: renewal_fee
+      label: Renewal Registration Fee
+      hint: Amount due
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: background_check
+      label: Background check completed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - In Progress
+      - Need to Complete
+      required: true

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: TheLeverageCo.com | Buyer's Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: what_do_you_want_to_buy
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Townhouse
+      - Other
+      required: false
+    - id: 6
+      name: question_2
+      label: what_is_your_budget
+      hint: null
+      type: select_multiple
+      options:
+      - 100k
+      - 200k
+      - 300k
+      - 400k
+      - 500k
+      - Other
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_area
+      label: preferred_area
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Mountain
+      - City
+      - Rural
+      required: false
+    - id: 9
+      name: preferred_city
+      label: preferred_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_location
+      label: other_location
+      hint: null
+      type: text
+      options: []
+      required: false

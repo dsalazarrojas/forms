@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depreciation Schedule Form
+    pages:
+    - id: 1
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Assets
+      - Vehicles
+      - Equipment
+      required: false
+    - id: 2
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: initial_value
+      label: Initial Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: depreciation_method
+      label: Depreciation Method
+      hint: null
+      type: select_one
+      options:
+      - Straight Line
+      - Accelerated Cost Recovery
+      - Double Declining Balance
+      required: false
+    - id: 5
+      name: asset_life
+      label: Asset Life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: depreciation_start_date
+      label: Depreciation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: depreciation_start_value
+      label: Depreciation Start Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: depreciation_rate
+      label: Depreciation Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: depreciation_factor
+      label: Depreciation Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: remaining_useful_life
+      label: Remaining Useful Life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: salvage_value
+      label: Salvage Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: depreciation_schedule_start_date
+      label: Depreciation Schedule Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: depreciation_schedule_end_date
+      label: Depreciation Schedule End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: deleted_date
+      label: Deleted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: created_by_user
+      label: Created By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_by_user
+      label: Updated By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: deleted_by_user
+      label: Deleted By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Conference Registration Form Template
+    pages:
+    - id: 1
+      name: full_name
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city_state
+      label: City and State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: header_church_info
+      label: -- Church Affiliation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: church_name
+      label: Church Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: church_denomination
+      label: Denomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: header_options
+      label: -- Conference Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: registration_option
+      label: Select Registration Option
+      hint: null
+      type: select_one
+      options:
+      - Early Bird Registration
+      - Standard Registration
+      - On-Site Registration
+      required: true
+    - id: 10
+      name: workshop_interest
+      label: Workshop Track Interest
+      hint: Choose your primary focus area
+      type: select_one
+      options:
+      - Leadership
+      - Worship
+      - Children and Youth
+      - Missions
+      - Small Groups
+      required: true
+    - id: 11
+      name: child_care_needed
+      label: Do you require on-site childcare?
+      hint: Ages 2-10 only
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: child_care_details
+      label: If yes - list names and ages of children
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: Someone not attending the conference
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_info
+      label: Anything else we should know?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consent_form
+      label: I consent to my photo being taken during the event
+      hint: For future promotional materials
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

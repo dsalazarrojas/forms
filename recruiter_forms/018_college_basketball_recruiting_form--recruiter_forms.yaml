@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Basketball Recruiting Form
+    pages:
+    - id: 1
+      name: player_first_name
+      label: Player First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_last_name
+      label: Player Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: height
+      label: Height - inches
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: weight
+      label: Weight - lbs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: primary_position
+      label: Primary Position
+      hint: null
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      required: true
+    - id: 7
+      name: secondary_position
+      label: Secondary Position
+      hint: If applicable
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      - None
+      required: false
+    - id: 8
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: player_phone
+      label: Player Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: high_school_name
+      label: High School or Club Name
+      hint: Current or recent school
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: gpa
+      label: Current GPA
+      hint: On 4.0 scale
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: standardized_test_score
+      label: Standardized Test Score (SAT or ACT)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: points_per_game
+      label: Scoring Average - points per game
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: rebounds_per_game
+      label: Rebounding Average - per game
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: assists_per_game
+      label: Assists Average - per game
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: field_goal_percentage
+      label: Field Goal Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: three_point_percentage
+      label: Three-Point Shooting Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: free_throw_percentage
+      label: Free Throw Shooting Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: awards_recognition
+      label: Awards and Recognition
+      hint: All-state, MVP, honors
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: strengths
+      label: Player Strengths and Skills
+      hint: What are player's best abilities
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: areas_for_improvement
+      label: Areas for Development
+      hint: What can the player improve
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: coach_name
+      label: Coach or Trainer Name
+      hint: Current or recent coach
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: coach_contact
+      label: Coach Email or Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: parent_contact_phone
+      label: Parent Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

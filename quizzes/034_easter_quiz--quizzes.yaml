@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Easter Quiz
+    pages:
+    - id: 1
+      name: easter_quiz
+      label: What do you love about Easter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: easter_bunny_name
+      label: What is the Easter Bunny's name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: easter_basket_items
+      label: What items do you typically find in an Easter basket
+      hint: null
+      type: select_multiple
+      options:
+      - Chocolate
+      - Marshmallow Peeps
+      - Small toy
+      - Book
+      - Stuffed animal
+      required: false
+    - id: 4
+      name: easter_egg_color
+      label: What color is the Easter egg
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      - Pink
+      required: false
+    - id: 5
+      name: easter_egg_shape
+      label: What shape is the Easter egg
+      hint: null
+      type: select_one
+      options:
+      - Egg
+      - Ball
+      - Bunny
+      - Chocolate
+      required: false
+    - id: 6
+      name: easter_quiz_type
+      label: What type of quiz do you want to create
+      hint: null
+      type: select_one
+      options:
+      - True or False
+      - Multiple Choice
+      - Short Answer
+      - Essay
+      required: false
+    - id: 7
+      name: quiz_length
+      label: How many questions will your quiz have
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: easter_date
+      label: What date is Easter
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: easter_time
+      label: What time is Easter
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note_goals
+      label: Why do you want to create this quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: easter_quiz_email
+      label: Enter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: easter_quiz_phone
+      label: Enter phone
+      hint: null
+      type: text
+      options: []
+      required: false

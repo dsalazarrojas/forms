@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruiter Recommendation Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: collaboration_skills
+      label: Collaboration Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: work_style
+      label: Work Style
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: work_performance
+      label: Work Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: communication_quality
+      label: Communication Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: collaboration_quality
+      label: Collaboration Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: false

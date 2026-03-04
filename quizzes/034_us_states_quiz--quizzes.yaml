@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: us_states_quiz
+    pages:
+    - id: 1
+      name: state_1
+      label: which_state_is_it
+      hint: null
+      type: select_multiple
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      required: false
+    - id: 2
+      name: state_2
+      label: another_state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - Oregon
+      - Washington
+      - Texas
+      required: false
+    - id: 3
+      name: state_3
+      label: which_state_is_next
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: note_1
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_1
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_1
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state_4
+      label: final_state
+      hint: null
+      type: select_one
+      options:
+      - Illinois
+      - Indiana
+      - Iowa
+      required: false

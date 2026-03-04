@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Agreement
+    pages:
+    - id: 1
+      name: sales_agreement_details
+      label: Sales Agreement Details
+      hint: This is where you can add more details about sales agreement.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seller_info
+      label: Seller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales_agreement_terms
+      label: Sales Agreement Terms
+      hint: Add terms of agreement here.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: What is the payment terms of the sales agreement?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: buyer_acknowledgement
+      label: Buyer Acknowledgement
+      hint: Has the buyer acknowledged the terms?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: seller_acknowledgement
+      label: Seller Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: The date of the sales agreement.
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: The time of the sales agreement.
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

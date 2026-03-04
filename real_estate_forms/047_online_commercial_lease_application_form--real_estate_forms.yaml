@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Commercial Lease Application Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rent_details
+      label: Rent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: security_deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rental_amount
+      label: Rental Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

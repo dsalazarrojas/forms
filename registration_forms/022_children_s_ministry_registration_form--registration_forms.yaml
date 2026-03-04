@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Ministry Registration Form
+    pages:
+    - id: 1
+      name: child_information
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Current Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: parent_information
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_first_name
+      label: Parent First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_last_name
+      label: Parent Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: relationship
+      label: Relationship to Child
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: true
+    - id: 11
+      name: parent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: parent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: ministry_information
+      label: -- Ministry Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: ministry_programs
+      label: Which ministry programs are you interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Sunday School
+      - Youth Group
+      - Summer Camp
+      - Choir
+      - Bible Study
+      - Community Service
+      - Music Ministry
+      - Other
+      required: true
+    - id: 19
+      name: experience_level
+      label: Previous experience with ministry programs
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Some experience
+      - Regular participant
+      required: true
+    - id: 20
+      name: special_needs
+      label: -- Special Needs and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: has_special_needs
+      label: Does your child have any special needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: needs_details
+      label: Please describe any special needs or accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Any allergies or dietary restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact Person
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: agreement_and_consent
+      label: Parent agrees to ministry participation
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true

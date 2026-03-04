@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Processing Referral Form
+    pages:
+    - id: 1
+      name: payment_processing_referral_form_1
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''Bank Account''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: partner_details
+      label: Partner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agency_details
+      label: Agency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false

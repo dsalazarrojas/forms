@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Loan Buyers Guide
+    pages:
+    - id: 1
+      name: mortgage_options
+      label: Mortgage Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Condo
+      - Townhouse
+      - Duplex
+      required: false
+    - id: 8
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_multiple
+      options:
+      - '15'
+      - '20'
+      - '25'
+      - '30'
+      required: false
+    - id: 11
+      name: closing_cost
+      label: Closing Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: property_tax
+      label: Property Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: insurance_cost
+      label: Insurance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: hoa_cost
+      label: HOA Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 16
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_of_birth
+      label: Time Of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: loan_application_status
+      label: Loan Application Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 19
+      name: mortgage_option
+      label: Mortgage Option
+      hint: null
+      type: select_multiple
+      options:
+      - Conventional
+      - FHA
+      - VA
+      - USDA
+      required: false

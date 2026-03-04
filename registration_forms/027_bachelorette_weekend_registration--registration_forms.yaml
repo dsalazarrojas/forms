@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bachelorette Weekend Registration
+    pages:
+    - id: 1
+      name: weekend_header
+      label: -- Bachelorette Weekend Getaway Registration --
+      hint: Fill this out to help us plan the best weekend ever!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info_header
+      label: -- Contact and Travel Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Mobile Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: arrival_datetime
+      label: Estimated Arrival Time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: departure_datetime
+      label: Estimated Departure Time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: personal_details_header
+      label: -- Preferences and Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: We're making custom shirts!
+      type: select_one
+      options:
+      - X-Small
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: true
+    - id: 10
+      name: dietary_allergies_weekend
+      label: Dietary Restrictions or Life-Threatening Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: alcohol_preference
+      label: Alcohol Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Champagne/Wine
+      - Spirits/Cocktails
+      - Beer
+      - Seltzer
+      - Non-Alcoholic Only
+      required: false
+    - id: 12
+      name: activities_interest
+      label: Activity Interests
+      hint: Choose what sounds like fun!
+      type: select_multiple
+      options:
+      - Spa/Massages
+      - Pool/Beach Time
+      - Hiking/Nature Walk
+      - Night Clubbing
+      - Yoga/Wellness
+      - Wine Tasting
+      - Cooking Class
+      required: true
+    - id: 13
+      name: accommodation_notes
+      label: Any roommate requests or special accommodation needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_weekend
+      label: Emergency Contact Name and Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: total_estimated_cost_acknowledgment
+      label: I understand the estimated cost per person
+      hint: As discussed in the group chat
+      type: select_one
+      options:
+      - I understand and am ready to party!
+      - Other
+      required: true
+    - id: 16
+      name: payment_status_weekend
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - Cash App
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 17
+      name: notes_to_organizers
+      label: Anything else we should know?
+      hint: null
+      type: text
+      options: []
+      required: false

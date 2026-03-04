@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Tenancy Reference Request Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenants Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_info
+      label: Landlords Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: previous_rental_info
+      label: Previous Rental Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenant_referrals
+      label: Tenant Referrals
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''primary'', ''label'': ''Primary''}'
+      - '{''name'': ''secondary'', ''label'': ''Secondary''}'
+      required: false
+    - id: 5
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tenant_referrals_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tenant_referrals_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tenant_referrals_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tenant_referrals_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tenant_referrals_postal_code
+      label: Post Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tenant_referrals_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tenant_referrals_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''residential'', ''label'': ''Residential''}'
+      - '{''name'': ''commercial'', ''label'': ''Commercial''}'
+      required: false
+    - id: 14
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''rented'', ''label'': ''Rented''}'
+      - '{''name'': ''vacant'', ''label'': ''Vacant''}'
+      required: false
+    - id: 15
+      name: property_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_postal_code
+      label: Post Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: property_date_available
+      label: Date Available
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: property_rent_per_month
+      label: Rent Per Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: property_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: landlord_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: landlord_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: landlord_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

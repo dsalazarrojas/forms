@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Lifecycle Analytics Application Form
+    pages:
+    - id: 1
+      name: property_lifecycle_analytics_application_form
+      label: Property Lifecycle Analytics Application Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_location
+      label: Property  Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_status
+      label: Property  Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: property_goal
+      label: Property  Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: application_reason
+      label: Application  Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_details
+      label: Property  Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_notes
+      label: Contact  Notes
+      hint: null
+      type: note
+      options: []
+      required: false

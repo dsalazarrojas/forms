@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Referral Form
+    pages:
+    - id: 1
+      name: referral_code
+      label: Referral Code
+      hint: Your referral code
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: invitation_code
+      label: Invitation Code
+      hint: Invitation code to get verified
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Info
+      hint: Any additional comments or details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - public
+      - private
+      required: false
+    - id: 8
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - usa
+      - canada
+      - mexico
+      required: false

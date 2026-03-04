@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eyelash Training Registration Form Template
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: trainer_info
+      label: trainer info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: course name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: trainer_email
+      label: trainer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: training_type
+      label: training type
+      hint: null
+      type: select_multiple
+      options:
+      - eyelash
+      - extension
+      - both
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_address
+      label: student address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: trainer_address
+      label: trainer address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: student_state
+      label: student state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: trainer_state
+      label: trainer state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: course_description
+      label: course description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: training_date
+      label: training date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: training_status
+      label: training status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - active
+      - completed
+      required: true
+    - id: 18
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - pending
+      required: true
+    - id: 19
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: payment method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_dob
+      label: student DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: trainer_dob
+      label: trainer DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: trainer_license
+      label: trainer license
+      hint: null
+      type: text
+      options: []
+      required: true

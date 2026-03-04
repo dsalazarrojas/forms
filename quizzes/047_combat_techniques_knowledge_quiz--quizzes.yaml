@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Combat Techniques Knowledge Quiz
+    pages:
+    - id: 1
+      name: header
+      label: -- Knowledge Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: Question 1 - Primary striking targets
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Head
+      - Torso
+      - Legs
+      - Arms
+      required: true
+    - id: 4
+      name: question_2
+      label: Question 2 - Basic defensive technique
+      hint: Choose the correct technique
+      type: select_one
+      options:
+      - Blocking
+      - Grappling
+      - Kicking
+      required: true
+    - id: 5
+      name: question_3
+      label: Question 3 - Safe training practice
+      hint: Select best practice
+      type: select_one
+      options:
+      - Warm up
+      - Skip rest
+      - Overload training
+      required: true
+    - id: 6
+      name: training_hours_per_week
+      label: Training hours per week
+      hint: Numeric hours
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: martial_art_styles
+      label: Styles trained
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Boxing
+      - Muay Thai
+      - Wrestling
+      - Jiu Jitsu
+      required: false
+    - id: 8
+      name: safety_equipment_used
+      label: Safety equipment used
+      hint: List protective gear
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score_estimate
+      label: Estimated score
+      hint: Self assessed result
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback on quiz
+      hint: Suggestions or corrections
+      type: text
+      options: []
+      required: false

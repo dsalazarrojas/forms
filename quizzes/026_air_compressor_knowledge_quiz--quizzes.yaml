@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Compressor Knowledge Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Optional name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is regular maintenance for compressors
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - Lubrication and filter changes
+      - Never perform maintenance
+      - Replace entire unit yearly
+      - Only check when broken
+      required: true
+    - id: 3
+      name: question_2
+      label: Purpose of pressure relief valve
+      hint: Select correct purpose
+      type: select_one
+      options:
+      - Prevent overpressure
+      - Increase pressure
+      - Reduce airflow
+      - Measure temperature
+      required: true
+    - id: 4
+      name: question_3
+      label: Correct compressor shutdown procedure
+      hint: Best step to follow
+      type: select_one
+      options:
+      - Depressurize and isolate
+      - Turn off then leave running
+      - Remove safety guards
+      - None
+      required: true
+    - id: 5
+      name: question_4
+      label: Signs of air leaks
+      hint: Choose the most indicative sign
+      type: select_one
+      options:
+      - Hissing sounds and pressure drop
+      - Increased heat only
+      - No noise
+      - Faster operation
+      required: true
+    - id: 6
+      name: training_needed
+      label: Do you require further training
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: score_estimate
+      label: Estimated score
+      hint: Self assessed quiz score
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: hiphop_dance_registration_form
+    pages:
+    - id: 1
+      name: crew_members
+      label: crew_members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crew_manager
+      label: crew_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: registrant_name
+      label: registrant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registrant_accept_terms
+      label: accept_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: registrant_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

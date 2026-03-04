@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Search Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: talent_area_of_interest
+      label: Talent Area of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Singing
+      - Music
+      - Dance
+      - Acting
+      required: false
+    - id: 7
+      name: singing_fields
+      label: Singing Fields
+      hint: null
+      type: select_one
+      options:
+      - Classical
+      - Musical
+      - Pop
+      - Opera
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool_other
+      label: Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_other_value
+      label: Other Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

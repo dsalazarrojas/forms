@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bathroom Design Proposal Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_scope_header
+      label: -- Project Scope and Style --
+      hint: Help us understand your vision.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: renovation_type
+      label: Type of Renovation
+      hint: null
+      type: select_one
+      options:
+      - Full Remodel (Gut and Replace)
+      - Cosmetic Update (Surface only)
+      - Expansion (New footprint)
+      - New Construction
+      required: true
+    - id: 7
+      name: design_style_preference
+      label: Preferred Design Style
+      hint: null
+      type: select_one
+      options:
+      - Modern/Minimalist
+      - Traditional/Classic
+      - Industrial
+      - Farmhouse/Rustic
+      - Bohemian
+      - Mid-Century Modern
+      required: true
+    - id: 8
+      name: key_features_requested
+      label: Key Features to Include
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Free-standing Bathtub
+      - Walk-in Shower with Glass Door
+      - Double Vanity
+      - Heated Flooring
+      - Smart Toilet/Bidet
+      - Recessed Lighting
+      required: false
+    - id: 9
+      name: budget_range
+      label: Estimated Budget Range
+      hint: null
+      type: select_one
+      options:
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - $50,000+
+      required: true
+    - id: 10
+      name: current_bathroom_issues
+      label: What are the main issues with your current bathroom?
+      hint: e.g. lack of storage, poor lighting, outdated tiles
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: anticipated_start_date
+      label: When would you like to start?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: photo_note
+      label: -- Reference Images --
+      hint: Please email inspiration photos or current bathroom photos to design@remodelers.com.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: best_time_for_consult
+      label: Best time for an on-site consultation
+      hint: null
+      type: select_one
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekends
+      required: false
+    - id: 14
+      name: hearing_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Google Search
+      - Referral
+      - Local Advertisement
+      required: false
+    - id: 15
+      name: proposal_date
+      label: Today Date
+      hint: null
+      type: date
+      options: []
+      required: true

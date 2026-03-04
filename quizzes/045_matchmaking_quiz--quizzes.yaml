@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Matchmaking Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: Matchmaking Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: How old are you?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Single''}'
+      - '{''id'': 2, ''value'': ''In a relationship''}'
+      - '{''id'': 3, ''value'': ''In a relationship and looking to start a new relationship''}'
+      required: false
+    - id: 4
+      name: match_goal
+      label: What are you looking for?
+      hint: Select one or more of the below options
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Friendship''}'
+      - '{''id'': 2, ''value'': ''Casual Relationship''}'
+      - '{''id'': 3, ''value'': ''Long-Term Partnership''}'
+      - '{''id'': 4, ''value'': ''Serious Relationship''}'
+      required: false
+    - id: 5
+      name: partner_attributes
+      label: What are the most important attributes for you?
+      hint: Select one or more of the below options
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Age''}'
+      - '{''id'': 2, ''value'': ''Interests''}'
+      - '{''id'': 3, ''value'': ''Personality''}'
+      - '{''id'': 4, ''value'': ''Lifestyle''}'
+      required: false
+    - id: 6
+      name: values
+      label: What is your top value?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Family''}'
+      - '{''id'': 2, ''value'': ''Health''}'
+      - '{''id'': 3, ''value'': ''Happiness''}'
+      - '{''id'': 4, ''value'': ''Wealth''}'
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: What city and state or province do you reside in?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media
+      label: Social Media
+      hint: Do you have a social media account?
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: What is your email address?
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: What is your phone number?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''High School''}'
+      - '{''id'': 2, ''value'': ''College''}'
+      - '{''id'': 3, ''value'': ''University''}'
+      - '{''id'': 4, ''value'': ''Doctoral degree or higher''}'
+      required: false
+    - id: 12
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: personality_quiz
+      label: Personality Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Hiking''}'
+      - '{''id'': 2, ''value'': ''Reading''}'
+      - '{''id'': 3, ''value'': ''Traveling''}'
+      - '{''id'': 4, ''value'': ''Sports''}'
+      required: false
+    - id: 15
+      name: values_quiz
+      label: Values Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: personality_quiz_2
+      label: Personality Quiz 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: relationship_goals
+      label: Relationship Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: personality_quiz_3
+      label: Personality Quiz 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: match
+      label: Match
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: results_page
+      label: Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: thanks_page
+      label: Thanks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: quiz_complete
+      label: Complete Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: quiz_skip
+      label: Skip Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: quiz_reset
+      label: Reset Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quiz_help
+      label: Help
+      hint: null
+      type: note
+      options: []
+      required: false

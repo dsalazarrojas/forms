@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: realtor_disclosure_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_company_info
+      label: real_estate_company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: real_estate_agency
+      label: real_estate_agency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: real_estate_agent
+      label: real_estate_agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: real_estate_agency_address
+      label: real_estate_agency_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: real_estate_agent_address
+      label: real_estate_agent_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: real_estate_agent_brokerage
+      label: real_estate_agent_brokerage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_agency_phone
+      label: real_estate_agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_agency_email
+      label: real_estate_agency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_agency_fax
+      label: real_estate_agency_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: real_estate_agency_website
+      label: real_estate_agency_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: real_estate_agency_license
+      label: real_estate_agency_license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: real_estate_agency_broker
+      label: real_estate_agency_broker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: real_estate_agent_broker
+      label: real_estate_agent_broker
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: real_estate_agency_agency
+      label: real_estate_agency_agency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: real_estate_agency_branch
+      label: real_estate_agency_branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: real_estate_agency_member
+      label: real_estate_agency_member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: real_estate_agency_license_number
+      label: real_estate_agency_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: real_estate_agency_license_expiration
+      label: real_estate_agency_license_expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: real_estate_agency_license_type
+      label: real_estate_agency_license_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: real_estate_agency_fees
+      label: real_estate_agency_fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: real_estate_agency_fees_explanation
+      label: real_estate_agency_fees_explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: real_estate_agency_agency_type
+      label: real_estate_agency_agency_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: real_estate_agent_commission
+      label: real_estate_agent_commission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: real_estate_agent_agency
+      label: real_estate_agent_agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

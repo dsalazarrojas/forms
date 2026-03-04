@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Advertising Quote Request
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: contact
+      hint: Contact person
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agency
+      label: Agency
+      hint: Agency name
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: budget
+      label: Budget
+      hint: Budget
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: campaign_type
+      label: Campaign Type
+      hint: Campaign Type
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: Start Date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: End Date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: campaign_duration
+      label: Campaign Duration
+      hint: Campaign Duration
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: media_budget
+      label: Media Budget
+      hint: Media Budget
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: agency_location
+      label: Agency Location
+      hint: Agency Location
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: Manager Name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact E-Mail
+      hint: Contact Email
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

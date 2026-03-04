@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AEC Workflow Registration Form
+    pages:
+    - id: 1
+      name: company_info_header
+      label: --- Company and Professional Information ---
+      hint: Details for professional AEC registration
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: professional_discipline
+      label: Primary Discipline
+      hint: null
+      type: select_one
+      options:
+      - label: Architecture
+        value: architecture
+      - label: Structural Engineering
+        value: structural_engineering
+      - label: MEP Engineering
+        value: mep_engineering
+      - label: Civil Engineering
+        value: civil_engineering
+      - label: General Contracting
+        value: general_contracting
+      - label: Project Management
+        value: project_management
+      - label: Interior Design
+        value: interior_design
+      required: true
+    - id: 5
+      name: professional_license_id
+      label: Professional License / Membership ID
+      hint: e.g., AIA, PE, RIBA number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_email
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: work_phone
+      label: Work Phone Number
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 8
+      name: workflow_interests_header
+      label: --- Workflow and Software Interests ---
+      hint: Help us place you in the right sessions.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: software_proficiency
+      label: Primary Software Used
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Autodesk Revit
+        value: revit
+      - label: AutoCAD
+        value: autocad
+      - label: Rhino / Grasshopper
+        value: rhino
+      - label: ArchiCAD
+        value: archicad
+      - label: Bluebeam Revu
+        value: bluebeam
+      - label: Navisworks
+        value: navisworks
+      - label: Bentley Systems
+        value: bentley
+      required: true
+    - id: 10
+      name: workflow_focus_areas
+      label: Workflow Focus Areas
+      hint: Select areas you wish to explore during the event.
+      type: select_multiple
+      options:
+      - label: BIM Coordination
+        value: bim_coordination
+      - label: Generative Design
+        value: generative_design
+      - label: Sustainable Design / Analysis
+        value: sustainability
+      - label: VDC (Virtual Design and Construction)
+        value: vdc
+      - label: Digital Twin Technology
+        value: digital_twin
+      - label: Cloud Collaboration
+        value: cloud_collab
+      required: true
+    - id: 11
+      name: experience_level_bim
+      label: BIM Implementation Experience Level
+      hint: null
+      type: select_one
+      options:
+      - label: Beginner (Learning)
+        value: beginner
+      - label: Intermediate (Regular use)
+        value: intermediate
+      - label: Advanced (Workflow optimization)
+        value: advanced
+      - label: Expert (Strategic implementation)
+        value: expert
+      required: true
+    - id: 12
+      name: session_selection_header
+      label: --- Session and Workshop Selection ---
+      hint: Please select your preferred sessions.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: workshop_selection
+      label: Select a Technical Workshop
+      hint: Choose one workshop for the afternoon block.
+      type: select_one
+      options:
+      - label: Automation with Dynamo
+        value: dynamo
+      - label: Clash Detection Best Practices
+        value: clash_detection
+      - label: Reality Capture and LiDAR
+        value: lidar
+      - label: Managing Large-Scale BIM Projects
+        value: large_scale_bim
+      required: true
+    - id: 14
+      name: logistics_header
+      label: --- Logistics and Emergency Contact ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: phone
+      options: []
+      required: true
+    - id: 17
+      name: additional_requirements
+      label: Any additional requirements or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registration_status
+      label: "Internal Use: Registration Status"
+      hint: null
+      type: select_one
+      options:
+      - label: Pending
+        value: pending
+      - label: Confirmed
+        value: confirmed
+      - label: Cancelled
+        value: cancelled
+      required: false

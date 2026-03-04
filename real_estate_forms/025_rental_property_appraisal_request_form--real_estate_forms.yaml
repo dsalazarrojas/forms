@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_property_appraisal_request_form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appraiser
+      label: Appraiser
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1'', ''label'': ''Appraiser 1''}'
+      - '{''value'': ''2'', ''label'': ''Appraiser 2''}'
+      - '{''value'': ''3'', ''label'': ''Appraiser 3''}'
+      required: false
+    - id: 3
+      name: property_address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: appraised_value
+      label: Appraised Value
+      hint: $1
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_price
+      label: Purchase Price
+      hint: $1
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sale_price
+      label: Sale Price
+      hint: $1
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''Single Family''}'
+      - '{''value'': ''2'', ''label'': ''Condo''}'
+      - '{''value'': ''3'', ''label'': ''Townhouse''}'
+      required: false
+    - id: 10
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''Active''}'
+      - '{''value'': ''2'', ''label'': ''Sold''}'
+      - '{''value'': ''3'', ''label'': ''Off Market''}'
+      required: false

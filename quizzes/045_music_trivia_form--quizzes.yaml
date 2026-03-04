@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_trivia_form
+    pages:
+    - id: 1
+      name: music_genre
+      label: music_genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: favorite_bands
+      label: favorite_bands
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: select_one
+      options:
+      - correct
+      - incorrect
+      required: false
+    - id: 4
+      name: music_style
+      label: music_style
+      hint: null
+      type: select_one
+      options:
+      - rock
+      - pop
+      - jazz
+      - classical
+      required: false
+    - id: 5
+      name: music_influence
+      label: music_influence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: music_year
+      label: music_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: favorite_band
+      label: favorite_band
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: answer
+      label: answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

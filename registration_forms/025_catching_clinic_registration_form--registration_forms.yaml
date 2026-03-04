@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catching Clinic Registration Form
+    pages:
+    - id: 1
+      name: athlete_info_header
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: athlete_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 5
+      name: experience_level
+      label: Years of Catching Experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner (0-1 years)
+      - Intermediate (2-4 years)
+      - Advanced (5+ years)
+      required: true
+    - id: 6
+      name: primary_position
+      label: Is catching your primary position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: school_club_name
+      label: School or Club Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_contact_header
+      label: -- Parent/Guardian Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: If different from parent above
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_phone
+      label: Emergency Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_info_header
+      label: -- Medical and Waivers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Any allergies or medical conditions we should be aware of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: clinic_date_choice
+      label: Select Clinic Session
+      hint: null
+      type: select_one
+      options:
+      - Session A - Saturday June 14
+      - Session B - Sunday June 15
+      - Full Weekend Intensive
+      required: true
+    - id: 18
+      name: liability_waiver
+      label: I agree to the liability waiver and medical release
+      hint: By checking this box, you agree to our terms of participation
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 19
+      name: payment_method
+      label: Preferred Payment Method
+      hint: Payment due upon arrival
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Venmo/Zelle
+      - Credit Card
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Anything else you would like us to know
+      hint: null
+      type: text
+      options: []
+      required: false

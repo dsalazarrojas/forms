@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retailer Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: store_type
+      label: Store Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: store_hours_from
+      label: Store Hours From
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: store_hours_to
+      label: Store Hours To
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: store_hours_note
+      label: Store Hours Note
+      hint: null
+      type: text
+      options: []
+      required: true

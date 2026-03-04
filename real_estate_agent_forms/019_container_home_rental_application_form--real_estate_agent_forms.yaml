@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Container Home Rental Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Applicant Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_employment
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: employer_name
+      label: Current Employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: monthly_income
+      label: Approximate Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: employment_duration
+      label: How long have you been with this employer?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_rental_history
+      label: -- Rental History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_landlord_name
+      label: Current Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_landlord_phone
+      label: Current Landlord Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_references
+      label: -- Personal References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reference_name
+      label: Reference Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: reference_phone
+      label: Reference Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_background_check
+      label: -- Background Check and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: background_check_consent
+      label: I consent to a background and credit check
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: privacy_agreement
+      label: I have read and agree to the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true

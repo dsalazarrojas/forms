@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Status Inquiry Contact Form
+    pages:
+    - id: 1
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: full_name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_service_email
+      label: customer_service_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_service_phone
+      label: customer_service_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Cancelled
+      required: true
+    - id: 9
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: note
+      options: []
+      required: true

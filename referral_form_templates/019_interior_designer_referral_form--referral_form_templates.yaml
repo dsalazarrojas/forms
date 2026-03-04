@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_designer_referral_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: designer_details
+      label: Designer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_budget
+      label: Project Budget
+      hint: Enter a project budget
+      type: select_one
+      options:
+      - 1000-2000
+      - 2001-5000
+      - 5001-10000
+      required: false
+    - id: 5
+      name: design_style
+      label: Design Style
+      hint: Select a design style
+      type: select_one
+      options:
+      - Modern
+      - Traditional
+      - Contemporary
+      - Mid-Century
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: Select a project location
+      type: select_one
+      options:
+      - Living Room
+      - Bedroom
+      - Kitchen
+      - Bathroom
+      required: false
+    - id: 7
+      name: design_services
+      label: Design Services
+      hint: null
+      type: select_multiple
+      options:
+      - Space Planning
+      - Color Scheme
+      - Furniture Layout
+      required: false
+    - id: 8
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

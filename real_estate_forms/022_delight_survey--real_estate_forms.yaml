@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delight Survey
+    pages:
+    - id: 1
+      name: delight_survey
+      label: delight_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Real Estate Forms''}'
+      - '{''id'': 2, ''name'': ''Other''}'
+      - '{''id'': 3, ''name'': ''Finance''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: Describe the service or goods provided
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''chatbilly''}'
+      - '{''id'': 3, ''name'': ''chatliz''}'
+      required: false
+    - id: 5
+      name: input_5
+      label: input 5
+      hint: null
+      type: number
+      options: []
+      required: false

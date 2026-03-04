@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coring and Cutting Project Proposal
+    pages:
+    - id: 1
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 4
+      name: job_number
+      label: Job Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_needed
+      label: Equipment Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

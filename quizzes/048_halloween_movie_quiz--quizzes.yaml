@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Movie Quiz
+    pages:
+    - id: 1
+      name: movie_title
+      label: movie-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_year
+      label: release-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: genre
+      label: genre
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: director
+      label: director
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: movie_screenshot
+      label: movie-screenshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: score_1
+      label: score-1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: score_2
+      label: score-2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: score_3
+      label: score-3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: movie_scores
+      label: movie-scores
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

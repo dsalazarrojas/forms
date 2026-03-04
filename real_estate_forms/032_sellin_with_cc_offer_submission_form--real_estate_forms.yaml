@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sellin With CC Offer Submission Form
+    pages:
+    - id: 1
+      name: seller_name
+      label: seller name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: listing_id
+      label: listing id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: offer_amount
+      label: offer amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: offer_date_time
+      label: offer date/time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: offer_terms
+      label: offer terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: buyer_message
+      label: buyer message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cc_agent_name
+      label: cc agent name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cc_agent_email
+      label: cc agent email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: cc_agent_phone
+      label: cc agent phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

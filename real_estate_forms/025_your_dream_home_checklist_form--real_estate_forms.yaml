@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Your Dream Home Checklist Form
+    pages:
+    - id: 1
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Condo''}'
+      - '{''id'': 2, ''label'': ''Single Family Home''}'
+      - '{''id'': 3, ''label'': ''Townhouse''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': ''4 or more''}'
+      required: false
+    - id: 3
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Under 200,000''}'
+      - '{''id'': 2, ''label'': ''200,000-400,000''}'
+      - '{''id'': 3, ''label'': ''400,000 or more''}'
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''City''}'
+      - '{''id'': 2, ''label'': ''Suburb''}'
+      - '{''id'': 3, ''label'': ''Rural''}'
+      required: false
+    - id: 5
+      name: desired_move_in_date
+      label: Desired Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: budget_range
+      label: Budget Range
+      hint: Enter your budget range
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In Person''}'
+      required: false

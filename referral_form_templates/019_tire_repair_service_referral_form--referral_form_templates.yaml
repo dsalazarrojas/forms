@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tire Repair Service Referral Form
+    pages:
+    - id: 1
+      name: referral_form_data
+      label: Referral Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: referral_details
+      label: Referral Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Not Contacted
+      - Contacted
+      - Qualified
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Online Search
+      - Referral
+      - Word of Mouth
+      - Email Marketing
+      - Print Ad
+      required: false

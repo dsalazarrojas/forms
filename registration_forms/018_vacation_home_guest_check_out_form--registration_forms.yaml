@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Home Guest Check Out Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: stay_length
+      label: Stay Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: purpose_of_visit
+      label: Purpose Of Visit
+      hint: null
+      type: select_one
+      options:
+      - Holiday
+      - Business
+      - Other
+      - Family
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Hotel
+      - Other
+      required: true
+    - id: 16
+      name: guest_type
+      label: Guest Type
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Child
+      - Guest
+      required: false
+    - id: 17
+      name: additional_guests
+      label: Additional Guests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: extra_services
+      label: Extra Services
+      hint: null
+      type: select_multiple
+      options:
+      - Internet
+      - Wi-Fi
+      - TV
+      required: true
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 21
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: total_stay_cost
+      label: Total Stay Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partial Payment
+      required: true
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true

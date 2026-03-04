@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowners Insurance Quote Questionnaire Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Address
+      - Condo
+      - House
+      - Other
+      required: false
+    - id: 4
+      name: home_age
+      label: Home Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sqft
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - Homeowners
+      - Tenant
+      - Business
+      - Other
+      required: false
+    - id: 7
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: home_location
+      label: Home Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

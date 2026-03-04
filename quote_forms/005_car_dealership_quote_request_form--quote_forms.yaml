@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Dealership Quote Request Form
+    pages:
+    - id: 1
+      name: requester_information
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of person requesting quote
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for follow up
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: Choose best way to contact
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      required: true
+    - id: 6
+      name: vehicle_interest
+      label: Vehicle of interest
+      hint: Make model and trim if known
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: desired_features
+      label: Desired features
+      hint: Select features desired
+      type: select_multiple
+      options:
+      - Leather seats
+      - Sunroof
+      - Navigation
+      - Driver assist package
+      - Tow package
+      required: false
+    - id: 8
+      name: budget
+      label: Budget range
+      hint: Estimated budget in local currency
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: trade_in_value
+      label: Trade in estimated value
+      hint: If planning to trade in enter value
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_date
+      label: Preferred contact date
+      hint: Date when dealer should contact requester
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Any extra details to include in the quote
+      type: text
+      options: []
+      required: false

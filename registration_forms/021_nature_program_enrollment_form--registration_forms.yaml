@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nature Program Enrollment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: program_name
+      label: Nature Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: nature_program_details
+      label: Nature Program Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: participant_gender
+      label: Participant Gender
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: participant_interest
+      label: Participant Interest
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: nature_program_location
+      label: Nature Program Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_agree
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: participant_terms_of_service
+      label: Participant Terms of Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: participant_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: nature_program_notes
+      label: Nature Program Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: participant_reference
+      label: Participant Reference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: participant_agree_to_share
+      label: Participant Agrees to Share
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: participant_agree_to_terms_of_service
+      label: Participant Agrees to Terms of Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: nature_program_notes_2
+      label: Additional Nature Program Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: participant_agree_to_terms_of_service_2
+      label: Participant Agrees to Terms of Service 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: participant_agree_to_terms_of_service_3
+      label: Participant Agrees to Terms of Service 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: participant_agree_to_terms_of_service_4
+      label: Participant Agrees to Terms of Service 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: nature_program_notes_3
+      label: More Nature Program Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: participant_agree_to_terms_of_service_5
+      label: Participant Agrees to Terms of Service 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: nature_program_notes_4
+      label: Extra Nature Program Notes
+      hint: null
+      type: note
+      options: []
+      required: false

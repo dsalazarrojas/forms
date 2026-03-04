@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Host Partnership Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: partnership_type
+      label: Partnership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 6
+      name: partnership_description
+      label: Partnership Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: page_5
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

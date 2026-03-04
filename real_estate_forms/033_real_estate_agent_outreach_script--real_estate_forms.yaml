@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_outreach_script
+    pages:
+    - id: 1
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Home Buyers
+      - Home Sellers
+      - Investors
+      - Other
+      required: false
+    - id: 4
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_date
+      label: Preferred Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Online Advertising
+      - Online Directories
+      - Referral
+      - Social Media
+      - Other
+      required: false
+    - id: 7
+      name: preferred_property_type
+      label: Preferred Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Other
+      required: false
+    - id: 8
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - Downtown
+      - Outskirts
+      - Other
+      - Rural
+      required: false
+    - id: 9
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Other
+      required: false
+    - id: 11
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - 5+
+      required: false
+    - id: 12
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 13
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: select_one
+      options:
+      - <1,000
+      - <2,000
+      - <3,000
+      - <4,000
+      - <5,000
+      - <10,000
+      - <20,000
+      - <25,000
+      - <50,000
+      required: false
+    - id: 14
+      name: property_size
+      label: Property Size
+      hint: null
+      type: select_one
+      options:
+      - Under 1,000 sqft
+      - <2,000 sqft
+      - <5,000 sqft
+      - <10,000 sqft
+      - <20,000 sqft
+      - <50,000 sqft
+      - Other
+      required: false
+    - id: 15
+      name: preferred_view_time
+      label: Preferred View Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: preferred_view_date
+      label: Preferred View Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: preferred_follow_up_date
+      label: Preferred Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: property_features
+      label: Property Features
+      hint: null
+      type: select_multiple
+      options:
+      - Pool
+      - Yard
+      - Parking
+      - Balcony
+      - Other
+      required: false
+    - id: 19
+      name: preferred_follow_up_method
+      label: Preferred Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - Call
+      - Email
+      - Text
+      - Mail
+      - Video
+      required: false
+    - id: 20
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Hot
+      - Cold
+      - Qualified
+      - Unqualified
+      required: false
+    - id: 21
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 100,000
+      - 100,000 - 200,000
+      - 200,000 - 500,000
+      - 500,000 - 1,000,000
+      - 1,000,000+
+      required: false
+    - id: 22
+      name: property_type_range
+      label: Property Type Range
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Other
+      required: false
+    - id: 23
+      name: contact_method_range
+      label: Contact Method Range
+      hint: null
+      type: select_one
+      options:
+      - Home Buyers
+      - Home Sellers
+      - Investors
+      - Other
+      required: false
+    - id: 24
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 25
+      name: preferred_culture
+      label: Preferred Culture
+      hint: null
+      type: select_multiple
+      options:
+      - Western
+      - Eastern
+      - Other
+      - Latin American
+      required: false
+    - id: 26
+      name: lead_source_range
+      label: Lead Source Range
+      hint: null
+      type: select_one
+      options:
+      - Online Advertising
+      - Online Directories
+      - Referral
+      - Social Media
+      - Other
+      required: false
+    - id: 27
+      name: preferred_contact_method_range
+      label: Preferred Contact Method Range
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Email
+      - Text
+      - Mail
+      - Video
+      required: false

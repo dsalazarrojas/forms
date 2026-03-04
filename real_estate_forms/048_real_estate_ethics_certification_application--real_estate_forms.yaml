@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_ethics_certification_application
+    pages:
+    - id: 1
+      name: user_info
+      label: real_estate_ethics_certification_application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info
+      label: real_estate_agent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: license_info
+      label: real_estate_license_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: certification_info
+      label: real_estate_certification_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agreement
+      label: real_estate_agreement_to_code_of_ethics
+      hint: null
+      type: select_multiple
+      options:
+      - Brokerage
+      - Broker
+      - Real Estate Association
+      required: false
+    - id: 6
+      name: training_provider
+      label: real_estate_training_provider
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: agreement_date
+      label: real_estate_agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Additive Manufacturing Knowledge Quiz
+    pages:
+    - id: 1
+      name: --participant
+      label: -- Participant --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: For scoring and feedback
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Optional for results
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: q1_materials
+      label: Q1 Which materials are commonly used in FDM
+      hint: Choose best answer
+      type: select_one
+      options:
+      - PLA
+      - Nylon
+      - Stainless steel
+      - Epoxy resin
+      required: true
+    - id: 5
+      name: q2_process
+      label: Q2 Which process uses powder and laser
+      hint: Choose best answer
+      type: select_one
+      options:
+      - SLA
+      - SLS
+      - FDM
+      - Binder jetting
+      required: true
+    - id: 6
+      name: q3_tolerance
+      label: Q3 Typical dimensional tolerance for consumer printers
+      hint: Select approximate range
+      type: select_one
+      options:
+      - 0.1 mm
+      - 0.5 mm
+      - 1 mm
+      - 5 mm
+      required: true
+    - id: 7
+      name: q4_post_processing
+      label: Q4 Common post processing steps
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Support removal
+      - Sanding
+      - Sintering
+      - Electroplating
+      required: true
+    - id: 8
+      name: q5_safety
+      label: Q5 Primary safety concern for powder processes
+      hint: Choose best answer
+      type: select_one
+      options:
+      - Inhalation
+      - Noise
+      - Heat
+      - Electrocution
+      required: true
+    - id: 9
+      name: score
+      label: Total score
+      hint: Admin only field for recorded score
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback on quiz
+      hint: Optional comments about the quiz content
+      type: text
+      options: []
+      required: false

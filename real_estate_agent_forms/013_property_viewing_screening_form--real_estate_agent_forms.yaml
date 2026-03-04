@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Viewing Screening Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: available_days
+      label: Available Viewings Days
+      hint: Monday, Wednesday or Friday
+      type: select_one
+      options:
+      - 9am
+      - 10am
+      - 11am
+      - 1pm
+      - 2pm
+      - 3pm
+      - 4pm
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Miss
+      - None
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Land
+      - Other
+      required: false
+    - id: 9
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: view_date
+      label: View Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: preferred_view_date
+      label: Preferred View Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: preferred_view_time
+      label: Preferred View Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: view_details
+      label: View Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agent_comments
+      label: Agent Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tenant_comments
+      label: Tenant Comments
+      hint: null
+      type: note
+      options: []
+      required: false

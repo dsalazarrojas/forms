@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neuroscience Training Recommendation Form
+    pages:
+    - id: 1
+      name: training_coordinator
+      label: Training Coordinator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recommended_training_program
+      label: Recommended Training Program
+      hint: Please select a training program that aligns with your expertise
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: recommended_training_date
+      label: Recommended Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recommended_training_facilitator
+      label: Recommended Training Facilitator
+      hint: Please select a facilitator from the list below
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: training_topics
+      label: Training Topics
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommended_training_facilitator_other
+      label: Recommended Training Facilitator (Other)
+      hint: Please enter the name of the recommended facilitator
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_institution
+      label: Submitter Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter_institutional_affiliation
+      label: Submitter Institutional Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_institutional_address
+      label: Submitter Institutional Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_institutional_phone
+      label: Submitter Institutional Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_institutional_email
+      label: Submitter Institutional Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_additional_comments
+      label: Submitter Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_declaration
+      label: Submitter Declaration
+      hint: null
+      type: note
+      options: []
+      required: true

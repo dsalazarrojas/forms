@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: spanish_verb_conjugation_quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: welcome_to_the_quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: question_1_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: question_1_answer
+      label: answer_1_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: question_2
+      label: question_2_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: question_2_answer
+      label: answer_2_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: question_3
+      label: question_3_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: question_3_answer
+      label: answer_3_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: submission
+      label: submission_label
+      hint: null
+      type: text
+      options: []
+      required: false

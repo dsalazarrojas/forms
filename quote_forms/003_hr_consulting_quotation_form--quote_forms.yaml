@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Consulting Quotation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quotation_terms
+      label: Quotation Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quotation_status
+      label: Quotation Status
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Non-HR
+      required: false
+    - id: 5
+      name: quotation_date
+      label: Quotation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quotation_time
+      label: Quotation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: quotation_total
+      label: Quotation Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quotation_currency
+      label: Quotation Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 9
+      name: quotation_terms_accepted
+      label: Quotation Terms Accepted
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: quotation_notes
+      label: Quotation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false

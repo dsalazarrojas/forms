@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Attendance Registration Form
+    pages:
+    - id: 1
+      name: section_header_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event or Service Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_header_membership
+      label: -- Membership Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Current member
+      - Former member
+      - Visitor
+      - First-time visitor
+      - Prospective member
+      required: true
+    - id: 13
+      name: member_since
+      label: Member Since (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_attendance
+      label: -- Attendance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attendance_count
+      label: Number of People in Your Group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: children_attending
+      label: Children Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: section_header_engagement
+      label: -- Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: interested_in_volunteering
+      label: Interested in Volunteering
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 24
+      name: volunteer_areas
+      label: Areas of Interest for Volunteering
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: receive_newsletter
+      label: Would you like to receive our newsletter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

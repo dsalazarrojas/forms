@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Engagement Training Registration
+    pages:
+    - id: 1
+      name: training_registration_header
+      label: -- Workshop Registration Form --
+      hint: Register for upcoming civic leadership and engagement training
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registrant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registrant_email
+      label: Email Address
+      hint: Training materials will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization_affiliation
+      label: Organization or Community Group (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_module_selection
+      label: Select Training Modules
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Module 1 - Effective Community Organizing
+      - Module 2 - Public Speaking for Advocates
+      - Module 3 - Understanding Local Government Finance
+      - Module 4 - Social Media for Civic Change
+      - Module 5 - Conflict Resolution in Public Forums
+      required: true
+    - id: 6
+      name: training_date_preference
+      label: Preferred Training Date
+      hint: null
+      type: select_one
+      options:
+      - Saturday, April 12
+      - Wednesday, April 16 (Evening)
+      - Saturday, May 10
+      required: true
+    - id: 7
+      name: prior_experience_level
+      label: Your current experience with civic engagement
+      hint: null
+      type: select_one
+      options:
+      - Beginner (No previous experience)
+      - Intermediate (Participated in local events)
+      - Advanced (Lead local projects/groups)
+      required: true
+    - id: 8
+      name: motivation_for_attending
+      label: What do you hope to gain from this training?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_requirements_header
+      label: -- Logistics and Dietary Needs --
+      hint: For in-person sessions only
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Requirements (Vegetarian, Gluten-free, etc.)
+      hint: Lunch will be provided
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accessibility_needs
+      label: Any accessibility accommodations required?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hear_about_us_referral
+      label: How did you hear about this training?
+      hint: null
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Friend or Colleague
+      - City Website
+      required: false
+    - id: 13
+      name: participation_fee_agreement
+      label: I understand there is a 50.00 registration fee (waivable for students)
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I am a student (request waiver)
+      required: true
+    - id: 14
+      name: cancellation_policy_ack
+      label: I have read and agree to the cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 15
+      name: registration_timestamp
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

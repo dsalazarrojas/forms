@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_covid_19_compliance_questionnaire
+    pages:
+    - id: 1
+      name: property_access
+      label: Property Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visitor_info
+      label: Visitor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: covid_status
+      label: COVID-19 Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''No COVID-19 symptoms''}'
+      - '{''label'': ''Have COVID-19''}'
+      - '{''label'': ''Have had COVID-19 recently''}'
+      - '{''label'': ''Unsure''}'
+      required: false
+    - id: 5
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_tracing
+      label: Contact Tracing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Sure''}'
+      required: false
+    - id: 8
+      name: health_declaration
+      label: Health Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': ''Partially Vaccinated''}'
+      - '{''label'': ''Fully Vaccinated''}'
+      required: false
+    - id: 10
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''No Test Done''}'
+      - '{''label'': ''Negative''}'
+      - '{''label'': ''Positive''}'
+      required: false
+    - id: 11
+      name: visitor_pledge
+      label: Visitor Pledge
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I will follow the instructions of the property manager''}'
+      - '{''label'': ''I will take necessary precautions to prevent the spread of
+        COVID-19''}'
+      - '{''label'': ''Not Sure''}'
+      required: false
+    - id: 12
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_access_type
+      label: Property Access Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contactless_transaction
+      label: Contactless Transaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: false
+    - id: 15
+      name: property_access_time
+      label: Property Access Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: property_access_frequency
+      label: Property Access Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than once a week''}'
+      - '{''label'': ''1-2 times a week''}'
+      - '{''label'': ''3-4 times a week''}'
+      - '{''label'': ''5-6 times a week''}'
+      - '{''label'': ''Every day''}'
+      required: false
+    - id: 17
+      name: property_access_duration
+      label: Property Access Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contactless_transaction_type
+      label: Contactless Transaction Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_access_time_in_hours
+      label: Property Access Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: property_access_frequency_in_days
+      label: Property Access Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: visitor_pledge_frequency
+      label: Visitor Pledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_access_time_in_seconds
+      label: Property Access Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: visitor_pledge_frequency_in_days
+      label: Visitor Pledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_access_time_in_seconds
+      label: Property Access Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contactless_transaction_frequency_in_days
+      label: Contactless Transaction Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

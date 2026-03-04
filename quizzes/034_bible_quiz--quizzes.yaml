@@ -1,0 +1,275 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bible Quiz
+    pages:
+      - id: 1
+        name: section_header_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For quiz results
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - Under 13
+          - 13-18
+          - 19-30
+          - 31-50
+          - 51-70
+          - 70+
+        required: true
+      - id: 5
+        name: section_header_quiz
+        label: -- Bible Knowledge Quiz --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: question_1
+        label: Question 1 - Who was the first man created by God
+        hint: null
+        type: select_one
+        options:
+          - Adam
+          - Abraham
+          - Moses
+          - David
+          - I don't know
+        required: true
+      - id: 7
+        name: question_2
+        label: Question 2 - How many books are in the Bible
+        hint: null
+        type: select_one
+        options:
+          - 39
+          - 46
+          - 66
+          - 73
+          - I don't know
+        required: true
+      - id: 8
+        name: question_3
+        label: Question 3 - Who wrote the majority of the Psalms
+        hint: null
+        type: select_one
+        options:
+          - King David
+          - King Solomon
+          - Moses
+          - Jeremiah
+          - I don't know
+        required: true
+      - id: 9
+        name: question_4
+        label: Question 4 - Which disciple betrayed Jesus
+        hint: null
+        type: select_one
+        options:
+          - Judas Iscariot
+          - Peter
+          - Thomas
+          - Judas Thaddeus
+          - I don't know
+        required: true
+      - id: 10
+        name: question_5
+        label: Question 5 - What was the first plague of Egypt
+        hint: null
+        type: select_one
+        options:
+          - Darkness
+          - Water turned to blood
+          - Locusts
+          - Hail
+          - I don't know
+        required: true
+      - id: 11
+        name: question_6
+        label: Question 6 - How many commandments did God give to Moses
+        hint: null
+        type: select_one
+        options:
+          - Five
+          - Seven
+          - Ten
+          - Twelve
+          - I don't know
+        required: true
+      - id: 12
+        name: question_7
+        label: Question 7 - Who was swallowed by a great fish
+        hint: null
+        type: select_one
+        options:
+          - Jonah
+          - Job
+          - Joshua
+          - Samson
+          - I don't know
+        required: true
+      - id: 13
+        name: question_8
+        label: Question 8 - In what city was Jesus born
+        hint: null
+        type: select_one
+        options:
+          - Jerusalem
+          - Bethlehem
+          - Nazareth
+          - Jericho
+          - I don't know
+        required: true
+      - id: 14
+        name: question_9
+        label: Question 9 - What was Jesus main teaching method
+        hint: null
+        type: select_one
+        options:
+          - Lectures
+          - Parables
+          - Debates
+          - Writings
+          - I don't know
+        required: true
+      - id: 15
+        name: question_10
+        label: Question 10 - How many disciples did Jesus choose
+        hint: null
+        type: select_one
+        options:
+          - Seven
+          - Ten
+          - Twelve
+          - Fifteen
+          - I don't know
+        required: true
+      - id: 16
+        name: question_11
+        label: Question 11 - Which apostle wrote the most New Testament books
+        hint: null
+        type: select_one
+        options:
+          - Peter
+          - Paul
+          - John
+          - James
+          - I don't know
+        required: true
+      - id: 17
+        name: question_12
+        label: Question 12 - In which city did Pentecost occur
+        hint: null
+        type: select_one
+        options:
+          - Jerusalem
+          - Rome
+          - Antioch
+          - Damascus
+          - I don't know
+        required: true
+      - id: 18
+        name: question_13
+        label: Question 13 - What is the longest book in the Bible
+        hint: null
+        type: select_one
+        options:
+          - Genesis
+          - Psalms
+          - Isaiah
+          - Matthew
+          - I don't know
+        required: true
+      - id: 19
+        name: question_14
+        label: Question 14 - Who did God ask to sacrifice his son
+        hint: null
+        type: select_one
+        options:
+          - Jacob
+          - Abraham
+          - Isaac
+          - Moses
+          - I don't know
+        required: true
+      - id: 20
+        name: question_15
+        label: Question 15 - What is the shortest book in the Bible
+        hint: null
+        type: select_one
+        options:
+          - Philemon
+          - Obadiah
+          - 3 John
+          - 2 John
+          - I don't know
+        required: true
+      - id: 21
+        name: section_header_feedback
+        label: -- Quiz Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: quiz_difficulty
+        label: How Would You Rate the Quiz Difficulty
+        hint: null
+        type: select_one
+        options:
+          - Too easy
+          - Easy
+          - Just right
+          - Difficult
+          - Too difficult
+        required: true
+      - id: 23
+        name: test_preparation
+        label: Did You Prepare for This Quiz
+        hint: null
+        type: select_one
+        options:
+          - Yes, extensively
+          - Yes, somewhat
+          - Very little
+          - Not at all
+          - No preparation
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments or Questions
+        hint: Any feedback about the quiz?
+        type: text
+        options: []
+        required: false

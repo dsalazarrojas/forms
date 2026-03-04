@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Lead Intake Form
+    pages:
+    - id: 1
+      name: lead_name
+      label: Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_address
+      label: lead_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lead_message
+      label: lead_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_type
+      label: lead_type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Land
+      required: false
+    - id: 7
+      name: realty_name
+      label: realty_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: realty_address
+      label: realty_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: listing_agent
+      label: listing_agent
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Jane
+      - John
+      required: false
+    - id: 10
+      name: listing_agent_email
+      label: listing_agent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: listing_agent_phone
+      label: listing_agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lead_notes
+      label: lead_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Closed
+      required: false
+    - id: 14
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: text
+      options: []
+      required: false

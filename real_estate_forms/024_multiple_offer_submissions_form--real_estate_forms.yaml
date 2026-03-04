@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Offer Submissions Form
+    pages:
+    - id: 1
+      name: homeowner_address
+      label: Home owner address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: multiple_offer
+      label: How many offers did you receive?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: highest_offer
+      label: Highest offer?
+      hint: Include cents
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: offer_amount
+      label: Offer amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: buyer_name
+      label: Name of buyer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: buyer_phone
+      label: Buyer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: buyer_email
+      label: Buyer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: buyer_message
+      label: Message from buyer
+      hint: null
+      type: text
+      options: []
+      required: false

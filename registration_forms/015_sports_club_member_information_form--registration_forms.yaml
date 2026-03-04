@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Club Member Information Form
+    pages:
+    - id: 1
+      name: sports_club_membership_form
+      label: Member Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: member_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dob
+      label: date of birth
+      hint: 'Format: 1999-12-31'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: postal_code
+      label: postal code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: member_since
+      label: Member Since
+      hint: 'Format: 2019-01-01'
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: membership_end_date
+      label: Membership End Date
+      hint: 'Format: 2022-12-31'
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: member_id
+      label: Member ID
+      hint: Unique ID Number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of the emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

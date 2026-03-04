@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Item Registration Form
+    pages:
+    - id: 1
+      name: section_registrant
+      label: -- Registrant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Registrant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_item
+      label: -- Auction Item Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_title
+      label: Item Title
+      hint: Official name for the auction catalog
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_description_detailed
+      label: Detailed Description
+      hint: Include history, materials, and significance
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: provenance
+      label: Provenance and Ownership History
+      hint: How did you come to own this item?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_dimensions
+      label: Dimensions (cm)
+      hint: Height x Width x Depth
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: appraisal_status
+      label: Has this item been professionally appraised?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I have documents
+      - No, but I want one
+      - false
+      required: true
+    - id: 12
+      name: section_valuation
+      label: -- Valuation and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: estimated_market_value
+      label: Estimated Market Value
+      hint: Based on appraisal or research
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: reserve_price_requested
+      label: Reserve Price (Minimum Bid)
+      hint: Leave 0 for no reserve
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: charity_donation_percentage
+      label: Percentage of Sale to Charity
+      hint: Optional - proceeds above reserve
+      type: number
+      options: []
+      required: false

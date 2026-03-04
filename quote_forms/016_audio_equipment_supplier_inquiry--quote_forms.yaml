@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Equipment Supplier Inquiry
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_full_name
+      label: Contact Full Name
+      hint: Name of primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Contact email for quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of this quote request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: equipment_category
+      label: Equipment Category
+      hint: Primary category of equipment needed
+      type: select_one
+      options:
+      - Microphones
+      - Mixing Consoles
+      - Audio Interfaces
+      - Speakers and Monitors
+      - Headphones
+      - Cables and Accessories
+      - Recording Equipment
+      - Live Sound Equipment
+      - Complete Systems
+      required: true
+    - id: 8
+      name: specific_products
+      label: Specific Products
+      hint: List specific products or models of interest
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: quantity_needed
+      label: Quantity Needed
+      hint: Approximate quantity required
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for this purchase
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - Over $50,000
+      required: true
+    - id: 11
+      name: intended_use
+      label: Intended Use
+      hint: What will the equipment be used for?
+      type: select_one
+      options:
+      - Studio Recording
+      - Live Sound
+      - Broadcasting
+      - Post-Production
+      - Educational
+      - Corporate AV
+      - Other
+      required: true
+    - id: 12
+      name: timeline
+      label: Timeline
+      hint: When do you need the equipment?
+      type: select_one
+      options:
+      - Immediate need
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Planning for future
+      required: true
+    - id: 13
+      name: installation_required
+      label: Installation Required
+      hint: Do you need installation services?
+      type: select_one
+      options:
+      - Yes, full installation needed
+      - Yes, partial installation
+      - No, self-install
+      - Unsure
+      required: true
+    - id: 14
+      name: training_required
+      label: Training Required
+      hint: Do you need training on the equipment?
+      type: select_one
+      options:
+      - Yes, on-site training
+      - Yes, remote training
+      - No, experienced users
+      - Maybe, depending on equipment
+      required: true
+    - id: 15
+      name: warranty_preference
+      label: Warranty Preference
+      hint: Preferred warranty coverage
+      type: select_one
+      options:
+      - Standard warranty
+      - Extended warranty
+      - Premium support package
+      - No preference
+      required: true
+    - id: 16
+      name: financing_interest
+      label: Financing Interest
+      hint: Are you interested in financing options?
+      type: select_one
+      options:
+      - Yes, please include financing options
+      - No, paying outright
+      - Maybe, depending on terms
+      required: true
+    - id: 17
+      name: trade_in_equipment
+      label: Trade-In Equipment
+      hint: Do you have equipment to trade in?
+      type: select_one
+      options:
+      - Yes, have equipment to trade
+      - No trade-in
+      - Unsure
+      required: true
+    - id: 18
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other specifications or requirements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Video call
+      required: true
+    - id: 20
+      name: best_contact_time
+      label: Best Contact Time
+      hint: Best time to reach you
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 5pm)
+      - Evening (5pm - 8pm)
+      - Any time
+      required: false

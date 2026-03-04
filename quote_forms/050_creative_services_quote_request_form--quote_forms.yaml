@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Services Quote Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Enter client name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: Enter client contact e-mail
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: Enter project name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: Enter project description
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget_allocation
+      label: Budget Allocation
+      hint: Select budget allocation
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: expected_delivery_date
+      label: Expected Delivery Date
+      hint: Select date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: estimated_time
+      label: Estimated Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_files
+      label: Project Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: Enter client contact number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Billing Address
+      hint: Enter billing address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_status
+      label: Project Status
+      hint: Select project status
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 15
+      name: quote_request
+      label: Quote Request
+      hint: Select quote request
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false

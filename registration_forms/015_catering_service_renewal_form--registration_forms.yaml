@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Renewal Form
+    pages:
+    - id: 1
+      name: section_account_information
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_current_services
+      label: -- Current Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_plan
+      label: Current Service Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: expiration_date
+      label: Current Service Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: satisfaction_level
+      label: Satisfaction with Current Services
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: section_renewal_options
+      label: -- Renewal Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: renewal_decision
+      label: Do you wish to renew your service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure"
+      required: true
+    - id: 13
+      name: renewal_term
+      label: Preferred Renewal Term
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Other
+      required: false
+    - id: 14
+      name: plan_modification
+      label: Would you like to modify your service plan?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: desired_modifications
+      label: Describe Desired Modifications
+      hint: Additional services, features, changes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_billing_info
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: billing_contact_same
+      label: Is billing contact the same as above?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: billing_contact_name
+      label: Billing Contact Name
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_renewal_terms
+      label: -- Renewal Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - ACH
+      - PayPal
+      - Same as before
+      required: true
+    - id: 22
+      name: auto_renewal_option
+      label: Enable Auto-Renewal for Future Years
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reason_for_non_renewal
+      label: If not renewing, please explain
+      hint: Feedback for improvement
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: renewal_confirmation
+      label: I confirm the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

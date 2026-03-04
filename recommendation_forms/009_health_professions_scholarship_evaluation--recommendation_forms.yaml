@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_professions_scholarship_evaluation
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: review_score
+      label: Review Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: strengths
+      label: Strengths
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 5
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Communication skills''}'
+      - '{''value'': ''Time management''}'
+      - '{''value'': ''Problem-solving ability''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_info
+      label: Reviewer Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_complete
+      label: Review Complete
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 16
+      name: date_submit
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Strengths''}'
+      - '{''value'': ''Weaknesses''}'
+      - '{''value'': ''Other''}'
+      required: false

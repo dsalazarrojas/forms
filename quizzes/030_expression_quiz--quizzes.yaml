@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expression Quiz
+    pages:
+    - id: 1
+      name: question_id
+      label: question_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: question_title
+      label: question_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: answer_choice_id
+      label: answer_choice_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question
+      label: question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: explanation
+      label: explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_image_id
+      label: question_image_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question_audio_id
+      label: question_audio_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: correct_answer_image_id
+      label: correct_answer_image_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: correct_answer_audio_id
+      label: correct_answer_audio_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: score
+      label: score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_answer
+      label: user_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_audio_id
+      label: user_audio_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: user_image_id
+      label: user_image_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: user_question_audio_id
+      label: user_question_audio_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: user_question_image_id
+      label: user_question_image_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: user_question_id
+      label: user_question_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: correct_user_answer
+      label: correct_user_answer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: correct_user_audio_id
+      label: correct_user_audio_id
+      hint: null
+      type: number
+      options: []
+      required: false

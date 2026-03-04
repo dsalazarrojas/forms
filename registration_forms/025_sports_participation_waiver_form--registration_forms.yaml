@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_participation_waiver_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_dob
+      label: participant_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_safety_questions
+      label: participant_safety_questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_dob
+      label: emergency_contact_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: participant_medical_conditions
+      label: participant_medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - asthma
+      - diabetes
+      - heart_conditions
+      - other_medical_conditions
+      required: true
+    - id: 12
+      name: emergency_contact_medical_conditions
+      label: emergency_contact_medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - heart_conditions
+      - other_medical_conditions
+      - allergies
+      - epilepsy
+      required: true
+    - id: 13
+      name: participant_medication
+      label: participant_medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_medication
+      label: emergency_contact_medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: participant_consent
+      label: participant_consent
+      hint: null
+      type: select_one
+      options:
+      - i_agree
+      - i_disagree
+      required: true
+    - id: 16
+      name: emergency_contact_consent
+      label: emergency_contact_consent
+      hint: null
+      type: select_one
+      options:
+      - i_agree
+      - i_disagree
+      required: true
+    - id: 17
+      name: participant_employment_status
+      label: participant_employment_status
+      hint: null
+      type: select_one
+      options:
+      - employed
+      - unemployed
+      required: true
+    - id: 18
+      name: participant_health_insurance
+      label: participant_health_insurance
+      hint: null
+      type: select_one
+      options:
+      - i_have
+      - i_don't_have
+      required: true
+    - id: 19
+      name: participant_medical_supervision
+      label: participant_medical_supervision
+      hint: null
+      type: select_one
+      options:
+      - i_agree
+      - i_disagree
+      required: true
+    - id: 20
+      name: participant_medical_supervision_type
+      label: participant_medical_supervision_type
+      hint: null
+      type: select_multiple
+      options:
+      - on_site_supervision
+      - off_site_supervision
+      required: true
+    - id: 21
+      name: participant_medical_supervision_provider
+      label: participant_medical_supervision_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: participant_medical_insurance_plan
+      label: participant_medical_insurance_plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: participant_employer
+      label: participant_employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: participant_employment_supervisor
+      label: participant_employment_supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: participant_medical_supervisor
+      label: participant_medical_supervisor
+      hint: null
+      type: text
+      options: []
+      required: true

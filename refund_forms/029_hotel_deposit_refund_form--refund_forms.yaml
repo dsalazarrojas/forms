@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Deposit Refund Form
+    pages:
+    - id: 1
+      name: hotel_deposit_refund_form
+      label: Refund
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Please enter the customer's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: hotel_name
+      label: Hotel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: deposit_date
+      label: Deposit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false

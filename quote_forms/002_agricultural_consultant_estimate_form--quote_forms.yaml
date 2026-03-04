@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Consultant Estimate Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Name of the farm or client requesting the estimate
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for the project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for sending the estimate
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for scheduling and clarifications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_scope
+      label: Project scope summary
+      hint: Describe services requested and goals
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: estimated_duration_days
+      label: Estimated duration in days
+      hint: Number of days expected to complete work
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: materials_cost_estimate
+      label: Materials cost estimate
+      hint: Enter a monetary estimate for materials
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: labor_cost_estimate
+      label: Labor cost estimate
+      hint: Enter a monetary estimate for labor
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any special considerations or constraints
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acceptance_signature
+      label: Acceptance acknowledgement
+      hint: Confirm acceptance of the estimate terms
+      type: note
+      options: []
+      required: true

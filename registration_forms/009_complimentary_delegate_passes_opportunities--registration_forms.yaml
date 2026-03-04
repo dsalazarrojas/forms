@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complimentary Delegate Passes Opportunities
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization or company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your work email for pass delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Select your primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Government
+      - Non-Profit
+      - Media and Entertainment
+      - Manufacturing
+      - Retail
+      - Other
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Which event are you requesting passes for
+      type: select_one
+      options:
+      - Annual Technology Summit
+      - Healthcare Innovation Conference
+      - Business Leadership Forum
+      - Industry Trade Show
+      - Networking Gala
+      - Workshop Series
+      - Other
+      required: true
+    - id: 8
+      name: number_of_passes_requested
+      label: Number of Passes Requested
+      hint: How many complimentary passes do you need
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 9
+      name: pass_type
+      label: Pass Type
+      hint: Type of delegate pass needed
+      type: select_one
+      options:
+      - Full Conference Access
+      - Exhibition Only
+      - Workshop Access
+      - VIP Access
+      - Virtual Attendance
+      required: true
+    - id: 10
+      name: eligibility_criteria
+      label: Eligibility Criteria Met
+      hint: Select all criteria that apply to your request
+      type: select_multiple
+      options:
+      - First Time Attendee
+      - Student or Academic
+      - Non-Profit Organization
+      - Startup Company
+      - Media Representative
+      - Government Official
+      - Industry Partner
+      - Referral from Previous Attendee
+      required: true
+    - id: 11
+      name: reason_for_request
+      label: Reason for Request
+      hint: Explain why you are requesting complimentary passes
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_benefits
+      label: Expected Benefits
+      hint: What benefits do you expect from attending
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_hear
+      label: How Did You Hear About This Event
+      hint: Select the source
+      type: select_one
+      options:
+      - Email Campaign
+      - Social Media
+      - Colleague Referral
+      - Website
+      - Previous Event
+      - Industry Publication
+      - Other
+      required: false
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs for event catering
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accessibility accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: May we send you information about future events
+      type: select_one
+      options:
+      - Yes, keep me informed
+      - No, thank you
+      required: true
+    - id: 17
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: I agree to the terms and conditions for complimentary passes
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to support your request
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Registration And Material Upload
+    pages:
+    - id: 1
+      name: speaker_info
+      label: Speaker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_info
+      label: Session Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: material_upload
+      label: Material Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaker_files
+      label: Speaker Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: session_files
+      label: Session Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false

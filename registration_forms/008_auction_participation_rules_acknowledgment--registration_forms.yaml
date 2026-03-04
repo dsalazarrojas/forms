@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Participation Rules Acknowledgment
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: bidder_number_if_assigned
+      label: Bidder Number
+      hint: If already registered and assigned
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Date of Participation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rule_1_bidding
+      label: I understand that all bids are final and legally binding
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 5
+      name: rule_2_payment
+      label: I agree to pay for all items won by the end of the event
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 6
+      name: rule_3_pickup
+      label: I am responsible for removal and transport of items won
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 7
+      name: rule_4_as_is
+      label: I understand all items are sold as-is - where-is
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 8
+      name: terms_link
+      label: Full Terms and Conditions link
+      hint: Read before signing
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: final_agreement
+      label: I have read and agree to all the auction rules
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: signature_confirmation
+      label: Type your full name to sign this agreement
+      hint: This serves as a digital signature
+      type: text
+      options: []
+      required: true

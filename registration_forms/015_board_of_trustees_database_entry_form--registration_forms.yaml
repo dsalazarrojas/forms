@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Board Of Trustees Database Entry Form
+    pages:
+    - id: 1
+      name: member_profile_header
+      label: -- Board Member Profile Entry --
+      hint: Internal Database Record
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trustee_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: professional_info_header
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trustee_employer
+      label: Current Employer / Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: trustee_title
+      label: Professional Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expertise_areas
+      label: Areas of Professional Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Finance
+      - Legal
+      - Marketing
+      - Technology
+      - Governance
+      - Education
+      - Healthcare
+      required: true
+    - id: 10
+      name: board_specifics_header
+      label: -- Board Specifics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Current Term Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: end_date
+      label: Current Term End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: committee_assignment
+      label: Primary Committee Assignment
+      hint: null
+      type: select_one
+      options:
+      - Executive
+      - Audit
+      - Governance
+      - Fundraising
+      - Strategic Planning
+      required: true
+    - id: 14
+      name: biography_summary
+      label: Brief Biography for Website / Records
+      hint: 100-200 words
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

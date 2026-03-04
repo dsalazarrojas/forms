@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return Refund Method Selection Form
+    pages:
+    - id: 1
+      name: return_request
+      label: Return Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_refund_method
+      label: Preferred Refund Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: select_preferred_refund_method
+      label: Select a Refund Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reason_for_request
+      label: Reason for Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: refund_option
+      label: Refund Option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: select_refund_option
+      label: Select a Refund Option
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: return_method
+      label: Return Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

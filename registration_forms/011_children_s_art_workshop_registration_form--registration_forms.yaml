@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Art Workshop Registration Form
+    pages:
+    - id: 1
+      name: student_information
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 5-7 years
+      - 8-10 years
+      - 11-13 years
+      - 14-16 years
+      - 17-18 years
+      required: true
+    - id: 6
+      name: school_grade
+      label: Current School Grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_information
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_email
+      label: Parent Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: workshop_selection
+      label: -- Workshop Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: workshop_type
+      label: Which workshop are you interested in
+      hint: null
+      type: select_one
+      options:
+      - Painting Basics
+      - Drawing Fundamentals
+      - Digital Art
+      - Sculpture and 3D
+      - Mixed Media
+      - Cartooning
+      required: true
+    - id: 17
+      name: experience_level
+      label: Student art experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner - No prior experience
+      - Elementary - Some basic experience
+      - Intermediate - Regular practice
+      - Advanced - Formal training
+      required: true
+    - id: 18
+      name: workshop_session
+      label: Preferred workshop session
+      hint: null
+      type: select_one
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (1pm-4pm)
+      - Evening (5pm-7pm)
+      - Weekend (Saturday 10am-1pm)
+      required: true
+    - id: 19
+      name: start_date
+      label: Preferred start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: special_interests
+      label: -- Special Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: art_interests
+      label: What types of art interest your child
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Realistic art
+      - Abstract art
+      - Anime and manga
+      - Fantasy art
+      - Nature and animals
+      - Portraiture
+      required: false
+    - id: 22
+      name: special_needs
+      label: Does the student have any special needs or accommodations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: special_needs_details
+      label: Please describe any special needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: allergies
+      label: Any material allergies or sensitivities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agreement
+      label: I agree to the workshop terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

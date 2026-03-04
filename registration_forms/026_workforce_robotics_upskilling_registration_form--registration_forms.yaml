@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Robotics Upskilling Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: training_programs
+      label: Training programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: training_location
+      label: Training location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: training_dates
+      label: Training dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_hours
+      label: Training hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: training_facilitator
+      label: Training facilitator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: emergency_contact_details
+      label: Emergency contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_agreement
+      label: Participant agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: training_program_notes
+      label: Training program notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_consent
+      label: Participant consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: training_location_notes
+      label: Training location notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: training_facilitator_notes
+      label: Training facilitator notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_program_completion_notes
+      label: Participant program completion notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_participant_comments
+      label: Additional participant comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: facilitator_agreement
+      label: Facilitator agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: training_program_facilitator_notes
+      label: Training program facilitator notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: robot_type
+      label: Robot type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: robot_model
+      label: Robot model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: robot_serial_number
+      label: Robot serial number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: training_facilitator
+      label: Training facilitator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: robot_warranty
+      label: Robot warranty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_attendance_status
+      label: Participant attendance status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_attendance_status_notes
+      label: Participant attendance status notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_attendance_status_date
+      label: Participant attendance status date
+      hint: null
+      type: date
+      options: []
+      required: false

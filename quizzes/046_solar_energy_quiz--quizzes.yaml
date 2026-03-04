@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Energy Quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: energy_types
+      label: Energy Types
+      hint: null
+      type: select_multiple
+      options:
+      - Photovoltaic
+      - Thermal
+      - Concentrated Solar Power
+      - Passive Solar Design
+      - Active Solar Systems
+      required: false
+    - id: 3
+      name: renewable_energy_sources
+      label: Renewable Energy Sources
+      hint: Solar, Wind, Hydro, etc.
+      type: select_multiple
+      options:
+      - Solar
+      - Wind
+      - Hydro
+      - Geothermal
+      required: true
+    - id: 4
+      name: benefits_of_solar_energy
+      label: Benefits of Solar Energy
+      hint: Describe the benefits of using solar energy.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_score
+      label: Quiz Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: quiz_results
+      label: Quiz Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quiz_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quiz_score_out_of
+      label: Quiz Score Out of
+      hint: Maximum score
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: quiz_time_spent
+      label: Time Spent
+      hint: In minutes
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_score
+      label: User Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: user_result
+      label: User Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quiz_completed
+      label: Quiz Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: user_time_spent
+      label: User Time Spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: quiz_duration
+      label: Quiz Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: quiz_start_time
+      label: Quiz Start Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: quiz_end_time
+      label: Quiz End Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: quiz_time
+      label: Quiz Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: quiz_status
+      label: Quiz Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 23
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_user_name
+      label: Assigned User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user_id
+      label: Assigned User ID
+      hint: null
+      type: text
+      options: []
+      required: false

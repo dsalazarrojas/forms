@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Open House Feedback Form
+    pages:
+    - id: 1
+      name: open_house_feedback
+      label: Open House Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_agent
+      label: Agent Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jim''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: open_house_location
+      label: Open House Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_message
+      label: Feedback Message
+      hint: null
+      type: text
+      options: []
+      required: false

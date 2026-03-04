@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: pest_control_quote_form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pest_control_services
+      label: pest_control_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pest_description
+      label: pest_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_cost
+      label: treatment_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

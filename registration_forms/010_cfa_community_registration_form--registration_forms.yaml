@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cfa Community Registration Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Community Registration --
+      hint: Register for classes or programs offered by the community arts school
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: full name
+      hint: student or participant full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: used for class updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: age group
+      hint: select applicable age bracket
+      type: select_one
+      options:
+      - Child
+      - Teen
+      - Adult
+      - Senior
+      required: true
+    - id: 6
+      name: class_interest
+      label: class interest
+      hint: program or class the participant wants to join
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: previous_experience
+      label: previous experience
+      hint: describe any prior relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: emergency contact
+      hint: name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agree_terms
+      label: agree to terms
+      hint: consent to program policies
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: special_needs
+      label: special needs
+      hint: accessibility or support requirements
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_showing_feedback_form
+    pages:
+    - id: 1
+      name: real_estate_showing
+      label: Real Estate Showing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''condo''}'
+      - '{''value'': ''house''}'
+      - '{''value'': ''lot''}'
+      - '{''value'': ''townhouse''}'
+      - '{''value'': ''land''}'
+      required: false
+    - id: 5
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agent_company
+      label: Agent Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: showing_agent
+      label: Showing Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_city
+      label: Property City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_state
+      label: Property State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_postal_code
+      label: Property Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

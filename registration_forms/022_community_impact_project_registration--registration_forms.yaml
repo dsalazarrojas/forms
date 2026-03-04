@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Impact Project Registration
+    pages:
+    - id: 1
+      name: lead_name
+      label: Project Lead Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Project Lead Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Project Lead Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_title
+      label: Proposed Project Title
+      hint: A short, descriptive name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_category
+      label: Primary Impact Category
+      hint: Choose the best fit
+      type: select_one
+      options:
+      - Education and Literacy
+      - Health and Wellness
+      - Environmental Sustainability
+      - Economic Development
+      - Social Justice and Advocacy
+      - Arts and Culture
+      required: true
+    - id: 6
+      name: project_goal
+      label: Primary Project Goal
+      hint: What is the main outcome you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: beneficiary_count
+      label: Estimated Number of Direct Beneficiaries
+      hint: How many people will this project directly serve?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: project_duration
+      label: Anticipated Project Duration
+      hint: null
+      type: select_one
+      options:
+      - Short-term (under 3 months)
+      - Mid-term (3-12 months)
+      - Long-term (over 1 year)
+      - Recurring / Continuous
+      required: true
+    - id: 9
+      name: budget_estimate
+      label: Total Required Budget Estimate
+      hint: US Dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: community_partners
+      label: List Involved Community Partners
+      hint: e.g., Local nonprofits, businesses, or government agencies
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: activity_description
+      label: Detailed Description of Project Activities
+      hint: What specific steps will be taken?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: registration_date
+      label: Date of Project Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: terms_agreement
+      label: I agree to follow community project guidelines
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true

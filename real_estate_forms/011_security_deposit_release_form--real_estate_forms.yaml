@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_deposit_release_form
+    pages:
+    - id: 1
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_returned
+      label: Date Returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: deposit_returned
+      label: Deposit Returned
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shared Housing Verification Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: move_in_date
+      label: Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_out_date
+      label: Move-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rental_agreement_start_date
+      label: Rental Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rental_agreement_end_date
+      label: Rental Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: room_mates_names
+      label: Room Mates Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: room_mates_relationship
+      label: Room Mates Relationship
+      hint: null
+      type: select_one
+      options:
+      - Friend
+      - Family
+      - Coworker
+      - Other
+      required: true
+    - id: 15
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Multi Family Home
+      - Condo
+      - Apartment
+      required: true
+    - id: 16
+      name: move_in_furniture_status
+      label: Move-in Furniture Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - Partially
+      - Fully
+      required: true
+    - id: 17
+      name: security_deposit_status
+      label: Security Deposit Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: rent_status
+      label: Rent Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: true
+    - id: 19
+      name: utilities_included
+      label: Utilities Included
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Electricity
+      - Gas
+      - Cable
+      - Internet
+      - Heat
+      - Trash and Recycling
+      - Parking
+      - None
+      required: true
+    - id: 20
+      name: utilities_status
+      label: Utilities Status
+      hint: null
+      type: select_one
+      options:
+      - Owner pays
+      - Tenant pays
+      required: true
+    - id: 21
+      name: rent_price
+      label: Rent Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 23
+      name: lease_length
+      label: Lease Length
+      hint: null
+      type: select_multiple
+      options:
+      - Month
+      - 3 Months
+      - 6 Months
+      - Year
+      - None
+      required: true
+    - id: 24
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 30 days
+      - 60 days
+      - 90 days
+      required: true
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

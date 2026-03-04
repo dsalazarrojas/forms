@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standby Participant Registration
+    pages:
+    - id: 1
+      name: session_name
+      label: Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 3
+      name: special_requirement
+      label: Special Requirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waitlist_position
+      label: Waitlist Position
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: special_requirement_2
+      label: Special Requirement 2
+      hint: null
+      type: text
+      options: []
+      required: false

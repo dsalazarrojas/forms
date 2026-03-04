@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Marketing Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: marketing_goals
+      label: Marketing Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: target_age_range
+      label: Target Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_reminders
+      label: Follow Up Reminders
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: lead_source_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media
+      label: Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_reminders_frequency
+      label: Follow Up Reminders Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: follow_up_reminders_interval
+      label: Follow Up Reminders Interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_reminders_message
+      label: Follow Up Reminders Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: lead_source_other_frequency
+      label: Lead Source Other Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lead_source_other_interval
+      label: Lead Source Other Interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lead_source_other_message
+      label: Lead Source Other Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_type_rental
+      label: Rental
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: property_type_buy
+      label: Buy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: property_type_sell
+      label: Sell
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Intake Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: To ensure age-appropriate roles.
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_skills
+      label: -- Skills and Experience --
+      hint: Tell us what you're good at.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skills_offered
+      label: What skills do you offer?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Administration
+      - Data Entry
+      - Event Planning
+      - Public Speaking
+      - Graphic Design
+      - Web Development
+      - Social Media
+      - Manual Labor
+      - Gardening
+      - Teaching
+      required: true
+    - id: 9
+      name: other_skills
+      label: Any other skills not listed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: relevant_experience
+      label: Briefly describe any relevant volunteer experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_availability
+      label: -- Availability and Preferences --
+      hint: Help us find the right schedule for you.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: availability_days
+      label: Days Available
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 13
+      name: shift_preference
+      label: Shift Preference
+      hint: Select the most convenient time.
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 14
+      name: interest_areas
+      label: Areas of Interest
+      hint: Select the causes you care about most.
+      type: select_multiple
+      options:
+      - Youth Development
+      - Environment
+      - Animal Welfare
+      - Senior Support
+      - Arts and Culture
+      - Health and Wellness
+      required: true
+    - id: 15
+      name: section_requirements
+      label: -- Requirements --
+      hint: Mandatory checks for all volunteers.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: background_check_consent
+      label: Consent to background check?
+      hint: Required for certain roles.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: transportation_access
+      label: Do you have reliable transportation?
+      hint: Access to car or public transit.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact - Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true

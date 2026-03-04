@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Visitor Information Form
+    pages:
+    - id: 1
+      name: visitor_profile_header
+      label: -- Visitor Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_zip_code
+      label: Zip - Postal Code
+      hint: Helps us understand our audience reach
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visitor_age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 6
+      name: visit_experience_header
+      label: -- Your Visit Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: visit_reason
+      label: What brought you to the exhibition today?
+      hint: null
+      type: select_multiple
+      options:
+      - Interest in a specific artist
+      - Love for the art style
+      - Friend recommended it
+      - Saw an advertisement
+      - Passing by the gallery
+      - Professional interest
+      required: true
+    - id: 8
+      name: exhibition_interest_rating
+      label: How would you rate your interest in the current exhibition theme?
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Neutral
+      - Not Very Interested
+      required: true
+    - id: 9
+      name: visit_satisfaction_score
+      label: Overall satisfaction with your visit
+      hint: (1-5 stars)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: feedback_comments
+      label: Any specific feedback or comments on the artworks?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: marketing_and_engagement_header
+      label: -- Stay Connected --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: hear_about_us
+      label: How did you hear about this exhibition?
+      hint: null
+      type: select_one
+      options:
+      - Instagram - Facebook
+      - Email Newsletter
+      - Local News
+      - Word of Mouth
+      - Physical Poster
+      - Other
+      required: true
+    - id: 13
+      name: mailing_list_opt_in
+      label: Would you like to be added to our mailing list for future events?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: interest_in_buying
+      label: Are you interested in purchasing any of the works on display?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe (Need more info)
+      required: false
+    - id: 15
+      name: specific_piece_interest
+      label: If yes, which piece are you interested in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true

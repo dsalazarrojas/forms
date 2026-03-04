@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_assessment_property_inspection_form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspecting_party
+      label: Inspecting Party
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_required
+      label: Maintenance Required
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: property_status
+      label: Property Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: status_comments
+      label: Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_id
+      label: Property ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

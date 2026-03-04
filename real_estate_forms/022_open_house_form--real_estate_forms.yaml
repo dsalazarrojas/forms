@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: open-house-form
+    pages:
+    - id: 1
+      name: event_name
+      label: event-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date_time
+      label: event-datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_address
+      label: event-address
+      hint: Address of event
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: event-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_description
+      label: event-description
+      hint: Brief description of event
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_website
+      label: event-website
+      hint: Website of event
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_start_date
+      label: event-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_end_date
+      label: event-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_start_time
+      label: event-start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_end_time
+      label: event-end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_all_day_event
+      label: is-all-day-event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: event_recurring
+      label: event-recurring
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

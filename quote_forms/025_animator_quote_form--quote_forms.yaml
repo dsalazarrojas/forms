@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animator Quote Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: For quote communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website
+      label: Website or Portfolio URL
+      hint: Your company website
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_header
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_title
+      label: Project Title
+      hint: What is your project called
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_description
+      label: Project Description
+      hint: Detailed description of your animation project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_scope
+      label: Project Scope
+      hint: Overall scope and vision
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: animation_style_header
+      label: -- Animation Style --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: animation_style
+      label: Preferred Animation Style
+      hint: What type of animation you want
+      type: select_one
+      options:
+      - 2D Traditional Animation
+      - 3D CGI Animation
+      - Stop-Motion
+      - Motion Graphics
+      - Whiteboard Animation
+      - Cel Animation
+      - Explainer Video Style
+      - Hybrid Approach
+      required: true
+    - id: 13
+      name: animation_tone
+      label: Tone and Style
+      hint: Describe the style and mood
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reference_materials
+      label: Reference Materials or Inspiration
+      hint: Links to similar work or inspiration
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: technical_specs_header
+      label: -- Technical Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: video_length
+      label: Video Duration
+      hint: How long should the animation be
+      type: select_one
+      options:
+      - 15-30 seconds
+      - 30 seconds - 1 minute
+      - 1-2 minutes
+      - 2-5 minutes
+      - 5-10 minutes
+      - 10-15 minutes
+      - 15-20 minutes
+      - 20+ minutes
+      required: true
+    - id: 17
+      name: video_resolution
+      label: Required Video Resolution
+      hint: Output resolution needed
+      type: select_one
+      options:
+      - HD 1080p (1920x1080)
+      - 4K (3840x2160)
+      - Mobile Optimized
+      - Social Media Format
+      - Broadcast Quality
+      - Multiple Formats
+      required: true
+    - id: 18
+      name: frame_rate
+      label: Frame Rate Required
+      hint: Frames per second
+      type: select_one
+      options:
+      - 24 FPS
+      - 30 FPS
+      - 60 FPS
+      - Multiple Frame Rates
+      - No Preference
+      required: false
+    - id: 19
+      name: deliverables_header
+      label: -- Deliverables --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: deliverable_items
+      label: What is included in deliverables
+      hint: Select what you need
+      type: select_multiple
+      options:
+      - Final Animation File
+      - Editing Project Files
+      - Storyboards
+      - Animatics
+      - Rough Animations
+      - Source Files
+      - Multiple Revisions
+      - Music and Sound Design
+      required: true
+    - id: 21
+      name: revisions_included
+      label: Number of Revisions Included
+      hint: How many revision rounds
+      type: select_one
+      options:
+      - Unlimited Revisions
+      - 5 Revision Rounds
+      - 3 Revision Rounds
+      - 1 Revision Round
+      - No Revisions
+      required: false
+    - id: 22
+      name: timeline_header
+      label: -- Timeline and Deadline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: project_deadline
+      label: Project Deadline
+      hint: When do you need this completed
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: timeline_flexibility
+      label: Timeline Flexibility
+      hint: How flexible is your deadline
+      type: select_one
+      options:
+      - Flexible - can adjust
+      - Some flexibility
+      - Fixed deadline - no flexibility
+      - Tight timeline - rush preferred
+      required: false
+    - id: 25
+      name: budget_header
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false

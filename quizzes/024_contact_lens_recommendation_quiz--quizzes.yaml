@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Recommendation Quiz
+    pages:
+    - id: 1
+      name: quiz_intro
+      label: Contact Lens Recommendation Quiz
+      hint: Find the perfect lenses for you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Your Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: current_correction
+      label: How Do You Currently Correct Vision
+      hint: Current method
+      type: select_one
+      options:
+      - Glasses Only
+      - Contact Lenses
+      - Both Glasses and Contacts
+      - No Correction Currently
+      required: true
+    - id: 6
+      name: lens_experience
+      label: Contact Lens Experience
+      hint: Previous experience level
+      type: select_one
+      options:
+      - Never Worn
+      - Beginner - Less Than 1 Year
+      - Intermediate - 1 to 5 Years
+      - Experienced - Over 5 Years
+      required: true
+    - id: 7
+      name: wear_frequency
+      label: How Often Do You Want to Wear Lenses
+      hint: Intended usage
+      type: select_one
+      options:
+      - Every Day
+      - Most Days
+      - Weekends Only
+      - Special Occasions Only
+      required: true
+    - id: 8
+      name: wear_duration
+      label: How Many Hours Per Day
+      hint: Daily wear time
+      type: select_one
+      options:
+      - Less than 8 hours
+      - 8 to 12 hours
+      - 12 to 16 hours
+      - Extended Wear - Overnight
+      required: true
+    - id: 9
+      name: vision_issue
+      label: What Vision Correction Do You Need
+      hint: Prescription type
+      type: select_one
+      options:
+      - Nearsighted Only
+      - Farsighted Only
+      - Astigmatism
+      - Presbyopia - Reading Vision
+      - Combination
+      - Not Sure
+      required: true
+    - id: 10
+      name: eye_sensitivity
+      label: Do You Have Sensitive Eyes
+      hint: Sensitivity level
+      type: select_one
+      options:
+      - Yes - Very Sensitive
+      - Yes - Somewhat Sensitive
+      - No - Normal Sensitivity
+      - Not Sure
+      required: true
+    - id: 11
+      name: dry_eye
+      label: Do You Experience Dry Eyes
+      hint: Dry eye frequency
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: allergies
+      label: Do You Have Seasonal Allergies
+      hint: Allergy status
+      type: select_one
+      options:
+      - Yes - Severe
+      - Yes - Moderate
+      - Yes - Mild
+      - false
+      required: true
+    - id: 13
+      name: maintenance_preference
+      label: Maintenance Preference
+      hint: How much care do you want
+      type: select_one
+      options:
+      - Minimal - Daily Disposables
+      - Low - Bi-weekly
+      - Moderate - Monthly
+      - Traditional - Yearly
+      required: true
+    - id: 14
+      name: budget_range
+      label: Monthly Budget for Lenses
+      hint: Price range
+      type: select_one
+      options:
+      - Under $30
+      - $30 to $50
+      - $51 to $75
+      - $76 to $100
+      - Over $100
+      required: true
+    - id: 15
+      name: cosmetic_preference
+      label: Interested in Colored Lenses
+      hint: Cosmetic interest
+      type: select_one
+      options:
+      - Yes - Want Color Change
+      - Maybe - Open to Options
+      - No - Clear Only
+      required: true
+    - id: 16
+      name: sports_activity
+      label: Do You Play Sports or Exercise Regularly
+      hint: Activity level
+      type: select_one
+      options:
+      - Yes - Very Active
+      - Yes - Moderately Active
+      - No - Sedentary Lifestyle
+      required: true
+    - id: 17
+      name: computer_use
+      label: Daily Computer Screen Time
+      hint: Hours per day
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2 to 4 hours
+      - 4 to 8 hours
+      - Over 8 hours
+      required: true
+    - id: 18
+      name: priority
+      label: What Is Your Top Priority
+      hint: Main concern
+      type: select_one
+      options:
+      - Comfort
+      - Convenience
+      - Cost
+      - Vision Quality
+      - Eye Health
+      required: true
+    - id: 19
+      name: consultation_preference
+      label: Would You Like a Professional Consultation
+      hint: Follow-up interest
+      type: select_one
+      options:
+      - Yes - Schedule Appointment
+      - Yes - But Not Yet
+      - No - Just Browsing
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Any Specific Requirements or Concerns
+      hint: Additional info
+      type: text
+      options: []
+      required: false

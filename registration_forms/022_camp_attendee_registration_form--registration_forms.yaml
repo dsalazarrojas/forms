@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Attendee Registration Form
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: -- Camper Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name
+      label: Camper Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_age
+      label: Age at Start of Camp
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: attendee_gender
+      label: Gender
+      hint: For cabin assignment purposes
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary / Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: parent_contact_header
+      label: -- Parent - Guardian Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email_registration
+      label: Contact Email Address
+      hint: For all camp communications
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_selection_header
+      label: -- Session and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_camp_session
+      label: Select Your Preferred Session
+      hint: Check availability on our website first
+      type: select_one
+      options:
+      - Session 1 - June 15-28
+      - Session 2 - June 29-July 12
+      - Session 3 - July 13-26
+      - Session 4 - July 27-August 9
+      required: true
+    - id: 11
+      name: t_shirt_size_camper
+      label: T-shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      required: true
+    - id: 12
+      name: dietary_restrictions_reg
+      label: Dietary Restrictions or Allergies
+      hint: If none, please type None
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: swimming_proficiency
+      label: Swimming Proficiency Level
+      hint: For waterfront safety
+      type: select_one
+      options:
+      - Non-swimmer
+      - Beginner (Basic comfort)
+      - Intermediate (Can swim 25m)
+      - Advanced (Strong swimmer)
+      required: true
+    - id: 14
+      name: cabin_mate_request
+      label: Cabin Mate Request (Optional)
+      hint: List one friend of the same age - grade
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registration_terms_consent
+      label: Participation Terms and Waiver
+      hint: I agree to the terms and conditions of camp attendance
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: registration_date_logged
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

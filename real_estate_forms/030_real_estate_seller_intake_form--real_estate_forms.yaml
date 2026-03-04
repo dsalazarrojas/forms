@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Seller Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: birth_date
+      label: Birth date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: years_of_experience
+      label: Years of experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: years_living_here
+      label: Years living here
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Condo
+      - Townhouse
+      - Apartment
+      required: false
+    - id: 14
+      name: is_active_property
+      label: Is active property
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 15
+      name: property_condition
+      label: Property condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: property_features
+      label: Property features
+      hint: null
+      type: select_multiple
+      options:
+      - Swimming pool
+      - Parking
+      - Patio
+      required: false
+    - id: 17
+      name: listing_agent
+      label: Listing agent
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 18
+      name: property_status
+      label: Property status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Sold
+      required: false
+    - id: 19
+      name: price_range
+      label: Price range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: square_footage
+      label: Square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: lot_size
+      label: Lot size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: year_built
+      label: Year built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: property_size
+      label: Property size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 24
+      name: is_fully_furnished
+      label: Is fully furnished
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

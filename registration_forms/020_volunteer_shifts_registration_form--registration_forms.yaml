@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Shifts Registration Form
+    pages:
+    - id: 1
+      name: volunteer_shifts_registration_form
+      label: volunteer_shifts_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: volunteer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_email
+      label: volunteer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_phone_number
+      label: volunteer_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_duration
+      label: event_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shift_status
+      label: shift_status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architect Visitor Registration Form
+    pages:
+    - id: 1
+      name: section_visitor_details
+      label: -- Visitor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Visitor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visitor_company
+      label: Company or Organization
+      hint: Where do you work?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visitor_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_visit_details
+      label: -- Visit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: null
+      type: select_one
+      options:
+      - Client meeting
+      - Project consultation
+      - Job interview
+      - Office tour
+      - Collaboration discussion
+      - Other business
+      required: true
+    - id: 11
+      name: host_name
+      label: Host or Contact Name (in firm)
+      hint: Who are you meeting with?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: host_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_safety
+      label: -- Safety and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: background_check_consent
+      label: Consent to background check
+      hint: If required by firm policy
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: false
+    - id: 15
+      name: nda_agreement
+      label: Agree to NDA if required
+      hint: Non-disclosure agreement
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: false
+    - id: 16
+      name: parking_required
+      label: Parking Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility or Special Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: check_in_time
+      label: Check-In Time
+      hint: Time visitor arrives at reception
+      type: time
+      options: []
+      required: false

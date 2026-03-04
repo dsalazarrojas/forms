@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Purchase Order Form
+    pages:
+    - id: 1
+      name: buyer_information
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: price_and_terms
+      label: Price and Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - Seller
+      - Buyer
+      - Agent
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: seller_conveyance_fees
+      label: Seller Conveyance Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: buyer_conveyance_fees
+      label: Buyer Conveyance Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: other_fees
+      label: Other Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: purchase_order_status
+      label: Purchase Order Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Completed
+      - Canceled
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

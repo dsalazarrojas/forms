@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Lamination Course Registration
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: current_profession
+      label: Current Profession or Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: beauty_industry_experience
+      label: Beauty Industry Experience
+      hint: Years in beauty or cosmetic services
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: experience_level
+      label: Brow Service Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Complete Beginner
+      - Some Experience
+      - Experienced
+      required: true
+    - id: 9
+      name: course_date
+      label: Preferred Course Date
+      hint: Select your preferred course dates
+      type: select_one
+      options:
+      - February 10-11
+      - March 24-25
+      - April 21-22
+      - May 19-20
+      - June 16-17
+      required: true
+    - id: 10
+      name: course_location
+      label: Course Location
+      hint: Select your preferred location
+      type: select_one
+      options:
+      - New York Studio
+      - Los Angeles Studio
+      - Chicago Studio
+      - Miami Studio
+      - Online Course
+      required: true
+    - id: 11
+      name: course_format
+      label: Course Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person Training
+      - Online Training
+      - Hybrid
+      required: true
+    - id: 12
+      name: learning_goals
+      label: What are your learning goals
+      hint: Career plans, certification goals, etc
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_needs
+      label: Any dietary requirements or restrictions
+      hint: For course meals and snacks
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_fee
+      label: Course Fee
+      hint: Select payment plan
+      type: select_one
+      options:
+      - Full Fee - $699
+      - Payment Plan - $399 plus second payment
+      required: true
+    - id: 15
+      name: certification_required
+      label: Are you interested in certification
+      hint: null
+      type: select_one
+      options:
+      - Yes, I want certification
+      - No, just training
+      required: true

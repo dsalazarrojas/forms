@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: VAT Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vat_registration_info
+      label: VAT Registration Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vat_num
+      label: VAT Number
+      hint: Enter VAT Number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vat_date
+      label: Date
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vat_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vat_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: vat_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vat_iban
+      label: IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vat_bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vat_bank_account
+      label: Bank Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vat_bank_address
+      label: Bank Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vat_bank_country
+      label: Bank Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vat_bank_city
+      label: Bank City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vat_bank_postal_code
+      label: Bank Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vat_bank_bic
+      label: Bank BIC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vat_bank_swf_number
+      label: SWIFT BIC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vat_reason_of_tax_payer
+      label: Reason Of Tax Payer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vat_status_tax
+      label: Status Tax
+      hint: null
+      type: select_one
+      options:
+      - VAT Registered
+      - VAT Not Registered
+      - VAT Pending
+      - VAT Cancelled
+      required: true
+    - id: 19
+      name: vat_reason_of_cancellation
+      label: Reason Of Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false

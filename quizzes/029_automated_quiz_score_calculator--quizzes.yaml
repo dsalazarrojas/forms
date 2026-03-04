@@ -1,0 +1,347 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Quiz Score Calculator
+    pages:
+    - id: 1
+      name: introduction
+      label: Automated Quiz Score Calculator
+      hint: Complete this quiz and get your score calculated automatically
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: Provide your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_id
+      label: Participant ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quiz_name
+      label: Quiz Name
+      hint: Title of this quiz
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quiz_date
+      label: Quiz Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: quiz_section_1
+      label: Section 1 - General Knowledge
+      hint: Answer the following questions
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: q1
+      label: Question 1 - What is the capital of France
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Paris
+      - London
+      - Berlin
+      - Madrid
+      required: true
+    - id: 11
+      name: q2
+      label: Question 2 - Which planet is known as the Red Planet
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Mars
+      - Venus
+      - Jupiter
+      - Saturn
+      required: true
+    - id: 12
+      name: q3
+      label: Question 3 - What is the largest ocean on Earth
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Pacific Ocean
+      - Atlantic Ocean
+      - Indian Ocean
+      - Arctic Ocean
+      required: true
+    - id: 13
+      name: q4
+      label: Question 4 - Who wrote Romeo and Juliet
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - William Shakespeare
+      - Charles Dickens
+      - Jane Austen
+      - Mark Twain
+      required: true
+    - id: 14
+      name: q5
+      label: Question 5 - What is the chemical symbol for gold
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Au
+      - Ag
+      - Fe
+      - Cu
+      required: true
+    - id: 15
+      name: quiz_section_2
+      label: Section 2 - Science and Technology
+      hint: Continue with science questions
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: q6
+      label: Question 6 - What is the speed of light approximately
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 300000 km per second
+      - 150000 km per second
+      - 500000 km per second
+      - 100000 km per second
+      required: true
+    - id: 17
+      name: q7
+      label: Question 7 - What does CPU stand for
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Central Processing Unit
+      - Computer Personal Unit
+      - Central Program Utility
+      - Computer Processing Utility
+      required: true
+    - id: 18
+      name: q8
+      label: Question 8 - What is H2O commonly known as
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Water
+      - Salt
+      - Sugar
+      - Air
+      required: true
+    - id: 19
+      name: q9
+      label: Question 9 - Which gas do plants absorb from the atmosphere
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Carbon Dioxide
+      - Oxygen
+      - Nitrogen
+      - Hydrogen
+      required: true
+    - id: 20
+      name: q10
+      label: Question 10 - What is the hardest natural substance
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Diamond
+      - Gold
+      - Iron
+      - Quartz
+      required: true
+    - id: 21
+      name: quiz_section_3
+      label: Section 3 - Mathematics
+      hint: Answer the math questions
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: q11
+      label: Question 11 - What is 15 multiplied by 8
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 120
+      - 100
+      - 140
+      - 110
+      required: true
+    - id: 23
+      name: q12
+      label: Question 12 - What is the square root of 144
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 12
+      - 10
+      - 14
+      - 16
+      required: true
+    - id: 24
+      name: q13
+      label: Question 13 - What is 25 percent of 200
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 50
+      - 25
+      - 75
+      - 100
+      required: true
+    - id: 25
+      name: q14
+      label: Question 14 - What is the value of pi to 2 decimal places
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 3.14
+      - 3.12
+      - 3.16
+      - 3.18
+      required: true
+    - id: 26
+      name: q15
+      label: Question 15 - What is 144 divided by 12
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 12
+      - 10
+      - 14
+      - 11
+      required: true
+    - id: 27
+      name: quiz_section_4
+      label: Section 4 - Bonus Questions
+      hint: Optional extra credit
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: q16
+      label: Question 16 - In what year did World War II end
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 1945
+      - 1944
+      - 1946
+      - 1943
+      required: false
+    - id: 29
+      name: q17
+      label: Question 17 - What is the smallest prime number
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - 2
+      - 1
+      - 3
+      - 5
+      required: false
+    - id: 30
+      name: q18
+      label: Question 18 - Who painted the Mona Lisa
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      - Donatello
+      required: false
+    - id: 31
+      name: scoring_info
+      label: Scoring Information
+      hint: Your quiz results
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: total_questions
+      label: Total Questions Answered
+      hint: Number of questions
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: correct_answers
+      label: Correct Answers
+      hint: Number correct
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: percentage_score
+      label: Percentage Score
+      hint: Your score percentage
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: pass_fail
+      label: Pass or Fail
+      hint: Result based on 70 percent passing
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 36
+      name: additional_comments
+      label: Additional Comments
+      hint: Any notes about the quiz
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: academic_honesty
+      label: Academic Honesty
+      hint: I completed this quiz honestly
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 38
+      name: submitter_signature
+      label: Participant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Safety Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: driver_safety_quiz_intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: what_is_a_safe_speed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_2
+      label: what_does_the_speed_limit_sign_mean
+      hint: null
+      type: select_one
+      options:
+      - '20'
+      - '30'
+      - '40'
+      - '50'
+      required: false
+    - id: 4
+      name: question_3
+      label: what_is_the_most_common_cause_of_traffic_collision
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_4
+      label: what_do_you_do_if_the_brakes_start_to_grab_in_the_middle
+      hint: null
+      type: select_multiple
+      options:
+      - leave_a_safe_distance
+      - pull_to_the_side_of_the_highway
+      - brake_safely
+      - pull_away_from_the_traffic
+      required: false
+    - id: 6
+      name: question_5
+      label: driving_on_empty_roads_in_the_dark
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question_6
+      label: what_to_do_if_another_driver_is_tailgating_you
+      hint: null
+      type: select_multiple
+      options:
+      - maintain_safe_distance
+      - flash_your_headlights
+      - slow_down
+      - pull_over
+      required: false
+    - id: 8
+      name: question_7
+      label: what_does_a_right_turning_traffic_light_look_like
+      hint: null
+      type: select_multiple
+      options:
+      - a_round_red_light
+      - a_red_light_with_a_red_arrow
+      - a_green_light
+      - a_yellow_light_with_a_red_arrow
+      required: false
+    - id: 9
+      name: question_8
+      label: what_does_a_yellow_light_mean
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: question_9
+      label: when_do_you_stop_at_an_intersection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: question_10
+      label: what_is_the_procedure_for_passing_a_truck
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: question_11
+      label: how_do_you_pass_a_truck_when_the_driver_is_backing_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: question_12
+      label: what_do_you_do_if_another_driver_is_cutting_you_off
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: question_13
+      label: what_do_you_do_if_another_driver_is_driving_recklessly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: question_14
+      label: what_do_you_do_if_another_driver_is_driving_aggressively
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: question_15
+      label: what_do_you_do_if_another_driver_is_driving_while_drinking
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: question_16
+      label: what_do_you_do_if_another_driver_is_drinking_and_driving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: question_17
+      label: what_do_you_do_if_another_driver_is_texting_and_driving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: question_18
+      label: what_do_you_do_if_another_driver_is_sleeping_at_the_wheel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: question_19
+      label: what_do_you_do_if_another_driver_is_overloaded
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: question_20
+      label: what_do_you_do_if_another_driver_is_driving_under_influence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: question_21
+      label: what_do_you_do_if_another_driver_is_driving_in_a_daze
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: question_22
+      label: what_do_you_do_if_another_driver_is_driving_on_reversed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: question_23
+      label: what_is_the_quiz_summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: summary
+      label: quiz_summary
+      hint: null
+      type: note
+      options: []
+      required: false

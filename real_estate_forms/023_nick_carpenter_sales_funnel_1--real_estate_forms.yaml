@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: nick_carpenter_sales_funnel_1
+    pages:
+    - id: 1
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_agent
+      label: sales_agent
+      hint: null
+      type: select_one
+      options:
+      - Nick
+      - Carpenter
+      - Jimmy
+      - John
+      required: false
+    - id: 8
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_multiple
+      options:
+      - new
+      - hot
+      - cold
+      - warm
+      required: true
+    - id: 9
+      name: source_type
+      label: source_type
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - referral
+      - online
+      - offline
+      required: true
+    - id: 10
+      name: lead_value
+      label: lead_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lead_value_currency
+      label: lead_value_currency
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - eur
+      - jpy
+      - cny
+      required: true
+    - id: 12
+      name: lead_value_amount
+      label: lead_value_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lead_value_date
+      label: lead_value_date
+      hint: null
+      type: date
+      options: []
+      required: false

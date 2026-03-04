@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Social Responsibility Quotation Form
+    pages:
+    - id: 1
+      name: company_input
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quote_details
+      label: Quote Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: quote_time
+      label: Quote Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: quote_note
+      label: Quote Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_input
+      label: Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_input
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price_input
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: currency_input
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''JPY''}'
+      required: false
+    - id: 14
+      name: terms_conditions
+      label: Terms Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

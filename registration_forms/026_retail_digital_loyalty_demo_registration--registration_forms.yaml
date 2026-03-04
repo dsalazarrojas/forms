@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_digital_loyalty_demo_registration
+    pages:
+    - id: 1
+      name: retail_digital_loyalty_demo_request
+      label: Retail Digital Loyalty Demo Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: demo_dates
+      label: Choose Demo Dates
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 3
+      name: business_details
+      label: Business Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: capture_consent
+      label: Capture Consents
+      hint: null
+      type: select_multiple
+      options:
+      - Capture
+      - Do not capture
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Physical Store
+      - Online Store
+      - Hybrid
+      required: true
+    - id: 11
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: store_phone
+      label: Store Phone
+      hint: null
+      type: text
+      options: []
+      required: false

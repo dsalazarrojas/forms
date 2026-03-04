@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Buyout Program Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_number
+      label: unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Townhouse
+      - House
+      required: false
+    - id: 7
+      name: lease_term
+      label: lease_term
+      hint: null
+      type: select_multiple
+      options:
+      - 6 months
+      - 12 months
+      - 18 months
+      - 24 months
+      required: false
+    - id: 8
+      name: move_in_date
+      label: move_in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: move_out_date
+      label: move_out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lease_amount
+      label: lease_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: id_number
+      label: id_number
+      hint: null
+      type: select_multiple
+      options:
+      - id1
+      - id2
+      - id3
+      required: false
+    - id: 12
+      name: lease_agreement
+      label: lease_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lease_addendum
+      label: lease_addendum
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: phone_number
+      label: phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: rent
+      label: rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: deposit
+      label: deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: utility_bills
+      label: utility_bills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: additional_terms
+      label: Additional Terms
+      hint: null
+      type: text
+      options: []
+      required: false

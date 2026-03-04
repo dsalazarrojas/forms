@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Test Prep Course Refund Request Form
+    pages:
+    - id: 1
+      name: course_refund_request_form
+      label: course_refund_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: refund_reason
+      label: refund_reason
+      hint: Please specify the reason for the refund request.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: refund_amount
+      label: refund_amount
+      hint: Enter the refund amount.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: user_details
+      label: user_details
+      hint: Select your user type.
+      type: select_multiple
+      options:
+      - Student
+      - Provider
+      - Other
+      required: false
+    - id: 5
+      name: student_id
+      label: student_id
+      hint: Enter the student ID.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: refund_date
+      label: refund_date
+      hint: Enter the refund date.
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: provider_name
+      label: provider_name
+      hint: Enter your name as a test prep provider.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: provider_contact
+      label: provider_contact
+      hint: Enter your contact information.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: refund_status
+      label: refund_status
+      hint: Select the refund status.
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow_up
+      hint: Suggest a follow-up date and time to contact the student.
+      type: time
+      options: []
+      required: false

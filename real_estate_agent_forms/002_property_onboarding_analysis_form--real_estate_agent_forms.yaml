@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: property-onboarding-analysis-form
+    pages:
+    - id: 1
+      name: property_information
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_owner
+      label: property-owner
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: property-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      - '{''id'': 3, ''name'': ''pending''}'
+      required: false
+    - id: 5
+      name: property_condition
+      label: condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''excellent''}'
+      - '{''id'': 2, ''name'': ''good''}'
+      - '{''id'': 3, ''name'': ''fair''}'
+      required: false
+    - id: 6
+      name: property_features
+      label: features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: property_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_date_acquired
+      label: date-acquired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: property_date_sold
+      label: date-sold
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: property_photos
+      label: photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_video_tour
+      label: video-tour
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_physical_condition
+      label: physical-condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''great''}'
+      - '{''id'': 2, ''name'': ''average''}'
+      - '{''id'': 3, ''name'': ''poor''}'
+      required: false
+    - id: 15
+      name: property_legal
+      label: legal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_occupancy
+      label: occupancy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''occupied''}'
+      - '{''id'': 2, ''name'': ''vacant''}'
+      - '{''id'': 3, ''name'': ''leased''}'
+      required: false
+    - id: 17
+      name: property_management
+      label: management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_inspections
+      label: inspections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_financials
+      label: financials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_tenants
+      label: tenants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 21
+      name: property_rent_schedule
+      label: rent-schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_repair_schedule
+      label: repair-schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_maintenance_schedule
+      label: maintenance-schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_maintenance_status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''on-time''}'
+      - '{''id'': 2, ''name'': ''overdue''}'
+      - '{''id'': 3, ''name'': ''pending''}'
+      required: false
+    - id: 25
+      name: property_reviews
+      label: reviews
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: property_photos_count
+      label: photos-count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: property_video_count
+      label: video-count
+      hint: null
+      type: number
+      options: []
+      required: false

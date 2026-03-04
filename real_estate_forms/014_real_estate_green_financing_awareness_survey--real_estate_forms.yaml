@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Green Financing Awareness Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: sustainable_properties
+      label: Sustainable Properties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: green_financing
+      label: Green Financing
+      hint: null
+      type: select_one
+      options:
+      - Green Bank
+      - Other
+      required: false
+    - id: 4
+      name: green_certifications
+      label: Green Certifications
+      hint: null
+      type: select_one
+      options:
+      - LEED
+      - ENERGY STAR
+      - GREEN POINTS
+      required: false
+    - id: 5
+      name: green_building_features
+      label: Green Building Features
+      hint: null
+      type: select_multiple
+      options:
+      - Solar Panels
+      - Green Roofing
+      - Energy-Efficient Appliances
+      - Water-Efficient Fixtures
+      required: false
+    - id: 6
+      name: financing_options
+      label: Financing Options
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Loan
+      - Credit
+      - Other
+      required: false
+    - id: 7
+      name: lender_partners
+      label: Lender Partners
+      hint: null
+      type: select_multiple
+      options:
+      - Bank A
+      - Bank B
+      - Other
+      required: false
+    - id: 8
+      name: preferred_financing
+      label: Preferred Financing
+      hint: null
+      type: select_one
+      options:
+      - Green Financing
+      - Other
+      required: false
+    - id: 9
+      name: interest_in_sustainable
+      label: Interest in Sustainable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sustainable_in_real_estate
+      label: Sustainable in Real Estate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: green_financing_influence
+      label: Green Financing Influence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sustainability_incentives
+      label: Sustainability Incentives
+      hint: null
+      type: number
+      options: []
+      required: false

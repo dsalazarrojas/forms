@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pakistan Knowledge Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_score
+      label: Quiz Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quiz_category
+      label: Quiz Category
+      hint: null
+      type: select_one
+      options:
+      - Pakistan
+      - Geography
+      - History
+      - Culture
+      - Literature
+      - Language
+      - Science
+      required: false
+    - id: 8
+      name: quiz_level
+      label: Quiz Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 9
+      name: quiz_duration
+      label: Quiz Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: quiz_start_time
+      label: Quiz Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: quiz_end_time
+      label: Quiz End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: Enter your comments here
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: quiz_score_out_of
+      label: Quiz Score Out Of
+      hint: null
+      type: number
+      options: []
+      required: false

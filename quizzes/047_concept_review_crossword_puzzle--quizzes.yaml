@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concept Review Crossword Puzzle
+    pages:
+      - id: 1
+        name: section_quiz_instructions
+        label: -- Quiz Instructions --
+        hint: Complete the crossword to review core concepts
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Optional unless required for scoring
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email_for_results
+        label: Email for results
+        hint: Enter an email to receive quiz feedback
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: crossword_answers
+        label: Crossword answers
+        hint: Provide answers separated by commas or lines
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: confidence_rating
+        label: Confidence rating
+        hint: Self rated confidence in answers
+        type: select_one
+        options: [High, Medium, Low]
+        required: false
+      - id: 6
+        name: feedback_on_quiz
+        label: Feedback on quiz
+        hint: Suggestions or reported issues with the puzzle
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Menu Knowledge Quiz
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_email
+        label: Email Address
+        hint: Your work email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: position
+        label: Position
+        hint: What is your current role
+        type: select_one
+        options:
+          - Server
+          - Bartender
+          - Barista
+          - Host
+          - Manager
+          - Trainee
+        required: true
+      - id: 4
+        name: location
+        label: Restaurant Location
+        hint: Which location do you work at
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: quiz_date
+        label: Quiz Date
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: question_1
+        label: Question 1 - What are the main ingredients in a Classic Mojito
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - White Rum
+          - Sugar
+          - Lime Juice
+          - Soda Water
+          - Mint
+          - Vodka
+        required: true
+      - id: 7
+        name: question_2
+        label: Question 2 - Which wine pairs best with seafood
+        hint: Select the best pairing
+        type: select_one
+        options:
+          - Cabernet Sauvignon
+          - White Wine
+          - Red Wine
+          - Port
+          - Sherry
+        required: true
+      - id: 8
+        name: question_3
+        label: Question 3 - What is the difference between a Latte and a Cappuccino
+        hint: Select the correct answer
+        type: select_one
+        options:
+          - A Latte has more foam
+          - A Cappuccino has more foam
+          - They are the same
+          - A Latte uses espresso, Cappuccino uses drip coffee
+          - A Cappuccino is served cold
+        required: true
+      - id: 9
+        name: question_4
+        label: Question 4 - What spirit is the base of a Manhattan cocktail
+        hint: Select the correct spirit
+        type: select_one
+        options:
+          - Vodka
+          - Gin
+          - Whiskey
+          - Rum
+          - Tequila
+        required: true
+      - id: 10
+        name: question_5
+        label: Question 5 - What does the term on the rocks mean
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - Served neat
+          - Served with ice
+          - Served chilled
+          - Served with water
+          - Served blended
+        required: true
+      - id: 11
+        name: question_6
+        label: Question 6 - Which beer style is typically dark and has a coffee-like flavor
+        hint: Select the beer style
+        type: select_one
+        options:
+          - Pilsner
+          - Lager
+          - Stout
+          - IPA
+          - Wheat Beer
+        required: true
+      - id: 12
+        name: question_7
+        label: Question 7 - What is the primary ingredient in a Bloody Mary
+        hint: Select the main mixer
+        type: select_one
+        options:
+          - Orange Juice
+          - Tomato Juice
+          - Cranberry Juice
+          - Grapefruit Juice
+          - Pineapple Juice
+        required: true
+      - id: 13
+        name: question_8
+        label: Question 8 - Which tea is traditionally served with milk
+        hint: Select the tea type
+        type: select_one
+        options:
+          - Green Tea
+          - Black Tea
+          - White Tea
+          - Herbal Tea
+          - Oolong Tea
+        required: true
+      - id: 14
+        name: question_9
+        label: Question 9 - What is a non-alcoholic cocktail called
+        hint: Select the correct term
+        type: select_one
+        options:
+          - Virgin Drink
+          - Mocktail
+          - Zero Proof
+          - All of the above
+          - None of the above
+        required: true
+      - id: 15
+        name: question_10
+        label: Question 10 - What temperature should red wine typically be served at
+        hint: Select the ideal temperature
+        type: select_one
+        options:
+          - Ice cold
+          - Well chilled
+          - Lightly chilled or room temperature
+          - Warm
+          - Hot
+        required: true
+      - id: 16
+        name: question_11
+        label: Question 11 - What garnish is typically used with a Margarita
+        hint: Select the correct garnish
+        type: select_one
+        options:
+          - Lemon wedge
+          - Lime wedge and salt rim
+          - Orange slice
+          - Cherry
+          - Olive
+        required: true
+      - id: 17
+        name: question_12
+        label: Question 12 - Which coffee preparation method produces the strongest flavor
+        hint: Select the brewing method
+        type: select_one
+        options:
+          - Drip Coffee
+          - French Press
+          - Espresso
+          - Pour Over
+          - Cold Brew
+        required: true
+      - id: 18
+        name: score_confidence
+        label: How Confident Are You in Your Answers
+        hint: Rate your confidence level
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident at All
+        required: true
+      - id: 19
+        name: training_needs
+        label: Areas Where You Need More Training
+        hint: What topics would you like to learn more about
+        type: select_multiple
+        options:
+          - Cocktail Recipes
+          - Wine Knowledge
+          - Beer Styles
+          - Coffee Preparation
+          - Non-Alcoholic Options
+          - Food Pairings
+          - Customer Service
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any questions or feedback about the quiz
+        type: text
+        options: []
+        required: false

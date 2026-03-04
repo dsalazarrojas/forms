@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Fun Quest Registration Form
+    pages:
+    - id: 1
+      name: participant_header_fun_quest
+      label: -- Fun Quest Participant Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quest_participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quest_participant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: quest_participant_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: true
+    - id: 5
+      name: guardian_contact_header_quest
+      label: -- Parent - Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guardian_full_name_quest
+      label: Parent or Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guardian_phone_quest
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guardian_email_quest
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: quest_details_header
+      label: -- The Fun Quest Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: quest_theme_choice
+      label: Select Your Quest Theme
+      hint: Each quest has a unique storyline and activities
+      type: select_one
+      options:
+      - Treasure Island Mystery
+      - Galactic Explorers
+      - Medieval Kingdom
+      - Jungle Adventure
+      - Superhero Training Academy
+      required: true
+    - id: 11
+      name: quest_experience_level
+      label: Participant Experience Level
+      hint: Has the child participated in similar quests before?
+      type: select_one
+      options:
+      - First-time Quester
+      - Experienced Explorer
+      - Master Adventurer
+      required: true
+    - id: 12
+      name: health_medical_header_quest
+      label: -- Health and Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions_quest
+      label: Known Medical Conditions
+      hint: e.g., Asthma, epilepsy, heart concerns
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies_list_quest
+      label: Known Allergies
+      hint: Include food, medicine, and environmental allergies
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: epi_pen_carrier
+      label: Does the participant carry an Epi-pen?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: dietary_requirements_quest
+      label: Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Nut-Free
+      - Gluten-Free
+      - Dairy-Free
+      required: false
+    - id: 17
+      name: media_release_consent_quest
+      label: Media Release Consent
+      hint: I grant permission to use photos/videos of the participant for marketing
+        purposes
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I do not consent
+      required: true
+    - id: 18
+      name: liability_waiver_quest
+      label: Liability Waiver and Release
+      hint: I acknowledge the risks involved in physical activities
+      type: select_one
+      options:
+      - I Accept and Agree
+      - Other
+      required: true
+    - id: 19
+      name: payment_preference_quest
+      label: Payment Method Preference
+      hint: null
+      type: select_one
+      options:
+      - Online Credit Card
+      - Bank Transfer
+      - Pay at Registration
+      required: true
+    - id: 20
+      name: quest_reg_timestamp
+      label: Registration Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

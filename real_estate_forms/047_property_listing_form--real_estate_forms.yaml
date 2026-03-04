@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Listing Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Residential'', ''value'': ''residential''}'
+      - '{''id'': 2, ''label'': ''Commercial'', ''value'': ''commercial''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: listing_price
+      label: Listing Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: listing_date
+      label: Listing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: listing_status
+      label: Listing Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''For Sale'', ''value'': ''for_sale''}'
+      - '{''id'': 2, ''label'': ''For Rent'', ''value'': ''for_rent''}'
+      - '{''id'': 3, ''label'': ''Sold Out'', ''value'': ''sold_out''}'
+      required: false
+    - id: 6
+      name: property_size
+      label: Property Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_bedrooms
+      label: Property Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_bathrooms
+      label: Property Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_lot_size
+      label: Property Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_sqft
+      label: Property Sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_lot_type
+      label: Property Lot Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Lot'', ''value'': ''lot''}'
+      - '{''id'': 2, ''label'': ''Land'', ''value'': ''land''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 12
+      name: property_features
+      label: Property Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pool'', ''value'': ''pool''}'
+      - '{''id'': 2, ''label'': ''View'', ''value'': ''view''}'
+      - '{''id'': 3, ''label'': ''Parking'', ''value'': ''parking''}'
+      - '{''id'': 4, ''label'': ''Fenced'', ''value'': ''fenced''}'
+      required: false
+    - id: 13
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_image
+      label: Property Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_documents
+      label: Property Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Photos'', ''value'': ''photos''}'
+      - '{''id'': 2, ''label'': ''Videos'', ''value'': ''videos''}'
+      - '{''id'': 3, ''label'': ''3D Tour'', ''value'': ''3d_tour''}'
+      required: false
+    - id: 16
+      name: property_agent
+      label: Property Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy'', ''value'': ''jimmy''}'
+      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 17
+      name: property_agency
+      label: Property Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_location
+      label: Property Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''City'', ''value'': ''city''}'
+      - '{''id'': 2, ''label'': ''State'', ''value'': ''state''}'
+      - '{''id'': 3, ''label'': ''County'', ''value'': ''county''}'
+      required: false
+    - id: 19
+      name: property_zip
+      label: Property Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_phone
+      label: Property Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_website
+      label: Property Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_facebook
+      label: Property Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_twitter
+      label: Property Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_instagram
+      label: Property Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: text
+      options: []
+      required: false

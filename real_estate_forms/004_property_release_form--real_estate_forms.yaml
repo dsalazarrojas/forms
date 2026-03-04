@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_release_form
+    pages:
+    - id: 1
+      name: property_identifier
+      label: Property Identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_contact
+      label: Owner Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: buyer_name
+      label: Buyer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: buyer_contact
+      label: Buyer Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: seller_acknowledgement
+      label: Seller Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: release_amount
+      label: Release Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: property_description
+      label: Property Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: other_terms
+      label: Other Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: signed_on
+      label: Signed On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: signed_at
+      label: Signed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: signed_location
+      label: Signed
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Submission Form
+    pages:
+    - id: 1
+      name: submit_form
+      label: Submit form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: resume_upload
+      label: Upload resume
+      hint: Upload your resume in PDF format
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Software Engineer''}'
+      - '{''value'': ''Marketing Manager''}'
+      - '{''value'': ''Data Scientist''}'
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Full time''}'
+      - '{''value'': ''Part time''}'
+      - '{''value'': ''Freelance''}'
+      required: true
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: Write a brief description of the job
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter_info
+      label: Submitter info
+      hint: Your name and contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true

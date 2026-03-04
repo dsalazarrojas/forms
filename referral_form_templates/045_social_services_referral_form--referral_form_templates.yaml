@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Services Referral Form
+    pages:
+    - id: 1
+      name: social_services_referral_form
+      label: Social Services Referral Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Social Services Type
+      hint: null
+      type: select_one
+      options:
+      - Homelessness
+      - Food Insecurity
+      - Homelessness Prevention
+      - Homelessness Intervention
+      - Other
+      required: false
+    - id: 8
+      name: social_worker_name
+      label: Social Worker
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Fee Refund Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_shipped
+      label: Date Shipped
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipping_fee
+      label: Shipping Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: amount_refunded
+      label: Amount Refunded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: refund_method
+      label: Refund Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Buyers Information Checklist
+    pages:
+    - id: 1
+      name: address_info
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location_type
+      label: location_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: home_status
+      label: is_rental
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: home_status
+      label: is_furnished
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: lot_size
+      label: Lot size (acres)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: home_size
+      label: Home size (sqft)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_bedrooms
+      label: Number of bedrooms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: year_built
+      label: Year built
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: year_built
+      label: Year renovated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: lot_size
+      label: Lot size (sqft)
+      hint: null
+      type: text
+      options: []
+      required: false

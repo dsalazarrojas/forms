@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Development Quote Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_lead_email
+      label: Project Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': False, ''value'': False}'
+      - '{''id'': 2, ''name'': True, ''value'': True}'
+      required: false
+    - id: 5
+      name: project_manager_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Briefly describe the project.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_requirements
+      label: Project Requirements
+      hint: What are the key deliverables and requirements for this project?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_estimated_cost
+      label: Project Estimated Cost
+      hint: Estimated project cost.
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: project_estimated_duration
+      label: Project Estimated Duration
+      hint: Estimated project duration.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_status
+      label: Project Status
+      hint: What is the project status.
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Open'', ''value'': ''Open''}'
+      - '{''id'': 2, ''name'': ''In progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Closed'', ''value'': ''Closed''}'
+      - '{''id'': 4, ''name'': ''Cancelled'', ''value'': ''Cancelled''}'
+      required: false
+    - id: 14
+      name: project_status_other
+      label: Other Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_status_comment
+      label: Project Status Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low'', ''value'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High'', ''value'': ''High''}'
+      required: false
+    - id: 17
+      name: project_priority_other
+      label: Other Project Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_priority_comment
+      label: Project Priority Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_technology
+      label: Project Technology
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''.NET'', ''value'': ''.net''}'
+      - '{''id'': 2, ''name'': ''Java'', ''value'': ''java''}'
+      - '{''id'': 3, ''name'': ''JavaScript'', ''value'': ''javascript''}'
+      - '{''id'': 4, ''name'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 20
+      name: project_technology_other
+      label: Other Project Technology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_technology_comment
+      label: Project Technology Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_technology_details
+      label: Project Technology Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: project_budget_other
+      label: Other Project Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_budget_comment
+      label: Project Budget Comment
+      hint: null
+      type: text
+      options: []
+      required: false

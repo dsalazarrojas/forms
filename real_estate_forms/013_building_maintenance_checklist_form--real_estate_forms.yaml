@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of maintenance check
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Full address of building
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_manager
+      label: Property Manager
+      hint: Manager responsible for property
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_section_header
+      label: -- Monthly Maintenance Checks --
+      hint: Regular monthly maintenance items
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: hvac_filter
+      label: HVAC Filter Checked or Replaced
+      hint: Monthly air filter maintenance
+      type: select_one
+      options:
+        - Yes
+        - No
+        - N/A
+      required: true
+    - id: 7
+      name: pest_control
+      label: Pest Control Treatment
+      hint: Regular pest management
+      type: select_one
+      options:
+        - Yes
+        - No
+        - N/A
+      required: true
+    - id: 8
+      name: fire_extinguishers
+      label: Fire Extinguishers Inspected
+      hint: Safety equipment check
+      type: select_one
+      options:
+        - Yes
+        - No
+        - N/A
+      required: true
+    - id: 9
+      name: exterior_grounds
+      label: Exterior Grounds Maintained
+      hint: Landscaping, parking lot, entryway
+      type: select_one
+      options:
+        - Yes
+        - No
+        - N/A
+      required: true
+    - id: 10
+      name: quarterly_section
+      label: -- Quarterly Maintenance Checks --
+      hint: Checks performed every three months
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: plumbing_check
+      label: Plumbing Inspection Completed
+      hint: Check for leaks and blockages
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Issues Found
+      required: true
+    - id: 12
+      name: electrical_safety
+      label: Electrical Safety Inspection
+      hint: Outlets, wiring, panels
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Issues Found
+      required: true
+    - id: 13
+      name: roof_inspection
+      label: Roof Inspection
+      hint: Look for damage or leaks
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Issues Found
+      required: true
+    - id: 14
+      name: windows_seals
+      label: Windows and Door Seals Checked
+      hint: Weather stripping condition
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Needs Repair
+      required: true
+    - id: 15
+      name: annual_section
+      label: -- Annual Maintenance Items --
+      hint: Yearly comprehensive checks
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: hvac_service
+      label: HVAC System Service Completed
+      hint: Annual professional servicing
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Scheduled
+      required: true
+    - id: 17
+      name: chimney_cleaning
+      label: Chimney or Vent Cleaning
+      hint: Annual cleaning service
+      type: select_one
+      options:
+        - Yes
+        - No
+        - N/A
+      required: true
+    - id: 18
+      name: full_inspection
+      label: Professional Full Inspection
+      hint: Comprehensive annual inspection
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Pending
+      required: true
+    - id: 19
+      name: maintenance_issues
+      label: Issues or Repairs Needed
+      hint: List all identified problems
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_orders_issued
+      label: Work Orders Issued
+      hint: Any orders sent to contractors
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 21
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: Scheduled date for next review
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Technician Skills Upgrade Registration
+    pages:
+    - id: 1
+      name: section_technician_info
+      label: -- Technician Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_license_id
+      label: Professional License ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_specialization
+      label: Current Area of Specialization
+      hint: null
+      type: select_one
+      options:
+      - Hair Design
+      - Advanced Esthetics
+      - Nail Artistry
+      - Makeup Artistry
+      - Medical Spa Services
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_course_selection
+      label: -- Course Selection --
+      hint: Select the skills upgrade module(s) you wish to attend
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: module_selection
+      label: Module Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Advanced Color Correction
+      - Bridal Styling Mastery
+      - Chemical Peel Certification
+      - Eyelash Extension Advanced Techniques
+      - Hybrid Nail Systems
+      - Salon Business Management
+      required: true
+    - id: 9
+      name: preferred_session_month
+      label: Preferred Start Month
+      hint: null
+      type: select_one
+      options:
+      - March
+      - June
+      - September
+      - December
+      required: true
+    - id: 10
+      name: preferred_time_slot
+      label: Preferred Class Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (9AM - 1PM)
+      - Afternoon (2PM - 6PM)
+      - Evening (6PM - 10PM)
+      - Weekend Intensive
+      required: true
+    - id: 11
+      name: section_payment_billing
+      label: -- Payment and Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: billing_party
+      label: Who will be responsible for the course fee?
+      hint: null
+      type: select_one
+      options:
+      - Self (Individual)
+      - Employer (Salon/Spa)
+      - Sponsoring Agency
+      required: true
+    - id: 13
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: tuition_acknowledgment
+      label: I acknowledge that registration is only confirmed upon receipt of deposit
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 15
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

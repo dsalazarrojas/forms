@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Intern Registration Form
+    pages:
+    - id: 1
+      name: student_intern_registration_form
+      label: Student Intern Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_enrolled
+      label: program_enrolled
+      hint: null
+      type: select_one
+      options:
+      - Program A
+      - Program B
+      - Program C
+      required: false
+    - id: 7
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 10
+      name: student_status_note
+      label: student_status_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_internship_agreement
+      label: student_internship_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - pending
+      required: false
+    - id: 12
+      name: agreement_signed_by
+      label: agreement_signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signed_at
+      label: signed_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: program_signed_by
+      label: program_signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: program_signed_at
+      label: program_signed_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: signed_date
+      label: signed_date
+      hint: null
+      type: date
+      options: []
+      required: false

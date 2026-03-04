@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Fundraising Campaign Registration Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_info
+      label: Donor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: donation_fund
+      label: Fund
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_terms
+      label: Event Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_terms
+      label: Participant Terms
+      hint: null
+      type: note
+      options: []
+      required: false

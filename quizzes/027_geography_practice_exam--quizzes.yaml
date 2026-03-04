@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geography Practice Exam
+    pages:
+    - id: 1
+      name: question1
+      label: Which continent is the largest?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: answer1
+      label: What is minimalistism?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: answer2
+      label: 2 goals
+      hint: null
+      type: select_one
+      options:
+      - Antarctica
+      - Asia
+      - Europe
+      - North America
+      required: false
+    - id: 6
+      name: answer2
+      label: 2 goals
+      hint: null
+      type: select_multiple
+      options:
+      - Antarctica
+      - Asia
+      - Europe
+      required: false
+    - id: 7
+      name: answer3
+      label: 5 goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: answer4
+      label: 5 goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: answer5
+      label: 3 goals
+      hint: null
+      type: select_one
+      options:
+      - Asia
+      - Europe
+      required: false
+    - id: 10
+      name: answer6
+      label: 3 goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

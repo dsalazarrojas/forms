@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      required: false
+    - id: 3
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_type
+      label: Question Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quiz_time
+      label: Quiz Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: student_answer
+      label: Student Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: correct_answer
+      label: Correct Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: quiz_comments
+      label: Quiz Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Body Part Quote Request
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send the quote to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best number for follow up questions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_make
+      label: Vehicle Make
+      hint: e.g. Toyota, Ford, Honda
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_model
+      label: Vehicle Model
+      hint: e.g. Camry, F-150, Civic
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Production year of the vehicle
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vin_number
+      label: VIN Number
+      hint: 17-digit Vehicle Identification Number for precision matching
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: part_details_header
+      label: -- Part Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: part_name_description
+      label: Part Name and Description
+      hint: Describe the part you need as accurately as possible
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: part_number_if_known
+      label: Part Number if Known
+      hint: Manufacturer part number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: part_condition
+      label: Preferred Part Condition
+      hint: Select your preference for the replacement part
+      type: select_one
+      options:
+      - New OEM
+      - New Aftermarket
+      - Used or Recycled
+      - Reconditioned
+      required: true
+    - id: 14
+      name: delivery_method
+      label: Delivery Method
+      hint: How do you want to receive the part?
+      type: select_one
+      options:
+      - Pick-up
+      - Shipping
+      - Installation Required
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false

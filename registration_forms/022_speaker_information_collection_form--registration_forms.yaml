@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Information Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: speaker_type
+      label: Speaker Type
+      hint: null
+      type: select_one
+      options:
+      - Faculty
+      - Student
+      - Event
+      required: true
+    - id: 8
+      name: speaker_title
+      label: Speaker Title
+      hint: null
+      type: select_multiple
+      options:
+      - Professor
+      - Instructor
+      - CEO
+      - Founder
+      required: false
+    - id: 9
+      name: university
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: bio_image
+      label: Bio Image
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: bio_video
+      label: Bio Video
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: speaker_photo
+      label: Speaker Photo
+      hint: null
+      type: text
+      options: []
+      required: false

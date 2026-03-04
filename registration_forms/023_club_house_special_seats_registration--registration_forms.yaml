@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club House Special Seats Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Which event are you attending
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: seat_preference
+      label: Seat Location Preference
+      hint: Select your preferred area
+      type: select_one
+      options:
+      - Front Row Center
+      - Front Row Side
+      - Middle Center
+      - Middle Side
+      - Back Center
+      - Back Side
+      - Balcony
+      required: true
+    - id: 8
+      name: accessible_seating
+      label: Require Accessible Seating
+      hint: Do you need ADA accommodations
+      type: select_one
+      options:
+      - Yes, Wheelchair Accessible
+      - Yes, Mobility Assistance Needed
+      - Yes, Other Accessibility Need
+      - false
+      required: true
+    - id: 9
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe your needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: num_tickets
+      label: Number of Seats Needed
+      hint: How many seats to reserve
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: companion_names
+      label: Names of Companions or Group
+      hint: Other people in your group
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_occasion
+      label: Is This a Special Occasion
+      hint: Birthday, anniversary, etc
+      type: select_one
+      options:
+      - Yes, Birthday
+      - Yes, Anniversary
+      - Yes, Other Special Occasion
+      - false
+      required: false
+    - id: 13
+      name: ticket_type
+      label: Ticket Type or Membership Level
+      hint: null
+      type: select_one
+      options:
+      - General Admission
+      - Member
+      - Premium Member
+      - VIP
+      - Group Rate
+      required: true
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs for reception
+      type: select_one
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - None
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any other requests
+      type: text
+      options: []
+      required: false

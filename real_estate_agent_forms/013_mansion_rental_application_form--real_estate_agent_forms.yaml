@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mansion Rental Application Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rent_price
+      label: rent_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rent_status
+      label: rent_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: rent_status_other
+      label: other_rent_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_renting
+      label: reason_for_renting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: renter_info
+      label: renter_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: landlord_info
+      label: landlord_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: references
+      label: references
+      hint: null
+      type: note
+      options: []
+      required: false

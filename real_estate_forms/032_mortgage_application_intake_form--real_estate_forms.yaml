@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Application Intake Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_details
+      label: Loan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mortgage_type
+      label: Mortgage Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: down_payment
+      label: Down Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false

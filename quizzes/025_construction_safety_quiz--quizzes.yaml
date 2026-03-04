@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Safety Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your employer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: question_1
+      label: What Does PPE Stand For
+      hint: Select the correct answer
+      type: select_one
+      options:
+      - Personal Protective Equipment
+      - Professional Protection Essentials
+      - Primary Prevention Equipment
+      - Personal Prevention Essentials
+      required: true
+    - id: 8
+      name: question_2
+      label: When Should Hard Hats Be Worn
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Only When Working at Heights
+      - At All Times on Construction Site
+      - Only During Lifting Operations
+      - Only When Required by Supervisor
+      required: true
+    - id: 9
+      name: question_3
+      label: What Is the Maximum Weight One Person Should Lift Alone
+      hint: Select the recommended limit
+      type: select_one
+      options:
+      - 25 pounds
+      - 50 pounds
+      - 75 pounds
+      - 100 pounds
+      required: true
+    - id: 10
+      name: question_4
+      label: What Color Is Typically Used for Fire Safety Equipment
+      hint: Standard color coding
+      type: select_one
+      options:
+      - Yellow
+      - Green
+      - Red
+      - Blue
+      required: true
+    - id: 11
+      name: question_5
+      label: What Should You Do Before Operating Any Equipment
+      hint: Select the best practice
+      type: select_one
+      options:
+      - Start It Immediately
+      - Check with a Coworker
+      - Perform Pre-Operation Inspection
+      - Wait for Supervisor Approval
+      required: true
+    - id: 12
+      name: question_6
+      label: What Is the Purpose of a Spotter When Backing Up Vehicles
+      hint: Select the main reason
+      type: select_one
+      options:
+      - To Help Steer
+      - To Watch for Obstacles and People
+      - To Record the Maneuver
+      - To Open Gates
+      required: true
+    - id: 13
+      name: question_7
+      label: How Should You Report a Safety Hazard
+      hint: Select the correct procedure
+      type: select_one
+      options:
+      - Ignore It If It Is Not Your Job
+      - Report to Supervisor Immediately
+      - Fix It Yourself Only
+      - Wait Until End of Shift
+      required: true
+    - id: 14
+      name: question_8
+      label: What Does Lockout Tagout Prevent
+      hint: Select the primary purpose
+      type: select_one
+      options:
+      - Equipment Theft
+      - Unexpected Equipment Startup
+      - Equipment Damage
+      - Unauthorized Use
+      required: true
+    - id: 15
+      name: question_9
+      label: What Is the Minimum Distance to Keep from Power Lines
+      hint: Select the safe distance
+      type: select_one
+      options:
+      - 5 feet
+      - 10 feet
+      - 15 feet
+      - 20 feet
+      required: true
+    - id: 16
+      name: question_10
+      label: What Should Be Done with Damaged Tools
+      hint: Select the correct action
+      type: select_one
+      options:
+      - Use Them Carefully
+      - Tag and Remove from Service
+      - Try to Fix Them
+      - Hide Them
+      required: true
+    - id: 17
+      name: question_11
+      label: True or False - Safety Glasses Are Only Needed When Using Power Tools
+      hint: Select true or false
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: question_12
+      label: What Is the First Step in Case of Fire
+      hint: Select the priority action
+      type: select_one
+      options:
+      - Grab a Fire Extinguisher
+      - Call for Help and Activate Alarm
+      - Run to Safety
+      - Get Your Personal Belongings
+      required: true
+    - id: 19
+      name: question_13
+      label: What Does MSDS or SDS Stand For
+      hint: Chemical safety documentation
+      type: select_one
+      options:
+      - Material Safety Data Sheet
+      - Machine Safety Data System
+      - Manual Safety Direction Sheet
+      - Material Storage Data Sheet
+      required: true
+    - id: 20
+      name: question_14
+      label: How Many Points of Contact Should You Maintain on a Ladder
+      hint: Select the safe number
+      type: select_one
+      options:
+      - One
+      - Two
+      - Three
+      - Four
+      required: true
+    - id: 21
+      name: question_15
+      label: What Should You Do If You See a Coworker Working Unsafely
+      hint: Select the best response
+      type: select_one
+      options:
+      - Ignore Them
+      - Tell Them Immediately
+      - Report Them Later
+      - Take a Photo
+      required: true
+    - id: 22
+      name: quiz_score
+      label: Quiz Score
+      hint: Number of correct answers
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: passing_status
+      label: Passing Status
+      hint: Did you pass the quiz
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 24
+      name: retake_needed
+      label: Retake Needed
+      hint: Is a retake required
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false

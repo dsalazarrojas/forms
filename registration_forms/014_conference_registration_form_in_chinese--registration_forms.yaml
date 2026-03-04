@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form In Chinese
+    pages:
+    - id: 1
+      name: xing_ming
+      label: 姓名
+      hint: 请输入您的全名
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: you_xiang
+      label: 电子邮件
+      hint: 您的联系邮箱
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: dian_hua
+      label: 电话号码
+      hint: 您的联系电话
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dan_wei
+      label: 单位或机构
+      hint: 您所在的公司或机构
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zhi_wei
+      label: 职位
+      hint: 您的职务或职称
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guo_jia
+      label: 国家
+      hint: 您所在的国家
+      type: select_one
+      options:
+      - 中国
+      - 美国
+      - 加拿大
+      - 英国
+      - 澳大利亚
+      - 新加坡
+      - 其他
+      required: true
+    - id: 7
+      name: cheng_shi
+      label: 城市
+      hint: 您所在的城市
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zhu_ce_lei_xing
+      label: 注册类型
+      hint: 选择您的参会类型
+      type: select_one
+      options:
+      - 全程参会
+      - 单日参会
+      - 线上参会
+      - 学生参会
+      - 参展商
+      - 媒体
+      required: true
+    - id: 9
+      name: can_hui_ri_qi
+      label: 参会日期
+      hint: 选择您将参加的日期
+      type: select_multiple
+      options:
+      - 第一天
+      - 第二天
+      - 第三天
+      - 全部天数
+      required: true
+    - id: 10
+      name: fen_lun_tan
+      label: 分论坛选择
+      hint: 您感兴趣的议题
+      type: select_one
+      options:
+      - 技术创新
+      - 商业发展
+      - 学术研究
+      - 行业应用
+      - 政策与法规
+      - 不限
+      required: false
+    - id: 11
+      name: can_guan_xuan_ze
+      label: 餐饮选择
+      hint: 您的饮食偏好
+      type: select_one
+      options:
+      - 无特殊要求
+      - 素食
+      - 清真
+      - 素食主义
+      - 无麸质
+      - 其他
+      required: true
+    - id: 12
+      name: te_shu_yao_qiu
+      label: 特殊要求
+      hint: 如有过敏或其他需求请注明
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: jiu_dian_yu_ding
+      label: 酒店预订
+      hint: 是否需要住宿
+      type: select_one
+      options:
+      - 需要预订
+      - 已自行预订
+      - 不需要
+      required: true
+    - id: 14
+      name: fang_jian_lei_xing
+      label: 房间类型
+      hint: 如有需要请选择
+      type: select_one
+      options:
+      - 标准单人间
+      - 标准双人间
+      - 行政套房
+      - 不需要
+      required: false
+    - id: 15
+      name: jie_song_fu_wu
+      label: 接送服务
+      hint: 是否需要机场接送
+      type: select_one
+      options:
+      - 需要接机
+      - 需要送机
+      - 都需要
+      - 不需要
+      required: true
+    - id: 16
+      name: she_jiao_huo_dong
+      label: 社交活动
+      hint: 是否参加社交活动
+      type: select_one
+      options:
+      - 全部参加
+      - 仅欢迎晚宴
+      - 仅闭幕晚宴
+      - 不参加
+      required: true
+    - id: 17
+      name: zheng_shu
+      label: 参会证书
+      hint: 是否需要参会证书
+      type: select_one
+      options:
+      - 需要
+      - 不需要
+      required: true
+    - id: 18
+      name: wu_zhang_ai_xu_qiu
+      label: 无障碍需求
+      hint: 如有特殊需求请注明
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tui_guang_xin_xi
+      label: 接收推广信息
+      hint: 是否接收未来活动信息
+      type: select_one
+      options:
+      - 是的请发送
+      - 不用谢谢
+      required: true
+    - id: 20
+      name: zhi_fu_fang_shi
+      label: 支付方式
+      hint: 您将如何付款
+      type: select_one
+      options:
+      - 信用卡
+      - 借记卡
+      - 银行转账
+      - 现场支付
+      - 公司发票
+      required: true
+    - id: 21
+      name: you_hui_ma
+      label: 优惠码
+      hint: 如有优惠码请填写
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: jie_shou_tiao_kuan
+      label: 我接受条款和条件
+      hint: 确认同意参会政策
+      type: select_one
+      options:
+      - 我接受
+      - 我不接受
+      required: true

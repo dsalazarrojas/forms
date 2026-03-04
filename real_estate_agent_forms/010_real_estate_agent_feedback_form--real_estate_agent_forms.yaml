@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_feedback_form
+    pages:
+    - id: 1
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: how_did_we_do
+      hint: Tell us about your experience
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': 1, ''label'': 1}'
+      - '{''name'': 2, ''label'': 2}'
+      - '{''name'': 3, ''label'': 3}'
+      - '{''name'': 4, ''label'': 4}'
+      - '{''name'': 5, ''label'': 5}'
+      required: false
+    - id: 5
+      name: message
+      label: any_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_time
+      label: feedback_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: feedback_time
+      hint: null
+      type: time
+      options: []
+      required: false

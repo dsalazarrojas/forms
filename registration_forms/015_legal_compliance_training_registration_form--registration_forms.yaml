@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Compliance Training Registration Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization_name
+      label: organization name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_role
+      label: participant role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_session
+      label: training session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: training_start_date
+      label: training start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_end_date
+      label: training end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: session_start_time
+      label: session start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: session_end_time
+      label: session end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: training_location
+      label: training location
+      hint: null
+      type: text
+      options: []
+      required: false

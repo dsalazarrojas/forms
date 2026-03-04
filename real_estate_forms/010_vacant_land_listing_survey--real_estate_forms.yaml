@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacant Land Listing Survey
+    pages:
+    - id: 1
+      name: land_address
+      label: land address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Residential''}'
+      - '{''label'': ''Commercial''}'
+      - '{''label'': ''Industrial''}'
+      required: false
+    - id: 3
+      name: property_size
+      label: property size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lot_size
+      label: lot size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: land_status
+      label: land status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vacant''}'
+      - '{''label'': ''Leased''}'
+      - '{''label'': ''Sold''}'
+      required: false
+    - id: 6
+      name: zoning
+      label: zoning
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''R-1''}'
+      - '{''label'': ''R-2''}'
+      - '{''label'': ''R-3''}'
+      required: false
+    - id: 7
+      name: land_use
+      label: land use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Agricultural''}'
+      - '{''label'': ''Conservation''}'
+      - '{''label'': ''Recreation''}'
+      required: false
+    - id: 8
+      name: property_use
+      label: property use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single Family Residence''}'
+      - '{''label'': ''Multi Family Residence''}'
+      - '{''label'': ''Commercial Building''}'
+      required: false
+    - id: 9
+      name: acreage
+      label: acreage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: acres
+      label: acres
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: frontage
+      label: frontage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: depth
+      label: depth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: width
+      label: width
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: boundary
+      label: boundary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: survey_date
+      label: survey_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: surveyor
+      label: surveyor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

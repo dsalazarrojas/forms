@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Studio Press Coverage Consent Form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: Your First Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Your Email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: consent_expiration_date
+      label: Consent Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: media_outlets
+      label: Media Outlets
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: studio
+      label: Studio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: consent_note
+      label: Consent Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: release_note
+      label: Release Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: media_outlet
+      label: Media Outlet
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: image_capture
+      label: Image Capture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photo_release_date
+      label: Photo Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: image_capture_location
+      label: Image Capture Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: audio_capture
+      label: Audio Capture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: audio_release_date
+      label: Audio Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

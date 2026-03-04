@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Recovery Program Registration
+    pages:
+    - id: 1
+      name: program_welcome_note
+      label: -- Community Recovery Program Enrollment --
+      hint: We are here to support you on your journey to recovery and resilience.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: previous_recovery_check
+      label: Have you participated in a recovery program before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: previous_program_details
+      label: If yes - please provide the name of the program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: services_interest_selection
+      label: Which recovery services are you interested in?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Group Counseling
+      - Individual Peer Support
+      - Wellness Workshops
+      - Financial Literacy Training
+      - Job Placement Assistance
+      - Housing Support
+      required: true
+    - id: 12
+      name: participant_availability_selection
+      label: Your Weekly Availability
+      hint: Select all time slots you are available.
+      type: select_multiple
+      options:
+      - Mon AM
+      - Mon PM
+      - Tue AM
+      - Tue PM
+      - Wed AM
+      - Wed PM
+      - Thu AM
+      - Thu PM
+      - Fri AM
+      - Fri PM
+      - Saturday
+      - Sunday
+      required: true
+    - id: 13
+      name: program_goals_text
+      label: Tell us a bit about your primary goals for this program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: program_consent_agreement
+      label: I consent to the terms of the recovery program.
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: confidentiality_statement_note
+      label: -- Confidentiality Statement --
+      hint: All participation and personal information is kept strictly confidential
+        according to program guidelines.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: registration_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

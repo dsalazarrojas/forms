@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: BTR Submit An Offer
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_agent_name
+      label: Buyer Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Address of property you are making an offer on
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mls_number
+      label: MLS Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: offering_price
+      label: Offering Price
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: earnest_money
+      label: Earnest Money Amount
+      hint: In dollars - deposit with offer
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: closing_date
+      label: Desired Closing Date
+      hint: When do you want to close?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: financing_type
+      label: Type of Financing
+      hint: null
+      type: select_one
+      options:
+      - Conventional Loan
+      - FHA Loan
+      - VA Loan
+      - USDA Loan
+      - Cash
+      - Other
+      required: true
+    - id: 12
+      name: loan_amount
+      label: Loan Amount Needed
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: down_payment
+      label: Down Payment Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: inspection_contingency
+      label: Inspection Contingency
+      hint: Will inspection contingency be included?
+      type: select_one
+      options:
+      - true
+      - false
+      - Waived
+      required: true
+    - id: 15
+      name: appraisal_contingency
+      label: Appraisal Contingency
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Waived
+      required: true
+    - id: 16
+      name: loan_contingency
+      label: Loan Contingency
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Waived
+      required: true
+    - id: 17
+      name: seller_concessions
+      label: Requested Seller Concessions
+      hint: Repairs, closing costs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_conditions
+      label: Special Conditions or Terms
+      hint: Any unique requests?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: personal_note
+      label: Personal Note to Seller
+      hint: Optional message to the seller
+      type: text
+      options: []
+      required: false

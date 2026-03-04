@@ -1,0 +1,53 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Valentines Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: valentines_history
+      label: valentines-history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: valentines_trivia
+      label: valentines-trivia
+      hint: null
+      type: select_one
+      options:
+      - What is the origin of Valentine's Day?
+      - Who is often credited with inventing the first Valentine's Day card?
+      - Which of the following is NOT a common gift associated with Valentine's Day?
+        - A rose - A gift card - A heart-shaped box of chocolate
+      - What is the main theme of many Valentine's Day cards?
+      required: false
+    - id: 4
+      name: valentines_dating
+      label: valentines-dating
+      hint: null
+      type: select_one
+      options:
+      - Before the 1950s, what was the most common way for couples to celebrate Valentine's
+        Day? - Exchanging love letters - Sending flowers - Meeting in secret
+      - In the early 20th century, what was the name given to a woman who was considered
+        a good catch? - A "sweetheart" - A "lovely lady" - A "femme fatale"
+      required: false

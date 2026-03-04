@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Management Registration
+    pages:
+    - id: 1
+      name: section_registration_header
+      label: -- New Client Registration --
+      hint: Fill out this form to register for data management services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: The main point of contact for accounting matters
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Full legal name of the organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: entity_type
+      label: Entity Type
+      hint: Select your legal structure
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Non-Profit
+      required: true
+    - id: 6
+      name: tax_id_number
+      label: Tax ID Number
+      hint: EIN or SSN
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: services_requested
+      label: Services Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bookkeeping
+      - Tax Preparation
+      - Payroll
+      - Financial Consulting
+      - Auditing
+      required: true
+    - id: 8
+      name: estimated_annual_revenue
+      label: Estimated Annual Revenue
+      hint: Used for service tiering
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: current_accounting_software
+      label: Current Accounting Software
+      hint: null
+      type: select_one
+      options:
+      - QuickBooks
+      - Xero
+      - Sage
+      - FreshBooks
+      - Excel
+      - None
+      required: true
+    - id: 10
+      name: section_authorized_personnel
+      label: -- Authorized Personnel --
+      hint: List individuals authorized to access financial data
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: authorized_representative_1
+      label: Authorized Representative 1
+      hint: Name and Title
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorized_representative_2
+      label: Authorized Representative 2
+      hint: Optional second contact
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

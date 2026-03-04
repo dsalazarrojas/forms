@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_training_access_request_form
+    pages:
+    - id: 1
+      name: training_request
+      label: Online Training Access Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - Training Resource 1
+      - Training Resource 2
+      - Training Resource 3
+      required: false
+    - id: 7
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false

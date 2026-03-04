@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: creative_direction_interview_consent_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: project_title
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to participate in this recording
+      - I do not agree to participate in this recording
+      required: true
+    - id: 7
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: project_title_date
+      label: project_title_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: recording_agreement
+      label: recording_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'I agree to have this recording used for:'
+      - I do not agree to have this recording used for
+      required: true
+    - id: 10
+      name: recording_use
+      label: recording_use
+      hint: null
+      type: select_one
+      options:
+      - Internal project development
+      - External project development
+      - Internal client presentation
+      - External client presentation
+      - Other
+      - Unknown
+      required: true
+    - id: 11
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false

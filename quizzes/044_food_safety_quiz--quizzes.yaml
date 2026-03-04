@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Quiz
+    pages:
+    - id: 1
+      name: food_safety_quiz_form_1
+      label: Food Safety Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_safety_quiz_page_1
+      label: What is food safety?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: food_safety_quiz_section_1
+      label: Proper Food Handling and Preparation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: food_safety_quiz_question_1_1
+      label: What is the minimum internal temperature required for cooked poultry?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: food_safety_quiz_question_1_2
+      label: What is the correct way to store raw ground beef?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In a sealed container''}'
+      - '{''id'': 2, ''label'': ''In a zip lock bag''}'
+      - '{''id'': 3, ''label'': ''On the counter''}'
+      required: true
+    - id: 6
+      name: food_safety_quiz_question_1_3
+      label: Which of the following is a common foodborne illness?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Salmonella''}'
+      - '{''id'': 2, ''label'': ''E. coli''}'
+      - '{''id'': 3, ''label'': ''Listeria''}'
+      - '{''id'': 4, ''label'': ''Norovirus''}'
+      required: true
+    - id: 7
+      name: food_safety_quiz_page_2
+      label: What is food safety?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: food_safety_quiz_question_2_1
+      label: What is the correct way to store raw ground beef?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In a sealed container''}'
+      - '{''id'': 2, ''label'': ''In a zip lock bag''}'
+      - '{''id'': 3, ''label'': ''On the counter''}'
+      required: true
+    - id: 9
+      name: food_safety_quiz_question_2_2
+      label: What is the correct temperature for cooking chicken?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: food_safety_quiz_question_2_3
+      label: What is the correct way to label date of preparation?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: food_safety_quiz_question_3_1
+      label: What is the correct way to store food at room temperature?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In the refrigerator''}'
+      - '{''id'': 2, ''label'': ''In the freezer''}'
+      - '{''id'': 3, ''label'': ''On the counter''}'
+      required: true
+    - id: 12
+      name: food_safety_quiz_question_3_2
+      label: What is the correct way to reheat a hot dish?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In the oven''}'
+      - '{''id'': 2, ''label'': ''In the microwave''}'
+      - '{''id'': 3, ''label'': ''On the stovetop''}'
+      required: true
+    - id: 13
+      name: food_safety_quiz_question_3_3
+      label: What is the correct way to reheat a hot dish?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In the oven''}'
+      - '{''id'': 2, ''label'': ''In the microwave''}'
+      - '{''id'': 3, ''label'': ''On the stovetop''}'
+      required: true
+    - id: 14
+      name: food_safety_quiz_question_3_4
+      label: What is the correct way to label date of preparation?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: food_safety_quiz_page_3
+      label: What is food safety?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: food_safety_quiz_result_1
+      label: Result 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 17
+      name: food_safety_quiz_result_2
+      label: Result 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 18
+      name: food_safety_quiz_result_3
+      label: Result 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 19
+      name: food_safety_quiz_result_4
+      label: Result 4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 20
+      name: food_safety_quiz_result_5
+      label: Result 5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 21
+      name: food_safety_quiz_result_6
+      label: Result 6
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 22
+      name: food_safety_quiz_result_7
+      label: Result 7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 23
+      name: food_safety_quiz_result_8
+      label: Result 8
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 24
+      name: food_safety_quiz_result_9
+      label: Result 9
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true
+    - id: 25
+      name: food_safety_quiz_result_10
+      label: Result 10
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Correct''}'
+      - '{''id'': 2, ''label'': ''Incorrect''}'
+      required: true

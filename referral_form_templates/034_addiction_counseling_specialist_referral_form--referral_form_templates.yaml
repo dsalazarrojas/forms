@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Addiction Counseling Specialist Referral Form
+    pages:
+    - id: 1
+      name: referral_source_header
+      label: -- Referring Provider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referring_provider_name
+      label: Referring Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referring_organization
+      label: Referring Organization / Clinic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: provider_phone
+      label: Provider Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: patient_phone
+      label: Patient Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referral_details_header
+      label: -- Clinical Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: substance_of_concern
+      label: Primary Substance(s) of Concern
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: urgency_level
+      label: Urgency of Referral
+      hint: null
+      type: select_one
+      options:
+      - Routine - Within 1-2 weeks
+      - Urgent - Within 48-72 hours
+      - Crisis - Immediate Intervention Required
+      required: true
+    - id: 12
+      name: mental_health_history
+      label: Known Co-occurring Mental Health Conditions
+      hint: e.g. Anxiety, Depression, PTSD
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: risk_assessment
+      label: Known Risks
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High overdose risk
+      - History of withdrawal seizures
+      - Homelessness / Housing instability
+      - Self-harm history
+      - Legal / Justice involvement
+      required: false
+    - id: 14
+      name: referral_goals
+      label: Goals for Counseling Referral
+      hint: What specific outcomes are desired?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: consent_release_ack
+      label: Patient has signed a Release of Information (ROI) for this referral
+      hint: null
+      type: select_one
+      options:
+      - Yes - ROI on file
+      - Pending
+      required: true
+    - id: 16
+      name: date_of_referral
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true

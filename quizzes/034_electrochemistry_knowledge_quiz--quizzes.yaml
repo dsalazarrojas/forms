@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrochemistry Knowledge Quiz
+    pages:
+    - id: 1
+      name: electrochemistry_knowledge_quiz_form
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quiz_question_1
+      label: What is the primary process that occurs in electrochemistry?
+      hint: null
+      type: select_one
+      options:
+      - Redox reaction
+      - Oxidation-reduction
+      - Oxidation
+      - Reduction
+      required: true
+    - id: 4
+      name: quiz_question_2
+      label: How is electrochemistry applied in the manufacture of steel?
+      hint: null
+      type: select_multiple
+      options:
+      - To produce steel
+      - To remove iron oxide
+      - To manufacture steel using the Basic Oxygen Furnace
+      - None of the above
+      required: true
+    - id: 5
+      name: quiz_question_3
+      label: What is the most important aspect of electrochemistry?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: participant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authority Line Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: registrant_name
+      label: Registrant Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registrant_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: registrant_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Your organization or company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title or Position
+      hint: Your position in organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: authority_level
+      label: Authority Level
+      hint: What is your approval authority level
+      type: select_one
+      options:
+      - Executive/C-Suite
+      - Director Level
+      - Manager Level
+      - Supervisor Level
+      - Team Member
+      - Other
+      required: true
+    - id: 9
+      name: approval_limits
+      label: Spending Authority Limits
+      hint: What is your approval limit
+      type: select_one
+      options:
+      - Under $5k
+      - $5k - $25k
+      - $25k - $100k
+      - $100k - $500k
+      - Over $500k
+      - Unlimited
+      - No Spending Authority
+      required: true
+    - id: 10
+      name: signature_authority
+      label: Have Signature Authority
+      hint: Are you authorized signer
+      type: select_one
+      options:
+      - Yes - Sole Signer
+      - Yes - Joint Signer
+      - Yes - Countersigner
+      - No - Not Authorized
+      - Limited Authority
+      required: true
+    - id: 11
+      name: line_of_credit
+      label: Authority Line of Credit
+      hint: Do you maintain credit line authority
+      type: select_one
+      options:
+      - Yes - Individual
+      - Yes - Shared
+      - No - No Credit Authority
+      - TBD
+      required: true
+    - id: 12
+      name: credit_limit
+      label: Credit Line Limit Amount
+      hint: Total credit authority if applicable
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: procurement_authority
+      label: Procurement Authority
+      hint: Can you approve purchases
+      type: select_one
+      options:
+      - Yes - Full Procurement Authority
+      - Yes - Limited Items
+      - No - Cannot Approve Purchases
+      - Manager Approval Required
+      required: true
+    - id: 14
+      name: contract_authority
+      label: Contract Authority
+      hint: Can you sign contracts
+      type: select_one
+      options:
+      - Yes - Up to $100k
+      - Yes - Up to $500k
+      - Yes - Up to $1M
+      - No - Not Authorized
+      - Manager Approval Required
+      required: true
+    - id: 15
+      name: policy_authority
+      label: Policy Implementation Authority
+      hint: Can you approve policies
+      type: select_one
+      options:
+      - Yes - Full Authority
+      - Yes - Department Only
+      - No - Advisory Role Only
+      - Recommend Only
+      required: false
+    - id: 16
+      name: hiring_authority
+      label: Hiring and Personnel Authority
+      hint: Hiring approval authority
+      type: select_one
+      options:
+      - Yes - Full Hiring Authority
+      - Yes - Limited (Specific Roles)
+      - No - HR Approval Needed
+      - Advisory Only
+      required: false
+    - id: 17
+      name: budget_authority
+      label: Budget Approval Authority
+      hint: Can you approve budget items
+      type: select_one
+      options:
+      - Yes - Full Budget Authority
+      - Yes - Department Level
+      - Yes - Limited Items
+      - No - Not Authorized
+      required: true
+    - id: 18
+      name: delegation_authority
+      label: Can Delegate Authority
+      hint: Can you delegate your authority
+      type: select_one
+      options:
+      - Yes - Fully Delegable
+      - Yes - Partially Delegable
+      - No - Not Delegable
+      - Requires Approval
+      required: true
+    - id: 19
+      name: compliance_training
+      label: Completed Compliance Training
+      hint: Have you completed required training
+      type: select_one
+      options:
+      - Yes - Recently
+      - Yes - Within 1 Year
+      - No - Overdue
+      - Not Required
+      required: true
+    - id: 20
+      name: conflicts_of_interest
+      label: Conflicts of Interest Disclosure
+      hint: Any conflicts of interest
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_approval
+      label: Supervisor Approval Name
+      hint: Name of approving supervisor
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Email of supervisor
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: agreement_acceptance
+      label: Accept Authority Line Terms
+      hint: Do you accept these terms
+      type: select_one
+      options:
+      - Accept and Agree
+      - Do Not Accept
+      required: true

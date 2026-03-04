@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_pc_build_request
+    pages:
+    - id: 1
+      name: user_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: cpu
+      label: CPU
+      hint: null
+      type: select_one
+      options:
+      - CPU
+      - CPU 1
+      - CPU 2
+      - CPU 3
+      - CPU 4
+      - CPU 5
+      required: false
+    - id: 6
+      name: motherboard
+      label: Motherboard
+      hint: null
+      type: select_one
+      options:
+      - Motherboard 1
+      - Motherboard 2
+      - Motherboard 3
+      - Motherboard 4
+      - Motherboard 5
+      required: false
+    - id: 7
+      name: graphics
+      label: Graphics
+      hint: null
+      type: select_multiple
+      options:
+      - GPU 1
+      - GPU 2
+      - GPU 3
+      - GPU 4
+      - GPU 5
+      required: false
+    - id: 8
+      name: ram
+      label: RAM
+      hint: null
+      type: select_multiple
+      options:
+      - 8GB
+      - 16GB
+      - 32GB
+      - 64GB
+      required: false
+    - id: 9
+      name: storage
+      label: Storage
+      hint: null
+      type: select_one
+      options:
+      - Storage 1
+      - Storage 2
+      - Storage ประก
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

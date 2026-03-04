@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: skin_type
+      label: skin-type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: concerns
+      label: concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: recommended_products
+      label: recommended products
+      hint: null
+      type: text
+      options: []
+      required: false

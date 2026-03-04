@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Under Contract Form
+    pages:
+    - id: 1
+      name: sale_status
+      label: Sale Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Sold
+      required: false
+    - id: 2
+      name: sale_type
+      label: Sale Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Other
+      required: false
+    - id: 3
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sale_location
+      label: Sale Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sale_terms
+      label: Sale Terms
+      hint: null
+      type: text
+      options: []
+      required: false

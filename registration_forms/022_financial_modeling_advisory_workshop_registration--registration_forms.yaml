@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Modeling Advisory Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_title
+      label: Financial Modeling Advisory Workshop Registration
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Hybrid
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Modeler
+      - Modeler/Analyst
+      - Data Scientist
+      required: false
+    - id: 12
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: workshop_experience
+      label: Workshop Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Online Payment
+      - Bank Transfer
+      required: false
+    - id: 15
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_notes
+      label: Registration Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Decline to answer
+      required: false

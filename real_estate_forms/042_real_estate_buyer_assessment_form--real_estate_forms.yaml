@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_buyer_assessment_form
+    pages:
+    - id: 1
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Online Chat''}'
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: buyer_budget
+      label: Buyer Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: buyer_purpose
+      label: Buyer Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Primary Residence''}'
+      - '{''label'': ''Investment''}'
+      - '{''label'': ''Vacation Home''}'
+      required: false
+    - id: 8
+      name: buyer_credit
+      label: Buyer Credit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Single Family Home''}'
+      - '{''label'': ''Condo''}'
+      - '{''label'': ''Townhouse''}'
+      - '{''label'': ''Apartment''}'
+      required: false
+    - id: 10
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''City''}'
+      - '{''label'': ''Suburbs''}'
+      - '{''label'': ''Country''}'
+      required: false
+    - id: 11
+      name: preferred_location_2
+      label: Preferred Location 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Coastal''}'
+      - '{''label'': ''Mountainous''}'
+      - '{''label'': ''Rural''}'
+      required: false
+    - id: 12
+      name: desired_movein_date
+      label: Desired Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: preferred_agent
+      label: Preferred Agent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Primary''}'
+      - '{''label'': ''Secondary''}'
+      - '{''label'': ''Tertiary''}'
+      required: false

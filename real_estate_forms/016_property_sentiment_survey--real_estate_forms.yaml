@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sentiment Survey
+    pages:
+    - id: 1
+      name: property_type
+      label: Which type of property
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sentiment
+      label: How do you feel about the property market
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: price_range
+      label: Price range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: interest_rate
+      label: Interest rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mortgage_rate
+      label: Mortgage rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sentiment_score
+      label: Sentiment score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_type_1
+      label: Which type of property 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

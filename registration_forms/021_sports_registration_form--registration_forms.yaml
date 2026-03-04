@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_registration_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: play_position
+      label: Play Position
+      hint: null
+      type: select_one
+      options:
+      - First Base
+      - Pitcher
+      - Second Base
+      - Third Base
+      - Shortstop
+      - Catcher
+      - Left Fielder
+      - Right Fielder
+      - Left/Right Handed
+      - Right Handed
+      - Left Handed
+      - Middle Infield
+      - Middle Outfield
+      required: true
+    - id: 8
+      name: prefer_position
+      label: Prefer Position
+      hint: null
+      type: select_multiple
+      options:
+      - First Base
+      - Pitcher
+      - Second Base
+      - Third Base
+      - Shortstop
+      - Catcher
+      - Left Fielder
+      - Right Fielder
+      - Left/Right Handed
+      - Right Handed
+      - Left Handed
+      - Middle Infield
+      - Middle Outfield
+      required: true
+    - id: 9
+      name: accept_terms
+      label: Accept
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: true
+    - id: 10
+      name: terms
+      label: Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: conditions
+      label: Conditions
+      hint: null
+      type: text
+      options: []
+      required: true

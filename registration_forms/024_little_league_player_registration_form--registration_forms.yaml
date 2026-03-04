@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Little League Player Registration Form
+    pages:
+    - id: 1
+      name: player_info
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_info
+      label: Team Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: player_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_number
+      label: Team Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Yellow
+      - Pitcher
+      - Catcher
+      - Fielder
+      - Batter
+      required: false
+    - id: 8
+      name: player_grade
+      label: Player Grade
+      hint: null
+      type: select_multiple
+      options:
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      required: false
+    - id: 9
+      name: team_grade
+      label: Team Grade
+      hint: null
+      type: select_multiple
+      options:
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      required: false
+    - id: 10
+      name: player_dob
+      label: Player DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: player_dol
+      label: Player DOOL
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: player_dol2
+      label: Player DOOL
+      hint: null
+      type: date
+      options: []
+      required: false

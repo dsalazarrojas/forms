@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Check In Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - In Transit
+      - Out for Delivery
+      - On Hold
+      required: true
+    - id: 5
+      name: delivery_contact_name
+      label: Delivery Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_contact_number
+      label: Delivery Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

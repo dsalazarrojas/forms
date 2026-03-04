@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Class Planning Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: class_type
+      label: class_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full-time''}'
+      - '{''value'': ''Part-time''}'
+      - '{''value'': ''Online''}'
+      required: false
+    - id: 4
+      name: class_start_date
+      label: class_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: class_duration
+      label: class_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: class_start_time
+      label: class_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: class_location
+      label: class_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: class_days
+      label: class_days
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mon - Fri''}'
+      - '{''value'': ''Sat - Sun''}'
+      required: false
+    - id: 9
+      name: class_start_time_am_pm
+      label: class_start_time_am_pm
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''AM''}'
+      - '{''value'': ''PM''}'
+      required: false
+    - id: 10
+      name: class_time_zone
+      label: class_time_zone
+      hint: null
+      type: text
+      options: []
+      required: false

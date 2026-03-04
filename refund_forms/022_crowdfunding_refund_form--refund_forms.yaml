@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdfunding Refund Form
+    pages:
+    - id: 1
+      name: project_creator
+      label: Project Creator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Stripe
+      required: false
+    - id: 8
+      name: refund_method
+      label: Refund Method
+      hint: null
+      type: select_one
+      options:
+      - Manual Refund
+      - Automated Refund
+      required: false

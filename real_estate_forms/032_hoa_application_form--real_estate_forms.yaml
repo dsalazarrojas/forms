@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: HOA Application Form
+    pages:
+    - id: 1
+      name: homeowner_name
+      label: Homeowner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hoa_dues
+      label: HOA Dues
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Online Banking
+      - Cash
+      - Other
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_email
+      label: Emergency Contact EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: property_manager_email
+      label: Property Manager EMail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: property_owner_signature
+      label: Property Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: property_manager_signature
+      label: Property Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_documents
+      label: Additional Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: property_documents
+      label: Property Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: property_images
+      label: Property Images
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: payment_receipt
+      label: Payment Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Finance Registration Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_registration_number
+      label: Business Registration Number
+      hint: Tax ID or registration number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry_type
+      label: Industry Type
+      hint: Primary business sector
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long has business operated
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: employee_count
+      label: Number of Employees
+      hint: Current staff count
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Last fiscal year revenue
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: business_location
+      label: Principal Place of Business
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_title
+      label: Contact Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: financial_impact
+      label: -- Financial Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: disruption_event
+      label: Type of Disruption or Event
+      hint: What caused the financial need
+      type: select_one
+      options:
+      - Natural Disaster
+      - Pandemic
+      - Supply Chain Disruption
+      - Technology Failure
+      - Facility Damage
+      - Economic Hardship
+      - Emergency Response
+      - Other Crisis
+      required: true
+    - id: 16
+      name: financial_loss
+      label: Estimated Financial Loss
+      hint: Amount of loss or impact
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: continuity_plan
+      label: Business Continuity Plan Status
+      hint: Do you have a continuity plan
+      type: select_one
+      options:
+      - Not in place
+      - In development
+      - In place but activated
+      - In place and being utilized
+      required: true
+    - id: 18
+      name: funding_needs
+      label: -- Funding Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: funding_amount
+      label: Funding Amount Requested
+      hint: Total amount needed
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: funding_purpose
+      label: Purpose of Funding
+      hint: What will funds be used for
+      type: select_one
+      options:
+      - Payroll and Benefits
+      - Facility Restoration
+      - Equipment Replacement
+      - Debt Service
+      - Operational Expenses
+      - Inventory
+      - Recovery Operations
+      - Multiple Purposes
+      required: true
+    - id: 21
+      name: repayment_capacity
+      label: Repayment Capacity
+      hint: Ability to repay within
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3-5 years
+      - 5+ years
+      required: false
+    - id: 22
+      name: collateral_available
+      label: Collateral Available
+      hint: Do you have collateral
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: false
+    - id: 23
+      name: other_funding
+      label: Other Funding Sources
+      hint: Insurance, grants, or other sources
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: urgency
+      label: Funding Urgency
+      hint: How quickly is funding needed
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Flexible timeline
+      required: true

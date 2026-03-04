@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Job Search Priority Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full Time
+      - Part Time
+      - Contract
+      required: false
+    - id: 3
+      name: skills
+      label: What Are Your Greatest Strengths?
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership
+      - Communication
+      - Problem Solving
+      required: false
+    - id: 4
+      name: experience
+      label: What Experience Do You Have?
+      hint: null
+      type: select_multiple
+      options:
+      - 0-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 5
+      name: education
+      label: What's Your Educational Background?
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate's Degree
+      - Bachelor's Degree
+      - Master's Degree
+      required: false
+    - id: 6
+      name: work_history
+      label: What's Your Work History?
+      hint: null
+      type: select_multiple
+      options:
+      - 0-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 7
+      name: job_preferences
+      label: What Kind of Job Are You Looking For?
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part Time
+      - Contract
+      required: false
+    - id: 8
+      name: skills_required
+      label: What Skills Are You Looking For?
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Problem Solving
+      required: false
+    - id: 9
+      name: salary_range
+      label: What Salary Range Are You Looking For?
+      hint: null
+      type: select_one
+      options:
+      - 0-20k
+      - 20-40k
+      - 40-60k
+      - 60-80k
+      - More than 80k
+      required: false
+    - id: 10
+      name: job_location
+      label: What Location Are You Looking For?
+      hint: null
+      type: select_multiple
+      options:
+      - Remote
+      - In Person
+      - Hybrid
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease lead progress tracker
+    pages:
+    - id: 1
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New Lead
+      - Lead Qualified
+      - Lead Qualified but not interested
+      - Lead Converted
+      required: true
+    - id: 3
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lead_id
+      label: Lead ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_type
+      label: Follow Up Type
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Other
+      required: true
+    - id: 12
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 13
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: lease_length
+      label: Lease Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: lease_type
+      label: Lease Type
+      hint: null
+      type: select_one
+      options:
+      - Month-to-Month
+      - Week-to-Week
+      - Month-to-Month w/Option to Buy
+      - Month-to-Month w/Option to Renew
+      required: true
+    - id: 17
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 18
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Followed up
+      - Not Followed up
+      required: true
+    - id: 20
+      name: follow_up_notes2
+      label: Follow Up Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: property_city
+      label: Property City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_status2
+      label: Follow Up Status 2
+      hint: null
+      type: select_one
+      options:
+      - Followed up
+      - Not Followed up
+      required: true
+    - id: 23
+      name: follow_up_notes3
+      label: Follow Up Notes 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status3
+      label: Follow Up Status 3
+      hint: null
+      type: select_one
+      options:
+      - Followed up
+      - Not Followed up
+      required: false
+    - id: 25
+      name: follow_up_status4
+      label: Follow Up Status 4
+      hint: null
+      type: select_one
+      options:
+      - Followed up
+      - Not Followed up
+      required: false

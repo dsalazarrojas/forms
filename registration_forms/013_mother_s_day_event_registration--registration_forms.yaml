@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: mothers_day_event_registration
+    pages:
+    - id: 1
+      name: school_organizers
+      label: School Organizers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_counts
+      label: Guest Counts
+      hint: Enter 0 or 1 to indicate if guests will attend
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: activity_preferences
+      label: Activity Preference
+      hint: Choose one or more activities for our event
+      type: select_multiple
+      options:
+      - '{''label'': ''Activity 1''}'
+      - '{''label'': ''Activity 2''}'
+      - '{''label'': ''Activity 3''}'
+      required: true
+    - id: 4
+      name: email_addresses
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_numbers
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_details
+      label: Attendee Details
+      hint: Briefly describe your or your guests
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

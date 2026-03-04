@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_board_access_form
+    pages:
+    - id: 1
+      name: application_process
+      label: Application Process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: personal_details
+      label: Contact Information_goals_boardประก
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: resume
+      label: Resume_upload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_preferences
+      label: Job Preferences
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Administration
+      - Consulting
+      - Engineering
+      - IT
+      - Management
+      - Marketing
+      - Sales
+      required: false
+    - id: 5
+      name: skills
+      label: Job_Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resume_upload
+      label: Resumeประก
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

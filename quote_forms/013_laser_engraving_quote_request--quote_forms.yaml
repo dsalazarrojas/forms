@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laser Engraving Quote Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artwork_files
+      label: Artwork Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantities
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: engraver_info
+      label: Engraver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: quote_details
+      label: Quote Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pricing
+      label: Pricing
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

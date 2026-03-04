@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_exchange_registration_form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: exchange_duration
+      label: Exchange Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Inbound'', ''value'': 1}'
+      - '{''label'': ''Outbound'', ''value'': 2}'
+      required: false
+    - id: 14
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active'', ''value'': 1}'
+      - '{''label'': ''Inactive'', ''value'': 2}'
+      - '{''label'': ''Pending'', ''value'': 3}'
+      required: false

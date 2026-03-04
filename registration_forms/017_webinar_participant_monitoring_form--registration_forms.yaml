@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: webinar_participant_monitoring_form
+    pages:
+    - id: 1
+      name: webinar_participant_monitoring_form_page
+      label: welcome_to_webinar_participant_monitoring_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: false
+    - id: 3
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: participant_comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      - '{''label'': ''Option 4'', ''value'': ''option_4''}'
+      required: false
+    - id: 7
+      name: submit
+      label: submit_form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit'', ''value'': ''submit''}'
+      - '{''label'': ''Not Done'', ''value'': ''not_done''}'
+      required: false

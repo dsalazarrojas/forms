@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Procedure Study Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student email
+      hint: For results delivery
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: What is jurisdiction
+      hint: Short answer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_2
+      label: What is personal jurisdiction
+      hint: Short answer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_3
+      label: When is summary judgment appropriate
+      hint: Short response
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: Define service of process
+      hint: Short answer
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: Identify key pleading requirements
+      hint: Bullet points preferred
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_spent_preparing
+      label: Time spent preparing hours
+      hint: Approximate hours
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: confidence_rating
+      label: Confidence rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

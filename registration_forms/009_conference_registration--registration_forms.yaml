@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your professional position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address_line1
+      label: Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address_line2
+      label: Address Line 2
+      hint: Apartment suite etc if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 13
+      name: registration_type
+      label: Registration Type
+      hint: Select your registration category
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Virtual Attendance
+      - Student Pass
+      - Exhibitor Pass
+      - Speaker Pass
+      required: true
+    - id: 14
+      name: conference_days
+      label: Which days will you attend
+      hint: Select all applicable days
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - Day 4
+      - All Days
+      required: true
+    - id: 15
+      name: meal_preference
+      label: Meal Preference
+      hint: For catering
+      type: select_one
+      options:
+      - No Preference
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      required: true
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Specify any allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: networking_events
+      label: Will you attend networking events
+      hint: Evening receptions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: marketing_consent
+      label: May we contact you about future events
+      hint: Opt-in for communications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: terms_accepted
+      label: I accept the terms and conditions
+      hint: Agree to conference policies
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

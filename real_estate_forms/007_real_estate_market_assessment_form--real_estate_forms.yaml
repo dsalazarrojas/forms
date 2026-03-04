@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Market Assessment Form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single Family'', ''value'': ''Single Family''}'
+      - '{''label'': ''Multi Family'', ''value'': ''Multi Family''}'
+      - '{''label'': ''Condo'', ''value'': ''Condo''}'
+      required: true
+    - id: 3
+      name: property_age
+      label: Property Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active'', ''value'': ''Active''}'
+      - '{''label'': ''Sold'', ''value'': ''Sold''}'
+      - '{''label'': ''Leased'', ''value'': ''Leased''}'
+      required: false
+    - id: 6
+      name: neighborhood_details
+      label: Neighborhood Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: neighborhood_type
+      label: Neighborhood Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Urban'', ''value'': ''Urban''}'
+      - '{''label'': ''Rural'', ''value'': ''Rural''}'
+      - '{''label'': ''Mixed Use'', ''value'': ''Mixed Use''}'
+      required: true
+    - id: 9
+      name: market_trends
+      label: Market Trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: market_conditions
+      label: Market Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

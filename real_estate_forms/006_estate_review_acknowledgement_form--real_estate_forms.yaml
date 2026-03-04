@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Review Acknowledgement Form
+    pages:
+    - id: 1
+      name: estate_review_acknowledgement_form
+      label: estate_review_acknowledgement_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: estate_admin
+      label: estate_admin
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: real_estate_team
+      label: real_estate_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: office
+      label: office
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: stakeholders
+      label: stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: estate_review_acknowledgement
+      label: estate_review_acknowledgement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_review
+      label: time_of_review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: estate_administrator
+      label: estate_administrator
+      hint: null
+      type: select_one
+      options:
+      - Admin 1
+      - Admin 2
+      - Admin 3
+      required: false

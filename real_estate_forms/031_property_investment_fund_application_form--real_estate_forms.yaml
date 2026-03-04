@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Investment Fund Application Form
+    pages:
+    - id: 1
+      name: property_investment_form_data
+      label: property investment form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: investor_info
+      label: Investor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: investment_property_details
+      label: investment property details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: investor_investment_experience
+      label: investor investment experience
+      hint: null
+      type: select_one
+      options:
+      - Investment Firm
+      - Financial Advisor
+      - Investor
+      required: true
+    - id: 5
+      name: investment_objectives
+      label: investment objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: investment_amount
+      label: investment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: investment_frequency
+      label: investment frequency
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - quarterly
+      - annual
+      required: true
+    - id: 8
+      name: investment_term
+      label: investment term
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: exit_strategy
+      label: exit strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_tolerance
+      label: risk tolerance
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 11
+      name: return_expectation
+      label: return expectation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_info
+      label: additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: signature_confirmation
+      label: confirm signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: terms_of_service
+      label: terms of service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

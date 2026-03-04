@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broadcasting Training Registration Form
+    pages:
+    - id: 1
+      name: personal_information_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number where you can be reached
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: Name of your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_details_header
+      label: -- Training Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: training_program
+      label: Training Program
+      hint: Select the training program you want to register for
+      type: select_one
+      options:
+      - Broadcast Journalism Fundamentals
+      - Technical Operations Certification
+      - Production Management
+      - On-Air Personality Development
+      - Sports Broadcasting
+      - News Anchoring
+      - Audio Engineering
+      - Digital Media Production
+      required: true
+    - id: 9
+      name: preferred_session
+      label: Preferred Session
+      hint: Select your preferred training session
+      type: select_one
+      options:
+      - Morning Session - 9AM to 12PM
+      - Afternoon Session - 1PM to 4PM
+      - Evening Session - 6PM to 9PM
+      - Weekend Session - 10AM to 2PM
+      required: true
+    - id: 10
+      name: training_date
+      label: Preferred Training Date
+      hint: Select your preferred date for training
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: experience_level
+      label: Experience Level
+      hint: Your current level of experience in broadcasting
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 12
+      name: current_skills
+      label: Current Skills
+      hint: Describe any relevant skills or experience you already have
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you hope to achieve from this training
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accommodations_header
+      label: -- Special Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions we should know about
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accessibility accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agreement_header
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: Check to confirm you agree to the training policies
+      type: select_one
+      options:
+      - Yes I Agree
+      - Other
+      required: true
+    - id: 19
+      name: confirmation_email
+      label: Send confirmation email to this address
+      hint: Email address for training confirmation
+      type: email
+      options: []
+      required: true

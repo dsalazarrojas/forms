@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banked Curve Physics Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Email Address
+      hint: School email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Physics course
+      type: select_one
+      options:
+      - Physics 101
+      - Physics 201
+      - AP Physics
+      - IB Physics
+      - College Physics
+      - Other
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: Question 1 - What is centripetal force
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Force pushing outward
+      - Force pulling toward center
+      - Force of gravity
+      - Force of friction
+      required: true
+    - id: 6
+      name: question_2
+      label: Question 2 - Why are curves banked on racetracks
+      hint: Select the best answer
+      type: select_one
+      options:
+      - For aesthetic purposes
+      - To reduce the need for friction
+      - To increase speed limits
+      - To improve visibility
+      required: true
+    - id: 7
+      name: question_3
+      label: Question 3 - What happens to centripetal force if velocity doubles
+      hint: Select the best answer
+      type: select_one
+      options:
+      - It doubles
+      - It quadruples
+      - It stays the same
+      - It halves
+      required: true
+    - id: 8
+      name: question_4
+      label: Question 4 - Formula for centripetal acceleration
+      hint: Select the correct formula
+      type: select_one
+      options:
+      - a = v/r
+      - a = v squared divided by r
+      - a = m times v
+      - a = r divided by v
+      required: true
+    - id: 9
+      name: question_5
+      label: Question 5 - On a banked curve, the normal force provides
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Only vertical support
+      - Only horizontal force
+      - Both vertical and horizontal components
+      - No force at all
+      required: true
+    - id: 10
+      name: question_6
+      label: Question 6 - Ideal banking angle depends on
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Velocity of vehicle
+      - Radius of curve
+      - Mass of vehicle
+      - Gravitational acceleration
+      required: true
+    - id: 11
+      name: question_7
+      label: Question 7 - If a curve is properly banked, friction is
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Always required
+      - Not required at ideal speed
+      - Never present
+      - The only force acting
+      required: true
+    - id: 12
+      name: question_8
+      label: Question 8 - What provides centripetal force on a flat curve
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Normal force
+      - Gravity
+      - Friction
+      - Tension
+      required: true
+    - id: 13
+      name: question_9
+      label: Question 9 - Banking reduces reliance on
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Gravity
+      - Normal force
+      - Friction
+      - Air resistance
+      required: true
+    - id: 14
+      name: question_10
+      label: Question 10 - Calculate the banking angle for a given scenario
+      hint: Enter your numerical answer
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: question_11
+      label: Question 11 - Explain the relationship between speed and banking angle
+      hint: Short answer
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: question_12
+      label: Question 12 - What would happen if a car exceeds the design speed on
+        a banked curve
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Nothing different
+      - Car would slide up the bank
+      - Car would slide down the bank
+      - Car would stop
+      required: true
+    - id: 17
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident do you feel
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true
+    - id: 18
+      name: time_spent
+      label: Time Spent Studying
+      hint: Hours spent preparing
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or feedback
+      type: text
+      options: []
+      required: false

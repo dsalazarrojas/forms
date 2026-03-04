@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior Cricket League Entry Form
+    pages:
+    - id: 1
+      name: club_information
+      label: Club Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_names
+      label: Team Names
+      hint: null
+      type: select_multiple
+      options:
+      - Team1
+      - Team2
+      - Team3
+      required: false
+    - id: 3
+      name: team_managers
+      label: Team Managers
+      hint: null
+      type: select_multiple
+      options:
+      - Manager1
+      - Manager2
+      - Manager3
+      required: false
+    - id: 4
+      name: league_type
+      label: League Type
+      hint: null
+      type: select_one
+      options:
+      - League1
+      - League2
+      - League3
+      required: false
+    - id: 5
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: match_time
+      label: Match Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: category_1
+      label: Category 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: category_2
+      label: Category 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: category_3
+      label: Category 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: category_4
+      label: Category 4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: category_5
+      label: Category 5
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: true

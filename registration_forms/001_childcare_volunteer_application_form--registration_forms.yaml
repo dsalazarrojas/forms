@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Volunteer Application Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Enter your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Enter your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: We need to verify your age for this role
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: We will use this to contact you
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Include area code and country code if applicable
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: background_check
+      label: -- Background Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: criminal_history
+      label: Do you have any criminal convictions
+      hint: Select true if you have been convicted of any crime
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: background_check_consent
+      label: Do you consent to a background check
+      hint: Required for all childcare volunteers
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: experience_section
+      label: -- Experience and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: childcare_experience
+      label: Years of childcare experience
+      hint: Include paid and volunteer experience
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: age_groups_worked
+      label: Age groups you have worked with
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Infants (0-12 months)
+      - Toddlers (1-3 years)
+      - Preschool (3-5 years)
+      - School age (5-12 years)
+      - Teenagers (13+ years)
+      required: true
+    - id: 17
+      name: cpr_certification
+      label: Do you have current CPR certification
+      hint: Select yes if you hold an active CPR certification
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: first_aid_certification
+      label: Do you have first aid certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: availability_section
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_schedule
+      label: Preferred volunteer schedule
+      hint: Select your availability
+      type: select_one
+      options:
+      - Weekdays only
+      - Weekends only
+      - Flexible
+      - Specific times
+      required: true
+    - id: 21
+      name: hours_per_week
+      label: Hours available per week
+      hint: Approximate number of hours
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: motivation_section
+      label: -- Motivation and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: motivation
+      label: Why are you interested in volunteering with our childcare program
+      hint: Share your motivation in 50-200 words
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: references_available
+      label: Can you provide three professional references
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

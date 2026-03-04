@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental History Verification Form
+    pages:
+    - id: 1
+      name: tenant_details
+      label: Tenant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Never Rented'', ''value'': ''never_rented''}'
+      - '{''name'': ''Currently Rented'', ''value'': ''currently_rented''}'
+      - '{''name'': ''Former Rents'', ''value'': ''former_rents''}'
+      - '{''name'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: tenant_reference
+      label: Tenant Reference
+      hint: null
+      type: number
+      options: []
+      required: false

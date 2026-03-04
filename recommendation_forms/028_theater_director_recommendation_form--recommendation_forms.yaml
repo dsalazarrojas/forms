@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Director Recommendation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommender_name
+      label: Recommender Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommender_position
+      label: Recommender Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommender_institution
+      label: Recommender Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommender_email
+      label: Recommender Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: recommender_phone
+      label: Recommender Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommender_relationship
+      label: Recommender Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recommender_years_known
+      label: Years Known
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: recommender_recommendation
+      label: Recommendation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: recommender_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

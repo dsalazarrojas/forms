@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic Dental Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dental_info
+      label: Dental Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: specialty_services
+      label: Specialty Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: referral_info
+      label: Referral Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the above
+      - I have not read and do not understand the above
+      required: false

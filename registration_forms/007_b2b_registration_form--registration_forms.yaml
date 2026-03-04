@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: B2B Registration Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact person
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact phone number
+      hint: Direct line preferred
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_type
+      label: Business type
+      hint: Industry or sector
+      type: select_one
+      options:
+      - Manufacturer
+      - Distributor
+      - Service provider
+      - Retailer
+      - Other
+      required: true
+    - id: 6
+      name: company_website
+      label: Company website
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vat_number
+      label: VAT or tax identification number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agree_terms
+      label: Agreement to terms and conditions
+      hint: Registration subject to agreement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any relevant details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_date
+      label: Registration date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

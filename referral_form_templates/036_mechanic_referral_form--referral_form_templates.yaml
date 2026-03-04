@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanic Referral Form
+    pages:
+    - id: 1
+      name: mechanic_referral_form_name
+      label: Mechanic Referral Form Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mechanic_referral_form_number
+      label: Mechanic Referral Form Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mechanic_referral_form_email
+      label: Mechanic Referral Form Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: mechanic_referral_form_referral_type
+      label: Mechanic Referral Form Type
+      hint: null
+      type: select_multiple
+      options:
+      - Mechanic Referral Form Friend
+      - Mechanic Referral Form Family
+      - Mechanic Referral Form Colleague
+      required: true
+    - id: 5
+      name: mechanic_referral_form_comments
+      label: Mechanic Referral Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mechanic_referral_form_referral_source
+      label: Mechanic Referral Form Source
+      hint: null
+      type: select_one
+      options:
+      - Friend
+      - Family
+      - Colleague
+      required: true
+    - id: 7
+      name: mechanic_referral_form_referral_date
+      label: Mechanic Referral Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: mechanic_referral_form_referral_time
+      label: Mechanic Referral Form Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: mechanic_referral_form_referral_amount
+      label: Mechanic Referral Form Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: mechanic_referral_form_referral_status
+      label: Mechanic Referral Form Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Refunded
+      required: false
+    - id: 11
+      name: mechanic_referral_form_referral_comments
+      label: Mechanic Referral Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mechanic_referral_form_referral_source_url
+      label: Mechanic Referral Form Source URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mechanic_referral_form_referral_source_image
+      label: Mechanic Referral Form Source Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mechanic_referral_form_referral_source_document
+      label: Mechanic Referral Form Source Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: mechanic_referral_form_referral_source_video
+      label: Mechanic Referral Form Source Video
+      hint: null
+      type: text
+      options: []
+      required: false

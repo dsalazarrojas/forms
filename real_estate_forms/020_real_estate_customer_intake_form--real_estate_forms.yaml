@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_customer_intake_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: desired_property_type
+      label: Desired Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Townhouse
+      - Condo
+      - Apartment
+      - Duplex
+      required: false
+    - id: 6
+      name: desired_property_location
+      label: Desired Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: desired_property_price_range
+      label: Desired Property Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: desired_property_size_in_sqft
+      label: Desired Property Size In Sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: buyer_agent_name
+      label: Buyer Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: buyer_agent_company
+      label: Buyer Agent Company
+      hint: null
+      type: text
+      options: []
+      required: false

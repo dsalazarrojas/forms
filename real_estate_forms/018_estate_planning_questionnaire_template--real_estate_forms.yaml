@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Planning Questionnaire Template
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_values
+      label: Asset Values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: assets_owed
+      label: Assets Owed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: estate_goals
+      label: Estate Goals
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Goal A
+      - Goal B
+      - Goal C
+      required: false
+    - id: 5
+      name: primary_residence
+      label: Primary Residence
+      hint: Select only one option
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_death
+      label: Time of Death
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: financial_advisor
+      label: Financial Advisor
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

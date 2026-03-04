@@ -1,0 +1,136 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 90 Day Action Plan Intake Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: "--- Client & Intake Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_role
+      label: Client role / title
+      hint: Optional job title or description
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: intake_date
+      label: Intake date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: primary_goal
+      label: Primary 90-day goal
+      hint: Be specific and measurable (what success looks like)
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: goal_category
+      label: Goal category
+      hint: Choose most relevant category
+      type: select_one
+      options:
+        - Career
+        - Health & Wellness
+        - Business/Growth
+        - Personal Development
+        - Financial
+      required: true
+    - id: 7
+      name: key_milestones
+      label: Key milestones (list milestones with target dates)
+      hint: "Example: Complete training by MM/DD; Launch pilot by MM/DD"
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: success_metrics
+      label: Success metrics / KPIs
+      hint: How progress will be measured
+      type: select_multiple
+      options:
+        - Revenue / sales targets
+        - Time saved / efficiency
+        - Weight / fitness benchmarks
+        - Skill proficiency level
+        - Completed deliverables
+      required: false
+    - id: 9
+      name: anticipated_obstacles
+      label: Anticipated obstacles or risks
+      hint: Internal and external barriers
+      type: select_multiple
+      options:
+        - Time constraints
+        - Budget limitations
+        - Skill gaps
+        - Team support
+        - Health or personal issues
+      required: false
+    - id: 10
+      name: accountability_preferences
+      label: Accountability preference
+      hint: Choose frequency for check-ins
+      type: select_one
+      options:
+        - Weekly check-in
+        - Biweekly check-in
+        - Monthly review
+        - Daily progress log
+        - Peer accountability partner
+      required: true
+    - id: 11
+      name: coach_or_point_of_contact
+      label: Coach or main contact
+      hint: Name and contact info
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_support_needed
+      label: Support resources requested
+      hint: Coaching, templates, training, accountability tools
+      type: select_multiple
+      options:
+        - One-on-one coaching
+        - Group workshop
+        - Templates & checklists
+        - Project management setup
+        - External vendor support
+      required: false
+    - id: 13
+      name: client_notes
+      label: Client additional notes or context
+      hint: Open field for anything else the client wants to share
+      type: text
+      options: []
+      required: false

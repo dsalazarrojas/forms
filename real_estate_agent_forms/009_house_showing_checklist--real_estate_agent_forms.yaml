@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: house_showing_checklist
+    pages:
+    - id: 1
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Pending
+      - Off Market
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Condo
+      - Townhome
+      - Duplex
+      - Triplex
+      required: false
+    - id: 3
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: num_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: num_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: num_bedrooms_sinks
+      label: Number of Bedrooms Sinks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: num_kitchens
+      label: Number of Kitchens
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lot_dimensions
+      label: Lot Dimensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lot_orientation
+      label: Lot Orientation
+      hint: null
+      type: select_one
+      options:
+      - North Facing
+      - South Facing
+      - East Facing
+      - West Facing
+      required: false
+    - id: 11
+      name: property_address_1
+      label: Property Address 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: property_address_2
+      label: Property Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: year_built
+      label: Year Built
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: lot_number
+      label: Lot Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: lot_lot_number
+      label: Lot/Lot Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lot_block
+      label: Lot Block
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 22
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_agent
+      label: Property Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: property_agent_email
+      label: Property Agent E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seller Disclosure Form
+    pages:
+    - id: 1
+      name: seller_disclosure_form
+      label: Seller Disclosure Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_agent_forms
+      label: Real Estate Agent Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_hazards
+      label: Property Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: seller_disclosure_form_description
+      label: Seller Disclosure Form Description
+      hint: A seller disclosure form is a legal form that is used to inform a seller
+        of any hazards that might exist in a property.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_agent_forms_description
+      label: Real Estate Agent Forms Description
+      hint: A legal form that is used to inform a seller of any hazards that might
+        exist in a property.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

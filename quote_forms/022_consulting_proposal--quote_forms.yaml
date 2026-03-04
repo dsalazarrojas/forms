@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Proposal
+    pages:
+    - id: 1
+      name: proposal_date
+      label: Proposal Date
+      hint: Date of this proposal
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: proposal_number
+      label: Proposal Number
+      hint: Internal reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consultant_company_name
+      label: Your Company Name
+      hint: Name of your consulting firm
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consultant_address
+      label: Your Company Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consultant_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consultant_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consultant_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consultant_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: consultant_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_company_name
+      label: Client Company Name
+      hint: Name of client organization
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client_contact_name
+      label: Client Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_title
+      label: Client Contact Title
+      hint: Job title of contact
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_email
+      label: Client Email
+      hint: Client email address
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: client_phone
+      label: Client Phone
+      hint: Client phone number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_address
+      label: Client Address
+      hint: Client street address
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_title
+      label: Project Title
+      hint: Name of the proposed project
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_description
+      label: Project Description
+      hint: Detailed description of the project
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: company_background
+      label: Company Background
+      hint: Brief background about your firm
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_objectives
+      label: Project Objectives
+      hint: What will this project achieve
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed description of work to be performed
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: deliverables
+      label: Deliverables
+      hint: List of expected deliverables
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: project_start_date
+      label: Project Start Date
+      hint: Proposed start date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: project_completion_date
+      label: Project Completion Date
+      hint: Expected completion date
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: project_timeline
+      label: Project Timeline
+      hint: Key milestones and timeline
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Rate per hour in dollars
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: estimated_hours
+      label: Estimated Hours
+      hint: Total estimated hours
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: fixed_fee
+      label: Fixed Project Fee
+      hint: Total fixed fee if applicable
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: additional_costs
+      label: Additional Costs
+      hint: Any additional expenses
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: total_project_cost
+      label: Total Project Cost
+      hint: Total estimated cost
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: payment_terms
+      label: Payment Terms
+      hint: Select payment terms
+      type: select_one
+      options:
+      - 50% Deposit, 50% on Completion
+      - 30% Deposit, 40% Mid-Project, 30% on Completion
+      - Monthly Invoicing
+      - Net 15
+      - Net 30
+      - Net 45
+      - Upon Completion
+      required: true
+    - id: 31
+      name: payment_schedule
+      label: Payment Schedule
+      hint: Detailed payment schedule
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Additional terms and conditions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: proposal_validity
+      label: Proposal Validity Period
+      hint: How long is this proposal valid
+      type: select_one
+      options:
+      - 15 Days
+      - 30 Days
+      - 45 Days
+      - 60 Days
+      - 90 Days
+      required: true
+    - id: 34
+      name: consultant_signature
+      label: Consultant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: consultant_signature_date
+      label: Consultant Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: client_signature
+      label: Client Signature
+      hint: Client to type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Date signed by client
+      type: date
+      options: []
+      required: false

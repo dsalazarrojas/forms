@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Black
+    pages:
+    - id: 1
+      name: contact_intro
+      label: -- Contact Request --
+      hint: Provide details below so we can prepare a quote
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company name
+      hint: Company requesting the quote
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Provide an email for quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_time
+      label: Preferred time for contact
+      hint: Indicate a time window in your time zone
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: Project description
+      hint: Briefly describe the project needing a quote
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_budget
+      label: Estimated budget
+      hint: Provide a rough budget if available
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: required_deadline
+      label: Required deadline
+      hint: Target date for project completion
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: file_upload_note
+      label: Attach supporting documents via email
+      hint: Use email for large files
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_requests
+      label: Additional requests or comments
+      hint: Any other details for the quote
+      type: text
+      options: []
+      required: false

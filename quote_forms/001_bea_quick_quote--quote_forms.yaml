@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bea Quick Quote
+    pages:
+    - id: 1
+      name: section_flight_details
+      label: -- Flight Details --
+      hint: Please provide information about your travel requirements
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: aircraft_type
+      label: Preferred Aircraft Type
+      hint: Select the type of aircraft for your trip
+      type: select_one
+      options:
+      - Very Light Jet
+      - Light Jet
+      - Midsize Jet
+      - Super Midsize Jet
+      - Large Cabin Jet
+      - Turbo Prop
+      - Helicopter
+      required: true
+    - id: 3
+      name: trip_type
+      label: Trip Type
+      hint: null
+      type: select_one
+      options:
+      - One Way
+      - Round Trip
+      - Multi City
+      required: true
+    - id: 4
+      name: departure_city
+      label: Departure City
+      hint: Enter city or airport code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: destination_city
+      label: Destination City
+      hint: Enter city or airport code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: Only required for round trips
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: additional_requirements
+      label: Additional Requirements or Comments
+      hint: Special catering, ground transport, or specific amenities
+      type: text
+      options: []
+      required: false

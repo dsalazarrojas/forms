@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rent_period
+      label: Rent Period
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Quarter
+      - Year
+      required: true
+    - id: 10
+      name: move_in_date
+      label: Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: move_in_time
+      label: Move-in Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: real_estate_type
+      label: Real Estate Type
+      hint: null
+      type: select_multiple
+      options:
+      - House
+      - Apartment
+      - Condo
+      required: true
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: move_in_note
+      label: Move-in Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 16
+      name: applicant_income
+      label: Applicant Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: coapplicant_income
+      label: Co-applicant Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: rental_unit_type
+      label: Rental Unit Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

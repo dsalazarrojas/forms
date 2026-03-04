@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: which_elements_are_you_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: element_0
+      label: fire
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Ice
+      - Earth
+      - Air
+      - Water
+      required: true
+    - id: 3
+      name: element_1
+      label: lightning
+      hint: null
+      type: select_one
+      options:
+      - Lightning
+      - Thunder
+      - Storm
+      required: true
+    - id: 4
+      name: element_2
+      label: thunder
+      hint: null
+      type: select_one
+      options:
+      - Thunder
+      - Storm
+      required: true
+    - id: 5
+      name: fire_type
+      label: fire_type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Ice
+      - Water
+      - Earth
+      required: true
+    - id: 6
+      name: lightning_type
+      label: lightning_type
+      hint: null
+      type: select_one
+      options:
+      - Lightning
+      - Thunder
+      - Storm
+      required: true
+    - id: 7
+      name: earth_type
+      label: earth_type
+      hint: null
+      type: select_one
+      options:
+      - Earth
+      - Water
+      required: true
+    - id: 8
+      name: water_type
+      label: water_type
+      hint: null
+      type: select_one
+      options:
+      - Water
+      - Earth
+      required: true
+    - id: 9
+      name: element_3
+      label: wind
+      hint: null
+      type: select_one
+      options:
+      - Wind
+      - Fire
+      required: true
+    - id: 10
+      name: element_4
+      label: thunderstorm
+      hint: null
+      type: select_one
+      options:
+      - Thunderstorm
+      - Other
+      required: true
+    - id: 11
+      name: element_5
+      label: ice
+      hint: null
+      type: select_multiple
+      options:
+      - Ice
+      - Snow
+      required: true
+    - id: 12
+      name: element_6
+      label: thunderstorm_2
+      hint: null
+      type: select_multiple
+      options:
+      - Thunderstorm
+      - Other
+      required: true
+    - id: 13
+      name: element_7
+      label: storm
+      hint: null
+      type: select_multiple
+      options:
+      - Storm
+      - Other
+      required: true
+    - id: 14
+      name: element_8
+      label: thunderstorm_3
+      hint: null
+      type: select_multiple
+      options:
+      - Thunderstorm
+      - Other
+      required: true
+    - id: 15
+      name: element_9
+      label: waterstorm
+      hint: null
+      type: select_one
+      options:
+      - Waterstorm
+      - Other
+      required: true
+    - id: 16
+      name: element_10
+      label: storm
+      hint: null
+      type: select_multiple
+      options:
+      - Storm
+      - Other
+      required: false
+    - id: 17
+      name: element_11
+      label: wind_type
+      hint: null
+      type: select_one
+      options:
+      - Wind
+      - Other
+      required: true
+    - id: 18
+      name: element_12
+      label: ice_type
+      hint: null
+      type: select_one
+      options:
+      - Ice
+      - Other
+      required: true
+    - id: 19
+      name: element_13
+      label: earthstorm
+      hint: null
+      type: select_multiple
+      options:
+      - Earthstorm
+      - Other
+      required: true
+    - id: 20
+      name: element_14
+      label: element_5_type
+      hint: null
+      type: select_one
+      options:
+      - Wind
+      - Other
+      required: true
+    - id: 21
+      name: element_15
+      label: earthstorm_2
+      hint: null
+      type: select_multiple
+      options:
+      - Earthstorm
+      - Other
+      required: true
+    - id: 22
+      name: element_16
+      label: element_1_type
+      hint: null
+      type: select_one
+      options:
+      - Wind
+      - Other
+      required: true
+    - id: 23
+      name: element_17
+      label: element_2_type
+      hint: null
+      type: select_one
+      options:
+      - Wind
+      - Other
+      required: true
+    - id: 24
+      name: result
+      label: result
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: quiz_end
+      label: quiz end
+      hint: null
+      type: note
+      options: []
+      required: false

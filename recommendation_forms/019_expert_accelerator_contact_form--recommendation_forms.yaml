@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: expert_accelerator_contact_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - mail
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: services
+      label: Services Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Program X
+      - Program Y
+      - Program Z
+      required: false
+    - id: 8
+      name: program_info
+      label: Program Information
+      hint: null
+      type: text
+      options: []
+      required: false

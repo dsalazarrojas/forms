@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI and Law Conference Registration
+    pages:
+    - id: 1
+      name: attendee_basic_info_header
+      label: --- Attendee Details ---
+      hint: Please provide your professional contact information.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_title
+      label: Professional Title / Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_university
+      label: Organization / University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Professional Email Address
+      hint: All conference communications will be sent here.
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participation_type
+      label: How will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - label: In-Person (Full Conference)
+        value: in_person
+      - label: Virtual Attendance
+        value: virtual
+      - label: Speaker/Presenter
+        value: speaker
+      - label: Student (Discounted)
+        value: student
+      required: true
+    - id: 7
+      name: session_interests_header
+      label: --- Session and Workshop Interests ---
+      hint: Select the topics you are most interested in.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: legal_focus_areas
+      label: Areas of Interest in AI and Law
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Intellectual Property & AI
+        value: ip_ai
+      - label: Ethics and Algorithmic Bias
+        value: ethics_bias
+      - label: Data Privacy and Cybersecurity
+        value: privacy
+      - label: Regulatory Frameworks (EU AI Act, etc.)
+        value: regulation
+      - label: AI in Legal Practice (LawTech)
+        value: lawtech
+      - label: Criminal Justice and AI
+        value: criminal_justice
+      required: true
+    - id: 9
+      name: workshop_selection
+      label: Pre-Conference Workshop Selection
+      hint: Workshops are held on Day 1 morning.
+      type: select_one
+      options:
+      - label: Introduction to LLMs for Legal Professionals
+        value: llm_intro
+      - label: Drafting AI Governance Policies
+        value: governance_policies
+      - label: Hands-on: Auditing AI Systems for Bias
+        value: bias_auditing
+      - label: No Workshop
+        value: none
+      required: true
+    - id: 10
+      name: cle_credits_requested
+      label: Do you require Continuing Legal Education (CLE) credits?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes
+        value: yes
+      - label: No
+        value: no
+      required: true
+    - id: 11
+      name: jurisdiction_for_cle
+      label: Jurisdiction for CLE Credits
+      hint: If yes, please specify state or country.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_events_header
+      label: --- Logistics and Social Events ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: networking_dinner_attendance
+      label: Will you attend the Networking Gala Dinner?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes
+        value: yes
+      - label: No
+        value: no
+      required: true
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements / Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - label: None
+        value: none
+      - label: Vegetarian
+        value: vegetarian
+      - label: Vegan
+        value: vegan
+      - label: Gluten-Free
+        value: gluten_free
+      - label: Kosher
+        value: kosher
+      - label: Halal
+        value: halal
+      required: false
+    - id: 15
+      name: special_accommodations
+      label: Accessibility or Special Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recording_consent
+      label: Do you consent to being recorded and photographed during the event?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, I consent
+        value: yes
+      - label: No, I do not consent
+        value: no
+      required: true
+    - id: 17
+      name: referral_source
+      label: How did you hear about the conference?
+      hint: null
+      type: select_one
+      options:
+      - label: Professional Association
+        value: association
+      - label: Social Media
+        value: social_media
+      - label: Academic Institution
+        value: academic
+      - label: Colleague
+        value: colleague
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Questions or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dinner Seminar Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_diet
+      label: Attendee Diet
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Vegetarian''}'
+      - '{''label'': ''Gluten-free''}'
+      - '{''label'': ''Vegan''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: attendee_diet_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      required: true
+    - id: 11
+      name: guest_name_other
+      label: Other (if yes, specify)
+      hint: null
+      type: text
+      options: []
+      required: false

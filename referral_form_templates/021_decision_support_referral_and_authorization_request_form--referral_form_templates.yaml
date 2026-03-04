@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Decision Support Referral And Authorization Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient
+      label: patient_name
+      hint: Enter patient name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: doctor
+      label: doctor_name
+      hint: Enter doctor name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: Enter reason
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: Select a department
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned
+      label: assigned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

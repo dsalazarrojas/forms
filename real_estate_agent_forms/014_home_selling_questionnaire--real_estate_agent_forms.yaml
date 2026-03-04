@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Selling Questionnaire
+    pages:
+    - id: 1
+      name: address_input
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_features_input
+      label: Home Features
+      hint: null
+      type: select_multiple
+      options:
+      - Basement
+      - Fireplace
+      - Pool
+      - Parking
+      - Security System
+      - Other
+      required: true
+    - id: 3
+      name: home_condition_input
+      label: Home Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: additional_features_input
+      label: Additional Features
+      hint: null
+      type: select_multiple
+      options:
+      - Deck
+      - Patio
+      - Garage
+      - Other
+      required: false
+    - id: 5
+      name: additional_condition_input
+      label: Additional Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Minor
+      - Major
+      - Needs Repair
+      required: false
+    - id: 6
+      name: buyer_info_input
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details_input
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agent_info_input
+      label: Agent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_comments_input
+      label: Other Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: home_type_input
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Townhouse
+      - Condo
+      - Other
+      required: true
+    - id: 11
+      name: square_footage_input
+      label: Square Footage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lot_size_input
+      label: Lot Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: neighborhood_input
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: amenities_input
+      label: Amenities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location_input
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: year_built_input
+      label: Year Built
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: lot_dimensions_input
+      label: Lot Dimensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zoning_input
+      label: Zoning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hoa_input
+      label: HOA
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hoa_fee_input
+      label: HOA Fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hoa_notes_input
+      label: HOA Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: hoa_contact_input
+      label: HOA Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hoa_email_input
+      label: HOA Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: hoa_phone_input
+      label: HOA Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agent_notes_input
+      label: Agent Notes
+      hint: null
+      type: note
+      options: []
+      required: false

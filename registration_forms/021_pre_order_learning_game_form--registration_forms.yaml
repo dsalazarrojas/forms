@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Order Learning Game Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: game_description
+      label: Game Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: game_price
+      label: Game Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      required: false
+    - id: 7
+      name: game_status
+      label: Game Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In Stock''}'
+      - '{''label'': ''Out of Stock''}'
+      - '{''label'': ''Pre Order''}'
+      required: false
+    - id: 8
+      name: user_note
+      label: User Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: game_note
+      label: Game Note
+      hint: null
+      type: note
+      options: []
+      required: false

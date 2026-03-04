@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: primary-stage-letter-recognition-quiz
+    pages:
+    - id: 1
+      name: intro
+      label: Welcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stage1
+      label: Stages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: stage2
+      label: Stages
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: letter_recognition_quiz
+      label: Letter Recognition Quiz
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confidence
+      label: Confidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reading_quiz_questions
+      label: Reading Quiz Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reading_quiz_results
+      label: Reading Quiz Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: quiz_scores
+      label: Quiz Scores
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: quiz_completion_status
+      label: Completion Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: quiz_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: quiz_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: quiz_duration
+      label: Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: total_questions
+      label: Total Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

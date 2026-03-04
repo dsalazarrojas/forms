@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Renewal Or Termination Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Tenant Requested''}'
+      - '{''id'': 2, ''label'': ''Landlord Requested''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: tenant_signature_date
+      label: Tenant Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: landowner_signature_date
+      label: Landowner Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: landlord_comments
+      label: Landlord Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tenant_comments
+      label: Tenant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: termination_status
+      label: Termination Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Accepted''}'
+      - '{''id'': 2, ''label'': ''Declined''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: false
+    - id: 10
+      name: lease_document_upload
+      label: Lease Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: landowner_signature
+      label: Landlord Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: start_date_note
+      label: Start Date Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: end_date_note
+      label: End Date Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: notice_period_note
+      label: Notice Period Note
+      hint: null
+      type: note
+      options: []
+      required: false

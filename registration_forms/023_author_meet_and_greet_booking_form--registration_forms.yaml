@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Author Meet And Greet Booking Form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: When are you making this reservation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Your Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: author_name
+      label: Which Author Are You Interested In
+      hint: Name of the author
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When is the meet-and-greet scheduled
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: What time slot would you prefer
+      type: select_one
+      options:
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: Where is the event being held
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: group_size
+      label: Number of Attendees in Your Group
+      hint: How many people in your party
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: group_members
+      label: Names of Group Members
+      hint: List other attendees if multiple
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: book_purchase_intent
+      label: Will You Purchase Book at Event
+      hint: Do you plan to buy a book
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Likely
+      - Maybe
+      - No - Bringing Own
+      - Not Sure
+      required: true
+    - id: 12
+      name: owned_author_books
+      label: Which Author Books Do You Own
+      hint: List books you have read
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: favorite_work
+      label: Favorite Work by This Author
+      hint: What is your favorite book or piece
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fan_since_when
+      label: How Long Have You Been a Fan
+      hint: When did you discover this author
+      type: select_one
+      options:
+      - Less Than 1 Year
+      - 1-2 Years
+      - 2-5 Years
+      - 5-10 Years
+      - Over 10 Years
+      - Lifetime Fan
+      required: false
+    - id: 15
+      name: reason_attending
+      label: Why Do You Want to Attend
+      hint: What are you hoping to experience
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: question_for_author
+      label: Question for the Author
+      hint: Is there something you want to ask
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mobility_assistance
+      label: Need Mobility Assistance
+      hint: Wheelchair, accessible seating, etc
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Wheelchair Access
+      - Yes - Mobility Device Access
+      - Yes - Accessible Seating
+      required: false
+    - id: 19
+      name: hearing_accommodation
+      label: Hearing Accommodation Needed
+      hint: Do you need hearing assistance
+      type: select_one
+      options:
+      - 'No'
+      - Yes - ASL Interpreter
+      - Yes - CART/Captioning
+      - Yes - Other
+      required: false
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For any refreshments provided
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_heard_about_event
+      label: How Did You Hear About This Event
+      hint: Where did you find out
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Author Website
+      - Bookstore
+      - Friend Recommendation
+      - News Article
+      - Other
+      required: true
+    - id: 22
+      name: willing_photo_video
+      label: Permission for Photo/Video
+      hint: Can we take your photo at event
+      type: select_one
+      options:
+      - Yes - Full Permission
+      - Yes - Social Media Only
+      - No - Private Only
+      required: true
+    - id: 23
+      name: mailing_list_signup
+      label: Sign Up for Author Mailing List
+      hint: Would you like to subscribe
+      type: select_one
+      options:
+      - Yes - Add Me
+      - No - Not Interested
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

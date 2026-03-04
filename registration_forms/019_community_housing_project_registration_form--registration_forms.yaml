@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Housing Project Registration Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Name of Housing Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registration_type
+      label: Registration Type
+      hint: Your role in the project
+      type: select_one
+      options:
+      - Individual Developer
+      - Non-Profit Organization
+      - Government Agency
+      - Private Construction Firm
+      - Community Land Trust
+      required: true
+    - id: 3
+      name: primary_contact
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Business or Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: project_location
+      label: Project Location or Proposed Area
+      hint: Address or neighborhood
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_timeline
+      label: Estimated Project Timeline
+      hint: From start to completion
+      type: select_one
+      options:
+      - Under 6 months
+      - 6-12 months
+      - 12-24 months
+      - More than 2 years
+      required: true
+    - id: 8
+      name: unit_count
+      label: Anticipated Number of Housing Units
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: funding_status
+      label: Current Funding Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Funded
+      - Seeking Public Grants
+      - Private Financing Pending
+      - Public-Private Partnership
+      - Crowd-funded or Local
+      required: true
+    - id: 10
+      name: sustainability_features
+      label: Sustainability and Green Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Solar Power Systems
+      - Water Recycling/Graywater
+      - Energy Efficient Appliances
+      - Low-Impact Building Materials
+      - Proximity to Public Transit
+      required: false
+    - id: 11
+      name: project_goals_description
+      label: Brief Description of Project Goals
+      hint: What community need does this project address?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

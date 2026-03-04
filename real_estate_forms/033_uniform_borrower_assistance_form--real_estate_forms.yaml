@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Borrower Assistance Form
+    pages:
+    - id: 1
+      name: mortgage_status
+      label: What is your current mortgage status?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: monthly_payment
+      label: What is your monthly payment amount?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: financial_difficulty
+      label: Are you experiencing financial difficulty?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: financial_difficulty_reason
+      label: If yes, what is the reason for the financial difficulty?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: income_1
+      label: What is your monthly income?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: income_2
+      label: What is your spouse's monthly income? (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: What is your employment status?
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Disabled
+      required: false
+    - id: 8
+      name: income_source_1
+      label: What is your source of income?
+      hint: null
+      type: select_one
+      options:
+      - Salary
+      - Self-employment
+      - Alimony
+      - Pension
+      - Other
+      required: false
+    - id: 9
+      name: income_source_2
+      label: What is your spouse's source of income?
+      hint: null
+      type: select_one
+      options:
+      - Salary
+      - Self-employment
+      - Alimony
+      - Pension
+      - Other
+      required: false
+    - id: 10
+      name: assets
+      label: Do you have any assets?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: asset_1
+      label: What is your asset description 1?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: asset_1_value
+      label: What is the value of your asset 1?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: asset_2
+      label: What is your asset description 2?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: asset_2_value
+      label: What is the value of your asset 2?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: liabilities
+      label: Do you have any liabilities?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: liability_1
+      label: What is your liability description 1?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: loan_provider
+      label: Have you spoken with any loan providers?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: loan_provider_name
+      label: If yes, what is the name of the loan provider?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_person
+      label: If yes, what is the contact person's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_number
+      label: If yes, what is the contact number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: communication_method
+      label: What is your preferred method of communication?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: true
+    - id: 22
+      name: preferred_time
+      label: What is your preferred contact time?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: additional_info
+      label: Is there any additional information you would like to share?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_email
+      label: If you would like to be contacted by our organization, what is your email
+        address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Please print your signature below.
+      hint: null
+      type: text
+      options: []
+      required: true

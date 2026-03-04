@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Artist Workshop Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: salon_name
+      label: Salon or Studio Name
+      hint: If self-employed enter your business name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_level
+      label: Current Experience Level
+      hint: Your experience with brow services
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional Artist
+      required: true
+    - id: 7
+      name: services_offered
+      label: Services You Currently Offer
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brow Shaping
+      - Brow Tinting
+      - Henna Brows
+      - Microblading
+      - Brow Lamination
+      - Lash Services
+      required: false
+    - id: 8
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Select your preferred date
+      type: select_one
+      options:
+      - January 15 - 16
+      - February 19 - 20
+      - March 25 - 26
+      - April 22 - 23
+      - May 27 - 28
+      required: true
+    - id: 9
+      name: workshop_time
+      label: Preferred Time
+      hint: Morning or Afternoon
+      type: select_one
+      options:
+      - Morning (9am - 12pm)
+      - Afternoon (1pm - 5pm)
+      - Both days Full
+      required: true
+    - id: 10
+      name: certification_goal
+      label: What is your certification goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: learning_goals
+      label: Primary learning objectives
+      hint: What do you want to learn
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: workshop_location
+      label: Location Preference
+      hint: Select preferred location
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Miami
+      - Dallas
+      - Online
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For workshop meals and refreshments
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: registration_fee
+      label: Registration Fee Paid
+      hint: Full fee or deposit
+      type: select_one
+      options:
+      - Full Fee - $499
+      - Deposit - $99
+      required: true
+    - id: 15
+      name: payment_confirmation
+      label: Payment Confirmation Number
+      hint: null
+      type: text
+      options: []
+      required: true

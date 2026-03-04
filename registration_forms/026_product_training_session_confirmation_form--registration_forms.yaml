@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: product training session confirmation form
+    pages:
+    - id: 1
+      name: product_training_session_confirmation
+      label: product training session confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant email
+      hint: required
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_session_date
+      label: training session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_session_time
+      label: training session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participant_status
+      label: participant status
+      hint: null
+      type: select_one
+      options:
+      - confirmed
+      - not confirmed
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_status
+      label: participant status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 11
+      name: participant_type
+      label: participant type
+      hint: null
+      type: select_one
+      options:
+      - new participant
+      - returning participant
+      required: false
+    - id: 12
+      name: product
+      label: product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_status
+      label: product status
+      hint: null
+      type: select_one
+      options:
+      - in progress
+      - completed
+      required: false
+    - id: 14
+      name: participant_status_update
+      label: participant status update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_status_update_date
+      label: participant status update date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: participant_status_update_time
+      label: participant status update time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: participant_status_update_reason
+      label: participant status update reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_status_update_notes
+      label: participant status update notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_status_update_status
+      label: participant status update status
+      hint: null
+      type: select_one
+      options:
+      - updated
+      - not updated
+      required: false
+    - id: 20
+      name: participant_status_update_type
+      label: participant status update type
+      hint: null
+      type: select_one
+      options:
+      - initial update
+      - follow up
+      required: false
+    - id: 21
+      name: participant_status_update_product
+      label: participant status update product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_status_update_product_status
+      label: participant status update product status
+      hint: null
+      type: select_one
+      options:
+      - in progress
+      - completed
+      required: false
+    - id: 23
+      name: participant_status_update_product_type
+      label: participant status update product type
+      hint: null
+      type: select_one
+      options:
+      - product update
+      - non product update
+      required: false
+    - id: 24
+      name: participant_status_update_who
+      label: participant status update by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_status_update_who
+      label: participant status update who
+      hint: null
+      type: text
+      options: []
+      required: false

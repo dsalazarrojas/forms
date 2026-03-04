@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Recording Permission Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal name of person granting permission
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Mailing Address
+      hint: Full address for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: minor_status
+      label: Minor Status
+      hint: Are you under 18 years of age?
+      type: select_one
+      options:
+      - No, I am 18 or older
+      - Yes, I am a minor
+      required: true
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as electronic signature (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_name
+      label: Organization Name
+      hint: Organization requesting permission
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_title
+      label: Project Title
+      hint: Title of the audio project
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: Brief description of the project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recording_date
+      label: Recording Date
+      hint: Scheduled date of recording
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: recording_location
+      label: Recording Location
+      hint: Where will recording take place?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: content_type
+      label: Content Type
+      hint: What type of content will be recorded?
+      type: select_one
+      options:
+      - Spoken word
+      - Singing
+      - Musical performance
+      - Interview
+      - Narration
+      - Sound effects
+      - Other
+      required: true
+    - id: 15
+      name: permission_scope
+      label: Permission Scope
+      hint: What permissions are you granting?
+      type: select_multiple
+      options:
+      - Record my voice
+      - Edit the recording
+      - Distribute publicly
+      - Use for commercial purposes
+      - Use in perpetuity
+      - Create derivative works
+      - Share with third parties
+      required: true
+    - id: 16
+      name: distribution_channels
+      label: Distribution Channels
+      hint: Where may the recording be distributed?
+      type: select_multiple
+      options:
+      - Podcast platforms
+      - Streaming services
+      - Radio broadcast
+      - Television
+      - Website
+      - Social media
+      - Physical media
+      required: true
+    - id: 17
+      name: credit_requirement
+      label: Credit Requirement
+      hint: Do you require attribution or credit?
+      type: select_one
+      options:
+      - Yes, full credit required
+      - Yes, partial credit
+      - No credit needed
+      - Prefer to remain anonymous
+      required: true
+    - id: 18
+      name: compensation_agreement
+      label: Compensation Agreement
+      hint: Details of any compensation
+      type: select_one
+      options:
+      - Paid session
+      - Royalty agreement
+      - Trade or barter
+      - Voluntary, no compensation
+      required: true
+    - id: 19
+      name: exclusivity_clause
+      label: Exclusivity Clause
+      hint: Is this recording exclusive?
+      type: select_one
+      options:
+      - Yes, exclusive rights granted
+      - No, non-exclusive
+      - Limited exclusivity
+      required: true
+    - id: 20
+      name: termination_clause
+      label: Termination Clause
+      hint: I understand the terms for terminating this agreement
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 21
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of permission grant
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auditor Quote Form
+    pages:
+    - id: 1
+      name: quote_date
+      label: Quote Date
+      hint: Date this quote is issued
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: quote_number
+      label: Quote Number
+      hint: Unique identifier for this quote
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_company
+      label: Client Company Name
+      hint: Name of client organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Client Email Address
+      hint: Email for quote submission
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: quote_valid_until
+      label: Quote Valid Until Date
+      hint: Expiration date for this quote
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: audit_type
+      label: Type of Audit Service
+      hint: What audit service is quoted
+      type: select_one
+      options:
+      - Financial Audit
+      - Internal Audit
+      - Compliance Audit
+      - Tax Audit
+      - IT Audit
+      - Other
+      required: true
+    - id: 9
+      name: audit_scope_description
+      label: Audit Scope Description
+      hint: Brief description of what will be audited
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_revenue_range
+      label: Client Annual Revenue Range
+      hint: Estimated annual revenue
+      type: select_one
+      options:
+      - Under $500k
+      - $500k - $1M
+      - $1M - $5M
+      - $5M - $10M
+      - $10M - $50M
+      - Over $50M
+      required: true
+    - id: 11
+      name: estimated_hours
+      label: Estimated Audit Hours
+      hint: Approximate total hours needed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Rate per hour
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: fixed_fee_option
+      label: Fixed Fee Amount
+      hint: Flat fee for audit services
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: travel_expenses
+      label: Estimated Travel Expenses
+      hint: Approximate travel costs
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: out_of_pocket_costs
+      label: Out-of-Pocket Costs
+      hint: Other direct costs
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_estimate
+      label: Total Estimated Cost
+      hint: Total quote amount
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: contingent_fee
+      label: Contingent Fee Component
+      hint: Any contingent fee amount
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: How payment should be made
+      type: select_one
+      options:
+      - 50% Upfront, 50% Upon Completion
+      - Monthly Invoicing
+      - Payment Upon Completion
+      - Custom Arrangement
+      required: true
+    - id: 19
+      name: timeline_start_date
+      label: Proposed Audit Start Date
+      hint: When audit would begin
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: timeline_end_date
+      label: Proposed Audit End Date
+      hint: When audit would conclude
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: audit_team_details
+      label: Audit Team Members
+      hint: Names and roles of audit team
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certifications_included
+      label: Professional Certifications
+      hint: Qualifications of audit team
+      type: select_multiple
+      options:
+      - CPA
+      - CIA
+      - CISA
+      - CFE
+      - Other Certifications
+      required: false
+    - id: 23
+      name: additional_services
+      label: Additional Services Offered
+      hint: Services beyond base audit
+      type: select_multiple
+      options:
+      - Management Letter
+      - Controls Assessment
+      - Fraud Consulting
+      - Training
+      - Follow-Up Audit
+      - None
+      required: false
+    - id: 24
+      name: terms_and_conditions
+      label: Terms and Conditions Attached
+      hint: Standard T&C apply
+      type: select_one
+      options:
+      - Yes - Attached
+      - Will Be Provided
+      - Discussed Separately
+      required: true
+    - id: 25
+      name: special_notes
+      label: Special Notes or Requirements
+      hint: Any special considerations
+      type: text
+      options: []
+      required: false

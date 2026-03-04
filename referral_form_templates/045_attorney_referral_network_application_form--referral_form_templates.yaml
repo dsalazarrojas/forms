@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attorney Referral Network Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attorney_name
+      label: Attorney Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bar_number
+      label: Bar Number(s)
+      hint: All states where admitted
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_practice
+      label: Years of Legal Practice
+      hint: Total years practicing law
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_phone
+      label: Phone Number
+      hint: Professional phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: firm_information
+      label: -- Firm Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: firm_name
+      label: Firm Name
+      hint: Law firm or solo practice name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: firm_address
+      label: Firm Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: firm_city_state_zip
+      label: City, State, ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: firm_phone
+      label: Firm Phone
+      hint: Main office number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: practice_information
+      label: -- Practice Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_practice_areas
+      label: Primary Practice Areas
+      hint: Select main areas of practice
+      type: select_multiple
+      options:
+      - Corporate
+      - Family Law
+      - Criminal
+      - Civil Litigation
+      - Real Estate
+      - Intellectual Property
+      - Immigration
+      - Probate
+      - Personal Injury
+      - Employment
+      - Contract
+      - Other
+      required: true
+    - id: 14
+      name: other_practice_areas
+      label: Other Practice Areas
+      hint: Any additional areas
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: practice_focus
+      label: Practice Focus
+      hint: Who is your typical client?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: case_referral_types
+      label: Case Referral Types
+      hint: Types of cases you can handle
+      type: select_multiple
+      options:
+      - Plaintiff
+      - Defendant
+      - Both
+      - Business Clients
+      - Individual Clients
+      - Contingency
+      - Hourly Billing
+      required: true
+    - id: 17
+      name: professional_credentials
+      label: -- Professional Credentials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: certifications
+      label: Professional Certifications
+      hint: Board certifications or specializations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: law_school
+      label: Law School Attended
+      hint: Name of law school
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: professional_memberships
+      label: Professional Memberships
+      hint: Bar associations, networks, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: network_engagement
+      label: -- Network Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: referral_expectations
+      label: What Type of Referrals Do You Seek?
+      hint: Types of cases or clients wanted
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: referral_fees
+      label: Referral Fee Structure
+      hint: How do you handle referral fees?
+      type: select_one
+      options:
+      - Standard Split
+      - Hourly Referral Fee
+      - Fixed Fee
+      - Contingency Share
+      - Case by Case
+      required: true
+    - id: 24
+      name: referral_fee_percentage
+      label: Referral Fee Percentage
+      hint: Typical percentage offered
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Anything else about your practice?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Listing Request
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: listing_price
+      label: Listing Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: listing_status
+      label: Listing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: property_size
+      label: Property Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: property_features
+      label: Property Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false

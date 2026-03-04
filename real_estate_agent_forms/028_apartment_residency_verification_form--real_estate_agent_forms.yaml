@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Residency Verification Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Name of Resident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: apartment_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_id
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: residency_start_date
+      label: Residency Start Date
+      hint: Date of move-in
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: lease_expiry_date
+      label: Lease Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: monthly_rent
+      label: Monthly Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: rent_payment_history
+      label: Rent Payment Standing
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Always on time
+      - Good - Occasional late payments
+      - Poor - Significant arrears
+      required: true
+    - id: 8
+      name: utilities_included
+      label: Are utilities included in the rent?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all utilities
+      - Some utilities included
+      - No utilities included
+      required: true
+    - id: 9
+      name: current_occupancy
+      label: Is the individual still residing at this address?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: verifier_details_header
+      label: -- Verifier Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: verifier_name
+      label: Full Name of Verifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: verifier_title
+      label: Title or Role
+      hint: e.g. Property Manager, Landlord
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: verifier_phone
+      label: Verifier Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: verification_date
+      label: Date of Verification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: requesting_agency
+      label: Requesting Agency/Company
+      hint: null
+      type: text
+      options: []
+      required: false

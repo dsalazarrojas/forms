@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: valuation_information_form
+    pages:
+    - id: 1
+      name: form_info
+      label: valuation information form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Land
+      required: false
+    - id: 3
+      name: property_value
+      label: property value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Rental
+      - Investment
+      - Other
+      required: false
+    - id: 7
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Damaged
+      required: false
+    - id: 8
+      name: property_age
+      label: Property Age
+      hint: null
+      type: number
+      options: []
+      required: false

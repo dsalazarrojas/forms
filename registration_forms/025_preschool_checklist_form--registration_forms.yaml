@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Checklist Form
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: classroom_supplies
+      label: Classroom Supplies
+      hint: List the supplies and materials needed for the classroom
+      type: select_multiple
+      options:
+      - pencils
+      - markers
+      - crayons
+      - glue
+      - scissors
+      - tape
+      - ruler
+      - calendars
+      - charts
+      - paper
+      - folders
+      - folders
+      - folders
+      required: false
+    - id: 4
+      name: educational_materials
+      label: Educational Materials
+      hint: List the educational materials needed for the preschool classroom
+      type: select_multiple
+      options:
+      - math_books
+      - reading_materials
+      - art_supplies
+      - craft_supplies
+      - music_instruments
+      - computers
+      - tablets
+      - classroom_decorations
+      required: false
+    - id: 5
+      name: classroom_equipment
+      label: Classroom Equipment
+      hint: List the equipment needed for the classroom
+      type: select_multiple
+      options:
+      - chairs
+      - table
+      - whiteboard
+      - projector
+      - mic
+      - speaker
+      - bookshelf
+      - shelves
+      - filing_cabinet
+      - computer_station
+      - water_station
+      required: false
+    - id: 6
+      name: teacher_info
+      label: Teacher Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_year
+      label: School Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: activity_schedule
+      label: Activity Schedule
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 9
+      name: school_term
+      label: School Term
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      - Year-round
+      required: false
+    - id: 10
+      name: school_term_start
+      label: School Term Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: school_term_end
+      label: School Term End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: student_observations
+      label: Student Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: teacher_observations
+      label: Teacher Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false

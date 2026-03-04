@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Franchise Consulting Quotation Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: true
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false

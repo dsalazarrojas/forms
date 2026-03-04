@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packaging Sustainability Webinar Registration
+    pages:
+    - id: 1
+      name: registration_form_1
+      label: Attendee Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registration_form_2
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registration_form_3
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: registration_form_4
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: registration_form_5
+      label: Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: registration_form_6
+      label: Consent
+      hint: 'null'
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: registration_form_7
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registration_form_8
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: registration_form_9
+      label: Time Zone
+      hint: null
+      type: date
+      options: []
+      required: true

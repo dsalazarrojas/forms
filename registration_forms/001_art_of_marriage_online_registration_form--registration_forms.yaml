@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Of Marriage Online Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: marriage_status
+      label: Current Marriage Status
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Married
+      - Engaged
+      - Cohabitating
+      - Other
+      required: true
+    - id: 7
+      name: wedding_anniversary
+      label: Wedding Anniversary Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: spouse_name
+      label: Spouses Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interest_areas
+      label: Areas of Interest
+      hint: What do you hope to focus on
+      type: select_multiple
+      options:
+      - Communication
+      - Conflict Resolution
+      - Financial Planning
+      - Parenting
+      - Spiritual Growth
+      required: false
+    - id: 10
+      name: registration_expectations
+      label: What are your expectations for this program
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Transport Quote Request
+    pages:
+    - id: 1
+      name: vehicle_transport_quote_request_page
+      label: Vehicle Transport Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      required: false
+    - id: 3
+      name: vehicle_size
+      label: Vehicle Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: Vehicle Make
+      hint: e.g., Toyota
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: Vehicle Year
+      hint: YYYY
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: transport_type
+      label: Transport Type
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Land
+      - Sea
+      required: false
+    - id: 8
+      name: transport_location
+      label: Transport Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - California
+      - Florida
+      required: false
+    - id: 9
+      name: pickup_date
+      label: Pickup Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: transport_provider
+      label: Transport Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

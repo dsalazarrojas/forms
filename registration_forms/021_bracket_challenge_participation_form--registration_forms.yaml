@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bracket Challenge Participation Form
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For bracket updates and notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_affiliation
+      label: Favorite Team or School
+      hint: Which team you support
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_event
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Bracket Challenge Event
+      hint: Which bracket challenge are you entering
+      type: select_one
+      options:
+      - NCAA March Madness
+      - NFL Playoffs
+      - NBA Playoffs
+      - College Football
+      - Olympic Bracket
+      - Custom Tournament
+      - Other
+      required: true
+    - id: 8
+      name: event_year
+      label: Event Year
+      hint: Year of the challenge
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: entry_name
+      label: Your Bracket Entry Name
+      hint: Unique name for your bracket
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_predictions
+      label: -- Bracket Predictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: champion_prediction
+      label: Champion Prediction
+      hint: Who do you think will win
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: runner_up_prediction
+      label: Runner-up Prediction
+      hint: Second place pick
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cinderella_pick
+      label: Cinderella Story Pick
+      hint: Surprise upset team
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_strategy
+      label: -- Strategy and Approach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: prediction_strategy
+      label: Prediction Strategy
+      hint: How did you make your picks
+      type: select_one
+      options:
+      - Statistics and analytics
+      - Gut feeling
+      - Seeding only
+      - Home court advantage
+      - Recent performance
+      - Mix of factors
+      - Other
+      required: false
+    - id: 16
+      name: experience_level
+      label: Bracket Challenge Experience
+      hint: How many brackets have you done
+      type: select_one
+      options:
+      - First time
+      - 1-2 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      - Very experienced
+      required: false
+    - id: 17
+      name: section_header_league
+      label: -- League Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: league_name
+      label: League or Group Name
+      hint: If participating in a group league
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: group_code
+      label: League Code or ID
+      hint: Code to join the group
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_consent
+      label: -- Terms and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: terms_agreement
+      label: I agree to bracket challenge rules
+      hint: Check to confirm entry
+      type: select_one
+      options:
+      - I agree and accept
+      - I do not agree
+      required: true

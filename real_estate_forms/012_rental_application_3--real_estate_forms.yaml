@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_application_3
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rental_type
+      label: Rent type
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: true
+    - id: 6
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: move_in_date
+      label: Move in date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: move_in_time
+      label: Move in time
+      hint: null
+      type: time
+      options: []
+      required: false

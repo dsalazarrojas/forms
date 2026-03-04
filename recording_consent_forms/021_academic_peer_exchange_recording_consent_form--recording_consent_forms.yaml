@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Exchange Recording Consent Form
+    pages:
+    - id: 1
+      name: recording_consent_intro
+      label: Academic Peer Exchange Recording Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the person giving consent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email for this participant
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_institution
+      label: Institution
+      hint: University or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exchange_session_title
+      label: Exchange Session Title
+      hint: Title of the academic peer exchange session
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exchange_date
+      label: Exchange Date
+      hint: Date when the exchange session will take place
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: exchange_time
+      label: Exchange Time
+      hint: Start and end time of the exchange session
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recording_types
+      label: Types of Recording
+      hint: What types of recording will occur? (Select all that apply)
+      type: select_multiple
+      options: ["Video recording", "Audio recording", "Screen capture", "Presentation slides", "Chat logs", "Other"]
+      required: true
+    - id: 9
+      name: consent_to_video_recording
+      label: Consent to Video Recording
+      hint: Do you consent to being video recorded during the session?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 10
+      name: consent_to_audio_recording
+      label: Consent to Audio Recording
+      hint: Do you consent to having your voice recorded during the session?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 11
+      name: consent_to_distribution
+      label: Consent to Distribution
+      hint: Do you consent to recordings being distributed to others?
+      type: select_one
+      options: ["Yes, for educational purposes", "Yes, with restrictions", "No, only for session participants", "No, I do not consent"]
+      required: true
+    - id: 12
+      name: consent_to_publication
+      label: Consent to Publication
+      hint: Do you consent to recordings being published online?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with editorial review", "No, not for publication", "Conditional on anonymity"]
+      required: true
+    - id: 13
+      name: recording_purpose
+      label: Purpose of Recording
+      hint: What is the intended purpose of the recording?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: access_restriction_preferences
+      label: Access Restriction Preferences
+      hint: How should access to recordings be restricted?
+      type: select_one
+      options: ["Open to public", "Restricted to institution", "Limited to course participants", "Private to session attendees", "Other restrictions"]
+      required: true
+    - id: 15
+      name: recording_retention_period
+      label: Recording Retention Period
+      hint: How long should recordings be retained?
+      type: select_one
+      options: ["One semester", "One academic year", "Three years", "Permanent", "Until I request removal"]
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Do you have any special requests regarding the recording?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: withdrawal_rights_acknowledged
+      label: Withdrawal Rights Acknowledged
+      hint: Do you understand you can withdraw consent at any time?
+      type: select_one
+      options: ["Yes, I understand", "No, need clarification"]
+      required: true

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Biosafety Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ppe_handling
+      label: ppe_handling
+      hint: null
+      type: select_multiple
+      options:
+      - PPE 1
+      - PPE 2
+      - PPE 3
+      required: false
+    - id: 3
+      name: spill_response
+      label: spill_response
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 4
+      name: biohazard_handling
+      label: biohazard_handling
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: ppe_equipment
+      label: ppe_equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: biohazard_equipment
+      label: biohazard_equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lab_space
+      label: lab_space
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lab_supplies
+      label: lab_supplies
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 9
+      name: biohazard_signage
+      label: biohazard_signage
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 10
+      name: lab_ppe_equipment_location
+      label: lab_ppe_equipment_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: ppe_storage
+      label: ppe_storage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: biohazard_storage
+      label: biohazard_storage
+      hint: null
+      type: text
+      options: []
+      required: false

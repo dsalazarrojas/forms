@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: pattern_recognition_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: What is Pattern Recognition Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pattern_recognition_1
+      label: What is the pattern in the first row?
+      hint: null
+      type: select_one
+      options:
+      - Pattern A
+      - Pattern B
+      - Pattern C
+      required: false
+    - id: 3
+      name: pattern_recognition_2
+      label: What is the pattern in the second row?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 4
+      name: note
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

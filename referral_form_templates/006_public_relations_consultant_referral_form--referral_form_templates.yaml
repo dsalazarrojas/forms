@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Relations Consultant Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - PR Consultant Website
+      - PR Agency
+      - Social Media
+      required: true
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: referral_notes
+      label: Referral Notes
+      hint: null
+      type: note
+      options: []
+      required: false

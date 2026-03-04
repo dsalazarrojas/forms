@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Networking Event Reservation Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: Date of this reservation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: attendee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Company or organization you represent
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_focus
+      label: Primary Business Focus
+      hint: What does your company do?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_selection
+      label: Event Name
+      hint: Which event are you reserving?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: additional_guests
+      label: Additional Guests
+      hint: Number of additional attendees
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: guest_details
+      label: Guest Names and Titles
+      hint: Names and titles of additional guests
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_preference
+      label: Dietary Preference
+      hint: Any dietary restrictions or preferences?
+      type: select_one
+      options:
+      - No Restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut Allergy
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 14
+      name: dietary_other_details
+      label: Dietary Details
+      hint: If other, please specify
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: networking_interests
+      label: Networking Interests
+      hint: What type of connections are you seeking?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: conference_topics
+      label: Topics of Interest
+      hint: What topics interest you most?
+      type: select_multiple
+      options:
+      - Industry Trends
+      - Business Development
+      - Technology Innovation
+      - Marketing Strategy
+      - Financial Planning
+      - Leadership
+      - Partnerships
+      required: false
+    - id: 18
+      name: prior_events
+      label: Previous Event Attendance
+      hint: Have you attended our events before?
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once
+      - No, First Time
+      - Not Sure
+      required: false
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About This Event?
+      hint: What is your referral source?
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Past Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 20
+      name: consent_communications
+      label: Subscribe to event updates and communications
+      hint: May we contact you with event updates?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: terms_agreement
+      label: I agree to the event terms and conditions
+      hint: Accept terms to complete reservation
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

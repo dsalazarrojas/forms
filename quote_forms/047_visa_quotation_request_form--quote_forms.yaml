@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visa Quotation Request Form
+    pages:
+    - id: 1
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_travel_date
+      label: Preferred Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_arrival_date
+      label: Preferred Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: visa_type
+      label: Visa Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Visa Type 1''}'
+      - '{''label'': ''Visa Type 2''}'
+      - '{''label'': ''Visa Type 3''}'
+      - '{''label'': ''Visa Type 4''}'
+      - '{''label'': ''Visa Type 5''}'
+      required: false
+    - id: 10
+      name: preferred_departure_date
+      label: Preferred Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: passport_exp_date
+      label: Passport Exp Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: visa_service_provider
+      label: Visa Service Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service Provider 1''}'
+      - '{''label'': ''Service Provider 2''}'
+      - '{''label'': ''Service Provider 3''}'
+      - '{''label'': ''Service Provider 4''}'
+      - '{''label'': ''Service Provider 5''}'
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

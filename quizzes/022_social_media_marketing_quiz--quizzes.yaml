@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Marketing Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthday
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      - YouTube
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Marketing
+      - Finance
+      - Health
+      - Arts
+      required: true
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: timezone
+      label: Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: marketing_channels
+      label: Marketing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - YouTube
+      - Influencer
+      required: true
+    - id: 15
+      name: marketing_budget
+      label: Marketing Budget
+      hint: null
+      type: number
+      options: []
+      required: false

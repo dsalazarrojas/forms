@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Synonym Quiz
+    pages:
+    - id: 1
+      name: synonym_question
+      label: What is another word for
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: answer
+      label: Answer
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: synonym_response
+      label: Synonym Response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: synonym_feedback
+      label: Feedback
+      hint: Provide feedback
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: synonym_score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: synonym_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: synonym_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: synonym_score_out_of_10
+      label: Score out of 10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: synonym_feedback_out_of_10
+      label: Feedback out of 10
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

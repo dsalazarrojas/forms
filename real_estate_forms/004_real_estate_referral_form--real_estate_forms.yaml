@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Referral Form
+    pages:
+    - id: 1
+      name: real_estate_referral_form
+      label: real_estate_referral_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: real_estate_agent
+      label: real_estate_agent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1''}'
+      - '{''id'': 2, ''name'': ''option_2''}'
+      - '{''id'': 3, ''name'': ''option_3''}'
+      required: false
+    - id: 7
+      name: real_estate_property
+      label: real_estate_property
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''option_1''}'
+      - '{''id'': 2, ''name'': ''option_2''}'
+      - '{''id'': 3, ''name'': ''option_3''}'
+      required: false
+    - id: 8
+      name: real_estate_message
+      label: real_estate_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_message2
+      label: real_estate_message2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_message3
+      label: real_estate_message3
+      hint: null
+      type: text
+      options: []
+      required: false

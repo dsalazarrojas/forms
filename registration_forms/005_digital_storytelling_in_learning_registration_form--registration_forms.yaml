@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Storytelling In Learning Registration Form
+    pages:
+    - id: 1
+      name: workshop_registration
+      label: workshop_registration
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Phone
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participant_background
+      label: participant_background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_format
+      label: preferred_format
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Podcast
+      - Live
+      required: false
+    - id: 9
+      name: participant_preferences
+      label: participant_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

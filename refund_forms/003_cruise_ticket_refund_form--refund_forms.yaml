@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise Ticket Refund Form
+    pages:
+    - id: 1
+      name: cruise_tkt_req_refund
+      label: Submit your request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cruise_tkt_req_refund_reason
+      label: Reason for request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cruise_tkt_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: cruise_tkt_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cruise_tkt_doc1
+      label: Document 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cruise_tkt_doc2
+      label: Document 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cruise_tkt_refund_amt
+      label: Refund amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cruise_tkt_refund_method
+      label: Refund method
+      hint: Select a refund method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: cruise_tkt_refund_method_options
+      label: Refund method options
+      hint: Select multiple refund methods
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: cruise_tkt_confirmed
+      label: Confirmed
+      hint: null
+      type: text
+      options: []
+      required: false

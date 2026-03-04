@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: IELTS Essay Writing Form
+    pages:
+    - id: 1
+      name: essay_question
+      label: Essay Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: essay_answer
+      label: Essay Answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: essay_score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: essay_improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: essay_improvement_areas_other
+      label: Other Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: essay_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: essay_score_comment
+      label: Score Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: essay_score_out_of
+      label: Score Out of
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: essay_total_score
+      label: Total Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: essay_improvement_areas_list
+      label: Improvement Areas List
+      hint: null
+      type: text
+      options: []
+      required: false

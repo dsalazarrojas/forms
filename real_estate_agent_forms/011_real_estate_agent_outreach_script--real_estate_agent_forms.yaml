@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: real-estate-agent-outreach-script
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preferred_communication_method
+      label: preferred-communication-method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lead_source
+      label: lead-source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_preferences
+      label: property-preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: preferred-contact-method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: call_schedule
+      label: call-schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: meeting_schedule
+      label: meeting-schedule
+      hint: null
+      type: time
+      options: []
+      required: false

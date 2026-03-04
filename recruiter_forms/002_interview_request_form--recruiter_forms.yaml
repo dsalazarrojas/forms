@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: interview_request_form
+    pages:
+    - id: 1
+      name: candidate_information
+      label: candidate_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interviewers
+      label: interviewers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''John Smith'', ''value'': ''John Smith''}'
+      - '{''name'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - '{''name'': ''Bob Johnson'', ''value'': ''Bob Johnson''}'
+      required: false
+    - id: 7
+      name: preferred_interview_time
+      label: preferred_interview_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_interview_date
+      label: preferred_interview_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Monday'', ''value'': ''Monday''}'
+      - '{''name'': ''Tuesday'', ''value'': ''Tuesday''}'
+      - '{''name'': ''Wednesday'', ''value'': ''Wednesday''}'
+      - '{''name'': ''Thursday'', ''value'': ''Thursday''}'
+      - '{''name'': ''Friday'', ''value'': ''Friday''}'
+      - '{''name'': ''Saturday'', ''value'': ''Saturday''}'
+      - '{''name'': ''Sunday'', ''value'': ''Sunday''}'
+      required: false
+    - id: 10
+      name: interview_type
+      label: interview_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''phone'', ''value'': ''phone''}'
+      - '{''name'': ''video'', ''value'': ''video''}'
+      - '{''name'': ''in_person'', ''value'': ''in-person''}'
+      - '{''name'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 11
+      name: interview_details
+      label: interview_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false

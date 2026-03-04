@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional-reference-form
+    pages:
+    - id: 1
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_employer_name
+      label: job employer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_employer_website
+      label: job employer website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_employer_contact_info
+      label: job employer contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reference_name
+      label: reference name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reference_email
+      label: reference email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: reference_phone
+      label: reference phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reference_linkedin_profile
+      label: reference linkedin profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_twitter_profile
+      label: reference twitter profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reference_facebook_profile
+      label: reference facebook profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: professional_referral_message
+      label: professional referral message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: rating_score
+      label: rating score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: professional_referral_score_reason
+      label: professional referral score reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: recommended_for_position
+      label: recommended for position
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: recommended_for_hire
+      label: recommended for hire
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: overall_quality_of_candidate
+      label: overall quality of candidate
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - satisfactory
+      - unsatisfactory
+      required: true
+    - id: 17
+      name: professional_referral_score
+      label: professional referral score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: professional_referral_score_reason
+      label: professional referral score reason
+      hint: null
+      type: note
+      options: []
+      required: true

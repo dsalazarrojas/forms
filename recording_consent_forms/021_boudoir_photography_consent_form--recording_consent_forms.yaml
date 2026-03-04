@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boudoir Photography Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_dob
+      label: Date of Birth
+      hint: MM/DD/YYYY - must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age_confirmation
+      label: Age Confirmation
+      hint: I confirm I am at least 18 years old
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - false
+      required: true
+    - id: 5
+      name: client_address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_email
+      label: Email Address
+      hint: For session communications
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: photographer_name
+      label: Photographer Name
+      hint: Full name of photographer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: studio_name
+      label: Studio Name
+      hint: Name of photography studio
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: session_date
+      label: Session Date
+      hint: Scheduled date of photoshoot
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: session_type
+      label: Session Type
+      hint: Type of boudoir session
+      type: select_one
+      options:
+      - Classic boudoir
+      - implied nude
+      - artistic nude
+      - couples boudoir
+      - bridal boudoir
+      - other
+      required: true
+    - id: 12
+      name: comfort_level
+      label: Comfort Level
+      hint: Describe your comfort level with this type of photography
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: image_usage_consent
+      label: Image Usage Consent
+      hint: How may your images be used
+      type: select_one
+      options:
+      - Portfolio use only
+      - Portfolio and social media
+      - Portfolio, social media, and marketing
+      - Private use only - no public display
+      - Private with photographer discretion
+      required: true
+    - id: 14
+      name: third_party_sharing
+      label: Third Party Sharing
+      hint: Can images be shared with third parties
+      type: select_one
+      options:
+      - No, never
+      - Yes, with my approval
+      - Yes, at photographer discretion
+      required: true
+    - id: 15
+      name: retouching_preferences
+      label: Retouching Preferences
+      hint: What level of retouching do you prefer
+      type: select_one
+      options:
+      - Minimal - natural look
+      - Moderate - smooth skin only
+      - Extensive - full retouching
+      - undecided
+      required: true
+    - id: 16
+      name: image_delivery_format
+      label: Image Delivery Format
+      hint: How do you want to receive images
+      type: select_multiple
+      options:
+      - Digital download
+      - USB drive
+      - Printed album
+      - Wall art
+      - Online gallery
+      required: true
+    - id: 17
+      name: privacy_concerns
+      label: Privacy Concerns
+      hint: Do you have any specific privacy concerns
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: support_person
+      label: Support Person
+      hint: Will you bring a support person
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: wardrobe_changes
+      label: Wardrobe Changes
+      hint: How many outfit changes planned
+      type: select_one
+      options:
+      - 1-2 outfits
+      - 3-4 outfits
+      - 5 or more outfits
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests or requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, please explain
+      required: true
+    - id: 22
+      name: payment_terms
+      label: Payment Terms
+      hint: I understand the payment terms
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 23
+      name: voluntary_participation
+      label: Voluntary Participation
+      hint: I am participating voluntarily without coercion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: right_to_withdraw
+      label: Right to Withdraw
+      hint: I understand I can withdraw consent at any time during the session
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 25
+      name: client_signature
+      label: Client Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: photographer_signature
+      label: Photographer Signature
+      hint: Photographer signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subcontractor Service Quote Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_informations
+      label: General Informations
+      hint: null
+      type: select_one
+      options:
+      - 1 - Bidder's Name
+      - 2 - Bidder's Contact
+      - 3 - Bidder's Email
+      - 4 - Bidder's Phone
+      required: false
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: select_one
+      options:
+      - 1 - Electrical
+      - 2 - Plumbing
+      - 3 - Carpentry
+      - 4 - Painting
+      required: false
+    - id: 4
+      name: subcontractor_info
+      label: Subcontractor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_estimates
+      label: Service Estimates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_estimates_1
+      label: Electrical Service Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_estimates_2
+      label: Plumbing Service Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_estimates_3
+      label: Carpentry Service Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: service_estimates_4
+      label: Painting Service Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: timeline
+      label: Timeline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

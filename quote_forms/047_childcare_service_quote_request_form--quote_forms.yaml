@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Service Quote Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of quote request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_type_requested
+      label: Service Type Requested
+      hint: What type of childcare service are you seeking?
+      type: select_one
+      options:
+      - In-home daycare
+      - Center-based care
+      - Nanny services
+      - Babysitting services
+      - After-school care
+      - Weekend care
+      - Overnight care
+      - Emergency care
+      - Other
+      required: true
+    - id: 11
+      name: number_of_children
+      label: Number of Children
+      hint: How many children need care?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: children_ages
+      label: Children Ages
+      hint: List ages of all children needing care
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: care_schedule_needed
+      label: Care Schedule Needed
+      hint: What schedule do you need?
+      type: select_one
+      options:
+      - Full-time (40+ hours per week)
+      - Part-time (20-40 hours per week)
+      - Half-time (10-20 hours per week)
+      - Occasional or as-needed
+      - Weekend only
+      - Overnight
+      required: true
+    - id: 14
+      name: days_of_week
+      label: Days of Week
+      hint: Which days do you need care?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 15
+      name: hours_per_day
+      label: Hours Per Day
+      hint: How many hours per day do you need?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: start_date_needed
+      label: Start Date Needed
+      hint: When do you need care to begin?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: duration_of_care
+      label: Duration of Care
+      hint: How long will you need care?
+      type: select_one
+      options:
+      - Ongoing, indefinite
+      - 6 months or more
+      - 3 to 6 months
+      - 1 to 3 months
+      - Less than 1 month
+      - One-time event
+      required: true
+    - id: 18
+      name: special_needs_care
+      label: Special Needs Care
+      hint: Do any children require special needs care?
+      type: select_one
+      options:
+      - Yes, specialized care needed
+      - Yes, minor accommodations
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: special_needs_details
+      label: Special Needs Details
+      hint: Describe special needs or accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: meal_services_needed
+      label: Meal Services Needed
+      hint: Do you need meal services included?
+      type: select_one
+      options:
+      - Yes, all meals
+      - Yes, lunch and snacks
+      - Yes, snacks only
+      - No, will provide all food
+      required: true
+    - id: 21
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need transportation services?
+      type: select_one
+      options:
+      - Yes, to school or activities
+      - Yes, from school or activities
+      - Yes, both ways
+      - No transportation needed
+      required: true
+    - id: 22
+      name: additional_services
+      label: Additional Services
+      hint: Any additional services needed?
+      type: select_multiple
+      options:
+      - Homework help
+      - Tutoring
+      - Light housekeeping
+      - Laundry
+      - Pet care
+      - None
+      - Other
+      required: false
+    - id: 23
+      name: preferred_care_environment
+      label: Preferred Care Environment
+      hint: What type of environment do you prefer?
+      type: select_one
+      options:
+      - Home-like setting
+      - Center-based setting
+      - Outdoor-focused setting
+      - No preference
+      required: true
+    - id: 24
+      name: budget_range
+      label: Budget Range
+      hint: What is your expected budget per week?
+      type: select_one
+      options:
+      - Under $200
+      - $200 to $400
+      - $400 to $600
+      - $600 to $800
+      - $800 to $1000
+      - Over $1000
+      - Flexible based on services
+      required: true
+    - id: 25
+      name: subsidy_or_assistance
+      label: Subsidy or Assistance
+      hint: Will you be using childcare subsidy or assistance?
+      type: select_one
+      options:
+      - Yes, currently receiving
+      - Yes, plan to apply
+      - false
+      - Unsure
+      required: true
+    - id: 26
+      name: how_did_you_hear_about_us
+      label: How Did You Hear About Us
+      hint: How did you learn about our services?
+      type: select_one
+      options:
+      - Online search
+      - Referral from friend or family
+      - Social media
+      - Community event
+      - School referral
+      - Other
+      required: true
+    - id: 27
+      name: additional_questions_or_requirements
+      label: Additional Questions or Requirements
+      hint: Any additional questions or special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you prefer to be contacted?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Any method
+      required: true
+    - id: 29
+      name: best_contact_time
+      label: Best Contact Time
+      hint: What is the best time to contact you?
+      type: select_one
+      options:
+      - Morning (8 AM to 12 PM)
+      - Afternoon (12 PM to 5 PM)
+      - Evening (5 PM to 8 PM)
+      - Any time
+      required: true

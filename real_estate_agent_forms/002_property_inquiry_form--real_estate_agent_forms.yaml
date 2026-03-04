@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_inquiry_form
+    pages:
+    - id: 1
+      name: property_inquiry_form_page_1
+      label: property_inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''name'': ''property_type_1'', ''label'': ''Single''}'
+      - '{''id'': 2.2, ''name'': ''property_type_2'', ''label'': ''Multi-unit''}'
+      - '{''id'': 2.3, ''name'': ''property_type_3'', ''label'': ''Townhouse''}'
+      required: true
+    - id: 3
+      name: property_size
+      label: square_footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: price_range
+      label: price_range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5.1, ''name'': ''price_range_1'', ''label'': ''Low''}'
+      - '{''id'': 5.2, ''name'': ''price_range_2'', ''label'': ''Medium''}'
+      - '{''id'': 5.3, ''name'': ''price_range_3'', ''label'': ''High''}'
+      required: true
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_inquiry
+      label: property_inquiry
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_interest
+      label: date_of_interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_interest
+      label: time_of_interest
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

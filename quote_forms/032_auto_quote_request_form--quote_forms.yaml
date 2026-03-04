@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Quote Request Form
+    pages:
+    - id: 1
+      name: customer_contact_header
+      label: -- Customer Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Full name of the person requesting the quote
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city_state
+      label: City and State
+      hint: Primary location for the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_request_header
+      label: -- Vehicle Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: e.g. Nissan Sentra
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: annual_mileage
+      label: Estimated Annual Mileage
+      hint: How much do you drive in a year?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: history_discounts_header
+      label: -- History and Discounts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_discount
+      label: Student Discount Eligible
+      hint: For full-time students with good grades
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: military_discount
+      label: Military Discount Eligible
+      hint: For active duty or veterans
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: safe_driver_interest
+      label: Safe Driver Program Interest
+      hint: Would you use a telematics device for lower rates?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: number_of_drivers
+      label: Number of Drivers
+      hint: How many drivers will be on the policy?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: specific_requests
+      label: Specific Coverage Requests
+      hint: Any other details we should know
+      type: text
+      options: []
+      required: false

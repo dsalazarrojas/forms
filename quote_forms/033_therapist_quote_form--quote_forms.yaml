@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Quote Form
+    pages:
+    - id: 1
+      name: client_input
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: What type of session are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: frequency
+      label: How often would you like to meet?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: What date would you like to start?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: What date would you like to end?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: What time of day would you like to meet?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: How long would you like the session to last?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cost
+      label: What is your available budget for the session?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: How would you like to pay for the session?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: policies
+      label: Please review our policies and procedures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: This is where you will see your next steps.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

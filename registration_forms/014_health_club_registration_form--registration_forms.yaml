@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Club Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic Membership
+      - Premium Membership
+      - Personalized Plan
+      required: false
+    - id: 6
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

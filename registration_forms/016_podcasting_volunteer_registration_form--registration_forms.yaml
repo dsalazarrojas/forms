@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcasting Volunteer Registration Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: What is the name of your organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position_title
+      label: Position Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_details
+      label: What kind of volunteering opportunity are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Event Planning''}'
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Audio Engineering''}'
+      - '{''value'': ''Content Creation''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': None}'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_registration
+      label: Time of Registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Comments or Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mathematics Qualification Registration
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High School''}'
+      - '{''id'': 2, ''label'': ''Bachelor Degree''}'
+      - '{''id'': 3, ''label'': ''Doctoral''}'
+      required: false
+    - id: 3
+      name: exam_preferences
+      label: Exam Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Mathematics''}'
+      - '{''id'': 2, ''label'': ''Statistics''}'
+      - '{''id'': 3, ''label'': ''Calculus''}'
+      required: false
+    - id: 4
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_exam_time
+      label: Preferred Exam Time
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: false
+    - id: 8
+      name: preferred_exam_date
+      label: Preferred Exam Date
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Today''}'
+      - '{''id'': 2, ''label'': ''Next Week''}'
+      - '{''id'': 3, ''label'': ''Next Month''}'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

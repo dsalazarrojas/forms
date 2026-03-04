@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Approval Form
+    pages:
+    - id: 1
+      name: agent_name
+      label: Agent name
+      hint: Name of salesperson requesting approval
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property address
+      hint: Address related to commission
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: transaction_amount
+      label: Transaction amount
+      hint: Enter whole number amount
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: commission_percentage
+      label: Commission percentage
+      hint: Numeric percent value
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: approval_required_by
+      label: Approval required by
+      hint: Manager or department name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: approval_status
+      label: Approval status
+      hint: Select current status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 7
+      name: approval_notes
+      label: Approval notes
+      hint: Optional reviewer comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_request
+      label: Date of request
+      hint: When approval was requested
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: approver_name
+      label: Approver name
+      hint: Name of manager approving request
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Quote Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Quote Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Legal or trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact name
+      hint: Primary contact for quote
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For sending the quote
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: coverage_needed
+      label: Coverage needed
+      hint: Select coverage types required
+      type: select_multiple
+      options:
+      - Liability
+      - Property
+      - Cyber
+      - Business interruption
+      required: true
+    - id: 6
+      name: estimated_value
+      label: Estimated value at risk
+      hint: Total insured value estimate
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_locations
+      label: Number of locations
+      hint: Premises to be covered
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: prior_claims
+      label: Prior claims in last 5 years
+      hint: Brief details if any
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: Best way to reach for questions
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In person
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information required for the quote
+      type: text
+      options: []
+      required: false

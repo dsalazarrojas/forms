@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referal Form
+    pages:
+    - id: 1
+      name: real_estate_form_1
+      label: referal_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_form_2
+      label: real_estate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: real_estate_form_3
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: real_estate_form_4
+      label: referal_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''new'', ''value'': ''new''}'
+      - '{''id'': 2, ''label'': ''old'', ''value'': ''old''}'
+      required: true
+    - id: 5
+      name: real_estate_form_5
+      label: referal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: real_estate_form_6
+      label: referal_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: real_estate_form_7
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_form_8
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_form_9
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false

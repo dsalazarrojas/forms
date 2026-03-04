@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Photography Contract
+    pages:
+    - id: 1
+      name: event_photography_contract_form
+      label: Event Photography Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_info
+      label: Photographer Information
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Freelance
+      - Both
+      required: false
+    - id: 3
+      name: client_info
+      label: Client Information
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Freelance
+      - Both
+      required: false
+    - id: 4
+      name: event_info
+      label: Event Information
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Event
+      - Party
+      required: false
+    - id: 5
+      name: services
+      label: Photography Services
+      hint: null
+      type: select_multiple
+      options:
+      - Portrait
+      - Event Coverage
+      - Both
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contract_start
+      label: Start Date of Contract
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contract_end
+      label: End Date of Contract
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: photographer_agreement
+      label: Client Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: client_agreement
+      label: Photographer Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: payment_terms_agreed
+      label: Payment Terms Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false

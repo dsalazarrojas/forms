@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regulator Registration Form
+    pages:
+    - id: 1
+      name: main_form
+      label: Main Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: select_one_regulatory_body
+      label: Regulatory Body
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8, ''name'': ''Select One Option 1'', ''label'': ''Select One Option
+        1''}'
+      - '{''id'': 9, ''name'': ''Select One Option 2'', ''label'': ''Select One Option
+        2''}'
+      - '{''id'': 10, ''name'': ''Select One Option 3'', ''label'': ''Select One Option
+        3''}'
+      required: false

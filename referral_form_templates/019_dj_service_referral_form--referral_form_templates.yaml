@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Service Referral Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_message
+      label: contact_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New Client'', ''label'': ''New Client''}'
+      - '{''value'': ''Returning Client'', ''label'': ''Returning Client''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Wedding'', ''label'': ''Wedding''}'
+      - '{''value'': ''Corporate Event'', ''label'': ''Corporate Event''}'
+      - '{''value'': ''Private Party'', ''label'': ''Private Party''}'
+      - '{''value'': ''Bar/Bat Mitzvah'', ''label'': ''Bar/Bat Mitzvah''}'
+      - '{''value'': ''Club Night'', ''label'': ''Club Night''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: contact_date
+      label: contact_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_time
+      label: contact_time
+      hint: null
+      type: time
+      options: []
+      required: false

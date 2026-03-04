@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portrait Session Quote Request
+    pages:
+    - id: 1
+      name: portrait_session_quote_request_form
+      label: Portrait Session Quote Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_details
+      label: Session Details
+      hint: Provide details about the session such as location and date.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - Portrait Session
+      - Newborn Session
+      - Family Session
+      required: false
+    - id: 7
+      name: photo_locations
+      label: Photo Locations
+      hint: null
+      type: select_multiple
+      options:
+      - Studio
+      - Location (Client's home)
+      - Location (Unknown)
+      - Location (Studio/Outdoor)
+      required: false
+    - id: 8
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: quote_budget
+      label: Quote Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_option
+      label: Payment Option
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Cash on Delivery
+      - Credit Card
+      - Other
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

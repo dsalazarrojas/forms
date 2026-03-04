@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Vehicle Registration Renewal Form
+    pages:
+    - id: 1
+      name: section_renewal_info
+      label: -- Renewal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renewal_type
+      label: Renewal Type
+      hint: Select the type of registration renewal
+      type: select_one
+      options:
+      - Individual Commercial Vehicle
+      - Fleet Renewal (multiple vehicles)
+      required: true
+    - id: 3
+      name: section_registrant_details
+      label: -- Registrant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: registrant_name
+      label: Registered Owner Full Name or Business Name
+      hint: Name as it appears on current registration
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registrant_address
+      label: Registered Address
+      hint: Include street, city, state, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address for Confirmation
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: section_vehicle_identification
+      label: -- Vehicle Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_vin_renewal
+      label: Vehicle Identification Number (VIN)
+      hint: Required for verification
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: license_plate_renewal
+      label: Current License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: gross_vehicle_weight
+      label: Gross Vehicle Weight Rating (GVWR)
+      hint: Pounds (lbs)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Hybrid
+      - CNG/LPG
+      required: true
+    - id: 13
+      name: registration_term
+      label: Renewal Term Duration
+      hint: Select the renewal period
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      required: true
+    - id: 14
+      name: section_compliance
+      label: -- Compliance and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: insurance_policy_number
+      label: Commercial Insurance Policy Number
+      hint: Policy must be active through the new registration term
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: dot_number
+      label: US DOT Number
+      hint: Required for commercial interstate commerce
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: safety_inspection_passed
+      label: Has the vehicle passed a safety inspection in the last 12 months
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: inspection_date
+      label: Date of Last Safety Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: signature_confirmation
+      label: I confirm the information is correct and the vehicle is properly insured
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true

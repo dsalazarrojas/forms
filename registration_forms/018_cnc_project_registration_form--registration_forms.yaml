@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNC Project Registration Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For project updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Name your project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: Brief overview of your project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_type
+      label: Project Type
+      hint: Select category
+      type: select_one
+      options:
+      - Prototype Development
+      - Production Run
+      - Custom Part Fabrication
+      - Repair or Modification
+      - Research and Development
+      - Educational Project
+      - Other
+      required: true
+    - id: 9
+      name: material_type
+      label: Material Type
+      hint: What material will be machined
+      type: select_one
+      options:
+      - Aluminum
+      - Steel
+      - Stainless Steel
+      - Brass
+      - Copper
+      - Titanium
+      - Plastics
+      - Wood
+      - Composites
+      - Other
+      required: true
+    - id: 10
+      name: material_specifications
+      label: Material Specifications
+      hint: Grade alloy or specific type
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: part_dimensions
+      label: Part Dimensions
+      hint: Length x Width x Height
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tolerances_required
+      label: Tolerance Requirements
+      hint: Precision specifications
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: quantity_needed
+      label: Quantity Needed
+      hint: Number of parts
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: design_files
+      label: Design Files Status
+      hint: Do you have CAD files
+      type: select_one
+      options:
+      - Yes - CAD Files Ready
+      - Yes - Drawings Only
+      - Need Design Services
+      - Have Physical Sample
+      required: true
+    - id: 15
+      name: file_upload_note
+      label: File Upload Instructions
+      hint: Please email CAD files to projects@example.com with your project name
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: surface_finish
+      label: Surface Finish Requirements
+      hint: Desired finish quality
+      type: select_one
+      options:
+      - As Machined
+      - Light Deburring
+      - Polished
+      - Anodized
+      - Powder Coated
+      - Plated
+      - Other
+      required: true
+    - id: 17
+      name: secondary_operations
+      label: Secondary Operations Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Heat Treating
+      - Hard Coating
+      - Engraving
+      - Assembly
+      - Quality Inspection
+      - Packaging
+      required: true
+    - id: 18
+      name: quality_requirements
+      label: Quality Requirements
+      hint: Inspection needs
+      type: select_one
+      options:
+      - Standard Inspection
+      - First Article Inspection
+      - Full CMM Report
+      - Certified Materials
+      - ISO Documentation
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1000
+      - $1000 to $5000
+      - $5000 to $10000
+      - Over $10000
+      - To Be Quoted
+      required: true
+    - id: 20
+      name: deadline
+      label: Project Deadline
+      hint: When do you need completion
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this project
+      type: select_one
+      options:
+      - Rush - ASAP
+      - High - Within 1 Week
+      - Medium - Within 2 Weeks
+      - Low - Flexible Timeline
+      required: true
+    - id: 22
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Social Media
+      - Trade Show
+      - Search Engine
+      - Previous Customer
+      - Other
+      required: false
+    - id: 23
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

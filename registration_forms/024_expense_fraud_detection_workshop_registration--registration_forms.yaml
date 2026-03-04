@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Fraud Detection Workshop Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Attendee''}'
+      - '{''name'': ''Delegate''}'
+      - '{''name'': ''Guest''}'
+      required: false
+    - id: 8
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Registered''}'
+      - '{''name'': ''Confirmed''}'
+      - '{''name'': ''Cancelled''}'
+      required: true

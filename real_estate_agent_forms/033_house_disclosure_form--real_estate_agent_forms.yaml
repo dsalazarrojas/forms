@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Disclosure Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seller
+      label: Seller
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buyer
+      label: Buyer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Duplex
+      - Apartment
+      required: false
+    - id: 5
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false

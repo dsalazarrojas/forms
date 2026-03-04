@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Highlight Reel Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_age
+      label: Age
+      hint: How old are you
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: guardian_required
+      label: Parental Consent Required
+      hint: Are you under 18
+      type: select_one
+      options:
+      - Yes, I am Under 18
+      - No, I am 18 or Older
+      required: true
+    - id: 6
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guardian_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: video_permission
+      label: Permission to Record Video
+      hint: Can we film you for the highlight reel
+      type: select_one
+      options:
+      - Yes, I Give Permission
+      - No, I Do Not Give Permission
+      required: true
+    - id: 9
+      name: photo_permission
+      label: Permission to Take Photos
+      hint: Can we take photos of you
+      type: select_one
+      options:
+      - Yes, I Give Permission
+      - No, I Do Not Give Permission
+      required: true
+    - id: 10
+      name: audio_permission
+      label: Permission to Record Audio
+      hint: Can we record your voice
+      type: select_one
+      options:
+      - Yes, I Give Permission
+      - No, I Do Not Give Permission
+      required: true
+    - id: 11
+      name: social_media_permission
+      label: Permission to Use on Social Media
+      hint: Can we post on social media
+      type: select_one
+      options:
+      - Yes, Full Social Media Permission
+      - Social Media But Not Tagged
+      - No Social Media
+      - No Permission
+      required: true
+    - id: 12
+      name: public_use_permission
+      label: Permission for Public Use
+      hint: Can recordings be used publicly
+      type: select_one
+      options:
+      - Yes, Any Public Use
+      - Club Use Only
+      - Private Events Only
+      - No Public Use
+      required: true
+    - id: 13
+      name: duration_limit
+      label: Duration Limit for Use
+      hint: How long can recordings be used
+      type: select_one
+      options:
+      - One Season or Event Only
+      - One Year
+      - Indefinite
+      - Other
+      required: false
+    - id: 14
+      name: compensation_awareness
+      label: Awareness of Compensation
+      hint: Are you aware if there is compensation
+      type: select_one
+      options:
+      - Yes, Informed of Compensation
+      - No Compensation Expected
+      - Unsure
+      required: false
+    - id: 15
+      name: additional_terms
+      label: Additional Terms or Restrictions
+      hint: Any other restrictions or requests
+      type: text
+      options: []
+      required: false

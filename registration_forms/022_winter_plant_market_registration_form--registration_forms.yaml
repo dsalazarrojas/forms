@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Plant Market Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_names
+      label: Product Name
+      hint: null
+      type: select_multiple
+      options:
+      - Apple Tree
+      - Cherry Tree
+      - Maple Tree
+      - Other (Specify in notes)
+      required: false
+    - id: 6
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false

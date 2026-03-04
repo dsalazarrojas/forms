@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_purchase_approval_form
+    pages:
+    - id: 1
+      name: real_estate_purchase_form
+      label: real_estate_purchase_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''residential''}'
+      - '{''id'': 2, ''name'': ''commercial''}'
+      - '{''id'': 3, ''name'': ''agricultural''}'
+      required: true
+    - id: 4
+      name: purchase_price
+      label: purchase_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      - '{''id'': 3, ''name'': ''pending''}'
+      required: true
+    - id: 6
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''excellent''}'
+      - '{''id'': 2, ''name'': ''good''}'
+      - '{''id'': 3, ''name'': ''average''}'
+      - '{''id'': 4, ''name'': ''poor''}'
+      required: true
+    - id: 7
+      name: property_features
+      label: property_features
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: property_value
+      label: property_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: property_area
+      label: property_area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: property_owner_name
+      label: property_owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_owner_address
+      label: property_owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_owner_phone
+      label: property_owner_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: property_owner_email
+      label: property_owner_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: property_owner_relationship
+      label: property_owner_relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''friend''}'
+      - '{''id'': 2, ''name'': ''family''}'
+      - '{''id'': 3, ''name'': ''colleague''}'
+      required: true
+    - id: 17
+      name: property_inspection_fee
+      label: property_inspection_fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: property_inspection_fee_frequency
+      label: property_inspection_fee_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''once''}'
+      - '{''id'': 2, ''name'': ''twice''}'
+      - '{''id'': 3, ''name'': ''quarterly''}'
+      required: true
+    - id: 19
+      name: property_inspector_comments
+      label: property_inspector_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: property_inspector_signature
+      label: property_inspector_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: property_approver_signature
+      label: property_approver_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: property_purchase_approval
+      label: property_purchase_approval
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: property_rejection_reason
+      label: property_rejection_reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: property_additional_comments
+      label: property_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: property_reviewed_by
+      label: property_reviewed_by
+      hint: null
+      type: text
+      options: []
+      required: false

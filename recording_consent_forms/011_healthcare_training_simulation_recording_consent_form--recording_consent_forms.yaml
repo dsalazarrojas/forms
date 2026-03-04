@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Training Simulation Recording Consent Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_information
+      label: Course Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: simulation_start
+      label: simulation_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: simulation_end
+      label: simulation_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: record_screener
+      label: record_screener
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: record_audio
+      label: record_audio
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: record_video
+      label: record_video
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: record_screen
+      label: record_screen
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: record_audio_and_video
+      label: record_audio_and_video
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: record_screen_and_video
+      label: record_screen_and_video
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: record_screen_and_audio
+      label: record_screen_and_audio
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: record_all
+      label: record_all
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

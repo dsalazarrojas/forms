@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Trauma Management Quiz
+    pages:
+    - id: 1
+      name: dental_trauma_management_quiz_form_1
+      label: What is the primary concern when managing a dental trauma patient?
+      hint: This question is for testing the primary concern.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_age
+      label: Patient age
+      hint: Enter patient age.
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical history
+      hint: Enter patient medical history.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dental_history
+      label: Dental history
+      hint: Enter dental history.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dental_trauma_management_1
+      label: Which of the following is the most likely treatment for a patient with
+        a dental avulsion?
+      hint: Select one treatment option.
+      type: select_one
+      options:
+      - splint
+      - extraction
+      - observation
+      - other
+      required: true
+    - id: 6
+      name: dental_trauma_management_2
+      label: Which of the following is the most likely treatment for a patient with
+        a dental fracture?
+      hint: Select one treatment option.
+      type: select_one
+      options:
+      - observation
+      - splint
+      - extraction
+      - other
+      required: true
+    - id: 7
+      name: dental_trauma_management_3
+      label: Which of the following is the most likely treatment for a patient with
+        a dental subluxation?
+      hint: Select one treatment option.
+      type: select_one
+      options:
+      - splint
+      - extraction
+      - observation
+      - other
+      required: true
+    - id: 8
+      name: dental_trauma_management_4
+      label: Which of the following is the most likely treatment for a patient with
+        a dental luxation?
+      hint: Select one treatment option.
+      type: select_one
+      options:
+      - splint
+      - extraction
+      - observation
+      - other
+      required: true
+    - id: 9
+      name: dental_trauma_management_5
+      label: Which of the following is the most likely treatment for a patient with
+        a periapical lesion?
+      hint: Select one treatment option.
+      type: select_one
+      options:
+      - splint
+      - extraction
+      - other
+      required: true
+    - id: 10
+      name: dental_trauma_management_6
+      label: Which of the following is the most likely treatment for a patient with
+        a pulpal lesion?
+      hint: Select one treatment option.
+      type: select_one
+      options:
+      - splint
+      - extraction
+      - other
+      required: true

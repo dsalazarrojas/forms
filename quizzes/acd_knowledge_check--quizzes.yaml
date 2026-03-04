@@ -1,0 +1,194 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACD Knowledge Check
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- ACD Knowledge Check Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send your results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Enter your 6-digit employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Select your primary department
+      type: select_one
+      options:
+      - Sales
+      - Customer Support
+      - Technical Support
+      - Operations
+      - Training
+      - Quality Assurance
+      required: true
+    - id: 6
+      name: date
+      label: Date of assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: previous_training
+      label: Have you completed previous ACD training modules?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all modules
+      - Yes, most modules
+      - Yes, some modules
+      - No, this is my first
+      required: true
+    - id: 8
+      name: confidence_level
+      label: Rate your confidence level with ACD systems (1-10)
+      hint: 1 = Not confident, 10 = Extremely confident
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: call_handling_time
+      label: Average call handling time (minutes)
+      hint: Enter as decimal (e.g., 5.5 for 5 minutes 30 seconds)
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: satisfaction
+      label: How satisfied are you with ACD Knowledge Check?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: system_features_used
+      label: Which ACD features do you regularly use? (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Call routing
+      - Queue management
+      - Caller ID display
+      - Call recording
+      - Reporting tools
+      - Callback scheduling
+      - CRM integration
+      required: true
+    - id: 12
+      name: difficulty_areas
+      label: Which areas do you find most challenging? (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Call prioritization
+      - Escalation procedures
+      - System troubleshooting
+      - Customer data lookup
+      - Multi-line handling
+      - Reporting accuracy
+      required: true
+    - id: 13
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: experience_aspects
+      label: Which aspects applied to your experience with ACD Knowledge Check? (select
+        all)
+      hint: null
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      - Comprehensive coverage
+      - Clear instructions
+      required: false
+    - id: 15
+      name: training_effectiveness
+      label: How effective was the training in preparing you for real scenarios?
+      hint: null
+      type: select_one
+      options:
+      - Extremely effective
+      - Very effective
+      - Moderately effective
+      - Slightly effective
+      - Not effective
+      required: true
+    - id: 16
+      name: support_needed
+      label: What additional support would help you with ACD systems?
+      hint: null
+      type: select_multiple
+      options:
+      - More practice scenarios
+      - Video tutorials
+      - Quick reference guides
+      - One-on-one coaching
+      - Advanced features training
+      - Troubleshooting guide
+      required: false
+    - id: 17
+      name: open_feedback
+      label: What would you improve or change about ACD Knowledge Check?
+      hint: Please be specific about your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other feedback about the ACD system or training
+      type: text
+      options: []
+      required: false

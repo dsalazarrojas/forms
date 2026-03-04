@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notice Of Entry Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: Address of the property
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: unit
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purpose_of_entry
+      label: Purpose of Entry
+      hint: null
+      type: select_multiple
+      options:
+      - Rental inspection
+      - Maintenance
+      - Repair
+      - Other
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

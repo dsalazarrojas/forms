@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Housing Discrimination Disclosure Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_status
+      label: Tenant Status
+      hint: null
+      type: select_one
+      options:
+      - Currently employed
+      - Not employed
+      - Recently unemployed
+      - Retired
+      required: false
+    - id: 3
+      name: discrimination_status
+      label: Discrimination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Racial or ethnic origin
+      - Gender
+      - Sexual orientation or gender identity
+      - Disability
+      - Pregnancy or marital status
+      - Age
+      - Other (specify)
+      required: false
+    - id: 4
+      name: housing_status
+      label: Housing Status
+      hint: null
+      type: select_multiple
+      options:
+      - Currently renting
+      - Currently own a home
+      - Recently sold a home
+      - Never owned a home
+      - Renting from relative
+      required: false
+    - id: 5
+      name: reason_for_move
+      label: Reason For Move
+      hint: null
+      type: select_multiple
+      options:
+      - Job or career change
+      - Family or family planning
+      - School or education
+      - Medical
+      - Financial
+      - Partner or family member
+      - Other (specify)
+      required: false
+    - id: 6
+      name: housing_disclosure_details
+      label: Housing Discrimination Disclosure Details
+      hint: This information will be used for housing discrimination purposes only.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

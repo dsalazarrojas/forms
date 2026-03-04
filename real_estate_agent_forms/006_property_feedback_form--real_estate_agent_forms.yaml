@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Feedback Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Sold
+      required: false
+    - id: 3
+      name: property_type
+      label: Type of Property
+      hint: null
+      type: select_multiple
+      options:
+      - Condo
+      - House
+      - Townhouse
+      required: false
+    - id: 4
+      name: property_price
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_agent
+      label: Property Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_source
+      label: Source
+      hint: Where did you get your property information
+      type: select_one
+      options:
+      - Online
+      - Agent
+      - Social Media
+      - Word of Mouth
+      - Other
+      required: false
+    - id: 8
+      name: feedback_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: feedback_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_applicant_screening
+    pages:
+    - id: 1
+      name: real_estate_agent_applicant_screening_page
+      label: Real Estate Agent Applicant Screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - '{''option_0'': ''Broker''}'
+      - '{''option_1'': ''Agent''}'
+      - '{''option_2'': ''Other''}'
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: real_estate_license_status
+      label: real_estate_license_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''Licensed''}'
+      - '{''option_1'': ''Unlicensed''}'
+      - '{''option_2'': ''Exempt''}'
+      required: false
+    - id: 5
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''Bachelor''}'
+      - '{''option_1'': ''Master''}'
+      - '{''option_2'': ''Doctorate''}'
+      required: false
+    - id: 6
+      name: resume
+      label: resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''Email''}'
+      - '{''option_1'': ''Phone''}'
+      - '{''option_2'': ''LinkedIn''}'
+      required: false
+    - id: 8
+      name: agent_info
+      label: agent_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''Broker''}'
+      - '{''option_1'': ''Agent''}'
+      - '{''option_2'': ''Other''}'
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''I have read and agree''}'
+      - '{''option_1'': ''I do not agree''}'
+      required: false
+    - id: 12
+      name: agent_application
+      label: agent_application
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''Broker''}'
+      - '{''option_1'': ''Agent''}'
+      - '{''option_2'': ''Other''}'
+      required: false
+    - id: 13
+      name: license_number
+      label: license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: broker
+      label: broker
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''Broker''}'
+      - '{''option_1'': ''Agency''}'
+      - '{''option_2'': ''Other''}'
+      required: false
+    - id: 15
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agent_address
+      label: agent_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agent_city
+      label: agent_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agent_state
+      label: agent_state
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''CA''}'
+      - '{''option_1'': ''OR''}'
+      - '{''option_2'': ''WA''}'
+      - '{''option_3'': ''CO''}'
+      required: false
+    - id: 19
+      name: agent_zip
+      label: agent_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agent_phone
+      label: agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agent_email
+      label: agent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: agent_date_of_birth
+      label: agent_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: agent_license_status
+      label: agent_license_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_0'': ''Active''}'
+      - '{''option_1'': ''Inactive''}'
+      - '{''option_2'': ''Expired''}'
+      required: false

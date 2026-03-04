@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: mortgage_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - minimalist
+      - luxury
+      - vacation
+      required: true
+    - id: 7
+      name: property_size
+      label: Property size
+      hint: null
+      type: select_multiple
+      options:
+      - 1000-5000
+      - 5001-10000
+      - 10001-20000
+      required: true
+    - id: 8
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: assets
+      label: Assets
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Savings
+      - Stocks
+      - Bonds
+      - Real estate
+      required: true
+    - id: 10
+      name: assets_value
+      label: Assets value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth_year
+      label: Date of birth year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: time_of_birth
+      label: Time of birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 15
+      name: marital_status
+      label: Marital status
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widow
+      - Widow(er)
+      required: false
+    - id: 16
+      name: note
+      label: Note
+      hint: Note to the loan officer
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: note_2
+      label: Note 2
+      hint: Additional note
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: loan_amount
+      label: Loan amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: loan_term
+      label: Loan term
+      hint: null
+      type: select_one
+      options:
+      - 30 years
+      - 60 years
+      required: true
+    - id: 23
+      name: loan_type
+      label: Loan type
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed
+      - Adjustable
+      - Variable
+      required: true
+    - id: 24
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: select_one
+      options:
+      - 3-5
+      - 6-8
+      - 9-11
+      required: true
+    - id: 25
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - Other
+      required: true

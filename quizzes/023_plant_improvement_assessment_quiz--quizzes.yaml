@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Improvement Assessment Quiz
+    pages:
+    - id: 1
+      name: plant_improvement_assessment_quiz_page_1
+      label: Plant Improvement Assessment Quiz Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_data_rating
+      label: Performance Data Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: growth_rate
+      label: Growth Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: yield
+      label: Yield
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: root_depth
+      label: Root Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: soil_type
+      label: Soil Type
+      hint: null
+      type: select_one
+      options:
+      - Organic
+      - Inorganic
+      - Hybrid
+      required: false
+    - id: 7
+      name: irrigation_type
+      label: Irrigation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - No Irrigation
+      - Manual Irrigation
+      - Automatic Irrigation
+      - None
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Comments
+      type: note
+      options: []
+      required: false

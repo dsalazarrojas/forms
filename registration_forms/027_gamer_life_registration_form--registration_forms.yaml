@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gamer Life Registration Form
+    pages:
+    - id: 1
+      name: gamer_life_form
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gamer_life_form_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: gamer_life_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: gamer_life_form_availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Gaming
+      - Watching TV
+      - Sleeping
+      - Other (specify)
+      required: true
+    - id: 5
+      name: gamer_life_form_interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Role Playing
+      - Strategy
+      - Adventure
+      - Other (specify)
+      required: true
+    - id: 6
+      name: gamer_life_form_time_zone
+      label: Time zone
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: gamer_life_form_gamer_id
+      label: Gamer ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: gamer_life_form_additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

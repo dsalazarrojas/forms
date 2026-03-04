@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_lesson_intake_form
+    pages:
+    - id: 1
+      name: new_student
+      label: new_student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: music_lesson_type
+      label: music_lesson_type
+      hint: null
+      type: select_one
+      options:
+      - Music Theory
+      - Voice
+      - Piano
+      - Guitar
+      - Violin
+      - Cello
+      required: false
+    - id: 6
+      name: lesson_frequency
+      label: lesson_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: false
+    - id: 7
+      name: lesson_duration
+      label: lesson_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_info
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lesson_note
+      label: lesson_note
+      hint: null
+      type: text
+      options: []
+      required: false

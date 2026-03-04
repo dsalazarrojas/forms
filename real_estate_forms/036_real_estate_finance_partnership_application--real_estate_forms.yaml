@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_finance_partnership_application
+    pages:
+    - id: 1
+      name: form_details
+      label: form_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_inquiries
+      label: partner_inquiries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding_capacity
+      label: funding_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: investment_goals
+      label: investment_goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5, ''name'': ''short_term_investment'', ''label'': ''short_term_investment'',
+        ''value'': ''short_term_investment''}'
+      - '{''id'': 6, ''name'': ''long_term_investment'', ''label'': ''long_term_investment'',
+        ''value'': ''long_term_investment''}'
+      - '{''id'': 7, ''name'': ''medium_term_investment'', ''label'': ''medium_term_investment'',
+        ''value'': ''medium_term_investment''}'
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

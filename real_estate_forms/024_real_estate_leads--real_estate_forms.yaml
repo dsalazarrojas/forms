@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_leads
+    pages:
+    - id: 1
+      name: lead_details
+      label: lead_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_type
+      label: lead_type
+      hint: null
+      type: select_one
+      options:
+      - buyer
+      - seller
+      required: false
+    - id: 3
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_one
+      options:
+      - online
+      - referral
+      - social_media
+      - word_of_mouth
+      required: false
+    - id: 4
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_one
+      options:
+      - new
+      - follow_up
+      - converted
+      - lost
+      required: false
+    - id: 5
+      name: lead_agent
+      label: lead_agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lead_property_type
+      label: lead_property_type
+      hint: null
+      type: select_multiple
+      options:
+      - residential
+      - commercial
+      - industrial
+      required: false
+    - id: 7
+      name: lead_address
+      label: lead_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lead_zip_code
+      label: lead_zip_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lead_city
+      label: lead_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lead_state
+      label: lead_state
+      hint: null
+      type: text
+      options: []
+      required: false

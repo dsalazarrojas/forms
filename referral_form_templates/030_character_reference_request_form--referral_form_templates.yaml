@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Reference Request Form
+    pages:
+    - id: 1
+      name: section_request_identity
+      label: -- Requesting Organization and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_full_name_request
+      label: Organization Full Name
+      hint: Who is requesting the reference?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_full_name_identity
+      label: Requestor Full Name
+      hint: Name of the person handling the request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_for_request
+      label: Contact Email for Request
+      hint: For follow-up and verification
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_applicant_info_request
+      label: -- Applicant and Role Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: applicant_full_name_request
+      label: Applicant Full Name (Subject)
+      hint: Who is the reference for?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_or_program_name
+      label: Position or Program Applied For
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Employment (Full-Time)
+      - Employment (Part-Time)
+      - Academic Admission
+      - Volunteer Role
+      - Professional Membership
+      - Other
+      required: true
+    - id: 8
+      name: key_skills_or_traits_needed
+      label: Key Skills or Traits Needed for the Role
+      hint: List 2-3 significant traits we are looking for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_reference_identity_request
+      label: -- Reference Identity and Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reference_full_name_request
+      label: Reference Full Name
+      hint: Name of the person being asked for a reference
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email_for_reference_request
+      label: Reference Contact Email
+      hint: For follow-up and verification
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: nature_of_relationship_request
+      label: Nature of Relationship Request
+      hint: Briefly describe how you know the applicant
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: length_of_relationship_years_request
+      label: Length of Relationship (Years)
+      hint: How long have you known the applicant?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_character_and_skills_request
+      label: -- Character and Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: integrity_honesty_rating_request
+      label: Integrity and Honesty Rating
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: reliability_responsibility_rating_request
+      label: Reliability and Responsibility Rating
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: teamwork_collaboration_rating_request
+      label: Teamwork and Collaboration Rating
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_final_recommendation_request
+      label: -- Final Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: overall_recommendation_status_request
+      label: Overall Recommendation Status
+      hint: Would you recommend this applicant for the role?
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Recommend with Reservations
+      - Do Not Recommend
+      required: true
+    - id: 20
+      name: accuracy_confirmation_reference_request
+      label: Confirmation of Reference Details
+      hint: I confirm that I am providing my honest and fair feedback
+      type: select_one
+      options:
+      - I Confirm and Submit Reference
+      - Other
+      required: true
+    - id: 21
+      name: date_of_reference_log_submission_request
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments_reference_request
+      label: Additional Comments or Information
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: interest_in_follow_up_contact_request
+      label: Would you like to be contacted for a follow-up?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please notify me
+      - No, thank you
+      required: false

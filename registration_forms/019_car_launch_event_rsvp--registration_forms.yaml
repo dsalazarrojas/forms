@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Launch Event RSVP
+    pages:
+    - id: 1
+      name: rsvp_header
+      label: -- Event RSVP --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Guest Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email_address
+      label: Email Address
+      hint: For event confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone_number
+      label: Phone Number
+      hint: Primary contact for the event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendance_status
+      label: Will you be attending the car launch event?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I'll be there!
+      - No, I can't make it
+      - Maybe
+      required: true
+    - id: 6
+      name: number_of_guests
+      label: Number of Additional Guests
+      hint: (Excluding yourself)
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary Restrictions (If any)
+      hint: Please list any allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_interest_header
+      label: -- Vehicle Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_interest_level
+      label: Level of Interest in the New Vehicle
+      hint: Scale of 1 to 5 (5 being Extremely Interested)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_test_drive_interest
+      label: Would you like to schedule a test drive?
+      hint: null
+      type: select_one
+      options:
+      - Yes, absolutely!
+      - No, just attending the event
+      - Not sure yet
+      required: true
+    - id: 11
+      name: vehicle_information_preference
+      label: How would you like to receive more information?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Physical Brochure
+      required: false
+    - id: 12
+      name: event_verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_acknowledgement
+      label: I acknowledge the event terms and conditions
+      hint: See event website for details
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 14
+      name: signature_confirmation_rsvp
+      label: Type your name for RSVP confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: additional_rsvp_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the event
+      type: text
+      options: []
+      required: false

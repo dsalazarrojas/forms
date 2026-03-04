@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Marketing Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Referrer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_email
+      label: Referrer Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referrer_company
+      label: Your Company
+      hint: Company you represent
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referral_date
+      label: Referral Date
+      hint: Date of referral submission
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: prospect_name
+      label: Prospect Name
+      hint: Full name of the referred prospect
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prospect_title
+      label: Prospect Title
+      hint: Job title of the prospect
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prospect_company
+      label: Prospect Company
+      hint: Company name of the prospect
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: prospect_email
+      label: Prospect Email
+      hint: Email address of the prospect
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: prospect_phone
+      label: Prospect Phone
+      hint: Phone number of the prospect
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prospect_industry
+      label: Prospect Industry
+      hint: Industry of the prospect company
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Education
+      - Government
+      - Non-profit
+      - Other
+      required: true
+    - id: 12
+      name: company_size
+      label: Company Size
+      hint: Number of employees at prospect company
+      type: select_one
+      options:
+      - 1 to 10 employees
+      - 11 to 50 employees
+      - 51 to 200 employees
+      - 201 to 500 employees
+      - 500 plus employees
+      required: true
+    - id: 13
+      name: marketing_needs
+      label: Marketing Needs Identified
+      hint: Select all marketing needs you identified
+      type: select_multiple
+      options:
+      - Brand strategy
+      - Digital marketing
+      - Social media management
+      - Content creation
+      - SEO services
+      - Paid advertising
+      - Email marketing
+      - Website design
+      - Marketing automation
+      - Analytics and reporting
+      required: true
+    - id: 14
+      name: budget_range
+      label: Known Budget Range
+      hint: Do you know their marketing budget
+      type: select_one
+      options:
+      - Under $5K per month
+      - $5K to $10K per month
+      - $10K to $25K per month
+      - $25K to $50K per month
+      - Over $50K per month
+      - Unknown
+      required: false
+    - id: 15
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When do they need services by
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Just researching
+      required: true
+    - id: 16
+      name: decision_maker
+      label: Decision Maker Status
+      hint: Is this person the decision maker
+      type: select_one
+      options:
+      - Yes - primary decision maker
+      - Yes - influences decision
+      - No - refers to decision maker
+      - Not sure
+      required: true
+    - id: 17
+      name: current_marketing_situation
+      label: Current Marketing Situation
+      hint: What is their current marketing situation
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: pain_points
+      label: Pain Points Identified
+      hint: What marketing challenges are they facing
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: relationship_strength
+      label: Your Relationship Strength
+      hint: How well do you know this prospect
+      type: select_one
+      options:
+      - Close - work together regularly
+      - Good - professional relationship
+      - Moderate - occasional contact
+      - Weak - limited interaction
+      required: true
+    - id: 20
+      name: referral_source
+      label: How Did Prospect Learn About Us
+      hint: How did they know about our services
+      type: select_one
+      options:
+      - Your recommendation
+      - Online search
+      - Social media
+      - Event
+      - Other referral
+      - Not sure
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_permission
+      label: Permission to Mention Your Name
+      hint: Can we mention you when contacting them
+      type: select_one
+      options:
+      - Yes - definitely
+      - Yes - but mention lightly
+      - No - keep anonymous
+      required: true

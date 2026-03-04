@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Information Collection Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_number
+      label: Student Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''First''}'
+      - '{2: ''Second''}'
+      - '{3: ''Third''}'
+      - '{4: ''Fourth''}'
+      - '{5: ''Fifth''}'
+      - '{6: ''Sixth''}'
+      required: true
+    - id: 6
+      name: class_id
+      label: Class ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: subject_id
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Mathematics''}'
+      - '{2: ''Science''}'
+      - '{3: ''Literature''}'
+      required: true
+    - id: 8
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: created_at
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: G Protein Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: what-is-a-g-protein
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_2
+      label: how-does-a-g-protein-signal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_3
+      label: what-is-g-protein-linked-receptor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_4
+      label: what-is-g-protein-linked-receptor-kinase
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: question_5
+      label: what-is-the-g-protein-effector-enzyme
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question_6
+      label: what-is-the-g-protein-effector-enzyme
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_institution
+      label: student_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_course
+      label: student_course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

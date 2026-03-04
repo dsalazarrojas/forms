@@ -1,0 +1,566 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Inspection (Matris)
+    pages:
+    - id: 1
+      name: inspection_id
+      label: Inspection ID
+      hint: Unique inspection number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_company
+      label: Inspection Company
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: apartment_unit
+      label: Apartment Unit Number
+      hint: Unit identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_name
+      label: Building Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Apartment
+      - Condominium
+      - Townhouse
+      - Studio
+      - Loft
+      - Other
+      required: true
+    - id: 9
+      name: unit_size
+      label: Unit Size
+      hint: Square footage
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: Bedroom count
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: Bathroom count
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: inspection_type
+      label: Type of Inspection
+      hint: Purpose of inspection
+      type: select_one
+      options:
+      - Pre-occupancy
+      - Move-in
+      - Move-out
+      - Routine
+      - Complaint-based
+      - Post-renovation
+      - Other
+      required: true
+    - id: 13
+      name: occupants_present
+      label: Were occupants present
+      hint: During inspection
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 14
+      name: weather_conditions
+      label: Weather Conditions
+      hint: During inspection
+      type: select_one
+      options:
+      - Sunny
+      - Cloudy
+      - Rainy
+      - Snowy
+      - Other
+      required: false
+    - id: 15
+      name: exterior_section
+      label: -- Exterior Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: building_exterior
+      label: Building Exterior Condition
+      hint: Overall state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs repair
+      required: true
+    - id: 17
+      name: entrance_lobby
+      label: Entrance and Lobby
+      hint: Condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs repair
+      required: true
+    - id: 18
+      name: hallways_stairwells
+      label: Hallways and Stairwells
+      hint: Condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs repair
+      required: true
+    - id: 19
+      name: lighting_common_areas
+      label: Lighting in Common Areas
+      hint: Functionality
+      type: select_one
+      options:
+      - All working
+      - Mostly working
+      - Some issues
+      - Many issues
+      - Not working
+      required: true
+    - id: 20
+      name: interior_section
+      label: -- Interior Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: walls_condition
+      label: Walls Condition
+      hint: Overall state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs repair
+      required: true
+    - id: 22
+      name: ceiling_condition
+      label: Ceiling Condition
+      hint: Overall state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Water damage visible
+      required: true
+    - id: 23
+      name: flooring_condition
+      label: Flooring Condition
+      hint: Overall state
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs replacement
+      required: true
+    - id: 24
+      name: windows_condition
+      label: Windows Condition
+      hint: State of windows
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Broken or damaged
+      required: true
+    - id: 25
+      name: doors_condition
+      label: Doors Condition
+      hint: State of doors
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Does not close properly
+      required: true
+    - id: 26
+      name: kitchen_section
+      label: -- Kitchen Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: kitchen_cabinets
+      label: Kitchen Cabinets
+      hint: Condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 28
+      name: countertops
+      label: Countertops
+      hint: Condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 29
+      name: sink_plumbing
+      label: Sink and Plumbing
+      hint: Functionality
+      type: select_one
+      options:
+      - Working properly
+      - Minor issues
+      - Leaking
+      - Not working
+      - Needs repair
+      required: true
+    - id: 30
+      name: appliances
+      label: Appliances
+      hint: Select all that are present and working
+      type: select_multiple
+      options:
+      - Refrigerator
+      - Stove or range
+      - Oven
+      - Dishwasher
+      - Microwave
+      - Garbage disposal
+      - None
+      - Not applicable
+      required: true
+    - id: 31
+      name: bathroom_section
+      label: -- Bathroom Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: toilet_functionality
+      label: Toilet Functionality
+      hint: Working condition
+      type: select_one
+      options:
+      - Working properly
+      - Runs occasionally
+      - Leaking
+      - Not working
+      - Needs repair
+      required: true
+    - id: 33
+      name: shower_tub
+      label: Shower or Tub
+      hint: Condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Leaking or damaged
+      required: true
+    - id: 34
+      name: bathroom_ventilation
+      label: Bathroom Ventilation
+      hint: Fan or window
+      type: select_one
+      options:
+      - Working properly
+      - Weak ventilation
+      - Not working
+      - No ventilation
+      required: true
+    - id: 35
+      name: water_pressure
+      label: Water Pressure
+      hint: Overall pressure
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Low
+      - Very low
+      required: true
+    - id: 36
+      name: electrical_section
+      label: -- Electrical Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: electrical_outlets
+      label: Electrical Outlets
+      hint: Functionality
+      type: select_one
+      options:
+      - All working
+      - Mostly working
+      - Some not working
+      - Many issues
+      - Not tested
+      required: true
+    - id: 38
+      name: light_fixtures
+      label: Light Fixtures
+      hint: Functionality
+      type: select_one
+      options:
+      - All working
+      - Mostly working
+      - Some not working
+      - Many not working
+      - Not tested
+      required: true
+    - id: 39
+      name: hvac_section
+      label: -- HVAC Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: heating_system
+      label: Heating System
+      hint: Functionality
+      type: select_one
+      options:
+      - Working properly
+      - Works but slow
+      - Inconsistent
+      - Not working
+      - Not present
+      required: true
+    - id: 41
+      name: cooling_system
+      label: Cooling System
+      hint: Functionality
+      type: select_one
+      options:
+      - Working properly
+      - Works but slow
+      - Inconsistent
+      - Not working
+      - Not present
+      required: true
+    - id: 42
+      name: safety_section
+      label: -- Safety Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: smoke_detectors
+      label: Smoke Detectors
+      hint: Present and working
+      type: select_one
+      options:
+      - Yes, all working
+      - Yes, some working
+      - Present, not tested
+      - Not present
+      - Expired
+      required: true
+    - id: 44
+      name: carbon_monoxide_detector
+      label: Carbon Monoxide Detector
+      hint: Present and working
+      type: select_one
+      options:
+      - Yes, working
+      - Present, not tested
+      - Not present
+      - Not required
+      required: true
+    - id: 45
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: If provided
+      type: select_one
+      options:
+      - Present and charged
+      - Present, needs charging
+      - Not present
+      - Not required
+      required: true
+    - id: 46
+      name: locks_and_security
+      label: Locks and Security
+      hint: Door and window locks
+      type: select_one
+      options:
+      - All working
+      - Mostly working
+      - Some issues
+      - Not secure
+      - Not assessed
+      required: true
+    - id: 47
+      name: issues_found_section
+      label: -- Issues Found --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: critical_issues
+      label: Critical Issues
+      hint: Describe any critical issues
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: major_issues
+      label: Major Issues
+      hint: Describe any major issues
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: minor_issues
+      label: Minor Issues
+      hint: Describe any minor issues
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: repairs_needed
+      label: Repairs Needed
+      hint: List all required repairs
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 53
+      name: habitability
+      label: Is unit habitable
+      hint: Overall assessment
+      type: select_one
+      options:
+      - Yes, fully habitable
+      - Yes, with minor repairs
+      - Conditionally habitable
+      - No, major repairs needed
+      - No, uninhabitable
+      required: true
+    - id: 54
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: true
+    - id: 55
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is re-inspection needed
+      type: select_one
+      options:
+      - Yes, within 7 days
+      - Yes, within 30 days
+      - Yes, within 90 days
+      - No follow-up needed
+      required: true
+    - id: 56
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 57
+      name: resident_signature
+      label: Resident Signature
+      hint: If present
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: inspection_complete_date
+      label: Inspection Completion Date
+      hint: Date finalized
+      type: date
+      options: []
+      required: true

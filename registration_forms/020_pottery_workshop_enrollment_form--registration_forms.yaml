@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pottery Workshop Enrollment Form
+    pages:
+    - id: 1
+      name: session_time_1
+      label: Session Time 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_time_2
+      label: Session Time 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_time_3
+      label: Session Time 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_conflict_mediator_referral_form
+    pages:
+    - id: 1
+      name: workplace_conflict_mediator_referral_form
+      label: workplace conflict mediator referral form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: mediator_referral_form
+      label: mediator referral form
+      hint: null
+      type: select_one
+      options:
+      - Mediator 1
+      - Mediator 2
+      - Mediator 3
+      required: true
+    - id: 3
+      name: workplace_conflict_mediator_form
+      label: workplace conflict mediator form
+      hint: null
+      type: select_multiple
+      options:
+      - Mediator 1
+      - Mediator 2
+      - Mediator 3
+      required: false

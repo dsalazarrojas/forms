@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form (ICERME)
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: As it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: Institution or University
+      hint: Your affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Academic or Professional Position
+      hint: Your title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: country
+      label: Country
+      hint: Your country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Germany
+      - France
+      - Italy
+      - Spain
+      - China
+      - Japan
+      - India
+      - Australia
+      - Brazil
+      - Other
+      required: true
+    - id: 8
+      name: participant_category
+      label: Participant Category
+      hint: Registration type
+      type: select_one
+      options:
+      - Faculty or Professor
+      - Researcher
+      - PhD Student
+      - Masters Student
+      - Undergraduate Student
+      - Industry Professional
+      - Government Representative
+      required: true
+    - id: 9
+      name: conference_type
+      label: Conference Registration Type
+      hint: What are you registering for
+      type: select_one
+      options:
+      - Full Conference with Proceedings
+      - Conference Only
+      - Workshop Only
+      - Conference and Workshop
+      - Virtual Attendance
+      - Social Program Only
+      required: true
+    - id: 10
+      name: paper_submission
+      label: Are you submitting a paper
+      hint: Will you present research
+      type: select_one
+      options:
+      - Yes Oral Presentation
+      - Yes Poster Presentation
+      - Yes Both
+      - No Just Attending
+      required: true
+    - id: 11
+      name: paper_title
+      label: Paper Title
+      hint: If submitting
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: co_authors
+      label: Co-Authors
+      hint: List if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: research_area
+      label: Research Area
+      hint: Primary field
+      type: select_one
+      options:
+      - Renewable Energy
+      - Mechanical Engineering
+      - Electrical Engineering
+      - Civil Engineering
+      - Computer Science
+      - Environmental Science
+      - Materials Science
+      - Other
+      required: true
+    - id: 14
+      name: ieee_membership
+      label: IEEE Member
+      hint: Membership status
+      type: select_one
+      options:
+      - Yes Current Member
+      - No Not a Member
+      - Student Member
+      required: true
+    - id: 15
+      name: ieee_member_id
+      label: IEEE Member ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: banquet_attendance
+      label: Conference Banquet
+      hint: Will you attend
+      type: select_one
+      options:
+      - Yes Will Attend
+      - No Will Not Attend
+      required: true
+    - id: 17
+      name: banquet_guests
+      label: Number of Guests
+      hint: Additional guests
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: meal_preference
+      label: Meal Preference
+      hint: For banquet
+      type: select_one
+      options:
+      - Standard
+      - Vegetarian
+      - Vegan
+      - Seafood
+      - Kosher
+      - Halal
+      required: true
+    - id: 19
+      name: certificate_request
+      label: Certificate of Participation
+      hint: Do you need a certificate
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      required: true
+    - id: 20
+      name: proceedings_copy
+      label: Conference Proceedings
+      hint: Format preference
+      type: select_one
+      options:
+      - Digital Download
+      - USB Drive
+      - Printed Copy
+      - Not Required
+      required: true
+    - id: 21
+      name: special_needs
+      label: Special Needs or Dietary Requirements
+      hint: Specify any requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash On Site
+      - Institutional Payment
+      required: true
+    - id: 23
+      name: terms_accepted
+      label: I Accept Conference Terms
+      hint: Agree to policies
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

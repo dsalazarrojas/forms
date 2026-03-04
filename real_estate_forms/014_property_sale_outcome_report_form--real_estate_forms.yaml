@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sale Outcome Report Form
+    pages:
+    - id: 1
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: date_of_transaction
+      label: Date Of Transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sold_by
+      label: Sold By
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: sale_status
+      label: Sale Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: unsuccessful_reason
+      label: Unsuccessful Reason
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: listing_number
+      label: Listing Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: listing_agent
+      label: Listing Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sold_agent
+      label: Sold Agent
+      hint: null
+      type: text
+      options: []
+      required: false

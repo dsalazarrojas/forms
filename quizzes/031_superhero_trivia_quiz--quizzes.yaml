@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Superhero Trivia Quiz
+    pages:
+    - id: 1
+      name: superhero_trivia_quiz_title
+      label: Superhero Trivia Quiz title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: superhero_trivia_quiz_category
+      label: Superhero Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: superhero_trivia_quiz_description
+      label: Superhero Trivia Quiz description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: superhero_trivia_quiz_participants
+      label: Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: superhero_trivia_quiz_start_time
+      label: Superhero Trivia Quiz start time
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: superhero_trivia_quiz_end_time
+      label: Superhero Trivia Quiz end time
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: superhero_trivia_quiz_location
+      label: Superhero Trivia Quiz location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: superhero_trivia_quiz_organizer
+      label: Superhero Trivia Quiz organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: superhero_trivia_quiz_notes
+      label: Superhero Trivia Quiz notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: superhero_trivia_quiz_venue
+      label: Superhero Trivia Quiz venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: superhero_trivia_quiz_phone
+      label: Superhero Trivia Quiz phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: superhero_trivia_quiz_email
+      label: Superhero Trivia Quiz email
+      hint: null
+      type: email
+      options: []
+      required: false

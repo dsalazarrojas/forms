@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Application Form
+    pages:
+    - id: 1
+      name: section_company_id
+      label: -- Company Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_legal_name
+      label: Company Legal Name
+      hint: as registered with the DOT
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: doing_business_as
+      label: Doing Business As (DBA)
+      hint: if different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dot_number
+      label: DOT Number
+      hint: Department of Transportation identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mc_number
+      label: MC Number
+      hint: Motor Carrier authority number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: main point of contact for this application
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: dispatch_phone
+      label: Dispatch Phone Number
+      hint: 24-7 contact number if available
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dispatch_email
+      label: Dispatch Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: section_operations
+      label: -- Operations and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: equipment_types
+      label: Equipment Types
+      hint: select all that you operate
+      type: select_multiple
+      options:
+      - Dry Van
+      - Flatbed
+      - Reefer
+      - Step Deck
+      - Power Only
+      - Box Truck
+      required: true
+    - id: 14
+      name: number_of_trucks
+      label: Total Number of Trucks
+      hint: current active fleet size
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: number_of_trailers
+      label: Total Number of Trailers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: service_areas
+      label: Primary Service Areas and Regions
+      hint: where do you primarily operate?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_safety
+      label: -- Safety and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: safety_rating
+      label: Current Safety Rating
+      hint: as per FMCSA
+      type: select_one
+      options:
+      - Satisfactory
+      - Conditional
+      - Unsatisfactory
+      - None
+      required: true
+    - id: 19
+      name: hazmat_certified
+      label: Hazmat Certified?
+      hint: hazardous materials transport authority
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: carb_compliant
+      label: CARB Compliant?
+      hint: California Air Resources Board requirements
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 21
+      name: section_insurance
+      label: -- Insurance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: liability_insurance_amount
+      label: Auto Liability Insurance Amount
+      hint: total coverage in dollars
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: cargo_insurance_amount
+      label: Cargo Insurance Amount
+      hint: total coverage for goods
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: section_agreement
+      label: -- Agreement and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: application_certification
+      label: I certify the information provided is accurate
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

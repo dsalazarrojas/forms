@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earnest Money Release Request Form
+    pages:
+    - id: 1
+      name: earnest_money_release_request_form
+      label: earnest_money_release_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_signature
+      label: buyer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buyer_signature_date
+      label: buyer_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: seller_confirmation
+      label: seller_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_preference
+      label: delivery_preference
+      hint: null
+      type: select_one
+      options:
+      - Delivery by Email
+      - Delivery by Fax
+      - Delivery in Person
+      required: false
+    - id: 6
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: buyer_phone
+      label: buyer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: buyer_email
+      label: buyer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: seller_email
+      label: seller_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: earnest_money_released
+      label: earnest_money_released
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: earnest_money_released_date
+      label: earnest_money_released_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: earnest_money_released_time
+      label: earnest_money_released_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: earnest_money_release_request_form_date
+      label: earnest_money_release_request_form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: earnest_money_release_request_form_time
+      label: earnest_money_release_request_form_time
+      hint: null
+      type: time
+      options: []
+      required: false

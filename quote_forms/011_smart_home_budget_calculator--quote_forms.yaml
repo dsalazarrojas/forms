@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Home Budget Calculator
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: smart_home_device
+      label: Smart Home Device
+      hint: What type of smart home device do you need?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: number_of_devices
+      label: Number of Devices
+      hint: How many devices are you planning to install?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: device_price_range
+      label: Device Price Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: device_location
+      label: Location
+      hint: Where is the installation location for the devices?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: installation_cost
+      label: Installation Cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget_preferences
+      label: Budget Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_preferences_smart_home_device
+      label: Smart Home Device
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: budget_preferences_smart_home_device_type
+      label: Smart Home Device Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: smart_home_budget
+      label: Smart Home Budget
+      hint: What is your budget for smart home device?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: smart_home_pros
+      label: Smart Home Pros
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: smart_home_pro_name
+      label: Smart Home Pro Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: smart_home_pro_email
+      label: Smart Home Pro Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: smart_home_pro_phone
+      label: Smart Home Pro Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: smart_home_budget_calculator_form
+      label: Smart Home Budget Calculator Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: smart_home_budget_calculator_form_submission
+      label: Smart Home Budget Calculator Form Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 27
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: smart_home_pros
+      label: Smart Home Pros
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 31
+      name: smart_home_pro_name
+      label: Smart Home Pro Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: smart_home_pro_email
+      label: Smart Home Pro Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: smart_home_pro_phone
+      label: Smart Home Pro Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 35
+      name: smart_home_budget_calculator_form
+      label: Smart Home Budget Calculator Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 36
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 37
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 39
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_development_voting_form
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: sentiment_score
+      label: Sentiment Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: priority_score
+      label: Priority Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: updates_requests
+      label: Updates Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sentiment_comment
+      label: Sentiment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Under Review
+      - Under Construction
+      - Completed
+      - Cancelled
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: required_fields
+      label: Required Fields
+      hint: null
+      type: select_multiple
+      options:
+      - Property Type
+      - Project Name
+      - Project Description
+      - Sentiment Score
+      - Priority Score
+      - Updates Requests
+      - Sentiment Comment
+      - Project Status
+      - Email
+      - Note
+      required: false

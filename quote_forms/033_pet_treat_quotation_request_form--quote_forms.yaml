@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Treat Quotation Request Form
+    pages:
+    - id: 1
+      name: pet_treat_quotation_request_form
+      label: What is your pet
+      hint: Tell us about your furry friend
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: What type of pet
+      hint: null
+      type: select_one
+      options:
+      - cat
+      - dog
+      - bird
+      - other
+      required: true
+    - id: 3
+      name: treat_type
+      label: What type of treat
+      hint: null
+      type: select_multiple
+      options:
+      - food
+      - toy
+      - bed
+      - other
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_of_visit
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatdiana
+      required: true
+    - id: 13
+      name: assigned_user
+      label: Assigned user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

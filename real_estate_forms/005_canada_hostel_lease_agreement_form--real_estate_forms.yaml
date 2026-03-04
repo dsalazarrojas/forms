@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canada Hostel Lease Agreement Form
+    pages:
+    - id: 1
+      name: agreement_header
+      label: -- Lease Agreement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: landlord_name
+      label: Landlord or Property Manager Name
+      hint: Full name of person or company managing the property
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tenant_name
+      label: Tenant Name
+      hint: Full legal name of primary tenant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tenant_email
+      label: Tenant Email
+      hint: Contact email for lease correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Street address, city, province, postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lease_start_date
+      label: Lease Start Date
+      hint: Date the tenancy begins
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: lease_end_date
+      label: Lease End Date
+      hint: Date the tenancy ends or auto renew terms
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: monthly_rent
+      label: Monthly Rent Amount
+      hint: Amount in CAD without currency symbol
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: security_deposit
+      label: Security Deposit Amount
+      hint: Amount required at move in
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: Preferred rent payment method
+      type: select_one
+      options:
+      - Bank transfer
+      - E transfer
+      - Credit card
+      - Cash
+      required: true
+    - id: 11
+      name: occupancy_limit
+      label: Occupancy Limit
+      hint: Maximum number of residents allowed
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: special_terms
+      label: Special Terms or Clauses
+      hint: Any additional lease stipulations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tenant_signature
+      label: Tenant Signature Name
+      hint: Type name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_date
+      label: Signature Date
+      hint: Date tenant signed agreement
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Technology Quiz
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Cloud Technology Knowledge Quiz --
+      hint: Test your understanding of cloud computing concepts
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_questions
+      label: -- Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: q1
+      label: What does cloud computing primarily provide?
+      hint: null
+      type: select_one
+      options: ["Physical servers only", "On-demand computing resources over the internet", "Unlimited storage", "Encrypted data only"]
+      required: true
+    - id: 6
+      name: q2
+      label: Which of the following is an advantage of cloud computing?
+      hint: null
+      type: select_one
+      options: ["Requires large upfront capital investment", "Scalability and flexibility", "No internet connectivity needed", "Single provider limitation"]
+      required: true
+    - id: 7
+      name: q3
+      label: Cloud computing reduces the need for
+      hint: null
+      type: select_one
+      options: ["Internet bandwidth", "On-premises infrastructure and IT staff", "Data security measures", "Customer support"]
+      required: true
+    - id: 8
+      name: q4
+      label: A hybrid cloud environment combines
+      hint: null
+      type: select_one
+      options: ["Multiple databases", "Public and private cloud resources", "Different data formats", "Various cloud providers only"]
+      required: true
+    - id: 9
+      name: q5
+      label: What is a key difference between cloud and traditional IT?
+      hint: null
+      type: select_one
+      options: ["No security measures", "Pay-per-use vs. capital expenditure", "Slower processing", "More difficult to scale"]
+      required: true
+    - id: 10
+      name: q6
+      label: Serverless computing means
+      hint: null
+      type: select_one
+      options: ["There are no servers", "No physical hardware exists", "Servers are managed by cloud provider", "Network connectivity is not needed"]
+      required: true
+    - id: 11
+      name: q7
+      label: Cloud storage differs from traditional storage because
+      hint: null
+      type: select_one
+      options: ["It cannot be encrypted", "It is accessed via the internet", "It is cheaper but slower", "It has less capacity"]
+      required: true
+    - id: 12
+      name: q8
+      label: Bandwidth in cloud computing refers to
+      hint: null
+      type: select_one
+      options: ["Server size", "Data transfer speed over network", "Storage capacity", "Processing power"]
+      required: true
+    - id: 13
+      name: q9
+      label: What is a CDN - Content Delivery Network?
+      hint: null
+      type: select_one
+      options: ["A type of cloud storage", "Network for distributing content to users closer geographically", "A cloud database", "A server management tool"]
+      required: true
+    - id: 14
+      name: q10
+      label: Cloud availability refers to
+      hint: null
+      type: select_one
+      options: ["How much data you can store", "How long systems are operational and accessible", "Number of users", "Data backup frequency"]
+      required: true
+    - id: 15
+      name: q11
+      label: Load balancing in cloud systems helps
+      hint: null
+      type: select_one
+      options: ["Reduce costs only", "Distribute traffic and prevent server overload", "Increase storage space", "Enhance user authentication"]
+      required: true
+    - id: 16
+      name: q12
+      label: Latency in cloud computing is
+      hint: null
+      type: select_one
+      options: ["Time delay in data transmission", "Storage failure", "Network bandwidth", "User account issues"]
+      required: true
+    - id: 17
+      name: section_results
+      label: -- Quiz Complete --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: confidence_level
+      label: How confident do you feel about your cloud knowledge?
+      hint: null
+      type: select_one
+      options: ["Very confident", "Confident", "Somewhat confident", "Not confident"]
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional comments or questions
+      hint: null
+      type: text
+      options: []
+      required: false

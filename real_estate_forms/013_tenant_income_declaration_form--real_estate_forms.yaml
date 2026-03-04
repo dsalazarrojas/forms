@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Income Declaration Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: monthly_net_rental_income
+      label: Monthly Net Rental Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - employed
+      - self_employed
+      - unemployed
+      required: true
+    - id: 6
+      name: business_occupation
+      label: Business Occupation
+      hint: Please enter your business occupation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: other_income
+      label: Other Income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dependant_support
+      label: Dependant Support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rent
+      label: Rent
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 12
+      name: utilities
+      label: Utilities
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 13
+      name: other_expenses
+      label: Other Expenses
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 14
+      name: vehicle_expenses
+      label: Vehicle Expenses
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 15
+      name: other_vehicle_expenses
+      label: Other Vehicle Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_rent
+      label: Total Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_expenses
+      label: Total Expenses
+      hint: null
+      type: number
+      options: []
+      required: false

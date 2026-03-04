@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscaping Service Referral Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_referral
+      label: Landscaping Service Referral
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Residential''}'
+      - '{''value'': 2, ''label'': ''Commercial''}'
+      - '{''value'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 3
+      name: referral_reason
+      label: Why did they refer us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_request
+      label: Would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

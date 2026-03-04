@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Deposit Waiver Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deposit_amount
+      label: deposit_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: deposit_date
+      label: deposit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: security_deposit_return_date
+      label: security_deposit_return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: select_multiple
+      options:
+      - Tenant
+      - Landlord
+      - Other
+      required: false
+    - id: 9
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tenant_phone
+      label: tenant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: landlord_phone
+      label: landlord_phone
+      hint: null
+      type: text
+      options: []
+      required: false

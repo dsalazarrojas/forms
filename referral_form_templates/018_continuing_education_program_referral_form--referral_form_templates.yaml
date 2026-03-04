@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Education Program Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Referrer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_email
+      label: Referrer Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referrer_relationship
+      label: Referrer Relationship
+      hint: How do you know the candidate?
+      type: select_one
+      options:
+      - Employer
+      - Colleague
+      - Friend
+      - Family member
+      - Academic advisor
+      - Other
+      required: true
+    - id: 5
+      name: candidate_name
+      label: Candidate Name
+      hint: Full name of person being referred
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: candidate_email
+      label: Candidate Email
+      hint: Their email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: candidate_phone
+      label: Candidate Phone
+      hint: Their contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_interest
+      label: Program of Interest
+      hint: Which program are they interested in?
+      type: select_one
+      options:
+      - Business Administration
+      - Healthcare Management
+      - Information Technology
+      - Project Management
+      - Human Resources
+      - Finance
+      - Marketing
+      - Legal Studies
+      - Undecided
+      required: true
+    - id: 9
+      name: candidate_qualifications
+      label: Candidate Qualifications
+      hint: Brief summary of their background
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: candidate_experience
+      label: Candidate Experience
+      hint: Years of relevant experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 11
+      name: education_level
+      label: Education Level
+      hint: Highest degree earned
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      required: true
+    - id: 12
+      name: referral_reason
+      label: Referral Reason
+      hint: Why are you referring this person?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: candidate_strengths
+      label: Candidate Strengths
+      hint: What are their key strengths?
+      type: select_multiple
+      options:
+      - Leadership
+      - Communication
+      - Technical skills
+      - Problem-solving
+      - Teamwork
+      - Creativity
+      - Work ethic
+      - Adaptability
+      required: true
+    - id: 14
+      name: career_goals
+      label: Career Goals
+      hint: What are their career objectives?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: financial_assistance_needed
+      label: Financial Assistance Needed
+      hint: Do they need financial aid?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 16
+      name: employer_sponsorship
+      label: Employer Sponsorship
+      hint: Is an employer sponsoring?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 17
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When should they begin?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

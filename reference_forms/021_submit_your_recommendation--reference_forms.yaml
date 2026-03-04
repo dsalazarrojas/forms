@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: submit your recommendation
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: Provide your contact details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: type_of_recommendation
+      label: Type Of Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Internal'', ''label'': ''Internal''}'
+      - '{''value'': ''External'', ''label'': ''External''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 3
+      name: type_of_recommendation_2
+      label: Type Of Recommendation 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Internal'', ''label'': ''Internal''}'
+      - '{''value'': ''External'', ''label'': ''External''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: consent
+      label: Do You Give Us Permission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Image'', ''label'': ''Image''}'
+      - '{''value'': ''File'', ''label'': ''File''}'
+      required: false
+    - id: 6
+      name: file_uploads_2
+      label: File Uploads 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Image'', ''label'': ''Image''}'
+      - '{''value'': ''File'', ''label'': ''File''}'
+      required: false
+    - id: 7
+      name: file_uploads_3
+      label: File Uploads 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Image'', ''label'': ''Image''}'
+      - '{''value'': ''File'', ''label'': ''File''}'
+      required: false

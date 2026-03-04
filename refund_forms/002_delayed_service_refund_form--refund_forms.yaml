@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delayed Service Refund Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason_for_delay
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_date
+      label: service_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: refund_amount
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_status
+      label: service_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: attachment_upload
+      label: attachment_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment_remove
+      label: attachment_remove
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_name
+      label: business_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment_upload_type
+      label: attachment_upload_type
+      hint: null
+      type: select_one
+      options:
+      - attachment_pdf
+      - attachment_image
+      - attachment_audio
+      - attachment_video
+      - attachment_document
+      required: false
+    - id: 18
+      name: attachment_remove_type
+      label: attachment_remove_type
+      hint: null
+      type: select_multiple
+      options:
+      - attachment_remove_pdf
+      - attachment_remove_image
+      - attachment_remove_audio
+      - attachment_remove_video
+      - attachment_remove_document
+      required: false
+    - id: 19
+      name: attachment_name
+      label: attachment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachment_data
+      label: attachment_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reason_for_rejection
+      label: reason_for_rejection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: customer_agreement
+      label: customer_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: business_agreement
+      label: business_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

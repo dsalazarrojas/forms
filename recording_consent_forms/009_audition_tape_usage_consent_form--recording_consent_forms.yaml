@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audition Tape Usage Consent Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Consent Form Date
+      hint: Date this consent is being signed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: performer_name
+      label: Performer Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: performer_email
+      label: Performer Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: performer_phone
+      label: Performer Phone
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: production_title
+      label: Production Title
+      hint: Name of the film, show, or project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: audition_date
+      label: Audition Recording Date
+      hint: When was the audition recorded
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: recording_method
+      label: How Was the Recording Made
+      hint: Type of recording session
+      type: select_one
+      options:
+      - In-Person at Studio
+      - Self-Tape Submission
+      - Virtual/Zoom Audition
+      - Callback Session
+      - Screen Test
+      required: true
+    - id: 8
+      name: casting_director_name
+      label: Casting Director Name
+      hint: Name of person conducting audition
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_company
+      label: Production Company Name
+      hint: Company producing the project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_distribution
+      label: Consent to Distribute Recording
+      hint: Do you consent to distribution of your tape
+      type: select_one
+      options:
+      - Yes - Full Consent
+      - Yes - Limited Distribution
+      - No Consent
+      - Need to Review Contract
+      required: true
+    - id: 11
+      name: internal_use_only
+      label: Internal Use - Casting Only
+      hint: Consent to use for casting decisions
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Conditionally Agree
+      required: true
+    - id: 12
+      name: production_use
+      label: Use in Final Production
+      hint: Consent to include in final film or show
+      type: select_one
+      options:
+      - Yes - Agree
+      - No - Do Not Use
+      - Only if Cast in Role
+      required: true
+    - id: 13
+      name: promotional_use
+      label: Promotional and Marketing Use
+      hint: Consent to use for marketing materials
+      type: select_one
+      options:
+      - Yes - Full Promotional Use
+      - Yes - Limited Promotional Use
+      - No - Do Not Promote
+      required: true
+    - id: 14
+      name: residual_payments
+      label: Residual Payments for Use
+      hint: Will you receive payment for future uses
+      type: select_one
+      options:
+      - Yes - Entitled to Residuals
+      - No - Waive Residual Rights
+      - TBD - To Be Negotiated
+      - Not Applicable
+      required: false
+    - id: 15
+      name: credit_required
+      label: Require On-Screen Credit
+      hint: Will you require credit if used
+      type: select_one
+      options:
+      - Yes - Credit Required
+      - No - Not Required
+      - Flexible
+      required: false
+    - id: 16
+      name: data_privacy
+      label: Consent to Data Collection
+      hint: Consent to collect personal information
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 17
+      name: storage_duration
+      label: Recording Storage Duration
+      hint: How long can the recording be kept
+      type: select_one
+      options:
+      - Indefinitely
+      - Project Duration Only
+      - 1 Year
+      - 2 Years
+      - Other - Specify
+      required: true
+    - id: 18
+      name: deletion_request
+      label: Request Recording Deletion
+      hint: Can you request deletion after audition
+      type: select_one
+      options:
+      - Yes - Can Request Deletion
+      - No - Cannot Request
+      - After Casting Complete Only
+      required: true
+    - id: 19
+      name: union_status
+      label: Union Affiliation
+      hint: Are you SAG-AFTRA affiliated
+      type: select_one
+      options:
+      - SAG-AFTRA Member
+      - Non-Union
+      - Eligible to Join
+      required: false
+    - id: 20
+      name: compensation_agreement
+      label: Compensation Terms Agreed
+      hint: Do you agree to compensation terms
+      type: select_one
+      options:
+      - Yes - Agree
+      - No - Do Not Agree
+      - Need Clarification
+      required: true
+    - id: 21
+      name: legal_signature_authorization
+      label: Legal Signature Authorization
+      hint: I authorize signing this digital consent
+      type: select_one
+      options:
+      - I Agree and Authorize
+      - I Do Not Authorize
+      required: true
+    - id: 22
+      name: additional_terms
+      label: Additional Terms or Conditions
+      hint: Any special requests or modifications
+      type: text
+      options: []
+      required: false

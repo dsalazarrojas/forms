@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Job Fair Registration Form
+    pages:
+    - id: 1
+      name: registration_form_fields
+      label: Registration Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recruiter_name
+      label: Recruiter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      required: true
+    - id: 7
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fair_start_date
+      label: Fair Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: fair_end_date
+      label: Fair End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: fair_location
+      label: Fair Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: fair_setup_date
+      label: Fair Setup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: fair_takedown_date
+      label: Fair Takedown Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_logo
+      label: Company Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_posting
+      label: Job Posting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_description
+      label: Company Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recruiter_comments
+      label: Recruiter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company_contact
+      label: Company Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true
+    - id: 22
+      name: job_type_description
+      label: Job Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Startup
+      - Corporation
+      - Non-Profit
+      required: false
+    - id: 24
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Marketing
+      - Finance
+      - Sales
+      - Arts
+      - Other
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

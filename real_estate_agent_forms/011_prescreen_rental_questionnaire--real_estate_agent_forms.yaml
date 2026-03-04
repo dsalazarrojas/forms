@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescreen Rental Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_income
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_available
+      label: Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rental_duration
+      label: Length of Stay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rental_type
+      label: Type of Rental
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: move_in_reason
+      label: Reason for Move-in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rental_status
+      label: Rental Status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 11
+      name: rental_property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rental_notes
+      label: Rental Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: tenant_status
+      label: Tenant Status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false

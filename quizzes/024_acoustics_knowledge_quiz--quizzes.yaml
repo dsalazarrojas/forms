@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acoustics Knowledge Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of the student taking the quiz
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Unique identifier for the student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Name of the course this quiz is for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date when the quiz is taken
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: What is the speed of sound in air at room temperature (approximately)
+      hint: Select the closest value
+      type: select_one
+      options: ["343 m/s", "1500 m/s", "300,000 km/s", "1200 m/s"]
+      required: true
+    - id: 6
+      name: question_2
+      label: Which property of sound determines its loudness
+      hint: Select the correct property
+      type: select_one
+      options: ["Frequency", "Amplitude", "Wavelength", "Speed"]
+      required: true
+    - id: 7
+      name: question_3
+      label: What is the range of human hearing in Hz
+      hint: Select the typical range
+      type: select_one
+      options: ["10 - 10,000 Hz", "20 - 20,000 Hz", "50 - 50,000 Hz", "100 - 100,000 Hz"]
+      required: true
+    - id: 8
+      name: question_4
+      label: Sound waves are classified as which type of wave
+      hint: Select the correct classification
+      type: select_one
+      options: ["Transverse waves", "Longitudinal waves", "Electromagnetic waves", "Surface waves"]
+      required: true
+    - id: 9
+      name: question_5
+      label: What unit is used to measure sound intensity
+      hint: Select the correct unit
+      type: select_one
+      options: ["Hertz", "Decibel", "Pascal", "Watt"]
+      required: true
+    - id: 10
+      name: question_6
+      label: Which phenomenon occurs when sound waves bend around obstacles
+      hint: Select the correct phenomenon
+      type: select_one
+      options: ["Reflection", "Refraction", "Diffraction", "Absorption"]
+      required: true
+    - id: 11
+      name: question_7
+      label: What happens to the frequency of sound when the source moves toward the observer
+      hint: This relates to the Doppler effect
+      type: select_one
+      options: ["Frequency increases", "Frequency decreases", "Frequency remains the same", "Frequency becomes zero"]
+      required: true
+    - id: 12
+      name: question_8
+      label: Which material is the best sound insulator
+      hint: Select the best option for sound insulation
+      type: select_one
+      options: ["Steel", "Concrete", "Cork", "Glass"]
+      required: true
+    - id: 13
+      name: question_9
+      label: What is resonance in acoustics
+      hint: Select the best definition
+      type: select_one
+      options: ["Sound absorption", "Increase in amplitude at natural frequency", "Sound reflection", "Sound transmission"]
+      required: true
+    - id: 14
+      name: question_10
+      label: Briefly explain the relationship between pitch and frequency
+      hint: Describe how pitch and frequency are related
+      type: text
+      options: []
+      required: false

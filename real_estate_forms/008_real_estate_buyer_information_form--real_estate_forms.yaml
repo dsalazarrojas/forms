@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Buyer Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: street_address
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: desired_mortgage
+      label: Desired Mortgage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: desired_property_type
+      label: Desired Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Duplex
+      required: false
+    - id: 11
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - City
+      - Suburbs
+      - Rural
+      - Coastal
+      required: false
+    - id: 12
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false

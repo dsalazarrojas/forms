@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: generalInquiryRequestForm
+    pages:
+    - id: 1
+      name: customerinfo
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquirytype
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: true
+    - id: 3
+      name: inquirydetails
+      label: Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customerrequest
+      label: Customer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: businessinfo
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: saleschannel
+      label: Sales Channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: preferredcontactmethod
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: true
+    - id: 8
+      name: customernotes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: businessnotes
+      label: Business Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigneduser
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      required: true
+    - id: 11
+      name: submittedat
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submittedby
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - self
+      - user
+      - agent
+      required: true
+    - id: 13
+      name: customerconfirmation
+      label: Customer Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 14
+      name: businessresponse
+      label: Business Response
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 15
+      name: assignedstatus
+      label: Assigned Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Resolved
+      required: true
+    - id: 16
+      name: resolvedby
+      label: Resolved By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - user
+      - agent
+      required: false
+    - id: 17
+      name: resolvedat
+      label: Resolved At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submittedattime
+      label: Submitted At Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submittedbytime
+      label: Submitted By Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: assignedstatustime
+      label: Assigned Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: resolvedstatustime
+      label: Resolved Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: customerresponsetime
+      label: Customer Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: businessresponsetime
+      label: Business Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: responsestatustime
+      label: Response Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: resolutiontime
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false

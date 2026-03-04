@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Appraisal Checklist Form
+    pages:
+    - id: 1
+      name: appraiser
+      label: Appraiser
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sqft
+      label: Sq Ft
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: roof_condition
+      label: Roof Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Poor''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Good''}'
+      - '{''id'': 4, ''name'': ''Excellent''}'
+      required: true
+    - id: 6
+      name: foundation
+      label: Foundation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Cracked''}'
+      - '{''id'': 2, ''name'': ''Level''}'
+      - '{''id'': 3, ''name'': ''Good''}'
+      required: true
+    - id: 7
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: neighborhood_type
+      label: Neighbourhood
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Urban''}'
+      - '{''id'': 2, ''name'': ''Suburban''}'
+      - '{''id'': 3, ''name'': ''Rural''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: photo_url
+      label: Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: appraiser_signature
+      label: Appraiser Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: true

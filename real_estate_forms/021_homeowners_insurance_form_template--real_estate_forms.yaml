@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowners Insurance Form Template
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - '{''type'': ''single_family_home''}'
+      - '{''type'': ''condominium''}'
+      - '{''type'': ''townhouse''}'
+      - '{''type'': ''duplex''}'
+      - '{''type'': ''apartment_complex''}'
+      - '{''type'': ''single_family_home_with_mortgage''}'
+      required: false
+    - id: 3
+      name: home_square_footage
+      label: Home Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: home_location
+      label: Home Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''location'': ''single_family_home''}'
+      - '{''location'': ''condominium''}'
+      - '{''location'': ''townhouse''}'
+      - '{''location'': ''duplex''}'
+      - '{''location'': ''apartment_complex''}'
+      required: false
+    - id: 6
+      name: policy_holder_type
+      label: Policy Holder Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''type'': ''individual''}'
+      - '{''type'': ''joint''}'
+      - '{''type'': ''corporate''}'
+      required: false
+    - id: 7
+      name: policy_holder_first_name
+      label: Policy Holder First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policy_holder_last_name
+      label: Policy Holder Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: select_multiple
+      options:
+      - '{''phone'': ''mobile''}'
+      - '{''phone'': ''landline''}'
+      - '{''phone'': ''email''}'
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false

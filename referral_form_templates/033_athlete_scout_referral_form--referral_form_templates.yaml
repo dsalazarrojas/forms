@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Scout Referral Form
+    pages:
+    - id: 1
+      name: scout_info_header
+      label: -- Scout Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: scout_name
+      label: Scout Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: scout_org
+      label: Scout Organization or Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: scout_email
+      label: Scout Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: scout_phone
+      label: Scout Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: athlete_info_header
+      label: -- Referred Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: athlete_dob
+      label: Athlete Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: current_team
+      label: Current Team or Club
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: athlete_position
+      label: Position or Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: grad_year
+      label: Graduating Class Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: evaluation_header
+      label: -- Scouting Evaluation and Referral --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: scouting_grade
+      label: Overall Scouting Grade
+      hint: 1 is Low Prospect, 10 is Elite Prospect
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 15
+      name: scout_strengths
+      label: Key Strengths Noted
+      hint: What makes this athlete stand out?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: scout_improvements
+      label: Key Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: roster_comparison
+      label: Comparison to Current Team Roster
+      hint: How do they fit into our current depth chart?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recruiting_status
+      label: Recommended Recruiting Priority
+      hint: null
+      type: select_one
+      options:
+      - Priority 1 - High Interest
+      - Priority 2 - Interested
+      - Priority 3 - Developmental
+      - Not a Fit at this time
+      required: true
+    - id: 19
+      name: supporting_evidence_header
+      label: -- Supporting Evidence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: footage_link
+      label: Link to Game Footage
+      hint: e.g. YouTube, Hudl, or Drive link
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: profile_link
+      label: Link to Statistics or Online Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: document_description
+      label: Description of Attached Scouting Report
+      hint: Describe any files being sent separately
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature_header
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: scout_signature
+      label: Scout Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: referral_date
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Tournament Registration Form
+    pages:
+    - id: 1
+      name: team_info_header
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Head Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coach_email
+      label: Coach Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: coach_phone
+      label: Coach Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: division_selection
+      label: Tournament Division
+      hint: null
+      type: select_one
+      options:
+      - Under 12
+      - Under 14
+      - Under 16
+      - Under 18
+      - Men Open
+      - Women Open
+      required: true
+    - id: 7
+      name: medical_header
+      label: -- Medical and Health Information --
+      hint: Information for the team as a whole or specific players
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: critical_medical_info
+      label: Do any players have critical medical conditions or allergies?
+      hint: Please list player name and condition
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_carrier
+      label: Team Insurance Carrier
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: liability_header
+      label: -- Release of Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: liability_agreement
+      label: I agree to the tournament release of liability terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 12
+      name: code_of_conduct
+      label: I agree to the Tournament Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: registration_fee_ack
+      label: Payment Method for Entry Fee ($250)
+      hint: null
+      type: select_one
+      options:
+      - Credit Card Online
+      - Bank Transfer
+      - Check by Mail
+      required: true
+    - id: 14
+      name: submission_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

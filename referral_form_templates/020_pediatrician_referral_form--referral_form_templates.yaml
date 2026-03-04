@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatrician Referral Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Asthma''}'
+      - '{''id'': 2, ''name'': ''Allergies''}'
+      - '{''id'': 3, ''name'': ''ADHD''}'
+      - '{''id'': 4, ''name'': ''Autism''}'
+      - '{''id'': 5, ''name'': ''Cancer''}'
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Acetaminophen''}'
+      - '{''id'': 2, ''name'': ''Albuterol''}'
+      - '{''id'': 3, ''name'': ''Amoxicillin''}'
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Peanuts''}'
+      - '{''id'': 2, ''name'': ''Shellfish''}'
+      - '{''id'': 3, ''name'': ''Tree Nuts''}'
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Family Member''}'
+      - '{''id'': 2, ''name'': ''General Practitioner''}'
+      - '{''id'': 3, ''name'': ''Specialist''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Doctor''}'
+      - '{''id'': 2, ''name'': ''Nurse''}'
+      required: false
+    - id: 15
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Done''}'
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: physician_address
+      label: Physician Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false

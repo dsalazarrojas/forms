@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Digitalization Program Registration
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Auditing
+      - Financial Management
+      - IT
+      required: false
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Manager
+      - Analyst
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

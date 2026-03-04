@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Performance Stage Access Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performer
+      label: Performer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_staff
+      label: Event Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Stage Manager
+      - Sound Technician
+      - Light Technician
+      required: true
+    - id: 5
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: restricted_areas
+      label: Restricted Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: performance_start_time
+      label: Performance Start Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: performance_end_time
+      label: Performance End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: performance_duration
+      label: Performance Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: access_status
+      label: Access Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referral Strategy Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Referral Strategy Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referrer_message
+      label: Referrer Message
+      hint: null
+      type: text
+      options: []
+      required: false

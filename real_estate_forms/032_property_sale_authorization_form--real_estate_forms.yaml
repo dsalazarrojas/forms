@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sale Authorization Form
+    pages:
+    - id: 1
+      name: property_sale_authorization_form
+      label: Property Sale Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: authorized_agent
+      label: Authorized Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: commission_rate
+      label: Commission Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: buyer
+      label: Buyer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: agent_agreement_date
+      label: Agent Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: agent_agreement_expiration_date
+      label: Agent Agreement Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: authorization_notes
+      label: Authorization Notes
+      hint: null
+      type: note
+      options: []
+      required: false

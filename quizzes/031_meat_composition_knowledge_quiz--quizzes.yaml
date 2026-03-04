@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meat Composition Knowledge Quiz
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 4
+      name: meat_type
+      label: Type Of Meat
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Poultry
+      - Fish
+      required: false
+    - id: 5
+      name: quiz_part
+      label: Quiz Part
+      hint: null
+      type: select_one
+      options:
+      - Part 1
+      - Part 2
+      required: false
+    - id: 6
+      name: meat_nutrient
+      label: Meat Nutrient
+      hint: null
+      type: select_multiple
+      options:
+      - Energy
+      - Protein
+      - Fat
+      required: false
+    - id: 7
+      name: participant_nutrient
+      label: Participants Nutrient Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

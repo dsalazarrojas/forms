@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Feedback Form
+    pages:
+    - id: 1
+      name: open_house_attendance
+      label: Attended Open House
+      hint: null
+      type: select_one
+      options:
+      - Yes, I attended
+      - No, I did not attend
+      required: true
+    - id: 2
+      name: rating
+      label: How would you rate the Open House
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_comments
+      label: Why did you rate it that way
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_was_most_important
+      label: What was most important for you
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Location
+      - Price
+      - Layout
+      required: false
+    - id: 5
+      name: why_no_attendance
+      label: Why did you not attend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: How would you like to be contacted
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Additional comments
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actuarial Exam Site Preference Form
+    pages:
+    - id: 1
+      name: candidate_header
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_id
+      label: Candidate ID Number
+      hint: Issued by the Actuarial Society
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exam_header
+      label: -- Exam and Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exam_code
+      label: Exam Code / Name
+      hint: e.g. P, FM, IFM, LTAM
+      type: select_one
+      options:
+      - Exam P (Probability)
+      - Exam FM (Financial Mathematics)
+      - Exam IFM (Investment and Financial Markets)
+      - Exam LTAM (Long-Term Actuarial Mathematics)
+      - Exam STAM (Short-Term Actuarial Mathematics)
+      - Other
+      required: true
+    - id: 8
+      name: exam_session
+      label: Exam Session Month/Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: site_preferences
+      label: -- Site Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_site_preference
+      label: Primary Site Preference
+      hint: null
+      type: select_one
+      options:
+      - Region 1 - North America East
+      - Region 2 - North America West
+      - Region 3 - Europe / Middle East
+      - Region 4 - Asia Pacific
+      - Region 5 - South America
+      required: true
+    - id: 11
+      name: specific_city_preference
+      label: Specific City Preference
+      hint: Enter your preferred city if known
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: secondary_site_preference
+      label: Secondary Site Preference (Backup)
+      hint: null
+      type: select_one
+      options:
+      - No Backup Needed
+      - Alternate Regional Site
+      - Remote / Online Proctoring (if available)
+      required: true
+    - id: 13
+      name: accommodation_needs
+      label: Special Testing Accommodations
+      hint: Do you require specific accessibility or medical accommodations?
+      type: select_one
+      options:
+      - No - Standard Testing Environment
+      - Yes - Extended Time Requested
+      - Yes - Physical Accessibility Needed
+      - Yes - Screen Reader / Assistive Tech Needed
+      - Yes - Other (Please specify below)
+      required: true
+    - id: 14
+      name: accommodation_details
+      label: Detailed Accommodation Description
+      hint: If 'Yes' selected above, please describe requirements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: acknowledgement_deadlines
+      label: I understand that site preferences are subject to availability and deadlines
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_planning_inquiry_form
+    pages:
+    - id: 1
+      name: travel_plan
+      label: travel_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dates
+      label: dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: travel_service_provider
+      label: travel_service_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: number_of_travelers
+      label: number_of_travelers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - english
+      - french
+      - spanish
+      required: true
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency_phone
+      label: travel_agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_agency_email
+      label: travel_agency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency_website
+      label: travel_agency_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_agency_address
+      label: travel_agency_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_at_reported_at
+      label: updated_at.reported_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - adventure
+      - business
+      - leisure
+      - relaxation
+      required: false
+    - id: 25
+      name: travel_style
+      label: travel_style
+      hint: null
+      type: select_multiple
+      options:
+      - beach
+      - cultural
+      - history
+      - relaxation
+      - urban
+      - nature
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auriculotherapy Training Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date you are registering
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: professional_credential
+      label: Current Professional Credential
+      hint: Your healthcare background
+      type: select_one
+      options:
+      - Acupuncturist
+      - Massage Therapist
+      - Nurse
+      - Physician
+      - Chiropractor
+      - Naturopath
+      - Student
+      - Other Healthcare
+      - No Healthcare Background
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Healthcare Experience
+      hint: How long in healthcare field
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: prior_auriculotherapy
+      label: Prior Auriculotherapy Experience
+      hint: Have you studied auriculotherapy before
+      type: select_one
+      options:
+      - No Experience
+      - Some Basic Knowledge
+      - Intermediate Experience
+      - Advanced Experience
+      required: true
+    - id: 9
+      name: training_course_level
+      label: Training Course Level Selected
+      hint: Which level are you registering for
+      type: select_one
+      options:
+      - Beginner Level 1
+      - Beginner Level 2
+      - Intermediate Level 3
+      - Advanced Level 4
+      - Certification Track
+      required: true
+    - id: 10
+      name: training_start_date
+      label: Training Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: training_format
+      label: Preferred Training Format
+      hint: How would you like to learn
+      type: select_one
+      options:
+      - In-Person
+      - Online
+      - Hybrid - Mix of Both
+      - Intensive Weekend
+      - Self-Paced
+      required: true
+    - id: 12
+      name: location_preference
+      label: Location or Timezone Preference
+      hint: Where are you located
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: training_motivation
+      label: Reason for Attending Training
+      hint: Why are you interested in this course
+      type: select_one
+      options:
+      - Career Enhancement
+      - Professional Certification
+      - Add to Existing Practice
+      - Personal Interest
+      - Career Change
+      - Referral Client Requirement
+      required: true
+    - id: 14
+      name: career_goals
+      label: Career Goals After Training
+      hint: How do you plan to use this training
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_needs
+      label: Special Accommodation Needs
+      hint: Any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: prior_training_experience
+      label: Learning Style Preference
+      hint: How do you learn best
+      type: select_one
+      options:
+      - Hands-On Practice
+      - Lecture and Discussion
+      - Visual Demonstrations
+      - Small Group Work
+      - One-on-One Mentoring
+      required: false
+    - id: 17
+      name: registration_fee_amount
+      label: Registration Fee Amount
+      hint: Confirm course fee
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Payment Plan
+      - Other
+      required: true
+    - id: 19
+      name: payment_plan_interest
+      label: Interested in Payment Plan
+      hint: Would you like installment payments
+      type: select_one
+      options:
+      - Yes - Interested
+      - No - Full Payment
+      - Need More Information
+      required: false
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: health_conditions
+      label: Health Conditions to Note
+      hint: Any health issues relevant to training
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agreement_checkbox
+      label: Agree to Course Terms and Conditions
+      hint: Do you accept course policies
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

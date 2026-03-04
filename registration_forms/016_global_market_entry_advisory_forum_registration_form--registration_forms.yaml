@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Market Entry Advisory Forum Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferences
+      label: preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: topics_interest
+      label: topics_of_interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_info_additional
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicants Registration Form
+    pages:
+    - id: 1
+      name: registration_section
+      label: -- Registration details --
+      hint: Provide the applicant registration information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Applicant birth date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: desired_course
+      label: Desired course or program
+      hint: Select preferred course
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prior_education
+      label: Prior education
+      hint: Highest level of education completed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registration_date
+      label: Registration date
+      hint: Date of registration submission
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requirements
+      label: Special requirements
+      hint: Accessibility or dietary needs
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Study Video Diary Consent Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Study Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For study communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: study_id_number
+      label: Assigned Study ID Number
+      hint: Provided by the research team
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_video_consent
+      label: -- Consent for Video Recording --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: video_diary_consent
+      label: I agree to record and submit video diaries as part of this study
+      hint: Participation agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 8
+      name: data_use_authorization
+      label: I authorize the use of my video data for
+      hint: Select all approved purposes
+      type: select_multiple
+      options:
+      - Research Analysis
+      - Academic Presentations
+      - Journal Publications
+      - Educational Training
+      required: true
+    - id: 9
+      name: withdraw_understanding
+      label: I understand I can withdraw from the study at any time
+      hint: Right to exit
+      type: select_one
+      options:
+      - Yes - I Understand
+      - Other
+      required: true
+    - id: 10
+      name: section_privacy
+      label: -- Privacy and Confidentiality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confidentiality_assurance
+      label: I understand my data will be stored securely and my name will be anonymized
+      hint: Data protection guarantee
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 12
+      name: facial_blur_request
+      label: Do you request facial blurring in public presentations of the data?
+      hint: Privacy preference for dissemination
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: section_ack
+      label: -- Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: legal_agreement
+      label: I have read the participation information sheet and agree to the terms
+      hint: Final legal acknowledgement
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: participant_signature
+      label: Electronic Signature - Type Full Name
+      hint: Type your name to sign
+      type: text
+      options: []
+      required: true

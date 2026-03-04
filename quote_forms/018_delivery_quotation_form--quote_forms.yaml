@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: delivery_quotation_form
+    pages:
+    - id: 1
+      name: quotation_details
+      label: Quotation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Address 1''}'
+      - '{''id'': 2, ''name'': ''Address 2''}'
+      - '{''id'': 3, ''name'': ''Address 3''}'
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

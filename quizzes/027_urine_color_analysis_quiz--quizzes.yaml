@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urine Color Analysis Quiz
+    pages:
+    - id: 1
+      name: urine_color_analysis_quiz
+      label: Urine Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hydration_frequency
+      label: Hydration Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Every Other Day
+      - Every Few Days
+      - Never
+      required: false
+    - id: 3
+      name: color_of_urine
+      label: Color of Urine
+      hint: null
+      type: select_multiple
+      options:
+      - Clear
+      - Dark Yellow/ Amber
+      - Light Yellow
+      - Pink
+      - Red/Brown
+      - Tan/Brown
+      - White/Cloudy
+      - Watermelon
+      required: false
+    - id: 4
+      name: urine_specifics
+      label: Urine Specifics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_submission_date
+      label: Next Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: next_submission_time
+      label: Next Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: next_submission_note
+      label: Next Submission Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

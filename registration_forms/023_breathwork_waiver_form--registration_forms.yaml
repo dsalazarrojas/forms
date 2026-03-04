@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breathwork Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_date
+      label: Breathwork Session Date
+      hint: Date of the session
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: practitioner_name
+      label: Practitioner Name
+      hint: Name of the breathwork facilitator
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Do you have any medical conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Asthma
+      - COPD or lung disease
+      - Heart condition
+      - High blood pressure
+      - Seizure disorder
+      - Pregnancy
+      - Mental health condition
+      - Recent surgery
+      - No medical conditions
+      required: true
+    - id: 10
+      name: medications_taken
+      label: Current Medications
+      hint: Are you taking medications
+      type: select_one
+      options:
+      - No medications
+      - Taking prescription medications
+      - Taking over-the-counter medications
+      - Taking supplements
+      - Combination of above
+      required: true
+    - id: 11
+      name: medications_list
+      label: List Current Medications
+      hint: Please list your medications if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: breathing_issues
+      label: History of Breathing or Respiratory Issues
+      hint: Any previous respiratory concerns
+      type: select_one
+      options:
+      - No issues
+      - Mild issues
+      - Moderate issues
+      - Severe issues
+      - Unsure
+      required: false
+    - id: 13
+      name: mental_health
+      label: History of Mental Health Concerns
+      hint: Any mental health conditions
+      type: select_one
+      options:
+      - No history
+      - Mild concerns
+      - Moderate concerns
+      - Severe concerns
+      - Currently being treated
+      required: false
+    - id: 14
+      name: previous_breathwork
+      label: Previous Breathwork Experience
+      hint: Have you done breathwork before
+      type: select_one
+      options:
+      - No experience
+      - Minimal experience
+      - Some experience
+      - Regular practice
+      - Intensive practice
+      required: false
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: Any relevant allergies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physical_limitations
+      label: Physical Limitations or Injuries
+      hint: Any current injuries or limitations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: intention
+      label: Your Intention for This Session
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: health_acknowledgment
+      label: -- Health and Safety Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: waiver_acknowledgment
+      label: I acknowledge that I have disclosed all relevant health information
+      hint: Confirm your disclosure
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I need to add information
+      required: true
+    - id: 20
+      name: risk_understanding
+      label: I understand the risks of breathwork including dizziness, lightheadedness,
+        and potential psychological responses
+      hint: Acknowledge understanding of risks
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 21
+      name: waiver_agreement
+      label: I agree to release the practitioner and facility from liability related
+        to this session
+      hint: Sign the waiver
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 22
+      name: participant_signature
+      label: Participant Signature
+      hint: I voluntarily assume all risks
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true

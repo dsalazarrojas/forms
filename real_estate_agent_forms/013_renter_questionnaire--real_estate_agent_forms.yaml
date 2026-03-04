@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renter Questionnaire
+    pages:
+    - id: 1
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Tenant agrees to pay rent on time
+      - Tenant agrees to pay rent on time
+      - Tenant agrees to be responsible
+      - Tenant agrees to be responsible
+      - Tenant agrees to be respectful of neighbors
+      - Tenant agrees to be respectful of neighbors
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment
+      label: Employment
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Disabled
+      - Other
+      required: false
+    - id: 4
+      name: rent_history
+      label: Rent History
+      hint: null
+      type: select_multiple
+      options:
+      - Paid Rent on Time
+      - Partially Paid Rent on Time
+      - Did not pay rent
+      required: false
+    - id: 5
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false

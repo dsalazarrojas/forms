@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Submission Approval Form
+    pages:
+    - id: 1
+      name: section_submission_info
+      label: -- Submission Information --
+      type: note
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter Name
+      hint: Your full name
+      type: text
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email Address
+      hint: For submission confirmation
+      type: email
+      required: true
+    - id: 4
+      name: submitter_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      required: false
+    - id: 5
+      name: submission_date
+      label: Submission Date
+      hint: Date you are submitting
+      type: date
+      required: true
+    - id: 6
+      name: section_business_plan_details
+      label: -- Business Plan Details --
+      type: note
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: Name of the business in the plan
+      type: text
+      required: true
+    - id: 8
+      name: business_type
+      label: Type of Business
+      hint: Industry or sector
+      type: text
+      required: true
+    - id: 9
+      name: plan_version
+      label: Plan Version or Date
+      hint: Version number or last updated date
+      type: text
+      required: false
+    - id: 10
+      name: section_compliance_checklist
+      label: -- Compliance Checklist --
+      type: note
+      required: false
+    - id: 11
+      name: executive_summary_included
+      label: Executive Summary Included
+      hint: Plan includes executive summary
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 12
+      name: financial_projections_included
+      label: Financial Projections Included
+      hint: Revenue, expense, and profit projections provided
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 13
+      name: market_analysis_included
+      label: Market Analysis Included
+      hint: Market research and competitor analysis provided
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 14
+      name: operations_plan_included
+      label: Operations Plan Included
+      hint: Detailed operations strategy included
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 15
+      name: management_team_described
+      label: Management Team Described
+      hint: Key personnel and roles documented
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 16
+      name: section_document_review
+      label: -- Document Review --
+      type: note
+      required: false
+    - id: 17
+      name: document_quality
+      label: Document Quality and Formatting
+      hint: Rate the overall presentation
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 18
+      name: completeness_assessment
+      label: Plan Completeness
+      hint: Is the plan comprehensive
+      type: select_one
+      options:
+      - Incomplete - Major gaps
+      - Incomplete - Some gaps
+      - Adequate
+      - Complete
+      - Comprehensive
+      required: false
+    - id: 19
+      name: section_approval
+      label: -- Approval Status --
+      type: note
+      required: false
+    - id: 20
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of person reviewing plan
+      type: text
+      required: false
+    - id: 21
+      name: approval_status
+      label: Approval Status
+      hint: What is the approval decision
+      type: select_one
+      options:
+      - Approved
+      - Approved with conditions
+      - Pending further review
+      - Rejected
+      - Needs revision
+      required: true
+    - id: 22
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: Any feedback or comments
+      type: text
+      required: false
+    - id: 23
+      name: next_steps
+      label: Next Steps
+      hint: What happens after this submission
+      type: text
+      required: false

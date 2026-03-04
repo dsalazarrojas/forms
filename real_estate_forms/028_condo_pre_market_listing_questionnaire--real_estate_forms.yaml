@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Condo Pre Market Listing Questionnaire
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner name
+      hint: Property owner or listing agent
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_size
+      label: Unit size square feet
+      hint: Approximate living area
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: bedrooms_bathrooms
+      label: Bedrooms and bathrooms
+      hint: e g 2 bed 2 bath
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: year_built
+      label: Year built
+      hint: Year of construction
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recent_upgrades
+      label: Recent upgrades or renovations
+      hint: Brief description of improvements
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hoa_fees
+      label: HOA fees monthly
+      hint: Monthly common charges
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: listing_price_expectation
+      label: Listing price expectation
+      hint: Target asking price
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unique_features
+      label: Unique property features
+      hint: Highlight selling points
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: marketing_preferences
+      label: Marketing preferences
+      hint: Preferred channels or open house options
+      type: text
+      options: []
+      required: false

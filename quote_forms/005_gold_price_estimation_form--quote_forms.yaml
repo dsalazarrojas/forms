@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gold Price Estimation Form
+    pages:
+    - id: 1
+      name: item_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - type_a
+      - type_b
+      - type_c
+      required: false
+    - id: 3
+      name: item_size
+      label: Item Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_metal_type
+      label: Item Metal Type
+      hint: null
+      type: select_multiple
+      options:
+      - gold
+      - silver
+      - copper
+      required: false
+    - id: 5
+      name: item_carat_weight
+      label: Item Carat Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_inquiry
+      label: Customer Inquiry
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: customer_estimate
+      label: Customer Estimate
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false

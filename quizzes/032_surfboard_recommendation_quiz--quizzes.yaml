@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surfboard Recommendation Quiz
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surf_style
+      label: surf_style
+      hint: null
+      type: select_one
+      options:
+      - Surf
+      - Longboard
+      - Funboard
+      - Shortboard
+      required: false
+    - id: 3
+      name: skill_level
+      label: skill_level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Master
+      required: false
+    - id: 4
+      name: wave_type
+      label: wave_type
+      hint: null
+      type: select_one
+      options:
+      - Small Wave
+      - Medium Wave
+      - Large Wave
+      required: false
+    - id: 5
+      name: wave_condition
+      label: wave_condition
+      hint: null
+      type: select_one
+      options:
+      - Windy
+      - Choppy
+      - Choppy
+      - Choppy
+      - Glassy
+      required: false
+    - id: 6
+      name: wave_height
+      label: wave_height
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: wave_speed
+      label: wave_speed
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      required: false
+    - id: 8
+      name: preferred_board_type
+      label: preferred_board_type
+      hint: null
+      type: select_one
+      options:
+      - Funboard
+      - Shortboard
+      - Longboard
+      - Fishboard
+      required: false
+    - id: 9
+      name: surf_frequency
+      label: surf_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Several times a month
+      - Rarely
+      required: false
+    - id: 10
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: surf_area
+      label: surf_area
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Lake
+      - River
+      required: false
+    - id: 12
+      name: recommended_board_type
+      label: recommended_board_type
+      hint: null
+      type: select_one
+      options:
+      - Surfboard
+      - Funboard
+      - Longboard
+      required: false
+    - id: 13
+      name: recommended_size
+      label: recommended_size
+      hint: null
+      type: select_one
+      options:
+      - '5.5'
+      - '6.5'
+      - '7.5'
+      - '8.5'
+      - '9.5'
+      required: false
+    - id: 14
+      name: recommended_speed
+      label: recommended_speed
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      required: false
+    - id: 15
+      name: recommended_width
+      label: recommended_width
+      hint: null
+      type: select_one
+      options:
+      - '22'
+      - '24'
+      - '26'
+      - '28'
+      required: false
+    - id: 16
+      name: recommended_fins
+      label: recommended_fins
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Twin
+      - Thruster
+      - Quad
+      required: false
+    - id: 17
+      name: recommended_tail_type
+      label: recommended_tail_type
+      hint: null
+      type: select_one
+      options:
+      - Squash
+      - Squash 2+1
+      - Square
+      - Round
+      required: false
+    - id: 18
+      name: recommended_fins_spacing
+      label: recommended_fins_spacing
+      hint: null
+      type: select_one
+      options:
+      - 0-4
+      - 5-8
+      - 9-12
+      required: false
+    - id: 19
+      name: recommended_fins_size
+      label: recommended_fins_size
+      hint: null
+      type: select_one
+      options:
+      - '4.5'
+      - '6.5'
+      - '8'
+      - '10'
+      required: false
+    - id: 20
+      name: recommended_leash_type
+      label: recommended_leash_type
+      hint: null
+      type: select_one
+      options:
+      - Leash
+      - No Leash
+      required: false
+    - id: 21
+      name: recommended_leash_size
+      label: recommended_leash_size
+      hint: null
+      type: select_one
+      options:
+      - 7-9
+      - 9-12
+      required: false
+    - id: 22
+      name: recommended_wetsuit
+      label: recommended_wetsuit
+      hint: null
+      type: select_one
+      options:
+      - No Wetsuit
+      - 0/2mm
+      - 2/4mm
+      - 4/6mm
+      - 6/7mm
+      required: false
+    - id: 23
+      name: recommended_booties
+      label: recommended_booties
+      hint: null
+      type: select_one
+      options:
+      - Booties
+      - No Booties
+      required: false
+    - id: 24
+      name: recommended_gloves
+      label: recommended_gloves
+      hint: null
+      type: select_one
+      options:
+      - Gloves
+      - No Gloves
+      required: false
+    - id: 25
+      name: recommended_hoodie
+      label: recommended_hoodie
+      hint: null
+      type: select_one
+      options:
+      - Hoodie
+      - No Hoodie
+      required: false
+    - id: 26
+      name: recommended_goggles
+      label: recommended_goggles
+      hint: null
+      type: select_one
+      options:
+      - Goggles
+      - No Goggles
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Planning Consultation Form
+    pages:
+    - id: 1
+      name: real_estate_forms
+      label: Estate Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: real_estate_forms_lawyer
+      label: Lawyer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: estate_planning_details
+      label: Estate Planning Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: consultation_details
+      label: Consultation Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_planning_services
+      label: Real Estate Planning Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

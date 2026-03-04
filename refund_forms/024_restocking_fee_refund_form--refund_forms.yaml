@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: restocking_fee_refund_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_refund
+      label: reason_for_refund
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: refund_amount
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: refund_method
+      label: refund_method
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

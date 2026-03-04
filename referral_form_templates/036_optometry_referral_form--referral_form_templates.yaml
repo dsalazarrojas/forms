@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Optometry Referral Form
+    pages:
+    - id: 1
+      name: patient_referral
+      label: patient referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: The patient's full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: Patient DOB
+      hint: Patient's date of birth
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: Patient Phone
+      hint: Patient's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: specialist_name
+      label: Specialist Name
+      hint: Specialist's name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: specialist_phone
+      label: Specialist Phone
+      hint: Specialist's phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: specialist_address
+      label: Specialist Address
+      hint: Specialist's address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referral_date
+      label: Referral Date
+      hint: Date of referral
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: referral_status
+      label: Referral Status
+      hint: Status of referral
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Pending
+      required: true
+    - id: 10
+      name: patient_condition
+      label: Patient Condition
+      hint: Patient's medical condition
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: specialist_comment
+      label: Specialist's Comment
+      hint: Comments for Specialist
+      type: text
+      options: []
+      required: false

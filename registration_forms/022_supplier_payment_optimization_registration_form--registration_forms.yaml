@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: supplier_payment_optimization_registration_form
+    pages:
+    - id: 1
+      name: supplier_payment_info_form
+      label: supplier_payment_info_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_contact_form
+      label: supplier_contact_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: payment_terms_form
+      label: payment_terms_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_frequency_form
+      label: payment_frequency_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_amount_form
+      label: payment_amount_form
+      hint: null
+      type: number
+      options: []
+      required: false

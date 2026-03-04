@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Membership Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: club_selection
+      label: Club Selection
+      hint: Which club are you joining
+      type: select_one
+      options:
+      - Sports Club
+      - Arts Club
+      - Academic Club
+      - Community Service
+      - Professional Club
+      - Social Club
+      required: true
+    - id: 6
+      name: membership_start_date
+      label: Desired Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: membership_year
+      label: Membership Year
+      hint: Academic or fiscal year
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: experience_level
+      label: Experience Level in Club Activity
+      hint: Beginner to expert
+      type: select_one
+      options:
+      - Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: waiver_acknowledgement
+      label: I Acknowledge Any Required Waivers
+      hint: Accept liability waivers if applicable
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - No, I Do Not Acknowledge
+      - Not Applicable
+      required: true
+    - id: 12
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      - No Preference
+      required: false
+    - id: 13
+      name: newsletter_subscription
+      label: Subscribe to Club Newsletter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: additional_info
+      label: Additional Information
+      hint: Any other details you want to share
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consent_checkbox
+      label: I Consent to Data Collection and Use
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true

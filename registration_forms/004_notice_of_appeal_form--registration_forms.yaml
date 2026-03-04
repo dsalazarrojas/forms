@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notice Of Appeal Form
+    pages:
+    - id: 1
+      name: notice_of_appeal_form
+      label: Notice Of Appeal Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Registration Forms
+      - Information Request Forms
+      - Lawyer Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

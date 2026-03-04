@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: AlexU QCSS19
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Provide a contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: affiliation
+      label: Affiliation or institution
+      hint: University or organization name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_level
+      label: Position level
+      hint: Student, researcher, or faculty
+      type: select_one
+      options:
+      - Student
+      - Researcher
+      - Faculty
+      required: true
+    - id: 7
+      name: arrival_date
+      label: Arrival date
+      hint: Expected arrival date for the program
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Specify any dietary restrictions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Name and relation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Reference Request
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_start_date
+      label: Rental Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rental_end_date
+      label: Rental End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lease_status
+      label: Lease Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 11
+      name: reason_for_lease_end
+      label: Reason For Lease End
+      hint: null
+      type: select_multiple
+      options:
+      - No longer renting
+      - Lease renewal
+      - Lease cancellation
+      - Lease expiration
+      required: false
+    - id: 12
+      name: rental_agency
+      label: Rental Agency
+      hint: null
+      type: select_one
+      options:
+      - Property manager
+      - Real estate agent
+      - Property management company
+      - Other
+      required: false
+    - id: 13
+      name: rental_agency_contact
+      label: Rental Agency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: rental_agency_authorized
+      label: Rental Agency Authorized
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: landlord_notes
+      label: Landlord Notes
+      hint: null
+      type: note
+      options: []
+      required: false

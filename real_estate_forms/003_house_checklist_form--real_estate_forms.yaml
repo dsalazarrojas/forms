@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: House Checklist Form
+    pages:
+    - id: 1
+      name: house_status
+      label: house status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 2
+      name: basic_systems_status
+      label: basic systems status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Working''}'
+      - '{''value'': ''Not Working''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 3
+      name: engines_status
+      label: engines status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Working''}'
+      - '{''value'': ''Not Working''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 4
+      name: service_requirements
+      label: service requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exteriors_info
+      label: exteriors information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: security_info
+      label: security information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: additional information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: house_location
+      label: house location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Urban''}'
+      - '{''value'': ''Rural''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 9
+      name: has_pool
+      label: has pool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: has_garage
+      label: has garage
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

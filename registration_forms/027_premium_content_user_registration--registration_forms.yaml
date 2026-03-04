@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: premium_content_user_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_time
+      label: preferred contact time
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: true
+    - id: 6
+      name: preferred_contact_frequency
+      label: preferred contact frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - biweekly
+      required: true
+    - id: 7
+      name: agreement
+      label: agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: content_type
+      label: content type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: content_topic
+      label: content topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: content_description
+      label: content description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: content_link
+      label: content link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: content_video
+      label: content video
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: content_audio
+      label: content audio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: content_image
+      label: content image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: content_document
+      label: content document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: content_file
+      label: content file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: content_other
+      label: content other
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: subscription_plan
+      label: subscription plan
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - annual
+      required: true
+    - id: 19
+      name: subscription_term
+      label: subscription term
+      hint: null
+      type: select_one
+      options:
+      - free
+      - paid
+      required: true
+    - id: 20
+      name: subscription_start
+      label: subscription start
+      hint: null
+      type: select_one
+      options:
+      - start now
+      - later
+      required: true
+    - id: 21
+      name: subscription_end
+      label: subscription end
+      hint: null
+      type: select_one
+      options:
+      - no end date
+      - end date
+      required: true
+    - id: 22
+      name: content_agreement
+      label: content agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: content_agreement_date
+      label: content agreement date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: premium_feature_1
+      label: premium feature 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: premium_feature_2
+      label: premium feature 2
+      hint: null
+      type: text
+      options: []
+      required: true

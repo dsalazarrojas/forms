@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hbcdjs Packages Enquiry
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Holiday
+      - Event
+      - Party
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Resort
+      - Cottage
+      - Other
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quote_type
+      label: Quote Type
+      hint: null
+      type: select_one
+      options:
+      - Request Quote
+      - Order Package
+      required: true
+    - id: 13
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

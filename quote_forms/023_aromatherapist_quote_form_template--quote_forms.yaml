@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aromatherapist Quote Form Template
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Corporate
+      - Wellness center
+      - Spa or salon
+      - Medical facility
+      - Other
+      required: true
+    - id: 6
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Type of Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Aromatherapy consultation
+      - Essential oil blending
+      - Aromatherapy massage
+      - Wellness workshop
+      - Aromatherapy training
+      - Corporate event
+      - Custom service
+      required: true
+    - id: 8
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - Half day
+      - Full day
+      - Multiple sessions
+      required: true
+    - id: 9
+      name: number_of_people
+      label: Number of People to be Served
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: service_focus
+      label: Primary Focus of Service
+      hint: null
+      type: select_one
+      options:
+      - Relaxation and stress relief
+      - Pain management
+      - Energy and vitality
+      - Sleep improvement
+      - Immune support
+      - Emotional balance
+      - Custom wellness goal
+      required: true
+    - id: 11
+      name: section_preferences
+      label: -- Client Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_essential_oils
+      label: Preferred Essential Oils or Scents
+      hint: Leave blank for aromatherapist recommendation
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies_sensitivities
+      label: Allergies or Scent Sensitivities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requests
+      label: Special Requests or Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_scheduling
+      label: -- Scheduling Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_date
+      label: Preferred Date for Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: location_preference
+      label: Service Location
+      hint: null
+      type: select_one
+      options:
+      - Aromatherapist location
+      - Client location - at home
+      - Client location - workplace
+      - Neutral location
+      required: true
+    - id: 19
+      name: service_location_address
+      label: Location Address if Applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_budget
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 100
+      - 100-250
+      - 250-500
+      - 500-1000
+      - 1000+
+      - Flexible
+      required: false
+    - id: 22
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit card
+      - Bank transfer
+      - Check
+      - Other
+      required: true
+    - id: 23
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: how_heard
+      label: How did you hear about us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Any Additional Notes or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

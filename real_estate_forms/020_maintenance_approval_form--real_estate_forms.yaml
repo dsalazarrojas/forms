@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: maintenance_approval_form
+    pages:
+    - id: 1
+      name: first_page
+      label: Maintenance Approval Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Leasehold''}'
+      - '{''id'': 2, ''label'': ''Fee Simple''}'
+      - '{''id'': 3, ''label'': ''Land lease''}'
+      required: false
+    - id: 3
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration
+      label: Duration
+      hint: in hours or days
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false

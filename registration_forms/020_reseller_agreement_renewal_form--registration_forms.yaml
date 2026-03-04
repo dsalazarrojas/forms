@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reseller Agreement Renewal Form
+    pages:
+    - id: 1
+      name: reseller_agreement_renewal_form
+      label: reseller_agreement_renewal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reseller_agreement
+      label: reseller_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reseller_agreement_renewal
+      label: reseller_agreement_renewal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: agreement_type
+      label: agreement_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reseller_agreement_renewal_form
+      label: reseller_agreement_renewal_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reseller_agreement_renewal_date
+      label: reseller_agreement_renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reseller_agreement_renewal_time
+      label: reseller_agreement_renewal_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reseller_agreement_renewal_note
+      label: reseller_agreement_renewal_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Booking Form
+    pages:
+    - id: 1
+      name: property_id
+      label: Property Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      required: false
+    - id: 8
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Double
+      - Family
+      required: false
+    - id: 9
+      name: booking_duration
+      label: Booking Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false

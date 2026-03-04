@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checkbook Register Form
+    pages:
+    - id: 1
+      name: section_account_details
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_holder_full_name
+      label: Account Holder Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number_suffix
+      label: Account Number (Last 4 Digits)
+      hint: For tracking purposes only
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: register_period_month
+      label: Register Period Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 5
+      name: section_transaction_entry
+      label: -- Transaction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: transaction_date_entry
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: transaction_type_select
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Debit Card
+      - ATM Withdrawal
+      - Deposit
+      - Online Transfer (Out)
+      - Online Transfer (In)
+      - Automatic Payment
+      - Fee / Interest
+      required: true
+    - id: 8
+      name: check_number_entry
+      label: Check Number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transaction_description_memo
+      label: Description / Memo
+      hint: e.g. Grocery Store, Rent, Salary
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: withdrawal_payment_amount
+      label: Withdrawal (-) / Payment Amount ($)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: deposit_credit_amount
+      label: Deposit (+) / Credit Amount ($)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: tax_deductible_checkbox
+      label: Is this transaction tax deductible
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: transaction_category_label
+      label: Expense / Income Category
+      hint: null
+      type: select_one
+      options:
+      - Housing
+      - Utilities
+      - Food
+      - Transport
+      - Entertainment
+      - Healthcare
+      - Income / Salary
+      - Other
+      required: false
+    - id: 14
+      name: current_running_balance
+      label: Updated Running Balance ($)
+      hint: Calculated manually or by formula
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: entry_notes_additional
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

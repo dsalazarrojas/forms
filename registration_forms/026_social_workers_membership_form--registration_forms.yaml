@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Workers Membership Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_form
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_info
+      label: Work Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_info
+      label: Social Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_info
+      label: Member Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_info
+      label: Emergency Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member_photo
+      label: Member Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: registered_since
+      label: Registered Since
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''A'', ''name'': ''Member''}'
+      - '{''id'': ''B'', ''name'': ''Associate''}'
+      required: false
+    - id: 11
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''C'', ''name'': ''Active''}'
+      - '{''id'': ''D'', ''name'': ''Inactive''}'
+      - '{''id'': ''E'', ''name'': ''New''}'
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''name'': ''Member''}'
+      - '{''id'': ''2'', ''name'': ''Non-Member''}'
+      required: false
+    - id: 19
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''name'': ''Category''}'
+      - '{''id'': ''2'', ''name'': ''Another Category''}'
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''name'': ''New York''}'
+      - '{''id'': ''2'', ''name'': ''California''}'
+      - '{''id'': ''3'', ''name'': ''Chicago''}'
+      required: false
+    - id: 21
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: member_since_month
+      label: Member Since Month
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''name'': ''January''}'
+      - '{''id'': ''2'', ''name'': ''February''}'
+      - '{''id'': ''3'', ''name'': ''March''}'
+      - '{''id'': ''4'', ''name'': ''April''}'
+      - '{''id'': ''5'', ''name'': ''May''}'
+      - '{''id'': ''6'', ''name'': ''June''}'
+      - '{''id'': ''7'', ''name'': ''July''}'
+      - '{''id'': ''8'', ''name'': ''August''}'
+      - '{''id'': ''9'', ''name'': ''September''}'
+      - '{''id'': ''10'', ''name'': ''October''}'
+      - '{''id'': ''11'', ''name'': ''November''}'
+      - '{''id'': ''12'', ''name'': ''December''}'
+      required: false
+    - id: 23
+      name: member_since_year
+      label: Member Since Year
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''name'': 2010}'
+      - '{''id'': ''2'', ''name'': 2011}'
+      - '{''id'': ''3'', ''name'': 2012}'
+      - '{''id'': ''4'', ''name'': 2013}'
+      - '{''id'': ''5'', ''name'': 2014}'
+      - '{''id'': ''6'', ''name'': 2015}'
+      - '{''id'': ''7'', ''name'': 2016}'
+      - '{''id'': ''8'', ''name'': 2017}'
+      - '{''id'': ''9'', ''name'': 2018}'
+      - '{''id'': ''10'', ''name'': 2019}'
+      - '{''id'': ''11'', ''name'': 2020}'
+      - '{''id'': ''12'', ''name'': 2021}'
+      - '{''id'': ''13'', ''name'': 2022}'
+      required: false
+    - id: 24
+      name: member_since_month_days
+      label: Member Since Month Days
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: member_since_year_days
+      label: Member Since Year Days
+      hint: null
+      type: number
+      options: []
+      required: false

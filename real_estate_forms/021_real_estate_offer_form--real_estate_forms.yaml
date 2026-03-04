@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_offer_form
+    pages:
+    - id: 1
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: offer_details
+      label: Offer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: buyers_offer
+      label: Buyer's Offer
+      hint: null
+      type: select_multiple
+      options:
+      - Offer 1
+      - Offer 2
+      - Offer 3
+      required: false
+    - id: 5
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      - Townhouse
+      required: false
+    - id: 9
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: seller_info
+      label: Seller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: seller_phone
+      label: Seller Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: seller_email
+      label: Seller Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: offer_accepted
+      label: Offer Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: offer_comments
+      label: Offer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: offer_terms_accepted
+      label: Offer Terms Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: seller_terms_accepted
+      label: Seller Terms Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: seller_terms_comment
+      label: Seller Terms Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: offer_date
+      label: Offer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: offer_time
+      label: Offer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: offer_status
+      label: Offer Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 22
+      name: seller_status
+      label: Seller Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 23
+      name: offer_terms_status
+      label: Offer Terms Status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Refused
+      - Pending
+      required: false
+    - id: 24
+      name: seller_terms_status
+      label: Seller Terms Status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Refused
+      - Pending
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

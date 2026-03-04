@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chargeback Withdrawal Request Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Chargeback Withdrawal Request --
+        hint: Request to withdraw a previously submitted chargeback
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: requester name
+        hint: account holder requesting withdrawal
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: account_email
+        label: account email
+        hint: email associated with the account
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: chargeback_id
+        label: chargeback id
+        hint: reference for the chargeback case
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: original_transaction_id
+        label: original transaction id
+        hint: related transaction reference
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: reason_for_withdrawal
+        label: reason for withdrawal
+        hint: explain why you are withdrawing the chargeback
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: refund_method_preference
+        label: refund method preference
+        hint: preferred handling if refund required
+        type: select_one
+        options:
+          - Original payment method
+          - Store credit
+          - Bank transfer
+        required: false
+      - id: 8
+        name: supporting_documents
+        label: supporting documents
+        hint: any evidence supporting withdrawal
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: consent
+        label: consent
+        hint: confirm understanding of withdrawal consequences
+        type: select_one
+        options:
+          - I consent
+          - I do not consent
+        required: true
+      - id: 10
+        name: submission_date
+        label: submission date
+        hint: date of request
+        type: date
+        options: []
+        required: true

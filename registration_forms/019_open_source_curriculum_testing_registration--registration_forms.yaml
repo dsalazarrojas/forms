@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Source Curriculum Testing Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: test
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: false
+    - id: 9
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option A''}'
+      - '{''value'': ''Option B''}'
+      - '{''value'': ''Option C''}'
+      - '{''value'': ''Option D''}'
+      required: true
+    - id: 10
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: true
+    - id: 11
+      name: decimal
+      label: Decimal
+      hint: '2.5'
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: integer
+      label: Integer
+      hint: '12'
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: select_one_integer
+      label: Select One Integer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: true
+    - id: 14
+      name: select_multiple_integer
+      label: Select Multiple Integer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      required: true
+    - id: 15
+      name: text
+      label: Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: select_one_text
+      label: Select One Text
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: false
+    - id: 17
+      name: date_time
+      label: Date/Time
+      hint: "MM/DD/YYYY HH:MM AM/PM"
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: note_text
+      label: Note Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: time_date
+      label: Time/Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: decimal_2
+      label: Decimal 2
+      hint: '4.3'
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: integer_2
+      label: Integer 2
+      hint: '7'
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: select_one_decimal
+      label: Select One Decimal
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1.1}'
+      - '{''value'': 2.1}'
+      - '{''value'': 3.1}'
+      required: false
+    - id: 23
+      name: select_multiple_decimal
+      label: Select Multiple Decimal
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1.1}'
+      - '{''value'': 2.1}'
+      - '{''value'': 3.1}'
+      - '{''value'': 4.1}'
+      required: true
+    - id: 24
+      name: select_one_decimal_2
+      label: Select One Decimal 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1.1}'
+      - '{''value'': 2.1}'
+      - '{''value'': 3.1}'
+      required: true
+    - id: 25
+      name: select_multiple_decimal_2
+      label: Select Multiple Decimal 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1.1}'
+      - '{''value'': 2.1}'
+      - '{''value'': 3.1}'
+      - '{''value'': 4.1}'
+      required: true

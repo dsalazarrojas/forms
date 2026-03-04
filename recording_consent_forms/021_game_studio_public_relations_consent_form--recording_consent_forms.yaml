@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Studio Public Relations Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT and Engineering
+      - Marketing and Sales
+      - Operations
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: Time of birth
+      hint: null
+      type: time
+      options: []
+      required: false

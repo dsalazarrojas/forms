@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Ethics Workshop Registration
+    pages:
+    - id: 1
+      name: supplier_ethics_workshop_registration_form
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_notes
+      label: Notes (optional)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_agreed
+      label: Agreed to participate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: participant_agreed_note
+      label: Participant Agreed Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_agreed_note_required
+      label: None
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: participant_agreed_note_time
+      label: None
+      hint: null
+      type: time
+      options: []
+      required: false

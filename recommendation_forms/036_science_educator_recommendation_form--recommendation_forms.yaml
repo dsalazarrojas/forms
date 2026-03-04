@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Educator Recommendation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: reference_name
+      label: Reference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reference_title
+      label: Reference Title
+      hint: null
+      type: select_one
+      options:
+      - Dean/Principal
+      - Teacher
+      - Director
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reference_position
+      label: Reference Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: institution_address
+      label: Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_address
+      label: Reference Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reference_phone
+      label: Reference Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reference_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Colleague
+      - Student
+      - Supervisor
+      - Other (please specify)
+      required: true
+    - id: 12
+      name: reference_since
+      label: How long have you known the applicant?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: name_of_signer
+      label: Name of Signer
+      hint: null
+      type: text
+      options: []
+      required: false

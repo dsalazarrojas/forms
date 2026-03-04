@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Race Bib Clips Collection Form
+    pages:
+    - id: 1
+      name: form_title
+      label: race_bib_clips_collection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_id
+      label: event_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: bib_id
+      label: bib_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: return_time
+      label: return_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_return
+      label: confirm_return
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: confirm_return_date
+      label: confirm_return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: confirm_return_time
+      label: confirm_return_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: inventory
+      label: inventory
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Registration Form
+    pages:
+    - id: 1
+      name: candidate_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate_address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: candidate_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: candidate_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: candidate_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: candidate_country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: gender
+      label: Gender
+      hint: Gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 12
+      name: positions_interested
+      label: Positions You Are Interested In
+      hint: Job types
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Internship
+      - Remote
+      - Freelance
+      required: true
+    - id: 13
+      name: job_categories
+      label: Job Categories of Interest
+      hint: Types of roles
+      type: select_multiple
+      options:
+      - Administration
+      - Sales
+      - Marketing
+      - Customer Service
+      - IT or Technology
+      - Finance
+      - Human Resources
+      - Operations
+      - Healthcare
+      - Education
+      - Other
+      required: true
+    - id: 14
+      name: available_locations
+      label: Preferred Work Locations
+      hint: Where can you work
+      type: select_multiple
+      options:
+      - Downtown
+      - North side
+      - South side
+      - East side
+      - West side
+      - Remote only
+      - Flexible
+      required: true
+    - id: 15
+      name: highest_education
+      label: Highest Education Level
+      hint: Highest degree
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Professional certification
+      - Other
+      required: true
+    - id: 16
+      name: field_of_study
+      label: Field of Study
+      hint: Major or area
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: graduation_date
+      label: Graduation Date
+      hint: When did you graduate
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: years_experience
+      label: Years of Work Experience
+      hint: Total years
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: key_skills
+      label: Key Skills
+      hint: Your top skills
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: languages
+      label: Languages Spoken
+      hint: Language abilities
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      - Other
+      required: false
+    - id: 21
+      name: work_authorization
+      label: Are You Authorized to Work
+      hint: Work eligibility
+      type: select_one
+      options:
+      - Yes - citizen
+      - Yes - permanent resident
+      - Yes - work visa holder
+      - No - require sponsorship
+      required: true
+    - id: 22
+      name: salary_expectation
+      label: Salary Expectation
+      hint: Expected range
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: availability_to_start
+      label: When Can You Start
+      hint: Start date
+      type: select_one
+      options:
+      - Immediately
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 2 months
+      - More than 2 months
+      required: true
+    - id: 24
+      name: willing_to_relocate
+      label: Willing to Relocate
+      hint: Can you move
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 25
+      name: resume_uploaded
+      label: Resume Uploaded
+      hint: Have you attached resume
+      type: select_one
+      options:
+      - true
+      - Will send later
+      - Not yet
+      required: true
+    - id: 26
+      name: cover_letter_uploaded
+      label: Cover Letter Uploaded
+      hint: Have you attached cover letter
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: false
+    - id: 27
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Source
+      type: select_one
+      options:
+      - Company website
+      - Job board
+      - LinkedIn
+      - Employee referral
+      - Social media
+      - Career fair
+      - Other
+      required: true
+    - id: 28
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Ethics Advisory Workshop Registration Form
+    pages:
+    - id: 1
+      name: registrant_section
+      label: -- Registrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation and materials
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 10
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Finance
+      - Technology
+      - Healthcare
+      - Manufacturing
+      - Government
+      - Non-Profit
+      - Other
+      required: false
+    - id: 11
+      name: workshop_section
+      label: -- Workshop Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Which session would you like to attend?
+      type: select_one
+      options:
+      - Morning Session (9AM - 12PM)
+      - Afternoon Session (1PM - 4PM)
+      - Full Day Workshop
+      - Multiple Sessions
+      required: true
+    - id: 13
+      name: workshop_topics
+      label: Topics of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ethical Leadership
+      - Compliance Training
+      - Whistleblower Protections
+      - Code of Conduct
+      - Risk Management
+      - Case Study Analysis
+      required: true
+    - id: 14
+      name: experience_level
+      label: Ethics Program Experience Level
+      hint: Your background with ethics initiatives
+      type: select_one
+      options:
+      - No experience
+      - Some familiarity
+      - Moderate experience
+      - Extensive experience
+      required: false
+    - id: 15
+      name: learning_goals
+      label: What are your learning goals?
+      hint: What do you want to achieve from this workshop?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_section
+      label: -- Dietary Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 18
+      name: other_dietary
+      label: Other dietary information
+      hint: Additional dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: logistics_section
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attendance_format
+      label: Attendance Format
+      hint: How will you attend?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid (flexible)
+      required: true
+    - id: 21
+      name: accommodation_needed
+      label: Accessibility accommodations needed
+      hint: Do you require special accommodations?
+      type: select_one
+      options:
+      - 'No'
+      - Yes - please specify
+      required: false
+    - id: 22
+      name: accommodation_details
+      label: Accommodation details
+      hint: Describe any special needs
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_preferences
+      label: Preferred contact method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: I agree to workshop terms and conditions
+      hint: You must accept to complete registration
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

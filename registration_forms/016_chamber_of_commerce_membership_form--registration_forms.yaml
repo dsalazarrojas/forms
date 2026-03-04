@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chamber Of Commerce Membership Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Official legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Type of Business
+      hint: Industry or business sector
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city_state_zip
+      label: City, State, Zip Code
+      hint: Business location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Business Phone Number
+      hint: Main contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Business Email Address
+      hint: Official business email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: website
+      label: Website URL
+      hint: Business website if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_owner_name
+      label: Business Owner or Principal Name
+      hint: Owner's full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_title
+      label: Owner's Title
+      hint: Position or role
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: owner_email
+      label: Owner's Email
+      hint: Personal contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: owner_phone
+      label: Owner's Phone Number
+      hint: Personal contact phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_years_operating
+      label: Years in Business
+      hint: How long your business has operated
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: employee_count
+      label: Number of Employees
+      hint: Total employees at this location
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: annual_revenue_range
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Less than $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - $5,000,000+
+      required: false
+    - id: 15
+      name: membership_tier
+      label: Membership Tier
+      hint: Choose membership level
+      type: select_one
+      options:
+      - Basic Membership
+      - Premium Membership
+      - Platinum Membership
+      - Corporate Partnership
+      required: true
+    - id: 16
+      name: membership_term
+      label: Membership Term
+      hint: Length of membership
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      required: true
+    - id: 17
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Chamber Website
+      - Existing Member Referral
+      - Social Media
+      - Community Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 18
+      name: chamber_involvement_interests
+      label: Areas of Interest or Involvement
+      hint: Select areas of interest
+      type: select_multiple
+      options:
+      - Networking Events
+      - Committee Participation
+      - Sponsorship Opportunities
+      - Public Policy
+      - Community Development
+      required: false
+    - id: 19
+      name: business_mission
+      label: Brief Description of Business Mission
+      hint: What does your business do
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: membership_agreement
+      label: Agreement to Chamber Membership Terms
+      hint: Agree to membership rules and benefits
+      type: select_one
+      options:
+      - Yes, I Agree
+      - 'No'
+      required: true
+    - id: 21
+      name: contact_permission
+      label: Permission to Contact for Chamber Participation
+      hint: May chamber contact you about events
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calligraphy Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name for class registration
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Used for class updates and materials
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_level
+      label: Class Level
+      hint: Select experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 5
+      name: preferred_session
+      label: Preferred Session
+      hint: Choose session date or time preference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: materials_needed
+      label: Materials Needed
+      hint: Indicate if you require materials provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: Provide contact for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: prior_experience
+      label: Prior Calligraphy Experience
+      hint: Briefly describe any previous training or classes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Note any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for instructors
+      type: text
+      options: []
+      required: false

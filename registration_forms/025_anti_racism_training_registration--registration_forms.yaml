@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Racism Training Registration
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Details --
+      hint: Register for upcoming anti racism workshops
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Confirmation will be sent to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or school
+      hint: Optional organizational affiliation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_choice
+      label: Session choice
+      hint: Choose one available workshop slot
+      type: select_one
+      options:
+      - Workshop 1 morning
+      - Workshop 2 afternoon
+      - Workshop 3 evening
+      required: true
+    - id: 6
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: If provided meals will accommodate needs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_needs
+      label: Special needs or accommodations
+      hint: Accessibility support or materials in alternative formats
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact phone
+      hint: Optional emergency contact information
+      type: text
+      options: []
+      required: false

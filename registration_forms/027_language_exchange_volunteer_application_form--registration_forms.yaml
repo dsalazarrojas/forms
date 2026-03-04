@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: language_exchange_volunteer_application_form
+    pages:
+    - id: 1
+      name: language_exchange_volunteer_info
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: language_proficiency_level
+      label: What is your native language?
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Arabic
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: language_interests
+      label: Which language(s) do you want to learn/teach?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Arabic
+      required: false
+    - id: 7
+      name: availability
+      label: How many hours per week are you available to volunteer?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: availability_time
+      label: When are you available to volunteer?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: language_exchange_volunteer_experience
+      label: Have you had any previous experience in language exchange programs?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: language_exchange_volunteer_references
+      label: Please provide 2-3 references
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: language_exchange_volunteer_additional_info
+      label: Additional info about you
+      hint: null
+      type: text
+      options: []
+      required: false

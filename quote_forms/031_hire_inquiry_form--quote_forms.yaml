@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hire Inquiry Form
+    pages:
+    - id: 1
+      name: hire_inquiry_form_1
+      label: What is the pickup address
+      hint: Enter address
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hire_inquiry_form_2
+      label: What is the delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hire_inquiry_form_3
+      label: What is the time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: hire_inquiry_form_4
+      label: What is the name of the delivery driver
+      hint: Enter driver name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hire_inquiry_form_5
+      label: What is the name of the delivery vehicle
+      hint: Enter vehicle name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hire_inquiry_form_6
+      label: Which type of delivery is this for
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Food'', ''value'': ''food''}'
+      - '{''id'': 11, ''label'': ''Package'', ''value'': ''package''}'
+      - '{''id'': 12, ''label'': ''Both'', ''value'': ''both''}'
+      - '{''id'': 13, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 7
+      name: hire_inquiry_form_7
+      label: How far away is the delivery
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''label'': ''Less than 1 hour'', ''value'': ''less_than_1_hour''}'
+      - '{''id'': 15, ''label'': ''1-2 hours'', ''value'': ''one_to_two_hours''}'
+      - '{''id'': 16, ''label'': ''2-4 hours'', ''value'': ''two_to_four_hours''}'
+      - '{''id'': 17, ''label'': ''More than 4 hours'', ''value'': ''more_than_4_hours''}'
+      required: true
+    - id: 8
+      name: hire_inquiry_form_8
+      label: What is the contact email of the client
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: hire_inquiry_form_9
+      label: What is the phone number of the client
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false

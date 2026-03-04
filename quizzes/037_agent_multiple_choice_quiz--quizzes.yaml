@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Multiple Choice Quiz
+    pages:
+    - id: 1
+      name: quiz_header
+      label: -- Quiz Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Name of the quiz taker
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: For quiz results
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: question_1
+      label: What is the standard agency disclosure practice
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - Disclose to all parties
+      - Disclose only when asked
+      - Never disclose
+      - Disclose only orally
+      required: true
+    - id: 5
+      name: question_2
+      label: Which action demonstrates active listening
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - Repeating concerns
+      - Interrupting
+      - Ignoring nonverbal cues
+      - Changing the subject
+      required: true
+    - id: 6
+      name: question_3
+      label: Best practice for handling confidential data
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - Encrypt and limit access
+      - Share widely
+      - Store on public drive
+      - No special handling
+      required: true
+    - id: 7
+      name: question_4
+      label: When should you escalate an issue
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - Immediate danger
+      - Minor preference
+      - Personal disagreement
+      - After a year
+      required: true
+    - id: 8
+      name: passing_score_acknowledgment
+      label: I understand the passing score requirement
+      hint: Confirm awareness of passing criteria
+      type: select_one
+      options:
+      - Acknowledged
+      - Other
+      required: true
+    - id: 9
+      name: feedback
+      label: Feedback on the quiz
+      hint: Suggestions or comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit date
+      hint: Date the quiz was completed
+      type: date
+      options: []
+      required: true

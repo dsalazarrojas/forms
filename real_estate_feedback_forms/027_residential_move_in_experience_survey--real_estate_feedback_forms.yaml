@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: residential_move_in_experience_survey
+    pages:
+    - id: 1
+      name: intro
+      label: welcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: move_in_status
+      label: moved_in
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: move_in_condition
+      label: moved_in_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: move_in_experience
+      label: move_in_experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: move_in_issues
+      label: move_in_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: move_in_experience_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: property_name
+      label: property_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: unit_number
+      label: unit_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: building
+      label: building
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: floor
+      label: floor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: unit_size
+      label: unit_size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: parking
+      label: parking
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: elevator
+      label: elevator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: pets
+      label: pets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: utilities
+      label: utilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: appliances
+      label: appliances
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: amenities
+      label: amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: lease_length
+      label: lease_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: lease_start_date
+      label: lease_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: lease_type
+      label: lease_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false

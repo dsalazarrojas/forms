@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lien Waiver Form
+    pages:
+    - id: 1
+      name: contract_address
+      label: Contract Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contractor_license
+      label: Contractor License
+      hint: null
+      type: select_one
+      options:
+      - License Number
+      - License Number
+      required: true
+    - id: 4
+      name: contract_amount
+      label: Contract Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: lien_amount
+      label: Lien Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contractor_address
+      label: Contractor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contractor_phone
+      label: Contractor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: homeowner_phone
+      label: Homeowner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: lien_type
+      label: Lien Type
+      hint: null
+      type: select_multiple
+      options:
+      - Mechanics Lien
+      - Materialmans Lien
+      - Stop Notice
+      required: true
+    - id: 12
+      name: contractor_license_type
+      label: Contractor License Type
+      hint: null
+      type: select_one
+      options:
+      - General Contractor License
+      - Special Contractor License
+      required: true
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: lien_file
+      label: Lien File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: release_file
+      label: Release File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lien_status
+      label: Lien Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: lien_status_note
+      label: Lien Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 20
+      name: payment_status_note
+      label: Payment Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: lien_date_status
+      label: Lien Date Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: lien_date_status_note
+      label: Lien Date Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Partial
+      required: true
+    - id: 24
+      name: contract_status_note
+      label: Contract Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

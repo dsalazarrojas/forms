@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_space_leasing_request_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: space_name
+      label: Space Name
+      hint: Name of the space
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: space_size
+      label: Space Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: space_type
+      label: Space Type
+      hint: Type of space (Retail, Warehouse, Office etc.)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: space_budget
+      label: Space Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tenant_name
+      label: Tenant Name
+      hint: Name of the tenant
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tenant_contact
+      label: Tenant Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: space_requirements
+      label: Space Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - 0-100
+      - 100-500
+      - 500-1000
+      - 1000-5000
+      required: false
+    - id: 11
+      name: space_availability
+      label: Space Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Available after 1 week
+      - Available after 2 weeks
+      - Available after 3 weeks
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - New Submission
+      - In Progress
+      - Completed
+      - Archived
+      required: false
+    - id: 15
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false

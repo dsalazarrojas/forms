@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Technology Showcase Registration Form
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_organization_name
+      label: Organization/Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: professional_role_title
+      label: Professional Role/Title
+      hint: Select the role that best describes you
+      type: select_one
+      options:
+      - label: IT/Health Tech Specialist
+        value: tech_specialist
+      - label: Care Coordinator/Manager
+        value: care_coordinator
+      - label: Clinical Administrator
+        value: clinical_admin
+      - label: Nurse Manager
+        value: nurse_manager
+      - label: Physician Leader
+        value: physician
+      required: true
+    - id: 5
+      name: attendee_email_address
+      label: Attendee Email Address
+      hint: We will send your registration confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: attendee_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: showcase_registration_header
+      label: -- Showcase Details --
+      hint: Choose the date and tech interests for the event
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: showcase_date_selection
+      label: Showcase Date Selection
+      hint: Select the one that fits your schedule
+      type: select_one
+      options:
+      - label: April 15, 2026 (Virtual)
+        value: session_1
+      - label: April 17, 2026 (In-Person)
+        value: session_2
+      - label: April 22, 2026 (Virtual)
+        value: session_3
+      required: true
+    - id: 9
+      name: technology_interest_areas
+      label: Technology Interest Areas
+      hint: Select the topics you would like to explore
+      type: select_multiple
+      options:
+      - label: Remote Patient Monitoring (RPM)
+        value: rpm
+      - label: Electronic Health Records (EHR) Integration
+        value: ehr
+      - label: Telehealth Platforms
+        value: telehealth
+      - label: AI and Predictive Analytics
+        value: ai_analytics
+      - label: Mobile Patient Engagement
+        value: mobile_engagement
+      required: true
+    - id: 10
+      name: number_of_attendees_total
+      label: Number of Attendees from Organization
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: attendee_dietary_needs_header
+      label: -- Special Needs & Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions_showcase
+      label: Dietary Restrictions (for in-person sessions)
+      hint: If applicable, list any allergies or food preferences
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: showcase_registration_confirmation
+      label: I confirm my registration for the showcase selected
+      hint: null
+      type: select_one
+      options:
+      - label: Registered and Confirmed
+        value: registered
+      - Other
+      required: true

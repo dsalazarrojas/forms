@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult And Dislocated Worker Referral Form
+    pages:
+    - id: 1
+      name: section_worker_info
+      label: -- Worker Information --
+      hint: Information about the referred worker
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: worker_first_name
+      label: First Name
+      hint: Worker's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: worker_last_name
+      label: Last Name
+      hint: Worker's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: worker_date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: worker_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: worker_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: worker_address
+      label: Street Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: worker_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: worker_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: worker_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_employment_history
+      label: -- Employment History --
+      hint: Previous work experience
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: previous_occupation
+      label: Previous Occupation
+      hint: Title of last job held
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: years_experience
+      label: Years of Experience in Field
+      hint: Total years in this occupation
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: reason_for_separation
+      label: Reason for Separation from Last Job
+      hint: Why did you leave your last position
+      type: select_one
+      options:
+      - Layoff
+      - Plant Closure
+      - Position Eliminated
+      - Permanent Reduction
+      - Voluntary Resignation
+      - Other
+      required: true
+    - id: 15
+      name: separation_date
+      label: Date of Separation
+      hint: When did you leave your job
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: section_skills_education
+      label: -- Skills and Education --
+      hint: Education and skill set
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: highest_education
+      label: Highest Education Level
+      hint: Highest degree or certification
+      type: select_one
+      options:
+      - High School Diploma
+      - GED
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Other
+      required: true
+    - id: 18
+      name: key_skills
+      label: Key Skills
+      hint: List main professional skills
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: certifications_licenses
+      label: Relevant Certifications or Licenses
+      hint: Any professional certifications held
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_job_preferences
+      label: -- Job Preferences --
+      hint: Desired employment criteria
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: desired_occupation
+      label: Desired Occupation or Field
+      hint: Job title you are seeking
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected annual salary range
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employment_type
+      label: Type of Employment Preferred
+      hint: Full-time, part-time, or temporary
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      - Contract
+      required: true
+    - id: 24
+      name: willing_relocate
+      label: Willing to Relocate
+      hint: Open to moving for work
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: transportation_available
+      label: Transportation Available
+      hint: Can you get to work independently
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

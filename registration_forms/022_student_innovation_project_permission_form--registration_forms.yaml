@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Innovation Project Permission Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature_date
+      label: Signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_permission
+      label: Is student allowed to participate?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: student_innovative_project
+      label: Student innovative project
+      hint: null
+      type: select_one
+      options:
+      - Robotics
+      - Coding
+      - Art
+      - Music
+      required: true
+    - id: 9
+      name: parent_permission
+      label: Parent permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: date_of_permission
+      label: Date of permission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_permission
+      label: Time of permission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: school_year
+      label: School year
+      hint: null
+      type: select_one
+      options:
+      - 2022-2023
+      - 2023-2024
+      - 2024-2025
+      required: true
+    - id: 13
+      name: school_semester
+      label: School semester
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: true
+    - id: 14
+      name: school_department
+      label: School department
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 15
+      name: student_grade_level
+      label: Student grade level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 16
+      name: student_age
+      label: Student age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: parent_signature_date
+      label: Parent signature date
+      hint: null
+      type: date
+      options: []
+      required: true

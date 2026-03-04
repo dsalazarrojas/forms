@@ -1,0 +1,144 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Continuous Improvement Quiz
+    pages:
+      - id: 1
+        name: participant_header
+        label: -- Assessment Participant --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_department
+        label: Department
+        hint: null
+        type: select_one
+        options:
+          - Quality Assurance
+          - Operations/Production
+          - Human Resources
+          - Information Technology
+          - Supply Chain
+        required: true
+      - id: 4
+        name: section_1_concepts
+        label: -- Part 1 - Lean and Kaizen Concepts --
+        hint: Choose the best answer for each question
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: question_pdca_cycle
+        label: What does the PDCA cycle stand for
+        hint: null
+        type: select_one
+        options:
+          - Plan - Do - Check - Act
+          - Process - Design - Control - Analyze
+          - Perform - Deliver - Create - Assess
+          - Prepare - Deploy - Change - Audit
+        required: true
+      - id: 6
+        name: question_kaizen_meaning
+        label: What is the literal translation of 'Kaizen'
+        hint: null
+        type: select_one
+        options:
+          - Sudden Change
+          - Good Change (Continuous Improvement)
+          - Quality Control
+          - Error Proofing
+        required: true
+      - id: 7
+        name: question_seven_wastes
+        label: Which of these is NOT one of the 'Seven Wastes' (TIMWOOD)
+        hint: null
+        type: select_one
+        options:
+          - Transportation
+          - Inventory
+          - Innovation
+          - Overprocessing
+        required: true
+      - id: 8
+        name: section_2_analysis
+        label: -- Part 2 - Analysis Tools --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: question_root_cause_tool
+        label: Which tool is most effective for identifying a root cause
+        hint: null
+        type: select_one
+        options:
+          - Gantt Chart
+          - The 5 Whys
+          - Pareto Chart (80/20 Rule)
+          - SWOT Analysis
+        required: true
+      - id: 10
+        name: question_fishbone_diagram
+        label: A Fishbone Diagram is also known as a
+        hint: null
+        type: select_one
+        options:
+          - Flowchart
+          - Ishikawa Diagram
+          - Control Chart
+          - Histogram
+        required: true
+      - id: 11
+        name: section_3_feedback
+        label: -- Training Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: training_clarity_rating
+        label: How clear was the improvement training material
+        hint: 1 = Not clear, 5 = Very clear
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: quiz_completion_date
+        label: Date of Completion
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: quiz_id_reference
+        label: Internal Quiz Reference Code
+        hint: null
+        type: text
+        options: []
+        required: false

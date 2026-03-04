@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offer Submission Form
+    pages:
+    - id: 1
+      name: offer_form_data
+      label: offer_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: offer_submission_form_data
+      label: offer_submission_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: offer_submission_date
+      label: offer_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: offer_submission_time
+      label: offer_submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_forms
+      label: real_estate_forms
+      hint: null
+      type: select_one
+      options:
+      - '86447'
+      - '97083'
+      required: false
+    - id: 6
+      name: recruiter_forms
+      label: recruiter_forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: offer_submission_details
+      label: offer_submission_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: offer_submission_status
+      label: offer_submission_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: offer_submission_form_status
+      label: offer_submission_form_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: offer_acceptance_date
+      label: offer_acceptance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: offer_acceptance_time
+      label: offer_acceptance_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: offer_acceptance_status
+      label: offer_acceptance_status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: offer_rejection_reason
+      label: offer_rejection_reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: real_estate_company
+      label: real_estate_company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: real_estate_company_address
+      label: real_estate_company_address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitting Check In Form
+    pages:
+    - id: 1
+      name: arrival_header
+      label: -- Babysitting Daily Check-In --
+      hint: To be completed by the parent and sitter at the start of each session
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: check_in_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: child_name_entry
+      label: Child(ren) being supervised
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: arrival_time_actual
+      label: Sitter Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: parent_destination
+      label: Where will the parents be?
+      hint: e.g., Dinner at Bistro, Cinema, Office
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expected_return_time
+      label: Expected Parent Return Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: best_contact_tonight
+      label: Best Phone Number to reach parents tonight
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_backup_person
+      label: Emergency Backup Contact (If parents can't be reached)
+      hint: Name and Phone Number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_mood_health
+      label: Child's Current Mood or Health Notes
+      hint: e.g., had a nap, slight cold, very energetic
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meal_plan_tonight
+      label: Meal and Snack Plan for tonight
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medications_due_tonight
+      label: Any medications to be given tonight?
+      hint: Specify dosage and time
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_instructions_tonight
+      label: Specific instructions for this session
+      hint: e.g., help with math homework, no TV tonight
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: check_in_confirmed_parent
+      label: Parent Check-in Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - Acknowledged
+      - Other
+      required: true
+    - id: 14
+      name: check_in_confirmed_sitter
+      label: Babysitter Check-in Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - Acknowledged
+      - Other
+      required: true

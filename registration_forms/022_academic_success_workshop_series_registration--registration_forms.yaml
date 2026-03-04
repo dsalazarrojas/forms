@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Success Workshop Series Registration
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Success Workshop Series Registration --
+      hint: Register for one or more workshops designed to enhance student academic
+        performance.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: academic_level
+      label: Academic level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: true
+    - id: 8
+      name: major
+      label: Major or program of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshops_selected
+      label: Which workshops would you like to attend (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Time Management and Study Skills
+      - Effective Note-Taking Strategies
+      - Test Preparation and Anxiety Management
+      - Academic Writing Essentials
+      - Research Methods and Resources
+      - Career Planning and Goal Setting
+      required: true
+    - id: 10
+      name: preferred_schedule
+      label: Preferred workshop schedule
+      hint: null
+      type: select_one
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Saturday mornings
+      - No preference
+      required: true
+    - id: 11
+      name: attendance_format
+      label: Preferred format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual (online)
+      - Hybrid
+      - No preference
+      required: true
+    - id: 12
+      name: referral_source
+      label: How did you hear about this workshop series
+      hint: null
+      type: select_one
+      options:
+      - Academic advisor
+      - Professor or instructor
+      - Student email or newsletter
+      - Social media
+      - Campus poster or flyer
+      - Friend or classmate
+      required: false
+    - id: 13
+      name: learning_goals
+      label: What do you hope to gain from attending these workshops
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accommodations_needed
+      label: Do you require any accessibility accommodations
+      hint: Please describe if needed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agreement
+      label: I commit to attending the workshops I have selected and understand that
+        space is limited
+      hint: null
+      type: select_one
+      options:
+      - Yes - I commit
+      - Other
+      required: true

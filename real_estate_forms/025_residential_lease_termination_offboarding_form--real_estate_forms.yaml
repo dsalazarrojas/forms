@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Lease Termination Offboarding Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_move_out
+      label: Reason for Move Out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notice_period_end_date
+      label: Notice Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notice_period_start_date
+      label: Notice Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rent_due_date
+      label: Rent Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: outstanding_rent
+      label: Outstanding Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: outstanding_rent_amount
+      label: Outstanding Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: move_out_inspection
+      label: Move Out Inspection
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Landlord
+      - Tenant
+      - Third Party
+      required: true
+    - id: 14
+      name: move_out_inspection_comments
+      label: Move Out Inspection Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: outstanding_rent_status
+      label: Outstanding Rent Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
+    - id: 16
+      name: outstanding_rent_status_comments
+      label: Outstanding Rent Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: outstanding_rent_amount_status
+      label: Outstanding Rent Amount Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
+    - id: 18
+      name: outstanding_rent_amount_status_comments
+      label: Outstanding Rent Amount Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: outstanding_repossession_fees
+      label: Outstanding Repossession Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: outstanding_repossession_fees_comments
+      label: Outstanding Repossession Fees Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: outstanding_utilities_balance
+      label: Outstanding Utilities Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: outstanding_utilities_balance_comments
+      label: Outstanding Utilities Balance Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: outstanding_utilities_amount
+      label: Outstanding Utilities Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: outstanding_utilities_amount_comments
+      label: Outstanding Utilities Amount Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: outstanding_utilities_status
+      label: Outstanding Utilities Status
+      hint: Select one of the options
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Under Contract Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_info
+      label: Buyer Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 3
+      name: seller_info
+      label: Seller Info
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 4
+      name: sale_progress
+      label: Sale Progress
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sale_amount
+      label: Sale Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: buyer_fees
+      label: Buyer Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: seller_fees
+      label: Seller Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 11
+      name: buyer_agent
+      label: Buyer Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: seller_agent
+      label: Seller Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sale_status
+      label: Sale Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: seller_phone
+      label: Seller Phone
+      hint: null
+      type: text
+      options: []
+      required: false

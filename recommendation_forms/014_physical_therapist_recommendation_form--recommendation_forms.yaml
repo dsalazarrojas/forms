@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapist Recommendation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_plans
+      label: treatment_plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_reason
+      label: referral_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: therapist_name
+      label: therapist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_condition
+      label: patient_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_plan_status
+      label: treatment_plan_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history_2
+      label: medical_history_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: physical_therapy_goal
+      label: physical_therapy_goal
+      hint: null
+      type: text
+      options: []
+      required: false

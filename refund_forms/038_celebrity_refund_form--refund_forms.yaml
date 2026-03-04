@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Celebrity Refund Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer or Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account or Customer Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_refund_details
+      label: -- Refund Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: refund_request_date
+      label: Refund Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: original_transaction_date
+      label: Original Transaction Date
+      hint: When was service/appearance booked
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: transaction_amount
+      label: Original Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: refund_amount_requested
+      label: Refund Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_reason
+      label: -- Reason for Refund --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: refund_reason
+      label: Reason for Refund Request
+      hint: null
+      type: select_one
+      options:
+      - Service Not Provided
+      - Service Quality Issues
+      - Event Cancellation
+      - Celebrity No-Show
+      - Medical Emergency
+      - Schedule Conflict
+      - Financial Hardship
+      - Dissatisfaction
+      - Other
+      required: true
+    - id: 13
+      name: reason_details
+      label: Detailed Explanation
+      hint: Provide specific details
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: service_type
+      label: Type of Service or Appearance
+      hint: null
+      type: select_one
+      options:
+      - Personal Appearance
+      - Meet and Greet
+      - Autograph Session
+      - Photo Op
+      - Performance
+      - Endorsement
+      - Consultation
+      - Other
+      required: true
+    - id: 16
+      name: celebrity_name
+      label: Celebrity Name
+      hint: Service was related to
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: scheduled_service_date
+      label: Scheduled Service Date
+      hint: When was service scheduled for
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: service_completed
+      label: Was Service Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 19
+      name: section_refund_terms
+      label: -- Refund Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: refund_method
+      label: Preferred Refund Method
+      hint: null
+      type: select_one
+      options:
+      - Original Payment Method
+      - Bank Transfer
+      - Check
+      - Store Credit
+      - PayPal
+      required: true
+    - id: 21
+      name: bank_account_info
+      label: Bank Account Information
+      hint: If requesting bank transfer
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_documentation
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: receipt_or_confirmation
+      label: Receipt or Booking Confirmation Number
+      hint: Proof of original transaction
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: Photos, emails, evidence of issue
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: refund_authorization
+      label: I authorize this refund request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

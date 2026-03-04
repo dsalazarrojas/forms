@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nationwide Cash Buyer List
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fix_and_flip_properties
+      label: Fix and Flip Properties
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: roi
+      label: ROI
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

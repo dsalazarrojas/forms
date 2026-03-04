@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: fair_market_valuation_form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Condo
+      required: false
+    - id: 3
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: land_value
+      label: Land Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: num_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: num_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: num_bedrooms
+      label: (Duplicate of 8)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: num_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: fair_market_valuation
+      label: Fair Market Valuation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 14
+      name: sale_status
+      label: Sale Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 15
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 16
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: appraised_value
+      label: Appraised Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: sale_agent
+      label: Sale Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: property_agent
+      label: Property Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

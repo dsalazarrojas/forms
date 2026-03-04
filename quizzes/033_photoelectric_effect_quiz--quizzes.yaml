@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photoelectric Effect Quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: Start Quiz
+      hint: null
+      type: select_one
+      options:
+      - Start
+      - Continue
+      required: true
+    - id: 2
+      name: question1
+      label: What is the energy of an incident photon
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question2
+      label: What is the energy of an emitted photon
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question3
+      label: What is the kinetic energy of the emitted photon
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: photoelectric_effect_quiz_score
+      label: Score
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: quiz_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quiz_completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: quiz_completed_comments
+      label: Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: submission_timestamp
+      label: Submission Timestamp
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_browser
+      label: User Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_device
+      label: User Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: quiz_start2
+      label: Start
+      hint: null
+      type: select_one
+      options:
+      - Continue
+      - Other
+      required: true
+    - id: 18
+      name: question4
+      label: What is the type of radiation
+      hint: null
+      type: select_one
+      options:
+      - Beta Rays
+      - Gamma Rays
+      required: false
+    - id: 19
+      name: question5
+      label: What is the effect on the detector
+      hint: null
+      type: select_one
+      options:
+      - Deflection
+      - Scattering
+      required: false
+    - id: 20
+      name: question6
+      label: What is the type of radiation
+      hint: null
+      type: select_one
+      options:
+      - X-Rays
+      - Neutrons
+      required: false
+    - id: 21
+      name: question7
+      label: What is the type of radiation
+      hint: null
+      type: select_one
+      options:
+      - Protons
+      - Other
+      required: false
+    - id: 22
+      name: question8
+      label: What is the type of detector
+      hint: null
+      type: select_one
+      options:
+      - Scintillator
+      - Phosphor
+      required: false
+    - id: 23
+      name: question9
+      label: What is the type of radiation
+      hint: null
+      type: select_one
+      options:
+      - Electron Rays
+      - Other
+      required: false
+    - id: 24
+      name: question10
+      label: What is the type of detector
+      hint: null
+      type: select_one
+      options:
+      - Ionisation Chamber
+      - Other
+      required: false
+    - id: 25
+      name: question11
+      label: What is the type of radiation
+      hint: null
+      type: select_one
+      options:
+      - Neutrons
+      - Other
+      required: false

@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Needs Worksheet Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cobuyer_name
+      label: Co-Buyer Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: worksheet_date
+      label: Worksheet Date
+      hint: When was this completed?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: agent_name
+      label: Real Estate Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_situation
+      label: Current Housing Situation
+      hint: null
+      type: select_one
+      options:
+      - Renting
+      - Own current home
+      - Living with family or friends
+      - New to area
+      - Other
+      required: true
+    - id: 8
+      name: total_budget
+      label: Total Available Budget
+      hint: In USD or local currency
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: down_payment_available
+      label: Down Payment Available
+      hint: Actual amount or percentage
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: preapproval_amount
+      label: Pre-Approval Amount
+      hint: Maximum loan amount
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lender_name
+      label: Lender Name
+      hint: If pre-approved
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: loan_type
+      label: Preferred Loan Type
+      hint: null
+      type: select_one
+      options:
+      - Conventional
+      - FHA
+      - VA
+      - USDA
+      - Jumbo
+      - Other
+      - Not determined
+      required: false
+    - id: 13
+      name: desired_property_type
+      label: Desired Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single-family home
+      - Townhouse
+      - Condo
+      - Multi-family
+      - Land
+      - New construction
+      - Historic
+      - Undecided
+      required: true
+    - id: 14
+      name: min_bedrooms
+      label: Minimum Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: min_bathrooms
+      label: Minimum Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: desired_square_footage
+      label: Desired Square Footage Range
+      hint: Minimum and maximum
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: location_must_haves
+      label: Location Must-Haves
+      hint: Neighborhood, schools, commute, etc.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: must_have_features
+      label: Must-Have Property Features
+      hint: Garage, pool, basement, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: flexibility_areas
+      label: Areas of Flexibility
+      hint: Where can you compromise?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: timeline_closing
+      label: Desired Timeline for Closing
+      hint: When do you want to close?
+      type: select_one
+      options:
+      - As soon as possible
+      - 30-45 days
+      - 45-60 days
+      - 60-90 days
+      - Flexible
+      required: true

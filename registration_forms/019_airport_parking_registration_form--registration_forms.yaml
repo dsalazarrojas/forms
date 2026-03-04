@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Parking Registration Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_vehicle
+      label: -- Vehicle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: e.g. Toyota Camry
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_parking
+      label: -- Parking Reservation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: terminal_number
+      label: Departing Terminal
+      hint: null
+      type: select_one
+      options:
+      - Terminal 1
+      - Terminal 2
+      - Terminal 3
+      - International Terminal
+      required: true
+    - id: 11
+      name: parking_start_date
+      label: Drop-off Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: parking_end_date
+      label: Pick-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: parking_type
+      label: Parking Type
+      hint: null
+      type: select_one
+      options:
+      - Short-term
+      - Long-term (Economy)
+      - Valet Parking
+      - Premium Undercover
+      required: true
+    - id: 14
+      name: electric_charging
+      label: Require Electric Vehicle (EV) Charging?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: handicap_parking
+      label: Require Accessible (Handicap) Parking?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: total_estimated_cost
+      label: Estimated Total Cost ($)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: liability_agreement
+      label: I agree to the airport parking terms and liability conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

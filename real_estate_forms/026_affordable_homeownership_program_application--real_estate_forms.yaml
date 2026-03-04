@@ -1,0 +1,324 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affordable Homeownership Program Application
+    pages:
+    - id: 1
+      name: applicant_information_section
+      label: Applicant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_applicant_name
+      label: Primary Applicant Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: co_applicant_name
+      label: Co-Applicant Name
+      hint: If applicable, enter co-applicant's complete legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: Date of birth for the primary applicant
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: applicant_social_security_number
+      label: Social Security Number
+      hint: SSN for the primary applicant (for credit check purposes)
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_email
+      label: Email Address
+      hint: Email for program communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: applicant_phone
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_address
+      label: Current Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_housing_status
+      label: Current Housing Status
+      hint: What is your current housing arrangement?
+      type: select_one
+      options:
+      - Renting
+      - Owning
+      - Living with relatives/friends
+      - Temporary housing
+      - Other
+      required: true
+    - id: 10
+      name: household_income_section
+      label: Household Income Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_income_source
+      label: Primary Income Source
+      hint: What is your primary source of income?
+      type: select_one
+      options:
+      - Employment
+      - Self-employment
+      - Government benefits
+      - Disability
+      - Retirement
+      - Other
+      required: true
+    - id: 12
+      name: employer_name
+      label: Employer Name
+      hint: Name of your current employer (if employed)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employment_length
+      label: Length of Employment
+      hint: How long have you been with your current employer?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: annual_household_income
+      label: Annual Household Income
+      hint: Total annual income for all household members
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: additional_income_sources
+      label: Additional Income Sources
+      hint: List any additional sources of household income
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: household_composition
+      label: Household Composition
+      hint: Number of people in your household (including yourself)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: housing_preferences_section
+      label: Housing Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_location
+      label: Preferred Location
+      hint: What area or neighborhood are you interested in?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: home_type_preference
+      label: Home Type Preference
+      hint: What type of home are you interested in?
+      type: select_one
+      options:
+      - Single-family home
+      - Townhouse
+      - Condominium
+      - Cooperative
+      - Other
+      required: true
+    - id: 20
+      name: bedroom_preference
+      label: Number of Bedrooms Needed
+      hint: How many bedrooms do you need?
+      type: select_one
+      options:
+      - Studio
+      - 1 bedroom
+      - 2 bedrooms
+      - 3 bedrooms
+      - 4+ bedrooms
+      required: true
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility requirements?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes, please specify your accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: financial_information_section
+      label: Financial Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: down_payment_amount
+      label: Down Payment Amount
+      hint: How much money do you have available for down payment?
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: savings_amount
+      label: Total Savings Amount
+      hint: Total amount of savings available
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: credit_score_range
+      label: Credit Score Range
+      hint: What is your approximate credit score range?
+      type: select_one
+      options:
+      - Under 500
+      - 500-599
+      - 600-699
+      - 700-799
+      - 800+
+      - Don't know
+      required: true
+    - id: 27
+      name: debt_obligations
+      label: Monthly Debt Obligations
+      hint: Total monthly debt payments (credit cards, loans, etc.)
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: homeownership_goals_section
+      label: Homeownership Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: homeownership_motivation
+      label: Homeownership Motivation
+      hint: Why do you want to become a homeowner?
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: desired_purchase_timeline
+      label: Desired Purchase Timeline
+      hint: When would you like to purchase a home?
+      type: select_one
+      options:
+      - Within 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 31
+      name: housing_counseling_completion
+      label: Housing Counseling Completion
+      hint: Have you completed a homebuyer education course?
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 32
+      name: special_programs_eligibility
+      label: Special Programs Eligibility
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: first_time_homebuyer
+      label: First-Time Homebuyer Status
+      hint: Are you a first-time homebuyer? (Never owned a home)
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: veteran_status
+      label: Veteran Status
+      hint: Are you a veteran or active military personnel?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: disability_status
+      label: Disability Status
+      hint: Do you have a qualifying disability?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: income_limit_compliance
+      label: Income Limit Compliance
+      hint: I certify that my household income meets the program's income limits
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: application_certifications
+      label: Application Certifications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: information_accuracy_certification
+      label: Information Accuracy Certification
+      hint: I certify that all information provided is true and accurate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 39
+      name: authorization_signature
+      label: Electronic Signature
+      hint: Sign to submit your application
+      type: text
+      options: []
+      required: true

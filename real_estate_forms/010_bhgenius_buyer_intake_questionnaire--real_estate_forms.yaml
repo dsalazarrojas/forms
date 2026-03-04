@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: BHGenius Buyer Intake Questionnaire
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address
+      hint: Where do you live now
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: buying_timeline
+      label: Buying Timeline
+      hint: When do you plan to purchase
+      type: select_one
+      options:
+      - Within 1 month
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - Just looking
+      required: true
+    - id: 6
+      name: first_time_buyer
+      label: First Time Home Buyer
+      hint: Is this your first home purchase
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: pre_approved
+      label: Mortgage Pre-Approval Status
+      hint: Have you been pre-approved
+      type: select_one
+      options:
+      - Yes, pre-approved
+      - In progress
+      - Not yet started
+      - Paying cash
+      required: true
+    - id: 8
+      name: price_range_min
+      label: Minimum Price Range
+      hint: Lowest price you would consider
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: price_range_max
+      label: Maximum Price Range
+      hint: Highest price you would consider
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: property_type
+      label: Property Type Preference
+      hint: What type of property are you seeking
+      type: select_one
+      options:
+      - Single Family Home
+      - Townhouse
+      - Condominium
+      - Multi-Family
+      - Land
+      - Any
+      required: true
+    - id: 11
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: How many bedrooms do you need
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5 or more
+      required: true
+    - id: 12
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: How many bathrooms do you need
+      type: select_one
+      options:
+      - 1
+      - 1.5
+      - 2
+      - 2.5
+      - 3 or more
+      required: true
+    - id: 13
+      name: square_footage
+      label: Desired Square Footage
+      hint: Minimum square footage needed
+      type: select_one
+      options:
+      - Under 1000
+      - 1000 to 1500
+      - 1500 to 2000
+      - 2000 to 3000
+      - Over 3000
+      required: true
+    - id: 14
+      name: location_preferences
+      label: Preferred Locations or Neighborhoods
+      hint: List areas you are interested in
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: must_have_features
+      label: Must-Have Features
+      hint: Features you absolutely need
+      type: select_multiple
+      options:
+      - Garage
+      - Basement
+      - Fireplace
+      - Hardwood floors
+      - Updated kitchen
+      - Master suite
+      - Fenced yard
+      - Pool
+      - Central air
+      required: true
+    - id: 16
+      name: nice_to_have_features
+      label: Nice to Have Features
+      hint: Features you would like but not required
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: deal_breakers
+      label: Deal Breakers
+      hint: Things that would make you walk away
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_housing
+      label: Current Housing Situation
+      hint: Are you renting or owning currently
+      type: select_one
+      options:
+      - Renting
+      - Owning
+      - Living with family
+      - Other
+      required: true
+    - id: 19
+      name: motivation
+      label: Reason for Moving
+      hint: What is motivating your home search
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_agent_help
+      label: Are You Working with Other Agents
+      hint: Have you signed buyer agreements elsewhere
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend or family
+      - Previous client
+      - Advertisement
+      - Other
+      required: false
+    - id: 22
+      name: best_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Any method
+      required: true
+    - id: 23
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When are you most available
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

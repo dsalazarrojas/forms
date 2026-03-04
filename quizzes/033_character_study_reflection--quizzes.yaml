@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Character Study Reflection
+    pages:
+      - id: 1
+        name: header
+        label: -- Character Study Reflection --
+        hint: Guided reflection for students analyzing a literary character
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: student name
+        hint: optional for anonymous submission
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: character_name
+        label: character name
+        hint: name of the character being studied
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: key_motivations
+        label: key motivations
+        hint: what drives the character
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: turning_points
+        label: turning points
+        hint: important moments that change the character
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: personal_response
+        label: personal response
+        hint: how the character made the student feel and why
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: evidence_from_text
+        label: evidence from text
+        hint: cite lines or scenes that support your analysis
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: lessons_learned
+        label: lessons learned
+        hint: what the reader learned from the character
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: instructor_comments
+        label: instructor comments
+        hint: space for teacher feedback
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: submission_date
+        label: submission date
+        hint: date reflection was submitted
+        type: date
+        options: []
+        required: true

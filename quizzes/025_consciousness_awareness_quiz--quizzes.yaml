@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consciousness Awareness Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: Optional - may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: For results delivery if desired
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz completion
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: question_1
+      label: Question 1 - How often do you practice mindful awareness during your
+        day
+      hint: Select the response that best fits
+      type: select_one
+      options:
+      - Always - I am consistently aware
+      - Often - I remember frequently
+      - Sometimes - I remember occasionally
+      - Rarely - I seldom remember
+      - Never - I am mostly on autopilot
+      required: true
+    - id: 5
+      name: question_2
+      label: Question 2 - When experiencing strong emotions you typically
+      hint: Select your usual response
+      type: select_one
+      options:
+      - Observe them without judgment
+      - Acknowledge and process them
+      - Try to suppress them
+      - React immediately
+      - Become overwhelmed by them
+      required: true
+    - id: 6
+      name: question_3
+      label: Question 3 - How aware are you of your bodily sensations throughout the
+        day
+      hint: Select your level of awareness
+      type: select_one
+      options:
+      - Very aware - I notice subtle changes
+      - Aware - I notice obvious sensations
+      - Somewhat aware - I notice when I focus
+      - Rarely aware - I seldom notice
+      - Unaware - I am disconnected from my body
+      required: true
+    - id: 7
+      name: question_4
+      label: Question 4 - During conversations you usually
+      hint: Select your typical behavior
+      type: select_one
+      options:
+      - Listen fully with complete presence
+      - Listen while monitoring my reactions
+      - Listen but often think about my response
+      - Partially listen while distracted
+      - Plan what to say while they talk
+      required: true
+    - id: 8
+      name: question_5
+      label: Question 5 - How often do you notice your thoughts as mental events rather
+        than facts
+      hint: Select your experience
+      type: select_one
+      options:
+      - Always - I observe thoughts clearly
+      - Often - I usually recognize them as thoughts
+      - Sometimes - I occasionally notice
+      - Rarely - I am usually identified with thoughts
+      - Never - My thoughts are my reality
+      required: true
+    - id: 9
+      name: question_6
+      label: Question 6 - When walking or moving you are
+      hint: Select your typical awareness
+      type: select_one
+      options:
+      - Fully aware of each movement
+      - Aware of general movement
+      - Somewhat aware
+      - Rarely aware
+      - Completely unaware - on autopilot
+      required: true
+    - id: 10
+      name: question_7
+      label: Question 7 - How often do you experience moments of pure presence
+      hint: Select your experience
+      type: select_one
+      options:
+      - Frequently - Many times daily
+      - Often - Several times daily
+      - Sometimes - Once in a while
+      - Rarely - Almost never
+      - Never - I do not know this state
+      required: true
+    - id: 11
+      name: question_8
+      label: Question 8 - When eating you typically
+      hint: Select your usual experience
+      type: select_one
+      options:
+      - Eat mindfully savoring each bite
+      - Notice flavors and textures
+      - Sometimes pay attention to food
+      - Eat while distracted
+      - Eat quickly without noticing
+      required: true
+    - id: 12
+      name: question_9
+      label: Question 9 - Your awareness of the present moment is
+      hint: Select the best description
+      type: select_one
+      options:
+      - Constant and natural
+      - Frequent and accessible
+      - Occasional and variable
+      - Rare and difficult
+      - Non-existent
+      required: true
+    - id: 13
+      name: question_10
+      label: Question 10 - How would you describe your relationship with your inner
+        experience
+      hint: Select the best fit
+      type: select_one
+      options:
+      - Observing and accepting
+      - Generally accepting
+      - Sometimes accepting sometimes resisting
+      - Often resistant or judgmental
+      - Usually identified and reactive
+      required: true
+    - id: 14
+      name: question_11
+      label: Question 11 - During stressful situations you
+      hint: Select your typical response
+      type: select_one
+      options:
+      - Remain aware and centered
+      - Stay mostly aware
+      - Sometimes lose awareness
+      - Often become reactive
+      - Always become identified with stress
+      required: true
+    - id: 15
+      name: question_12
+      label: Question 12 - How aware are you of your breathing throughout the day
+      hint: Select your experience
+      type: select_one
+      options:
+      - Continuously aware
+      - Often notice my breath
+      - Sometimes notice
+      - Rarely notice
+      - Never notice
+      required: true
+    - id: 16
+      name: question_13
+      label: Question 13 - Your sense of being the observer of experience is
+      hint: Select the best description
+      type: select_one
+      options:
+      - Clear and constant
+      - Often present
+      - Occasionally present
+      - Rarely experienced
+      - Never experienced
+      required: true
+    - id: 17
+      name: question_14
+      label: Question 14 - How often do you catch yourself in automatic patterns
+      hint: Select your awareness
+      type: select_one
+      options:
+      - Always - I notice immediately
+      - Often - I usually notice
+      - Sometimes - I occasionally notice
+      - Rarely - I seldom notice
+      - Never - I am unaware of patterns
+      required: true
+    - id: 18
+      name: question_15
+      label: Question 15 - The gap between stimulus and your response is
+      hint: Select your experience
+      type: select_one
+      options:
+      - Always spacious and clear
+      - Often present
+      - Sometimes available
+      - Rarely available
+      - Non-existent - I react immediately
+      required: true
+    - id: 19
+      name: awareness_score
+      label: Self-Rated Awareness Level
+      hint: Rate your overall awareness from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: practice_interest
+      label: Interest in Developing Awareness
+      hint: How interested are you in deepening awareness
+      type: select_one
+      options:
+      - Very interested - Actively practicing
+      - Interested - Want to learn more
+      - Somewhat interested
+      - Not interested currently
+      required: true
+    - id: 21
+      name: current_practices
+      label: Current Awareness Practices
+      hint: Select all that you do
+      type: select_multiple
+      options:
+      - Meditation
+      - Mindfulness exercises
+      - Yoga
+      - Breathwork
+      - Journaling
+      - Nature walks
+      - Prayer
+      - None currently
+      required: true
+    - id: 22
+      name: insights_gained
+      label: Any Insights from This Quiz
+      hint: Reflections or realizations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts to share
+      type: text
+      options: []
+      required: false

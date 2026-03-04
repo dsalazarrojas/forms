@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Frequent Flyer Program Friend Referral Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: friend_name
+      label: Friend Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: friend_email
+      label: Friend's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: friend_phone
+      label: Friend's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referred_by
+      label: Referred By
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Non-Member
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: friend_message
+      label: Friend's Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: friend_ip
+      label: Friend's IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: true
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: referrer
+      label: Referrer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: referrer_title
+      label: Referrer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: referrer_company
+      label: Referrer Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: referrer_address
+      label: Referrer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referrer_phone
+      label: Referrer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: member_goals
+      label: Member's Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: member_email
+      label: Member's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: member_phone
+      label: Member's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: member_since
+      label: Member Since
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: member_referrals
+      label: Member Referrals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: member_referrals_count
+      label: Member Referrals Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: true

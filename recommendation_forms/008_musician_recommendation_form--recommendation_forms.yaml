@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Musician Recommendation Form
+    pages:
+    - id: 1
+      name: musician_form_input
+      label: Musician Form Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: music_school_input
+      label: Music School
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''School 1''}'
+      - '{''id'': 2, ''name'': ''School 2''}'
+      - '{''id'': 3, ''name'': ''School 3''}'
+      required: false
+    - id: 3
+      name: musician_name
+      label: Musician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Genre 1''}'
+      - '{''id'': 2, ''name'': ''Genre 2''}'
+      - '{''id'': 3, ''name'': ''Genre 3''}'
+      required: false
+    - id: 5
+      name: recommendation_date
+      label: Recommendation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: musician_experience
+      label: Musician Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: musician_experience_length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: music_instrument
+      label: Music Instrument
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Instrument 1''}'
+      - '{''id'': 2, ''name'': ''Instrument 2''}'
+      - '{''id'': 3, ''name'': ''Instrument 3''}'
+      required: false
+    - id: 9
+      name: recommendation_message
+      label: Recommendation Message
+      hint: null
+      type: text
+      options: []
+      required: false

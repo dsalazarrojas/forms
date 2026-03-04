@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Virtual Tour Registration Form
+    pages:
+    - id: 1
+      name: real_estate_virtual_tour_registration_form
+      label: Real-Estate-Virtual-Tour-Registration-Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_agent
+      label: real_estate_agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: real_estate
+      label: real_estate
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Single Family Home'', ''value'': ''single_family_home''}'
+      - '{''id'': 101, ''label'': ''Condo'', ''value'': ''condo''}'
+      - '{''id'': 102, ''label'': ''Townhouse'', ''value'': ''townhouse''}'
+      - '{''id'': 103, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 7
+      name: appointment
+      label: real_estate_appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: real_estate_availability
+      label: real_estate_availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_submission_confirmation
+      label: real_estate_submission_confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 200, ''label'': True, ''value'': True}'
+      - '{''id'': 201, ''label'': False, ''value'': False}'
+      required: true
+    - id: 11
+      name: real_estate_agreement
+      label: real_estate_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 300, ''label'': True, ''value'': True}'
+      - '{''id'': 301, ''label'': False, ''value'': False}'
+      required: true

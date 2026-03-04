@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Entity Registration Form
+    pages:
+    - id: 1
+      name: entity_info
+      label: -- Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal registered name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Entity Type
+      hint: Select business structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - General Partnership
+      - Limited Partnership
+      - LLC
+      - S-Corporation
+      - C-Corporation
+      - Non-Profit
+      - Cooperative
+      - Trust
+      required: true
+    - id: 4
+      name: jurisdiction
+      label: State/Jurisdiction of Incorporation
+      hint: Where was the business registered?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: formation_date
+      label: Date of Formation
+      hint: When was the business formed?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: registration_number
+      label: State Registration Number
+      hint: Registration or filing number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary contact for the business
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Person Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_address
+      label: Contact Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_address_section
+      label: -- Business Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: principal_address
+      label: Principal Place of Business
+      hint: Main business location
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_locations
+      label: Additional office locations
+      hint: If applicable, list other addresses
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: business_details_section
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: business_description
+      label: Business Description
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: industry_classification
+      label: Industry Classification
+      hint: Select your industry
+      type: select_one
+      options:
+      - Professional Services
+      - Technology
+      - Retail
+      - Manufacturing
+      - Healthcare
+      - Finance
+      - Real Estate
+      - Construction
+      - Education
+      - Non-Profit
+      - Other
+      required: true
+    - id: 23
+      name: ownership_section
+      label: -- Ownership --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: principal_owner_name
+      label: Principal Owner Name
+      hint: Name of main owner or president
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: ownership_percentage
+      label: Ownership Percentage
+      hint: Principal owner percentage
+      type: number
+      options: []
+      required: false

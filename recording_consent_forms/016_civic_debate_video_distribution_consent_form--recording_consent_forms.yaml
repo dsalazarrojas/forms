@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civic Debate Video Distribution Consent Form
+    pages:
+      - id: 1
+        name: debate_details_header
+        label: -- Debate and Participant Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_full_name
+        label: Participant Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: debate_event_title
+        label: Title of the Debate Event
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: debate_date
+        label: Date of the Debate
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: consent_recording
+        label: I consent to being video and audio recorded during the debate
+        hint: null
+        type: select_one
+        options:
+          - I Consent
+          - I Do Not Consent
+        required: true
+      - id: 7
+        name: consent_distribution
+        label: I consent to the distribution of these recordings for educational and promotional purposes
+        hint: null
+        type: select_one
+        options:
+          - I Consent
+          - I Do Not Consent
+        required: true
+      - id: 8
+        name: distribution_channels
+        label: Approved Distribution Channels
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Educational Websites
+          - Social Media (YouTube, Facebook, etc.)
+          - Local Television
+          - Internal Archive
+        required: false
+      - id: 9
+        name: age_verification
+        label: Are you under 18 years of age?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: guardian_consent_note
+        label: If under 18 - A parent or legal guardian must sign below
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: digital_signature
+        label: Digital Signature (Full Name)
+        hint: By typing your name, you agree to the terms above
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: signature_date
+        label: Date of Signature
+        hint: null
+        type: date
+        options: []
+        required: true

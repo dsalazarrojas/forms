@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offer And Counteroffer Form
+    pages:
+    - id: 1
+      name: negotiation_terms
+      label: Negotiation terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: offer_details
+      label: Offer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: counteroffer_details
+      label: Counteroffer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature_fields
+      label: Signature fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: offer_and_counteroffer_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Request
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rental_start_date
+      label: Rental start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rental_start_time
+      label: Rental start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: rental_end_date
+      label: Rental end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rental_end_time
+      label: Rental end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: preferred_car_type
+      label: Preferred car type
+      hint: null
+      type: select_one
+      options:
+      - Economy
+      - Compact
+      - Mid-Size
+      - Full-Size
+      - SUV
+      - Minivan
+      - Luxury
+      - Premium
+      - Sports Car
+      - Other
+      required: true
+    - id: 9
+      name: number_of_passengers
+      label: Number of passengers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pickup_location
+      label: Pickup location
+      hint: Address or landmark
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pickup_city
+      label: Pickup city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pickup_state
+      label: Pickup state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dropoff_location
+      label: Dropoff location
+      hint: Address or landmark
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: dropoff_city
+      label: Dropoff city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: dropoff_state
+      label: Dropoff state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: car_delivery_needed
+      label: Do you need the car delivered?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: delivery_location
+      label: Delivery location
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: child_seat_needed
+      label: Do you need a child or booster seat?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Infant Car Seat
+      - Yes - Booster Seat
+      - false
+      required: false
+    - id: 19
+      name: gps_needed
+      label: GPS navigation system needed?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Standard GPS
+      - Yes - Premium GPS
+      - false
+      required: false
+    - id: 20
+      name: additional_features
+      label: Additional features desired (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Bluetooth
+      - Sunroof
+      - Heated Seats
+      - Premium Sound System
+      - WiFi Hotspot
+      - Remote Start
+      - Automatic Transmission
+      required: false
+    - id: 21
+      name: additional_drivers
+      label: Number of additional drivers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: insurance_required
+      label: Do you need rental insurance?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Already Have Coverage
+      required: false
+    - id: 23
+      name: special_requirements
+      label: Special requirements or comments
+      hint: Specific car features, accessibility needs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: driver_license_number
+      label: Driver license number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: contact_preference
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Either
+      required: false

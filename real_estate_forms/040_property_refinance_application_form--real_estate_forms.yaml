@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Refinance Application Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_amount
+      label: loan amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loan_term
+      label: loan term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      required: false
+    - id: 5
+      name: property_value
+      label: property value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: current_interest_rate
+      label: current interest rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: desired_interest_rate
+      label: desired interest rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 12
+      name: loan_status
+      label: loan status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Denied
+      required: false
+    - id: 13
+      name: reason_for_loan_denial
+      label: reason for loan denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: co_borrower_name
+      label: co borrower name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: co_borrower_relationship
+      label: co borrower relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Other
+      required: false
+    - id: 16
+      name: co_borrower_percentage
+      label: co borrower percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: credit_score
+      label: credit score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: property_type_2
+      label: property type 2
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      required: false
+    - id: 19
+      name: desired_property_type
+      label: desired property type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      required: false
+    - id: 20
+      name: credit_history
+      label: credit history
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 21
+      name: income_proof
+      label: income proof
+      hint: null
+      type: select_multiple
+      options:
+      - W2
+      - Tax Return
+      - Paystub
+      required: false
+    - id: 22
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      required: false
+    - id: 23
+      name: employment_length
+      label: employment length
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 24
+      name: co_borrower_employment_status
+      label: co borrower employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      required: false
+    - id: 25
+      name: co_borrower_employment_length
+      label: co borrower employment length
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false

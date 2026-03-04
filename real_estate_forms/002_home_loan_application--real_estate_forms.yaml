@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Loan Application
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: borrower_info
+      label: Borrower Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_details
+      label: Employment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: income
+      label: Income
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''select_one'', ''label'': ''Select One'', ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_two'', ''label'': ''Select Two'', ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 5
+      name: employment_history
+      label: Employment History
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''select_three'', ''label'': ''Select Three'', ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_four'', ''label'': ''Select Four'', ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 6
+      name: co_borrower_info
+      label: Co. Borrower Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''select_five'', ''label'': ''Select Five'', ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_six'', ''label'': ''Select Six'', ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''select_seven'', ''label'': ''Select Seven'', ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_eight'', ''label'': ''Select Eight'', ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 8
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''select_nine'', ''label'': ''Select Nine'', ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_ten'', ''label'': ''Select Ten'', ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 10
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''select_eleven'', ''label'': ''Select Eleven'', ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_twelve'', ''label'': ''Select Twelve'', ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 12
+      name: co_borrower_credit_score
+      label: Co. Borrower Credit Score
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''select_thirteen'', ''label'': ''Select Thirteen'',
+        ''type'': ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_fourteen'', ''label'': ''Select Fourteen'',
+        ''type'': ''object'', ''options'': []}'
+      required: false
+    - id: 13
+      name: co_employment_details
+      label: Co. Employment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: co_income
+      label: Co. Income
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''select_fifteen'', ''label'': ''Select Fifteen'',
+        ''type'': ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_sixteen'', ''label'': ''Select Sixteen'',
+        ''type'': ''object'', ''options'': []}'
+      required: false
+    - id: 15
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''select_seventeen'', ''label'': ''Select Seventeen'',
+        ''type'': ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_eighteen'', ''label'': ''Select Eighteen'',
+        ''type'': ''object'', ''options'': []}'
+      required: false
+    - id: 16
+      name: property_type2
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''select_nineteen'', ''label'': ''Select Nineteen'',
+        ''type'': ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_twenty'', ''label'': ''Select Twenty'', ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 17
+      name: loan_terms
+      label: Loan Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''select_twentyone'', ''label'': ''Select Twenty One'',
+        ''type'': ''object'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''select_twentytwo'', ''label'': ''Select Twenty Two'',
+        ''type'': ''object'', ''options'': []}'
+      required: false

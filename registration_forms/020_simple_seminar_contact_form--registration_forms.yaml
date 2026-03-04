@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Seminar Contact Form
+    pages:
+    - id: 1
+      name: seminar_1_first_name
+      label: first_name
+      hint: First name of the attendee
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seminar_2_last_name
+      label: last_name
+      hint: Last name of the attendee
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seminar_3_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: seminar_4_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seminar_5_message
+      label: message
+      hint: Any question or comment
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seminar_6_inquiry_type
+      label: inquiry_type
+      hint: null
+      type: select_multiple
+      options:
+      - Registration Enquiry
+      - General Inquiry
+      required: false
+    - id: 7
+      name: seminar_7_inquiry
+      label: inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seminar_8_additional_files
+      label: additional_files
+      hint: null
+      type: select_multiple
+      options:
+      - file1
+      - file2
+      required: false

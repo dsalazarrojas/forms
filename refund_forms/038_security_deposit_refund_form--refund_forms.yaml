@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Deposit Refund Form
+    pages:
+    - id: 1
+      name: tenant_id
+      label: Tenant Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: landlord_id
+      label: Landlord Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: lease_agreement_signed_date
+      label: Lease Agreement Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lease_agreement_signed_by
+      label: Lease Agreement Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lease_agreement_copy_attached
+      label: Lease Agreement Copy Attached
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false

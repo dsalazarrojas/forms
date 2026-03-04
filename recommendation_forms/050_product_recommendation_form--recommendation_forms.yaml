@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Recommendation Form
+    pages:
+    - id: 1
+      name: product_recommendation_form
+      label: Product Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: Product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recommended_by
+      label: Recommended By
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - Other
+      required: false

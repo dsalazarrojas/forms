@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Counter Offer Form
+    pages:
+    - id: 1
+      name: buyer_info
+      label: buyer_info
+      hint: null
+      type: select_multiple
+      options:
+      - buyer
+      - seller
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: counter_offer
+      label: counter_offer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: counter_price
+      label: counter_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: counter_date
+      label: counter_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: counter_terms
+      label: counter_terms
+      hint: null
+      type: select_multiple
+      options:
+      - term1
+      - term2
+      - term3
+      required: false
+    - id: 7
+      name: buyer_note
+      label: buyer_note
+      hint: null
+      type: note
+      options: []
+      required: false

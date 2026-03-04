@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Translation Localisation Expert Referral Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Translation Localisation Expert Referral Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: translation_specialist
+      label: Translation Specialist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Project Manager''}'
+      - '{''option'': ''Team Lead''}'
+      - '{''option'': ''Freelancer''}'
+      required: true
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''1-3 years''}'
+      - '{''option'': ''4-6 years''}'
+      - '{''option'': ''7-10 years''}'
+      - '{''option'': ''More than 10 years''}'
+      required: true
+    - id: 8
+      name: expertise_level
+      label: Expertise Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Beginner''}'
+      - '{''option'': ''Advanced''}'
+      - '{''option'': ''Expert''}'
+      required: true
+    - id: 9
+      name: native_language
+      label: Native Language
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''English''}'
+      - '{''option'': ''French''}'
+      - '{''option'': ''Spanish''}'
+      - '{''option'': ''Chinese''}'
+      - '{''option'': ''Arabic''}'
+      - '{''option'': ''Other''}'
+      required: true
+    - id: 10
+      name: languages_known
+      label: Languages Known
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: languages_known_other
+      label: Other languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_skills
+      label: Additional Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_skills_other
+      label: Other skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: social_media
+      label: Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Email''}'
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Both''}'
+      required: true
+    - id: 19
+      name: preferred_communication_method
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Email''}'
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Video Call''}'
+      required: true
+    - id: 20
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''English''}'
+      - '{''option'': ''French''}'
+      - '{''option'': ''Spanish''}'
+      - '{''option'': ''Chinese''}'
+      - '{''option'': ''Arabic''}'
+      - '{''option'': ''Other''}'
+      required: true
+    - id: 21
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Remote''}'
+      - '{''option'': ''Local''}'
+      required: true
+    - id: 22
+      name: timezone
+      label: Timezone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: timezone_other
+      label: Other timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: false

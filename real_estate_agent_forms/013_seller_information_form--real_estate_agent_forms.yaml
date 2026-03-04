@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seller Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Residential''}'
+      - '{''label'': ''Commercial''}'
+      - '{''label'': ''Industrial''}'
+      required: false
+    - id: 6
+      name: reason_to_sell
+      label: Reason to Sell
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: best_time
+      label: Best Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: soon_to_sell
+      label: Soon to Sell
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: move_out_timeframe
+      label: Move Out Timeframe
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false

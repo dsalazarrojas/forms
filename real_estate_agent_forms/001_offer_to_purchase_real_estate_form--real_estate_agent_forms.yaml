@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offer To Purchase Real Estate Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_info
+      label: Buyer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seller_info
+      label: Seller Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_purchase_offer
+      label: Date Of Purchase Offer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: purchase_price_currency
+      label: Purchase Price Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      - JPY
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: Terms And Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: buyer_address
+      label: Buyer Address
+      hint: null
+      type: text
+      options: []
+      required: false

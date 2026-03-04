@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Property Disclosure Form
+    pages:
+    - id: 1
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Real Estate Forms
+      - Real Estate Agent Forms
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_sources
+      label: property-sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_surroundings
+      label: property-surroundings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_condition
+      label: property-condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_age
+      label: property-age
+      hint: null
+      type: select_one
+      options:
+      - 5 years
+      - 10 years
+      - 15 years
+      required: false
+    - id: 7
+      name: property_size
+      label: property-size
+      hint: null
+      type: select_one
+      options:
+      - 1-500 sq ft
+      - 500-1000 sq ft
+      - 1000-2000 sq ft
+      required: false
+    - id: 8
+      name: property_use
+      label: property-use
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Investment
+      - Rental
+      required: false
+    - id: 9
+      name: property_bedrooms
+      label: property-bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_bedbaths
+      label: property-bedbaths
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_yrs_old
+      label: property-yrs-old
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: property_lot_size
+      label: property-lot-size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_sqft
+      label: property-sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: property_stories
+      label: property-stories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: property_year_built
+      label: year-built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: property_zip
+      label: property-zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_city
+      label: property-city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_state
+      label: property-state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_country
+      label: property-country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_address
+      label: property-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_neighborhood
+      label: property-neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_municipalities
+      label: property-municipalities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_notes
+      label: property-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: property_owner
+      label: property-owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_agent
+      label: property-agent
+      hint: null
+      type: text
+      options: []
+      required: false

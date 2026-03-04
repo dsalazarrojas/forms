@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavior Specialist Referral Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: Enter the full name of the individual being referred
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Required if client is a minor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referral_details_header
+      label: -- Referral Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_behavior_concerns
+      label: Primary Behavior Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Aggression
+      - Non-compliance
+      - Self-injury
+      - Social Skills Deficits
+      - Anxiety
+      - Disruptive Behavior
+      - Other
+      required: true
+    - id: 8
+      name: behavior_description
+      label: Description of Primary Behavior
+      hint: Please describe the behavior in observable and measurable terms
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: behavior_frequency
+      label: Frequency of Behavior
+      hint: How often does this behavior occur
+      type: select_one
+      options:
+      - Multiple times per hour
+      - Daily
+      - 2-3 times per week
+      - Weekly
+      - Monthly or less
+      required: true
+    - id: 10
+      name: behavior_severity
+      label: Severity Level
+      hint: Overall impact on daily functioning
+      type: select_one
+      options:
+      - Mild - Minimal disruption
+      - Moderate - Significant impact
+      - Severe - High risk or major disruption
+      - Crisis Level - Immediate safety concern
+      required: true
+    - id: 11
+      name: background_info_header
+      label: -- Background and History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: previous_interventions
+      label: Previous Interventions Attempted
+      hint: What strategies have been tried so far
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_medications
+      label: Current Medications
+      hint: List any medications that may impact behavior
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_source_name
+      label: Referral Source Name
+      hint: Person or agency making the referral
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: referral_source_email
+      label: Referral Source Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: referral_urgency
+      label: Referral Urgency
+      hint: null
+      type: select_one
+      options:
+      - Low - Routine referral
+      - Medium - Needs attention soon
+      - High - Urgent priority
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

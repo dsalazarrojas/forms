@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Hosting Quotation Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quotation_details
+      label: Quotation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_planner_details
+      label: Event Planner
+      hint: null
+      type: select_one
+      options:
+      - event_manager
+      - event_coordinator
+      - event_lead
+      required: false
+    - id: 5
+      name: client_budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_requirements
+      label: Event Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: client_note
+      label: Client Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: event_terms_and_conditions
+      label: Event Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

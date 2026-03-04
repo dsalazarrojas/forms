@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Security Guard Entrance Exam Registration
+    pages:
+    - id: 1
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 8 am - 9 am
+      - 9 am - 10 am
+      - 10 am - 11 am
+      - 11 am - 12 pm
+      - 12 pm - 1 pm
+      - 1 pm - 2 pm
+      - 2 pm - 3 pm
+      - 3 pm - 4 pm
+      required: true
+    - id: 2
+      name: scheduling_date
+      label: Scheduling Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: exam_type
+      label: Exam Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 4
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: select_multiple
+      options:
+      - 2 hours
+      - 4 hours
+      - 6 hours
+      - 8 hours
+      required: true
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: availability_2
+      label: Availability 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: eligibility
+      label: Eligibility
+      hint: null
+      type: select_multiple
+      options:
+      - Eligible
+      - Not Eligible
+      required: true
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: confirm_name
+      label: Confirm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit_all
+      label: Submit All
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cancel_all
+      label: Cancel All
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: back_all
+      label: Back All
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: save_and_next
+      label: Save and Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: save_and_continue
+      label: Save and Continue
+      hint: null
+      type: text
+      options: []
+      required: false

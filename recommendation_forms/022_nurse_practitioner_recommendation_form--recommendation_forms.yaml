@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Practitioner Recommendation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Please provide patient's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Please provide patient's last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Please provide patient's email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Please provide patient's phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hospital_name
+      label: Hospital
+      hint: Please provide hospital name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years
+      label: Years
+      hint: Please provide years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Please provide comments
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: recommend
+      label: Recommend
+      hint: Please select recommend
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: reason
+      label: Reason
+      hint: Please provide reason
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: relationship
+      label: Relationship
+      hint: Please select relationship
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: recommendation
+      label: Recommendation
+      hint: Please provide recommendation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: np_name
+      label: NP
+      hint: Please provide NP name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: np_title
+      label: NP Title
+      hint: Please provide NP title
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: np_years
+      label: Years
+      hint: Please provide NP's years
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: np_department
+      label: Department
+      hint: Please select department
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: np_supervisor
+      label: Supervisor
+      hint: Please provide supervisor
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: np_email
+      label: NP E-Mail
+      hint: Please provide NP's email
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: np_phone
+      label: NP Phone
+      hint: Please provide NP's phone number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: np_fax
+      label: NP Fax
+      hint: Please provide NP's fax number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: np_facility
+      label: Facility
+      hint: Please select facility
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: recommendation_date
+      label: Recommendation Date
+      hint: Please provide recommendation date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: review_period
+      label: Review Period
+      hint: Please select review period
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: review_period_years
+      label: Years
+      hint: Please provide review period years
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: review_period_months
+      label: Months
+      hint: Please provide review period months
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: review_period_days
+      label: Days
+      hint: Please provide review period days
+      type: number
+      options: []
+      required: true

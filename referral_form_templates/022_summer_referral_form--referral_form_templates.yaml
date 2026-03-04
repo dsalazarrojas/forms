@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: summer_referral_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_info
+      label: Referral Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: summer_programs
+      label: Summer Programs
+      hint: Select multiple programs the user is interested in.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: Enter the contact information.
+      type: text
+      options: []
+      required: false

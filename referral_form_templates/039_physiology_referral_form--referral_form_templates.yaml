@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physiology Referral Form
+    pages:
+    - id: 1
+      name: physiology_referral_form
+      label: Physiological Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: referring_clinician
+      label: Referring Clinician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_of_referral
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expected_date_of_result
+      label: Expected Date of Result
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: test_ordered
+      label: Test Ordered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_allergies
+      label: Patient Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_comments
+      label: Test Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hospital_location
+      label: Hospital Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: department_phone
+      label: Department Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hospital_fax
+      label: Hospital Fax
+      hint: null
+      type: text
+      options: []
+      required: false

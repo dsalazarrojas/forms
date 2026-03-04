@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Permission Form
+    pages:
+    - id: 1
+      name: tenant
+      label: Tenant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_info
+      label: Pet Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: true
+    - id: 4
+      name: pet_count
+      label: Pet Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: rental_unit
+      label: Rental Unit
+      hint: null
+      type: text
+      options: []
+      required: true

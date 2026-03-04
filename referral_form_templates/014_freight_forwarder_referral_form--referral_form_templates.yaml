@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Forwarder Referral Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Partner
+      required: true
+    - id: 3
+      name: referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: assigned_group
+      label: Assigned Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Follow-up
+      - Not Follow-up
+      required: false
+    - id: 22
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_user_name
+      label: Assigned User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

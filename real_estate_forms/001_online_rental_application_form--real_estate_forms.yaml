@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_rental_application_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Online Rental Application Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: form_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip
+      label: ZIP
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - tool1
+      - tool2
+      required: true
+    - id: 17
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true

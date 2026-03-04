@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bike Share Booking Form
+    pages:
+    - id: 1
+      name: user_account_header
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_id
+      label: Bike Share Member ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: booking_request_header
+      label: -- Booking Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pickup_station
+      label: Preferred Pick-up Station
+      hint: null
+      type: select_one
+      options:
+      - Downtown Hub
+      - University North
+      - Waterfront Park
+      - Tech District
+      - East Side Residential
+      required: true
+    - id: 7
+      name: drop_off_station
+      label: Intended Drop-off Station
+      hint: null
+      type: select_one
+      options:
+      - Downtown Hub
+      - University North
+      - Waterfront Park
+      - Tech District
+      - East Side Residential
+      required: true
+    - id: 8
+      name: start_time
+      label: Requested Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: duration_estimate
+      label: Estimated Trip Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - 4 hours
+      - Full day
+      required: true
+    - id: 10
+      name: bike_preference
+      label: Bike Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard Bike
+      - Electric Bike
+      - Bike with Basket
+      required: true
+    - id: 11
+      name: purpose_of_trip
+      label: Purpose of Trip
+      hint: Helps us improve service planning
+      type: select_one
+      options:
+      - Commuting to work/school
+      - Errands
+      - Leisure/Sightseeing
+      - Fitness
+      required: false
+    - id: 12
+      name: additional_users
+      label: Are you booking for additional riders?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: feedback_improvement
+      label: Any suggestions for new station locations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agreement_safety
+      label: I agree to follow all safety rules and wear a helmet
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true

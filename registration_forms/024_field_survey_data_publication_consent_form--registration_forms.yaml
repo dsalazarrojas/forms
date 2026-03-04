@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Survey Data Publication Consent Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: select_one
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 2
+      name: participant_relationship
+      label: Participant Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: data_use
+      label: Data Use
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: data_retention
+      label: Data Retention
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: data_distribution
+      label: Data Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

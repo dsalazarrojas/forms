@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quote Form
+    pages:
+    - id: 1
+      name: quote_form_page
+      label: Quote Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: Enter customer info here
+      type: select_one
+      options:
+      - '{''id'': ''customer_1'', ''label'': ''Customer 1''}'
+      - '{''id'': ''customer_2'', ''label'': ''Customer 2''}'
+      required: false
+    - id: 3
+      name: quote_info
+      label: Quote Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quote_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: quote_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: quote_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_info_submit
+      label: Submit Customer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

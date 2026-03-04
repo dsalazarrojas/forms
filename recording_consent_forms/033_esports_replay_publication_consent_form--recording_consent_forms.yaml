@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: esports_replay_publication_consent_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details_1
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_details_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_details_3
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: replay_publication_consent
+      label: Publication Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: participant_details_4
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_details_5
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_details_6
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

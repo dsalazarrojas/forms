@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Award Category Quiz
+    pages:
+    - id: 1
+      name: volunteer_award_category_quiz_form
+      label: Volunteer Award Category Quiz Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_category
+      label: Choose a category
+      hint: Select the category for the volunteer award
+      type: select_one
+      options:
+      - '{''value'': ''Arts and Culture''}'
+      - '{''value'': ''Community Development''}'
+      - '{''value'': ''Education''}'
+      - '{''value'': ''Health and Wellness''}'
+      - '{''value'': ''Humanitarian Aid''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: select_recognition_group
+      label: Choose a recognition group
+      hint: Select the recognition group for the volunteer award
+      type: select_one
+      options:
+      - '{''value'': ''Arts and Culture'', ''label'': ''Arts and Culture''}'
+      - '{''value'': ''Community Development'', ''label'': ''Community Development''}'
+      - '{''value'': ''Education'', ''label'': ''Education''}'
+      - '{''value'': ''Health and Wellness'', ''label'': ''Health and Wellness''}'
+      - '{''value'': ''Humanitarian Aid'', ''label'': ''Humanitarian Aid''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: select_why_volunteered
+      label: Why did you volunteer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''To help others''}'
+      - '{''value'': ''To learn something new''}'
+      - '{''value'': ''To make a difference''}'
+      - '{''value'': ''To meet new people''}'
+      - '{''value'': ''To satisfy my personal values''}'
+      - '{''value'': ''To volunteer with friends''}'
+      - '{''value'': ''To see the impact of my work''}'
+      - '{''value'': ''To serve a higher purpose''}'
+      - '{''value'': ''To have fun''}'
+      - '{''value'': ''To develop skills''}'
+      - '{''value'': ''To get involved in the community''}'
+      - '{''value'': ''To feel good about myself''}'
+      - '{''value'': ''To get out of my house''}'
+      - '{''value'': ''To be part of something bigger than myself''}'
+      - '{''value'': ''To be of service''}'
+      - '{''value'': ''To make new connections''}'
+      - '{''value'': ''To be of use''}'
+      required: false
+    - id: 5
+      name: date_volunteered
+      label: When did you volunteer?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_volunteered
+      label: What time did you volunteer?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_time_commitment
+      label: How many hours did you volunteer?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: select_awareness
+      label: How much time did you volunteer?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: select_frequency
+      label: How often do you volunteer?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-5'', ''label'': ''1-5 times''}'
+      - '{''value'': ''More than 5'', ''label'': ''More than 5''}'
+      required: false
+    - id: 10
+      name: note
+      label: Additional notes or comments
+      hint: Please provide any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

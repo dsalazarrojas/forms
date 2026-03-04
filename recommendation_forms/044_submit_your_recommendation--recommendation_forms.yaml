@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: submit_your_recommendation
+    pages:
+    - id: 1
+      name: submit_your_recommendation_page_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: type_of_recommendation
+      label: Type of Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_upload_1
+      label: File 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file_upload_2
+      label: File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_upload_3
+      label: File 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accept_terms
+      label: accept_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: accept_policy
+      label: accept_terms_policy
+      hint: null
+      type: select_multiple
+      options:
+      - privacy_policy
+      - terms_and_conditions
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

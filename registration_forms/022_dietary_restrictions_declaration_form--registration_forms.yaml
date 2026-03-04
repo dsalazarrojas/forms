@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dietary Restrictions Declaration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dietary_restrictions
+      label: What are your dietary restrictions?
+      hint: null
+      type: select_multiple
+      options:
+      - I have no dietary restrictions
+      - I have vegetarian dietary restrictions
+      - I have vegan dietary restrictions
+      - I have gluten-free dietary restrictions
+      - I have dairy-free dietary restrictions
+      - I have soy-free dietary restrictions
+      - I have nut-free dietary restrictions
+      - I have shellfish-free dietary restrictions
+      - I have other (please specify)
+      required: true
+    - id: 3
+      name: note
+      label: Any other dietary restrictions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

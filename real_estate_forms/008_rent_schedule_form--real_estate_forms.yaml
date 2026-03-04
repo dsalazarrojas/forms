@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rent Schedule Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tenant_email
+      label: Tenant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: tenant_contact
+      label: Tenant Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payment_start_date
+      label: Payment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: payment_end_date
+      label: Payment End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Bi-Weekly
+      - Weekly
+      required: true
+    - id: 7
+      name: rent_start_date
+      label: Rent Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: rent_end_date
+      label: Rent End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 10
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_one
+      options:
+      - Rent Due Now
+      - Pay In Arrears
+      - Pay In Advance
+      required: true

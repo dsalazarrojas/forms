@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Courier Service Quotation Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - courier_service
+      - freight_forwarding
+      - express_mail
+      - courier_forwarding
+      required: false
+    - id: 4
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: price_estimate
+      label: Price Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false

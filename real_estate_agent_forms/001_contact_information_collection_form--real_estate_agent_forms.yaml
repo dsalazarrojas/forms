@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Collection Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Please provide a valid email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach out to you?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - No Preference
+      required: true
+    - id: 7
+      name: section_real_estate_interests
+      label: -- Real Estate Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: interested_in
+      label: I am looking to
+      hint: Select the primary reason for your inquiry
+      type: select_one
+      options:
+      - Buy a Home
+      - Sell a Home
+      - Rent a Property
+      - Investment Opportunity
+      - General Inquiry
+      required: true
+    - id: 9
+      name: property_type
+      label: Preferred Property Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Multi-Family
+      - Land
+      - Commercial
+      required: false
+    - id: 10
+      name: budget_range
+      label: Estimated Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $250k
+      - $250k - $500k
+      - $500k - $750k
+      - $750k - $1M
+      - $1M+
+      required: false
+    - id: 11
+      name: timeframe
+      label: When are you looking to move?
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Just Browsing
+      required: false
+    - id: 12
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Any additional details or requirements?
+      hint: Feel free to share specific neighborhoods or features you are looking
+        for
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: newsletter_opt_in
+      label: Subscribe to our monthly real estate market updates?
+      hint: null
+      type: select_one
+      options:
+      - Yes please
+      - No thank you
+      required: true
+    - id: 15
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Google Search
+      - Referral
+      - Signage
+      - Online Advertisement
+      required: false

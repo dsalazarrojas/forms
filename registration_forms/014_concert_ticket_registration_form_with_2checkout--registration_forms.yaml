@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Registration Form With 2Checkout
+    pages:
+    - id: 1
+      name: event_registration
+      label: Event Registration
+      hint: Register for concert with secure payment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: concert_event
+      label: Concert Event
+      hint: Select the concert
+      type: select_one
+      options:
+      - Spring Music Festival
+      - Summer Concert Series
+      - Fall Symphony Gala
+      - Winter Holiday Concert
+      - New Years Eve Special
+      required: true
+    - id: 3
+      name: concert_date
+      label: Concert Date
+      hint: Event date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: ticket_tier
+      label: Ticket Tier
+      hint: Choose ticket level
+      type: select_one
+      options:
+      - Standard Entry
+      - Premium Seating
+      - VIP Access
+      - Platinum Package
+      required: true
+    - id: 5
+      name: quantity
+      label: Ticket Quantity
+      hint: Number of tickets
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: personal_info
+      label: Personal Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: For tickets and receipt
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address_line1
+      label: Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address_line2
+      label: Address Line 2
+      hint: Apartment or suite
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state_province
+      label: State or Province
+      hint: Region
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: postal_code
+      label: Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 16
+      name: order_summary
+      label: Order Summary
+      hint: Review before payment
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: unit_price
+      label: Unit Price
+      hint: Price per ticket
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: subtotal
+      label: Subtotal
+      hint: Before taxes
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tax_rate
+      label: Tax Rate
+      hint: Applicable tax percentage
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_due
+      label: Total Due
+      hint: Final amount
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_gateway
+      label: Payment Gateway
+      hint: Secure 2Checkout payment
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_provider
+      label: Payment Provider
+      hint: 2Checkout secure checkout
+      type: select_one
+      options:
+      - 2Checkout Credit Card
+      - 2Checkout PayPal
+      - 2Checkout Bank Transfer
+      required: true
+    - id: 23
+      name: card_info
+      label: Card Information
+      hint: Enter card details securely
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms
+      label: Payment Terms
+      hint: Agree to payment terms
+      type: select_one
+      options:
+      - I Agree to Payment Terms
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: complete_registration
+      label: Complete Registration
+      hint: Submit and pay
+      type: select_one
+      options:
+      - Complete and Pay Now
+      - Save and Continue Later
+      required: true

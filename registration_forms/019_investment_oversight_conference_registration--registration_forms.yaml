@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Oversight Conference Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participation_type
+      label: participation_type
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Delegate
+      - Investor
+      required: false
+    - id: 3
+      name: special_requirements
+      label: special_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: Please enter your email address.
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

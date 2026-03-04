@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leasehold Renewal Cost Estimator
+    pages:
+    - id: 1
+      name: leasehold_renewal_cost_estimator_form
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Address of the property
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type_other
+      label: Property Type Other
+      hint: Please specify the type of property
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Owned
+      - Leased
+      - Other
+      required: false
+    - id: 7
+      name: lease_period
+      label: Lease Period
+      hint: The length of the lease
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lease_start_date
+      label: Lease Start Date
+      hint: The start date of the lease
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lease_end_date
+      label: Lease End Date
+      hint: The end date of the lease
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: renovation_status
+      label: Renovation Status
+      hint: null
+      type: select_one
+      options:
+      - Under Construction
+      - Renovated
+      - Not Renovated
+      required: false
+    - id: 12
+      name: property_owner_name
+      label: Property Owner's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_owner_contact_number
+      label: Property Owner's Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_owner_email
+      label: Property Owner's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: property_owner_address
+      label: Property Owner's Address
+      hint: Address of the property owner
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_owner_other_name
+      label: Property Owner's Other Name
+      hint: Please specify the owner's other name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_owner_other_contact_number
+      label: Property Owner's Other Contact Number
+      hint: Please specify the owner's other contact number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_owner_other_email
+      label: Property Owner's Other Email
+      hint: Please specify the owner's other email
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_owner_other_address
+      label: Property Owner's Other Address
+      hint: Please specify the owner's other address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: renewal_request
+      label: Renewal Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: follow_up_details
+      label: Follow Up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_instructions
+      label: Follow Up Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false

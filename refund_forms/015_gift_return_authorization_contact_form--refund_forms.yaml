@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Return Authorization Contact Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: return_reason
+      label: Reason for Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: return_preferences
+      label: Return Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Fedex
+      - UPS
+      - USPS
+      required: true
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true

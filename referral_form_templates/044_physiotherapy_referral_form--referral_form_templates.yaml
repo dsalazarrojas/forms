@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physiotherapy Referral Form
+    pages:
+    - id: 1
+      name: physiotherapy_referral
+      label: Physiotherapy Referral
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physiotherapist
+      label: physiotherapist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: physiotherapist_name
+      label: Physiotherapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physiotherapy_goals
+      label: Physiotherapy Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: other_referrals
+      label: Other Referrals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: physiotherapist_phone
+      label: Physiotherapist Phone
+      hint: null
+      type: text
+      options: []
+      required: false

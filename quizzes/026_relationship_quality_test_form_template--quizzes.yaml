@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: relationship quality test form template
+    pages:
+    - id: 1
+      name: test_start
+      label: Relationship Quality Test Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: relationship_status
+      label: relationship_status
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 3
+      name: partner_satisfaction
+      label: partner_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_level
+      label: communication_level
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 5
+      name: trust_level
+      label: trust_level
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: partner_conflict
+      label: partner_conflict
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost always
+      required: false
+    - id: 7
+      name: conflict_resolution
+      label: conflict_resolution
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 8
+      name: relationship_growth
+      label: relationship_growth
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 9
+      name: relationship_quality
+      label: relationship_quality
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: test_end
+      label: Test End
+      hint: null
+      type: note
+      options: []
+      required: false

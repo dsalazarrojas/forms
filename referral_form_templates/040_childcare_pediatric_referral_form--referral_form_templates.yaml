@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Pediatric Referral Form
+    pages:
+    - id: 1
+      name: referral_date
+      label: Referral Date
+      hint: Date of pediatric referral
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: childcare_center_name
+      label: Childcare Center Name
+      hint: Name of the childcare center
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: childcare_center_phone
+      label: Childcare Center Phone
+      hint: Phone number for childcare center
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: referring_staff_name
+      label: Referring Staff Name
+      hint: Name of staff member making referral
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: referring_staff_role
+      label: Referring Staff Role
+      hint: Role or title of referring staff
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: referral_reason
+      label: Referral Reason
+      hint: What is the primary reason for this pediatric referral?
+      type: select_one
+      options:
+      - Developmental concerns
+      - Behavioral concerns
+      - Speech or language concerns
+      - Motor skills concerns
+      - Social interaction concerns
+      - Health or medical concerns
+      - Feeding or nutrition concerns
+      - Sleep concerns
+      - Other
+      required: true
+    - id: 16
+      name: referral_details
+      label: Referral Details
+      hint: Provide detailed information about the referral reason
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: concern_first_observed
+      label: When Concerns First Observed
+      hint: When were these concerns first noticed?
+      type: select_one
+      options:
+      - Within the last month
+      - 1 to 3 months ago
+      - 3 to 6 months ago
+      - 6 months to 1 year ago
+      - More than 1 year ago
+      - Since enrollment
+      required: true
+    - id: 18
+      name: concern_frequency
+      label: Concern Frequency
+      hint: How often are these concerns observed?
+      type: select_one
+      options:
+      - Constantly
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Situational only
+      required: true
+    - id: 19
+      name: concern_severity
+      label: Concern Severity
+      hint: How would you rate the severity of these concerns?
+      type: select_one
+      options:
+      - Very severe, immediate attention needed
+      - Severe, attention needed soon
+      - Moderate, should be evaluated
+      - Mild, monitoring recommended
+      - Minimal, watchful waiting
+      required: true
+    - id: 20
+      name: impact_on_daily_functioning
+      label: Impact on Daily Functioning
+      hint: How do these concerns affect daily functioning?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: strategies_attempted
+      label: Strategies Attempted
+      hint: What strategies have been tried to address these concerns?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: strategies_effectiveness
+      label: Strategies Effectiveness
+      hint: How effective were the attempted strategies?
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Minimally effective
+      - Not effective
+      - Unable to assess
+      required: true
+    - id: 23
+      name: previous_evaluations
+      label: Previous Evaluations
+      hint: Has the child had previous evaluations or assessments?
+      type: select_one
+      options:
+      - Yes, within the last year
+      - Yes, more than a year ago
+      - No, never evaluated
+      - Unsure
+      required: true
+    - id: 24
+      name: previous_services
+      label: Previous Services
+      hint: Has the child received any related services?
+      type: select_multiple
+      options:
+      - None
+      - Early intervention
+      - Speech therapy
+      - Occupational therapy
+      - Physical therapy
+      - Behavioral therapy
+      - Counseling
+      - Other
+      required: true
+    - id: 25
+      name: parent_concerns
+      label: Parent or Guardian Concerns
+      hint: What are the parent's concerns?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: parent_consent_for_referral
+      label: Parent Consent for Referral
+      hint: Has the parent consented to this referral?
+      type: select_one
+      options:
+      - Yes, verbal consent
+      - Yes, written consent
+      - No, pending
+      - No, declined
+      required: true
+    - id: 27
+      name: preferred_specialist
+      label: Preferred Specialist or Clinic
+      hint: Do you have a preferred specialist or clinic?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: urgency_level
+      label: Urgency Level
+      hint: What is the urgency level of this referral?
+      type: select_one
+      options:
+      - Urgent, within 1 week
+      - Soon, within 2 to 4 weeks
+      - Routine, within 1 to 3 months
+      - Non-urgent, as available
+      required: true
+    - id: 29
+      name: follow_up_plan
+      label: Follow-Up Plan
+      hint: What is the plan for follow-up after referral?
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: additional_information
+      label: Additional Information
+      hint: Any additional information for the pediatric specialist
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: referring_staff_signature
+      label: Referring Staff Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

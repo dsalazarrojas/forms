@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_governance_quotation_form
+    pages:
+    - id: 1
+      name: corporate_quotation
+      label: corporate quotation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quotation_date
+      label: quotation date
+      hint: Date of quotation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: quotation_time
+      label: quotation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: quotation_amount
+      label: quotation amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: quotation_currency
+      label: quotation currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 6
+      name: quotation_service
+      label: quotation service
+      hint: Select all services that apply
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: true
+    - id: 7
+      name: quotation_note
+      label: quotation note
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: quotation_email
+      label: quotation email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: quotation_phone
+      label: quotation phone
+      hint: Client phone number
+      type: text
+      options: []
+      required: false

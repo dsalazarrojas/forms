@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Property Owner Contact Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: owner name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: owner email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: owner phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reasons_for_inquiry
+      label: reasons for inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chili Cook Off Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant or Team Name
+      hint: Name of participant or team
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Email for registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Contact Phone
+      hint: Phone for urgent communication
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: entry_fee
+      label: Entry Fee Paid
+      hint: Enter amount or select payment status
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: cooking_category
+      label: Cooking Category
+      hint: Choose the category you will enter
+      type: select_one
+      options:
+      - Traditional
+      - Vegetarian
+      - Chili with a Twist
+      required: true
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: List names of team members
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_needs
+      label: Equipment Needs
+      hint: Note any equipment you will bring or need
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agree_terms
+      label: Agree to Event Terms
+      hint: Confirm you agree to event guidelines and waivers
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

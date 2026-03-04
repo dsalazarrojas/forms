@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_sales_manager_application_form
+    pages:
+    - id: 1
+      name: real_estate_agent_info
+      label: real_estate_agent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_experience
+      label: sales_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: manager_references
+      label: manager_references
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Agree''}'
+      - '{''label'': ''Undecided''}'
+      - '{''label'': ''Disagree''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_license
+      label: real_estate_license
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sales_manager_references
+      label: sales_manager_references
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Agree''}'
+      - '{''label'': ''Undecided''}'
+      - '{''label'': ''Disagree''}'
+      required: false
+    - id: 8
+      name: manager_experience
+      label: manager_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_sales_manager
+      label: real_estate_sales_manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sales_manager_certifications
+      label: sales_manager_certifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''real_estate''}'
+      - '{''label'': ''sales''}'
+      - '{''label'': ''marketing''}'
+      - '{''label'': ''finance''}'
+      - '{''label'': ''management''}'
+      - '{''label'': ''customer service''}'
+      - '{''label'': ''administration''}'
+      - '{''label'': ''legal''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 11
+      name: work_history
+      label: work_history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''full-time''}'
+      - '{''label'': ''part-time''}'
+      - '{''label'': ''contractor''}'
+      - '{''label'': ''student''}'
+      required: false
+    - id: 12
+      name: desired_salary
+      label: desired_salary
+      hint: null
+      type: number
+      options: []
+      required: false

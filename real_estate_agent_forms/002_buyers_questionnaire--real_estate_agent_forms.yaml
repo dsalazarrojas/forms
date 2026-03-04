@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyers Questionnaire
+    pages:
+    - id: 1
+      name: section_buyer_information
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Best email for communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Mobile or preferred phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: budget_range
+      label: Budget Range
+      hint: Approximate purchase budget
+      type: select_one
+      options:
+      - Under 250000
+      - 250000 to 500000
+      - 500000 to 1 million
+      - Over 1 million
+      required: true
+    - id: 6
+      name: property_type
+      label: Preferred Property Type
+      hint: Select primary preference
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Multi Family
+      - Land
+      required: true
+    - id: 7
+      name: bedrooms_minimum
+      label: Minimum Bedrooms
+      hint: Number of bedrooms required
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: desired_neighborhoods
+      label: Desired Neighborhoods
+      hint: List neighborhoods or areas in order of preference
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: must_have_features
+      label: Must Have Features
+      hint: Key features like garage, yard, accessibility
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: financing_preapproved
+      label: Financing Preapproved
+      hint: Select if preapproval is in place
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: timeline_for_purchase
+      label: Timeline for Purchase
+      hint: Expected timeframe to buy
+      type: select_one
+      options:
+      - Immediately
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 months plus
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else the agent should know
+      type: text
+      options: []
+      required: false

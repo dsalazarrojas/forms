@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bestie!!!
+    pages:
+    - id: 1
+      name: friend_request_header
+      label: -- Friend Request Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name_text
+      label: Your Name
+      hint: What should I call you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: your_age_number
+      label: Your Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: music_artist_fav
+      label: Favorite Music Artist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: food_fav_input
+      label: Favorite Food
+      hint: What do we eat when we hang out
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: compatibility_check_header
+      label: -- Compatibility Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: gaming_interest_choice
+      label: Do you like gaming
+      hint: null
+      type: select_one
+      options:
+      - Yes - I am a pro
+      - No - not my thing
+      - Sometimes - for fun
+      required: true
+    - id: 8
+      name: travel_interest_choice
+      label: Do you like out-of-town trips
+      hint: Adventure await
+      type: select_one
+      options:
+      - Yes - definitely
+      - No - I am a homebody
+      - I love traveling more than anything
+      required: true
+    - id: 9
+      name: personality_type_select
+      label: Are you an introvert or extrovert
+      hint: How do you recharge
+      type: select_one
+      options:
+      - Introvert - alone time please
+      - Extrovert - party all night
+      - Ambivert - bit of both
+      required: true
+    - id: 10
+      name: movie_fav_input
+      label: Favorite Movie
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: big_stuff_header
+      label: -- The Big Stuff --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: personality_trait_priority
+      label: Best personality trait in a friend
+      hint: Select your top priority
+      type: select_one
+      options:
+      - Sense of Humor
+      - Loyalty and Trust
+      - Intelligence
+      - Kindness and Empathy
+      - Brutal Honesty
+      required: true
+    - id: 13
+      name: lottery_win_purchase
+      label: If you won the lottery, what is the first thing you would buy
+      hint: No limits!
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: crazy_tolerance_check
+      label: Can you handle my personality
+      hint: I can be a lot sometimes
+      type: select_one
+      options:
+      - Yes - I am ready
+      - Maybe - let's find out
+      - I am crazier than you
+      required: true
+    - id: 15
+      name: hanging_out_frequency
+      label: How often do you like to hang out
+      hint: Social battery check
+      type: select_one
+      options:
+      - Every single day
+      - Only on Weekends
+      - Once a month
+      - Whenever we are free
+      required: true
+    - id: 16
+      name: final_question_header
+      label: -- The Big Question --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: bestie_status_intent
+      label: Do you want to be my bestie
+      hint: null
+      type: select_one
+      options:
+      - Yes! - Let's do it
+      - Let's see how it goes
+      - Maybe - convincing required
+      required: true
+    - id: 18
+      name: social_handle_entry
+      label: Instagram or Social Handle
+      hint: So I can find you
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_date_entry
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

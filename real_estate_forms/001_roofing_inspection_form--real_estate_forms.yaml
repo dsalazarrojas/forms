@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: roofing_inspection_form
+    pages:
+    - id: 1
+      name: main_page
+      label: Roofing Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roof_area
+      label: roof_area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: chimney_condition
+      label: chimney_condition
+      hint: Please note any issues with the chimney
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: chimney_structure
+      label: chimney_structure
+      hint: Please note any structural issues with the chimney
+      type: select_multiple
+      options:
+      - Brick
+      - Wood
+      - Clay
+      required: false
+    - id: 5
+      name: roof_color
+      label: roof_color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Brown
+      - Gray
+      required: false
+    - id: 6
+      name: roof_slope
+      label: roof_slope
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: chimney_height
+      label: chimney_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: venting_type
+      label: venting_type
+      hint: Please note the venting type
+      type: select_one
+      options:
+      - Positive
+      - Zero
+      - Negative
+      required: false
+    - id: 9
+      name: venting_location
+      label: venting_location
+      hint: Please note the venting location
+      type: select_one
+      options:
+      - Top
+      - Side
+      - Bottom
+      required: false

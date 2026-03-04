@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Learning Research Pilot Registration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for consent and records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For study communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role in study
+      hint: Teacher student researcher or administrator
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Researcher
+      - Administrator
+      required: true
+    - id: 5
+      name: years_experience
+      label: Years of experience with adaptive learning
+      hint: Approximate number of years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tech_devices_used
+      label: Devices used in learning
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Laptop
+      - Tablet
+      - Smartphone
+      - Desktop
+      required: false
+    - id: 7
+      name: consent_to_participate
+      label: Consent to participate and data use
+      hint: Agreement to research terms
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 8
+      name: time_commitment
+      label: Time commitment availability
+      hint: Hours per week available for pilot
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Any accommodations required for participation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else you want the research team to know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Quote Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: To receive your digital quote
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For follow up clarification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: Used to determine regional rates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: driver_vehicle_header
+      label: -- Driver and Vehicle --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: driver_age
+      label: Driver Age
+      hint: Primary driver's age
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: e.g. Toyota Corolla
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: primary_purpose
+      label: Primary Purpose
+      hint: How is the vehicle mainly used?
+      type: select_one
+      options:
+      - Commuting
+      - Pleasure
+      - Business
+      required: true
+    - id: 11
+      name: coverage_options_header
+      label: -- Coverage Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coverage_level
+      label: Coverage Level
+      hint: Select the tier of protection
+      type: select_one
+      options:
+      - Economy
+      - Standard
+      - Premium
+      required: true
+    - id: 13
+      name: currently_insured
+      label: Are you currently insured?
+      hint: Select yes if you have an active policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: accidents_count
+      label: Number of Accidents (Last 5 Years)
+      hint: Total incidents
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: additional_drivers
+      label: Additional Driver Names (if any)
+      hint: List other household drivers
+      type: text
+      options: []
+      required: false

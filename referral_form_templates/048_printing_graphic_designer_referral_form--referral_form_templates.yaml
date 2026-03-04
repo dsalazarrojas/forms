@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Printing Graphic Designer Referral Form
+    pages:
+    - id: 1
+      name: printing_graphic_designer_referral_form
+      label: Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: designer_recommendations
+      label: Designer Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: designer_name
+      label: Designer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

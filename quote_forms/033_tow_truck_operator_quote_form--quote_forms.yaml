@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: tow_truck_operator_quote_form
+    pages:
+    - id: 1
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quote_details
+      label: Quote Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

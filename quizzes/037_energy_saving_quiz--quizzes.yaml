@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Saving Quiz
+    pages:
+    - id: 1
+      name: home_energy_consumption
+      label: What does your home's energy consumption look like right now?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electricity_consumption
+      label: How much electricity do you currently use at home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gas_consumption
+      label: How much natural gas do you currently use at home?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: electricity_cost
+      label: What is the cost of your electricity bill?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gas_cost
+      label: What is the cost of your gas bill?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: heating_system
+      label: What type of heating system do you have in your home?
+      hint: null
+      type: select_one
+      options:
+      - Gas boiler
+      - Electric heating
+      - Solar panels
+      - Other
+      required: false
+    - id: 7
+      name: cooling_system
+      label: What type of cooling system do you have in your home?
+      hint: null
+      type: select_one
+      options:
+      - Air conditioning
+      - Fans and vents
+      - Other
+      required: false
+    - id: 8
+      name: insulation
+      label: How well insulated is your home?
+      hint: null
+      type: select_one
+      options:
+      - Well
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: double_glass
+      label: Do you have double glazing in your home?
+      hint: null
+      type: select_multiple
+      options:
+      - Double glazed windows
+      - Double glazed curtains
+      required: false
+    - id: 10
+      name: smart_home_devices
+      label: Do you use smart home devices in your home?
+      hint: null
+      type: select_multiple
+      options:
+      - Smart thermostat
+      - Smart lights
+      - Smart plugs
+      required: false
+    - id: 11
+      name: solar_panels
+      label: Do you have solar panels installed on your home?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: renewable_energy_sources
+      label: Do you use renewable energy sources in your home?
+      hint: null
+      type: select_multiple
+      options:
+      - Solar
+      - Wind
+      - Hydro
+      required: false
+    - id: 13
+      name: carbon_offsetting
+      label: Are you offsetting your carbon footprint?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: eco_certification
+      label: Do you have an Energy Performance Certificate (EPC) for your home?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: energy_efficiency_measures
+      label: Have you taken energy efficiency measures for your home?
+      hint: null
+      type: select_multiple
+      options:
+      - Insulation
+      - Double glazing
+      - Solar panels
+      required: false
+    - id: 16
+      name: energy_efficiency_measures_implement
+      label: Have you implemented the energy efficiency measures?
+      hint: null
+      type: select_multiple
+      options:
+      - Insulation
+      - Double glazing
+      - Solar panels
+      required: false
+    - id: 17
+      name: energy_saving_plan
+      label: Do you have an energy-saving plan for your home?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: energy_savings_goal
+      label: What is your energy-saving goal?
+      hint: null
+      type: select_one
+      options:
+      - Reduce energy consumption by 10%
+      - Reduce energy consumption by 20%
+      - Reduce energy consumption by 50%
+      required: false
+    - id: 19
+      name: energy_savings_timeframe
+      label: What is your energy-saving timeframe?
+      hint: null
+      type: select_one
+      options:
+      - 1 year
+      - 2-3 years
+      - 5 years
+      required: false
+    - id: 20
+      name: energy_savings_target
+      label: What is your target energy saving percentage?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: energy_saving_measurements
+      label: What energy-saving measurements do you plan to take?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_steps
+      label: What are your next steps?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recommended_measures
+      label: What measures do you recommend to reduce energy consumption?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      required: false

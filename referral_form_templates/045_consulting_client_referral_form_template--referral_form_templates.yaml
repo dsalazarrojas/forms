@@ -1,0 +1,62 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Client Referral Form Template
+    pages:
+      - id: 1
+        name: section_referrer_information
+        label: -- Referrer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: referrer_name
+        label: Referrer name
+        hint: Person making the referral
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: referrer_contact
+        label: Referrer contact email
+        hint: For follow up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: referred_client_name
+        label: Referred client name
+        hint: Name of the organization or person referred
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: client_needs_summary
+        label: Client needs summary
+        hint: Brief summary of the referral reason
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: urgency
+        label: Urgency
+        hint: How soon the referral needs contact
+        type: select_one
+        options:
+          - Immediate
+          - Within 1 week
+          - Within 1 month
+          - Not urgent
+        required: false

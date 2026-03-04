@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: score-prediction-quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: What Is This Quiz For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: match_info
+      label: match-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: score_predictions
+      label: Score Predictions
+      hint: Enter your score predictions for each team/player
+      type: select_multiple
+      options:
+      - '{''label'': ''Team A Wins'', ''value'': ''Team A wins''}'
+      - '{''label'': ''Team B Wins'', ''value'': ''Team B wins''}'
+      required: false
+    - id: 4
+      name: score_predictions_1
+      label: Team A Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score_predictions_2
+      label: Team B Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_submission
+      label: Confirm
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_submitter
+      label: Confirm Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Admin'', ''value'': ''admin''}'
+      - '{''label'': ''User'', ''value'': ''user''}'
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: (optional)
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: (optional)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_alias
+      label: Submitter Alias
+      hint: (optional)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_company
+      label: Submitter Company
+      hint: (optional)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_title
+      label: Submitter Title
+      hint: (optional)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_job
+      label: Submitter Job
+      hint: (optional)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_terms_agreed
+      label: I Agree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_job_function
+      label: Submitter Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_job_title_2
+      label: Submitter Job Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_job_function_2
+      label: Submitter Job Function 2
+      hint: null
+      type: text
+      options: []
+      required: false

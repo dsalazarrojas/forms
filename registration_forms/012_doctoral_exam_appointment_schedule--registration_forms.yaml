@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctoral Exam Appointment Schedule
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exam_info
+      label: Exam Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: faculty_info
+      label: Faculty Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_exam_time
+      label: Select Exam Time
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      required: true
+    - id: 6
+      name: confirm_exam_time
+      label: Confirm Exam Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      required: true
+    - id: 8
+      name: confirm_preferred_time
+      label: Confirm Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

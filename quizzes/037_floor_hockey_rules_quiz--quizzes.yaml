@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floor Hockey Rules Quiz
+    pages:
+    - id: 1
+      name: game_start_time
+      label: Game Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: game_duration
+      label: Game Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: score_board
+      label: Score Board
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: game_stop_time
+      label: Game Stop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: referee_signal
+      label: Referee Signal
+      hint: null
+      type: select_one
+      options:
+      - Red Card
+      - Yellow Card
+      - No Signal
+      required: true
+    - id: 6
+      name: game_officials
+      label: Game Officials
+      hint: null
+      type: select_multiple
+      options:
+      - Referee 1
+      - Referee 2
+      - Referee 3
+      required: true
+    - id: 7
+      name: scorekeepers
+      label: Scorekeepers
+      hint: null
+      type: select_multiple
+      options:
+      - Scorekeeper 1
+      - Scorekeeper 2
+      - Scorekeeper 3
+      required: true
+    - id: 8
+      name: game_officials_2
+      label: Game Officials 2
+      hint: null
+      type: select_multiple
+      options:
+      - Referee 4
+      - Referee 5
+      - Referee 6
+      required: false
+    - id: 9
+      name: scorekeeper_2
+      label: Scorekeeper 2
+      hint: null
+      type: select_multiple
+      options:
+      - Scorekeeper 4
+      - Scorekeeper 5
+      - Scorekeeper 6
+      required: false
+    - id: 10
+      name: game_start_date
+      label: Game Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: game_stop_date
+      label: Game Stop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: game_officials_3
+      label: Game Officials 3
+      hint: null
+      type: select_multiple
+      options:
+      - Referee 2
+      - Referee 3
+      - Referee 1
+      required: false
+    - id: 13
+      name: referee_1
+      label: Referee 1
+      hint: null
+      type: select_one
+      options:
+      - Referee 1
+      - Referee 2
+      - No Signal
+      required: true
+    - id: 14
+      name: scorekeeper
+      label: Scorekeeper
+      hint: null
+      type: select_multiple
+      options:
+      - Scorekeeper 2
+      - Scorekeeper 1
+      - Scorekeeper 3
+      required: true
+    - id: 15
+      name: game_officials_4
+      label: Game Officials 4
+      hint: null
+      type: select_multiple
+      options:
+      - Referee 5
+      - Referee 6
+      - Referee 4
+      required: false
+    - id: 16
+      name: referee_2
+      label: Referee 2
+      hint: null
+      type: select_one
+      options:
+      - Referee 1
+      - Referee 2
+      - No Signal
+      required: true
+    - id: 17
+      name: game_officials_5
+      label: Game Officials 5
+      hint: null
+      type: select_multiple
+      options:
+      - Referee 6
+      - Referee 4
+      - Referee 5
+      required: false
+    - id: 18
+      name: scorekeeper_2
+      label: Scorekeeper 2
+      hint: null
+      type: select_multiple
+      options:
+      - Scorekeeper 5
+      - Scorekeeper 3
+      - Scorekeeper 4
+      required: false
+    - id: 19
+      name: game_officials_6
+      label: Game Officials 6
+      hint: null
+      type: select_multiple
+      options:
+      - Referee 3
+      - Referee 6
+      - Referee 5
+      required: false
+    - id: 20
+      name: game_officials_7
+      label: Game Officials 7
+      hint: null
+      type: select_multiple
+      options:
+      - Referee 4
+      - Referee 5
+      - Referee 6
+      required: false
+    - id: 21
+      name: referee_3
+      label: Referee 3
+      hint: null
+      type: select_one
+      options:
+      - Referee 1
+      - Referee 2
+      - No Signal
+      required: true
+    - id: 22
+      name: game_officials_8
+      label: Game Officials 8
+      hint: null
+      type: select_multiple
+      options:
+      - Referee 7
+      - Referee 5
+      - Referee 6
+      required: false
+    - id: 23
+      name: score_1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: score_2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: score_3
+      label: Score 3
+      hint: null
+      type: number
+      options: []
+      required: true

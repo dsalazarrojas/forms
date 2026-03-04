@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brokers Open Feedback Form
+    pages:
+    - id: 1
+      name: agent_name
+      label: Agent name
+      hint: Name of attending agent
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agency
+      label: Agency
+      hint: Agent's agency
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_reference
+      label: Property reference
+      hint: Internal property ID or address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: overall_feedback
+      label: Overall feedback
+      hint: General impressions of the property
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pricing_comments
+      label: Pricing comments
+      hint: Feedback on asking price
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: showing_suggestions
+      label: Showing suggestions
+      hint: Suggestions to improve showings
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interest_level
+      label: Interest level
+      hint: Agent reported buyer interest
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 8
+      name: follow_up_contact
+      label: Follow up contact
+      hint: Agent contact for follow up
+      type: text
+      options: []
+      required: false

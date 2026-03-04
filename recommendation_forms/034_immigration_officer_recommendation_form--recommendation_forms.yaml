@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Officer Recommendation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: officer_experience
+      label: Officer Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: officer_position
+      label: Officer Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: officer_department
+      label: Officer Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: officer_years_of_experience
+      label: Officer Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: officer_date_first_assigned
+      label: Officer Date First Assigned
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: officer_date_last_assigned
+      label: Officer Date Last Assigned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: officer_signature
+      label: Officer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: legal_advisor
+      label: Legal Advisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: legal_advisor_department
+      label: Legal Advisor Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: legal_advisor_years_of_experience
+      label: Legal Advisor Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: legal_advisor_signature
+      label: Legal Advisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: other_officer_recommendations
+      label: Other Officer Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: other_legal_advisor_recommendations
+      label: Other Legal Advisor Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: immigration_officer_comment
+      label: Immigration Officer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: legal_advisor_comment
+      label: Legal Advisor Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: officer_agreed
+      label: Officer Agreed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: legal_advisor_agreed
+      label: Legal Advisor Agreed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: officer_date
+      label: Officer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: legal_advisor_date
+      label: Legal Advisor Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: officer_hours
+      label: Officer Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: legal_hours
+      label: Legal Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: other_hours
+      label: Other Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: officer_agreed_hours
+      label: Officer Agreed Hours
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sentiment Survey
+    pages:
+    - id: 1
+      name: property_sentiment_survey_first_page
+      label: What do you think is the current state of the property market?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_sentiment_survey_second_page
+      label: How would you rate your confidence in the current property market?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: property_sentiment_survey_third_page
+      label: What is your current property status?
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 4
+      name: property_sentiment_survey_fourth_page
+      label: How do you rate the current rent levels?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_sentiment_survey_fifth_page
+      label: How do you rate the current sale prices?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_sentiment_survey_sixth_page
+      label: What do you think is the main reason for the changes in the property
+        market?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_sentiment_survey_seventh_page
+      label: How do you feel about the current state of the property market?
+      hint: null
+      type: select_multiple
+      options:
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 8
+      name: property_sentiment_survey_eighth_page
+      label: What are your expectations for the future of the property market?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: property_sentiment_survey_ninth_page
+      label: What do you think is the main driver for the changes in the property
+        market?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: property_sentiment_survey_tenth_page
+      label: Do you think the changes in the property market are positive or negative?
+      hint: null
+      type: select_multiple
+      options:
+      - option10
+      - option11
+      - option12
+      required: false

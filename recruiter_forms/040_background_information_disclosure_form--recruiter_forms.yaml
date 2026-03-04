@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Information Disclosure Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Company ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: Personal email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: position_title
+      label: Position Title
+      hint: Job title or role
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: Work department
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: hire_date
+      label: Hire Date or Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: background_check_purpose
+      label: Purpose of Background Check
+      hint: Select reason
+      type: select_one
+      options:
+      - Pre-employment screening
+      - Periodic re-screening
+      - Promotion consideration
+      - Security clearance
+      - Regulatory requirement
+      - Other
+      required: true
+    - id: 15
+      name: checks_authorized
+      label: Background Checks Authorized
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Criminal history
+      - Employment history verification
+      - Education verification
+      - Professional licenses
+      - Credit history
+      - Motor vehicle records
+      - Reference checks
+      - Drug and alcohol screening
+      required: true
+    - id: 16
+      name: previous_employers
+      label: Previous Employers
+      hint: List last 5 years of employers
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: education_history
+      label: Education History
+      hint: List schools and degrees
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: professional_licenses
+      label: Professional Licenses or Certifications
+      hint: List any licenses held
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: conviction_disclosure
+      label: Criminal Conviction Disclosure
+      hint: Have you been convicted of a crime
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: conviction_explanation
+      label: Conviction Explanation
+      hint: Provide details if yes above
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorization_clause
+      label: Authorization Clause
+      hint: I authorize employer to conduct background check
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, I do not authorize
+      required: true
+    - id: 22
+      name: release_clause
+      label: Release Clause
+      hint: I release employer from liability
+      type: select_one
+      options:
+      - Yes, I release
+      - No, I do not release
+      required: true
+    - id: 23
+      name: truthfulness_statement
+      label: Truthfulness Statement
+      hint: I certify information is true and complete
+      type: select_one
+      options:
+      - Yes, certified
+      - No, not certified
+      required: true
+    - id: 24
+      name: employee_signature
+      label: Employee Signature
+      hint: Digital signature or typed name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date Signed
+      hint: Date of disclosure
+      type: date
+      options: []
+      required: true

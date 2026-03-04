@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Activity Waiver Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_waiver
+      label: Full Name of Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: guardian_name_waiver
+      label: Name of Legal Guardian (If participant is under 18)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email_waiver
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone_waiver
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Someone not living with the participant
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_activity_details
+      label: -- Activity Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: activities_participating_in
+      label: Which activities will you be participating in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sports and Athletics
+      - Arts and Crafts
+      - Fitness Classes
+      - Senior Programs
+      - Youth Programs
+      - Facility Rental/Events
+      required: true
+    - id: 11
+      name: medical_conditions_waiver
+      label: Any Medical Conditions or Allergies we should be aware of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_liability_waiver
+      label: -- Release of Liability and Assumption of Risk --
+      hint: Please read carefully before signing.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: acknowledgment_of_risk
+      label: I acknowledge that participation in community center activities involves
+        inherent risks of injury.
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - Other
+      required: true
+    - id: 14
+      name: release_of_liability
+      label: I hereby release the Community Center and its staff from all claims of
+        liability and damages.
+      hint: null
+      type: select_one
+      options:
+      - I agree to the release
+      - Other
+      required: true
+    - id: 15
+      name: photo_release_option
+      label: I grant permission for photos/videos to be taken of the participant for
+        promotional use.
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: section_signature_waiver
+      label: -- Signature and Date --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: digital_signature_waiver
+      label: Digital Signature (Type Full Name)
+      hint: This serves as a formal agreement.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date_of_signing_waiver
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

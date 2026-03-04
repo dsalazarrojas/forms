@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Australia Day Event Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: When you are registering
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: number_of_attendees
+      label: Total Number of Attendees
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: attendee_composition
+      label: Group Composition
+      hint: Who is attending
+      type: select_multiple
+      options:
+      - Adults
+      - Teenagers
+      - Children Under 12
+      - Seniors
+      - Family Group
+      required: true
+    - id: 9
+      name: age_of_children
+      label: Ages of Children Attending
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Vegetarian, allergies, etc
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_activity_preferences
+      label: Activity Preferences
+      hint: Select activities you want to attend
+      type: select_multiple
+      options:
+      - Opening Ceremony
+      - BBQ Lunch
+      - Sports and Games
+      - Live Music
+      - Cultural Performances
+      - Fireworks Display
+      - Kids Activities
+      - Community Workshops
+      required: true
+    - id: 12
+      name: sports_interest
+      label: Interest in Sports Events
+      hint: Which sports would you like to try
+      type: select_multiple
+      options:
+      - Cricket
+      - Volleyball
+      - Frisbee
+      - Water Sports
+      - Running Race
+      - None
+      required: false
+    - id: 13
+      name: music_preferences
+      label: Music Genre Preferences
+      hint: What kind of music do you enjoy
+      type: select_multiple
+      options:
+      - Pop
+      - Rock
+      - Country
+      - Indigenous Music
+      - Jazz
+      - Contemporary
+      - No Preference
+      required: false
+    - id: 14
+      name: volunteer_interest
+      label: Interest in Volunteering
+      hint: Would you like to volunteer at the event
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Maybe
+      - No - Just Attending
+      required: true
+    - id: 15
+      name: volunteer_roles
+      label: Preferred Volunteer Role
+      hint: If interested, what would you like to do
+      type: select_multiple
+      options:
+      - Setup and Cleanup
+      - Food Service
+      - Activity Coordination
+      - Information Booth
+      - Sports Coordination
+      - Security
+      - Other
+      required: false
+    - id: 16
+      name: availability_times
+      label: Available Time Slots
+      hint: When can you attend
+      type: select_multiple
+      options:
+      - Morning 9am-12pm
+      - Afternoon 12pm-3pm
+      - Evening 3pm-6pm
+      - Night 6pm-9pm
+      - All Day
+      required: true
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Wheelchair access, parking, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mobility_assistance
+      label: Need Mobility Assistance
+      hint: Do you need assistance
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Wheelchair Access
+      - Yes - Mobility Aid Support
+      - Yes - Other Support
+      required: false
+    - id: 19
+      name: transportation_assistance
+      label: Need Transportation Help
+      hint: Do you need transport to event
+      type: select_one
+      options:
+      - No - Have Transport
+      - Yes - Need Pickup
+      - Yes - Need Drop-Off
+      - Yes - Both Needed
+      required: false
+    - id: 20
+      name: community_connection
+      label: How Did You Hear About Event
+      hint: How did you learn about this
+      type: select_one
+      options:
+      - Local Council Website
+      - Social Media
+      - Word of Mouth
+      - Local Community Group
+      - School
+      - Newspaper
+      - Other
+      required: true
+    - id: 21
+      name: prior_australia_day_attendance
+      label: Attended Previous Australia Day Events
+      hint: Is this your first event
+      type: select_one
+      options:
+      - No - First Time
+      - Yes - Once Before
+      - Yes - Multiple Times
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Requests
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Referral Form
+    pages:
+    - id: 1
+      name: referral_name
+      label: referral_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referring_doctor
+      label: referring_doctor
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: referring_doctor_signature
+      label: referring_doctor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

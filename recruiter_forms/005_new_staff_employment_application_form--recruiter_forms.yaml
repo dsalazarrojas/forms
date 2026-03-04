@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Staff Employment Application Form
+    pages:
+    - id: 1
+      name: new_staff_employment_application_form
+      label: New Staff Employment Form
+      hint: A New Staff Employment Application Form is designed to streamline the
+        hiring process for businesses.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: Describe the position in a few words
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: false
+    - id: 6
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Filled
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: Name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: Email of the contact person
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: benefits
+      label: Benefits
+      hint: Do you offer benefits?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: benefits_details
+      label: Benefits Details
+      hint: If yes, list specific benefits
+      type: text
+      options: []
+      required: false

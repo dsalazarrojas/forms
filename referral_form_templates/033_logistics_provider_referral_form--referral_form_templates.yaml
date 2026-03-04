@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Provider Referral Form
+    pages:
+    - id: 1
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false

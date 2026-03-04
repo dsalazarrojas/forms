@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roommate Agreement Form Template
+    pages:
+    - id: 1
+      name: roommates_name
+      label: roommates_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: room_rent
+      label: room_rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: utilities_cost
+      label: utilities_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cleaning_schedule
+      label: cleaning_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Clean up after yourself
+      - Clean up after each other
+      - Hire a cleaning service
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: common_area_cleaning
+      label: common_area_cleaning
+      hint: null
+      type: select_one
+      options:
+      - You
+      - Roommates
+      - Neither
+      required: false
+    - id: 7
+      name: shared_kitchen
+      label: shared_kitchen
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shared_bathroom
+      label: shared_bathroom
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: utilities_billed_to
+      label: utilities_billed_to
+      hint: null
+      type: select_one
+      options:
+      - You
+      - Roommates
+      - Neither
+      required: false
+    - id: 10
+      name: renter_type
+      label: renter_type
+      hint: null
+      type: select_multiple
+      options:
+      - Tenant
+      - Owner
+      - Both
+      required: false
+    - id: 11
+      name: renter_status
+      label: renter_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Both
+      required: false
+    - id: 12
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 13
+      name: lease_duration
+      label: lease_duration
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '6'
+      - '12'
+      - '18'
+      required: false
+    - id: 14
+      name: roommates
+      label: roommates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: renter_type_2
+      label: renter_type_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: renter_status_2
+      label: renter_status_2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: notice_period_2
+      label: notice_period_2
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 18
+      name: lease_duration_2
+      label: lease_duration_2
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '6'
+      - '12'
+      - '18'
+      required: false
+    - id: 19
+      name: roommates_2
+      label: roommates_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: renter_type_3
+      label: renter_type_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: renter_status_3
+      label: renter_status_3
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: notice_period_3
+      label: notice_period_3
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 23
+      name: lease_duration_3
+      label: lease_duration_3
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '6'
+      - '12'
+      - '18'
+      required: false
+    - id: 24
+      name: roommates_3
+      label: roommates_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: notes
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: utilities
+      label: utilities
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Electricity
+      - Gas
+      - Internet
+      - Cable TV
+      - Other (please specify)
+      required: false
+    - id: 27
+      name: renter_utilities
+      label: renter_utilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: utilities_billed_to_2
+      label: utilities_billed_to_2
+      hint: null
+      type: select_one
+      options:
+      - You
+      - Roommates
+      - Neither
+      required: false
+    - id: 29
+      name: renter_utilities_2
+      label: renter_utilities_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: utilities_billed_to_3
+      label: utilities_billed_to_3
+      hint: null
+      type: select_one
+      options:
+      - You
+      - Roommates
+      - Neither
+      required: false
+    - id: 31
+      name: renter_utilities_3
+      label: renter_utilities_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

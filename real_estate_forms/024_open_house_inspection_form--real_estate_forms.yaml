@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Inspection Form
+    pages:
+    - id: 1
+      name: open_house_inspection
+      label: Open House Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_feedback
+      label: Buyer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inspection_items
+      label: Inspection Items
+      hint: null
+      type: select_multiple
+      options:
+      - Condition of the kitchen
+      - Condition of the bathroom
+      - Condition of the roof
+      - Condition of the yard
+      - Condition of the basement
+      - Condition of the foundation
+      - Condition of the garage
+      - Condition of the attic
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

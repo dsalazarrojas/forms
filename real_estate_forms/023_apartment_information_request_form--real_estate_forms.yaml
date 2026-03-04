@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Information Request Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: agent_name
+      label: Agent name
+      hint: Real estate agent handling request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget_minimum
+      label: Budget minimum - monthly rent
+      hint: Lowest acceptable price
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: budget_maximum
+      label: Budget maximum - monthly rent
+      hint: Highest acceptable price
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: preferred_locations
+      label: Preferred locations or neighborhoods
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bedrooms_minimum
+      label: Minimum number of bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: bedrooms_maximum
+      label: Maximum number of bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: bathrooms_minimum
+      label: Minimum number of bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: bathrooms_maximum
+      label: Maximum number of bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: square_footage_minimum
+      label: Minimum square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: square_footage_maximum
+      label: Maximum square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: move_in_date
+      label: Desired move-in date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: lease_term_preference
+      label: Preferred lease term length
+      hint: Months
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: furnished_preference
+      label: Furnished or unfurnished preference
+      hint: null
+      type: select_one
+      options:
+      - Furnished
+      - Semi-furnished
+      - Unfurnished
+      - No preference
+      required: true
+    - id: 18
+      name: pet_requirements
+      label: Pet requirements
+      hint: null
+      type: select_one
+      options:
+      - No pets
+      - Cats only
+      - Dogs only
+      - Any pets allowed
+      - No pets allowed
+      required: true
+    - id: 19
+      name: parking_requirement
+      label: Parking requirement
+      hint: null
+      type: select_one
+      options:
+      - Must have parking
+      - Prefer parking
+      - Not necessary
+      required: true
+    - id: 20
+      name: utilities_preference
+      label: Utilities preference
+      hint: null
+      type: select_one
+      options:
+      - Included in rent
+      - Separate payment
+      - No preference
+      required: true
+    - id: 21
+      name: amenities_required
+      label: Required amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Gym or fitness center
+      - Pool
+      - Laundry facilities
+      - Elevator
+      - Parking
+      - Security system
+      - Air conditioning
+      - Heating
+      - None required
+      required: false
+    - id: 22
+      name: neighborhood_priorities
+      label: Neighborhood priorities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Quiet area
+      - Safe neighborhood
+      - Close to work
+      - Shopping nearby
+      - Good schools
+      - Public transportation
+      - Restaurants and entertainment
+      - Parks and recreation
+      required: false
+    - id: 23
+      name: must_haves
+      label: Must-have features
+      hint: Non-negotiable requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_preferences
+      label: Additional preferences or notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: communication_preference
+      label: Preferred communication method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - In-person
+      - No preference
+      required: true
+    - id: 26
+      name: followup_frequency
+      label: Desired follow-up frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily updates
+      - Weekly updates
+      - As new listings match criteria
+      - Once a week check-in
+      - Upon request only
+      required: true

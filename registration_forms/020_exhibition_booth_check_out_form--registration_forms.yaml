@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibition Booth Check Out Form
+    pages:
+    - id: 1
+      name: exhibition_booth_check_out_form
+      label: Exhibition Booth Check Out Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: exhibition_booth_number
+      label: Exhibition Booth Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: booth_identifier
+      label: Booth Identifier
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: false
+    - id: 7
+      name: electricity
+      label: Electricity
+      hint: Wattage 120v
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Off'', ''value'': ''0''}'
+      - '{''id'': 2, ''label'': ''120v'', ''value'': ''120''}'
+      - '{''id'': 3, ''label'': ''200w'', ''value'': ''200''}'
+      required: false
+    - id: 8
+      name: water
+      label: Water
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: internet
+      label: Internet
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''On'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Off'', ''value'': ''0''}'
+      required: false
+    - id: 10
+      name: audio_visual
+      label: Audio-Visual
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''On'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Off'', ''value'': ''0''}'
+      required: false
+    - id: 11
+      name: heating_ventilation_air_conditioning
+      label: Heating/Ventilation/Air Conditioning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: audio_visual_tech
+      label: Audio-Visual
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''On'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Off'', ''value'': ''0''}'
+      required: false
+    - id: 13
+      name: event_manager_email
+      label: Event Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: exhibition_contact
+      label: Exhibition Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exhibition_manager
+      label: Exhibition Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      required: false
+    - id: 16
+      name: exhibition_booth_representative
+      label: Exhibition Booth Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_requirements
+      label: Service Requirements
+      hint: Select one or more options
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      required: false
+    - id: 18
+      name: services_require
+      label: Services Require
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''0''}'
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: exhibition_booth_check_out_form
+      label: Exhibition Booth Check Out Form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      required: false
+    - id: 21
+      name: exhibition_booth_check_out_form_checked
+      label: Exhibition Booth Check Out Form Checked
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      required: false
+    - id: 22
+      name: exhibition_booth_confirmation
+      label: Exhibition Booth Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      required: false
+    - id: 23
+      name: exhibition_booth_check_out_form_submitted
+      label: Exhibition Booth Check Out Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      required: false
+    - id: 24
+      name: exhibition_booth_check_out_form_checked_by_exhibition_manager
+      label: Exhibition Booth Check Out Form Checked by Exhibition Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      required: false
+    - id: 25
+      name: exhibition_booth_check_out_form_checked_by_technical_teams
+      label: Exhibition Booth Check Out Form Checked by Technical Teams
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': ''2''}'
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufactured Home Appraisal Form
+    pages:
+    - id: 1
+      name: manufactured_home_address
+      label: Manufactured Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manufactured_home_type
+      label: manufactured_home_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: manufactured_home_serial_number
+      label: Manufactured Home Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appraised_value
+      label: Appraised Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false

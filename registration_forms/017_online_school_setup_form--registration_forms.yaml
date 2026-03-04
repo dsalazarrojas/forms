@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online School Setup Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - '{''America/New_York'': ''EST''}'
+      - '{''America/Los_Angeles'': ''PST''}'
+      - '{''America/Chicago'': ''CST''}'
+      required: false
+    - id: 3
+      name: school_location
+      label: School Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''America/New_York'': ''EST''}'
+      - '{''America/Los_Angeles'': ''PST''}'
+      - '{''America/Chicago'': ''CST''}'
+      required: false
+    - id: 7
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: launch_time
+      label: Launch Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''EST'': ''Eastern Standard Time''}'
+      - '{''CST'': ''Central Standard Time''}'
+      - '{''PST'': ''Pacific Standard Time''}'
+      required: false
+    - id: 10
+      name: timezone_note
+      label: Timezone Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: school_admin_email
+      label: School Admin Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: school_admin_name
+      label: School Admin Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: school_admin_title
+      label: School Admin Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: school_director_name
+      label: School Director Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: school_director_title
+      label: School Director Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: school_director_email
+      label: School Director Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: school_director_phone
+      label: School Director Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_director_location
+      label: School Director Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: school_director_timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''America/New_York'': ''EST''}'
+      - '{''America/Los_Angeles'': ''PST''}'
+      - '{''America/Chicago'': ''CST''}'
+      required: false
+    - id: 21
+      name: school_director_launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: school_director_launch_time
+      label: Launch Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: school_director_timezone_note
+      label: Timezone
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: school_director_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: school_director_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

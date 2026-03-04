@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Racism Employee Training Registration
+    pages:
+    - id: 1
+      name: section_training_info
+      label: -- Training Registration --
+      hint: Register staff for anti racism training sessions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee full name
+      hint: As listed in HR records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Employee email
+      hint: Used for session confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or team name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_date_preference
+      label: Preferred session date
+      hint: Choose preferred training date if multiple offered
+      type: select_one
+      options:
+        - Session A morning
+        - Session B afternoon
+        - Session C evening
+      required: true
+    - id: 6
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Let us know if adjustments are required
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_approval
+      label: Manager approval status
+      hint: Confirm manager approval if required
+      type: select_one
+      options:
+        - Approved
+        - Pending
+        - Not required
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Any special instructions for training coordinator
+      type: text
+      options: []
+      required: false

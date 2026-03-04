@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Settlement Claim Form
+    pages:
+    - id: 1
+      name: page_1
+      label: page-1-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_settlement_claim
+      label: real-estate-settlement-claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: supporting-documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: brokerages
+      label: brokerages
+      hint: null
+      type: select_one
+      options:
+      - Broker A
+      - Broker B
+      - Broker C
+      required: false
+    - id: 6
+      name: settlement_companies
+      label: settlement-companies
+      hint: null
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Company C
+      required: false
+    - id: 7
+      name: property_teams
+      label: property-teams
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 8
+      name: supporting_documents_upload
+      label: supporting-documents-upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_documents_link
+      label: supporting-documents-link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: additional-info
+      hint: null
+      type: text
+      options: []
+      required: false

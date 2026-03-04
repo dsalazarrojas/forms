@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Audience Interview Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: participant_date_of_signature
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: producer_name
+      label: Producer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_details
+      label: Production Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_or_employer
+      label: School or Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: producer_email
+      label: Producer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: recording_consent
+      label: Recording Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''I consent to be recorded on camera.''}'
+      - '{''option2'': ''I do not consent to be recorded on camera.''}'
+      required: true
+    - id: 12
+      name: participant_agreement
+      label: I have agreed to be recorded and understand that I may be seen by the
+        public.
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      - '{''option3'': ''I do not understand the terms.''}'
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: participant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_agreement_date
+      label: Date of Understanding
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: participant_agreement_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: participant_agreement_note
+      label: Any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: producer_agreement_note
+      label: Producer Comments
+      hint: null
+      type: note
+      options: []
+      required: false

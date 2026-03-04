@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: get_an_estimate_for_some_service_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 5
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_request
+      label: Customer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: estimated_time
+      label: Estimated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: business_relationships
+      label: Business Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: customer_relationships
+      label: Customer Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Weak
+      - None
+      required: false
+    - id: 13
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_comments
+      label: Business Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: customer_next_actions
+      label: Next Actions
+      hint: null
+      type: select_one
+      options:
+      - Send Follow-up Email
+      - Send Follow-up Call
+      - No Follow-up Needed
+      required: false

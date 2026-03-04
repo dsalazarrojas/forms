@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Design Validation Program Registration
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_header_professional
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_industry
+      label: Company Industry
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Automotive
+      - Electronics
+      - Pharmaceuticals
+      - Food and Beverage
+      - Aerospace
+      - Robotics
+      - Software
+      - Other
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Experience in Field
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: specialization
+      label: Area of Specialization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_program
+      label: -- Program Track Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: program_track
+      label: Preferred Program Track
+      hint: null
+      type: select_one
+      options:
+      - Beginner Level
+      - Intermediate Level
+      - Advanced Level
+      - Expert Level
+      required: true
+    - id: 14
+      name: automation_focus
+      label: Automation Focus Area
+      hint: null
+      type: select_multiple
+      options:
+      - Process Automation
+      - Robotic Automation
+      - Software Testing
+      - System Integration
+      - Quality Assurance
+      - Other
+      required: true
+    - id: 15
+      name: section_header_project
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_description
+      label: Project Description
+      hint: Brief overview of what you are working on
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: select_one
+      options:
+      - Conception Phase
+      - Design Phase
+      - Development Phase
+      - Testing Phase
+      - Deployment Phase
+      - Post-Implementation
+      required: true
+    - id: 19
+      name: automation_goals
+      label: Key Automation Goals
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_header_experience
+      label: -- Experience and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: programming_languages
+      label: Programming Languages Known
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Python
+      - Java
+      - C++
+      - JavaScript
+      - C#
+      - SQL
+      - Other
+      required: false
+    - id: 22
+      name: automation_tools
+      label: Automation Tools Experience
+      hint: Which tools have you used?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_learning
+      label: -- Learning Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: learning_expectations
+      label: What Do You Hope to Learn
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

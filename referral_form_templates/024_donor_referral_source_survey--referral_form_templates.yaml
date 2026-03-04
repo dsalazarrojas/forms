@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Referral Source Survey
+    pages:
+    - id: 1
+      name: donor_referral_source_survey_page_1
+      label: what_doors_did_you_hear_about_us_from
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: donor_referral_source_other_page
+      label: other_referral_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_referral_source_survey_page_3
+      label: how_many_doors_have_you_reflected_donations_to_us
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residence Verification Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_moved_in
+      label: Date Moved In
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Moved Out
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: landlord_company
+      label: Landlord Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_size
+      label: Property Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rent_start_date
+      label: Rent Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 21
+      name: move_out_reason
+      label: Move Out Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false

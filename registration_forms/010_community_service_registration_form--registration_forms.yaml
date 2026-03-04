@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Registration Form
+    pages:
+    - id: 1
+      name: section_registration
+      label: -- Personal Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: To confirm age requirements.
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_location
+      label: -- Location and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: city_of_residence
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: availability_times
+      label: When are you available?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      required: true
+    - id: 10
+      name: section_profile
+      label: -- Volunteer Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_type
+      label: Volunteer Type
+      hint: Select the category.
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Corporate Team
+      - School Group
+      required: true
+    - id: 12
+      name: skills_interests
+      label: Interests
+      hint: What kind of work do you enjoy?
+      type: select_multiple
+      options:
+      - Food Preparation
+      - Gardening
+      - Data Entry
+      - Mentoring
+      - Event Setup
+      - Cleanup
+      - Photography
+      required: true
+    - id: 13
+      name: background_check_willingness
+      label: Willing to undergo a background check?
+      hint: Required for certain positions.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: section_additional
+      label: -- Additional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medical_notes
+      label: Medical conditions or allergies
+      hint: Anything we should know for your safety.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_info
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: agreement_to_terms
+      label: I agree to the volunteer terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

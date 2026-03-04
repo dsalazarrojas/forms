@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting System User Registration Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: username_requested
+      label: Username Requested
+      hint: subject to availability and company policy
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: corporate_email
+      label: Corporate Email
+      hint: must be an official company email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: Role-based permissions
+      type: select_one
+      options:
+      - Read-Only
+      - Data Entry
+      - Managerial
+      - Administrator
+      required: true
+    - id: 5
+      name: department_code
+      label: Department Code
+      hint: e.g., FIN-202
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assigned_entities
+      label: Assigned Entities
+      hint: Which business units will this user access?
+      type: select_multiple
+      options:
+      - HQ
+      - North Branch
+      - South Branch
+      - International
+      required: true
+    - id: 7
+      name: office_extension
+      label: Office Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: security_header
+      label: -- Security Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: mfa_setup_complete
+      label: Multi-Factor Authentication (MFA) Setup Complete?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: security_policy_acknowledgment
+      label: I agree to follow the company data security and password policies
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 11
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: supervisor_approval_name
+      label: Supervisor Approval Name
+      hint: Required for final activation
+      type: text
+      options: []
+      required: true

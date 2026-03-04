@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Release Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenants Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_contact
+      label: Tenant Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: key
+      label: Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

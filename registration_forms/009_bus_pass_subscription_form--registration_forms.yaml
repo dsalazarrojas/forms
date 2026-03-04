@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Pass Subscription Form
+    pages:
+    - id: 1
+      name: section_subscriber_details
+      label: -- Subscriber Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subscriber_name
+      label: Full Name
+      hint: As it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subscriber_email
+      label: Email Address
+      hint: For digital pass delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_contact
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_subscription_selection
+      label: -- Subscription Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bus_pass_type
+      label: Pass Type
+      hint: Choose the category that applies to you
+      type: select_one
+      options:
+      - Adult Standard
+      - Student (ID Required)
+      - Senior (65+)
+      - Veteran
+      - Corporate/Employee
+      required: true
+    - id: 7
+      name: pass_duration
+      label: Subscription Duration
+      hint: Select how long you want your pass to be active
+      type: select_one
+      options:
+      - Monthly Pass
+      - Quarterly Pass
+      - Annual Pass (Best Value)
+      - 10-Ride Flex Pass
+      required: true
+    - id: 8
+      name: primary_commute_route
+      label: Primary Route of Use
+      hint: Helps us with capacity planning
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: subscription_start_date
+      label: Preferred Start Date
+      hint: When should the pass become active
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_verification
+      label: -- Identification and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: id_verification_number
+      label: Government ID or Student ID Number
+      hint: For verification upon inspection
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: digital_photo_consent
+      label: I consent to having my photo taken for the pass
+      hint: Only required for Annual or Student passes
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 13
+      name: payment_method_choice
+      label: Payment Method
+      hint: Secure online payment will be initiated
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - Apple Pay / Google Pay
+      - Direct Debit
+      - Employer Payroll Deduction
+      required: true
+    - id: 14
+      name: terms_agreement
+      label: I agree to the Transit Authority Terms of Service
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cone Volume Math Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class
+      label: Class or course
+      hint: e g Geometry 101
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: problem_one_radius
+      label: Problem one radius cm
+      hint: Enter radius value in centimeters
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: problem_one_height
+      label: Problem one height cm
+      hint: Enter height value in centimeters
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: problem_one_answer
+      label: Problem one calculated volume cm3
+      hint: Use pi as 3.1416
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: problem_two_radius
+      label: Problem two radius cm
+      hint: Enter radius for second problem
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: problem_two_height
+      label: Problem two height cm
+      hint: Enter height for second problem
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: problem_two_answer
+      label: Problem two calculated volume cm3
+      hint: Show calculation steps in notes
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: method_notes
+      label: Method notes
+      hint: Describe steps used for calculations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_comments
+      label: Instructor comments
+      hint: For grading feedback
+      type: text
+      options: []
+      required: false

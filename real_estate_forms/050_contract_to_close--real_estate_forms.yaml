@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract To Close
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Buyer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Buyer Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: seller_name
+      label: Seller Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: seller_email
+      label: Seller Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: seller_phone
+      label: Seller Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Single family home
+      - Condominium
+      - Townhouse
+      - Multi-family
+      - Commercial
+      - Land
+      - Other
+      required: true
+    - id: 9
+      name: purchase_price
+      label: Purchase Price
+      hint: Sale amount
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: earnest_money
+      label: Earnest Money
+      hint: Deposit amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: closing_date
+      label: Closing Date
+      hint: When to close?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: closing_location
+      label: Closing Location
+      hint: Where to close?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: financing_type
+      label: Financing Type
+      hint: How is buyer paying?
+      type: select_one
+      options:
+      - Conventional loan
+      - FHA loan
+      - VA loan
+      - USDA loan
+      - Cash
+      - Seller financing
+      - Other
+      required: true
+    - id: 14
+      name: loan_amount
+      label: Loan Amount
+      hint: Mortgage amount
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: lender_name
+      label: Lender Name
+      hint: Mortgage company
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: loan_officer
+      label: Loan Officer
+      hint: Contact person
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: loan_officer_phone
+      label: Loan Officer Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: appraisal_contingency
+      label: Appraisal Contingency
+      hint: Is appraisal required?
+      type: select_one
+      options:
+      - true
+      - false
+      - Waived
+      required: true
+    - id: 19
+      name: inspection_contingency
+      label: Inspection Contingency
+      hint: Is inspection required?
+      type: select_one
+      options:
+      - Yes, general
+      - Yes, general and specialized
+      - false
+      - Waived
+      required: true
+    - id: 20
+      name: inspection_date
+      label: Inspection Date
+      hint: When scheduled?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: title_company
+      label: Title Company
+      hint: Title provider
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: title_agent
+      label: Title Agent
+      hint: Agent name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: homeowners_insurance
+      label: Homeowners Insurance
+      hint: Insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_agent
+      label: Insurance Agent
+      hint: Agent name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: proration_date
+      label: Proration Date
+      hint: For taxes and fees
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: personal_property_included
+      label: Personal Property Included
+      hint: What stays with property?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: repairs_required
+      label: Repairs Required
+      hint: Any repairs needed?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: repair_credit
+      label: Repair Credit
+      hint: Credit amount if any
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: closing_costs_buyer
+      label: Closing Costs Buyer
+      hint: Buyer's costs
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: closing_costs_seller
+      label: Closing Costs Seller
+      hint: Seller's costs
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: special_assessments
+      label: Special Assessments
+      hint: Any HOA or other fees?
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: occupancy_date
+      label: Occupancy Date
+      hint: When can buyer move in?
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: possession_terms
+      label: Possession Terms
+      hint: Any special arrangements?
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: buyer_agent_name
+      label: Buyer Agent Name
+      hint: Real estate agent
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: buyer_agent_phone
+      label: Buyer Agent Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: seller_agent_name
+      label: Seller Agent Name
+      hint: Real estate agent
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: seller_agent_phone
+      label: Seller Agent Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: attorney_name
+      label: Attorney Name
+      hint: Closing attorney
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: additional_terms
+      label: Additional Terms
+      hint: Any special conditions?
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: contingencies_list
+      label: Contingencies List
+      hint: All contingencies
+      type: text
+      options: []
+      required: false

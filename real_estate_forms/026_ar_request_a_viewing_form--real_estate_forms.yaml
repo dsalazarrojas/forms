@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: AR Request A Viewing Form
+    pages:
+    - id: 1
+      name: viewer_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: viewer_email
+      label: Email Address
+      hint: Valid email for viewing arrangements
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: viewer_phone
+      label: Phone Number
+      hint: Contact number for viewing coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Address of the property you wish to view
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_id
+      label: Property ID
+      hint: Reference number or ID of the property
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: viewing_date_preference
+      label: Preferred Viewing Date
+      hint: What date would you prefer for the viewing?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: viewing_time_preference
+      label: Preferred Viewing Time
+      hint: What time would you prefer for the viewing?
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: alternative_dates
+      label: Alternative Dates
+      hint: Other dates that would work for you
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: number_of_viewers
+      label: Number of People Viewing
+      hint: How many people will attend the viewing?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: viewer_relationship_status
+      label: Relationship Status
+      hint: What is your relationship status?
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Partnered
+      - Other
+      required: false
+    - id: 11
+      name: financing_status
+      label: Financing Status
+      hint: Are you pre-approved for financing?
+      type: select_one
+      options:
+      - Pre-approved
+      - Applying Soon
+      - Cash Purchase
+      - Not Sure
+      - Other
+      required: true
+    - id: 12
+      name: viewing_reason
+      label: Reason for Viewing
+      hint: Why are you interested in this property?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements for the viewing?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agent_preference
+      label: Agent Preference
+      hint: Do you have a preference for who shows you the property?
+      type: select_one
+      options:
+      - Any Available Agent
+      - Specific Agent
+      - No Preference
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your viewing request
+      type: text
+      options: []
+      required: false

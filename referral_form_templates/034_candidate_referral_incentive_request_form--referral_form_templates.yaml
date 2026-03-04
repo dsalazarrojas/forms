@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Referral Incentive Request Form
+    pages:
+    - id: 1
+      name: referring_employee_section
+      label: -- Referring Employee --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referring_full_name
+      label: Employee Full Name
+      hint: Your name as registered in HR
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referring_employee_id
+      label: Employee ID
+      hint: Your official company ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referring_dept
+      label: Department
+      hint: Which department do you work in
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referring_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: referring_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referred_candidate_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: referred_candidate_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referred_position_title
+      label: Position Referred For
+      hint: Which role are they applying for
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: referral_date_made
+      label: Date of Referral
+      hint: When did you first recommend this candidate
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: candidate_email_contact
+      label: Candidate Email Address
+      hint: Required for application linking
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: relationship_assessment_section
+      label: -- Relationship and Assessment --
+      hint: help us understand the connection
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: relationship_to_candidate
+      label: Relationship to Candidate
+      hint: How do you know the person
+      type: select_one
+      options:
+      - Former Colleague
+      - Friend
+      - Family Member
+      - Professional Network
+      - Other
+      required: true
+    - id: 14
+      name: length_of_acquaintance
+      label: How long have you known the candidate
+      hint: e.g. 5 years, Worked together in 2020
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: candidate_fit_reason
+      label: Why is this candidate a good fit
+      hint: Briefly describe their strengths
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incentive_policy_section
+      label: -- Incentive and Policy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: expected_incentive_val
+      label: Expected Incentive Amount
+      hint: Refer to the company handbook for current rates
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: referral_policy_agreement
+      label: I have read the employee referral policy
+      hint: Ensure you meet all eligibility requirements
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I have questions
+      required: true
+    - id: 19
+      name: probation_payout_ack
+      label: I understand incentives are paid only after successful hire and probation
+      hint: Payout typically occurs after 90 days of the candidate's employment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: internal_hr_notes_field
+      label: Internal HR Notes
+      hint: For HR use only
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_date_request
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

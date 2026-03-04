@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Proposal Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pricing_summary
+      label: Pricing Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposal_validity_date
+      label: Proposal Validity Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_amount_due
+      label: Total Amount Due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - One-time Payment
+      - Installment Payment
+      - Lump Sum Payment
+      required: true
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every Month
+      - Every Week
+      - Every Two Weeks
+      required: true
+    - id: 12
+      name: proposal_accepted
+      label: Proposal Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

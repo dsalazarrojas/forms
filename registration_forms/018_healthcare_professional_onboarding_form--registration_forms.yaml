@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Professional Onboarding Form
+    pages:
+    - id: 1
+      name: new_hire_info
+      label: New Hire Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_details
+      label: job_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_board_cert
+      label: Medical Board Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_board_cert
+      label: Medical Board Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_cert
+      label: Medical Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: onboarding_status
+      label: onboarding_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: medical_cert_date
+      label: Medical Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medical_license_date
+      label: Medical License Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: medical_certification_date
+      label: Medical Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Payment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Rental Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: renter_details
+      label: Renter Details
+      hint: Please provide your details
+      type: select_multiple
+      options:
+      - Renters Name
+      - Renters Address
+      - Renters Phone
+      required: false
+    - id: 3
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - Credit Card
+      - EFT
+      - Check
+      - Bank Transfer
+      required: false
+    - id: 5
+      name: payment_processor
+      label: Payment Processor
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_time
+      label: Payment Time
+      hint: Time of payment
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Any comments about this payment
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Landlord
+      - Property Manager
+      - Admin
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: Date submitted
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_time
+      label: Submit Time
+      hint: Time of submission
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: Form ID 86344
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

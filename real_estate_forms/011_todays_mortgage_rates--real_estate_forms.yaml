@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Todays Mortgage Rates
+    pages:
+    - id: 1
+      name: refinance_property
+      label: Refinance Property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_type
+      label: What type of loan
+      hint: null
+      type: select_one
+      options:
+      - 2-3% ARM
+      - 5/1 ARM
+      - 5/1 ARM
+      - 7/1 ARM
+      required: false
+    - id: 3
+      name: income_type
+      label: What is your income type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Separated
+      - Divorced
+      required: false
+    - id: 4
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term_years
+      label: Loan Term (years)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: home_price
+      label: Home Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mortgage_rate_type
+      label: What type of mortgage rate
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Adjustable
+      required: false
+    - id: 10
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_type
+      label: What type of property
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Investment
+      - Vacation Home
+      - Second Home
+      required: false
+    - id: 12
+      name: employment_status
+      label: What is your employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      - Disabled
+      - Unemployed
+      required: false
+    - id: 13
+      name: income_frequency
+      label: How often is your income paid
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 14
+      name: annual_income_frequency
+      label: How often do you pay your income
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 15
+      name: income_source
+      label: What is your income source
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Salary
+      - Investment
+      - Self-Employed
+      - Other
+      required: false
+    - id: 16
+      name: annual_income_frequency_2
+      label: annual_income_frequency_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: loan_purpose
+      label: What is the purpose of the loan
+      hint: null
+      type: select_one
+      options:
+      - Purchase
+      - Refinance
+      - Construction
+      required: false
+    - id: 18
+      name: property_type_2
+      label: property_type_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: credit_history
+      label: What is your credit history
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 20
+      name: property_type_3
+      label: property_type_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employment_duration
+      label: employment_duration
+      hint: null
+      type: select_multiple
+      options:
+      - Less Than 2 Years
+      - 2-5 Years
+      - 5-10 Years
+      - More Than 10 Years
+      required: false
+    - id: 22
+      name: employment_history
+      label: employment_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employment_history_2
+      label: employment_history_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employment_history_3
+      label: employment_history_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted
+      label: submitted
+      hint: null
+      type: text
+      options: []
+      required: false

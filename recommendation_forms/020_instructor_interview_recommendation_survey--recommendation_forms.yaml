@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instructor Interview & Recommendation Survey
+    pages:
+    - id: 1
+      name: instructor_interview_survey
+      label: Instructor Interview Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interview_date
+      label: interview_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: name_2
+      label: name_2
+      hint: null
+      type: text
+      options: []
+      required: false

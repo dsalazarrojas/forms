@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raw Material Sourcing Quote Request Form
+    pages:
+    - id: 1
+      name: raw_material_sourcing_quote_request_form
+      label: Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quote_request_details
+      label: Quote Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: Please enter your contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supplier_selection
+      label: Suppliers
+      hint: null
+      type: select_multiple
+      options:
+      - Supplier 1
+      - Supplier 2
+      - Supplier 3
+      required: false
+    - id: 5
+      name: raw_material_description
+      label: Raw Material Description
+      hint: Please enter a detailed description of the raw material
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity_needed
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: unit_price
+      label: Unit Price
+      hint: Please enter the unit price
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supplier_notes
+      label: Supplier Notes
+      hint: Please enter any additional notes for the supplier
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_quote
+      label: Submit Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supplier_quote
+      label: Supplier Quote
+      hint: null
+      type: select_one
+      options:
+      - Supplier 1
+      - Supplier 2
+      - Supplier 3
+      required: false
+    - id: 11
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quote_status
+      label: Quote Status
+      hint: Please select the status of the quote
+      type: select_one
+      options:
+      - Open
+      - Accepted
+      - Rejected
+      - Waiting
+      required: false

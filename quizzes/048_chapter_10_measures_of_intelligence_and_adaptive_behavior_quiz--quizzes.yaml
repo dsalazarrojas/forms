@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter 10 Measures Of Intelligence And Adaptive Behavior Quiz
+    pages:
+    - id: 1
+      name: quiz_date
+      label: Quiz Date
+      hint: Date taking quiz
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Your ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: Which course is this for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Professor or instructor
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_1
+      label: Question 1 - Intelligence Definition
+      hint: What is intelligence in this context
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 7
+      name: question_2
+      label: Question 2 - Adaptive Behavior
+      hint: What is adaptive behavior
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 8
+      name: question_3
+      label: Question 3 - Standardized Testing
+      hint: Purpose of standardized IQ tests
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 9
+      name: question_4
+      label: Question 4 - WAIS Assessment
+      hint: What does WAIS stand for
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 10
+      name: question_5
+      label: Question 5 - Adaptive Living Skills
+      hint: Examples of adaptive living skills
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 11
+      name: question_6
+      label: Question 6 - Intellectual Disability
+      hint: Definition of intellectual disability
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 12
+      name: question_7
+      label: Question 7 - Flynn Effect
+      hint: What is the Flynn Effect
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 13
+      name: question_8
+      label: Question 8 - Assessment Tools
+      hint: Common intelligence assessment tools
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 14
+      name: question_9
+      label: Question 9 - Developmental Delays
+      hint: When are delays typically identified
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 15
+      name: question_10
+      label: Question 10 - Support Services
+      hint: Services for individuals with ID
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 16
+      name: question_11
+      label: Question 11 - Cultural Bias
+      hint: Addressing cultural bias in testing
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 17
+      name: question_12
+      label: Question 12 - Functional Limitations
+      hint: Impact of functional limitations
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 18
+      name: completion_time
+      label: Time to Complete Quiz
+      hint: How long did it take (minutes)
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: quiz_difficulty
+      label: Perceived Quiz Difficulty
+      hint: How difficult was this quiz
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 20
+      name: student_acknowledgment
+      label: I Completed This Quiz Independently
+      hint: Honor code confirmation
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - 'No'
+      required: true

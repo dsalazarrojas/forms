@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Committee Registration
+    pages:
+    - id: 1
+      name: section_applicant_details
+      label: -- Applicant Details --
+      hint: Please fill out your contact information and details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_id_member
+      label: Member ID (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_committee_interest
+      label: -- Committee Interest and Selection --
+      hint: Select the committees and roles you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_committee_choice
+      label: What is your primary committee choice
+      hint: null
+      type: select_one
+      options:
+      - Events and Planning
+      - Finance and Audit
+      - Marketing and Social Media
+      - Membership Outreach
+      - Public Relations
+      - Academic Affairs
+      - Student Welfare
+      - Diversity and Inclusion
+      - Technology and Innovation
+      required: true
+    - id: 8
+      name: secondary_committee_choice
+      label: What is your secondary committee choice
+      hint: null
+      type: select_one
+      options:
+      - Events and Planning
+      - Finance and Audit
+      - Marketing and Social Media
+      - Membership Outreach
+      - Public Relations
+      - Academic Affairs
+      - Student Welfare
+      - Diversity and Inclusion
+      - Technology and Innovation
+      required: false
+    - id: 9
+      name: interested_roles
+      label: Which roles are you interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Committee Chair
+      - Vice-Chair
+      - Secretary
+      - General Member
+      - Student Representative
+      required: true
+    - id: 10
+      name: section_qualifications_exp
+      label: -- Qualifications and Experience --
+      hint: Tell us about your background and why you're a good fit.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: previous_exp_relevant
+      label: Describe any previous experience relevant to these committees
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: key_skills_brought
+      label: What key skills or expertise would you bring to the committee
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reason_for_joining
+      label: Why are you interested in joining these committees
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_availability_logistics
+      label: -- Availability and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: available_for_meetings
+      label: Can you commit to attending regular committee meetings
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - It depends on the schedule
+      required: true
+    - id: 16
+      name: preferred_meeting_times
+      label: What are your preferred meeting times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      required: true
+    - id: 17
+      name: section_acknowledgment
+      label: -- Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: applicant_signature_check
+      label: I confirm that I am interested in serving on the committee and will fulfill
+        my duties
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: application_date_reg
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: reference_source
+      label: How did you hear about this committee registration
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false

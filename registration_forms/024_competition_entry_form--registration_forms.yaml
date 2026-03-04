@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competition Entry Form
+    pages:
+    - id: 1
+      name: competition_name
+      label: Competition Name
+      hint: Name of competition you are entering
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: competition_date
+      label: Competition Date
+      hint: When the competition takes place
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: competition_location
+      label: Competition Location
+      hint: Venue or location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: entrant_type
+      label: Entry Type
+      hint: Individual or team entry
+      type: select_one
+      options:
+      - Individual
+      - Team
+      - Duo or Pair
+      - Organization
+      required: true
+    - id: 5
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name of main contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date of primary entrant
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: age_division
+      label: Age Division
+      hint: Competition age category
+      type: select_one
+      options:
+      - Under 12
+      - 13 to 15
+      - 16 to 18
+      - 19 to 25
+      - 26 to 35
+      - 36 to 50
+      - Over 50
+      - Open - all ages
+      required: true
+    - id: 11
+      name: skill_level
+      label: Skill Level
+      hint: Your competition level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Open
+      required: true
+    - id: 12
+      name: category_entering
+      label: Category Entering
+      hint: Competition category
+      type: select_one
+      options:
+      - Category A - Novice
+      - Category B - Intermediate
+      - Category C - Advanced
+      - Category D - Professional
+      - Open Category
+      - Exhibition
+      required: true
+    - id: 13
+      name: entry_title
+      label: Entry Title or Name
+      hint: Name of your entry
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: entry_description
+      label: Entry Description
+      hint: Brief description of your entry
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: previous_competitions
+      label: Previous Competition Experience
+      hint: Have you competed before
+      type: select_one
+      options:
+      - First time competitor
+      - 1 to 3 competitions
+      - 4 to 10 competitions
+      - More than 10 competitions
+      - Professional competitor
+      required: true
+    - id: 16
+      name: qualifications
+      label: Qualifications or Achievements
+      hint: Relevant accomplishments
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_members
+      label: Team Members
+      hint: List all team members if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: coach_name
+      label: Coach or Instructor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_contact
+      label: Coach Contact
+      hint: Coach email or phone
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_needed
+      label: Equipment Requirements
+      hint: What equipment you will need
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: music_or_media
+      label: Music or Media Files
+      hint: Will you submit media files
+      type: select_one
+      options:
+      - Yes - will submit separately
+      - Yes - attached
+      - No - not required
+      - Not applicable
+      required: true
+    - id: 23
+      name: entry_fee_payment
+      label: Entry Fee Payment
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Check
+      - Waived or sponsored
+      required: true
+    - id: 24
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: Transaction ID or reference
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_agreement
+      label: I agree to terms and conditions
+      hint: Competition rules agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 26
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I waive liability claims
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 27
+      name: media_consent
+      label: Media Consent
+      hint: Consent for photos and videos
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 28
+      name: refund_policy_understanding
+      label: I understand the refund policy
+      hint: Cancellation and refund terms
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need clarification
+      required: true
+    - id: 29
+      name: entrant_signature
+      label: Entrant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

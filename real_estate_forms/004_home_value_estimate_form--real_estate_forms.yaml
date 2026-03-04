@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_value_estimate_form
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - commercial
+      - industrial
+      required: false
+    - id: 2
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sqft
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_estimated_sold
+      label: Date Sold
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: sold_price
+      label: Sold Price
+      hint: null
+      type: number
+      options: []
+      required: false

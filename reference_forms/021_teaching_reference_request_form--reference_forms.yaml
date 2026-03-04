@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Reference Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_email
+      label: teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: school_email
+      label: school email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: grade level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: subject_area
+      label: subject area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_grade
+      label: student grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reference_request_type
+      label: reference request type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 10
+      name: reference_request_reason
+      label: reference request reason
+      hint: null
+      type: text
+      options: []
+      required: false

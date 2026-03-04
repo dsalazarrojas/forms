@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music School Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_days
+      label: class_days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_frequency
+      label: class_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - biweekly
+      required: true
+    - id: 7
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: music_instrument
+      label: music_instrument
+      hint: null
+      type: select_one
+      options:
+      - piano
+      - guitar
+      - violin
+      - drums
+      required: true
+    - id: 9
+      name: music_experience
+      label: music_experience
+      hint: null
+      type: select_multiple
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relation
+      label: emergency_contact_relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Course Referral Form
+    pages:
+    - id: 1
+      name: referrer_information_section
+      label: -- Referrer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Referrer Name
+      hint: Full name of the person making the referral
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_position
+      label: Referrer Position
+      hint: Job title or role of the referrer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referrer_organization
+      label: Referrer Organization
+      hint: Institution or company where referrer works
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referrer_email
+      label: Referrer Email
+      hint: Email address for follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: candidate_information_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: candidate_full_name
+      label: Candidate Full Name
+      hint: Full name of the person being referred
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: candidate_email
+      label: Candidate Email
+      hint: Email address of the candidate
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: candidate_phone
+      label: Candidate Phone
+      hint: Phone number of the candidate
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: candidate_education_background
+      label: Candidate Education Background
+      hint: Educational qualifications of the candidate
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: course_information_section
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: course_name
+      label: Course Name
+      hint: Name of the advanced course for which the candidate is being referred
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: course_code
+      label: Course Code
+      hint: Official code or identifier for the course
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: referral_reasons_section
+      label: -- Referral Reasons --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: academic_performance_reason
+      label: Academic Performance Reason
+      hint: Why is the candidate recommended based on academic performance
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: professional_experience_reason
+      label: Professional Experience Reason
+      hint: How does the candidate's professional experience support this referral
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: specific_strengths
+      label: Specific Strengths
+      hint: What are the candidate's particular strengths relevant to this course
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: recommendation_rating
+      label: Recommendation Rating
+      hint: How strongly do you recommend this candidate for the course
+      type: select_one
+      options:
+      - Strongly recommend
+      - Recommend
+      - Conditionally recommend
+      - Do not recommend
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about the candidate or referral
+      type: text
+      options: []
+      required: false

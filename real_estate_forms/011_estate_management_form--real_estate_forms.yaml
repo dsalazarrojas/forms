@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: estate-management-form
+    pages:
+    - id: 1
+      name: property_address_1
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_owner_1
+      label: Property Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: property_type_1
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: property_status_1
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: request_description_1
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_category_1
+      label: Request Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: request_date_1
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: property_manager_1
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_number_1
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email_1
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: additional_information_1
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_images_1
+      label: Property Images
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_requests_1
+      label: Maintenance Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: maintenance_status_1
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: prophet_1
+      label: Prophet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

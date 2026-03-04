@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Development Roundtable Registration Form
+    pages:
+    - id: 1
+      name: registration_form_data
+      label: Registration Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registration_form_data_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: registration_form_data_aroundtable_details
+      label: Aroundtable Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: true
+    - id: 4
+      name: registration_form_data_special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_form_data_dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: registration_form_data_aroundtable_attendance
+      label: Aroundtable Attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: registration_form_data_aroundtable_starttime
+      label: Aroundtable Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: registration_form_data_aroundtable_endtime
+      label: Aroundtable End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: registration_form_data_aroundtable_location
+      label: Aroundtable Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_form_data_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cash'', ''value'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Credit'', ''value'': ''Credit''}'
+      - '{''id'': 3, ''name'': ''Cheque'', ''value'': ''Cheque''}'
+      - '{''id'': 4, ''name'': ''PayPal'', ''value'': ''PayPal''}'
+      - '{''id'': 5, ''name'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
+      required: true
+    - id: 11
+      name: registration_form_data_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: registration_form_data_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_form_data_is_attending
+      label: Is Attending
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: true
+    - id: 14
+      name: registration_form_data_is_speaker
+      label: Is Speaker
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: true
+    - id: 15
+      name: registration_form_data_speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: registration_form_data_speaker_email
+      label: Speaker Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: registration_form_data_speaker_title
+      label: Speaker Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: registration_form_data_speaker_abstract
+      label: Speaker Abstract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: registration_form_data_sponsor_request
+      label: Sponsor Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: registration_form_data_dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: registration_form_data_aroundtable_topic
+      label: Aroundtable Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: registration_form_data_aroundtable_description
+      label: Aroundtable Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: registration_form_data_aroundtable_tags
+      label: Aroundtable Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: registration_form_data_aroundtable_speaker
+      label: Aroundtable Speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_form_fields
+      label: Submission Form Fields
+      hint: null
+      type: note
+      options: []
+      required: false

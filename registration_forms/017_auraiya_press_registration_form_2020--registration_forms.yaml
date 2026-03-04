@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auraiya Press Registration Form 2020
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date you are registering
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Press Organization Name
+      hint: Name of your media organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: media_type
+      label: Type of Media Organization
+      hint: What type of media do you represent
+      type: select_one
+      options:
+      - Newspaper
+      - Magazine
+      - Online News
+      - Radio
+      - Television
+      - News Agency
+      - Blog/Website
+      - Other
+      required: true
+    - id: 6
+      name: organization_registration
+      label: Organization Registration Number
+      hint: Press credentials or registration number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position_title
+      label: Your Position
+      hint: Your role in the organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_journalism
+      label: Years in Journalism
+      hint: How long have you been in journalism
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: coverage_area
+      label: Coverage Area or Region
+      hint: Geographic area you cover
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: beat_focus
+      label: Beat or Focus Area
+      hint: What topics do you primarily cover
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: office_address
+      label: Office Address
+      hint: Your organization's address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: office_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: office_state
+      label: State or Region
+      hint: State or region
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: office_postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: press_card_number
+      label: Press Card Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accreditation_status
+      label: Accreditation Status
+      hint: Are you accredited
+      type: select_one
+      options:
+      - Accredited
+      - Pending Accreditation
+      - Provisional
+      - Non-Accredited
+      required: true
+    - id: 19
+      name: previous_events_attended
+      label: Have You Attended Previous Press Events
+      hint: Prior event attendance
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Occasionally
+      - No - First Time
+      required: true
+    - id: 20
+      name: interest_areas
+      label: Areas of Interest for Coverage
+      hint: Select topics of interest
+      type: select_multiple
+      options:
+      - Politics
+      - Business and Economics
+      - Community Development
+      - Culture and Arts
+      - Health and Science
+      - Education
+      - Environment
+      - Social Issues
+      required: true
+    - id: 21
+      name: photo_permission
+      label: Permission to Use Your Photo
+      hint: Can your photo be used in event materials
+      type: select_one
+      options:
+      - Yes - Permitted
+      - No - Not Permitted
+      required: true
+    - id: 22
+      name: social_media_handles
+      label: Social Media Handles
+      hint: Your professional social media accounts
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

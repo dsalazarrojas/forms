@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Application Form
+    pages:
+    - id: 1
+      name: application_id
+      label: Application ID
+      hint: Auto-generated
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: country_of_origin
+      label: Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: citizenship_status
+      label: Citizenship Status
+      hint: null
+      type: select_one
+      options:
+      - U.S. Citizen
+      - International Student
+      - Green Card Holder
+      - Other
+      required: true
+    - id: 9
+      name: permanent_address
+      label: Permanent Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: desired_degree
+      label: Desired Degree
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree
+      - Certificate
+      - Other
+      required: true
+    - id: 14
+      name: field_of_study
+      label: Proposed Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_institution
+      label: Current or Last Institution
+      hint: University or college name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cumulative_gpa
+      label: Cumulative GPA
+      hint: On 4.0 scale if available
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: standardized_test_submitted
+      label: Have you taken standardized tests (GRE, GMAT, etc.)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: test_scores
+      label: Test Scores
+      hint: List test name and score
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: work_experience
+      label: Years of Relevant Work Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: work_description
+      label: Describe Your Professional Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: statement_of_purpose
+      label: Statement of Purpose
+      hint: Why do you want to pursue this degree - max 500 words
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: references_submitted
+      label: Have you arranged for reference letters
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 23
+      name: financial_aid_needed
+      label: Do you require financial assistance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: english_proficiency
+      label: Native English Speaker
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: english_test_score
+      label: English Proficiency Test Score (TOEFL, IELTS, etc.)
+      hint: If applicable
+      type: text
+      options: []
+      required: false

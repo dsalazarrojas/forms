@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual MUN Registration Form
+    pages:
+    - id: 1
+      name: delegate_details
+      label: Delegate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_affiliations
+      label: School Affiliations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: committee_preferences
+      label: Committee Preferences
+      hint: Please choose the committees you are interested in.
+      type: select_multiple
+      options:
+      - e.g. International Security Council, General Assembly
+      - DISEC
+      - EcoSoc
+      - COSMIC
+      - UNICEF
+      required: false
+    - id: 4
+      name: delegate_name
+      label: Delegate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_country
+      label: School Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: position_title
+      label: Position Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: role
+      label: Role
+      hint: Please select your role.
+      type: select_one
+      options:
+      - Delegee
+      - Debater
+      - Head Delegacy
+      - Observer
+      required: false
+    - id: 12
+      name: committee_assignments
+      label: Committee Assignments
+      hint: We will assign you to a committee based on your preference and available
+        slots. Please be prepared for any assignment.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_info
+      label: Other Info
+      hint: Please enter any other information that we need to know.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: By submitting this form, you acknowledge that you have read and agree
+        to our terms and conditions.
+      type: note
+      options: []
+      required: false

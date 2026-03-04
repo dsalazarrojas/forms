@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Closing Statement Form
+    pages:
+    - id: 1
+      name: seller_name
+      label: seller_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: seller_address
+      label: seller_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seller_phone
+      label: seller_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: seller_email
+      label: seller_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Check''}'
+      - '{''id'': 2, ''label'': ''Cash''}'
+      - '{''id'': 3, ''label'': ''Wire Transfer''}'
+      required: true
+    - id: 7
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Paid''}'
+      - '{''id'': 2, ''label'': ''Unpaid''}'
+      required: true
+    - id: 9
+      name: buyer_name
+      label: buyer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: buyer_phone
+      label: buyer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: buyer_email
+      label: buyer_email
+      hint: null
+      type: email
+      options: []
+      required: false

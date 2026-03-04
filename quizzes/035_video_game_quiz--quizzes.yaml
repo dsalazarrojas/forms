@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Game Quiz
+    pages:
+    - id: 1
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_platform
+      label: Game Platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: game_genre
+      label: Game Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Adventure
+      - Action
+      - Sports
+      - Puzzle
+      - Role-Playing
+      required: false
+    - id: 4
+      name: game_release_date
+      label: Game Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: game_price
+      label: Game Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: player_gender
+      label: Player Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 7
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: player_interest
+      label: Player Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Music
+      - Technology
+      - Arts
+      - Hobbies
+      required: false
+    - id: 9
+      name: player_location
+      label: Player Location
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      required: false
+    - id: 10
+      name: player_favorite_game
+      label: Favorite Game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: player_favorite_console
+      label: Favorite Console
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: player_favorite_genre
+      label: Favorite Genre
+      hint: null
+      type: text
+      options: []
+      required: false

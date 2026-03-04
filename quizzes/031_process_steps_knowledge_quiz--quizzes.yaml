@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: process_steps_knowledge_quiz
+    pages:
+    - id: 1
+      name: process_steps_knowledge_quiz
+      label: what_is_your_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: role
+      label: process_step
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: process_steps
+      label: process_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: correct_answers
+      label: which_step_came_next
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: correct_answer_ids
+      label: correct_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incorrect_answers
+      label: which_step_came_previous
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

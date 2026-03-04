@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Referral Exchange Submission Form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_time
+      label: Follow-Up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_method
+      label: Follow-Up Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Survey
+    pages:
+    - id: 1
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Other
+      required: false
+    - id: 2
+      name: property_name
+      label: property_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rent_date
+      label: rent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Not Satisfied
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: rent_frequency
+      label: rent_frequency
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 12
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - Regularly
+      - Occasionally
+      - Never
+      required: false
+    - id: 13
+      name: repair_service
+      label: repair_service
+      hint: null
+      type: select_one
+      options:
+      - Regularly
+      - Occasionally
+      - Never
+      required: false
+    - id: 14
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: amenities
+      label: amenities
+      hint: null
+      type: select_multiple
+      options:
+      - Pool
+      - Gym
+      - Parking
+      - Other
+      required: false
+    - id: 16
+      name: safety
+      label: safety
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: neighborliness
+      label: neighborliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: maintenance
+      label: maintenance
+      hint: null
+      type: select_one
+      options:
+      - Regularly
+      - Occasionally
+      - Never
+      required: false
+    - id: 19
+      name: management
+      label: management
+      hint: null
+      type: select_one
+      options:
+      - Helpful
+      - Unhelpful
+      - Neutral
+      required: false
+    - id: 20
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Moderately Satisfied
+      - Not Satisfied
+      required: false
+    - id: 21
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: tenant_contact
+      label: tenant_contact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: landlord_contact
+      label: landlord_contact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: note
+      options: []
+      required: false

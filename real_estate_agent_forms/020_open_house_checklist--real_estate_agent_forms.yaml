@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Checklist
+    pages:
+    - id: 1
+      name: home_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lot_number
+      label: Lot Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Other
+      required: true
+    - id: 4
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: lot_sizelength
+      label: Lot Size/Land Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: lot_sizesquare
+      label: Lot Size/Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: year_renovated
+      label: Year Renovated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: last_price
+      label: Last Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: year_sold
+      label: Year Sold
+      hint: null
+      type: select_multiple
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      - '2023'
+      required: false
+    - id: 13
+      name: sold_price
+      label: Sold Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: year_rent
+      label: Year Rent
+      hint: null
+      type: select_multiple
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      - '2023'
+      required: false
+    - id: 15
+      name: rent_price
+      label: Rent Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 21
+      name: other_text
+      label: Other Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

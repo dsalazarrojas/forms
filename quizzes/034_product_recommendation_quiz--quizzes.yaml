@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_recommendation_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: interests
+      label: Interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: beauty_preferences
+      label: Favorite Beauty Products
+      hint: null
+      type: select_multiple
+      options:
+      - eyeshadow
+      - mascara
+      - foundation
+      - lip gloss
+      - serum
+      required: false
+    - id: 5
+      name: product_preferences
+      label: What Products Do You Like
+      hint: null
+      type: select_multiple
+      options:
+      - skincare
+      - haircare
+      - makeup
+      - fragrance
+      required: false
+    - id: 6
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - fair
+      - medium
+      - olive
+      - tanned
+      - very dark
+      - light
+      required: false
+    - id: 7
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - blonde
+      - brown
+      - black
+      - red
+      - red
+      - gray
+      required: false
+    - id: 8
+      name: quiz_preferences
+      label: Quiz Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: results
+      label: Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

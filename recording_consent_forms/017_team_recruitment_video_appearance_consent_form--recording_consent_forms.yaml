@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Recruitment Video Appearance Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Schools''}'
+      required: true
+    - id: 4
+      name: media_location
+      label: Media Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''In-person''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: school_contact
+      label: School Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: school_contact_phone
+      label: School Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: school_contact_email
+      label: School Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: school_name_2
+      label: School Name 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: role_2
+      label: Role 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Schools''}'
+      required: true
+    - id: 19
+      name: media_location_2
+      label: Media Location 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''In-person''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      required: true
+    - id: 20
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: participant_media_location
+      label: Participant Media Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''In-person''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      required: true
+    - id: 22
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 23
+      name: participant_school_name
+      label: Participant School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: participant_school_contact
+      label: Participant School Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: participant_school_address
+      label: Participant School Address
+      hint: null
+      type: text
+      options: []
+      required: true

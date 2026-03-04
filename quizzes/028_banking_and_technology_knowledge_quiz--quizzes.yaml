@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Banking And Technology Knowledge Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: participant_email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Company or institution
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: quiz_date
+        label: Quiz Date
+        hint: Date of quiz
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: question_1
+        label: Question 1 - What does API stand for in banking technology
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Automated Payment Interface
+          - Application Programming Interface
+          - Account Processing Integration
+          - Advanced Banking Platform
+        required: true
+      - id: 6
+        name: question_2
+        label: Question 2 - What is open banking
+        hint: Select the best answer
+        type: select_one
+        options:
+          - A bank with no doors
+          - Sharing financial data via APIs
+          - 24 hour banking
+          - Free banking services
+        required: true
+      - id: 7
+        name: question_3
+        label: Question 3 - Which technology is commonly used for secure online transactions
+        hint: Select the best answer
+        type: select_one
+        options:
+          - FTP
+          - SSL/TLS Encryption
+          - HTTP
+          - Telnet
+        required: true
+      - id: 8
+        name: question_4
+        label: Question 4 - What is two-factor authentication
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Two passwords
+          - Two security questions
+          - Password plus additional verification
+          - Two email addresses
+        required: true
+      - id: 9
+        name: question_5
+        label: Question 5 - What does ACH stand for
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Automated Clearing House
+          - Account Cash Handler
+          - Advanced Credit Hub
+          - Automated Check Processing
+        required: true
+      - id: 10
+        name: question_6
+        label: Question 6 - Which of these is a digital payment platform
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - PayPal
+          - Venmo
+          - Stripe
+          - All of the above
+        required: true
+      - id: 11
+        name: question_7
+        label: Question 7 - What is blockchain technology primarily used for in banking
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Social media
+          - Secure transaction recording
+          - Email encryption
+          - Video conferencing
+        required: true
+      - id: 12
+        name: question_8
+        label: Question 8 - What is a routing number
+        hint: Select the best answer
+        type: select_one
+        options:
+          - GPS coordinates
+          - Bank identification code
+          - Account password
+          - Credit score
+        required: true
+      - id: 13
+        name: question_9
+        label: Question 9 - What does KYC stand for in banking compliance
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Know Your Customer
+          - Keep Your Cash
+          - Key Your Code
+          - Know Your Credit
+        required: true
+      - id: 14
+        name: question_10
+        label: Question 10 - What is mobile banking
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Banking from a car
+          - Banking via smartphone or tablet
+          - Banking while traveling
+          - Temporary banking
+        required: true
+      - id: 15
+        name: question_11
+        label: Question 11 - What is the purpose of PCI DSS compliance
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Employee training
+          - Credit card data security
+          - Loan processing
+          - Marketing standards
+        required: true
+      - id: 16
+        name: question_12
+        label: Question 12 - What is a fintech company
+        hint: Select the best answer
+        type: select_one
+        options:
+          - A fitness technology firm
+          - A financial technology company
+          - A fine tech manufacturer
+          - A federal tech agency
+        required: true
+      - id: 17
+        name: question_13
+        label: Question 13 - What is biometric authentication
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Fingerprint scanning
+          - Facial recognition
+          - Voice recognition
+          - Password entry
+        required: true
+      - id: 18
+        name: question_14
+        label: Question 14 - What is the primary benefit of cloud banking
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Physical storage
+          - Scalability and accessibility
+          - Slower processing
+          - Higher costs
+        required: true
+      - id: 19
+        name: question_15
+        label: Question 15 - What does real-time payment mean
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Payment within 24 hours
+          - Instant payment processing
+          - Payment during business hours
+          - Scheduled payment
+        required: true
+      - id: 20
+        name: score_expectation
+        label: Expected Score
+        hint: How well do you think you did
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+        required: false
+      - id: 21
+        name: feedback
+        label: Feedback
+        hint: Any comments about the quiz
+        type: text
+        options: []
+        required: false

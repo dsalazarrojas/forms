@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: yoga_studio_access_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Clients Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - annual
+      - trial
+      required: false
+    - id: 5
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - visa
+      - mastercard
+      - amex
+      required: false
+    - id: 8
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: exp_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false

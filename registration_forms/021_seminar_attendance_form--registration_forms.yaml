@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Attendance Form
+    pages:
+    - id: 1
+      name: seminar_attendance_form_input
+      label: Seminar Attendance Form Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_email
+      label: attendee email
+      hint: Enter attendee email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_phone
+      label: attendee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seminar_date
+      label: seminar date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: seminar_time
+      label: seminar time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: attendee_status
+      label: attendee status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Attending'', ''label'': ''Attending''}'
+      - '{''value'': ''Not Attending'', ''label'': ''Not Attending''}'
+      - '{''value'': ''Maybe'', ''label'': ''Maybe''}'
+      required: false
+    - id: 8
+      name: additional_info
+      label: additional info
+      hint: null
+      type: note
+      options: []
+      required: false

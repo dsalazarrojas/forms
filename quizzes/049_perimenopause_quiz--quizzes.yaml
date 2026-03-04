@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Perimenopause Quiz
+    pages:
+    - id: 1
+      name: perimenopause_quiz_form
+      label: Perimenopause Quiz Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: menopause_year
+      label: Menopause Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: perimenopause_stage
+      label: Perimenopause Stage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_email
+      label: Healthcare Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_relationship
+      label: Healthcare Provider Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: other_providers
+      label: Other Providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: perimenopause_quiz_completed
+      label: Perimenopause Quiz Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_plan
+      label: Follow Up Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

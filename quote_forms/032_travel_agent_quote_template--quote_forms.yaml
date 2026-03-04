@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_agent_quote_template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the customer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the customer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Customer email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Customer phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: The date of the customer's trip
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: The duration of the customer's trip
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: travel_type
+      label: Type of Travel
+      hint: The type of travel (e.g. domestic or international)
+      type: select_one
+      options:
+      - Domestic
+      - International
+      required: true
+    - id: 8
+      name: travel_cost
+      label: Travel Cost
+      hint: The estimated cost of the trip
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: travel_details
+      label: Travel Details
+      hint: Additional information about the trip
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: travel_destination
+      label: Travel Destination
+      hint: The location or destinations of the trip
+      type: select_multiple
+      options:
+      - Destination 1
+      - Destination 2
+      - Destination 3
+      required: true
+    - id: 11
+      name: travel_agencies
+      label: Travel Agencies
+      hint: A list of travel agencies involved in the trip
+      type: select_multiple
+      options:
+      - Agency 1
+      - Agency 2
+      - Agency 3
+      required: true
+    - id: 12
+      name: total_cost
+      label: Total Cost
+      hint: The total estimated cost of the trip
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: travel_discount
+      label: Travel Discount
+      hint: The estimated discount on the travel cost
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tax_included
+      label: Tax Included
+      hint: A flag indicating if tax is included in the cost
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: travel_notes
+      label: Travel Notes
+      hint: Additional notes about the travel
+      type: note
+      options: []
+      required: false

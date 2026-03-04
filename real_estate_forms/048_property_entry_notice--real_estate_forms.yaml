@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Entry Notice
+    pages:
+    - id: 1
+      name: property_entry_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_entry_requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_access_requestor_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_access_requestor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_access_requestor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_access_request_date
+      label: Access Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

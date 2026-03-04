@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Sale Pre Approval Request Form
+    pages:
+    - id: 1
+      name: home_sale_pre_approval_request_form
+      label: Home Sale Pre-Approval Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seller_details
+      label: Seller Details
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      required: true
+    - id: 3
+      name: home_type
+      label: home_type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Condo/Townhouse
+      - Townhouse/Condo
+      - Duplex
+      - Single-Family Home
+      required: true
+    - id: 4
+      name: purchase_price
+      label: Purchase Price
+      hint: $100,000
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: down_payment
+      label: Down Payment
+      hint: $10,000
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: home_value
+      label: Home Value
+      hint: $250,000
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condominum
+      - Townhome
+      - Apartment
+      required: true
+    - id: 9
+      name: loan_term_in_years
+      label: Loan Term in Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: loan_amount_in_dollars
+      label: Loan Amount in Dollars
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: preapproval
+      label: Pre-Approval
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: preapproval_status
+      label: Pre-Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: preapproval_comments
+      label: Pre-Approval Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preapproval_reason
+      label: Pre-Approval Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: loan_provider
+      label: Loan Provider
+      hint: null
+      type: text
+      options: []
+      required: false

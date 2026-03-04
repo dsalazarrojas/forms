@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Cooperation Council Registration
+    pages:
+    - id: 1
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''type'': ''phone''}'
+      - '{''id'': 2, ''label'': ''Email'', ''type'': ''email''}'
+      required: true
+    - id: 3
+      name: interests
+      label: Interests
+      hint: What are your interests?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Financial Assistance'', ''value'': ''financial-assistance''}'
+      - '{''id'': 2, ''label'': ''Property Management'', ''value'': ''property-management''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: landlord_cooperation_council_registration
+      label: Landlord Cooperation Council Registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: landlord_cooperation_council_registration_time
+      label: Landlord Cooperation Council Registration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: landlord_cooperation_council_registration_note
+      label: Landlord Cooperation Council Registration Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: landlord_cooperation_council_registration_phone
+      label: Landlord Cooperation Council Registration Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: landlord_cooperation_council_registration_interests
+      label: Landlord Cooperation Council Registration Interests
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Financial Assistance'', ''value'': ''financial-assistance''}'
+      - '{''id'': 2, ''label'': ''Property Management'', ''value'': ''property-management''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 10
+      name: landlord_cooperation_council_registration_consent
+      label: Landlord Cooperation Council Registration Consent
+      hint: null
+      type: note
+      options: []
+      required: false

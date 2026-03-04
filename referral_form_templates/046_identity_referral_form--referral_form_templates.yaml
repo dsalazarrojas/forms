@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identity Referral Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Identity Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Referral Form Templates
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_details
+      label: Referral Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: consent_confirmation
+      label: Consent Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: follow_up_information
+      label: Follow-up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_follow_up_time
+      label: Next Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false

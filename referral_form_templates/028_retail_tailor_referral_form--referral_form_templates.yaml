@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Tailor Referral Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_contact_number
+      label: Customer Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: referral_details
+      label: Referral Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: follow_up_contact
+      label: Follow up Contact
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: tailor_name
+      label: Tailor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tailor_phone
+      label: Tailor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tailor_email
+      label: Tailor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: tailor_location
+      label: Tailor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 16
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: customer_service_comment
+      label: Customer Service Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_status
+      label: Follow up Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 20
+      name: tailor_rating
+      label: Tailor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: tailor_comment
+      label: Tailor Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_comment
+      label: Customer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_method
+      label: Follow up Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 24
+      name: follow_up_note
+      label: Follow up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

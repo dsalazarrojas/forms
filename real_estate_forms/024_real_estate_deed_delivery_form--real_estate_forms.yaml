@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Deed Delivery Form
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Mixed-Use
+      required: false
+    - id: 2
+      name: property_type_value
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: deed_number
+      label: Deed Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: transfer_fee
+      label: Transfer Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_deed_delivery_form_additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

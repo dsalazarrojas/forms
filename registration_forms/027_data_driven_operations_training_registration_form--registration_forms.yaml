@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Driven Operations Training Registration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_start_date
+      label: Participant Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_start_time
+      label: Participant Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: participant_end_date
+      label: Participant End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_end_time
+      label: Participant End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''Closed''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 11
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

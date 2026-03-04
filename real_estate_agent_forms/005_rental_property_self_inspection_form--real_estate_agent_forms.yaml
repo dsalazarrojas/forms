@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Self Inspection Form
+    pages:
+    - id: 1
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_status
+      label: property status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''occupied''}'
+      - '{''label'': ''vacant''}'
+      - '{''label'': ''pending''}'
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: date of inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspection_result
+      label: inspection result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''house''}'
+      - '{''label'': ''condo''}'
+      - '{''label'': ''apartment''}'
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspection_team_member
+      label: inspection team member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspection_location
+      label: inspection location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: inspection_time
+      label: inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agent_signature
+      label: agent signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: agent_initials
+      label: agent initials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_id
+      label: property id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: property_number
+      label: property number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_street
+      label: property street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_street
+      label: contact street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_city
+      label: contact city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_state
+      label: contact state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_zip
+      label: contact zip
+      hint: null
+      type: text
+      options: []
+      required: false

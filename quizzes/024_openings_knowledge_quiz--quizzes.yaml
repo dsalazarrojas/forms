@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Openings Knowledge Quiz
+    pages:
+    - id: 1
+      name: user_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_question
+      label: question-one
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: user_answer
+      label: answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: user_select_one
+      label: select-one
+      hint: null
+      type: select_one
+      options:
+      - option-one
+      - option-two
+      - option-three
+      required: false
+    - id: 6
+      name: user_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: user_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: user_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

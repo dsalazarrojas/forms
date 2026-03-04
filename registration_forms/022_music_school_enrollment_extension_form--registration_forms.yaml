@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music School Enrollment Extension Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First Name
+      hint: Enter First Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: form_parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_programs
+      label: Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Music Lessons
+      - Instrument Lessons
+      - Theory Lessons
+      - Practice Room
+      required: false
+    - id: 7
+      name: form_instruments
+      label: Instruments
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Violin
+      - Drums
+      required: false
+    - id: 8
+      name: form_lesson_length
+      label: Lesson Length
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      required: false
+    - id: 9
+      name: form_lesson_frequency
+      label: Lesson Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a week
+      - Twice a week
+      - Three times a week
+      required: false
+    - id: 10
+      name: form_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

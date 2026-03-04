@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Applicant Questionnaire Form
+    pages:
+    - id: 1
+      name: home_status
+      label: Home Status
+      hint: null
+      type: select_multiple
+      options:
+      - Primary residence
+      - Second home
+      - Investment
+      - Rental
+      - Other
+      required: false
+    - id: 2
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self employed
+      - Unemployed
+      - Retired
+      required: false
+    - id: 3
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_one
+      options:
+      - 600-669
+      - 670-719
+      - 720-799
+      - 800-899
+      - 900-999
+      - 1000 or higher
+      required: false
+    - id: 6
+      name: years_in_housing
+      label: Years in Housing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: previous_housing_history
+      label: Previous Housing History
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Condo
+      - Townhouse
+      - Apartment
+      - Other
+      required: false
+    - id: 8
+      name: current_residence
+      label: Current Residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: desired_residence_type
+      label: Desired Residence Type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Condo
+      - Townhouse
+      - Apartment
+      - Other
+      required: false
+    - id: 10
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: years_of_education
+      label: Years of Education
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: previous_real_estate_experience
+      label: Previous Real Estate Experience
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: real_estate_agent
+      label: Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      - Other
+      required: false
+    - id: 15
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekends
+      required: false

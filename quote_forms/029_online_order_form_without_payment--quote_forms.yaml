@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_order_form_without_payment
+    pages:
+    - id: 1
+      name: salon_name
+      label: Salon Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      required: true
+    - id: 10
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut
+      - Coloring
+      - Perms
+      required: true
+    - id: 13
+      name: service_description
+      label: Service Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_note
+      label: Employee Note
+      hint: null
+      type: note
+      options: []
+      required: false

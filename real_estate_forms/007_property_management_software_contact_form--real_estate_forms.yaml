@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Software Contact Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feature_interests
+      label: Feature Interests
+      hint: null
+      type: select_multiple
+      options:
+      - mortgage
+      - lease
+      - rental
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - other
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

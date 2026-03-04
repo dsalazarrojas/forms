@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Object Debris FOD Training Registration
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: attendee_names
+      label: Attendee Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

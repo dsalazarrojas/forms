@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Contribution Refund Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Contribution Refund Request --
+      hint: Request refunds for charitable contributions when required
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: donor name
+      hint: name used on the original contribution
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: donor email
+      hint: contact for refund confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_date
+      label: donation date
+      hint: date of the original donation
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: donation amount
+      hint: amount to be refunded
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_refund
+      label: reason for refund
+      hint: explain why refund is requested
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: payment method
+      hint: original payment method to use for refund
+      type: select_one
+      options:
+      - Original payment method
+      - Bank transfer
+      - Check
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: supporting documents
+      hint: receipts or proof for internal review
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_declaration
+      label: consent declaration
+      hint: typed name confirms accuracy of information
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: request_date
+      label: request date
+      hint: date of refund request
+      type: date
+      options: []
+      required: true

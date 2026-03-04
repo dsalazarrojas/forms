@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agency_membership_application_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_info
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: real_estate_license
+      label: Real Estate License
+      hint: Enter your real estate license number
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 5
+      name: agency_info
+      label: Agency Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_terms
+      label: Contract Terms
+      hint: Review contract terms and conditions carefully.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: Enter the date you signed this form
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

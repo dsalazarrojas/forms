@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Hobby Workshop Attendance Form
+    pages:
+      - id: 1
+        name: workshop_title
+        label: Hobby Workshop Title
+        hint: e.g., Pottery, Woodworking, Digital Photography
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: session_date
+        label: Session Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: participant_name
+        label: Participant Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: attendance_status
+        label: Attendance Status
+        hint: null
+        type: select_one
+        options:
+          - Present
+          - Absent
+          - Excused
+          - Late
+        required: true
+      - id: 5
+        name: arrival_time
+        label: Time of Arrival
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 6
+        name: materials_received
+        label: Were materials provided to the participant?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: materials_fee_status
+        label: Materials Fee Payment Status
+        hint: If applicable
+        type: select_one
+        options:
+          - Paid in Full
+          - Pending Payment
+          - Fee Waived
+          - Not Applicable
+        required: true
+      - id: 8
+        name: participation_level
+        label: Level of Engagement/Participation
+        hint: Observed by instructor
+        type: select_one
+        options:
+          - High - Very active
+          - Medium - Steady participation
+          - Low - Limited interaction
+        required: false
+      - id: 9
+        name: instructor_feedback
+        label: Instructor Feedback for Participant
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: participant_notes
+        label: Participant Questions or Special Notes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: follow_up_needed
+        label: Is follow-up required?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

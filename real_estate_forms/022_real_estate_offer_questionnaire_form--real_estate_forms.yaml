@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Offer Questionnaire Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: offer_details
+      label: Offer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: offer_amount
+      label: Offer Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: additional_terms
+      label: Additional Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: contact_method_1
+      label: Contact Method 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: contact_method_2
+      label: Contact Method 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animated Series Trivia Quiz
+    pages:
+    - id: 1
+      name: quiz_taker_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: question_spongebob_house
+      label: Who lives in a pineapple under the sea?
+      hint: null
+      type: select_one
+      options:
+      - SpongeBob SquarePants
+      - Patrick Star
+      - Squidward Tentacles
+      - Mr. Krabs
+      required: true
+    - id: 3
+      name: question_family_guy_dog
+      label: What is the name of the dog in Family Guy?
+      hint: null
+      type: select_one
+      options:
+      - Brian
+      - Stewie
+      - Peter
+      - Chris
+      required: true
+    - id: 4
+      name: question_portal_gun_series
+      label: Which animated series features a portal gun?
+      hint: null
+      type: select_one
+      options:
+      - Rick and Morty
+      - Futurama
+      - The Simpsons
+      - South Park
+      required: true
+    - id: 5
+      name: question_mystery_van
+      label: The mystery solving gang travels in which vehicle?
+      hint: null
+      type: select_one
+      options:
+      - Mystery Machine
+      - Ecto-1
+      - Batmobile
+      - Tardis
+      required: true
+    - id: 6
+      name: question_avatar_name
+      label: Name the primary avatar from the Last Airbender
+      hint: null
+      type: select_one
+      options:
+      - Aang
+      - Zuko
+      - Katara
+      - Sokka
+      required: true
+    - id: 7
+      name: question_jetsons_city
+      label: What is the name of the futuristic city in The Jetsons?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_pokemon_main
+      label: Who is the main character of the Pokemon series?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: favorite_animated_series_text
+      label: Favorite Animated Series of all time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quiz_total_score_calc
+      label: Total Score
+      hint: Calculated after submission
+      type: number
+      options: []
+      required: false

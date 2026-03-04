@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intern Performance Scorecard
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: performance_score
+      label: Performance Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: completed_time
+      label: Completed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: score_type
+      label: Score Type
+      hint: null
+      type: select_one
+      options:
+      - Scorecard
+      - Progress Report
+      - Evaluation Report
+      required: true
+    - id: 13
+      name: score_description
+      label: Score Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: score_date
+      label: Score Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: score_value
+      label: Score Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 17
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: select_multiple
+      options:
+      - First
+      - Second
+      - Third
+      required: false
+    - id: 18
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Not Active
+      required: false
+    - id: 19
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: completed_status
+      label: Completed Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Not Completed
+      required: true
+    - id: 21
+      name: evaluation_frequency_2
+      label: Evaluation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 22
+      name: evaluation_status_2
+      label: Evaluation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Not Active
+      required: false
+    - id: 23
+      name: evaluation_date_2
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: completed_by_2
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluation_comment_2
+      label: Evaluation Comment
+      hint: null
+      type: text
+      options: []
+      required: false

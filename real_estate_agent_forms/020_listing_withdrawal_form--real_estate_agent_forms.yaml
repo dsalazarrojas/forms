@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Listing Withdrawal Form
+    pages:
+    - id: 1
+      name: withdrawal_form_details
+      label: Withdrawal Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: withdrawal_reason
+      label: withdrawal_reason
+      hint: null
+      type: select_one
+      options:
+      - Cancellation of Listing
+      - Sale Pending
+      - Withdrawal Request
+      required: false
+    - id: 3
+      name: agent_note
+      label: agent_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_withdrawal
+      label: Reason for Withdrawal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agent_email
+      label: Agent Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_withdrawal
+      label: Date of Withdrawal
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_withdrawal
+      label: Time of Withdrawal
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

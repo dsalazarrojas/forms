@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Deployment Knowledge Quiz
+    pages:
+    - id: 1
+      name: release_knowledge
+      label: release_knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: deployment_practice
+      label: deployment_practice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_training
+      label: team_training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: onboarding
+      label: onboarding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fast_submission
+      label: fast_submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: organized_submission
+      label: organized_submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customizable_quiz
+      label: customizable_quiz
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: supports_tracking
+      label: supports_tracking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fast_data_collection
+      label: fast_data_collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: organized_submission_tracking
+      label: organized_submission_tracking
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

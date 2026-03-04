@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Participant Information Form
+    pages:
+    - id: 1
+      name: section_participant_profile_info
+      label: -- Participant Information --
+      hint: This information will be used for program registration and communication.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_info
+      label: Full Name of Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email_info
+      label: Email Address
+      hint: For program updates and results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone_info
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_dob_info
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: participant_gender_info
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: participant_address_info
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_emergency_contact_info
+      label: -- Emergency Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_full_name_info
+      label: Emergency Contact Person
+      hint: Someone not living with the participant
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relation_info
+      label: Relationship to Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone_info
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_program_selection_info
+      label: -- Program and Interest Selection --
+      hint: Select the programs and activities you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_program_category_info
+      label: Which program category are you registering for
+      hint: null
+      type: select_one
+      options:
+      - Sports and Recreation
+      - Health and Fitness
+      - Arts and Culture
+      - Youth Programs
+      - Senior Services
+      - Educational Workshops
+      required: true
+    - id: 14
+      name: specific_program_name_info
+      label: Specific Program or Activity Name
+      hint: e.g., Senior Yoga, Youth Basketball, Pottery Class
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physical_activity_limitations_info
+      label: Any Physical Activity Limitations or Medical Conditions
+      hint: If none, enter N/A
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: dietary_allergies_info
+      label: Any Dietary Allergies or Restrictions
+      hint: If none, enter N/A
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_additional_info_final
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: photo_release_check_info
+      label: I grant permission for the community center to use photos of me/the participant
+        for promotion
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: participation_acknowledgment_info
+      label: I acknowledge that I am participating at my own risk
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 20
+      name: submission_date_final_info
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: signature_check_final_info
+      label: Digital Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art History Quiz
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Quiz Taker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: period_1_header
+      label: -- Section 1 - Ancient and Renaissance Art --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: mona_lisa_artist
+      label: Who painted the Mona Lisa?
+      hint: null
+      type: select_one
+      options:
+      - Michelangelo
+      - Leonardo da Vinci
+      - Raphael
+      - Donatello
+      required: true
+    - id: 6
+      name: parthenon_location
+      label: In which city is the Parthenon located?
+      hint: null
+      type: select_one
+      options:
+      - Rome
+      - Athens
+      - Alexandria
+      - Sparta
+      required: true
+    - id: 7
+      name: sistine_chapel_ceiling_artist
+      label: Which artist painted the ceiling of the Sistine Chapel?
+      hint: null
+      type: select_one
+      options:
+      - Leonardo da Vinci
+      - Sandro Botticelli
+      - Michelangelo
+      - Titian
+      required: true
+    - id: 8
+      name: period_2_header
+      label: -- Section 2 - Impressionism and Modernism --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: impression_sunrise_artist
+      label: Which artist is credited with naming the Impressionist movement with
+        his painting - Impression, Sunrise?
+      hint: null
+      type: select_one
+      options:
+      - Claude Monet
+      - Pierre-Auguste Renoir
+      - Edgar Degas
+      - Camille Pissarro
+      required: true
+    - id: 10
+      name: van_gogh_style
+      label: Vincent van Gogh is a primary figure in which artistic movement?
+      hint: null
+      type: select_one
+      options:
+      - Impressionism
+      - Post-Impressionism
+      - Cubism
+      - Surrealism
+      required: true
+    - id: 11
+      name: starry_night_location
+      label: In which museum is van Gogh's - The Starry Night - currently housed?
+      hint: null
+      type: select_one
+      options:
+      - The Louvre
+      - The Met
+      - MoMA (Museum of Modern Art)
+      - The National Gallery
+      required: true
+    - id: 12
+      name: period_3_header
+      label: -- Section 3 - Contemporary Art --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: andy_warhol_movement
+      label: Andy Warhol was a leading figure in which visual art movement?
+      hint: null
+      type: select_one
+      options:
+      - Abstract Expressionism
+      - Pop Art
+      - Dadaism
+      - Minimalism
+      required: true
+    - id: 14
+      name: frida_kahlo_nationality
+      label: What was the nationality of the artist Frida Kahlo?
+      hint: null
+      type: select_one
+      options:
+      - Spanish
+      - Mexican
+      - Colombian
+      - Argentine
+      required: true
+    - id: 15
+      name: picasso_cubism_pioneer
+      label: Pablo Picasso is famous for co-founding which movement?
+      hint: null
+      type: select_one
+      options:
+      - Fauvism
+      - Cubism
+      - Expressionism
+      - Futurism
+      required: true
+    - id: 16
+      name: short_essay_question
+      label: Briefly explain the importance of the Renaissance period in the development
+        of Western art
+      hint: 100-200 words
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_header
+      label: -- End of Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: honor_pledge
+      label: I certify that I have completed this quiz independently without external
+        aid
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

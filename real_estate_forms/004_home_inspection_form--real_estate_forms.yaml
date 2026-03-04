@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Inspection Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspector_organization
+      label: Inspector Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 6
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Multi-Family Home
+      - Duplex
+      - Triplex
+      - Industrial
+      - Commercial
+      required: false
+    - id: 7
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_neighborhood
+      label: Property Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false

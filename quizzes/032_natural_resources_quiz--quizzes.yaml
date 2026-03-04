@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Natural Resources Quiz
+    pages:
+    - id: 1
+      name: general_knowledge
+      label: General Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: natural_resouces_importance
+      label: Natural Resouces Importance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: conservation_practices
+      label: Conservation Practices
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: conservation_management
+      label: Conservation Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sustainable_management
+      label: Sustainable Management
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: quiz_result
+      label: Quiz Result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

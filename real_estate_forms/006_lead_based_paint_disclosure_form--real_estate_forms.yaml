@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Based Paint Disclosure Form
+    pages:
+    - id: 1
+      name: home_info
+      label: Home Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lead_paint_info
+      label: Lead Paint Information
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: homebuyers_info
+      label: Homebuyers Information
+      hint: null
+      type: select_multiple
+      options:
+      - optionA
+      - optionB
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: lead_based_paint_disclosure
+      label: Lead-Based Paint Disclosure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: select_multiple
+      options:
+      - optionA
+      - optionB
+      required: false
+    - id: 10
+      name: lead_based_paint_disclosure
+      label: Lead-Based Paint Disclosure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - optionA
+      - optionB
+      required: false

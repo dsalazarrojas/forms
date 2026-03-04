@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contest Entry Form
+    pages:
+    - id: 1
+      name: entrant_full_name
+      label: Entrant Full Name
+      hint: Legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 or older?
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am under 18
+      required: true
+    - id: 6
+      name: address_line_1
+      label: Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address_line_2
+      label: Address Line 2
+      hint: Apartment or suite number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 12
+      name: contest_category
+      label: Contest Category
+      hint: Select your entry category
+      type: select_one
+      options:
+      - Art
+      - Photography
+      - Writing
+      - Music
+      - Video
+      - Performance
+      - Innovation
+      required: true
+    - id: 13
+      name: entry_title
+      label: Entry Title
+      hint: Name of your submission
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: entry_description
+      label: Entry Description
+      hint: Describe your entry
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: entry_file_upload
+      label: Entry File Upload
+      hint: Upload your submission file
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: entry_fee_payment
+      label: Entry Fee Payment
+      hint: Payment confirmation number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_entries
+      label: Previous Entries
+      hint: Have you entered before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About This Contest?
+      hint: Source of discovery
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Email
+      - Friend or Family
+      - Advertisement
+      - Media Coverage
+      - Other
+      required: false
+    - id: 19
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the contest rules
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 20
+      name: publicity_release
+      label: Publicity Release
+      hint: I allow use of my name and entry for promotion
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 21
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive contest updates
+      type: select_one
+      options:
+      - Yes, sign me up
+      - No, thank you
+      required: false
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false

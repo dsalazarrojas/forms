@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cycling Club Race Tournament Entry Form
+    pages:
+    - id: 1
+      name: race_registration_form_1
+      label: race registration form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category_select_one
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Cycling
+      - Mountain
+      - Road
+      required: false
+    - id: 6
+      name: bike_select_multiple
+      label: bike
+      hint: null
+      type: select_multiple
+      options:
+      - Mountain Bike
+      - Road Bike
+      - Hybrid
+      - BMX
+      - BMX 20
+      - BMX 24
+      - BMX 26
+      required: false
+    - id: 7
+      name: team_members_select_one
+      label: team members
+      hint: null
+      type: select_one
+      options:
+      - No Team
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 8
+      name: race_day_select_one
+      label: race day
+      hint: null
+      type: select_one
+      options:
+      - Sat
+      - Sun
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: false
+    - id: 9
+      name: start_time_select_one
+      label: start time
+      hint: null
+      type: select_one
+      options:
+      - 6:00-8:00
+      - 8:00-10:00
+      - 10:00-12:00
+      - 12:00-14:00
+      - 14:00-16:00
+      - 16:00-18:00
+      - 18:00-20:00
+      - 20:00-22:00
+      - 22:00-00:00
+      required: false
+    - id: 10
+      name: finish_time_select_one
+      label: finish time
+      hint: null
+      type: select_one
+      options:
+      - 8:00-10:00
+      - 10:00-12:00
+      - 12:00-14:00
+      - 14:00-16:00
+      - 16:00-18:00
+      - 18:00-20:00
+      - 20:00-22:00
+      - 22:00-00:00
+      required: false

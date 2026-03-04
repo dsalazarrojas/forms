@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Employment Interview Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sales_role
+      label: sales-role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales Role 1''}'
+      - '{''id'': 2, ''label'': ''Sales Role 2''}'
+      - '{''id'': 3, ''label'': ''Sales Role 3''}'
+      required: true
+    - id: 3
+      name: years_of_experience
+      label: years-of-experience
+      hint: Number of years of experience
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': "Bachelor''s degree"}'
+      - '{''id'': 2, ''label'': "Master''s degree"}'
+      - '{''id'': 3, ''label'': ''PhD''}'
+      required: true
+    - id: 5
+      name: job_satisfaction
+      label: job-satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: work_experience
+      label: work-experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Marketing''}'
+      - '{''id'': 2, ''label'': ''Sales''}'
+      - '{''id'': 3, ''label'': ''Engineering''}'
+      required: true
+    - id: 8
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication''}'
+      - '{''id'': 2, ''label'': ''Teamwork''}'
+      - '{''id'': 3, ''label'': ''Problem-solving''}'
+      required: true
+    - id: 9
+      name: references
+      label: references
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Personal''}'
+      - '{''id'': 2, ''label'': ''Professional''}'
+      - '{''id'': 3, ''label'': ''Social media''}'
+      required: true
+    - id: 10
+      name: salary_requirements
+      label: salary-requirements
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Health''}'
+      - '{''id'': 2, ''label'': ''Vision''}'
+      - '{''id'': 3, ''label'': ''Dental''}'
+      required: false
+    - id: 12
+      name: work_arrangement
+      label: work-arrangement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full time''}'
+      - '{''id'': 2, ''label'': ''Part time''}'
+      - '{''id'': 3, ''label'': ''Freelance''}'
+      required: true
+    - id: 13
+      name: work_place
+      label: work-place
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Home office''}'
+      - '{''id'': 2, ''label'': ''On-site''}'
+      - '{''id'': 3, ''label'': ''Hybrid''}'
+      required: true
+    - id: 14
+      name: notice_period
+      label: notice-period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: notice_period_duration
+      label: notice-period-duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: termination_notice
+      label: termination-notice
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: termination_notice_notice_period
+      label: termination-notice-notice-period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: termination_notice_notice_period_unit
+      label: termination-notice-notice-period-unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Weeks''}'
+      - '{''id'': 2, ''label'': ''Months''}'
+      - '{''id'': 3, ''label'': ''Years''}'
+      required: true
+    - id: 19
+      name: termination_notice_notice_period_unit_short
+      label: termination-notice-notice-period-unit-short
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''weeks''}'
+      - '{''id'': 2, ''label'': ''months''}'
+      - '{''id'': 3, ''label'': ''years''}'
+      required: true
+    - id: 20
+      name: termination_notice_notice_period_unit_short_suffix
+      label: termination-notice-notice-period-unit-short-suffix
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''s''}'
+      - '{''id'': 2, ''label'': ''s''}'
+      - '{''id'': 3, ''label'': ''s''}'
+      required: true
+    - id: 21
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reporting_manager
+      label: reporting-manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Directly with a manager''}'
+      - '{''id'': 2, ''label'': ''Indirectly with a manager''}'
+      - '{''id'': 3, ''label'': ''No manager''}'
+      required: true
+    - id: 23
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 24
+      name: team_management
+      label: team-management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

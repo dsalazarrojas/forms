@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lot And Block Property Survey Request Form
+    pages:
+    - id: 1
+      name: survey_request_form
+      label: Survey Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_requester_info
+      label: Survey Requester Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_requester_details
+      label: Survey Requester Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_type
+      label: Survey Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: survey_type_options
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: survey_type_sub
+      label: Survey Type Sub
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_request_details
+      label: Survey Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: survey_requester_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: survey_requester_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

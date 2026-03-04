@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_event_access_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 6
+      name: payment_method_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vip_info
+      label: VIP Info
+      hint: null
+      type: select_multiple
+      options:
+      - Red Carpet
+      - VIP Lounge Access
+      - Early Access
+      required: false

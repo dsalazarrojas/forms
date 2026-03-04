@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: workforce_culture_innovation_challenge_registration
+    pages:
+    - id: 1
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: innovation_idea
+      label: innovation idea
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_details
+      label: participant details
+      hint: null
+      type: text
+      options: []
+      required: false

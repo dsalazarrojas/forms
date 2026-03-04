@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: HOA Disclosure Form
+    pages:
+    - id: 1
+      name: form_title
+      label: HOA Disclosure Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hoa_address
+      label: hoa_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hoa_fees
+      label: hoa_fees
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hoa_rules
+      label: hoa_rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hoa_services
+      label: hoa_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hoa_maintenance_areas
+      label: hoa_maintenance_areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hoa_other_info
+      label: hoa_other_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

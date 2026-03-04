@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Service Registration
+    pages:
+    - id: 1
+      name: requester_info_header
+      label: -- Service Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: deceased_info_header
+      label: -- Deceased Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: deceased_name
+      label: Deceased Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_passing
+      label: Date of Passing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_details_header
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_service_time
+      label: Preferred Service Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: type_of_service
+      label: Type of Service
+      hint: Select the format of the ceremony
+      type: select_one
+      options:
+      - Committal Service
+      - Memorial Service
+      - Graveside Service
+      - Celebration of Life
+      required: true
+    - id: 12
+      name: service_location
+      label: Service Location
+      hint: Where will the ceremony be held
+      type: select_one
+      options:
+      - Cemetery Chapel
+      - Graveside
+      - Off-site Location
+      required: true
+    - id: 13
+      name: logistics_header
+      label: -- Logistics and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: equipment_needed
+      label: Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chairs (up to 20)
+      - PA System / Microphone
+      - Canopy / Tent
+      - Podium
+      - Flower Stands
+      required: false
+    - id: 15
+      name: procession_status
+      label: Will there be a procession
+      hint: Incoming vehicle line
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: officiant_header
+      label: -- Officiant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: officiant_name
+      label: Officiant Name
+      hint: Name of the person leading the service
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: religious_secular_pref
+      label: Service Preference
+      hint: Religious or secular leanings
+      type: select_one
+      options:
+      - Secular
+      - Catholic
+      - Protestant
+      - Jewish
+      - Other
+      required: true
+    - id: 19
+      name: final_arrangements_header
+      label: -- Final Arrangements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: plot_prepurchased_status
+      label: Has the plot been pre-purchased
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: special_requests_instructions
+      label: Any special requests or instructions
+      hint: Share any other details for the team
+      type: text
+      options: []
+      required: false

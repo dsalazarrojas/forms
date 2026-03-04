@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Streaming Platform Referral Form
+    pages:
+    - id: 1
+      name: creator
+      label: creator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: streaming_platform
+      label: streaming_platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: organized_data
+      label: organized_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: faster_follow_ups
+      label: faster_follow_ups
+      hint: null
+      type: text
+      options: []
+      required: false

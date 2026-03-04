@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Referee Examination Form
+    pages:
+    - id: 1
+      name: decision_making_skills
+      label: Decision making skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: knowledge_game
+      label: knowledge about the game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: game_situations
+      label: Game situations
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: referee_skills
+      label: Referee skills
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: performance_parameters
+      label: Performance parameters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

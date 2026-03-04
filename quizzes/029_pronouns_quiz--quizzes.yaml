@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pronouns Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: gender_identity
+      label: gender_identity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pronouns
+      label: pronouns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: verb_form
+      label: verb_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: verb_tense
+      label: verb_tense
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: correct_response
+      label: correct_response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incorrect_response
+      label: incorrect_response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: correct_verb_form
+      label: correct_verb_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: correct_verb_tense
+      label: correct_verb_tense
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: score_label
+      label: score_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: correct_pronouns
+      label: correct_pronouns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: correct_verb_form_label
+      label: correct_verb_form_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: correct_verb_tense_label
+      label: correct_verb_tense_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: correct_verb_tense
+      label: correct_verb_tense
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: correct_verb_form
+      label: correct_verb_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: correct_pronoun
+      label: correct_pronoun
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: correct_verb
+      label: correct_verb
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: end_game
+      label: end_game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: end_text
+      label: end_text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: end_game_score
+      label: end_game_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: end_game_label
+      label: end_game_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: end_text_label
+      label: end_text_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: end_score
+      label: end_score
+      hint: null
+      type: number
+      options: []
+      required: true

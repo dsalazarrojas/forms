@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Foot And Ankle Conference Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: credentials
+      label: Professional Credentials
+      hint: MD, DO, DPM, etc.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Institution
+      hint: Where do you work?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: specialty
+      label: Medical Specialty
+      hint: Your area of specialization
+      type: select_one
+      options:
+      - Podiatry
+      - Orthopedic Surgery
+      - Sports Medicine
+      - Physical Therapy
+      - Vascular Surgery
+      - Rheumatology
+      - Endocrinology
+      - Primary Care
+      - Nursing
+      - Student
+      - Other
+      required: true
+    - id: 7
+      name: conference_year
+      label: Conference Year
+      hint: Which year are you attending?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: Select your registration category
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Virtual Attendance
+      - Exhibit Hall Only
+      - Workshop Add-On
+      - Resident Student
+      required: true
+    - id: 9
+      name: day_selection
+      label: Day Selection
+      hint: Which day will you attend?
+      type: select_one
+      options:
+      - Day 1 Only
+      - Day 2 Only
+      - Day 3 Only
+      - All Days
+      - Not Applicable
+      required: false
+    - id: 10
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose workshops if applicable
+      type: select_multiple
+      options:
+      - Advanced Surgical Techniques
+      - Diabetic Foot Care
+      - Sports Injuries
+      - Pediatric Podiatry
+      - Wound Management
+      - Imaging Advances
+      - Biomechanics
+      - None
+      required: false
+    - id: 11
+      name: cme_credits_needed
+      label: CME Credits Needed
+      hint: Do you need continuing education credits?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: license_number
+      label: License Number
+      hint: For CME credit tracking
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: license_state
+      label: License State
+      hint: State of licensure
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergies
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 15
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify any allergies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: networking_events
+      label: Networking Events
+      hint: Which events will you attend?
+      type: select_multiple
+      options:
+      - Welcome Reception
+      - Poster Session
+      - Gala Dinner
+      - Breakfast Roundtables
+      - Coffee Breaks
+      - None
+      required: false
+    - id: 17
+      name: exhibit_interest
+      label: Exhibit Hall Interest
+      hint: Will you visit the exhibit hall?
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Maybe
+      - false
+      required: false
+    - id: 18
+      name: hotel_needed
+      label: Hotel Accommodation Needed
+      hint: Do you need hotel recommendations?
+      type: select_one
+      options:
+      - true
+      - false
+      - Already Booked
+      required: false
+    - id: 19
+      name: transportation_needed
+      label: Transportation Assistance
+      hint: Need help with transportation?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: first_time_attendee
+      label: First Time Attendee
+      hint: Is this your first conference?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Colleague
+      - Email
+      - Website
+      - Social Media
+      - Professional Organization
+      - Previous Attendee
+      - Other
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Invoice
+      - Check
+      - Wire Transfer
+      required: true
+    - id: 23
+      name: registration_fee
+      label: Registration Fee
+      hint: Total amount due
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I agree to the cancellation policy
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any accessibility or other needs?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Donor Event Recording Consent Form
+    pages:
+    - id: 1
+      name: donor_event
+      label: DonorEvent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: PhoneNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: EventDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: EventTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_details
+      label: EventDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recording_permission
+      label: RecordingPermission
+      hint: null
+      type: select_one
+      options:
+      - Consent
+      - Decline
+      required: false
+    - id: 9
+      name: recording_type
+      label: RecordingType
+      hint: null
+      type: select_one
+      options:
+      - in_person
+      - virtual
+      required: false

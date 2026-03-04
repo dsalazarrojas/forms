@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lareddeingenieria
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_start_time
+      label: project_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: required_materials
+      label: required_materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

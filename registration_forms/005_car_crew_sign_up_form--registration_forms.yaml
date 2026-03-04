@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Crew Sign Up Form
+    pages:
+    - id: 1
+      name: crew_info_header
+      label: -- Crew Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: To contact you about crew updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: To contact you during crew activities
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: For mail and meeting points
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: car_info_header
+      label: -- Vehicle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: car_make_model
+      label: Car Make and Model
+      hint: Describe your car
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: car_year
+      label: Car Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_vin_crew
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Primary color of the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_modifications
+      label: Vehicle Modifications
+      hint: List any modifications made to the vehicle
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: crew_activities_header
+      label: -- Crew Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: crew_activities_interest
+      label: Crew Activities You are Interested In
+      hint: Select your favorite crew activities
+      type: select_multiple
+      options:
+      - Group Cruises
+      - Track Days
+      - Charity Events
+      - Car Shows
+      - Technical Workshops
+      required: false
+    - id: 14
+      name: crew_participation_frequency
+      label: Crew Participation Frequency
+      hint: How often do you plan to participate?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Occasionally
+      required: true
+    - id: 15
+      name: crew_membership_type
+      label: Crew Membership Type
+      hint: Select your crew membership level
+      type: select_one
+      options:
+      - Regular Member
+      - Elite Member
+      - Honorary Member
+      required: true
+    - id: 16
+      name: crew_emergency_contact_name
+      label: Crew Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: crew_emergency_contact_phone
+      label: Crew Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: crew_acknowledgement
+      label: I acknowledge the crew rules and regulations
+      hint: See website for terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: crew_signature_confirmation
+      label: Type your name for signature confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: crew_additional_comments
+      label: Anything else you want to share?
+      hint: Additional info or specific requests
+      type: text
+      options: []
+      required: false

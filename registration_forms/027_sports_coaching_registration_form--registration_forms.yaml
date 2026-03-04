@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_coaching_registration_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Pay
+      - Square
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

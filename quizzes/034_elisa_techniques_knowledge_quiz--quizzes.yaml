@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: ELISA Techniques Knowledge Quiz
+    pages:
+    - id: 1
+      name: elisa_techniques_knowledge_quiz
+      label: ELISA Techniques Knowledge Quiz
+      hint: null
+      type: select_multiple
+      options:
+      - ELISA
+      - Western Blotting
+      - ELISA Techniques
+      - Western Blotting
+      - Immunoassay
+      - ELISA
+      - Western Blotting
+      - Immunoassay
+      required: false
+    - id: 2
+      name: quiz_2
+      label: Quiz 2
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 3
+      name: quiz_3
+      label: Quiz 3
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      required: false
+    - id: 4
+      name: elisa_description
+      label: ELISA Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: elisa_technique_type
+      label: ELISA Technique Type
+      hint: null
+      type: select_multiple
+      options:
+      - ELISA
+      - ELISA Techniques
+      - Western Blot
+      - Immunoassay
+      required: false
+    - id: 6
+      name: quiz_3_question
+      label: Quiz 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_assessment
+      label: Training Assessment
+      hint: null
+      type: select_one
+      options:
+      - Training
+      - Onboarding
+      - Assessment
+      required: false
+    - id: 8
+      name: review_submission
+      label: Review Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: quiz_4
+      label: Quiz 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

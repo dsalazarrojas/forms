@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Tracker Form
+    pages:
+    - id: 1
+      name: refund_tracker_form
+      label: refund_tracker_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: refund_request_details
+      label: refund_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tracking_info
+      label: tracking_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: refund_status
+      label: refund_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 6
+      name: amount_requested
+      label: amount_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: refund_note
+      label: refund_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

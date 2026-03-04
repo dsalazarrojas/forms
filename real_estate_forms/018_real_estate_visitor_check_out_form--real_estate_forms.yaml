@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_visitor_check_out_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date_visit
+      label: Date Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_arrival
+      label: Time Arrival
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: time_depart
+      label: Time Depart
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: purpose_visit
+      label: Purpose Visit
+      hint: null
+      type: select_one
+      options:
+      - Visit the property
+      - Get a quote
+      - Discuss a deal
+      - Other
+      required: true
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: true
+    - id: 13
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 4 weeks
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_id
+      label: Property ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Sold
+      required: true
+    - id: 21
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Commercial
+      - Residential
+      - Industrial
+      required: true
+    - id: 22
+      name: property_area
+      label: Property Area
+      hint: null
+      type: select_one
+      options:
+      - North
+      - East
+      - South
+      - West
+      required: true
+    - id: 23
+      name: property_price_range
+      label: Property Price Range
+      hint: null
+      type: select_multiple
+      options:
+      - $0 - $100k
+      - $100k - $200k
+      - $200k - $300k
+      - $300k - $500k
+      - $500k - $1M
+      required: true
+    - id: 24
+      name: property_features
+      label: Property Features
+      hint: null
+      type: select_multiple
+      options:
+      - Pool
+      - Gym
+      - Parking
+      - Fenced
+      - View
+      required: true
+    - id: 25
+      name: contact_request
+      label: Contact Request
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

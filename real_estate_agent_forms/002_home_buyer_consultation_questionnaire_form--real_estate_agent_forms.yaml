@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Buyer Consultation Questionnaire Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Other
+      required: false
+    - id: 6
+      name: primary_residence
+      label: Primary Residence
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Townhouse
+      - Condo
+      - Other
+      required: false
+    - id: 8
+      name: number_of_beds
+      label: Number of Beds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: square_feet
+      label: Square Feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - Rural Area
+      - Urban Area
+      - Suburban Area
+      required: false
+    - id: 12
+      name: how_many_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: preferred_budget
+      label: Preferred Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: preferred_price_range
+      label: Preferred Price Range
+      hint: null
+      type: select_one
+      options:
+      - Under 200k
+      - 200k-400k
+      - 400k-600k
+      - 600k-1M
+      - Over 1M
+      required: false
+    - id: 15
+      name: preferred_commute
+      label: Preferred Commute
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 16
+      name: primary_reason
+      label: Primary Reason
+      hint: null
+      type: select_one
+      options:
+      - Looking for a Home
+      - Relocating
+      - Other
+      required: false
+    - id: 17
+      name: preferred_school_districts
+      label: Preferred School Districts
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: preferred_commute_time
+      label: Preferred Commute Time
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1-2 hours
+      - More than 2 hours
+      required: false
+    - id: 19
+      name: preferred_home_type
+      label: Preferred Home Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Townhouse
+      - Condo
+      required: false
+    - id: 20
+      name: preferred_neighborhood
+      label: Preferred Neighborhood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: preferred_home_features
+      label: Preferred Home Features
+      hint: null
+      type: select_multiple
+      options:
+      - Parking
+      - Pool
+      - Other
+      required: false
+    - id: 22
+      name: preferred_schools
+      label: Preferred Schools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: preferred_community_amenities
+      label: Preferred Community Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: preferred_home_age
+      label: Preferred Home Age
+      hint: null
+      type: select_one
+      options:
+      - New
+      - 5-10 years old
+      - 10-20 years old
+      - 20-30 years old
+      required: false
+    - id: 25
+      name: preferred_neighborhood_characteristics
+      label: Preferred Neighborhood Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - Park or Playground
+      - Shopping Mall
+      - Other
+      required: false

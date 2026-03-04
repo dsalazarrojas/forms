@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: rapid_sequence_intubation_quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rsi_knowledge
+      label: RSI Knowledge
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Satisfactory''}'
+      - '{''id'': 3, ''label'': ''Needs Improvement''}'
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_school
+      label: Medical School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: simulation
+      label: Simulation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Simulation 1''}'
+      - '{''id'': 2, ''label'': ''Simulation 2''}'
+      - '{''id'': 3, ''label'': ''Simulation 3''}'
+      - '{''id'': 4, ''label'': ''Simulation 4''}'
+      required: true
+    - id: 8
+      name: course_number
+      label: Course Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rsi_rating
+      label: RSI Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1-2''}'
+      - '{''id'': 2, ''label'': ''3-4''}'
+      - '{''id'': 3, ''label'': ''5-6''}'
+      - '{''id'': 4, ''label'': ''7-8''}'
+      - '{''id'': 5, ''label'': ''9-10''}'
+      required: false
+    - id: 10
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_number
+      label: Emergency Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: course_completed
+      label: Course Completed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 18
+      name: rsi_rating_scale
+      label: RSI Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1-2''}'
+      - '{''id'': 2, ''label'': ''3-4''}'
+      - '{''id'': 3, ''label'': ''5-6''}'
+      - '{''id'': 4, ''label'': ''7-8''}'
+      - '{''id'': 5, ''label'': ''9-10''}'
+      required: false
+    - id: 19
+      name: rsi_score
+      label: RSI Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: rsi_comment
+      label: RSI Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rsi_recommendation
+      label: RSI Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rsi_onsite_training
+      label: RSI Onsite Training
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Completed''}'
+      - '{''id'': 2, ''label'': ''Not Completed''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: false
+    - id: 23
+      name: rsi_evaluation
+      label: RSI Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rsi_additional_info
+      label: RSI Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

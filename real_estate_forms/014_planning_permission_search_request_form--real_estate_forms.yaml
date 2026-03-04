@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Planning Permission Search Request Form
+    pages:
+    - id: 1
+      name: search_address
+      label: Search Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_prophets
+      label: Select Prophets
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: select_multiple
+      label: Select Multiple Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: search_date
+      label: Search Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: search_time
+      label: Search Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: search_note
+      label: Search Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: search_email
+      label: Search Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: search_phone
+      label: Search Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: search_phone2
+      label: Search Phone
+      hint: null
+      type: text
+      options: []
+      required: false

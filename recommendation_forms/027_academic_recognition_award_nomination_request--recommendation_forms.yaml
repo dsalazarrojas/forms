@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recognition Award Nomination Request
+    pages:
+    - id: 1
+      name: award_nomination_intro
+      label: Academic Recognition Award Nomination
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_name
+      label: Nominator Name
+      hint: Full name of the person submitting the nomination
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Nominator Email
+      hint: Professional email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_institution
+      label: Nominator Institution
+      hint: University or organization where nominator is affiliated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominee_name
+      label: Nominee Name
+      hint: Full name of the person being nominated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_institution
+      label: Nominee Institution
+      hint: University or organization where nominee is affiliated
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominee_position
+      label: Nominee Position
+      hint: Current position or role of the nominee
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: award_category
+      label: Award Category
+      hint: Which award category is this nomination for?
+      type: select_one
+      options:
+      - Outstanding Teaching
+      - Research Excellence
+      - Service to Community
+      - Innovation in Education
+      - Mentorship
+      - Diversity and Inclusion
+      - Other
+      required: true
+    - id: 9
+      name: nomination_justification
+      label: Nomination Justification
+      hint: Why is this person deserving of the award?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: achievements_summary
+      label: Summary of Achievements
+      hint: Brief summary of the nominee's key achievements
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: impact_description
+      label: Impact Description
+      hint: Describe the impact of the nominee's work
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_in_field
+      label: Years in Field
+      hint: How many years has the nominee been active in their field?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: previous_recognitions
+      label: Previous Recognitions
+      hint: What other recognitions has the nominee received?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_documents_attached
+      label: Supporting Documents Attached
+      hint: What supporting documents are included with this nomination?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: relationship_to_nominee
+      label: Relationship to Nominee
+      hint: How do you know the nominee?
+      type: select_one
+      options:
+      - Colleague
+      - Supervisor
+      - Mentee
+      - Collaborator
+      - Student
+      - Other
+      required: true
+    - id: 16
+      name: additional_endorsements
+      label: Additional Endorsements
+      hint: Are there other people who endorse this nomination?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to support this nomination?
+      type: text
+      options: []
+      required: false

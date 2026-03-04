@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehabilitation Center Referral Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: doctor_notes
+      label: Doctor Notes
+      hint: Additional notes for the doctor
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Self''}'
+      - '{''value'': ''Family member''}'
+      - '{''value'': ''Doctor''}'
+      - '{''value'': ''Insurance company''}'
+      required: true
+    - id: 8
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: referral_time
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_dob
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 17
+      name: patient_race
+      label: Race
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''White''}'
+      - '{''value'': ''Black''}'
+      - '{''value'': ''Asian''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 18
+      name: patient_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 19
+      name: patient_ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Asian or Pacific Islander''}'
+      - '{''value'': ''White''}'
+      - '{''value'': ''Black''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 20
+      name: primary_care_provider
+      label: Primary Care
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Doctor''}'
+      - '{''value'': ''Nurse Practitioner''}'
+      - '{''value'': ''Clinic''}'
+      required: true
+    - id: 21
+      name: primary_care_facility
+      label: Facility
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hospital''}'
+      - '{''value'': ''Clinic''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 22
+      name: primary_care_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_condition
+      label: Medical Condition
+      hint: List any medical conditions that need to be referred
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: note
+      label: Note
+      hint: Additional comments or notes
+      type: note
+      options: []
+      required: false

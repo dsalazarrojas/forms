@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transaction Assistance Request Form
+    pages:
+    - id: 1
+      name: transaction_assistance_request_form
+      label: Transaction Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_type
+      label: transaction_type
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      required: false
+    - id: 11
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - agent1
+      - agent2
+      required: false
+    - id: 12
+      name: transaction_details
+      label: Transaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transaction_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Approved
+      - Cancelled
+      required: false

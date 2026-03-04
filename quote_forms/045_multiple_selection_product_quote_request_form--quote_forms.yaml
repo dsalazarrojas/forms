@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Selection Product Quote Request Form
+    pages:
+    - id: 1
+      name: product_quote_request
+      label: Product Quote Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: select_products
+      label: Select Products
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: price_quote
+      label: Price Quote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: note
+      options: []
+      required: false

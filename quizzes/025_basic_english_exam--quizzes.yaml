@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Basic English Exam
+    pages:
+      - id: 1
+        name: section_header_1
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: test_date
+        label: Test date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: level
+        label: English proficiency level
+        hint: null
+        type: select_one
+        options: [Beginner, Elementary, Pre-Intermediate, Intermediate, Upper-Intermediate, Advanced]
+        required: true
+      - id: 6
+        name: section_header_2
+        label: -- Reading Comprehension --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: reading_passage_1
+        label: After reading the passage, what is the main idea?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: reading_q1
+        label: Question 1 - Multiple choice
+        hint: null
+        type: select_one
+        options: [Option A, Option B, Option C, Option D]
+        required: true
+      - id: 9
+        name: reading_q2
+        label: Question 2 - Multiple choice
+        hint: null
+        type: select_one
+        options: [Option A, Option B, Option C, Option D]
+        required: true
+      - id: 10
+        name: section_header_3
+        label: -- Vocabulary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: vocabulary_q1
+        label: What is a synonym for happy?
+        hint: null
+        type: select_one
+        options: [Sad, Joyful, Angry, Bored]
+        required: true
+      - id: 12
+        name: vocabulary_q2
+        label: What does the word persistent mean?
+        hint: null
+        type: select_one
+        options: [Giving up easily, Continuing despite difficulty, Running quickly, Speaking softly]
+        required: true
+      - id: 13
+        name: vocabulary_q3
+        label: Fill in the blank - The weather is very __
+        hint: null
+        type: select_one
+        options: [Clear, Clearly, Clarity, Clarify]
+        required: true
+      - id: 14
+        name: section_header_4
+        label: -- Grammar --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: grammar_q1
+        label: Choose the correct sentence
+        hint: null
+        type: select_one
+        options: [She are going to school, She am going to school, She is going to school, She being go to school]
+        required: true
+      - id: 16
+        name: grammar_q2
+        label: Select the correct verb tense - I __ finished my homework
+        hint: null
+        type: select_one
+        options: [Has, Have, Am, Is]
+        required: true
+      - id: 17
+        name: grammar_q3
+        label: Which sentence uses the correct article?
+        hint: null
+        type: select_one
+        options: [She bought a umbrella, She bought an umbrella, She bought one umbrella, She buys an umbrella]
+        required: true
+      - id: 18
+        name: section_header_5
+        label: -- Writing Skills --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: writing_paragraph
+        label: Write a short paragraph about your favorite place
+        hint: Minimum 50 words
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: sentence_correction
+        label: Correct this sentence - She dont like the blue color
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: section_header_6
+        label: -- Listening Comprehension (Description Based) --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: listening_q1
+        label: What is the main topic of the conversation?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: listening_q2
+        label: What time will they meet?
+        hint: null
+        type: select_one
+        options: [2:00 PM, 3:00 PM, 4:00 PM, 5:00 PM]
+        required: true
+      - id: 24
+        name: overall_comments
+        label: Additional comments about the exam
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: confidence_level
+        label: Your confidence in this test
+        hint: null
+        type: select_one
+        options: [Very Confident, Confident, Somewhat Confident, Not Confident]
+        required: false

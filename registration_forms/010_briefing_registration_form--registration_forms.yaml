@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Briefing Registration Form
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Enter your email for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Enter your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: Enter the name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Enter your current job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_briefing_details
+      label: -- Briefing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: briefing_topic
+      label: Briefing Topic
+      hint: Select the briefing you wish to attend
+      type: select_one
+      options:
+      - Quarterly Business Update
+      - New Product Launch
+      - Policy Changes Overview
+      - Strategic Initiative Preview
+      - Industry Trends Briefing
+      - Technology Update
+      required: true
+    - id: 9
+      name: briefing_date
+      label: Briefing Date
+      hint: Select your preferred briefing date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: briefing_time
+      label: Briefing Time Slot
+      hint: Select your preferred time slot
+      type: select_one
+      options:
+      - Morning Session (9-11 AM)
+      - Midday Session (12-2 PM)
+      - Afternoon Session (3-5 PM)
+      required: true
+    - id: 11
+      name: attendance_mode
+      label: Attendance Mode
+      hint: Select how you will attend
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 12
+      name: section_dietary
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select any dietary restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Describe any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_questions
+      label: Questions for the Briefing
+      hint: Enter any questions you would like addressed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: how_heard
+      label: How did you hear about this briefing
+      hint: Select how you learned about this event
+      type: select_one
+      options:
+      - Email Invitation
+      - Company Intranet
+      - Colleague Referral
+      - Social Media
+      - Website
+      required: false
+    - id: 18
+      name: receive_future_invites
+      label: Receive Future Briefing Invitations
+      hint: Indicate if you would like to receive future invites
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any additional comments or requests
+      type: text
+      options: []
+      required: false

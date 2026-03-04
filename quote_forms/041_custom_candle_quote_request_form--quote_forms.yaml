@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_candle_quote_request_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quote_type
+      label: Quote Type
+      hint: null
+      type: select_one
+      options:
+      - Candle
+      - Votive
+      - Tea Light
+      - Pillar
+      - Taper
+      - Other
+      required: false
+    - id: 3
+      name: quote_size
+      label: Quote Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quote_color
+      label: Quote Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Purple
+      - Yellow
+      required: false
+    - id: 5
+      name: quote_shape
+      label: Quote Shape
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quote_note
+      label: Quote Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quote_email
+      label: Quote Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: quote_phone
+      label: Quote Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quote_shipping_method
+      label: Quote Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - UPS
+      - USPS
+      - FedEx
+      - Local Pick-Up
+      required: false
+    - id: 10
+      name: quote_total
+      label: Quote Total
+      hint: null
+      type: number
+      options: []
+      required: false

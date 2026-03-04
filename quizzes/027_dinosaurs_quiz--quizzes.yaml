@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dinosaurs Quiz
+    pages:
+    - id: 1
+      name: dinosaur_quiz_form_1
+      label: what_is_a_t_rex
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dinosaur_quiz_form_2
+      label: t_rex_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: dinosaur_quiz_form_3
+      label: when_did_t_rex_exist
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: favorite_dinosaur
+      label: favorite_dinosaur
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''t_rex''}'
+      - '{''id'': 2, ''name'': ''triceratops''}'
+      - '{''id'': 3, ''name'': ''velociraptor''}'
+      required: false
+    - id: 5
+      name: email_input
+      label: email_input
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dinosaur_quiz_form_7
+      label: dinosaur_quiz_form_7_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dinosaur_quiz_form_8
+      label: dinosaur_quiz_form_8_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: dinosaur_quiz_form_9
+      label: dinosaur_quiz_form_9_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''t_rex''}'
+      - '{''id'': 2, ''name'': ''triceratops''}'
+      - '{''id'': 3, ''name'': ''velociraptor''}'
+      required: false
+    - id: 10
+      name: dinosaur_quiz_form_10
+      label: dinosaur_quiz_form_10_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''t_rex''}'
+      - '{''id'': 2, ''name'': ''triceratops''}'
+      required: false
+    - id: 11
+      name: dinosaur_quiz_form_11
+      label: dinosaur_quiz_form_11_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''t_rex''}'
+      - '{''id'': 2, ''name'': ''triceratops''}'
+      - '{''id'': 3, ''name'': ''velociraptor''}'
+      required: false
+    - id: 12
+      name: dinosaur_quiz_form_12
+      label: dinosaur_quiz_form_12_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''t_rex''}'
+      - '{''id'': 2, ''name'': ''triceratops''}'
+      - '{''id'': 3, ''name'': ''velociraptor''}'
+      required: false

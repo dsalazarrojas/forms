@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: ADR Networking Event Application
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: '--- Attendee Information ---'
+      hint: Please provide your professional contact details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Confirmation will be sent here.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_firm
+      label: Organization / Law Firm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: professional_role
+      label: Professional Role
+      hint: null
+      type: select_one
+      options:
+      - label: Mediator
+        value: mediator
+      - label: Arbitrator
+        value: arbitrator
+      - label: Attorney
+        value: attorney
+      - label: Academic
+        value: academic
+      - label: Student
+        value: student
+      - label: Other
+        value: other
+      required: true
+    - id: 7
+      name: adr_experience_years
+      label: Years of Experience in ADR
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: interests_header
+      label: '--- Event Interests and Sessions ---'
+      hint: Help us tailor the networking experience.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: areas_of_practice
+      label: Areas of Practice / Interest
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Commercial Mediation
+        value: commercial
+      - label: Family Law
+        value: family
+      - label: Labor and Employment
+        value: labor
+      - label: International Arbitration
+        value: international
+      - label: Community Mediation
+        value: community
+      - label: Online Dispute Resolution (ODR)
+        value: odr
+      required: true
+    - id: 10
+      name: networking_goals
+      label: What are your primary goals for attending this event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_preferences
+      label: Preferred Breakout Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - label: Advanced Mediation Techniques
+        value: advanced_mediation
+      - label: The Future of Arbitration
+        value: future_arbitration
+      - label: Ethics in ADR
+        value: ethics
+      - label: Building a Successful ADR Practice
+        value: practice_building
+      required: true
+    - id: 12
+      name: logistics_header
+      label: '--- Logistics and Dietary Requirements ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions / Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - label: None
+        value: none
+      - label: Vegetarian
+        value: vegetarian
+      - label: Vegan
+        value: vegan
+      - label: Gluten-Free
+        value: gluten_free
+      - label: Dairy-Free
+        value: dairy_free
+      - label: Nut Allergy
+        value: nut_allergy
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Do you have any specific accessibility requirements?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_attendance
+      label: Have you attended an ADR networking event with us before?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 16
+      name: referral_source
+      label: How did you hear about this event?
+      hint: null
+      type: select_one
+      options:
+      - label: Email Invitation
+        value: email
+      - label: LinkedIn
+        value: linkedin
+      - label: Colleague Referral
+        value: colleague
+      - label: Bar Association Website
+        value: bar_association
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Any other comments or questions for the organizers?
+      hint: null
+      type: text
+      options: []
+      required: false

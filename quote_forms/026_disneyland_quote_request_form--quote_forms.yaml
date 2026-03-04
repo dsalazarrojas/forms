@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: disneyland_quote_request_form
+    pages:
+    - id: 1
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_agents
+      label: travel_agents
+      hint: null
+      type: select_multiple
+      options:
+      - Disney
+      - Other
+      - Disney Travel Co
+      required: true
+    - id: 3
+      name: travel_planners
+      label: travel_planners
+      hint: null
+      type: select_one
+      options:
+      - Disneyland
+      - Walt Disney World
+      - Disney Cruise
+      required: true
+    - id: 4
+      name: trip_type
+      label: trip_type
+      hint: null
+      type: select_one
+      options:
+      - Vacation
+      - Business
+      - Pleasure
+      required: true
+    - id: 5
+      name: trip_length
+      label: trip_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: checkin_date
+      label: checkin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: num_adults
+      label: num_adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: num_children
+      label: num_children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: num_rooms
+      label: num_rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: num_travelers
+      label: num_travelers
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_document_archive_request_form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Deed
+      - Lease
+      - Assignment
+      required: true
+    - id: 4
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: document_location
+      label: Document Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: document_date_received
+      label: Document Date Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: document_notes
+      label: Document Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - In progress
+      - Completed
+      required: true
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: document_url
+      label: Document URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: real_estate_office
+      label: Real Estate Office
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: legal_team
+      label: Legal Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

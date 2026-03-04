@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kart Racing Registration Form
+    pages:
+    - id: 1
+      name: racing_event_name
+      label: Racing Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: kart_number
+      label: Kart Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: kart_type
+      label: Kart Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 10
+      name: participant_age_group
+      label: Participant Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - Junior
+      - Senior
+      - Veteran
+      required: false

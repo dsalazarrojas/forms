@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_information_form
+    pages:
+    - id: 1
+      name: address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: city
+      label: city_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: state
+      label: state_code
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Alabama''}'
+      - '{1: ''Alaska''}'
+      - '{2: ''American Samoa''}'
+      - '{3: ''Arizona''}'
+      - '{4: ''Arkansas''}'
+      - '{5: ''Armed Forces - Hawaii''}'
+      - '{6: ''Armed Forces - Washington DC''}'
+      - '{7: ''California''}'
+      - '{8: ''Colorado''}'
+      - '{9: ''Connecticut''}'
+      - '{10: ''Delaware''}'
+      - '{11: ''District of Columbia''}'
+      - '{12: ''Florida''}'
+      - '{13: ''Georgia''}'
+      - '{14: ''Guam''}'
+      - '{15: ''Hawaii''}'
+      - '{16: ''Idaho''}'
+      - '{17: ''Illinois''}'
+      - '{18: ''Indiana''}'
+      - '{19: ''Iowa''}'
+      - '{20: ''Kansas''}'
+      - '{21: ''Kentucky''}'
+      - '{22: ''Louisiana''}'
+      - '{23: ''Maine''}'
+      - '{24: ''Maryland''}'
+      - '{25: ''Massachusetts''}'
+      - '{26: ''Michigan''}'
+      - '{27: ''Minnesota''}'
+      - '{28: ''Mississippi''}'
+      - '{29: ''Missouri''}'
+      - '{30: ''Montana''}'
+      - '{31: ''Nebraska''}'
+      - '{32: ''Nevada''}'
+      - '{33: ''New Hampshire''}'
+      - '{34: ''New Jersey''}'
+      - '{35: ''New Mexico''}'
+      - '{36: ''New York''}'
+      - '{37: ''North Carolina''}'
+      - '{38: ''North Dakota''}'
+      - '{39: ''Northern Mariana Islands''}'
+      - '{40: ''Ohio''}'
+      - '{41: ''Oklahoma''}'
+      - '{42: ''Oregon''}'
+      - '{43: ''Pennsylvania''}'
+      - '{44: ''Puerto Rico''}'
+      - '{45: ''Rhode Island''}'
+      - '{46: ''South Carolina''}'
+      - '{47: ''South Dakota''}'
+      - '{48: ''Tennessee''}'
+      - '{49: ''Texas''}'
+      - '{50: ''Utah''}'
+      - '{51: ''Vermont''}'
+      - '{52: ''Virgin Islands''}'
+      - '{53: ''Virginia''}'
+      - '{54: ''Washington''}'
+      - '{55: ''Washington DC''}'
+      - '{56: ''West Virginia''}'
+      - '{57: ''Wisconsin''}'
+      - '{58: ''Wyoming''}'
+      required: false
+    - id: 4
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{0: ''Condo''}'
+      - '{1: ''Townhouse''}'
+      - '{2: ''Single Family Home''}'
+      - '{3: ''Apartment''}'
+      - '{4: ''Other''}'
+      required: false
+    - id: 6
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''New''}'
+      - '{1: ''Used''}'
+      - '{2: ''Other''}'
+      required: false
+    - id: 7
+      name: square_footage
+      label: square_footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lot_size
+      label: lot_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: year_built
+      label: year_built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: bedrooms
+      label: bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: bathrooms
+      label: bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Active''}'
+      - '{1: ''Sold''}'
+      - '{2: ''Leased''}'
+      - '{3: ''Inactive''}'
+      required: false
+    - id: 13
+      name: property_agent
+      label: property_agent
+      hint: null
+      type: select_one
+      options:
+      - '{0: ''Real Estate Agent 1''}'
+      - '{1: ''Real Estate Agent 2''}'
+      - '{2: ''Real Estate Agent 3''}'
+      - '{3: ''Other''}'
+      required: false
+    - id: 14
+      name: lead_agent_name
+      label: lead_agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lead_agent_number
+      label: lead_agent_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lead_agent_email
+      label: lead_agent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: lead_agent_phone
+      label: lead_agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: listing_agent_name
+      label: listing_agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: listing_agent_number
+      label: listing_agent_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: listing_agent_email
+      label: listing_agent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: listing_agent_phone
+      label: listing_agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_type2
+      label: property_type2
+      hint: null
+      type: text
+      options: []
+      required: false

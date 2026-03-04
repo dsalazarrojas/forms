@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Club Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- PERSONAL INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_postal_code
+      label: Zip/Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_vehicle_details
+      label: -- VEHICLE DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_make
+      label: Vehicle make
+      hint: e.g., Honda, Ford, Toyota
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_license_plate
+      label: License plate number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_modifications
+      label: -- VEHICLE MODIFICATIONS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: modifications_list
+      label: List any modifications made to the vehicle
+      hint: Engine, suspension, paint, interior, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: performance_upgrades
+      label: Performance upgrades? (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Turbocharger
+      - Supercharger
+      - Exhaust System
+      - Air Intake
+      - Suspension Lowering
+      - Brakes
+      - Transmission
+      - Other
+      required: false
+    - id: 21
+      name: exterior_modifications
+      label: Exterior modifications? (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Custom Paint
+      - Wheels/Rims
+      - Body Kit
+      - Spoiler
+      - Lowered Height
+      - Lift Kit
+      - Custom Lights
+      - Wrap
+      required: false
+    - id: 22
+      name: section_membership
+      label: -- MEMBERSHIP INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: membership_level
+      label: Desired membership level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - VIP
+      - Lifetime
+      required: true
+    - id: 24
+      name: membership_interests
+      label: Club interests (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly Meetups
+      - Track Events
+      - Car Shows
+      - Autocross
+      - Road Trips
+      - Technical Workshops
+      - Social Events
+      required: false
+    - id: 25
+      name: how_heard_about_club
+      label: How did you hear about our club?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Friend Referral
+      - Web Search
+      - Car Show
+      - Local Event
+      - Advertisement
+      - Other
+      required: false

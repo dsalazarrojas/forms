@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_recommendation_quiz
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: What type of vehicle do you drive?
+      hint: null
+      type: select_one
+      options:
+      - SUV
+      - Truck
+      - Van
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: What year is your vehicle?
+      hint: null
+      type: select_one
+      options:
+      - '2015'
+      - '2016'
+      - '2017'
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: What model is your vehicle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_color
+      label: What color is your vehicle?
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 5
+      name: vehicle_condition
+      label: What is the vehicle's condition?
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Certified Pre-Owned
+      required: false
+    - id: 6
+      name: vehicle_mileage
+      label: How many miles is your vehicle?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_engine_type
+      label: What type of engine does your vehicle have?
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      required: false
+    - id: 8
+      name: vehicle_purpose
+      label: What is the primary purpose of your vehicle?
+      hint: null
+      type: select_one
+      options:
+      - Commute
+      - Road Trip
+      - Off-Road
+      required: false
+    - id: 9
+      name: vehicle_purpose_other
+      label: Other (please describe)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_purpose_other_text
+      label: Please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

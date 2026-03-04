@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: property-management-processes
+    pages:
+    - id: 1
+      name: property_management
+      label: property_management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 4
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: Enter phone numbers separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: email_address
+      hint: Enter multiple email addresses separated by commas
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_address
+      label: manager_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false

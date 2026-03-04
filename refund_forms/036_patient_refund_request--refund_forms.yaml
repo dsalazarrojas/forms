@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Refund Request
+    pages:
+    - id: 1
+      name: patient_treatment_id
+      label: Patient treatment id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_refund
+      label: Reason for refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: refund_amount
+      label: Refund amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: patient_id
+      label: Patient id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_id
+      label: Staff id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitted_at
+      label: Submitted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: assigned_by
+      label: Assigned by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: due_date
+      label: Due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: assigned_status
+      label: Assigned status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: submitted_status
+      label: Submitted status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

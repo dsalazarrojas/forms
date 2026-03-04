@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Drone Inspection Application Form
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address3
+      label: Address 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: drone_inspection_type
+      label: Drone Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: drone_inspection_date
+      label: Drone Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: drone_inspection_time
+      label: Drone Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

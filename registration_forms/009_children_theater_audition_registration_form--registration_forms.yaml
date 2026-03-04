@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Theater Audition Registration Form
+    pages:
+    - id: 1
+      name: child_information
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Current age in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: false
+    - id: 7
+      name: child_email
+      label: Child Email Address
+      hint: If applicable
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: parent_information
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_email
+      label: Parent Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: experience_section
+      label: -- Theater Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: previous_experience
+      label: Previous theater or performance experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - School plays
+      - Community theater
+      - Professional experience
+      - Other
+      required: true
+    - id: 18
+      name: experience_details
+      label: Please describe any relevant experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: singing_ability
+      label: Singing ability level
+      hint: null
+      type: select_one
+      options:
+      - Non-singer
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 20
+      name: dancing_ability
+      label: Dancing ability level
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 21
+      name: audition_details
+      label: -- Audition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: role_preferences
+      label: Role preferences or character interests
+      hint: Select if applicable
+      type: select_multiple
+      options:
+      - Lead role
+      - Supporting role
+      - Ensemble
+      - Any role
+      required: true
+    - id: 23
+      name: audition_song
+      label: Prepared song or monologue
+      hint: What will you perform
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_skills
+      label: Special skills or talents
+      hint: Instruments, martial arts, gymnastics, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: availability
+      label: Availability for rehearsals and performances
+      hint: null
+      type: select_one
+      options:
+      - Weekdays only
+      - Weekends only
+      - Both weekdays and weekends
+      - Limited availability
+      required: true

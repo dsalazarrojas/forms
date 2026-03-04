@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridge World Series Tournament Entry Form
+    pages:
+    - id: 1
+      name: section_team_info
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: Enter your team name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_captain_name
+      label: Team Captain Name
+      hint: Enter the full name of the team captain
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: captain_email
+      label: Captain Email Address
+      hint: Enter a valid email for tournament correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: captain_phone
+      label: Captain Phone Number
+      hint: Enter a contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bridge_club_affiliation
+      label: Bridge Club Affiliation
+      hint: Enter the name of your bridge club if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city_country
+      label: City and Country
+      hint: Enter your city and country of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_players
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: player_1_name
+      label: Player 1 Name
+      hint: Enter the full name of player 1
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: player_1_master_points
+      label: Player 1 Master Points
+      hint: Enter the current master points total
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: player_2_name
+      label: Player 2 Name
+      hint: Enter the full name of player 2
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: player_2_master_points
+      label: Player 2 Master Points
+      hint: Enter the current master points total
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: player_3_name
+      label: Player 3 Name
+      hint: Enter the full name of player 3
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: player_3_master_points
+      label: Player 3 Master Points
+      hint: Enter the current master points total
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: player_4_name
+      label: Player 4 Name
+      hint: Enter the full name of player 4
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: player_4_master_points
+      label: Player 4 Master Points
+      hint: Enter the current master points total
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_tournament
+      label: -- Tournament Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_category
+      label: Event Category
+      hint: Select the tournament category
+      type: select_one
+      options:
+      - Open Pairs
+      - Open Teams
+      - Mixed Pairs
+      - Mixed Teams
+      - Senior Pairs
+      - Junior Teams
+      required: true
+    - id: 19
+      name: skill_level
+      label: Skill Level
+      hint: Select the skill level bracket
+      type: select_one
+      options:
+      - Flight A - Unlimited
+      - Flight B - 0-2000 MP
+      - Flight C - 0-500 MP
+      required: true
+    - id: 20
+      name: preferred_system
+      label: Preferred Bidding System
+      hint: Select your primary bidding system
+      type: select_one
+      options:
+      - Standard American
+      - 2/1 Game Forcing
+      - Precision
+      - Acol
+      - Other
+      required: true
+    - id: 21
+      name: special_requirements
+      label: Special Requirements or Requests
+      hint: Enter any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_agreement
+      label: -- Registration Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: entry_fee
+      label: Entry Fee Payment Method
+      hint: Select your preferred payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      required: true
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: Enter emergency contact information
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: Confirm that you agree to tournament rules
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

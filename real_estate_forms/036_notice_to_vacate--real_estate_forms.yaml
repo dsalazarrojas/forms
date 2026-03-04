@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: notice_to_vacate
+    pages:
+    - id: 1
+      name: property_id
+      label: Property Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_vacate
+      label: Date of Vacate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_vacate
+      label: Reason for Vacate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: select_one
+      options:
+      - Thirty (30) days
+      - Fifteen (15) days
+      - Seven (7) days
+      required: false
+    - id: 10
+      name: notice_to_vacate
+      label: Notice to Vacate
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

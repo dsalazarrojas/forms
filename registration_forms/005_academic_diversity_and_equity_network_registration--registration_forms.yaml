@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Diversity And Equity Network Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Network Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Name as you prefer to be listed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Institutional or primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: Institution or organization
+      hint: Your employer or academic institution
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: Select your role
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Staff
+        - Administrator
+        - Other
+      required: true
+    - id: 6
+      name: areas_of_interest
+      label: Areas of interest
+      hint: Select relevant DEI topics
+      type: select_multiple
+      options:
+        - Policy development
+        - Training and workshops
+        - Research
+        - Community outreach
+      required: false
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Indicate any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_to_share_contact
+      label: Consent to share contact with network
+      hint: Agree to have name and email shared
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 9
+      name: availability
+      label: Availability for events or meetings
+      hint: Typical days or times
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else to add about interests or goals
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Archery Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: relationship_to_emergency
+      label: Relationship to Applicant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_archery_experience
+      label: -- Archery Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: experience_level
+      label: Archery Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 14
+      name: years_of_experience
+      label: Years of Archery Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: why_join_club
+      label: Why do you want to join the club?
+      hint: Your interests and goals
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_preferences
+      label: -- Program Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: program_interest
+      label: Program of Interest
+      hint: null
+      type: select_one
+      options:
+      - Target archery
+      - 3D field archery
+      - Competition
+      - Recreation
+      - Instruction
+      required: true
+    - id: 18
+      name: bow_type
+      label: Bow Type
+      hint: null
+      type: select_one
+      options:
+      - Recurve
+      - Compound
+      - Longbow
+      - No preference
+      required: false
+    - id: 19
+      name: preferred_schedule
+      label: Preferred Meeting Times
+      hint: null
+      type: select_multiple
+      options:
+      - Monday evening
+      - Wednesday evening
+      - Saturday morning
+      - Saturday afternoon
+      - Sunday morning
+      required: false
+    - id: 20
+      name: section_waiver
+      label: -- Membership Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: waiver_agree
+      label: I agree to the membership agreement and liability waiver
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: membership_fee_paid
+      label: Membership fee payment received
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

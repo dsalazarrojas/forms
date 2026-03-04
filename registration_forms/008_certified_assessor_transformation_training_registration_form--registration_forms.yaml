@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certified Assessor Transformation Training Registration Form
+    pages:
+    - id: 1
+      name: section_registration_basics
+      label: -- Registration Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_participant_full_name
+      label: Participant Full Name
+      hint: Enter your name as you wish it to appear on your certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: training_participant_email
+      label: Participant Email Address
+      hint: For training updates and materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: training_participant_phone
+      label: Participant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_current_job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_organization_name
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_training_selection
+      label: -- Training Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: transformation_training_level
+      label: Training Level
+      hint: Select the training level you are registering for
+      type: select_one
+      options:
+      - Level 1 - Foundational Assessor
+      - Level 2 - Advanced Assessor
+      - Level 3 - Lead Transformation Assessor
+      - Recertification Training
+      required: true
+    - id: 9
+      name: transformation_training_location
+      label: Training Location Preference
+      hint: Choose your preferred training delivery method
+      type: select_one
+      options:
+      - In-Person (Headquarters)
+      - Regional Satellite Office
+      - Live Virtual Workshop
+      - Self-Paced Online (Limited Modules)
+      required: true
+    - id: 10
+      name: preferred_training_date_cycle
+      label: Preferred Training Cycle
+      hint: Select the upcoming cycle you wish to join
+      type: select_one
+      options:
+      - Quarter 1 (January - March)
+      - Quarter 2 (April - June)
+      - Quarter 3 (July - September)
+      - Quarter 4 (October - December)
+      required: true
+    - id: 11
+      name: section_qualifications_background
+      label: -- Qualifications and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: years_of_assessment_experience
+      label: Years of Assessment Experience
+      hint: How many years have you worked in an assessor role?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: current_assessor_certifications
+      label: Current Assessor Certifications Held
+      hint: List any related certifications you currently hold
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: primary_assessment_domain_focus
+      label: Primary Assessment Domain Focus
+      hint: Which area do you primarily assess?
+      type: select_one
+      options:
+      - Technical and IT
+      - Operational and Quality
+      - Leadership and Management
+      - Soft Skills and Behavioral
+      - Compliance and Regulatory
+      - Educational and Academic
+      required: true
+    - id: 15
+      name: section_additional_needs
+      label: -- Additional Needs and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: dietary_requirements_preferences
+      label: Dietary Requirements (In-Person Only)
+      hint: Please list any food allergies or dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs_training
+      label: Accessibility Accommodations Needed
+      hint: Please describe any accessibility needs for the training
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_enrollment_confirmation
+      label: -- Enrollment Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method_training
+      label: Payment Method
+      hint: Select how your training will be funded
+      type: select_one
+      options:
+      - Corporate Sponsorship (Invoice Required)
+      - Personal Credit Card
+      - Scholarship Awarded
+      - Government Funding Grant
+      required: true
+    - id: 20
+      name: training_attendance_agreement
+      label: Training Attendance Agreement
+      hint: I agree to attend all scheduled modules for the selected training level
+      type: select_one
+      options:
+      - I Agree and Commit
+      - Other
+      required: true
+    - id: 21
+      name: training_registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: referral_source_training
+      label: How did you hear about this training?
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Professional Organization
+      - Internal HR Announcement
+      - Other
+      required: false

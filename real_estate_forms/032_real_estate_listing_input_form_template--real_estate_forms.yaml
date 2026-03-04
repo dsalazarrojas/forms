@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_listing_input_form_template
+    pages:
+    - id: 1
+      name: listing_submission
+      label: ListingSubmission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: listing_details
+      label: listing_details
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: listing_address
+      label: listing_address
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: listing_features
+      label: listing_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agent_info
+      label: agent_info
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 6
+      name: property_manager_info
+      label: property_manager_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_description
+      label: property_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_images
+      label: property_images
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: property_video
+      label: property_video
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: property_price
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: listing_status
+      label: listing_status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 12
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 13
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: property_beds
+      label: property_beds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: property_baths
+      label: property_baths
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: property_sqft
+      label: property_sqft
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: property_lot_sqft
+      label: property_lot_sqft
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: property_year_built
+      label: property_year_built
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: property_year_renovated
+      label: property_year_renovated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: property_zip
+      label: property_zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: agent_email
+      label: agent_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: agent_phone
+      label: agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_manager_name
+      label: property_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_manager_email
+      label: property_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false

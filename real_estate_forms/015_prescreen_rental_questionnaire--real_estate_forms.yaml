@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescreen Rental Questionnaire
+    pages:
+    - id: 1
+      name: rental_property_address
+      label: rental property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_date_start
+      label: rental date start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rental_date_end
+      label: rental date end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: move_in_date
+      label: move in date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: credit_score
+      label: credit score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: annual_income
+      label: annual income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_one
+      options:
+      - Self-Employed
+      - Employed
+      - Retired
+      - Unemployed
+      - Disabled
+      required: false
+    - id: 11
+      name: employment_type
+      label: employment type
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Self-Employed
+      - Seasonal
+      required: false
+    - id: 12
+      name: rental_history
+      label: rental history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: criminal_record
+      label: criminal record
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

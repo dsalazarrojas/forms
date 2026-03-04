@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brigade Callout Registration Form
+    pages:
+    - id: 1
+      name: section_member_info
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_id
+      label: Member ID Number
+      hint: Enter your brigade member ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Enter a valid email for communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Primary Phone Number
+      hint: Enter your primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: secondary_phone
+      label: Secondary Phone Number
+      hint: Enter an alternate contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: Enter your residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_role_info
+      label: -- Role and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: brigade_unit
+      label: Brigade Unit
+      hint: Select your assigned unit
+      type: select_one
+      options:
+      - Unit A
+      - Unit B
+      - Unit C
+      - Support Unit
+      - Command Staff
+      required: true
+    - id: 10
+      name: current_role
+      label: Current Role
+      hint: Select your current role
+      type: select_one
+      options:
+      - Firefighter
+      - Team Leader
+      - Driver
+      - Communications Officer
+      - Medical Responder
+      - Support Staff
+      required: true
+    - id: 11
+      name: years_of_service
+      label: Years of Service
+      hint: Enter your total years of service
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: certifications_held
+      label: Certifications Held
+      hint: Select all relevant certifications you hold
+      type: select_multiple
+      options:
+      - First Aid
+      - CPR
+      - Advanced Life Support
+      - Hazardous Materials
+      - Wildland Firefighting
+      - Technical Rescue
+      - Incident Command
+      required: true
+    - id: 13
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: on_call_status
+      label: On-Call Status
+      hint: Select your current on-call availability
+      type: select_one
+      options:
+      - Available 24/7
+      - Weekdays Only
+      - Weekends Only
+      - Evenings Only
+      - Limited Availability
+      - Temporarily Unavailable
+      required: true
+    - id: 15
+      name: primary_response_area
+      label: Primary Response Area
+      hint: Select your preferred response zone
+      type: select_one
+      options:
+      - Zone 1 - North
+      - Zone 2 - South
+      - Zone 3 - East
+      - Zone 4 - West
+      - Zone 5 - Central
+      required: true
+    - id: 16
+      name: response_time_minutes
+      label: Estimated Response Time (minutes)
+      hint: Enter your estimated travel time to station
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: blackout_dates
+      label: Blackout Dates or Unavailable Periods
+      hint: List any dates you will be unavailable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter the name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: Enter the relationship
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter the phone number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions or Limitations
+      hint: Describe any conditions that may affect duty
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Enter any additional information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Detailed Real Estate
+    pages:
+    - id: 1
+      name: buy_sell_lease
+      label: Buy or Sell
+      hint: null
+      type: select_one
+      options:
+      - Buy
+      - Sell
+      - Lease
+      required: true
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: Select one from the list
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      - Townhouse
+      - Land
+      - Landscaping
+      required: true
+    - id: 3
+      name: time_period
+      label: Time Period
+      hint: null
+      type: select_multiple
+      options:
+      - Immediate
+      - Within a week
+      - Within a month
+      - Within 3 months
+      - Within 6 months
+      required: true
+    - id: 4
+      name: note
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: desired_price
+      label: Desired Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

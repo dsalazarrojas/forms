@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_book_requisition_form
+    pages:
+    - id: 1
+      name: required_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: example@email.com
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option 1''}'
+      - '{''id'': 2, ''label'': ''option 2''}'
+      - '{''id'': 3, ''label'': ''option 3''}'
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note_1
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: select_1
+      label: Select
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''option 1''}'
+      - '{''id'': 2, ''label'': ''option 2''}'
+      - '{''id'': 3, ''label'': ''option 3''}'
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: required_name_2
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email_1
+      label: Email 1
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: required_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: select_2
+      label: Select 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: note_3
+      label: Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: time_1
+      label: Time 1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: required_note_1
+      label: Required Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: select_3
+      label: Select 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: required_email
+      label: Email 1
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: required_select_1
+      label: Required Select
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''option 1''}'
+      - '{''id'': 2, ''label'': ''option 2''}'
+      - '{''id'': 3, ''label'': ''option 3''}'
+      required: true
+    - id: 21
+      name: required_phone_1
+      label: Required Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: required_note_2
+      label: Required Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: select_4
+      label: Select 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: note_4
+      label: Note 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: required_select_2
+      label: Required Select 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''option 1''}'
+      - '{''id'': 2, ''label'': ''option 2''}'
+      - '{''id'': 3, ''label'': ''option 3''}'
+      required: false

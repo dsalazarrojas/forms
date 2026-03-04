@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Consultant Quote Form
+    pages:
+    - id: 1
+      name: risk_consultant_quote_form_client
+      label: Risk Consultant Quote Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_consultant_quote_form_risk_consultant
+      label: Risk Consultant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_consultant_quote_form_client_type
+      label: Client Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''individual''}'
+      - '{''value'': ''corporate''}'
+      required: false
+    - id: 4
+      name: risk_consultant_quote_form_risk_consultant_experience
+      label: Risk Consultant Experience
+      hint: Years of experience
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: risk_consultant_quote_form_risk_consultant_specialization
+      label: Specialization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_consultant_quote_form_client_requirements
+      label: Client Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_consultant_quote_form_risk_consultant_note
+      label: Risk Consultant Note
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: risk_consultant_quote_form_risk_consultant_quote
+      label: Risk Consultant Quote
+      hint: null
+      type: text
+      options: []
+      required: false

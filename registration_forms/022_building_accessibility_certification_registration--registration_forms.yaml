@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Accessibility Certification Registration
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: building_name
+      label: Building Name
+      hint: Official name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_address
+      label: Building Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: building_type
+      label: Building Type
+      hint: Classification
+      type: select_one
+      options:
+      - Commercial Office
+      - Residential
+      - Mixed Use
+      - Retail
+      - Industrial
+      - Public Assembly
+      - Educational
+      - Healthcare
+      - Government
+      required: true
+    - id: 13
+      name: year_constructed
+      label: Year Constructed
+      hint: Year built
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: year_renovated
+      label: Year Last Renovated
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_square_footage
+      label: Total Square Footage
+      hint: Building size
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: number_of_floors
+      label: Number of Floors
+      hint: Total floors
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: certification_type
+      label: Certification Type
+      hint: Type of certification sought
+      type: select_one
+      options:
+      - ADA Compliance
+      - Universal Design
+      - Accessibility Standards
+      - Full Accessibility Audit
+      - Renewal Certification
+      - Partial Assessment
+      required: true
+    - id: 18
+      name: accessibility_features
+      label: Accessibility Features Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wheelchair Ramps
+      - Accessible Parking
+      - Elevators
+      - Accessible Restrooms
+      - Braille Signage
+      - Audible Signals
+      - Automatic Doors
+      - Wide Doorways
+      - Accessible Counters
+      - Tactile Flooring
+      - Visual Alarms
+      - Accessible Seating
+      required: true
+    - id: 19
+      name: previous_certification
+      label: Previous Certification
+      hint: Have you been certified before
+      type: select_one
+      options:
+      - Yes - Current
+      - Yes - Expired
+      - No - First Time
+      required: true
+    - id: 20
+      name: previous_cert_date
+      label: Previous Certification Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: compliance_status
+      label: Current Compliance Status
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Not Compliant
+      - Unknown
+      required: true
+    - id: 22
+      name: known_barriers
+      label: Known Accessibility Barriers
+      hint: Describe any known issues
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: documentation_attached
+      label: Documentation Attached
+      hint: Supporting documents
+      type: select_one
+      options:
+      - Yes - Floor Plans
+      - Yes - Photos
+      - Yes - Previous Reports
+      - Yes - Multiple Documents
+      - No - Will Provide Later
+      required: true
+    - id: 24
+      name: preferred_inspection_date
+      label: Preferred Inspection Date
+      hint: When can we inspect
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special considerations
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: declaration
+      label: Information Accuracy Declaration
+      hint: I declare this information is accurate
+      type: select_one
+      options:
+      - Yes - I Declare
+      - false
+      required: true

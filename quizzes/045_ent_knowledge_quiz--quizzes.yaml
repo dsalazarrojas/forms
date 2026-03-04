@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: ent_knowledge_quiz
+    pages:
+    - id: 1
+      name: page_1
+      label: ENT Knowledge Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: ENT concepts
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Concept 1'', ''value'': ''concept_1''}'
+      - '{''text'': ''Concept 2'', ''value'': ''concept_2''}'
+      - '{''text'': ''Concept 3'', ''value'': ''concept_3''}'
+      required: false
+    - id: 3
+      name: page_3
+      label: Scale questions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Multiple choice questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''text'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''text'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 5
+      name: page_5
+      label: Checkboxes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Checkbox 1'', ''value'': ''checkbox_1''}'
+      - '{''text'': ''Checkbox 2'', ''value'': ''checkbox_2''}'
+      - '{''text'': ''Checkbox 3'', ''value'': ''checkbox_3''}'
+      required: false

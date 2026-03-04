@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: simple_quiz_template
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions
+      label: quiz_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quiz_title
+      label: quiz_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_type
+      label: question_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question_text
+      label: question_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: correct_answer_choice
+      label: correct_answer_choice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: correct_answer_choice_2
+      label: correct_answer_choice_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

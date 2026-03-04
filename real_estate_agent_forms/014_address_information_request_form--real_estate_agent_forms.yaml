@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Address Information Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Address Information Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_license
+      label: Real Estate License Number
+      hint: Your professional real estate license number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_company
+      label: Real Estate Company
+      hint: Name of your real estate agency or company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_email
+      label: Email Address
+      hint: Professional email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: requester_phone
+      label: Phone Number
+      hint: Professional phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: Name of the client whose address information is requested
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_property_address
+      label: Property Address
+      hint: Address of the property in question
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_property_city
+      label: Property City
+      hint: City of the property
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_property_state
+      label: Property State
+      hint: State of the property
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client_property_zip
+      label: Property ZIP Code
+      hint: ZIP code of the property
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: requested_address_type
+      label: Type of Address Information Requested
+      hint: What specific address information do you need?
+      type: select_one
+      options:
+      - Current address
+      - Previous addresses
+      - Mailing address
+      - Property deed address
+      - Tax assessor records
+      - All available addresses
+      required: true
+    - id: 13
+      name: request_purpose
+      label: Purpose of Request
+      hint: Why do you need this address information?
+      type: select_one
+      options:
+      - Property transaction
+      - Due diligence
+      - Market analysis
+      - Client verification
+      - Legal proceeding
+      - Other
+      required: true
+    - id: 14
+      name: request_date_range
+      label: Date Range for Records
+      hint: What time period of address records do you need?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_consent
+      label: Client Consent
+      hint: Do you have written consent from the client to request this information?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In progress
+      required: true
+    - id: 16
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Upload any supporting documents for this request
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: urgency_level
+      label: Request Urgency
+      hint: How quickly do you need this information?
+      type: select_one
+      options:
+      - Standard - 5-7 business days
+      - Rush - 2-3 business days
+      - Emergency - 24 hours
+      required: true
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you like to be contacted about this request?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text message
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information about this request
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: request_date
+      label: Request Date
+      hint: Date of submitting this request
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: requester_signature
+      label: Requester Signature
+      hint: Electronic signature to confirm this request
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Has your supervisor approved this request?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not required
+      required: false

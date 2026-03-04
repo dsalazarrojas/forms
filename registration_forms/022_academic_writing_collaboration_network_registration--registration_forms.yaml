@@ -1,0 +1,160 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Writing Collaboration Network Registration
+    pages:
+    - id: 1
+      name: section_member_profile
+      label: -- Member Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Full Name
+      hint: As you wish to be displayed in the network
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institutional_affiliation
+      label: Institutional Affiliation
+      hint: University, Research Center, or Organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: professional_email
+      label: Contact Email
+      hint: For network communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: academic_field
+      label: Primary Academic Field or Discipline
+      hint: e.g. Sociology, Physics, Literature
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_research
+      label: -- Research and Writing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: research_interests
+      label: Specific Research Interests or Keywords
+      hint: Separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: collaboration_types
+      label: Types of collaboration you are open to
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Peer Reviewing
+      - Co-authoring
+      - Brainstorming Sessions
+      - Proofreading
+      - Data Sharing
+      required: true
+    - id: 9
+      name: career_stage
+      label: Current Career Stage
+      hint: Helps in matching partners
+      type: select_one
+      options:
+      - Ph.D. Candidate
+      - Early Career Researcher
+      - Senior Faculty
+      - Independent Scholar
+      required: true
+    - id: 10
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: communication_channel
+      label: Preferred communication channel
+      hint: Primary way to stay in touch
+      type: select_one
+      options:
+      - Email
+      - Slack
+      - WhatsApp
+      - Video Call
+      required: true
+    - id: 12
+      name: collaboration_frequency
+      label: Desired frequency of interaction
+      hint: How often do you want to connect?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Project-based
+      required: true
+    - id: 13
+      name: previous_publications
+      label: Briefly list 2-3 recent publications or projects
+      hint: Evidence of recent work
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: available_time_zones
+      label: Time zones you can collaborate in
+      hint: For scheduling meetings
+      type: select_multiple
+      options:
+      - GMT
+      - EST
+      - PST
+      - CET
+      - IST
+      - AEST
+      required: true
+    - id: 16
+      name: section_networking
+      label: -- Networking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: profile_visibility
+      label: Allow your profile to be visible to other members?
+      hint: Privacy setting within the network
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true

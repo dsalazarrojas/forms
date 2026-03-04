@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_open_house_feedback_form
+    pages:
+    - id: 1
+      name: open_house_visit_date
+      label: Open House Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: open_house_visit_time
+      label: Open House Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: open_house_location
+      label: Open House Location
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 4
+      name: open_house_contact
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 5
+      name: open_house_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: real_estate_agent_name
+      label: Real Estate Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: real_estate_open_house_feedback
+      label: Open House Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: open_house_rating
+      label: Open House Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: open_house_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

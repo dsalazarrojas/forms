@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Therapy Subscription Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Monthly''}'
+      - Quarterly
+      - Annually
+      required: false
+    - id: 4
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Daily''}'
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: select_one
+      options:
+      - '15'
+      - '30'
+      - '45'
+      - '60'
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check Payment
+      required: false
+    - id: 7
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Every week''}'
+      - Every two weeks
+      - Every three weeks
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Partial
+      required: false
+    - id: 12
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      required: false
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip_code
+      label: Zip/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: therapist_info
+      label: Therapist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Admission Form
+    pages:
+    - id: 1
+      name: section_applicant_info_adm
+      label: -- Applicant Information --
+      hint: Please fill out all required fields to register for admission.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name_adm
+      label: Full Name of Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_gender_adm
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: applicant_dob_adm
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address_adm
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_email_adm
+      label: Email Address
+      hint: For admission status and communication
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: applicant_phone_adm
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_emergency_contact_adm
+      label: -- Emergency Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name_adm
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relation_adm
+      label: Relationship to Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone_adm
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_admission_details
+      label: -- Admission and Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: membership_type_requested
+      label: Type of Membership Requested
+      hint: null
+      type: select_one
+      options:
+      - Annual Membership
+      - Monthly Membership
+      - Day Pass
+      - Senior/Student Discount
+      - Family Membership
+      required: true
+    - id: 14
+      name: primary_program_interest
+      label: What is your primary interest for joining the community center
+      hint: Select one
+      type: select_one
+      options:
+      - Sports and Recreation
+      - Health and Wellness
+      - Arts and Culture
+      - Youth Programs
+      - Senior Social Activities
+      - Special Events
+      required: true
+    - id: 15
+      name: referred_by_adm
+      label: How did you hear about our community center
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Word of Mouth
+      - Flyer/Poster
+      - Local News
+      required: false
+    - id: 16
+      name: section_final_consent
+      label: -- Final Consent and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: center_rules_acknowledgment
+      label: I agree to abide by the Community Center's rules and regulations
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 18
+      name: date_of_submission_adm
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: applicant_signature_digital_adm
+      label: Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

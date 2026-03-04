@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Internet Quote Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Internet Service Quote --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Name of the business requesting quote
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact name
+      hint: Primary contact for installation and billing
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For sending proposal and schedule
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: service_address
+      label: Service address
+      hint: Address where internet service will be installed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: required_speed
+      label: Required speed
+      hint: Select target bandwidth
+      type: select_one
+      options:
+      - 50 Mbps
+      - 100 Mbps
+      - 200 Mbps
+      - 500 Mbps or more
+      required: true
+    - id: 7
+      name: contract_length
+      label: Contract length
+      hint: Preferred contract term
+      type: select_one
+      options:
+      - Month to month
+      - 12 months
+      - 24 months
+      required: false
+    - id: 8
+      name: number_of_users
+      label: Number of users
+      hint: Approximate number of concurrent users
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_services
+      label: Additional services
+      hint: Optional add ons for the service
+      type: select_multiple
+      options:
+      - Static IP
+      - Managed WiFi
+      - Network security
+      required: false
+    - id: 10
+      name: best_time_to_contact
+      label: Best time to contact
+      hint: Preferred contact windows
+      type: text
+      options: []
+      required: false

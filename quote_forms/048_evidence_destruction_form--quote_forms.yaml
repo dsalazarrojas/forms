@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evidence Destruction Form
+    pages:
+    - id: 1
+      name: destruction_form
+      label: destruction_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: inventory_form
+      label: inventory_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: destruction_date
+      label: destruction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: destruction_time
+      label: destruction_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

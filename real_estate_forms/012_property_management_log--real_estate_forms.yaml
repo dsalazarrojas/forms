@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Log
+    pages:
+    - id: 1
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 4
+      name: maintenance_activities
+      label: Maintenance Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_issues
+      label: Tenant Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

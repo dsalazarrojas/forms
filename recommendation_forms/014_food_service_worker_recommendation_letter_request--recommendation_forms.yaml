@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Service Worker Recommendation Letter Request
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recommender_name
+      label: Recommender Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recommender_position
+      label: Recommender Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: recommender_title
+      label: Recommender Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recommender_email
+      label: Recommender Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: recommender_phone
+      label: Recommender Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reference_period
+      label: Reference Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: recommender_signature
+      label: Recommender Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_name_signature
+      label: Applicant Name Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recommender_signature_date
+      label: Recommender Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: recommender_note
+      label: Recommender Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: recommender_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Neutral
+      required: true
+    - id: 13
+      name: recommender_agree_date
+      label: Agree Date
+      hint: null
+      type: date
+      options: []
+      required: true

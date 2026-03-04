@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Leasing License Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_address
+      label: Current residential address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_zip
+      label: State and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ssn
+      label: Social Security Number
+      hint: Last 4 digits only
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: drivers_license_number
+      label: Driver's License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: drivers_license_state
+      label: Driver's License State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: experience_real_estate
+      label: Years of experience in real estate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: previous_licenses
+      label: Have you held real estate licenses before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: previous_license_details
+      label: Details of previous licenses
+      hint: Type, state, dates
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: license_type_applying
+      label: Type of license applying for
+      hint: null
+      type: select_one
+      options:
+      - Individual lease agent
+      - Property manager
+      - Broker
+      - Other
+      required: true
+    - id: 17
+      name: criminal_record
+      label: Do you have any criminal convictions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 18
+      name: criminal_details
+      label: If yes, please provide details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: education_background
+      label: Highest level of education
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Professional certification
+      - Other
+      required: true
+    - id: 20
+      name: real_estate_training
+      label: Real estate training or certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sponsoring_broker
+      label: Sponsoring broker or company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: sponsoring_company_address
+      label: Sponsoring company address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: employment_start_date
+      label: Proposed employment start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: references
+      label: Professional references provided
+      hint: Minimum 2 references
+      type: select_one
+      options:
+      - Yes, provided
+      - Will provide
+      - Not provided
+      required: true
+    - id: 25
+      name: background_check_authorization
+      label: I authorize background check
+      hint: null
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 26
+      name: terms_agreement
+      label: I agree to license terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 27
+      name: application_signature_date
+      label: Application signature date
+      hint: null
+      type: date
+      options: []
+      required: true

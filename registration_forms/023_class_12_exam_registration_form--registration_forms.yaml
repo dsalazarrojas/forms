@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class 12 Exam Registration Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_number
+      label: Student Registration or Roll Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: student_contact_header
+      label: -- Student Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_info_header
+      label: -- School Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_code
+      label: School Code or UDISE Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: class_section
+      label: Class Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: stream
+      label: Stream
+      hint: null
+      type: select_one
+      options:
+      - Science
+      - Commerce
+      - Humanities
+      - Other
+      required: true
+    - id: 14
+      name: exam_header
+      label: -- Exam Subject Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: examination_board
+      label: Examination Board
+      hint: null
+      type: select_one
+      options:
+      - CBSE
+      - State Board
+      - ICSE
+      - IB
+      - Other
+      required: true
+    - id: 16
+      name: exam_year
+      label: Exam Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: core_subjects
+      label: Core Subjects Selected
+      hint: Select mandatory subjects based on stream
+      type: select_multiple
+      options:
+      - English
+      - Mathematics
+      - Physics
+      - Chemistry
+      - Biology
+      - Accountancy
+      - Business Studies
+      - Economics
+      - History
+      - Geography
+      - Political Science
+      required: true
+    - id: 18
+      name: elective_subjects
+      label: Elective or Optional Subjects
+      hint: Select electives as per stream
+      type: select_multiple
+      options:
+      - Physical Education
+      - Computer Science
+      - Informatics Practices
+      - Statistics
+      - Psychology
+      - Philosophy
+      - Other
+      required: false
+    - id: 19
+      name: accessibility_header
+      label: -- Special Requirements and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: special_needs
+      label: Any special needs or disabilities
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 21
+      name: special_needs_details
+      label: Details of special needs or required accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parent_info_header
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: parent_phone
+      label: Parent or Guardian Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: acknowledgment
+      label: I confirm all information provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

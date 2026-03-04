@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Stress Awareness Quiz
+    pages:
+    - id: 1
+      name: heat_stress_awareness_quiz
+      label: Heat Stress Awareness Quiz
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trainer_name
+      label: Trainer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: staff_id
+      label: ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_participation
+      label: Participation
+      hint: null
+      type: select_one
+      options:
+      - Training Received
+      - Training Not Received
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

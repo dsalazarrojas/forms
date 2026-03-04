@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Renewal Form
+    pages:
+    - id: 1
+      name: current_account_header
+      label: -- Current Account Information --
+      hint: Please provide details for the account you wish to renew
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: holder_name
+      label: Primary Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Current Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: renewal_account_type
+      label: Account Type to Renew
+      hint: Select the type of account being renewed
+      type: select_one
+      options:
+      - Certificate of Deposit (CD)
+      - Term Savings Account
+      - Premium Checking
+      - Corporate Line of Credit
+      required: true
+    - id: 5
+      name: update_contact_header
+      label: -- Update Contact Information --
+      hint: Leave unchanged if current info is accurate
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Updated Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Updated Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mailing_address
+      label: Current Residential Address
+      hint: Proof of address may be required for change
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: verification_header
+      label: -- Security and Identity Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: id_type
+      label: Type of Identification on File
+      hint: Select the ID you will use for verification
+      type: select_one
+      options:
+      - Passport
+      - Driver's License
+      - National ID Card
+      required: true
+    - id: 11
+      name: id_expiry_date
+      label: ID Expiration Date
+      hint: Please ensure your ID is currently valid
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: employment_status
+      label: Current Employment Status
+      hint: Required for KYC (Know Your Customer) compliance
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Retired
+      - Student
+      - Unemployed
+      required: true
+    - id: 13
+      name: renewal_terms_header
+      label: -- Renewal Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_acceptance
+      label: I have read and agree to the updated Terms and Conditions
+      hint: Link to terms -- www.bank.com/terms
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: paperless_billing
+      label: Enrollment in Paperless Statements
+      hint: Save trees and stay organized
+      type: select_one
+      options:
+      - Yes - Opt-in
+      - No - Continue paper statements
+      required: true
+    - id: 16
+      name: digital_signature_name
+      label: Electronic Signature
+      hint: Type your full legal name to sign
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date of Renewal Submission
+      hint: null
+      type: date
+      options: []
+      required: true

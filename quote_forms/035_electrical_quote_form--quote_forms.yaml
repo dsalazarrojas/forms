@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Quote Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_visited_site
+      label: Date visited site
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: site_address
+      label: Site address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: site_contact
+      label: Site contact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Smith''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: site_contact_phone
+      label: Site contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_contact_email
+      label: Site contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: job_description
+      label: Job description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Installation''}'
+      - '{''id'': 2, ''label'': ''Repair''}'
+      - '{''id'': 3, ''label'': ''Replacement''}'
+      required: false
+    - id: 12
+      name: customer_address
+      label: Customer address
+      hint: null
+      type: text
+      options: []
+      required: false

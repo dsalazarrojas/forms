@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Reference Form
+    pages:
+    - id: 1
+      name: reference_date
+      label: Reference Date
+      hint: Date when this reference form is completed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: reference_name
+      label: Reference Name
+      hint: Full name of the person providing the reference
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reference_title
+      label: Reference Title
+      hint: Job title or position of the reference
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reference_company
+      label: Reference Company
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reference_email
+      label: Reference Email
+      hint: Professional email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: reference_phone
+      label: Reference Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of the applicant being referenced
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: relationship_to_applicant
+      label: Relationship to Applicant
+      hint: How do you know the applicant
+      type: select_one
+      options:
+      - Direct Supervisor
+      - Manager
+      - Colleague
+      - Subordinate
+      - Client or Customer
+      - Professor or Instructor
+      - Other Professional Contact
+      required: true
+    - id: 9
+      name: relationship_duration
+      label: Relationship Duration
+      hint: How long have you known the applicant
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - More than 5 years
+      required: true
+    - id: 10
+      name: work_context
+      label: Work Context
+      hint: In what context did you work with the applicant
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: applicant_strengths
+      label: Applicant Strengths
+      hint: What are the applicant's greatest strengths
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: applicant_weaknesses
+      label: Applicant Weaknesses
+      hint: Areas where the applicant could improve
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: technical_skills_rating
+      label: Technical Skills Rating
+      hint: Rate the applicant's technical abilities
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
+      required: true
+    - id: 14
+      name: communication_skills_rating
+      label: Communication Skills Rating
+      hint: Rate the applicant's communication abilities
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: teamwork_rating
+      label: Teamwork Rating
+      hint: Rate the applicant's ability to work in a team
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: leadership_rating
+      label: Leadership Rating
+      hint: Rate the applicant's leadership abilities
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      - Not Observed
+      required: true
+    - id: 17
+      name: work_ethic_rating
+      label: Work Ethic Rating
+      hint: Rate the applicant's work ethic
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 18
+      name: reliability_rating
+      label: Reliability Rating
+      hint: Rate the applicant's reliability
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 19
+      name: would_rehire
+      label: Would Rehire
+      hint: Would you hire or work with this applicant again
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      - Not Applicable
+      required: true
+    - id: 20
+      name: notable_achievements
+      label: Notable Achievements
+      hint: Describe any notable achievements or contributions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about the applicant
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendation_level
+      label: Recommendation Level
+      hint: How strongly do you recommend this applicant
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Recommend with Reservations
+      - Cannot Recommend
+      required: true
+    - id: 23
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: May we contact you for follow-up questions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

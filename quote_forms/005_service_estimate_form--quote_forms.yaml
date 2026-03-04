@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Estimate Form
+    pages:
+    - id: 1
+      name: service_estimate_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_estimate_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_estimate_form_email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_estimate_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_estimate_form_service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: service_estimate_form_estimate_at
+      label: Estimate At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_estimate_form_estimate_for
+      label: Estimate For
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: service_estimate_form_description
+      label: Description
+      hint: Brief description of the service
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_estimate_form_services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 10
+      name: service_estimate_form_cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: service_estimate_form_tax_rate
+      label: Tax Rate
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: service_estimate_form_discount
+      label: Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: service_estimate_form_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: service_estimate_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

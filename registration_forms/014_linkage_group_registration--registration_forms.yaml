@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: linkage Group Registration
+    pages:
+    - id: 1
+      name: group_name
+      label: group name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_type
+      label: group type
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Nonprofit
+      - Community Organization
+      required: true
+    - id: 3
+      name: group_location
+      label: Group Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: group_email
+      label: Group Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member_email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: member_role
+      label: Member Role
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Parent
+      - Other
+      required: true
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

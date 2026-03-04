@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: rei_leadz_website_info_form
+    pages:
+    - id: 1
+      name: website_domain
+      label: website_domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rei_leadz_lead
+      label: rei_leadz_lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rei_leadz_website
+      label: rei_leadz_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: website_status
+      label: website_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 5
+      name: website_type
+      label: website_type
+      hint: null
+      type: select_multiple
+      options:
+      - website
+      - blog
+      - forum
+      - social
+      - other
+      required: false
+    - id: 6
+      name: website_description
+      label: website_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

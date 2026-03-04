@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Storyboarding Appointment Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Project Name
+      hint: Your organization or project
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_header
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like to meet
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: What time works for you
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: appointment_format
+      label: Appointment Format
+      hint: How would you prefer to meet
+      type: select_one
+      options:
+      - In-Person at Studio
+      - Video Conference
+      - Phone Call
+      - Hybrid Option
+      - No preference
+      required: true
+    - id: 10
+      name: appointment_duration
+      label: Expected Duration
+      hint: How long do you expect to need
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - More than 2 hours
+      required: true
+    - id: 11
+      name: project_header
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_name
+      label: Project Name
+      hint: What is your animation project called
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_description
+      label: Brief Project Description
+      hint: Tell us about your project
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_genre
+      label: Project Genre or Type
+      hint: What kind of animation project
+      type: select_one
+      options:
+      - Commercial or Advertisement
+      - Educational Video
+      - Entertainment Animation
+      - Explainer Video
+      - Short Film
+      - Feature Film
+      - Web Series
+      - Corporate Training
+      - Other
+      required: false
+    - id: 15
+      name: target_audience
+      label: Target Audience
+      hint: Who is this for
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: scope_header
+      label: -- Project Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: total_scenes
+      label: Estimated Number of Scenes
+      hint: How many scenes will be storyboarded
+      type: select_one
+      options:
+      - 5-10 scenes
+      - 10-20 scenes
+      - 20-50 scenes
+      - 50-100 scenes
+      - Over 100 scenes
+      - Unsure
+      required: false
+    - id: 18
+      name: estimated_duration
+      label: Estimated Project Duration
+      hint: Expected final animation length
+      type: select_one
+      options:
+      - 30 seconds
+      - 30 seconds - 2 minutes
+      - 2-5 minutes
+      - 5-10 minutes
+      - 10-20 minutes
+      - Over 20 minutes
+      - Unsure
+      required: false
+    - id: 19
+      name: artistic_direction_header
+      label: -- Artistic Direction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: visual_style
+      label: Desired Visual Style
+      hint: Describe the look and feel
+      type: select_one
+      options:
+      - Realistic
+      - Stylized
+      - Minimalist
+      - Cartoon
+      - Abstract
+      - Mixed Style
+      - Not yet decided
+      required: false
+    - id: 21
+      name: style_references
+      label: Visual Style References
+      hint: Links or names of reference videos
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_requirements
+      label: Special Requirements or Constraints
+      hint: Any specific needs or limitations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: timeline_header
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: project_start_date
+      label: Planned Project Start Date
+      hint: When would animation begin
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: project_deadline
+      label: Project Deadline
+      hint: When must the project be finished
+      type: date
+      options: []
+      required: true

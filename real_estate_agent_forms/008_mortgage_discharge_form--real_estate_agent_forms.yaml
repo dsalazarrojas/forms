@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: mortgage_discharge_form
+    pages:
+    - id: 1
+      name: property_type
+      label: is_property_owned_free_and_clear
+      hint: null
+      type: select_one
+      options:
+      - Property is owned free and clear
+      - Property is in foreclosure
+      - Property is being sold by a bank
+      required: true
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: loan_interest_rate
+      label: loan_interest_rate
+      hint: null
+      type: select_multiple
+      options:
+      - 2%
+      - 3%
+      - 4%
+      - 5%
+      - 6%
+      required: true
+    - id: 5
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_category
+      label: form_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: chatjimmy
+      label: chatjimmy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: form_version
+      label: form_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: form_version_comment
+      label: form_version_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_last_update
+      label: form_last_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: form_last_updated_by
+      label: form_last_updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_last_updated_by_user
+      label: form_last_updated_by_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_last_update_comment
+      label: form_last_update_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_last_updated_by_user_comment
+      label: form_last_updated_by_user_comment
+      hint: null
+      type: text
+      options: []
+      required: false

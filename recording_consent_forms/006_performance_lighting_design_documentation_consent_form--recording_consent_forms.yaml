@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Lighting Design Documentation Consent Form
+    pages:
+    - id: 1
+      name: contributor
+      label: contributor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: Your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: role
+      hint: Your role
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: company
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: Contact info
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_type
+      label: consent_type
+      hint: null
+      type: select_multiple
+      options:
+      - materials
+      - events
+      - productions
+      - educational
+      - promotional
+      required: true
+    - id: 9
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: consent_signature
+      label: consent_signature
+      hint: null
+      type: note
+      options: []
+      required: true

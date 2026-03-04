@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Admin And Staff Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Admin and Staff Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: Professional email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_address
+      label: Home Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_state
+      label: State/Province
+      hint: State or province of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_zip
+      label: ZIP/Postal Code
+      hint: Postal code of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: How are you related to this person?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: department
+      label: Department
+      hint: Which department will you work in?
+      type: select_one
+      options:
+      - Administration
+      - Human Resources
+      - Finance
+      - Marketing
+      - Operations
+      - IT
+      - Sales
+      - Customer Service
+      - Other
+      required: true
+    - id: 16
+      name: employment_type
+      label: Employment Type
+      hint: What type of employment arrangement?
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Internship
+      required: true
+    - id: 17
+      name: start_date
+      label: Expected Start Date
+      hint: When do you expect to start?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: previous_work_experience
+      label: Previous Work Experience
+      hint: Brief description of relevant work experience
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: education_background
+      label: Education Background
+      hint: Highest level of education completed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_skills
+      label: Special Skills or Qualifications
+      hint: Any special skills relevant to the position
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: references_available
+      label: References Available
+      hint: Are references available upon request?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent to a background check?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: registration_date
+      label: Registration Date
+      hint: Date of submitting this registration
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: employee_signature
+      label: Employee Signature
+      hint: Electronic signature to confirm registration
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: large_format_printing_estimate_request_form
+    pages:
+    - id: 1
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: print_size
+      label: Print Size
+      hint: null
+      type: select_one
+      options:
+      - 11x17
+      - 13x19
+      - 18x22
+      - 22x28
+      - 24x36
+      - 27x40
+      - 30x40
+      - 34x44
+      - 40x60
+      - 44x60
+      - 48x60
+      required: false
+    - id: 3
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Gloss Brochure
+      - Matte Brochure
+      - Matte and Laminated
+      - Matte and Scanned
+      - Laminated
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: production_method
+      label: Production Method
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Rush
+      required: false
+    - id: 7
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional information about the project
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Email of contact person
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Bob
+      - Sally
+      required: false

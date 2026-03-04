@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Ambulance Provider Registration
+    pages:
+    - id: 1
+      name: provider_info_header
+      label: -- Provider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_name
+      label: Provider Name
+      hint: Organization Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: base_location
+      label: Base Location
+      hint: Primary Airport / Base
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_area
+      label: Service Area
+      hint: Geographical coverage
+      type: select_one
+      options:
+      - Local / Regional
+      - National
+      - International
+      required: true
+    - id: 5
+      name: operational_details_header
+      label: -- Operational Capabilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: aircraft_types
+      label: Aircraft Types Operated
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Rotary Wing (Helicopter)
+      - Fixed Wing (Jet/Prop)
+      - Ground Ambulance (Support)
+      required: true
+    - id: 7
+      name: medical_capabilities
+      label: Medical Capabilities
+      hint: Level of care provided
+      type: select_multiple
+      options:
+      - BLS (Basic Life Support)
+      - ALS (Advanced Life Support)
+      - Critical Care / ICU
+      - Neonatal Transport
+      - Organ Transplant Support
+      required: true
+    - id: 8
+      name: license_number
+      label: License / Certification Number
+      hint: FAA or Medical Board ID
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: insurance_info
+      label: Insurance Provider
+      hint: Liability coverage provider
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_details_header
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Primary Contact Person
+      hint: Administrator or Manager
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dispatch_phone
+      label: 24/7 Dispatch Phone
+      hint: Emergency line
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_phone
+      label: Business Phone
+      hint: Office line
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: website
+      label: Website
+      hint: Provider URL
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: upload_cert_note
+      label: Certification Upload
+      hint: Please upload copies of CAMTS or other accreditations to the portal.
+      type: note
+      options: []
+      required: false

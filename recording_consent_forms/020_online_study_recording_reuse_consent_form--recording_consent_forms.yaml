@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_study_recording_reuse_consent_form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_information
+      label: Study Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reuse_consent
+      label: Reuse Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reuse_description
+      label: Reuse Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: consent_signature
+      label: Consent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: recording_id
+      label: Recording ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: study_reuse_status
+      label: Study Reuse Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: participant_reuse_status
+      label: Participant Reuse Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: study_reuse_comments
+      label: Study Reuse Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_reuse_comments
+      label: Participant Reuse Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_information
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_reuse_permission
+      label: Submitter Reuse Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitter_reuse_comments
+      label: Submitter Reuse Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_reuse_agreement
+      label: Submitter Reuse Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: submitter_reuse_agreement_other
+      label: Submitter Reuse Agreement Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_reuse_agreement_other_description
+      label: Submitter Reuse Agreement Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: researcher_reuse_permission
+      label: Researcher Reuse Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: research_team_reuse_permission
+      label: Research Team Reuse Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: study_coordinator_reuse_permission
+      label: Study Coordinator Reuse Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: data_manager_reuse_permission
+      label: Data Manager Reuse Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: submitter_reuse_agreement_date
+      label: Submitter Reuse Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: submitter_reuse_agreement_time
+      label: Submitter Reuse Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year Quiz
+    pages:
+    - id: 1
+      name: new_year_quiz_start_page
+      label: What are your New Year's resolutions?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: new_year_quiz_question_1
+      label: What is the coldest recorded temperature in Alaska in December?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: new_year_quiz_question_2
+      label: What is the chemical symbol for gold?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Au''}'
+      - '{''id'': 2, ''name'': ''Ag''}'
+      - '{''id'': 3, ''name'': ''Hg''}'
+      - '{''id'': 4, ''name'': ''Pb''}'
+      required: true
+    - id: 4
+      name: new_year_quiz_time
+      label: What time is it now?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: new_year_quiz_email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: new_year_quiz_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_year_quiz_note
+      label: What is your favorite hobby?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: new_year_quiz_select_one
+      label: What is your favorite color?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Red''}'
+      - '{''id'': 2, ''name'': ''Green''}'
+      - '{''id'': 3, ''name'': ''Blue''}'
+      - '{''id'': 4, ''name'': ''Yellow''}'
+      required: false
+    - id: 9
+      name: new_year_quiz_question_3
+      label: What is the average airspeed velocity of an unladen swallow?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_year_quiz_start_page_2
+      label: What is your favorite food for the new year?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Pizza''}'
+      - '{''id'': 2, ''name'': ''Sushi''}'
+      - '{''id'': 3, ''name'': ''Tacos''}'
+      - '{''id'': 4, ''name'': ''Dumplings''}'
+      required: false
+    - id: 11
+      name: new_year_quiz_date
+      label: What is your date of birth?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: new_year_quiz_select_one_2
+      label: What is your favorite movie genre?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Action''}'
+      - '{''id'': 2, ''name'': ''Comedy''}'
+      - '{''id'': 3, ''name'': ''Drama''}'
+      - '{''id'': 4, ''name'': ''Horror''}'
+      - '{''id'': 5, ''name'': ''Romance''}'
+      required: false
+    - id: 13
+      name: new_year_quiz_question_4
+      label: How many hours in a day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: new_year_quiz_select_multiple
+      label: What is your favorite animal?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Dog''}'
+      - '{''id'': 2, ''name'': ''Cat''}'
+      - '{''id'': 3, ''name'': ''Fish''}'
+      - '{''id'': 4, ''name'': ''Bird''}'
+      - '{''id'': 5, ''name'': ''Bear''}'
+      required: false
+    - id: 15
+      name: new_year_quiz_question_5
+      label: What is the highest mountain peak in the world?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: new_year_quiz_question_6
+      label: What is your favorite sport?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Soccer''}'
+      - '{''id'': 2, ''name'': ''Basketball''}'
+      - '{''id'': 3, ''name'': ''Tennis''}'
+      - '{''id'': 4, ''name'': ''Golf''}'
+      required: false
+    - id: 17
+      name: new_year_quiz_question_7
+      label: What is the average human lifespan?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: new_year_quiz_date_time
+      label: What is your favorite time of day?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: new_year_quiz_question_8
+      label: What is the largest planet in our solar system?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: new_year_quiz_question_9
+      label: What is the chemical symbol for gold?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Au''}'
+      - '{''id'': 2, ''name'': ''Ag''}'
+      - '{''id'': 3, ''name'': ''Hg''}'
+      - '{''id'': 4, ''name'': ''Pb''}'
+      required: false
+    - id: 21
+      name: new_year_quiz_question_10
+      label: What is the average number of legs of a human?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: new_year_quiz_question_11
+      label: What is the chemical symbol for silver?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Ag''}'
+      - '{''id'': 2, ''name'': ''Au''}'
+      - '{''id'': 3, ''name'': ''Hg''}'
+      - '{''id'': 4, ''name'': ''Pb''}'
+      required: false
+    - id: 23
+      name: new_year_quiz_question_12
+      label: What is the chemical symbol for gold?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Au''}'
+      - '{''id'': 2, ''name'': ''Ag''}'
+      - '{''id'': 3, ''name'': ''Hg''}'
+      - '{''id'': 4, ''name'': ''Pb''}'
+      required: false
+    - id: 24
+      name: new_year_quiz_question_13
+      label: What is the chemical symbol for mercury?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Ag''}'
+      - '{''id'': 2, ''name'': ''Au''}'
+      - '{''id'': 3, ''name'': ''Hg''}'
+      - '{''id'': 4, ''name'': ''Pb''}'
+      required: false
+    - id: 25
+      name: new_year_quiz_question_14
+      label: What is the chemical symbol for lead?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Ag''}'
+      - '{''id'': 2, ''name'': ''Au''}'
+      - '{''id'': 3, ''name'': ''Hg''}'
+      - '{''id'': 4, ''name'': ''Pb''}'
+      required: false

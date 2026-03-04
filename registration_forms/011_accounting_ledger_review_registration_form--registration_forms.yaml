@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Ledger Review Registration Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Ledger review request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person requesting the ledger review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: Contact email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company name
+      hint: Name of the company whose ledger will be reviewed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ledger_period
+      label: Ledger period
+      hint: Period to be reviewed e.g., Jan 2025 to Mar 2025
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ledger_type
+      label: Ledger type
+      hint: Choose the ledger to be reviewed
+      type: select_one
+      options:
+        - General ledger
+        - Sales ledger
+        - Purchase ledger
+        - Payroll ledger
+      required: true
+    - id: 7
+      name: priority
+      label: Priority
+      hint: Urgency of the review
+      type: select_one
+      options:
+        - Routine
+        - Urgent
+        - Statutory deadline
+      required: true
+    - id: 8
+      name: documents_attached
+      label: Documents attached
+      hint: Indicate whether supporting documents are attached
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 9
+      name: reviewer_preferences
+      label: Reviewer preferences
+      hint: Preferred reviewer or team if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expected_completion_date
+      label: Expected completion date
+      hint: Target date for completing the review
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: confidentiality_flag
+      label: Confidentiality flag
+      hint: Indicate if the review is confidential
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 12
+      name: special_instructions
+      label: Special instructions
+      hint: Any special handling or review focus areas
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_signature
+      label: Submitter signature
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true

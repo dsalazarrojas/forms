@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Recommendation Letter Adjectives Reference Form
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_info_page
+      label: Candidate Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reference_info_page
+      label: Reference Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_page
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree Nor Disagree
+      - Strongly Disagree
+      - No Opinion
+      required: true
+    - id: 5
+      name: additional_comments_page
+      label: Additional Comments
+      hint: Please provide any additional comments you'd like to add about the candidate.
+      type: text
+      options: []
+      required: true

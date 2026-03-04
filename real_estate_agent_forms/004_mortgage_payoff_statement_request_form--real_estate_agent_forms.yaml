@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Payoff Statement Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_sale
+      label: Date of Sale
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: loan_number
+      label: Loan Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Condo
+      - Townhouse
+      required: false
+    - id: 6
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lender_name
+      label: Lender Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

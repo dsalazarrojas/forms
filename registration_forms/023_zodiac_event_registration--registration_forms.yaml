@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zodiac Event Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participants Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participants Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Participants Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_date_of_birth
+      label: Participants Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_time_of_registration
+      label: Participants Time of Registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: zodiac_sign
+      label: Participants Zodiac Sign
+      hint: null
+      type: select_one
+      options:
+      - Cancer
+      - Capricorn
+      - Aquarius
+      - Pisces
+      - Gemini
+      - Libra
+      - Scorpio
+      - Aries
+      - Taurus
+      - Virgo
+      - Leo
+      - Sagittarius
+      - Gemini
+      required: false
+    - id: 7
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false

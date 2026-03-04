@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Data Privacy Opinion Survey
+    pages:
+    - id: 1
+      name: real_estate_data_privacy_opinion_survey
+      label: Real Estate Data Privacy Opinion Survey
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: false
+    - id: 3
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_awareness
+      label: Risk Awareness
+      hint: Please indicate what you know about the risks involved in real estate
+        data privacy.
+      type: select_multiple
+      options:
+      - Highly Aware
+      - Somewhat Aware
+      - Not Aware
+      required: false

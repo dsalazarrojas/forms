@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Fabric Wholesaler Referral Form
+    pages:
+    - id: 1
+      name: fashion_fabric_wholesaler_referral_form
+      label: Fashion Fabric Wholesaler Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_reason
+      label: referral_reason
+      hint: null
+      type: select_one
+      options:
+      - Fabric Type
+      - Fabric Width
+      - Color
+      required: false
+    - id: 3
+      name: fabric_type
+      label: fabric_type
+      hint: null
+      type: select_one
+      options:
+      - Cotton
+      - Polyester
+      - Rayon
+      required: false
+    - id: 4
+      name: fabric_width
+      label: fabric_width
+      hint: null
+      type: select_multiple
+      options:
+      - 1/4
+      - 1/2
+      - 3/4
+      - Full
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: referral_source
+      label: referral_source
+      hint: null
+      type: select_one
+      options:
+      - Designer
+      - Brand
+      - Manufacturer
+      required: false
+    - id: 9
+      name: referral_message
+      label: referral_message
+      hint: null
+      type: text
+      options: []
+      required: false

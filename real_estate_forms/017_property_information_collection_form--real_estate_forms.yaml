@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Information Collection Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Mixed Use
+      required: false
+    - id: 3
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: list_price_history
+      label: Price History
+      hint: A record of all past prices of this property
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rent_price_per_month
+      label: Rent Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: square_footage_per_room
+      label: Square Footage per Room
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_images
+      label: Property Images
+      hint: Upload images of the property
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: property_documents
+      label: Property Documents
+      hint: Upload documents for the property
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: list_property_neighborhoods
+      label: Property Neighbourhoods
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - North Side
+      - South Side
+      required: false
+    - id: 15
+      name: list_property_features
+      label: Property Features
+      hint: null
+      type: select_multiple
+      options:
+      - Swimming Pool
+      - Parking
+      - Balcony
+      - Furnished
+      required: false
+    - id: 16
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - For Sale
+      - Rent
+      - Sold
+      - Lease
+      required: false
+    - id: 17
+      name: list_property_amenities
+      label: Property Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - Gym
+      - Spa
+      - Pool
+      - Parking
+      required: false
+    - id: 18
+      name: property_agent
+      label: Property Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_agent_phone
+      label: Property Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_agent_email
+      label: Property Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: property_agent_contact
+      label: Property Agent Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_agent_company
+      label: Property Agent Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_agent_license
+      label: Property Agent License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_agent_license_number
+      label: Property Agent License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: list_property_other
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false

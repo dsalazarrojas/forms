@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Reading Comprehension Quiz
+    pages:
+    - id: 1
+      name: --quiz_instructions--
+      label: -- Quiz Instructions --
+      hint: Read the passage carefully and answer the questions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: Question 1 - Main idea
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - The passage explains a problem and solutions
+      - The passage is a personal narrative
+      - The passage is a technical manual
+      - The passage is an advertisement
+      required: true
+    - id: 4
+      name: question_2
+      label: Question 2 - Supporting detail
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - A specific example
+      - A statistical claim
+      - An unrelated anecdote
+      - A fictional event
+      required: true
+    - id: 5
+      name: question_3
+      label: Question 3 - Author tone
+      hint: Choose the best description
+      type: select_one
+      options:
+      - Neutral and factual
+      - Humorous and ironic
+      - Angry and accusatory
+      - Sarcastic and biting
+      required: true
+    - id: 6
+      name: short_answer
+      label: Short answer explanation
+      hint: Briefly justify your choice for question 1
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: time_taken_minutes
+      label: Time taken in minutes
+      hint: Estimate the time you spent on the quiz
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_feedback
+      label: Additional feedback about the quiz
+      hint: Optional
+      type: text
+      options: []
+      required: false

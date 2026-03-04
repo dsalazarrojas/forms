@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_client_intake_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - commercial
+      - land
+      required: false
+    - id: 7
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Lead
+      required: false
+    - id: 8
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false

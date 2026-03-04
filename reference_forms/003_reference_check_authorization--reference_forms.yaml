@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reference Check Authorization
+    pages:
+    - id: 1
+      name: reference_check_form
+      label: reference_check_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reference_name
+      label: reference_name
+      hint: Enter reference name if different from applicant name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reference_email
+      label: reference_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: reference_phone
+      label: reference_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reference_relationship
+      label: relationship
+      hint: Select the type of relationship you have with the reference
+      type: select_one
+      options:
+      - Colleague
+      - Supervisor
+      - Manager
+      - Friend
+      - Family Member
+      required: false
+    - id: 6
+      name: reference_since
+      label: reference_since
+      hint: How long have you known the reference?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reference_time
+      label: reference_time
+      hint: What times you've known the reference
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reference_note
+      label: reference_note
+      hint: Additional comments or notes
+      type: note
+      options: []
+      required: false

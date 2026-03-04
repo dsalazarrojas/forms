@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRG_Realty Buyers Information Form
+    pages:
+    - id: 1
+      name: buyer_info_header
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_search_header
+      label: -- Property Search Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: target_area
+      label: What area are you looking to purchase in?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Type of Property
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Multi-Family
+      - Land
+      required: true
+    - id: 10
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - Under $200,000
+      - $200,000 - $400,000
+      - $400,000 - $600,000
+      - $600,000 - $800,000
+      - $800,000+
+      required: true
+    - id: 11
+      name: bedrooms_needed
+      label: Minimum Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: bathrooms_needed
+      label: Minimum Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: timeline_header
+      label: -- Purchase Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: when_buy
+      label: When are you looking to purchase?
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Flexible timeline
+      required: true
+    - id: 15
+      name: financing_info
+      label: How will you finance the purchase?
+      hint: null
+      type: select_one
+      options:
+      - Pre-approved for mortgage
+      - Exploring mortgage options
+      - Cash purchase
+      - Other
+      required: true
+    - id: 16
+      name: financing_additional
+      label: Additional Financing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_preference
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: null
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-5PM)
+      - Evening (5PM-8PM)
+      - Anytime
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

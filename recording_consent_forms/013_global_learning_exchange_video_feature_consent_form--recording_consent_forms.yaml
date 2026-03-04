@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_learning_exchange_video_feature_consent_form
+    pages:
+    - id: 1
+      name: video_feature_consent
+      label: video Feature Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: video_feature_use
+      label: How will the video feature be used
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Internal'', ''value'': ''internal''}'
+      - '{''label'': ''External'', ''value'': ''external''}'
+      required: false
+    - id: 3
+      name: recording_consent
+      label: recording Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_capture
+      label: time of capture
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Booth Registration Form
+    pages:
+    - id: 1
+      name: vendor_booth_info
+      label: vendor_booth_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: vendor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: vendor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_info
+      label: product_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_image
+      label: product_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_details
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_license
+      label: vendor_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_tax_id
+      label: vendor_tax_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vendor_terms
+      label: vendor_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vendor_agreement
+      label: vendor_agreement
+      hint: null
+      type: select_one
+      options:
+      - I accept the terms and conditions
+      - I accept the terms and conditions
+      - I decline the terms and conditions
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false

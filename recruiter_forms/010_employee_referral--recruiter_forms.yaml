@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Referral
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Software Engineer
+      - Data Scientist
+      - Data Analyst
+      - Product Manager
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Data Science
+      - Product
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_other
+      label: Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Colleague
+      - Social Media
+      required: false
+    - id: 9
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: experience
+      label: Experience
+      hint: null
+      type: select_one
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 16
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Master
+      - Ph.D
+      required: false
+    - id: 17
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 18
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: interviewers
+      label: Interviewer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: interview_dates
+      label: Interview Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: interview_times
+      label: Interview Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: interview_locations
+      label: Interview Locations
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Online
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

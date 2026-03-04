@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awards Nomination Form
+    pages:
+    - id: 1
+      name: award_name
+      label: Award Name
+      hint: Which award are you nominating for
+      type: select_one
+      options:
+      - Distinguished service award
+      - Excellence in leadership
+      - Outstanding achievement
+      - Innovation pioneer
+      - Team of the year
+      - Volunteer of the year
+      - Mentor of the year
+      - Rookie of the year
+      - Career achievement
+      - Humanitarian award
+      required: true
+    - id: 2
+      name: nominator_first_name
+      label: Nominator First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_last_name
+      label: Nominator Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nominator_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: nominator_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominator_organization
+      label: Your Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominee_first_name
+      label: Nominee First Name
+      hint: Their first name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_last_name
+      label: Nominee Last Name
+      hint: Their last name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nominee_email
+      label: Nominee Email
+      hint: Their email if known
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: nominee_organization
+      label: Nominee Organization
+      hint: Their company or institution
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: nominee_position
+      label: Nominee Position
+      hint: Their job title or role
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: relationship_to_nominee
+      label: Your Relationship
+      hint: How do you know the nominee
+      type: select_one
+      options:
+      - Self
+      - Direct supervisor
+      - Colleague
+      - Direct report
+      - Client/customer
+      - Partner/vendor
+      - Other
+      required: true
+    - id: 13
+      name: length_of_relationship
+      label: Length of Relationship
+      hint: How long have you known them
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - 4-7 years
+      - More than 7 years
+      required: true
+    - id: 14
+      name: nomination_summary
+      label: Nomination Summary
+      hint: Brief summary of why they deserve this award
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: detailed_nomination
+      label: Detailed Nomination Letter
+      hint: Provide detailed reasons for nomination
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: notable_achievements
+      label: Notable Achievements
+      hint: List specific accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: leadership_examples
+      label: Leadership Examples
+      hint: Describe leadership demonstrated
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: community_impact
+      label: Community Impact
+      hint: How have they impacted the community
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: challenges_overcome
+      label: Challenges Overcome
+      hint: What obstacles have they overcome
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supporting_materials
+      label: Supporting Materials
+      hint: List any attachments or references
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: references_available
+      label: Are References Available
+      hint: Can you provide references
+      type: select_one
+      options:
+      - Yes, multiple references
+      - Yes, one reference
+      - No references
+      required: true
+    - id: 22
+      name: nominee_awareness
+      label: Is Nominee Aware
+      hint: Does the nominee know about this
+      type: select_one
+      options:
+      - Yes, fully aware
+      - Partially aware
+      - No, this is a surprise
+      - Prefer to keep confidential
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Anything else the committee should know
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I Agree to Nomination Terms
+      hint: Check to agree
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

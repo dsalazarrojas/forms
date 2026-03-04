@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Cleaning Service Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_phone_number
+      label: Referral Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_email
+      label: Referral Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: What services do you want?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: preferred_scheduling_time
+      label: Preferred Scheduling Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

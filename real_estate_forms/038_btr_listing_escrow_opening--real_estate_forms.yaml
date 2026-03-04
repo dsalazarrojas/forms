@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: BTR Listing Escrow Opening
+    pages:
+    - id: 1
+      name: listing_agent_name
+      label: Listing Agent Name
+      hint: Agent handling the listing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: listing_date
+      label: Original Listing Date
+      hint: When was the property first listed?
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state_zip
+      label: State and ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mls_number
+      label: MLS Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: buyer_name
+      label: Buyer Name
+      hint: Purchaser name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: buyer_agent_name
+      label: Buyer Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: offer_price
+      label: Offer Price
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: offer_acceptance_date
+      label: Offer Acceptance Date
+      hint: When was the offer accepted?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: escrow_company
+      label: Escrow Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: escrow_officer_name
+      label: Escrow Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: escrow_number
+      label: Escrow Number
+      hint: Assigned by escrow company
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: escrow_opening_date
+      label: Escrow Opening Date
+      hint: When was escrow opened?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: closing_date
+      label: Expected Closing Date
+      hint: Estimated date of closing
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: earnest_money_amount
+      label: Earnest Money Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: loan_contingency
+      label: Loan Contingency Included?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: false
+    - id: 18
+      name: inspection_contingency
+      label: Home Inspection Contingency?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Waived
+      required: false
+    - id: 19
+      name: appraisal_contingency
+      label: Appraisal Contingency?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Waived
+      required: false
+    - id: 20
+      name: special_conditions
+      label: Special Conditions or Terms
+      hint: Any unique terms in the contract?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes for Escrow
+      hint: Important information for escrow officer
+      type: text
+      options: []
+      required: false

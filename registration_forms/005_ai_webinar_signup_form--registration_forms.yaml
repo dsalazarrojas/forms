@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Webinar Signup Form
+    pages:
+    - id: 1
+      name: attendee_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: Professional email for webinar access and materials
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: Where you currently work
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: industry_sector
+      label: Industry Sector
+      hint: Field in which you work
+      type: select_one
+      options: ["Technology", "Healthcare", "Finance", "Education", "Government", "Manufacturing", "Other"]
+      required: false
+    - id: 6
+      name: webinar_topic_interest
+      label: Topic of Interest
+      hint: Which AI webinar topic interests you most?
+      type: select_one
+      options: ["AI Ethics and Governance", "Machine Learning Fundamentals", "AI in Healthcare", "AI for Business Transformation", "Natural Language Processing", "Computer Vision", "AI Implementation Strategies"]
+      required: true
+    - id: 7
+      name: current_ai_knowledge_level
+      label: Current AI Knowledge Level
+      hint: Rate your familiarity with artificial intelligence concepts
+      type: select_one
+      options: ["Beginner", "Intermediate", "Advanced", "Expert"]
+      required: true
+    - id: 8
+      name: expected_takeaways
+      label: Expected Takeaways
+      hint: What do you hope to learn from this webinar?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: timezone_preference
+      label: Timezone
+      hint: Your current timezone for scheduling purposes
+      type: select_one
+      options: ["EST", "CST", "MST", "PST", "GMT", "CET", "Other"]
+      required: true
+    - id: 10
+      name: webinar_date_preference
+      label: Preferred Webinar Date
+      hint: Which date works best for you?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: webinar_time_preference
+      label: Preferred Webinar Time
+      hint: What time of day works best for you?
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any accessibility needs or special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consent_marketing_communication
+      label: Consent to Marketing Communications
+      hint: May we contact you about future AI events and resources?
+      type: select_one
+      options: ["Yes", "No"]
+      required: false

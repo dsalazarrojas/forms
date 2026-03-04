@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Obstacle Race Registration Form
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: Legal full name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Participant's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Valid email for race communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_section
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: race_details_section
+      label: -- Race Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: race_name
+      label: Race Name
+      hint: Name of the obstacle race you're registering for
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: race_date
+      label: Race Date
+      hint: Date of the race event
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: race_distance
+      label: Race Distance
+      hint: Which distance option are you choosing
+      type: select_one
+      options:
+      - 5K
+      - 10K
+      - Half Marathon
+      - Marathon
+      - Ultra (30+ miles)
+      required: true
+    - id: 15
+      name: race_category
+      label: Race Category
+      hint: Which category are you registering for
+      type: select_one
+      options:
+      - Individual
+      - Team of 2
+      - Team of 3
+      - Team of 4
+      - Corporate Team
+      required: true
+    - id: 16
+      name: health_fitness_section
+      label: -- Health and Fitness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: fitness_level
+      label: Fitness Level
+      hint: Rate your current fitness level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite Athlete
+      required: true
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions that staff should know about
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: waiver_consent
+      label: Waiver and Consent
+      hint: Do you agree to the race waiver and consent terms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: registration_fee_payment
+      label: Registration Fee Payment
+      hint: I understand the registration fee and agree to pay
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

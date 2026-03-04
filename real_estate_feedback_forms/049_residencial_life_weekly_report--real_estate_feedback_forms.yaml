@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: residencial_life_weekly_report
+    pages:
+    - id: 1
+      name: residential_life_experience
+      label: Residential Life Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_with_living_area
+      label: Satisfaction With Living Area
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: satisfaction_with_meal_options
+      label: Satisfaction With Meal Options
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: suggestions_for_improvement
+      label: Suggestions For Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments_on_residential_life
+      label: Comments On Residential Life
+      hint: null
+      type: text
+      options: []
+      required: false

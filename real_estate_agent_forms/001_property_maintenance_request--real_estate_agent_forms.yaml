@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_maintenance_request
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: maintenance_request
+      label: Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: repair_cost
+      label: Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - john
+      - jane
+      required: true
+    - id: 7
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - in_progress
+      - complete
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: maintenance_description
+      label: Maintenance Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: requestor_phone_number
+      label: Requestor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: requestor_company
+      label: Requestor Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: requestor_title
+      label: Requestor Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: requestor_department
+      label: Requestor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_status
+      label: Property Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: property_type_other
+      label: If Other, specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool_other
+      label: If Other, specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_category
+      label: Maintenance Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: maintenance_item
+      label: Maintenance Item
+      hint: null
+      type: text
+      options: []
+      required: true

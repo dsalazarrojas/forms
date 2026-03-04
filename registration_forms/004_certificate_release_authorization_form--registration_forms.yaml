@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certificate Release Authorization Form
+    pages:
+    - id: 1
+      name: section_authorization_details
+      label: -- Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: certificate_holder_full_name
+      label: Certificate Holder Full Name
+      hint: Enter the full legal name of the person who owns the certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: certificate_holder_email
+      label: Certificate Holder Email
+      hint: For authorization confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: certificate_holder_phone
+      label: Certificate Holder Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: certificate_id_number
+      label: Certificate ID Number
+      hint: Unique identifier for the certificate to be released
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: certificate_issuance_date
+      label: Certificate Issuance Date
+      hint: Approximate date the certificate was issued
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_recipient_information
+      label: -- Recipient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: authorize_release_to
+      label: Authorized Recipient Name
+      hint: Name of the person or organization who will receive the certificate
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recipient_relationship
+      label: Relationship to Certificate Holder
+      hint: Select the relationship between the holder and recipient
+      type: select_one
+      options:
+      - Self
+      - Employer
+      - Academic Institution
+      - Legal Representative
+      - Family Member
+      - Other Professional Body
+      required: true
+    - id: 10
+      name: recipient_email_address
+      label: Recipient Email Address
+      hint: Where should the certificate be sent?
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: recipient_phone_number
+      label: Recipient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_delivery_method
+      label: -- Delivery Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: release_method_preferred
+      label: Preferred Release Method
+      hint: How should the certificate be delivered?
+      type: select_one
+      options:
+      - Secure Digital Download Link
+      - Direct Email (Encrypted)
+      - Physical Mail (Standard)
+      - Physical Mail (Certified)
+      - In-Person Pickup
+      required: true
+    - id: 14
+      name: section_authorization_consent
+      label: -- Authorization Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: purpose_of_release
+      label: Purpose of Release
+      hint: Brief explanation for why the certificate is being shared
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: authorization_statement_agree
+      label: Authorization Agreement Statement
+      hint: I hereby authorize the release of the specified certificate to the named
+        recipient
+      type: select_one
+      options:
+      - I Authorize and Agree
+      - Other
+      required: true
+    - id: 17
+      name: release_effective_until_date
+      label: Authorization Effective Until
+      hint: If this authorization should expire, select the date
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: identity_verification_method_used
+      label: Identity Verification Method Used
+      hint: Please select the method you are using to verify your identity
+      type: select_one
+      options:
+      - Photo ID Upload (Separate Process)
+      - Security Question Response
+      - Multi-Factor Authentication
+      - Signature on File Match
+      required: true
+    - id: 19
+      name: holder_authorization_date
+      label: Date of Authorization
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_release_instructions
+      label: Additional Release Instructions
+      hint: Any specific details for the delivery team
+      type: text
+      options: []
+      required: false

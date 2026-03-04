@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: German Vocabulary Quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: Quiz Start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question
+      label: question
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 3
+      name: answer
+      label: answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: next_question
+      label: next question
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 6
+      name: quiz_complete
+      label: Quiz Complete
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Referral Agreement Form
+    pages:
+    - id: 1
+      name: agreement_parties_header
+      label: -- Referral Agreement Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referring_bank_name
+      label: Referring Bank / Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: receiving_bank_name
+      label: Receiving Bank / Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_name
+      label: Primary Contact Person for Agreement
+      hint: Person managing the relationship
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Primary Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: referral_scope_header
+      label: -- Scope of Referral Relationship --
+      hint: Define what types of business are included
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_referral_types
+      label: Permitted Referral Products
+      hint: null
+      type: select_multiple
+      options:
+      - Residential Mortgages
+      - Commercial Real Estate Loans
+      - Wealth Management Services
+      - Small Business Accounts (SBA)
+      - Trust and Estate Services
+      - Foreign Exchange / Treasury
+      required: true
+    - id: 8
+      name: referral_fee_structure_header
+      label: -- Referral Fee and Compensation Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fee_model
+      label: Referral Fee Model
+      hint: Select the primary compensation method
+      type: select_one
+      options:
+      - Fixed Fee per Successful Referral
+      - Percentage of Loan Principal
+      - Percentage of First Year Interest
+      - Reciprocal Referral (No Cash Exchange)
+      required: true
+    - id: 10
+      name: fee_amount_percentage
+      label: Specified Fee Amount or Percentage
+      hint: e.g., 0.50% or $500.00
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Payment Terms (Net Days)
+      hint: Days from successful conversion to payment
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: legal_compliance_header
+      label: -- Regulatory Compliance and Confidentiality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_consent_req
+      label: Requirement for Customer Consent
+      hint: I agree that all referrals will be made only with the explicit consent
+        of the customer
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: confidentiality_provision
+      label: Data Confidentiality and Non-Disclosure
+      hint: I agree to maintain the privacy and security of all shared customer data
+      type: select_one
+      options:
+      - I Agree and Accept
+      - Other
+      required: true
+    - id: 15
+      name: respa_acknowledgement
+      label: RESPA Compliance Acknowledgement
+      hint: I acknowledge compliance with the Real Estate Settlement Procedures Act
+        (if applicable)
+      type: select_one
+      options:
+      - I Acknowledge and Comply
+      - N/A - Non-Mortgage Referrals
+      required: true
+    - id: 16
+      name: agreement_duration_header
+      label: -- Agreement Duration and Termination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: term_of_agreement
+      label: Initial Term of Agreement
+      hint: null
+      type: select_one
+      options:
+      - 12 Months (Auto-renewal)
+      - 24 Months
+      - Indefinite
+      - Project-Based Only
+      required: true
+    - id: 18
+      name: termination_notice
+      label: Termination Notice Requirement (Days)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: execution_date
+      label: Agreement Execution Date
+      hint: null
+      type: date
+      options: []
+      required: true

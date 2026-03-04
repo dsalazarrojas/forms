@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Reality Content Recommendation Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_gender
+      label: User Gender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: user_age
+      label: User Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_continue
+      label: Form Continue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: recommended_content
+      label: Recommended Content
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_end
+      label: Form End
+      hint: null
+      type: note
+      options: []
+      required: false

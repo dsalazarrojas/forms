@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Audio Recording Consent
+    pages:
+    - id: 1
+      name: user_input_1
+      label: User Input 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recording_location
+      label: recording_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: recording_method
+      label: recording_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option 2''}'
+      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''option 3''}'
+      required: false
+    - id: 4
+      name: recording_purpose
+      label: recording_purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_4'', ''label'': ''option 4''}'
+      - '{''id'': 2, ''name'': ''option_5'', ''label'': ''option 5''}'
+      - '{''id'': 3, ''name'': ''option_6'', ''label'': ''option 6''}'
+      required: false
+    - id: 5
+      name: user_input_2
+      label: User Input 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_and_time
+      label: date and time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: recording_area
+      label: recording_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: audio_recording_consent
+      label: audio recording consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_confirmation
+      label: submission confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

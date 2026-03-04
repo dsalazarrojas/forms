@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Benefits Quote Request Form
+    pages:
+    - id: 1
+      name: section_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001-5000
+      - 5000+
+      required: true
+    - id: 6
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_benefits
+      label: -- Benefits Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: benefit_type
+      label: Type of Benefits Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Health Insurance
+      - Dental Insurance
+      - Vision Insurance
+      - Life Insurance
+      - Disability Insurance
+      - Retirement Plans
+      - Flexible Spending Account
+      - Health Savings Account
+      - Workers Compensation
+      - Other
+      required: true
+    - id: 11
+      name: coverage_type
+      label: Coverage Type Needed
+      hint: null
+      type: select_one
+      options:
+      - Employee Only
+      - Employee Plus Spouse
+      - Employee Plus Children
+      - Family Coverage
+      - Multiple Options
+      required: true
+    - id: 12
+      name: current_coverage
+      label: Current Benefit Coverage Status
+      hint: null
+      type: select_one
+      options:
+      - No Current Coverage
+      - Has Coverage
+      - Looking to Switch
+      - Adding Additional Coverage
+      required: true
+    - id: 13
+      name: budget_range
+      label: Estimated Budget Range
+      hint: Monthly cost per employee
+      type: select_one
+      options:
+      - Under 200
+      - 200-400
+      - 400-600
+      - 600-800
+      - 800+
+      - Not Sure
+      required: false
+    - id: 14
+      name: specific_requirements
+      label: Specific Requirements or Preferences
+      hint: Any special needs or must-haves
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: timeline
+      label: Implementation Timeline
+      hint: When do you need this in place
+      type: select_one
+      options:
+      - ASAP (within 30 days)
+      - 30-60 days
+      - 60-90 days
+      - 90+ days
+      - Flexible
+      required: true
+    - id: 16
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: existing_broker
+      label: Do You Have an Existing Broker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 18
+      name: previous_quotes
+      label: Have You Requested Quotes Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true

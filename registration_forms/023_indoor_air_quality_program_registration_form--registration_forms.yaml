@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Indoor Air Quality Program Registration Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Page One
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_need
+      label: Service Need
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: page_two
+      label: Page Two
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_need_service
+      label: Service Need (Service)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: service_need_need
+      label: Service Need (Need)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: additional_information
+      label: Additional Information
+      hint: Provide any additional information about the service need
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

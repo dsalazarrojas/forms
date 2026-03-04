@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Condo Questionnaire
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: unit_number
+      label: Unit number
+      hint: Unit or apartment number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interest_purpose
+      label: Purpose of interest
+      hint: Buying, renting, or investment
+      type: select_one
+      options:
+      - Buying
+      - Renting
+      - Investing
+      - Other
+      required: true
+    - id: 4
+      name: desired_bedrooms
+      label: Desired number of bedrooms
+      hint: Minimum desired bedrooms
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budget_range
+      label: Budget range
+      hint: Expected price or rent range
+      type: select_one
+      options:
+      - Under 200k
+      - 200k to 400k
+      - 400k to 600k
+      - Above 600k
+      required: true
+    - id: 6
+      name: must_have_features
+      label: Must have features
+      hint: Select required features
+      type: select_multiple
+      options:
+      - Parking
+      - Balcony
+      - In unit laundry
+      - Pet friendly
+      required: false
+    - id: 7
+      name: relocation_timeline
+      label: Relocation timeline
+      hint: When do you plan to move
+      type: select_one
+      options:
+      - Immediately
+      - 1 to 3 months
+      - 3 to 6 months
+      - More than 6 months
+      required: false
+    - id: 8
+      name: agent_contact
+      label: Real estate agent contact
+      hint: If working with an agent
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any other preferences or comments
+      type: text
+      options: []
+      required: false

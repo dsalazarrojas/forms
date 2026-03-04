@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaking Contest Video Upload Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: video_file
+      label: Video File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: video_description
+      label: Video Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contest_name
+      label: Contest Name
+      hint: null
+      type: select_one
+      options:
+      - Event Name
+      - School Name
+      - Club Name
+      required: true
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Registration Forms
+      - Contest Entry Forms
+      required: true
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_multiple
+      options:
+      - Event Organizer
+      - School
+      - Club
+      required: true
+    - id: 14
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true

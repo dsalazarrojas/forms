@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: flamenco_basics_quiz
+    pages:
+    - id: 1
+      name: intro_questions
+      label: intro_questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_info
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_info
+      label: teacher_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: teacher_experience
+      label: teacher_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''value'': True}'
+      - '{''name'': False, ''value'': False}'
+      required: false
+    - id: 7
+      name: school_info
+      label: school_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_level
+      label: student_level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

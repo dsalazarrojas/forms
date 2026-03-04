@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: -- Workshop Information --
+      hint: Professional Development for Early Childhood Educators
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registrant_name
+      label: Registrant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization or School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Contact Email
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_selection
+      label: Select Your Workshop Session
+      hint: Each session is 3 hours
+      type: select_one
+      options:
+      - Morning Session - 9 AM to 12 PM
+      - Afternoon Session - 1 PM to 4 PM
+      - Evening Session - 6 PM to 9 PM
+      required: true
+    - id: 7
+      name: primary_motivation
+      label: What is your primary purpose for attending this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Professional Development Credits
+      - Personal Interest
+      - New Skill Acquisition
+      - Networking
+      required: true
+    - id: 8
+      name: expectations
+      label: What are your specific expectations or goals for this workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_role
+      label: Current Professional Role
+      hint: null
+      type: select_one
+      options:
+      - Lead Teacher
+      - Assistant Teacher
+      - Administrator
+      - Parent
+      - Student
+      required: true
+    - id: 10
+      name: payment_header
+      label: -- Registration Payment --
+      hint: Registration fee is 50 dollars
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Invoice Organization
+      - Check by Mail
+      required: true
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements for Refreshments
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - None
+      required: false
+    - id: 13
+      name: comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

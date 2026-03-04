@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bathroom Renovation Quote Form
+    pages:
+    - id: 1
+      name: client_basic_info
+      label: -- Client and Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condominium/Apartment
+      - Commercial Building
+      - Other
+      required: true
+    - id: 6
+      name: project_details_header
+      label: -- Renovation Scope --
+      hint: Tell us about the bathroom(s) you want to renovate.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bathroom_type
+      label: Type of Bathroom to Renovate
+      hint: null
+      type: select_one
+      options:
+      - Master Bathroom
+      - Full Guest Bathroom
+      - Powder Room (Half-Bath)
+      - En-suite Bathroom
+      required: true
+    - id: 8
+      name: plumbing_relocation
+      label: Will the plumbing layout need to be moved?
+      hint: e.g. moving the toilet or sink to a new wall
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 9
+      name: electrical_updates
+      label: Do you require electrical updates or new lighting?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: flooring_type_interest
+      label: Interested Flooring Material
+      hint: null
+      type: select_multiple
+      options:
+      - Ceramic/Porcelain Tile
+      - Natural Stone
+      - Luxury Vinyl Plank (LVP)
+      - Heated Flooring
+      - Polished Concrete
+      required: false
+    - id: 11
+      name: budget_expectation
+      label: Target Budget for this Project
+      hint: null
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $20,000
+      - $20,000 - $35,000
+      - $35,000+
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Desired Project Start Date
+      hint: null
+      type: select_one
+      options:
+      - Immediately (Within 2 weeks)
+      - Within 1 Month
+      - 2 - 3 Months
+      - Flexible / Next Year
+      required: true
+    - id: 13
+      name: site_access_notes
+      label: Site Access or Parking Instructions
+      hint: Any gates, codes, or specific parking rules?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspection_ready
+      label: Is the site ready for an initial walkthrough inspection?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Not yet
+      required: true
+    - id: 15
+      name: date_of_request
+      label: Request Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

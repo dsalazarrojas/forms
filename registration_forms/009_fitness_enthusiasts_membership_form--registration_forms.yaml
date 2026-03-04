@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Enthusiasts Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth_day
+      label: day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth_month
+      label: month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth_year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Corporate
+      - Group
+      - Family
+      required: true
+    - id: 9
+      name: fitness_level
+      label: fitness_level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Friend
+      - Family
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship_level
+      label: emergency_contact_relationship_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_name_2
+      label: emergency_contact_name_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone_2
+      label: emergency_contact_phone_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_email_2
+      label: emergency_contact_email_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship_level_2
+      label: emergency_contact_relationship_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: payment_plan
+      label: payment_plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 24
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit
+      - PayPal
+      required: true
+    - id: 25
+      name: membership_plan
+      label: membership_plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true

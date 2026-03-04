@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Feedback Form
+    pages:
+    - id: 1
+      name: client_details
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Name of the client providing feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agent_name
+      label: Agent name
+      hint: Name of the agent evaluated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: transaction_type
+      label: Transaction type
+      hint: e.g., Sale, Purchase, Rental
+      type: select_one
+      options: [Sale, Purchase, Rental, Other]
+      required: true
+    - id: 5
+      name: communication_rating
+      label: Communication rating
+      hint: Rate agent communication clarity
+      type: select_one
+      options: [Excellent, Good, Fair, Poor]
+      required: true
+    - id: 6
+      name: timeliness_rating
+      label: Timeliness rating
+      hint: Rate responsiveness and timeliness
+      type: select_one
+      options: [Excellent, Good, Fair, Poor]
+      required: true
+    - id: 7
+      name: local_market_knowledge
+      label: Local market knowledge
+      hint: Rate agent expertise in local market
+      type: select_one
+      options: [Excellent, Good, Fair, Poor]
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: Final satisfaction rating
+      type: select_one
+      options: [Very satisfied, Satisfied, Neutral, Dissatisfied]
+      required: true
+    - id: 9
+      name: referral_likelihood
+      label: Likelihood to refer
+      hint: Would you recommend this agent
+      type: select_one
+      options: [Definitely, Probably, Maybe, Unlikely]
+      required: true
+    - id: 10
+      name: comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

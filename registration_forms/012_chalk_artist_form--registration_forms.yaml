@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chalk Artist Form
+    pages:
+      - id: 1
+        name: section_overview
+        label: -- Event Registration for Chalk Artists --
+        hint: Collect participant details and payment information for the event
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: artist_name
+        label: artist name
+        hint: full legal or stage name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: email
+        hint: contact for event updates
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: portfolio_link
+        label: portfolio link
+        hint: optional link to previous work
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: registration_fee_paid
+        label: registration fee paid
+        hint: payment confirmation or method
+        type: select_one
+        options:
+          - Paid
+          - Pending
+          - Exempt
+        required: true
+      - id: 6
+        name: art_supplies_needed
+        label: art supplies needed
+        hint: indicate supplies the artist needs provided
+        type: select_multiple
+        options:
+          - Chalk provided
+          - Surface provided
+          - No supplies needed
+        required: false
+      - id: 7
+        name: booth_size_required
+        label: booth size required
+        hint: select the space needed for artwork
+        type: select_one
+        options:
+          - Small
+          - Medium
+          - Large
+        required: false
+      - id: 8
+        name: accessibility_requirements
+        label: accessibility requirements
+        hint: any accommodations needed at the venue
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: emergency_contact
+        label: emergency contact
+        hint: name and phone number
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: agreement
+        label: agreement to event policies
+        hint: confirm acceptance of event rules and release
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true

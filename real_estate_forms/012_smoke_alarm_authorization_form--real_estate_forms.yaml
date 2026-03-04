@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smoke Alarm Authorization Form
+    pages:
+    - id: 1
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_info
+      label: Building Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Contact Person
+      - Contact Number
+      - Contact Email
+      - Contact Fax
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_fax
+      label: Contact Fax
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_info
+      label: Building Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_multiple
+      options:
+      - Wired System
+      - Wireless System
+      - Hardwired System
+      required: true
+    - id: 11
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: system_location
+      label: System Location
+      hint: null
+      type: select_multiple
+      options:
+      - Bedroom
+      - Living Room
+      - Kitchen
+      required: false
+    - id: 13
+      name: fire_alarm_info
+      label: Fire Alarm Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: smoke_alarm_system_model
+      label: Smoke Alarm System Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: smoke_alarm_system_serial_number
+      label: Smoke Alarm System Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: smoke_alarm_system_mfg_date
+      label: Smoke Alarm System Mfg Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: smoke_alarm_system_mfg_cert_number
+      label: Smoke Alarm System Mfg Cert Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: smoke_alarm_system_inspect_date
+      label: Smoke Alarm System Inspect Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: smoke_alarm_system_inspect_status
+      label: Smoke Alarm System Inspect Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: smoke_alarm_system_inspect_cert_number
+      label: Smoke Alarm System Inspect Cert Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: smoke_alarm_system_inspect_cert_date
+      label: Smoke Alarm System Inspect Cert Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: smoke_alarm_system_inspect_cert_number
+      label: Smoke Alarm System Inspect Cert Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: smoke_alarm_system_inspect_status
+      label: Smoke Alarm System Inspect Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: smoke_alarm_system_inspect_date
+      label: Smoke Alarm System Inspect Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: We Buy Houses
+    pages:
+    - id: 1
+      name: we_buy_houses
+      label: we buy houses template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: type_of_house
+      label: what type of house
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: garage_size
+      label: garage size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: basement
+      label: basement
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: bathrooms
+      label: how many bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: bedrooms
+      label: how many bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mortgage_status
+      label: is there a mortgage on the house
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: lender_name
+      label: current lender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mortgage_balance
+      label: mortgage balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: is_occupied
+      label: is the house occupied
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false

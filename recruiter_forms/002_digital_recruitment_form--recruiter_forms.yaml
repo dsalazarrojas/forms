@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Recruitment Form
+    pages:
+    - id: 1
+      name: education
+      label: job_applicant_education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skills
+      label: job_applicant_skills
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: experience
+      label: job_applicant_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resume_upload
+      label: job_applicant_resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: job_applicant_contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: job_applicant_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: job_applicant_availability
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: reference
+      label: job_applicant_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference1
+      label: job_applicant_reference_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false

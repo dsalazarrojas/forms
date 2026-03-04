@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Calculator Access Form
+    pages:
+    - id: 1
+      name: mortgage_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: years
+      label: Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Monthly
+      - Bi-Annual
+      required: false
+    - id: 6
+      name: payment_frequency_other
+      label: Payment Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: down_payment
+      label: Down Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mortgage_rate
+      label: Mortgage Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_interest
+      label: Total Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: monthly_payment
+      label: Monthly Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_interest_monthly
+      label: Total Interest Monthly
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: monthly_payment_monthly
+      label: Monthly Payment Monthly
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_interest_yearly
+      label: Total Interest Yearly
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: monthly_payment_yearly
+      label: Monthly Payment Yearly
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,314 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Insurance Questionnaire
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_address
+      label: Business Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_business_operations
+      label: -- Business Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_structure
+      label: Business Structure
+      hint: Legal structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      required: true
+    - id: 8
+      name: industry_classification
+      label: Industry Classification
+      hint: Primary industry
+      type: select_one
+      options:
+      - Retail
+      - Office/Professional
+      - Manufacturing
+      - Warehouse
+      - Restaurant
+      - Hotel
+      - Healthcare
+      - Auto Service
+      - Other
+      required: true
+    - id: 9
+      name: years_operating
+      label: Years Operating
+      hint: Time in business
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 10
+      name: number_of_locations
+      label: Number of Locations
+      hint: How many business locations
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: building_ownership
+      label: Building Ownership
+      hint: Do you own the building
+      type: select_one
+      options:
+      - Own Building and Land
+      - Own Building Lease Land
+      - Lease or Rent
+      - Condominium
+      required: true
+    - id: 13
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: construction_type
+      label: Construction Type
+      hint: Building materials
+      type: select_one
+      options:
+      - Wood Frame
+      - Masonry
+      - Steel Frame
+      - Concrete
+      - Mixed
+      required: true
+    - id: 15
+      name: total_square_footage
+      label: Total Square Footage
+      hint: Building size
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: building_replacement_cost
+      label: Building Replacement Cost
+      hint: Estimated cost to rebuild
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: business_personal_property
+      label: Business Personal Property Value
+      hint: Equipment inventory etc
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_header_liability
+      label: -- Liability Exposure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: customer_visits
+      label: Customer Visits Premises
+      hint: Do customers visit your location
+      type: select_one
+      options:
+      - Yes Frequently
+      - Yes Occasionally
+      - Rarely
+      - false
+      required: true
+    - id: 20
+      name: products_sold
+      label: Products Sold
+      hint: Do you sell products
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: services_provided
+      label: Services Provided
+      hint: Do you provide services
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: professional_advice
+      label: Do You Provide Professional Advice
+      hint: Consulting or advisory services
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: section_header_vehicles
+      label: -- Business Vehicles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: business_vehicles
+      label: Number of Business Vehicles
+      hint: Owned or leased vehicles
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: vehicle_types
+      label: Vehicle Types
+      hint: Types of vehicles
+      type: select_multiple
+      options:
+      - Cars
+      - Trucks
+      - Vans
+      - Trailers
+      - Heavy Equipment
+      - None
+      required: false
+    - id: 26
+      name: section_header_employees
+      label: -- Employees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: total_employees
+      label: Total Number of Employees
+      hint: Full and part time
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: payroll_amount
+      label: Annual Payroll Amount
+      hint: Total annual payroll
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: section_header_claims_history
+      label: -- Claims History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: prior_claims
+      label: Prior Insurance Claims
+      hint: Claims in past 5 years
+      type: select_one
+      options:
+      - None
+      - 1 claim
+      - 2-3 claims
+      - 4 or more
+      required: true
+    - id: 31
+      name: claims_description
+      label: Claims Description
+      hint: Describe claims if any
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_header_coverage_preferences
+      label: -- Coverage Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: desired_coverages
+      label: Desired Coverages
+      hint: Select coverages needed
+      type: select_multiple
+      options:
+      - Building Coverage
+      - Business Personal Property
+      - Business Income
+      - General Liability
+      - Professional Liability
+      - Workers Compensation
+      - Commercial Auto
+      - Cyber Liability
+      - Equipment Breakdown
+      - Flood
+      - Earthquake
+      required: true
+    - id: 34
+      name: deductible_preference
+      label: Deductible Preference
+      hint: Preferred deductible amount
+      type: select_one
+      options:
+      - $500
+      - $1,000
+      - $2,500
+      - $5,000
+      - $10,000
+      required: true
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

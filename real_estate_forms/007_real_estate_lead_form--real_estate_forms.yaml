@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Lead Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: Lead Generation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''name'', ''label'': ''Full Name'', ''type'': ''text''}'
+      - '{''name'': ''email'', ''label'': ''Email'', ''type'': ''email''}'
+      - '{''name'': ''phone'', ''label'': ''Phone'', ''type'': ''phone''}'
+      - '{''name'': ''address'', ''label'': ''Address'', ''type'': ''text''}'
+      required: false
+    - id: 3
+      name: property_details
+      label: Property Details
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''property_type'', ''label'': ''Property Type'', ''type'': ''select_one'',
+        ''options'': [{''id'': 1, ''name'': ''House'', ''value'': ''House''}, {''id'':
+        2, ''name'': ''Apartment'', ''value'': ''Apartment''}, {''id'': 3, ''name'':
+        ''Other'', ''value'': ''Other''}]}'
+      - '{''name'': ''property_location'', ''label'': ''Property Location'', ''type'':
+        ''select_one'', ''options'': [{''id'': 1, ''name'': ''Location 1'', ''value'':
+        ''Location 1''}, {''id'': 2, ''name'': ''Location 2'', ''value'': ''Location
+        2''}, {''id'': 3, ''name'': ''Location 3'', ''value'': ''Location 3''}]}'
+      required: false
+    - id: 4
+      name: customer_purpose
+      label: Customer Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''To Buy'', ''value'': ''To Buy''}'
+      - '{''id'': 2, ''name'': ''To Rent'', ''value'': ''To Rent''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: preferred_commute
+      label: Preferred Commute
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: desired_move_in_date
+      label: Desired Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: preferred_move_in_month
+      label: Preferred Move In Month
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Month 1'', ''value'': ''Month 1''}'
+      - '{''id'': 2, ''name'': ''Month 2'', ''value'': ''Month 2''}'
+      - '{''id'': 3, ''name'': ''Month 3'', ''value'': ''Month 3''}'
+      required: false
+    - id: 8
+      name: preferred_move_in_year
+      label: Preferred Move In Year
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Year 1'', ''value'': ''Year 1''}'
+      - '{''id'': 2, ''name'': ''Year 2'', ''value'': ''Year 2''}'
+      - '{''id'': 3, ''name'': ''Year 3'', ''value'': ''Year 3''}'
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Investment Interest Form
+    pages:
+    - id: 1
+      name: investment_interest_form
+      label: property_investment_interest_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_investor_information
+      label: property_investor_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investment_options
+      label: investment_options
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Residential''}'
+      - '{''id'': 2, ''label'': ''Commercial''}'
+      - '{''id'': 3, ''label'': ''Agricultural''}'
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: right_of_first_refusal_request_form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_request
+      label: Date Of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

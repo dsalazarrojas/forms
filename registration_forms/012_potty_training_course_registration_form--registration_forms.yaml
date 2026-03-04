@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Potty Training Course Registration Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Enter Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Enter Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: child_age
+      label: Enter Child Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - Grandparent
+      - Guardian
+      - Other
+      required: false
+    - id: 12
+      name: medical_issues
+      label: Medical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: allergy_list
+      label: Allergy List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_alert
+      label: Medical Alert
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

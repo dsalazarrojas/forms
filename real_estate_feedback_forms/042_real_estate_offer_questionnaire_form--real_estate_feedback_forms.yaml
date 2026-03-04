@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Offer Questionnaire Form
+    pages:
+    - id: 1
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: offer_price
+      label: offer_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: offer_terms
+      label: offer_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: offer_details
+      label: offer_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_date
+      label: contact_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_time
+      label: contact_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - Contact
+      - Email
+      - Phone
+      required: false
+    - id: 11
+      name: offer_status
+      label: offer_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Declined
+      required: true
+    - id: 12
+      name: contact_status
+      label: contact_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Declined
+      required: true
+    - id: 13
+      name: address_2
+      label: address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_2
+      label: contact_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_number_2
+      label: contact_number_2
+      hint: null
+      type: text
+      options: []
+      required: false

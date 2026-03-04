@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_exit_inspection_form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Sold
+      - Rented
+      - Leased
+      - Vacant
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: damage_report
+      label: Damage Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_damage
+      label: Property Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: repair_cost
+      label: Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_damage_photos
+      label: Property Damage Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_damage_description
+      label: Property Damage Description
+      hint: null
+      type: note
+      options: []
+      required: false

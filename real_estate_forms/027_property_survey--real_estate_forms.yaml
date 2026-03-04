@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Survey
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 3
+      name: property_structure
+      label: property_structure
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Townhouse
+      - Apartment
+      - House
+      required: false
+    - id: 4
+      name: property_boundaries
+      label: Property Boundaries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: charges
+      label: Charges
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: guarantees
+      label: Guarantees
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: features
+      label: Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_value_currency
+      label: Property Value Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 10
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_multiple
+      options:
+      - Primary
+      - Secondary
+      required: false
+    - id: 11
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Leased
+      required: false

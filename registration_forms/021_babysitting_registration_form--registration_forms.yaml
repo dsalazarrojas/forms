@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitting Registration Form
+    pages:
+    - id: 1
+      name: family_info_header
+      label: -- Family Registration and Needs Assessment --
+      hint: Register your family for our regular babysitting services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_parent_name
+      label: Primary Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: children_details
+      label: Children's Names and Ages
+      hint: List all children requiring care
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: regular_schedule_needed
+      label: Regular Days and Times Needed
+      hint: e.g., Mondays and Wednesdays, 3 PM to 6 PM
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: frequency_of_service
+      label: Frequency of Service
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Occasional
+      required: true
+    - id: 9
+      name: special_needs_medical
+      label: Any Special Needs or Medical Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: home_rules_guidelines
+      label: Key Home Rules and Guidelines
+      hint: e.g., no guests allowed, 특정 snacks only
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_meeting_spot
+      label: Household Emergency Meeting Spot
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payment_agreement_acceptance
+      label: I agree to the service rates and payment terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 13
+      name: payment_method_on_file
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Venmo
+      - Cash/Check
+      - Bank Transfer
+      required: true
+    - id: 14
+      name: registration_effective_date
+      label: Requested Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

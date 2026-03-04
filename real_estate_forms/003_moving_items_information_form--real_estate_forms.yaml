@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: moving-items-information-form
+    pages:
+    - id: 1
+      name: moving_items_information
+      label: Moving Items Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: item_description
+      label: item description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Small furniture''}'
+      - '{''label'': ''Large furniture''}'
+      - '{''label'': ''Electronics''}'
+      - '{''label'': ''Clothing''}'
+      required: false
+    - id: 4
+      name: item_weight
+      label: Item Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_dimensions
+      label: Item Dimensions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Small''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Large''}'
+      required: false
+    - id: 6
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In storage''}'
+      - '{''label'': ''On truck''}'
+      - '{''label'': ''At destination''}'
+      required: false
+    - id: 7
+      name: item_remarks
+      label: Item Remarks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: item_contact_person
+      label: Item Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_contact_phone
+      label: Item Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_contact_email
+      label: Item Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

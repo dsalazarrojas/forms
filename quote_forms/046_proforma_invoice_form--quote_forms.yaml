@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Proforma Invoice Form
+    pages:
+    - id: 1
+      name: proforma_invoice_details
+      label: Proforma Invoice Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: invoice_number
+      label: invoice number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_address
+      label: client address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_address_2
+      label: billing address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_contact
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchased_items
+      label: purchased items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: purchased_items_table
+      label: purchased items table
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purchased_item_unit_price
+      label: unit price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: purchased_item_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: purchased_item_price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms
+      label: payment terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: subtotal
+      label: subtotal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tax
+      label: tax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_fee
+      label: shipping fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: total_amount
+      label: total amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_terms
+      label: delivery terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false

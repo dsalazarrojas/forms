@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lien Release Form
+    pages:
+    - id: 1
+      name: lien_release_form
+      label: Lien Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lienholder_name
+      label: Lienholder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lien_date
+      label: Lien Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: lien_amount
+      label: Lien Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: paid_by
+      label: Paid By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lienholder_signature
+      label: Lienholder Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: borrower_signature
+      label: Borrower Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lender_signature
+      label: Lender Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_paid
+      label: Date Paid
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: amount_paid_date
+      label: Amount Paid Date
+      hint: null
+      type: date
+      options: []
+      required: true

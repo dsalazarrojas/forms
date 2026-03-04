@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literacy Program Filming Consent Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_education_level
+      label: Education Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: filmed_by
+      label: Filmed By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: recording_device
+      label: Recording Device
+      hint: null
+      type: select_one
+      options:
+      - Audio Recorder
+      - Camera
+      - Phone
+      - Other
+      required: false
+    - id: 7
+      name: recording_date
+      label: Recording Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: recording_time
+      label: Recording Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: filming_consent
+      label: Filming Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_signed_by
+      label: Consent Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization_signature
+      label: Organization Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Address Verification Form
+    pages:
+    - id: 1
+      name: verifier_information
+      label: Verifier information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subject_name
+      label: Subject name
+      hint: Person or entity to verify
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claimed_address
+      label: Claimed address
+      hint: Address to be verified
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: verification_method
+      label: Verification method
+      hint: Type of proof provided
+      type: select_one
+      options: [Utility bill, Lease agreement, Government ID, Other]
+      required: true
+    - id: 5
+      name: document_details
+      label: Document details
+      hint: Issuing authority and date
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: verifier_name
+      label: Verifier name
+      hint: Person completing verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: verification_date
+      label: Verification date
+      hint: Date document was checked
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: outcome
+      label: Verification outcome
+      hint: Confirm verified or not
+      type: select_one
+      options: [Verified, Not verified, Pending]
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Any additional observations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature name
+      hint: Typed name for record
+      type: text
+      options: []
+      required: true

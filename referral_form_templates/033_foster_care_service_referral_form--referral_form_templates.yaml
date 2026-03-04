@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foster Care Service Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: referral_service
+      label: Referral Service
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: case_worker_name
+      label: Case Worker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_worker_notes
+      label: Social Worker Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

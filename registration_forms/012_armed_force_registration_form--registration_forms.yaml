@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Armed Force Registration Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: citizenship
+      label: Citizenship Status
+      hint: null
+      type: select_one
+      options:
+      - Citizen
+      - Permanent resident
+      - Dual citizen
+      - Other
+      required: true
+    - id: 5
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city_state_zip
+      label: City, State/Province, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_military_interest
+      label: -- Military Service Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: branch_interest
+      label: Which branch are you interested in
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Marines
+      - Coast Guard
+      - Space Force
+      required: true
+    - id: 13
+      name: service_type
+      label: Type of service
+      hint: null
+      type: select_one
+      options:
+      - Active duty
+      - Reserve
+      - National Guard
+      - Not sure
+      required: true
+    - id: 14
+      name: employment_status
+      label: Current employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Self-employed
+      - Other
+      required: true
+    - id: 15
+      name: section_education
+      label: -- Education Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: highest_education
+      label: Highest level of education
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - GED
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Graduate degree
+      required: true
+    - id: 17
+      name: gpa_score
+      label: Current or most recent GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_health
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: medical_conditions
+      label: Do you have any medical conditions
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 20
+      name: condition_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: physical_fitness_level
+      label: Current physical fitness level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      required: false
+    - id: 22
+      name: section_background
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: criminal_record
+      label: Do you have a criminal record
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 24
+      name: security_clearance
+      label: Do you need security clearance
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 25
+      name: additional_info
+      label: Additional information or comments
+      hint: null
+      type: text
+      options: []
+      required: false

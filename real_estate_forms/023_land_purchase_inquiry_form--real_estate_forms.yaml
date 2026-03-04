@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Land Purchase Inquiry Form
+    pages:
+    - id: 1
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: Please select property type
+      type: select_one
+      options:
+      - Lot
+      - Land
+      - Property
+      required: false
+    - id: 7
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: agent_info
+      label: Agent Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovation Lab Referral Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_info
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - In progress
+      - On-hold
+      - Completed
+      required: false
+    - id: 4
+      name: innovation_area
+      label: Innovation Area
+      hint: null
+      type: select_one
+      options:
+      - Artificial Intelligence
+      - Data Science
+      - Cyber Security
+      required: false
+    - id: 5
+      name: project_owner
+      label: Project Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_contact
+      label: Project Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_link
+      label: Project Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Please provide a brief description of the project.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_tags
+      label: Project Tags
+      hint: null
+      type: select_multiple
+      options:
+      - AI-powered
+      - Data-driven
+      - Security-focused
+      - Innovation-driven
+      required: false
+    - id: 10
+      name: lab_interests
+      label: Lab Interests
+      hint: null
+      type: select_multiple
+      options:
+      - AI-powered
+      - Data-driven
+      - Security-focused
+      - Innovation-driven
+      required: false

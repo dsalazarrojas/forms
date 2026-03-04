@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: preliminary_vacation_itinerary
+    pages:
+    - id: 1
+      name: client_id
+      label: client_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_agent_note
+      label: travel_agent_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: travel_agent_email
+      label: travel_agent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: travel_agent_phone
+      label: travel_agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_message
+      label: client_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_message
+      label: client_message_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hotel
+      label: hotel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: hotel_note
+      label: hotel_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: hotel_email
+      label: hotel_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: hotel_phone
+      label: hotel_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: car_rental
+      label: car_rental
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: car_rental_note
+      label: car_rental_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: car_rental_email
+      label: car_rental_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: car_rental_phone
+      label: car_rental_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: activity
+      label: activity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: activity_note
+      label: activity_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: activity_email
+      label: activity_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: activity_phone
+      label: activity_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: activity_additional_info
+      label: activity_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: agent_signature
+      label: agent_signature
+      hint: null
+      type: note
+      options: []
+      required: false

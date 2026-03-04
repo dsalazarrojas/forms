@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chargeback Refund Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: transaction_date
+      label: Transaction Date
+      hint: When the purchase occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: transaction_amount
+      label: Transaction Amount
+      hint: Total amount charged
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: transaction_id
+      label: Transaction ID or Order Number
+      hint: Reference number from receipt
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: merchant_name
+      label: Merchant Name
+      hint: Store or business name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_type
+      label: Type of Request
+      hint: What are you requesting
+      type: select_one
+      options:
+      - Full refund
+      - Partial refund
+      - Chargeback dispute
+      - Withdrawal of chargeback
+      required: true
+    - id: 9
+      name: reason_category
+      label: Reason Category
+      hint: Primary reason for request
+      type: select_one
+      options:
+      - Product not received
+      - Product defective
+      - Product not as described
+      - Unauthorized transaction
+      - Duplicate charge
+      - Service not provided
+      - Cancelled order
+      - Other
+      required: true
+    - id: 10
+      name: reason_details
+      label: Detailed Explanation
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: attempted_resolution
+      label: Did you contact the merchant first
+      hint: Attempted to resolve directly
+      type: select_one
+      options:
+      - Yes resolved
+      - Yes not resolved
+      - No I did not
+      required: true
+    - id: 12
+      name: supporting_documents
+      label: Do you have supporting documents
+      hint: Receipts emails or proof
+      type: select_one
+      options:
+      - Yes I will upload
+      - Yes I have but cannot upload
+      - No documents available
+      required: true
+    - id: 13
+      name: preferred_resolution
+      label: Preferred Resolution
+      hint: How should this be resolved
+      type: select_one
+      options:
+      - Full refund to original payment
+      - Store credit
+      - Replacement product
+      - Service credit
+      - Other
+      required: true
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Not urgent
+      - Somewhat urgent
+      - Urgent
+      - Very urgent
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Murder Mystery Event Registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Actor'', ''value'': ''actor''}'
+      - '{''id'': 2, ''label'': ''Director'', ''value'': ''director''}'
+      - '{''id'': 3, ''label'': ''Producer'', ''value'': ''producer''}'
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_info
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: event_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted
+      label: Form submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_notes
+      label: Participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: confirm_participation
+      label: Confirm participation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 17
+      name: confirm_participation_hint
+      label: Confirm participation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 18
+      name: confirm_participation_label
+      label: Confirm participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirm_participation_label_hint
+      label: Confirm participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_status
+      label: Event status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': ''open''}'
+      - '{''id'': 2, ''label'': ''Closed'', ''value'': ''closed''}'
+      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      required: false
+    - id: 21
+      name: participant_status
+      label: Participant status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Attending'', ''value'': ''attending''}'
+      - '{''id'': 2, ''label'': ''Not Attending'', ''value'': ''not_attending''}'
+      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      required: false
+    - id: 22
+      name: participant_status_hint
+      label: Participant status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Attending'', ''value'': ''attending''}'
+      - '{''id'': 2, ''label'': ''Not Attending'', ''value'': ''not_attending''}'
+      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      required: false
+    - id: 23
+      name: participant_status_label
+      label: Participant status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_status_label_hint
+      label: Participant status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

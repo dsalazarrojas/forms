@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Accommodation Referral Form
+    pages:
+    - id: 1
+      name: referral_intro
+      label: Accommodation Referral
+      hint: Get personalized hotel recommendations
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conference_info
+      label: Conference Information
+      hint: Event details
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: conference_name
+      label: Conference Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: conference_dates
+      label: Conference Dates
+      hint: Event dates
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: check_in_date
+      label: Check-In Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: check_out_date
+      label: Check-Out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: Your lodging needs
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: room_type
+      label: Room Type Preference
+      hint: Type of room
+      type: select_one
+      options:
+      - Standard Single
+      - Standard Double
+      - Queen Room
+      - King Room
+      - Suite
+      - Executive Room
+      required: true
+    - id: 12
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total guests
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: Rooms needed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range Per Night
+      hint: Price range
+      type: select_one
+      options:
+      - Budget under 100 dollars
+      - Moderate 100 to 200 dollars
+      - Premium 200 to 350 dollars
+      - Luxury over 350 dollars
+      required: true
+    - id: 15
+      name: location_preference
+      label: Location Preference
+      hint: Where to stay
+      type: select_one
+      options:
+      - Walking Distance to Venue
+      - Within 5 Miles
+      - Within 10 Miles
+      - No Preference
+      required: true
+    - id: 16
+      name: amenities_needed
+      label: Amenities Needed
+      hint: Required facilities
+      type: select_multiple
+      options:
+      - Free WiFi
+      - Free Breakfast
+      - Fitness Center
+      - Swimming Pool
+      - Business Center
+      - Parking Available
+      - Airport Shuttle
+      - Pet Friendly
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Special requirements
+      type: select_multiple
+      options:
+      - Wheelchair Accessible Room
+      - Hearing Accessible
+      - Visual Accessible
+      - Roll-in Shower
+      - None Required
+      required: false
+    - id: 18
+      name: smoking_preference
+      label: Smoking Preference
+      hint: Smoking or non-smoking
+      type: select_one
+      options:
+      - Non-Smoking
+      - Smoking
+      - No Preference
+      required: true
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Getting to conference
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: airport_pickup
+      label: Airport Pickup Needed
+      hint: Require transportation
+      type: select_one
+      options:
+      - Yes Needed
+      - No I Have Transport
+      required: false
+    - id: 22
+      name: referral_priority
+      label: Referral Priority
+      hint: Urgency level
+      type: select_one
+      options:
+      - High Need Immediately
+      - Medium Within Week
+      - Low Just Exploring
+      required: true
+    - id: 23
+      name: previous_stays
+      label: Previous Conference Stays
+      hint: Stayed with us before
+      type: select_one
+      options:
+      - Yes Multiple Times
+      - Yes Once
+      - No First Time
+      required: false
+    - id: 24
+      name: preferred_hotel_chain
+      label: Preferred Hotel Chain
+      hint: Any brand preference
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false

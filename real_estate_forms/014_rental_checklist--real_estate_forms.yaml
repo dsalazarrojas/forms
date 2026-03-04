@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Checklist
+    pages:
+    - id: 1
+      name: rental_checklist_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_checklist_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rental_checklist_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Leased
+      - Sold
+      required: false
+    - id: 4
+      name: rental_checklist_rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rental_checklist_rent_type
+      label: Rent Type
+      hint: null
+      type: select_one
+      options:
+      - Month-to-Month
+      - Lease
+      - Fixed
+      required: false
+    - id: 6
+      name: rental_checklist_status_change
+      label: Status Change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rental_checklist_status_change_reason
+      label: Status Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rental_checklist_status_change_note
+      label: Status Change Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rental_checklist_last_status_change
+      label: Last Status Change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rental_checklist_last_status_change_reason
+      label: Last Status Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rental_checklist_last_status_change_note
+      label: Last Status Change Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rental_checklist_agent
+      label: Agent
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: false
+    - id: 13
+      name: rental_checklist_agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rental_checklist_agent_email
+      label: Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false

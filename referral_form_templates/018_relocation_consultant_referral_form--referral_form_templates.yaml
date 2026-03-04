@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relocation Consultant Referral Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Phone: 1-800-555-1212'
+      - 'Email: [email]'
+      - 'Text: 1-800-555-1234'
+      required: false
+    - id: 3
+      name: consultant_info
+      label: Consultant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Direct Referral
+      - Social Media
+      - Email Marketing
+      required: false
+    - id: 5
+      name: referral_info
+      label: Referral Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consultant_company
+      label: Consultant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: client_referral_status
+      label: Client Referral Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Not Active
+      - Pending
+      required: false
+    - id: 12
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

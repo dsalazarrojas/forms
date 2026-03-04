@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Legal Aid Referral Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: For eligibility
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_language
+      label: Preferred Language
+      hint: For communication
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Arabic
+      - Other
+      required: true
+    - id: 8
+      name: legal_issue_type
+      label: Type of Legal Issue
+      hint: Primary concern
+      type: select_one
+      options:
+      - Housing or eviction
+      - Family law
+      - Immigration
+      - Employment
+      - Consumer rights
+      - Criminal matter
+      - Public benefits
+      - Other civil matter
+      required: true
+    - id: 9
+      name: issue_description
+      label: Describe Your Legal Issue
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Emergency immediate action needed
+      - Very urgent within 24 hours
+      - Urgent within 1 week
+      - Soon within 1 month
+      - Not urgent
+      required: true
+    - id: 11
+      name: court_date
+      label: Do You Have a Court Date
+      hint: Scheduled hearing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: court_date_value
+      label: Court Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: opposing_party
+      label: Is There an Opposing Party
+      hint: Other side involved
+      type: select_one
+      options:
+      - Yes represented
+      - Yes not represented
+      - false
+      required: false
+    - id: 14
+      name: household_size
+      label: Household Size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: monthly_income
+      label: Monthly Household Income
+      hint: Before taxes
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 to $2000
+      - $2001 to $3000
+      - $3001 to $4000
+      - Over $4000
+      required: true
+    - id: 16
+      name: public_assistance
+      label: Do You Receive Public Assistance
+      hint: Government aid
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: prior_legal_help
+      label: Have You Had Legal Help Before
+      hint: Previous representation
+      type: select_one
+      options:
+      - Yes currently represented
+      - Yes in the past
+      - No never
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Court referral
+      - Community organization
+      - Friend or family
+      - Website
+      - Hotline
+      - Other
+      required: false
+    - id: 19
+      name: consent_contact
+      label: Consent to Contact
+      hint: Permission for follow-up
+      type: select_one
+      options:
+      - Yes contact me
+      - No do not contact
+      required: true
+    - id: 20
+      name: additional_info
+      label: Additional Information
+      hint: Anything else
+      type: text
+      options: []
+      required: false

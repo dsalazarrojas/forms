@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_inspection_assessment_form
+    pages:
+    - id: 1
+      name: property_inspection_form
+      label: property_inspection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_location
+      label: property_location
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: false
+    - id: 4
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_year_built
+      label: property_year_built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_size_sqft
+      label: property_size_sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_floor_count
+      label: property_floor_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_unit_type
+      label: property_unit_type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Condo
+      - Other
+      required: false
+    - id: 9
+      name: property_inspector
+      label: property_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: property_notes
+      label: property_notes
+      hint: null
+      type: text
+      options: []
+      required: false

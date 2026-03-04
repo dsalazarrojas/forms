@@ -1,0 +1,279 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Satisfaction Survey
+    pages:
+    - id: 1
+      name: satisfaction_level
+      label: What is your satisfaction level with your home?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 2
+      name: lease_renewal_likelihood
+      label: How likely are you to renew your lease?
+      hint: null
+      type: select_one
+      options:
+      - Highly Likely
+      - Somewhat Likely
+      - Not Likely
+      required: false
+    - id: 3
+      name: communication_communication
+      label: How do you like communication from your landlord/property manager?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: maintenance_maintenance
+      label: How would you rate the maintenance and repairs in your home?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: rent_level
+      label: How would you rate the level of rent in your home?
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Somewhat Low
+      - Just Right
+      - Very High
+      required: false
+    - id: 6
+      name: space_and_amenities
+      label: How would you rate the space and amenities in your home?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: lease_duration
+      label: How long do you want to lease your home for?
+      hint: null
+      type: select_one
+      options:
+      - 1-3 months
+      - 4-6 months
+      - 7-12 months
+      - More than 12 months
+      required: false
+    - id: 8
+      name: lease_renewal_date
+      label: What date are you looking to renew your lease?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rent_payment
+      label: How do you like the payment of rent?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: lease_security
+      label: How secure do you feel about your tenancy?
+      hint: null
+      type: select_one
+      options:
+      - Very Secure
+      - Somewhat Secure
+      - Not Very Secure
+      required: false
+    - id: 11
+      name: lease_maintenance_fund
+      label: Are you happy with the lease maintenance fund?
+      hint: null
+      type: select_one
+      options:
+      - Very Happy
+      - Somewhat Happy
+      - Not Very Happy
+      required: false
+    - id: 12
+      name: lease_move_in_condition
+      label: What was the condition of your home when you moved in?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: lease_move_out_condition
+      label: What do you expect your home to be like when you move out?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: rent_increase_notice
+      label: How would you like to be notified about rent increase?
+      hint: null
+      type: select_one
+      options:
+      - Written 30 days prior
+      - Written 60 days prior
+      - Not at all
+      required: false
+    - id: 15
+      name: maintenance_request_facilitation
+      label: How satisfied are you with the process of making maintenance requests?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 16
+      name: maintenance_response_time
+      label: How quickly do you think maintenance requests are typically responded
+        to?
+      hint: null
+      type: select_one
+      options:
+      - Within 1 day
+      - 2-3 days
+      - 4-7 days
+      - More than 7 days
+      required: false
+    - id: 17
+      name: communication_response_time
+      label: How quickly do you think communication from your landlord/property manager
+        typically takes place?
+      hint: null
+      type: select_one
+      options:
+      - Within 1 day
+      - 2-3 days
+      - 4-7 days
+      - More than 7 days
+      required: false
+    - id: 18
+      name: communication_response_quality
+      label: How would you rate the quality of communication from your landlord/property
+        manager?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: lease_renewal_period
+      label: How often would you like to be reminded about lease renewal?
+      hint: null
+      type: select_one
+      options:
+      - Every 1-3 months
+      - Every 4-6 months
+      - Every 7-12 months
+      - Never
+      required: false
+    - id: 20
+      name: lease_renewal_reason
+      label: What reason would you provide for not renewing your lease?
+      hint: null
+      type: select_multiple
+      options:
+      - Rent is too high
+      - Lease term is too short
+      - Lease term is too long
+      - Other (please specify)
+      required: false
+    - id: 21
+      name: lease_renewal_notice
+      label: How would you like to be notified about lease renewal?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Mail
+      - Other (please specify)
+      required: false
+    - id: 22
+      name: lease_renewal_decision
+      label: What factors influence your decision to renew or not renew your lease?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lease_termination_notice
+      label: How would you like to be notified about lease termination?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Mail
+      - Other (please specify)
+      required: false
+    - id: 24
+      name: lease_communication_channel
+      label: How would you like to receive communication from your landlord/property
+        manager?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Other (please specify)
+      required: false
+    - id: 25
+      name: lease_renewal_notice
+      label: What is the ideal time for lease renewal notice?
+      hint: null
+      type: select_one
+      options:
+      - 1-2 months
+      - 3-6 months
+      - 7-9 months
+      - More than 9 months
+      required: false

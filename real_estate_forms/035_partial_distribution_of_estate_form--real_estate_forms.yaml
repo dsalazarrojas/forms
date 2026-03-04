@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Partial Distribution Of Estate Form
+    pages:
+    - id: 1
+      name: beneficiary_info
+      label: Beneficiary Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: asset_info
+      label: Asset Info
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: distribution_plan
+      label: Distribution Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: executor_info
+      label: Executor Info
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: share_distribution
+      label: Share Distribution
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: estate_value
+      label: Estate Value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: partial_distribution_date
+      label: Partial Distribution Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cicerone Discourse Quiz
+    pages:
+      - id: 1
+        name: section_header_instructions
+        label: -- Cicerone Beer Knowledge Quiz --
+        hint: Test your beer expertise with this comprehensive quiz
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: experience_level
+        label: Beer Knowledge Experience Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Cicerone certified
+        required: true
+      - id: 5
+        name: question_1
+        label: What is the primary ingredient that gives beer its bitter flavor
+        hint: null
+        type: select_one
+        options:
+          - Barley
+          - Hops
+          - Yeast
+          - Water
+        required: true
+      - id: 6
+        name: question_2
+        label: Which beer style is known for its high ABV and fruity esters
+        hint: null
+        type: select_one
+        options:
+          - Pilsner
+          - Belgian Tripel
+          - Porter
+          - Amber Ale
+        required: true
+      - id: 7
+        name: question_3
+        label: What does IBU stand for in beer terminology
+        hint: null
+        type: select_one
+        options:
+          - International Beer Unit
+          - Isomerized Bittering Unit
+          - Indian Bitter Uncertainty
+          - International Brewing University
+        required: true
+      - id: 8
+        name: question_4
+        label: Lager yeast ferments at which temperature range
+        hint: null
+        type: select_one
+        options:
+          - 45-75 degrees Fahrenheit
+          - 55-65 degrees Fahrenheit
+          - 65-75 degrees Fahrenheit
+          - 75-85 degrees Fahrenheit
+        required: true
+      - id: 9
+        name: question_5
+        label: Which country is most known for Pilsner beer
+        hint: null
+        type: select_one
+        options:
+          - Germany
+          - Czech Republic
+          - Belgium
+          - Netherlands
+        required: true
+      - id: 10
+        name: question_6
+        label: What is the process called when hops are added at the end of boil
+        hint: null
+        type: select_one
+        options:
+          - Dry hopping
+          - Late hopping
+          - First wort hopping
+          - Mash hopping
+        required: true
+      - id: 11
+        name: question_7
+        label: Which of these is a British beer style
+        hint: null
+        type: select_one
+        options:
+          - American IPA
+          - Kolsch
+          - Real Ale
+          - Gose
+        required: true
+      - id: 12
+        name: question_8
+        label: What is the Reinheitsgebot
+        hint: null
+        type: select_one
+        options:
+          - German Beer Purity Law
+          - Brewing certification
+          - Beer competition
+          - Type of beer
+        required: true
+      - id: 13
+        name: question_9
+        label: Approximately how long should a typical lager fermentation take
+        hint: null
+        type: select_one
+        options:
+          - 2-3 weeks
+          - 4-6 weeks
+          - 2-3 months
+          - 4-6 months
+        required: true
+      - id: 14
+        name: question_10
+        label: What is the alcohol content of a typical imperial stout
+        hint: null
+        type: select_one
+        options:
+          - 3-5%
+          - 5-7%
+          - 7-9%
+          - 9%+
+        required: true
+      - id: 15
+        name: section_header_feedback
+        label: -- Quiz Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: quiz_difficulty
+        label: How would you rate the difficulty of this quiz
+        hint: null
+        type: select_one
+        options:
+          - Too easy
+          - Easy
+          - Just right
+          - Difficult
+          - Too difficult
+        required: false
+      - id: 17
+        name: interest_cicerone_program
+        label: Interested in Cicerone Certification Program
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Not sure
+          - Not interested
+        required: false
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: What did you think of this quiz
+        type: text
+        options: []
+        required: false

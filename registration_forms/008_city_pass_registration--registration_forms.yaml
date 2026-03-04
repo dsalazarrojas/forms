@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Pass Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- City Pass Application --
+      hint: For residents and visitors to access city services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: residential_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city_neighborhood
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: residency_proof_type
+      label: Proof of Residency Type
+      hint: null
+      type: select_one
+      options:
+      - Utility Bill
+      - Lease Agreement
+      - Voter ID
+      - Tax Statement
+      required: true
+    - id: 9
+      name: pass_type_selection
+      label: Select Pass Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Resident Pass
+      - Senior Citizen Pass
+      - Student Pass
+      - Visitor 7-Day Pass
+      - Business Fleet Pass
+      required: true
+    - id: 10
+      name: primary_use_cases
+      label: Primary Intended Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Public Transportation
+      - City Parking
+      - Public Libraries
+      - Recreational Facilities
+      - Museum Access
+      required: false
+    - id: 11
+      name: auto_renewal_opt_in
+      label: Enable Auto-Renewal?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No, I will renew manually
+      required: true
+    - id: 12
+      name: processing_fee_notice
+      label: A non-refundable processing fee of 25.00 applies to new registrations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: privacy_agreement
+      label: I agree to the data privacy terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: digital_signature_name
+      label: Digital Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: application_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

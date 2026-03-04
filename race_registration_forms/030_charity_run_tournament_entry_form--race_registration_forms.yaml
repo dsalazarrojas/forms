@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Run Tournament Entry Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For race communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY for age category
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_race_info
+      label: -- Race Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Race Event Name
+      hint: Which charity run are you entering
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: When is the race
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: race_distance
+      label: Race Distance
+      hint: Choose your race distance
+      type: select_one
+      options:
+      - 1 Mile
+      - 5K
+      - 10K
+      - Half Marathon
+      - Marathon
+      - Custom Distance
+      required: true
+    - id: 11
+      name: participation_format
+      label: Participation Format
+      hint: Individual or team entry
+      type: select_one
+      options:
+      - Individual Entry
+      - Team Entry
+      - Corporate Group
+      required: true
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: If entering as a team
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_bib
+      label: -- Bib and Category --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: age_category
+      label: Age Category
+      hint: Your age group
+      type: select_one
+      options:
+      - Under 18
+      - 18-29
+      - 30-39
+      - 40-49
+      - 50-59
+      - 60-69
+      - 70+
+      required: true
+    - id: 15
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Other
+      - Prefer Not to Say
+      required: false
+    - id: 16
+      name: section_details
+      label: -- Race Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: shirt_size
+      label: T-Shirt Size
+      hint: Size for race shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 18
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Accessibility or medical accommodations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_conditions
+      label: Medical Conditions We Should Know About
+      hint: Asthma, allergies, heart conditions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_fundraising
+      label: -- Fundraising --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: fundraising_participation
+      label: Will You Fundraise for This Race
+      hint: Will you collect pledges or donations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: fundraising_goal
+      label: Personal Fundraising Goal
+      hint: Target amount to raise
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_fees
+      label: -- Entry Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: entry_fee
+      label: Entry Fee
+      hint: Cost to enter the race
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: optional_donation
+      label: Optional Donation to Charity
+      hint: Additional contribution
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: total_due
+      label: Total Amount Due
+      hint: Entry fee plus donation
+      type: number
+      options: []
+      required: true

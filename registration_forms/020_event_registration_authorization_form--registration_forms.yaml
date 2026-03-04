@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Registration Authorization Form
+    pages:
+    - id: 1
+      name: event_registration_authorization_form
+      label: event_registration_authorization_form_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: participant_phone_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_address
+      label: participant_address_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_notes
+      label: participant_notes_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: organizer_name
+      label: organizer_name_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_start_date
+      label: event_start_date_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_ending_date
+      label: event_ending_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: participant_starting_time
+      label: participant_starting_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: participant_ending_time
+      label: participant_ending_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: participant_event_type
+      label: participant_event_type_label
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 13
+      name: participant_event_type_other
+      label: participant_event_type_other_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_event_type_other_hint
+      label: participant_event_type_other_hint
+      hint: participant_event_type_other_hint_text
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_description
+      label: event_description_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_location
+      label: event_location_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_attending
+      label: participant_attending_label
+      hint: null
+      type: select_multiple
+      options:
+      - participant_attending_option_1
+      - participant_attending_option_2
+      - participant_attending_option_3
+      required: true
+    - id: 18
+      name: participant_attending_other
+      label: participant_attending_other_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_attending_other_hint
+      label: participant_attending_other_hint
+      hint: participant_attending_other_hint_text
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_agree
+      label: participant_agree_label
+      hint: null
+      type: select_one
+      options:
+      - participant_agree_option_1
+      - participant_agree_option_2
+      - participant_agree_option_3
+      required: true
+    - id: 21
+      name: participant_agree_other
+      label: participant_agree_other_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_agree_other_hint
+      label: participant_agree_other_hint
+      hint: participant_agree_other_hint_text
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_agree_other_text
+      label: participant_agree_other_text_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_submission_date
+      label: form_submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: form_submission_time
+      label: form_submission_time
+      hint: null
+      type: time
+      options: []
+      required: true

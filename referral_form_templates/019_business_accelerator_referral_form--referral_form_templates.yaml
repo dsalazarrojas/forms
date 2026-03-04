@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Accelerator Referral Form
+    pages:
+    - id: 1
+      name: referrer_info
+      label: Referrer Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Your Full Name
+      hint: Full name of person making referral
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_email
+      label: Your Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: referrer_phone
+      label: Your Phone
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referrer_relationship
+      label: Your Relationship to Referral
+      hint: How do you know the referred business
+      type: select_one
+      options:
+      - Friend
+      - Family Member
+      - Colleague
+      - Business Partner
+      - Customer
+      - Vendor
+      - Mentor
+      - Investor
+      - Other
+      required: true
+    - id: 6
+      name: referred_business_info
+      label: Referred Business Information
+      hint: Details about the business being referred
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: Name of the business
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_website
+      label: Business Website
+      hint: Website URL
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: industry
+      label: Industry
+      hint: Business industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - E-commerce
+      - Education
+      - Clean Energy
+      - Food and Beverage
+      - Manufacturing
+      - Retail
+      - Services
+      - Other
+      required: true
+    - id: 10
+      name: business_stage
+      label: Business Stage
+      hint: Current stage of business
+      type: select_one
+      options:
+      - Idea Stage
+      - Pre-Seed
+      - Seed
+      - Early Stage
+      - Growth Stage
+      - Expansion Stage
+      - Mature
+      required: true
+    - id: 11
+      name: founding_date
+      label: Founding Date
+      hint: When was the business founded
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current team size
+      type: select_one
+      options:
+      - Solo Founder
+      - 2-5 employees
+      - 6-10 employees
+      - 11-20 employees
+      - 21-50 employees
+      - More than 50 employees
+      required: true
+    - id: 13
+      name: founder_info
+      label: Founder Information
+      hint: Details about the founder
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: founder_name
+      label: Founder Name
+      hint: Full name of primary founder
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: founder_email
+      label: Founder Email
+      hint: Founder email address
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: founder_phone
+      label: Founder Phone
+      hint: Founder contact number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: founder_background
+      label: Founder Background
+      hint: Brief description of founder experience
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_overview
+      label: Business Overview
+      hint: What does the business do
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: value_proposition
+      label: Value Proposition
+      hint: What problem does it solve
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: referral_reason
+      label: Reason for Referral
+      hint: Why are you referring this business
+      type: select_one
+      options:
+      - Strong Growth Potential
+      - Innovative Product
+      - Experienced Team
+      - Market Opportunity
+      - Personal Recommendation
+      - Other
+      required: true
+    - id: 21
+      name: funding_status
+      label: Current Funding Status
+      hint: Has the business raised funding
+      type: select_one
+      options:
+      - Bootstrapped
+      - Friends and Family
+      - Angel Investment
+      - Venture Capital
+      - Grant Funding
+      - Not Raised
+      required: true
+    - id: 22
+      name: funding_amount
+      label: Total Funding Raised
+      hint: Approximate amount raised
+      type: select_one
+      options:
+      - None
+      - Under $50,000
+      - $50,000-$250,000
+      - $250,000-$1,000,000
+      - $1,000,000-$5,000,000
+      - More than $5,000,000
+      required: false
+    - id: 23
+      name: accelerator_goals
+      label: Goals for Accelerator Program
+      hint: What does the business hope to gain
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: permission_contact
+      label: Permission to Contact
+      hint: Have you informed the business about this referral
+      type: select_one
+      options:
+      - Yes - They Expect Contact
+      - Yes - But Surprised
+      - No - Please Contact Me First
+      required: true

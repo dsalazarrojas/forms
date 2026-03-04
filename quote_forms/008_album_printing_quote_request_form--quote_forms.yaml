@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Album Printing Quote Request Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Name of your photography business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Email for quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for questions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: album_type
+      label: Album Type
+      hint: Type of album you need printed
+      type: select_one
+      options:
+      - Wedding Album
+      - Portrait Album
+      - Event Album
+      - Portfolio Album
+      - Baby/Family Album
+      - Commercial Album
+      required: true
+    - id: 6
+      name: album_size
+      label: Album Size
+      hint: Desired dimensions
+      type: select_one
+      options:
+      - 8x8 inches
+      - 10x10 inches
+      - 12x12 inches
+      - 10x8 inches (landscape)
+      - 12x9 inches (landscape)
+      - Custom size
+      required: true
+    - id: 7
+      name: cover_material
+      label: Cover Material
+      hint: Preferred cover material
+      type: select_one
+      options:
+      - Leather
+      - Linen
+      - Velvet
+      - Silk
+      - Wood
+      - Acrylic
+      - Metal
+      required: true
+    - id: 8
+      name: page_type
+      label: Page Type
+      hint: Type of pages for the album
+      type: select_one
+      options:
+      - Layflat pages
+      - Standard pages
+      - Thick board pages
+      - Magnetic pages
+      required: true
+    - id: 9
+      name: number_of_pages
+      label: Number of Pages
+      hint: Estimated page count
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: print_quantity
+      label: Print Quantity
+      hint: How many copies do you need?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: photo_finish
+      label: Photo Finish
+      hint: Preferred finish for prints
+      type: select_one
+      options:
+      - Glossy
+      - Matte
+      - Satin
+      - Lustre
+      - Fine Art
+      required: true
+    - id: 12
+      name: color_correction
+      label: Color Correction Service
+      hint: Do you need color correction?
+      type: select_one
+      options:
+      - Yes, for all images
+      - Yes, for selected images
+      - No, files are print-ready
+      required: true
+    - id: 13
+      name: design_service
+      label: Design Service
+      hint: Do you need layout design?
+      type: select_one
+      options:
+      - Yes, full design service
+      - Yes, template-based design
+      - No, I will provide layouts
+      required: true
+    - id: 14
+      name: turnaround_time
+      label: Turnaround Time
+      hint: When do you need the albums?
+      type: select_one
+      options:
+      - Standard (2-3 weeks)
+      - Rush (1 week)
+      - Express (3-5 days)
+      - Flexible
+      required: true
+    - id: 15
+      name: shipping_address
+      label: Shipping Address
+      hint: Where should we ship the albums?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget per album
+      type: select_one
+      options:
+      - Under $100
+      - $100-$200
+      - $201-$350
+      - $351-$500
+      - Over $500
+      required: false
+    - id: 17
+      name: sample_needed
+      label: Sample Album Needed
+      hint: Would you like to see a sample first?
+      type: select_one
+      options:
+      - Yes, send a sample
+      - No, proceed with quote
+      required: false
+    - id: 18
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requirements or questions
+      type: text
+      options: []
+      required: false

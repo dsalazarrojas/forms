@@ -1,0 +1,332 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Part Time Job Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: This is a part time job survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Administrative Assistant
+      - Advertising
+      - Agriculture
+      - Architecture
+      - Art
+      - Audio-Visual
+      - Banking
+      - Biotechnology
+      - Business
+      - Chemical
+      - Communication
+      - Computer Science
+      - Construction
+      - Design
+      - Education
+      - Engineering
+      - Entertainment
+      - Finance
+      - Food and Beverage
+      - Game Development
+      - Health
+      - Human Resources
+      - Information Technology
+      - Law
+      - Management
+      - Manufacturing
+      - Marketing
+      - Mathematics
+      - Medical
+      - Networking
+      - Non-profit
+      - Photography
+      - Physics
+      - Real Estate
+      - Research and Development
+      - Retail
+      - Sales
+      - Science
+      - Security
+      - Social Sciences
+      - Software
+      - Sports
+      - Supply and Logistics
+      - Technology
+      - Telecommunications
+      - Tourism
+      - Transportation
+      - Web Development
+      required: true
+    - id: 3
+      name: salary_range
+      label: What type of pay can you accept
+      hint: null
+      type: select_multiple
+      options:
+      - 1-10k
+      - 10001-20k
+      - 20001-30k
+      - 30001-40k
+      - 40001-50k
+      - 50001-60k
+      - 60001-70k
+      - 70001-80k
+      - 80001-90k
+      - 90001-100k
+      required: true
+    - id: 4
+      name: availability
+      label: How many hours can you work per week?
+      hint: null
+      type: select_one
+      options:
+      - 0-5
+      - 10-15
+      - 16-20
+      - 21-25
+      - 26-30
+      - 31-35
+      - 36-40
+      - 41-45
+      - 46-50
+      required: true
+    - id: 5
+      name: work_days
+      label: What days of the week do you work?
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: work_hours
+      label: What hours do you work per day?
+      hint: null
+      type: select_one
+      options:
+      - Less than 5
+      - 5-10
+      - 11-15
+      - 16-20
+      - More than 20
+      required: true
+    - id: 7
+      name: job_type
+      label: What type of job do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      required: true
+    - id: 8
+      name: job_location
+      label: Where do you prefer to work?
+      hint: null
+      type: select_multiple
+      options:
+      - Home office
+      - Office
+      - On-site
+      - Remotely
+      - Anywhere
+      required: false
+    - id: 9
+      name: job_duties
+      label: What duties can you perform?
+      hint: null
+      type: select_multiple
+      options:
+      - Administrative
+      - Data Entry
+      - Customer Service
+      - Data Analysis
+      - Data Entry and Analysis
+      - Other (please specify)
+      - Data Analysis and Entry
+      required: true
+    - id: 10
+      name: skills
+      label: What skills do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - Some High School
+      - High School Graduate
+      - Bachelor's Degree
+      - Some College
+      - Associate's Degree
+      - Post-Bachelor's
+      - Phd
+      - Post-graduate
+      required: true
+    - id: 12
+      name: experience
+      label: Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-6 years
+      - 7-10 years
+      - More than 10 years
+      required: true
+    - id: 13
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Full time
+      - Part time
+      - Intern
+      - Temporary
+      - Retired
+      - Other
+      required: false
+    - id: 14
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: available_date
+      label: Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Other
+      required: true
+    - id: 17
+      name: available_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: job_type_2
+      label: Job Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      - Temporary
+      required: false
+    - id: 19
+      name: job_type_3
+      label: Job Type 3
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      - Temporary
+      required: false
+    - id: 20
+      name: job_type_4
+      label: Job Type 4
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      - Temporary
+      required: false
+    - id: 21
+      name: job_type_5
+      label: Job Type 5
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      - Temporary
+      required: false
+    - id: 22
+      name: job_type_6
+      label: Job Type 6
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      - Temporary
+      required: false
+    - id: 23
+      name: job_type_7
+      label: Job Type 7
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      - Temporary
+      required: false
+    - id: 24
+      name: job_type_8
+      label: Job Type 8
+      hint: null
+      type: select_multiple
+      options:
+      - Part-time
+      - Full-time
+      - Internship
+      - Temporary
+      required: false

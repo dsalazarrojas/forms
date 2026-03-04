@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Honor Society Recommendation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_school
+      label: Student School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommender_name
+      label: Recommender Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommender_title
+      label: Recommender Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommender_employer
+      label: Recommender Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommender_relationship
+      label: Recommender Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Teacher''}'
+      - '{''name'': ''Mentor''}'
+      - '{''name'': ''Counselor''}'
+      required: false
+    - id: 8
+      name: recommender_years_known
+      label: Recommender Years Known
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: recommender_essay
+      label: Recommender Essay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommender_submission
+      label: Recommender Submission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''High Recommendation''}'
+      - '{''name'': ''Conditional Recommendation''}'
+      - '{''name'': ''Not Recommended''}'
+      required: false
+    - id: 11
+      name: recommender_additional_comments
+      label: Recommender Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Registration Form
+    pages:
+    - id: 1
+      name: proposed_business_name
+      label: Proposed Business Name
+      hint: The legal name you want to register
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Type of Business Entity
+      hint: Select your business structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Corporation
+      - Limited Liability Company (LLC)
+      - Cooperative
+      - Non-profit Organization
+      - Other
+      required: true
+    - id: 3
+      name: business_description
+      label: Business Description
+      hint: Describe what your business will do
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry_classification
+      label: Industry Classification
+      hint: Primary industry or sector
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_name
+      label: Owner or Proprietor Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_id_type
+      label: Owner ID Type
+      hint: Type of identification
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - Government ID
+      - Business License
+      - Tax ID
+      required: true
+    - id: 7
+      name: owner_id_number
+      label: Owner ID Number
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_date_of_birth
+      label: Owner Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: owner_email
+      label: Owner Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Primary contact phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: Physical location of business
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: Country where business is located
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: mailing_address_same
+      label: Mailing Address Same as Business
+      hint: Is mailing address the same
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: mailing_address
+      label: Mailing Address
+      hint: If different, provide mailing address
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: startup_date
+      label: Proposed Startup Date
+      hint: When will the business commence operations
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: estimated_annual_revenue
+      label: Estimated Annual Revenue
+      hint: Projected first year revenue
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: employees_planned
+      label: Number of Employees Planned
+      hint: How many people will you employ
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: partnership_details
+      label: Partnership Details
+      hint: If applicable, list all partners
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: registration_date
+      label: Registration Form Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

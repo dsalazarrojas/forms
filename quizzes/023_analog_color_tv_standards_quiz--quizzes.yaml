@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Analog Color TV Standards Quiz
+    pages:
+    - id: 1
+      name: section_quiz_header
+      label: -- Analog Color TV Standards Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_quiz_questions
+      label: -- Quiz Questions --
+      hint: Select the correct answers
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ntsc_standard_countries
+      label: Which countries primarily used the NTSC standard?
+      hint: null
+      type: select_one
+      options:
+      - USA and Japan
+      - UK and Germany
+      - France and Russia
+      - Brazil
+      required: true
+    - id: 6
+      name: pal_frame_rate
+      label: What is the standard frame rate for PAL signals?
+      hint: null
+      type: select_one
+      options:
+      - 25 fps
+      - 30 fps
+      - 24 fps
+      - 60 fps
+      required: true
+    - id: 7
+      name: secam_origin_country
+      label: In which country was the SECAM standard developed?
+      hint: null
+      type: select_one
+      options:
+      - France
+      - USA
+      - Germany
+      - Japan
+      required: true
+    - id: 8
+      name: color_encoding_methods
+      label: Which of these are color encoding methods used in analog TV?
+      hint: null
+      type: select_multiple
+      options:
+      - QAM
+      - FM
+      - Phase Modulation
+      - Amplitude Modulation
+      required: true
+    - id: 9
+      name: total_lines_in_standard_ntsc_signal
+      label: How many total scan lines are in a standard NTSC signal?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: subcarrier_frequency_for_pal
+      label: What is the typical color subcarrier frequency for PAL?
+      hint: null
+      type: select_one
+      options:
+      - 4.43 MHz
+      - 3.58 MHz
+      - 4.2 MHz
+      - 5.5 MHz
+      required: true
+    - id: 11
+      name: explain_difference_between_pal_and_ntsc
+      label: Briefly explain one major difference between PAL and NTSC
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_finalize
+      label: -- Finalize --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: request_copy_of_results
+      label: Would you like a copy of your results sent to your email?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

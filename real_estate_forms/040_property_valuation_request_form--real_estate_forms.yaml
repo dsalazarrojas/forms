@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Valuation Request Form
+    pages:
+    - id: 1
+      name: type_of_property
+      label: what_kind_of_property
+      hint: null
+      type: select_one
+      options:
+      - Land
+      - Office
+      - Commercial
+      - Residential
+      required: true
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_description
+      label: description_of_property
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Land
+      - Office
+      - Commercial
+      - Residential
+      required: true
+    - id: 6
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: valuation_date
+      label: valuation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: valuation_method
+      label: valuation_method
+      hint: null
+      type: select_one
+      options:
+      - Inspection
+      - Review
+      - Calculation
+      required: true
+    - id: 9
+      name: client_contact_info
+      label: client_contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_price
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: valuation_result
+      label: valuation_result
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 12
+      name: notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_message
+      label: client_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_location
+      label: property_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Sold
+      required: false
+    - id: 19
+      name: property_status_details
+      label: property_status_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_status_date
+      label: property_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: property_price_range
+      label: property_price_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_location_area
+      label: property_location_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_use
+      label: property_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: valuation_type
+      label: valuation_type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automated
+      - Hybrid
+      required: false
+    - id: 25
+      name: notes
+      label: additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false

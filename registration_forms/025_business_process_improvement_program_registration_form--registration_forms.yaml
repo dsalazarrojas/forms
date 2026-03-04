@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Process Improvement Program Registration Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      type: note
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your business email
+      type: email
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      required: false
+    - id: 6
+      name: section_company_info
+      label: -- Company Information --
+      type: note
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      required: false
+    - id: 10
+      name: manager_name
+      label: Direct Manager Name
+      hint: Your supervisor
+      type: text
+      required: false
+    - id: 11
+      name: section_program_interest
+      label: -- Program Interest --
+      type: note
+      required: false
+    - id: 12
+      name: program_track
+      label: Program Track or Level
+      hint: Which program level are you interested in
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Executive
+      required: true
+    - id: 13
+      name: improvement_focus
+      label: Improvement Focus Area
+      hint: What process area do you want to improve
+      type: select_multiple
+      options:
+      - Operational Efficiency
+      - Cost Reduction
+      - Quality Management
+      - Customer Experience
+      - Supply Chain
+      - Lean Management
+      - Six Sigma
+      required: true
+    - id: 14
+      name: section_process_challenges
+      label: -- Process Challenges --
+      type: note
+      required: false
+    - id: 15
+      name: current_challenges
+      label: Current Process Challenges
+      hint: What challenges are you facing
+      type: text
+      required: true
+    - id: 16
+      name: improvement_goals
+      label: Improvement Goals
+      hint: What do you hope to achieve
+      type: text
+      required: true
+    - id: 17
+      name: expected_benefits
+      label: Expected Benefits
+      hint: What benefits do you anticipate
+      type: text
+      required: false
+    - id: 18
+      name: section_commitment
+      label: -- Commitment Level --
+      type: note
+      required: false
+    - id: 19
+      name: program_commitment
+      label: Time Commitment Available per Week
+      hint: How many hours can you dedicate
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-15 hours
+      - 15-20 hours
+      - 20+ hours
+      required: true
+    - id: 20
+      name: team_involvement
+      label: Will Your Team Be Involved
+      hint: Will this be a team effort
+      type: select_one
+      options:
+      - Individual participation only
+      - Small team involved
+      - Whole department involved
+      required: false
+    - id: 21
+      name: organizational_support
+      label: Organizational Support for Initiative
+      hint: Do you have management support
+      type: select_one
+      options:
+      - Full support
+      - Partial support
+      - Uncertain
+      - Limited support
+      required: false
+    - id: 22
+      name: section_preferences
+      label: -- Program Preferences --
+      type: note
+      required: false
+    - id: 23
+      name: learning_format
+      label: Preferred Learning Format
+      hint: How do you prefer to learn
+      type: select_one
+      options:
+      - In-Person Classroom
+      - Online Self-Paced
+      - Virtual Live Sessions
+      - Hybrid Approach
+      required: true
+    - id: 24
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      required: false

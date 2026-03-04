@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_workshop_recording_sharing_consent_form
+    pages:
+    - id: 1
+      name: workshop_recording_sharing_consent
+      label: Workshop Recording Sharing Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_recording_sharing_concent
+      label: Workshop Recording Sharing Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Recording and sharing of workshop recordings
+      - Sharing workshop recordings with other workshop participants
+      - Sharing workshop recordings with third-party organizations
+      required: false
+    - id: 3
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sharing_with_other_participants
+      label: Sharing With Other Participants
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false

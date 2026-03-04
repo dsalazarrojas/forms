@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: NRED Mandatory COVID Disclosure And Open House Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: disclosure
+      label: NRED COVID Disclosure
+      hint: This is the NRED COVID Disclosure
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: nred_guidance
+      label: NRED Guidance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: send_email
+      label: Send email to me
+      hint: null
+      type: select_one
+      options:
+      - NRED Guidance
+      - NRED Disclosure
+      required: true
+    - id: 10
+      name: nred_disclosure_signed
+      label: I have signed the NRED disclosure
+      hint: null
+      type: select_multiple
+      options:
+      - I have signed the NRED COVID Disclosure
+      - I have not signed the NRED COVID Disclosure
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: send_update
+      label: Send updates
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: nred_update_guidance
+      label: NRED updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email_subject
+      label: Email subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email_body
+      label: Email body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: email_from
+      label: Email from
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: email_cc
+      label: CC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: nred_update
+      label: NRED updates
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Product Safety Audit Registration
+    pages:
+    - id: 1
+      name: organization_legal_name
+      label: Organization Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact_name
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_address
+      label: Facility Physical Address
+      hint: Location where audit will take place
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: audit_type_selection
+      label: Audit Type Selection
+      hint: null
+      type: select_one
+      options:
+      - Routine Safety Audit
+      - Certification Audit
+      - Supplier Compliance Audit
+      - Incident or Breach Investigation
+      required: true
+    - id: 6
+      name: preferred_start_date
+      label: Preferred Audit Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_end_date
+      label: Preferred Audit End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: employee_count
+      label: Total Number of Employees at Facility
+      hint: Used for audit scope planning
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: audit_scope_description
+      label: Scope of Audit and Specific Focus Areas
+      hint: Describe departments or processes to be audited
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: confirmation_email
+      label: Registration Confirmation Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: billing_instruction_notes
+      label: Billing Information and Instructions
+      hint: Purchase Order number or billing address
+      type: text
+      options: []
+      required: false

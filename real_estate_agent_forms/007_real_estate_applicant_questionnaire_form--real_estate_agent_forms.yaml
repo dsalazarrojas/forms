@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_applicant_questionnaire_form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: family_status
+      label: Family Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: family_status_1_1
+      label: Married or Partnered
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Partnered
+      - Single
+      - Divorced
+      - Separated
+      required: false
+    - id: 8
+      name: family_status_1_2
+      label: Number of Dependents
+      hint: null
+      type: select_multiple
+      options:
+      - One
+      - Two
+      - Three or more
+      required: false
+    - id: 9
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Retired
+      - Self-Employed
+      - Student
+      - Unemployed
+      required: false
+    - id: 10
+      name: employment_status_1_1
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employment_status_1_2
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: employment_status_2_1
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employment_status_2_1_1
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employment_status_2_1_2
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: rental_status
+      label: Rental Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: rental_status_1_1
+      label: Current Rental Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rental_status_1_2
+      label: Rental Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: rental_status_1_3
+      label: Rental Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: rental_status_2_1
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: rental_status_2_1_1
+      label: Utilities Included
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rental_status_2_1_2
+      label: Square Footage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rental_status_2_1_3
+      label: Lease Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rental_status_2_1_4
+      label: Lease Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: home_type
+      label: Type of Home
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Condo
+      - Townhouse
+      - Apartment
+      - Duplex
+      - Semi-Detached
+      - Detached
+      - Other
+      required: false
+    - id: 25
+      name: employment_status_2_2
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Home
+      - Condo
+      - Townhome
+      - Duplex
+      - Semi-Detached
+      - Other
+      required: false
+    - id: 26
+      name: employment_status_2_2_1
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

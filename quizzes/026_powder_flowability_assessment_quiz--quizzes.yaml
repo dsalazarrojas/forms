@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Powder Flowability Assessment Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flowability_definition
+      label: Flowability Definition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: importance_assessment
+      label: Importance Assessment
+      hint: null
+      type: select_one
+      options:
+      - Powder
+      - Slime
+      - None
+      required: true
+    - id: 4
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - None
+      required: true
+    - id: 5
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Difficulty in powder flowability measurement
+      - Difficulty in powder flowability modeling
+      - Difficulty in powder flowability testing
+      required: true
+    - id: 6
+      name: knowledge
+      label: Knowledge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: flowability_scale
+      label: Flowability Scale
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - None
+      required: false
+    - id: 8
+      name: flowability_scale_value
+      label: Flowability Scale Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: flowability_assessment
+      label: Flowability Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

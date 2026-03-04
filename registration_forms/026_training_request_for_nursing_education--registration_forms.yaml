@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Request For Nursing Education
+    pages:
+    - id: 1
+      name: training_request_form
+      label: Training Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_session_type
+      label: Training Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Life Support
+      - Crisis Intervention
+      - Medication Administration
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Hospital A
+      - Clinic B
+      - Nursing Home C
+      required: true
+    - id: 7
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: number_of_nurses
+      label: Number of Nurses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: number_of_students
+      label: Number of Students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_teachers
+      label: Number of Teachers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

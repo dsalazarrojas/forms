@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Enrollment And Liability Form
+    pages:
+    - id: 1
+      name: child_information
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_information
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: relationship
+      label: Relationship to Child
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: true
+    - id: 13
+      name: parent_phone
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_relationship
+      label: Relationship to Child
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: health_information
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: allergies
+      label: Allergies
+      hint: List all known allergies
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_medical_needs
+      label: Special Medical or Health Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: physician_name
+      label: Physician or Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: physician_phone
+      label: Physician Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: liability_section
+      label: -- Liability Release and Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false

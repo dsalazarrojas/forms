@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Podcast Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For podcast updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization or Affiliation
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: podcast_info
+      label: Podcast Information
+      hint: Tell us about your podcast
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: podcast_name
+      label: Podcast Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: podcast_category
+      label: Podcast Category
+      hint: null
+      type: select_one
+      options:
+      - News and Politics
+      - Arts and Culture
+      - Business and Entrepreneurship
+      - Comedy
+      - Education
+      - Health and Wellness
+      - Science and Technology
+      - Sports and Recreation
+      - True Crime
+      - Community Stories
+      - Other
+      required: true
+    - id: 10
+      name: podcast_description
+      label: Podcast Description
+      hint: Brief description of your show
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: episode_count
+      label: Number of Episodes Published
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: launch_date
+      label: Podcast Launch Date
+      hint: When did you start
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: release_schedule
+      label: Release Schedule
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Irregular
+      - Not Yet Launched
+      required: true
+    - id: 14
+      name: episode_length
+      label: Average Episode Length
+      hint: null
+      type: select_one
+      options:
+      - Under 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - Over 2 hours
+      required: true
+    - id: 15
+      name: format
+      label: Podcast Format
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Solo Commentary
+      - Co-Hosted
+      - Interview Style
+      - Panel Discussion
+      - Narrative Storytelling
+      - Documentary
+      - Live Recording
+      required: true
+    - id: 16
+      name: target_audience
+      label: Target Audience
+      hint: Who listens to your podcast
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: goals
+      label: Participation Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Grow Audience
+      - Network with Other Podcasters
+      - Learn New Skills
+      - Find Guests
+      - Get Feedback
+      - Promote Business
+      - Share Community Stories
+      - Other
+      required: true
+    - id: 18
+      name: equipment
+      label: Recording Equipment
+      hint: What do you use
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hosting_platform
+      label: Hosting Platform
+      hint: Where is your podcast hosted
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: social_media
+      label: Social Media Handles
+      hint: Twitter, Instagram, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: website
+      label: Podcast Website
+      hint: URL if available
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: availability
+      label: Availability for Recording
+      hint: When can you record
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 23
+      name: remote_recording
+      label: Are You Willing to Record Remotely
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer In-Person
+      required: true
+    - id: 24
+      name: previous_appearances
+      label: Have You Been on Other Podcasts
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: topics_interest
+      label: Topics You Would Like to Cover
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

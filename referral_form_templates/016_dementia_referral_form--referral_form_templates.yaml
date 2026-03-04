@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dementia Referral Form
+    pages:
+    - id: 1
+      name: referral_form_data
+      label: referral_form_data
+      hint: null
+      type: select_multiple
+      options:
+      - Dementia Referral Form
+      - Other
+      required: false
+    - id: 2
+      name: patient_referral
+      label: patient_referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_referral
+      label: date_of_referral
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_postal_code
+      label: patient_postal_code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_history
+      label: family_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: social_history
+      label: social_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cognitive_status
+      label: cognitive_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_reason
+      label: referral_reason
+      hint: Reason for referral
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: referring_doctor
+      label: referring_doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      required: false
+    - id: 14
+      name: specialist_name
+      label: specialist_name
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      required: false

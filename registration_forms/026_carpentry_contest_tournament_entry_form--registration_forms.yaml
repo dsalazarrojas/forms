@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpentry Contest Tournament Entry Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_age
+      label: Age (must be 18 or older to enter)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_experience
+      label: -- Experience and Skill Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: skill_level
+      label: Professional Level
+      hint: select the best description of your status
+      type: select_one
+      options:
+      - Apprentice
+      - Journeyman
+      - Master
+      - Hobbyist
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Carpentry Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: primary_specialty
+      label: Primary Carpentry Specialty
+      hint: null
+      type: select_one
+      options:
+      - Framing
+      - Cabinetry
+      - Joinery
+      - Wood Turning
+      - Restoration
+      - Other
+      required: true
+    - id: 10
+      name: section_tournament
+      label: -- Tournament Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: tournament_division
+      label: Selected Tournament Division
+      hint: null
+      type: select_one
+      options:
+      - Individual - Speed
+      - Individual - Craftsmanship
+      - Team - Project Build
+      required: true
+    - id: 12
+      name: entry_category
+      label: Competition Category
+      hint: focus area of your project
+      type: select_one
+      options:
+      - Furniture
+      - Structural
+      - Artistic
+      - Sustainable Design
+      required: true
+    - id: 13
+      name: tool_requirements
+      label: Will you bring your own power tools?
+      hint: check event guidelines for approved equipment
+      type: select_one
+      options:
+      - true
+      - false
+      - Some Tools
+      required: true
+    - id: 14
+      name: section_project
+      label: -- Project and Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: proposed_project_brief
+      label: Brief description of the project you intend to build
+      hint: provide enough detail for judges to categorize
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: wood_type_requested
+      label: Preferred Wood Type
+      hint: select all that apply for your build
+      type: select_multiple
+      options:
+      - Pine
+      - Oak
+      - Walnut
+      - Cherry
+      - Maple
+      - Plywood
+      required: true
+    - id: 17
+      name: workspace_size_needs
+      label: Minimum workspace size required
+      hint: in feet
+      type: select_one
+      options:
+      - Standard 10x10
+      - Large 15x15
+      - Extra Large 20x20
+      required: true
+    - id: 18
+      name: section_terms
+      label: -- Terms and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: safety_certification
+      label: Do you have a valid workshop safety certification?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 20
+      name: liability_waiver
+      label: I agree to the tournament liability and safety terms
+      hint: confirm you have read the handbook
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: entry_fee_payment
+      label: Entry Fee Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Check
+      - Sponsor-paid
+      required: true
+    - id: 22
+      name: section_final
+      label: -- Final Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: date_of_entry
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: digital_signature
+      label: Signature of Participant
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

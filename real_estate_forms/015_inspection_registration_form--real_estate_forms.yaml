@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inspection Registration Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

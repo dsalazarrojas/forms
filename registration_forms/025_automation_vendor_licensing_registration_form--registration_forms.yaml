@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Vendor Licensing Registration Form
+    pages:
+    - id: 1
+      name: section_header_vendor
+      label: -- Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_contact_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_organization
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: Company registering for licenses
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Enterprise
+      - Mid-Market
+      - Small Business
+      - Government
+      - Education
+      - Non-Profit
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_product
+      label: -- Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: product_name
+      label: Product/Solution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: product_version
+      label: Product Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_licensing
+      label: -- Licensing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Perpetual
+      - Subscription (Annual)
+      - Subscription (Monthly)
+      - Trial
+      - Educational
+      - Government
+      required: true
+    - id: 17
+      name: number_of_licenses
+      label: Number of Licenses Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: license_users
+      label: Types of Users
+      hint: null
+      type: select_multiple
+      options:
+      - Named Users
+      - Concurrent Users
+      - Department-Wide
+      - Enterprise-Wide
+      - Floating License
+      required: true
+    - id: 19
+      name: support_level
+      label: Support Level Required
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Enterprise
+      required: true
+    - id: 20
+      name: section_header_dates
+      label: -- License Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: license_start_date
+      label: License Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: license_end_date
+      label: License End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: section_header_terms
+      label: -- Terms and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: I accept the license terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

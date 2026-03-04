@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Buying Survey
+    pages:
+    - id: 1
+      name: demographics_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Your Age Group
+      hint: Select your age category
+      type: select_one
+      options:
+      - Under 25
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: true
+    - id: 3
+      name: occupation
+      label: Your Current Occupation
+      hint: For market research purposes
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: household_size
+      label: Number of People in your Household
+      hint: Total number including yourself
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: current_vehicle_header
+      label: -- Current Vehicle Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_car_make_model
+      label: Current Car Make and Model
+      hint: What do you currently drive?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_car_age
+      label: Age of Current Vehicle
+      hint: How old is your car? (in years)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: satisfaction_with_current_car
+      label: Satisfaction with Current Vehicle
+      hint: Scale of 1 to 10 (10 being highly satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: reasons_for_buying_new_header
+      label: -- Future Purchase Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: purchase_timeframe
+      label: When do you plan to buy a new car?
+      hint: Anticipated purchase date
+      type: select_one
+      options:
+      - Within 3 months
+      - 3-6 months
+      - 6-12 months
+      - After 1 year
+      - Not sure
+      required: true
+    - id: 11
+      name: main_reason_for_new_purchase
+      label: Primary Reason for Buying a New Car
+      hint: Why are you looking to buy?
+      type: select_one
+      options:
+      - Replacing old vehicle
+      - Need more space
+      - Seeking better fuel economy
+      - Want newer technology
+      - Growing family
+      - First time buyer
+      required: true
+    - id: 12
+      name: brand_loyalty
+      label: Would you buy the same brand again?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, want a change
+      - Unsure
+      required: true
+    - id: 13
+      name: research_methods
+      label: How do you research for a new car?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Online reviews
+      - Dealership visits
+      - Recommendations from friends
+      - Social media
+      - Car magazines
+      - TV Advertisements
+      required: true
+    - id: 14
+      name: dealership_experience_importance
+      label: Importance of Dealership Reputation
+      hint: How much does the dealer reputation influence you?
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Not Very Important
+      required: true
+    - id: 15
+      name: test_drive_importance
+      label: Is a test drive essential?
+      hint: Do you need to drive the car before purchase?
+      type: select_one
+      options:
+      - true
+      - false
+      - Depends on the car
+      required: true
+    - id: 16
+      name: environmental_consideration
+      label: How important are eco-friendly features?
+      hint: Impact on the environment
+      type: select_one
+      options:
+      - Crucial (Must be EV/Hybrid)
+      - Important
+      - Nice to have
+      - Not a priority
+      required: true
+    - id: 17
+      name: additional_feedback
+      label: Share any other car buying thoughts
+      hint: null
+      type: text
+      options: []
+      required: false

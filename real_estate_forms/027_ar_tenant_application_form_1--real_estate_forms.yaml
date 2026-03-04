@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: AR Tenant Application Form 1
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Valid email for application communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact number for application inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_landlord
+      label: Current Landlord Name
+      hint: Name of your current landlord
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_landlord_phone
+      label: Current Landlord Phone
+      hint: Phone number of your current landlord
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rental_period
+      label: Rental Period at Current Address
+      hint: How long have you lived at your current address?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: monthly_rent
+      label: Monthly Rent at Current Address
+      hint: How much is your current monthly rent?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_moving
+      label: Reason for Moving
+      hint: Why are you leaving your current residence?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: What is your current employment status?
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Student
+      - Unemployed
+      - Retired
+      required: true
+    - id: 11
+      name: employer_name
+      label: Employer Name
+      hint: Name of your current employer
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employer_phone
+      label: Employer Phone
+      hint: Phone number of your employer
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: monthly_income
+      label: Monthly Income
+      hint: What is your monthly income?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: references
+      label: Personal References
+      hint: Provide contact information for personal references
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pets
+      label: Pets
+      hint: Do you have any pets?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: smoking
+      label: Smoking
+      hint: Are you a smoker?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: criminal_history
+      label: Criminal History
+      hint: Do you have any criminal convictions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

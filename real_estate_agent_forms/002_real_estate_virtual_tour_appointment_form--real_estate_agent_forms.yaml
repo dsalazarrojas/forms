@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_virtual_tour_appointment_form
+    pages:
+    - id: 1
+      name: potential_clients
+      label: Potential Clients
+      hint: Please list all your potential clients
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false

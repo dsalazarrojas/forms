@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Registration Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''Option 3''}'
+      - '{''id'': 4, ''name'': ''option_4'', ''label'': ''Option 4''}'
+      required: false
+    - id: 10
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5, ''name'': ''option_5'', ''label'': ''Option 5''}'
+      - '{''id'': 6, ''name'': ''option_6'', ''label'': ''Option 6''}'
+      - '{''id'': 7, ''name'': ''option_7'', ''label'': ''Option 7''}'
+      - '{''id'': 8, ''name'': ''option_8'', ''label'': ''Option 8''}'
+      - '{''id'': 9, ''name'': ''option_9'', ''label'': ''Option 9''}'
+      required: false

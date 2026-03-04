@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Open Education Network Registration
+    pages:
+    - id: 1
+      name: registration_form_details
+      label: Registration Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: details
+      label: Member details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interest
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Interest 1
+      - Interest 2
+      - Interest 3
+      required: true
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interests_details
+      label: Interests details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: member_details
+      label: Member details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: member_interests
+      label: Member interests
+      hint: null
+      type: select_one
+      options:
+      - Member Interest 1
+      - Member Interest 2
+      - Member Interest 3
+      required: true

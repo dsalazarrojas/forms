@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact info
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 3
+      name: contact_address
+      label: contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_communication_preference
+      label: customer communication preference
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      required: true
+    - id: 6
+      name: property_location
+      label: property location
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 7
+      name: preferred_contact_channel
+      label: preferred contact channel
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      required: true
+    - id: 8
+      name: property_features
+      label: property features
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 9
+      name: communication_frequency
+      label: communication frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: followup_frequency
+      label: followup frequency
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      required: true
+    - id: 11
+      name: customer_preference
+      label: customer preference
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      required: false
+    - id: 12
+      name: property_management
+      label: property management
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      required: false
+    - id: 13
+      name: property_features2
+      label: property features 2
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 14
+      name: customer_feedback
+      label: customer feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: property_location2
+      label: property location 2
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 16
+      name: followup_question
+      label: followup question
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      required: false
+    - id: 17
+      name: followup_answer
+      label: followup answer
+      hint: null
+      type: text
+      options: []
+      required: false

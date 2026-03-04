@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Scene Commentary Consent Form
+    pages:
+    - id: 1
+      name: participant_name_legal
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: professional_title_role
+      label: Professional Title and Project Role
+      hint: e.g. Director, Lead Animator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: scene_sequence_identifier
+      label: Scene or Sequence ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: animation_project_title
+      label: Animation Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recording_medium_type
+      label: Commentary Recording Type
+      hint: null
+      type: select_one
+      options:
+      - Audio Only
+      - Audio and Video - On-camera
+      - Written Commentary - Textual
+      required: true
+    - id: 6
+      name: bts_usage_consent
+      label: Permission to Use Commentary in Behind-the-Scenes Material
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - Private use only
+      required: true
+    - id: 7
+      name: educational_usage_consent
+      label: Permission to Use in Educational or Training Materials
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - Do not use for education
+      required: true
+    - id: 8
+      name: ip_grant_acknowledgment
+      label: Grant of Intellectual Property for Commentary
+      hint: I grant all rights to the recorded commentary to the studio
+      type: select_one
+      options:
+      - I grant all rights to the studio
+      - Other
+      required: true
+    - id: 9
+      name: editing_authorization_status
+      label: Authorization to Edit Commentary
+      hint: I authorize the studio to edit for length, clarity, or style
+      type: select_one
+      options:
+      - I authorize the studio to edit
+      - Other
+      required: true
+    - id: 10
+      name: participant_signature_text
+      label: Digital Signature
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: signature_date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

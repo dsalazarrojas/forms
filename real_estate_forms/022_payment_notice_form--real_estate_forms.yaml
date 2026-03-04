@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment-notice-form
+    pages:
+    - id: 1
+      name: rent_notice
+      label: Rent Notice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_methods
+      label: Payment Methods
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 4
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pay_by
+      label: Pay By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: Additional comments or notes
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: send_notice
+      label: Send Notice
+      hint: null
+      type: select_multiple
+      options:
+      - Send via Email
+      - Send via Fax
+      - Send via Mail
+      - Do Not Send
+      required: true
+    - id: 10
+      name: payment_notice_status
+      label: Payment Notice Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: notice_date
+      label: Notice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notice_time
+      label: Notice Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notice_sent_by
+      label: Notice Sent By
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Manager
+      - Property Manager
+      - Tenant
+      required: false

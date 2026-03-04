@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Speaker Access Form
+    pages:
+    - id: 1
+      name: speaker_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: speaker_phone_number
+      label: Cell Phone Number
+      hint: To be used only during the event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: affiliation_organization
+      label: Organization or Institution Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presentation_title
+      label: Title of Your Presentation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_id
+      label: Session ID or Name (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaker_brief_bio
+      label: Short Professional Bio
+      hint: For the conference program (max 150 words)
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_logistics
+      label: -- Event Access and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: badge_pickup_date
+      label: Preferred Badge Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: audio_visual_needs
+      label: Specific Audio-Visual Requirements
+      hint: e.g. laptop connections, wireless mics
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: speaker_dietary_needs
+      label: Any Specific Dietary Restrictions?
+      hint: For the speaker dinner and lunches
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      required: true
+    - id: 12
+      name: accommodation_required
+      label: Do you require hotel accommodation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: emergency_contact_info
+      label: Emergency Contact Name and Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: release_authorization
+      label: Authorization to Record and Distribute Presentation?
+      hint: For the online conference archive
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

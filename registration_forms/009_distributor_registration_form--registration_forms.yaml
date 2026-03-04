@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: distributor_registration_form
+    pages:
+    - id: 1
+      name: representative_name
+      label: Representative Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recruiter_name
+      label: Recruiter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: representative_email
+      label: Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: representative_phone
+      label: Representative Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: distributor_name
+      label: Distributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: distributor_address
+      label: Distributor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false

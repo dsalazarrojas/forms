@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Date Registration Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: batch_selection_header
+      label: -- Batch and Date Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: selected_batch_date
+      label: Available Batch Dates
+      hint: Select the start date for your training batch
+      type: select_one
+      options:
+      - Batch A - March 1st to March 15th
+      - Batch B - March 16th to March 30th
+      - Batch C - April 1st to April 15th
+      - Batch D - April 16th to April 30th
+      required: true
+    - id: 7
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Registration
+      - Early Bird Discount
+      - Corporate Group
+      - Returning Alumni
+      required: true
+    - id: 8
+      name: background_info
+      label: Briefly describe your previous experience in this field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For catered lunch sessions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payment_method_header
+      label: -- Payment and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_mode
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Credit Card
+      - Bank Wire Transfer
+      - Invoice My Company
+      required: true
+    - id: 14
+      name: agreement_terms
+      label: I agree to the registration terms and cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: submission_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

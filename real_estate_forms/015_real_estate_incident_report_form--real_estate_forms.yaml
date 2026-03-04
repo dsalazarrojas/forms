@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_incident_report_form
+    pages:
+    - id: 1
+      name: real_estate_incident_report_form
+      label: Form Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: Provide a detailed description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: landlord
+      label: Landlord
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Fire''}'
+      - '{''id'': 2, ''text'': ''Theft''}'
+      - '{''id'': 3, ''text'': ''Other''}'
+      required: true
+    - id: 10
+      name: witnesses
+      label: Witnesses
+      hint: List all witnesses
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Employee''}'
+      - '{''id'': 2, ''text'': ''Public''}'
+      - '{''id'': 3, ''text'': ''Both''}'
+      - '{''id'': 4, ''text'': ''None''}'
+      required: true
+    - id: 11
+      name: incident_details
+      label: Incident Details
+      hint: Provide additional details about the incident
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Open''}'
+      - '{''id'': 2, ''text'': ''Closed''}'
+      - '{''id'': 3, ''text'': ''In Progress''}'
+      required: true
+    - id: 14
+      name: incident_image
+      label: Incident Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_video
+      label: Incident Video
+      hint: null
+      type: text
+      options: []
+      required: false

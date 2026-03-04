@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Interview Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interview_date
+      label: Interview Date
+      hint: When is this interview occurring?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: agent_name
+      label: Real Estate Agent Name
+      hint: Name of interviewing agent
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: buyer_status
+      label: Buyer Status
+      hint: First-time or repeat buyer?
+      type: select_one
+      options:
+      - First-time homebuyer
+      - Repeat buyer
+      - Investor
+      - Relocating
+      - Downsizing
+      required: true
+    - id: 7
+      name: cobuyer_present
+      label: Co-Buyer or Co-Signer
+      hint: Is there another buyer?
+      type: select_one
+      options:
+      - Single buyer
+      - Co-buyer present
+      - Co-buyer to follow
+      required: true
+    - id: 8
+      name: timeline_to_purchase
+      label: Timeline to Purchase
+      hint: When do you want to close?
+      type: select_one
+      options:
+      - 0-30 days
+      - 30-60 days
+      - 60-90 days
+      - 90-180 days
+      - 180+ days
+      - Flexible
+      required: true
+    - id: 9
+      name: financing_status
+      label: Financing Status
+      hint: null
+      type: select_one
+      options:
+      - Pre-approved
+      - Pre-qualified
+      - Needs pre-approval
+      - Cash buyer
+      - Unsure
+      required: true
+    - id: 10
+      name: lender_name
+      label: Lender Name
+      hint: If pre-approved
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: maximum_price
+      label: Maximum Purchase Price
+      hint: In USD or local currency
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: down_payment_percent
+      label: Down Payment Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_type_wants
+      label: Property Types Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Single-family detached
+      - Townhouse or rowhouse
+      - Condo
+      - Multi-family
+      - Land only
+      - New construction
+      - Existing home
+      required: true
+    - id: 14
+      name: number_bedrooms
+      label: Number of Bedrooms
+      hint: Minimum or preferred
+      type: select_one
+      options:
+      - 1 bedroom
+      - 2 bedrooms
+      - 3 bedrooms
+      - 4 bedrooms
+      - 5+ bedrooms
+      - No preference
+      required: true
+    - id: 15
+      name: location_preferences
+      label: Location Preferences
+      hint: Cities, neighborhoods, zip codes
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: commute_distance
+      label: Maximum Commute Distance
+      hint: Miles or minutes to work
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: priority_features
+      label: Priority Features or Amenities
+      hint: Pool, yard, garage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_condition_preference
+      label: Property Condition Preference
+      hint: null
+      type: select_one
+      options:
+      - Move-in ready
+      - Minor updates ok
+      - Major renovations ok
+      - Fixer-upper
+      - No preference
+      required: true
+    - id: 19
+      name: other_preferences
+      label: Other Preferences or Constraints
+      hint: Any other important details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_steps
+      label: Agreed Next Steps
+      hint: What happens after this interview?
+      type: text
+      options: []
+      required: true

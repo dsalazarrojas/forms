@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Utility Service Sale Rejection Recommendation Form
+    pages:
+    - id: 1
+      name: rejection_rationale
+      label: Rejection Rationale
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sales_leader_review
+      label: Sales Leader Review
+      hint: null
+      type: select_one
+      options:
+      - Sales Leader 1
+      - Sales Leader 2
+      required: true
+    - id: 4
+      name: quality_team_review
+      label: Quality Team Review
+      hint: null
+      type: select_multiple
+      options:
+      - Quality Team 1
+      - Quality Team 2
+      - Quality Team 3
+      required: false
+    - id: 5
+      name: internal_recommendation
+      label: Internal Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true

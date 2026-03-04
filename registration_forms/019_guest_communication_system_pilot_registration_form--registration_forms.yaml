@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Communication System Pilot Registration Form
+    pages:
+    - id: 1
+      name: guest_communication_pilot_registration_form
+      label: Guest Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_property_address
+      label: Guest Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_property_phone
+      label: Guest Property Phone
+      hint: Enter a valid 10-digit number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_communication_pilot_lead
+      label: Guest Communication Pilot Lead
+      hint: Enter the name of the lead who is handling the registration
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_communication_pilot_manager
+      label: Guest Communication Pilot Manager
+      hint: Enter the name of the manager of the guest communication pilot
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_communication_pilot_status
+      label: Guest Communication Pilot Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Enter a 10-digit number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false

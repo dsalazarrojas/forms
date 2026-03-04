@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_listing_evaluation_checklist
+    pages:
+    - id: 1
+      name: property_list
+      label: Property List
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Property'', ''value'': ''House''}'
+      - '{''id'': 2, ''name'': ''Land'', ''value'': ''Land''}'
+      - '{''id'': 3, ''name'': ''Condo'', ''value'': ''Condo''}'
+      - '{''id'': 4, ''name'': ''Townhouse'', ''value'': ''Townhouse''}'
+      - '{''id'': 5, ''name'': ''Apartment'', ''value'': ''Apartment''}'
+      - '{''id'': 6, ''name'': ''Duplex'', ''value'': ''Duplex''}'
+      required: false
+    - id: 3
+      name: num_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: num_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sqft
+      label: Square Feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

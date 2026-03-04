@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Quote And Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Website Design
+      - Web Development
+      - E-commerce Development
+      - Social Media Marketing
+      required: true
+    - id: 7
+      name: quote
+      label: Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

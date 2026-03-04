@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Materials Constraints Knowledge Quiz
+    pages:
+    - id: 1
+      name: materials_constraints_knowledge_quiz
+      label: Materials Constraints Knowledge Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 5
+      name: course
+      label: Course
+      hint: null
+      type: select_multiple
+      options:
+      - option6
+      - option7
+      - option8
+      - option9
+      - option10
+      required: true
+    - id: 6
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: quiz_time
+      label: Quiz Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: note
+      options: []
+      required: false

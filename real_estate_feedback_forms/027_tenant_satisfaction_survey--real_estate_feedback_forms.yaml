@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Satisfaction Survey
+    pages:
+    - id: 1
+      name: property_name
+      label: What is your property name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Where do you live
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lease_length
+      label: How long have you lived there
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: satisfaction_score
+      label: What is your level of satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: renew_lease
+      label: Are you likely to renew your lease
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 6
+      name: comments
+      label: Do you have any comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_first_moved_in
+      label: Date First Moved In
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: move_out_date
+      label: Estimated Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_survey_taken
+      label: Date Survey Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: property_rating
+      label: How would you rate your building
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: amenities
+      label: Which of the following amenities would you like
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''laundry_facilities'', ''label'': ''Laundry Facilities''}'
+      - '{''value'': ''parking'', ''label'': ''Parking''}'
+      - '{''value'': ''pool_table'', ''label'': ''Pool Table''}'
+      - '{''value'': ''game_room'', ''label'': ''Game Room''}'
+      - '{''value'': ''exercise_room'', ''label'': ''Exercise Room''}'
+      - '{''value'': ''movie_theater'', ''label'': ''Movie Theater''}'
+      - '{''value'': ''gym'', ''label'': ''Gym''}'
+      - '{''value'': ''community_room'', ''label'': ''Community Room''}'
+      - '{''value'': ''game_room'', ''label'': ''Game Room''}'
+      - '{''value'': ''parking_lot'', ''label'': ''Parking Lot''}'
+      required: false
+    - id: 14
+      name: building_rating
+      label: How would you rate the building
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: management_rating
+      label: How would you rate the management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: communication_rating
+      label: How would you rate the communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_rating
+      label: How would you rate the maintenance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: cleanliness_rating
+      label: How would you rate the cleanliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: noise_rating
+      label: How would you rate the noise
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: security_rating
+      label: How would you rate the security
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: safety_rating
+      label: How would you rate the safety
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_response_time
+      label: How would you rate the maintenance response time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_response_rating
+      label: How would you rate the maintenance response
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_quality
+      label: How would you rate the maintenance quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: emergency_services
+      label: How would you rate the emergency services
+      hint: null
+      type: number
+      options: []
+      required: false

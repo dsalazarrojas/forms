@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Student Registration Form
+    pages:
+    - id: 1
+      name: international_student_info
+      label: International Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nationality
+      label: Student Nationality
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

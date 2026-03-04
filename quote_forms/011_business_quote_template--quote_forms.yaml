@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Quote Template
+    pages:
+    - id: 1
+      name: quote_number
+      label: Quote Number
+      hint: Unique identifier for this quote
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quote_date
+      label: Quote Date
+      hint: Date the quote was issued
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: Name of the client requesting the quote
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: Client email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Client Phone Number
+      hint: Client contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_company
+      label: Client Company Name
+      hint: Name of client's company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: Description of works or services
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: commencement_date
+      label: Expected Commencement Date
+      hint: When will the work begin
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: completion_date
+      label: Expected Completion Date
+      hint: When will the work be completed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: line_item_description
+      label: Line Item Description
+      hint: Detailed description of work item
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: Number of units or hours
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: unit_price
+      label: Unit Price
+      hint: Price per unit or hour
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: item_total
+      label: Item Total
+      hint: Quantity multiplied by unit price
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: subtotal
+      label: Subtotal
+      hint: Sum of all line items
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: discount_percentage
+      label: Discount Percentage
+      hint: Any applicable discount as percentage
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: discount_amount
+      label: Discount Amount
+      hint: Total discount amount in currency
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: subtotal_after_discount
+      label: Subtotal After Discount
+      hint: Subtotal minus discount
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: tax_rate
+      label: Tax Rate Percentage
+      hint: Applicable tax rate
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: tax_amount
+      label: Tax Amount
+      hint: Total tax in currency
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: total_amount
+      label: Total Amount
+      hint: Final total including tax and discount
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: Payment terms and conditions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: validity_period
+      label: Quote Validity Period
+      hint: How long is this quote valid
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Additional Notes
+      hint: Any additional terms or notes
+      type: text
+      options: []
+      required: false

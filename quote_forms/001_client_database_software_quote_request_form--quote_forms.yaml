@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Database Software Quote Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Client Database Software Quote Request --
+      hint: Provide information to help us prepare an accurate quote
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company name
+      hint: Official business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: primary contact name
+      hint: Name of the person responsible for the project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact email
+      hint: Provide an email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: contact phone
+      hint: Best phone number to reach the contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_size
+      label: company size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-1000
+      - 1000 plus
+      required: true
+    - id: 7
+      name: current_database_solution
+      label: current database solution
+      hint: If none enter none
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: required_features
+      label: required features
+      hint: Select features that are important for your organization
+      type: select_multiple
+      options:
+      - Contact management
+      - Reporting and analytics
+      - User permissions
+      - Automated backups
+      - Integrations with other software
+      - Custom fields and forms
+      required: true
+    - id: 9
+      name: budget_range
+      label: budget range
+      hint: Select an approximate budget for initial implementation
+      type: select_one
+      options:
+      - Under 5k
+      - 5k-20k
+      - 20k-50k
+      - 50k plus
+      required: true
+    - id: 10
+      name: desired_timeline
+      label: desired timeline
+      hint: When would you like implementation to begin
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      required: true
+    - id: 11
+      name: additional_information
+      label: additional information or comments
+      hint: Anything else we should know about your requirements
+      type: text
+      options: []
+      required: false

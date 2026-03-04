@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Licensing Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pet_name
+      label: Pet Name
+      hint: Name of animal
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pet_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Other
+      required: true
+    - id: 10
+      name: pet_breed
+      label: Breed
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_color
+      label: Color and Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pet_sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 13
+      name: pet_age
+      label: Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: pet_weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: microchip_status
+      label: Is Your Pet Microchipped
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 16
+      name: microchip_number
+      label: Microchip Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spay_neuter_status
+      label: Is Your Pet Spayed or Neutered
+      hint: null
+      type: select_one
+      options:
+      - Yes - Altered
+      - No - Not Altered
+      - Too Young
+      - Medical Exception
+      required: true
+    - id: 18
+      name: spay_neuter_date
+      label: Date of Procedure
+      hint: If altered
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: Primary vet
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: veterinarian_clinic
+      label: Veterinary Clinic
+      hint: Clinic name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: rabies_vaccination
+      label: Rabies Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Current - Up to Date
+      - Due Soon
+      - Overdue
+      - Not Yet Vaccinated
+      - Medical Exemption
+      required: true
+    - id: 23
+      name: rabies_expiration
+      label: Rabies Vaccination Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - 1-Year License
+      - 2-Year License
+      - 3-Year License
+      - Lifetime License
+      - Senior Pet License
+      - Low-Income Discount License
+      required: true
+    - id: 25
+      name: pet_count
+      label: How Many Pets Do You Own
+      hint: Total number
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: previous_license
+      label: Has This Pet Been Licensed Here Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - Renewing
+      - No - First Time
+      - Yes - From Another City
+      required: true
+    - id: 27
+      name: previous_license_number
+      label: Previous License Number
+      hint: If renewing
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check by Mail
+      - Cash - In Person
+      - Online Payment
+      required: true
+    - id: 29
+      name: license_fee
+      label: License Fee
+      hint: Calculated based on selections
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: certification
+      label: I Certify That All Information Provided Is Accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes I Certify
+      - false
+      required: true
+    - id: 32
+      name: owner_signature
+      label: Owner Electronic Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

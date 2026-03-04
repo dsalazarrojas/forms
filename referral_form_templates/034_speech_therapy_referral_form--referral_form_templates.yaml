@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech Therapy Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: primary_language
+      label: Patient's Primary Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: speech_therapy_goals
+      label: Speech Therapy Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speech_therapy_needs
+      label: Speech Therapy Needs Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_referrals
+      label: Referrals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speech_therapy_plan
+      label: Speech Therapy Plan
+      hint: null
+      type: text
+      options: []
+      required: false

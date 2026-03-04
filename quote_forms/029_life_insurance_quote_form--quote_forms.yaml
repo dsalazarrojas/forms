@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Quote Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: Enter age in years
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: smoker
+      label: Smoker
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Teacher
+      - Doctor
+      - Engineer
+      - Artist
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: life_insurance_type
+      label: Life Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Term
+      - Whole Life
+      - Variable
+      - Universal
+      required: false
+    - id: 11
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Group
+      required: false
+    - id: 12
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: premium
+      label: Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: policy_holder_date_of_birth
+      label: Policy Holder Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: policy_holder_social_security_number
+      label: Policy Holder Social Security Number
+      hint: Please enter a valid social security number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_holder_address
+      label: Policy Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: policy_holder_city
+      label: Policy Holder City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policy_holder_state
+      label: Policy Holder State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_holder_zip
+      label: Policy Holder Zip
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Filming Noise Impact Application Form
+    pages:
+    - id: 1
+      name: filming_location
+      label: Filming location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filming_start_time
+      label: Filming start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: noise_impact_level
+      label: Noise impact level
+      hint: None
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: drone_altitude
+      label: Drone altitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: filming_hours
+      label: Filming hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: crew_size
+      label: Crew size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: filming_frequency
+      label: Filming frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recording_device_type
+      label: Recording device type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: filming_duration
+      label: Filming duration
+      hint: null
+      type: text
+      options: []
+      required: false

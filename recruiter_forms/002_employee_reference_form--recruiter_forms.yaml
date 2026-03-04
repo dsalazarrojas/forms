@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reference Form
+    pages:
+    - id: 1
+      name: employee_reference_form
+      label: employee_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_title
+      label: contact_title
+      hint: null
+      type: select_one
+      options:
+      - '{''title'': ''Mr''}'
+      - '{''title'': ''Mrs''}'
+      - '{''title'': ''Ms''}'
+      - '{''title'': ''Dr''}'
+      - '{''title'': ''Prof''}'
+      required: false
+    - id: 4
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: select_one
+      options:
+      - '{''first_name'': ''John''}'
+      - '{''first_name'': ''Jane''}'
+      - '{''first_name'': ''Doe''}'
+      required: false
+    - id: 6
+      name: contact_company
+      label: contact_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reference_title
+      label: reference_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reference_first_name
+      label: reference_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_last_name
+      label: reference_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_at
+      label: work_at
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: years_at
+      label: years_at
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: report_to
+      label: report_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_mobile
+      label: contact_mobile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_extension
+      label: contact_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_job_title
+      label: contact_job_title
+      hint: null
+      type: select_one
+      options:
+      - '{''title'': ''IT''}'
+      - '{''title'': ''Manager''}'
+      - '{''title'': ''Team Lead''}'
+      - '{''title'': ''Team Member''}'
+      - '{''title'': ''Other''}'
+      required: false
+    - id: 19
+      name: contact_job_start
+      label: contact_job_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: contact_job_end
+      label: contact_job_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: contact_company
+      label: contact_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_long_at
+      label: how_long_at
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: last_evaluated_by
+      label: last_evaluated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_note
+      label: contact_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''title'': True}'
+      - '{''title'': False}'
+      required: true

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Partner Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner_type
+      label: Partner Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: insurance_carrier
+      label: Insurance Carrier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agent_contact_info
+      label: Agent Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

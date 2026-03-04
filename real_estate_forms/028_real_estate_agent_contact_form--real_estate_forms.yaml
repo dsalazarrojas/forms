@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_contact_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

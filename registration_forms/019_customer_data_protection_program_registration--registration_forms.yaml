@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_data_protection_program_registration
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - IT
+      - Finance
+      - Operations
+      - HR
+      required: false
+    - id: 4
+      name: data_sensitivity
+      label: Data Sensitivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: role_interest
+      label: Role Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Data Protection
+      - Security
+      - Compliance
+      - Data Subject
+      - Data Controller
+      - Data Processor
+      - Data Subject Requester
+      - Data Processor Requester
+      required: false
+    - id: 6
+      name: job_responsibilities
+      label: Job Responsibilities
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Account management
+      - Audit and compliance
+      - Data protection
+      - Financial planning
+      - Legal
+      - Operations
+      - Reporting
+      - Security
+      required: false
+    - id: 7
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_role
+      label: Submitter Role
+      hint: null
+      type: select_multiple
+      options:
+      - Data Protection
+      - Security
+      - Compliance
+      - Data Subject
+      - Data Controller
+      - Data Processor
+      - Data Subject Requester
+      - Data Processor Requester
+      required: false
+    - id: 13
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Company C
+      - Company D
+      - Company E
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Refund Appeal Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Late''}'
+      - '{''id'': 2, ''name'': ''Non-delivered Goods''}'
+      - '{''id'': 3, ''name'': ''Non-received Goods''}'
+      - '{''id'': 4, ''name'': ''Non-delivered Service''}'
+      - '{''id'': 5, ''name'': ''Non-received Service''}'
+      - '{''id'': 6, ''name'': ''Other''}'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachment_list
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

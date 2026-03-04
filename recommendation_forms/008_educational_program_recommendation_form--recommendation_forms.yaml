@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_program_recommendation_form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_id
+      label: Program ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommendation_type
+      label: Recommendation Type
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Parent
+      - Faculty Member
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

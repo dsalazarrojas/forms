@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: master_data_governance_knowledge_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: question_1
+      label: What Is Data Governance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: governance_challenges
+      label: Organizational Challenges
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: training_support
+      label: Training or Internal Reviews
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 5
+      name: submission_tracking
+      label: Centralized Form Submission Tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submission_email
+      label: Submission Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submission_phone
+      label: Submission Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false

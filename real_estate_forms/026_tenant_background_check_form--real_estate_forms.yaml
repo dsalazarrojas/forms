@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Background Check Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_phone
+      label: User Phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_address
+      label: User Address
+      hint: null
+      type: select_one
+      options:
+      - 123 Main St.
+      - 456 Elm St.
+      - 789 Oak Ave.
+      required: false
+    - id: 5
+      name: user_date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: user_previous_employers
+      label: Previous Employers
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Google
+      - Amazon
+      required: false
+    - id: 7
+      name: user_previous_jobs
+      label: Previous Jobs
+      hint: Please select one
+      type: select_one
+      options:
+      - Janitorial
+      - Sales
+      - Manager
+      required: false
+    - id: 8
+      name: user_previous_salary
+      label: Previous Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: user_reason_for_move
+      label: Reason for Move
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: user_references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - Friend
+      - Family
+      - Co-worker
+      required: false
+    - id: 11
+      name: user_employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      required: false
+    - id: 12
+      name: user_income
+      label: Income
+      hint: null
+      type: select_one
+      options:
+      - 20,000 - 40,000
+      - 40,000 - 60,000
+      - 60,000 - 80,000
+      required: true
+    - id: 13
+      name: user_credit_score
+      label: Credit Score
+      hint: null
+      type: select_one
+      options:
+      - 600 - 700
+      - 700 - 800
+      - 800 - 900
+      required: true
+    - id: 14
+      name: user_employment_history
+      label: Employment History
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - More than 2 years
+      required: false
+    - id: 15
+      name: user_lease_start_date
+      label: Lease Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: user_lease_end_date
+      label: Lease End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: user_lease_term
+      label: Lease Term
+      hint: null
+      type: select_multiple
+      options:
+      - 1 month
+      - 6 months
+      - 1 year
+      required: false
+    - id: 18
+      name: user_property_type
+      label: Property Type
+      hint: Please select multiple
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 19
+      name: user_property_size
+      label: Property Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false

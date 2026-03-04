@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reference Check For Team Members
+    pages:
+    - id: 1
+      name: reference_check_form_1
+      label: Reference Check 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reference_check_form_2
+      label: Reference Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reference_check_form_3
+      label: Reference Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reference_check_form_4
+      label: Reference Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reference_check_form_5
+      label: Manager Reference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reference_check_form_6
+      label: Direct Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reference_check_form_7
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false

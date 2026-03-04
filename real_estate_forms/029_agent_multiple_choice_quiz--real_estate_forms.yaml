@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Multiple Choice Quiz
+    pages:
+    - id: 1
+      name: agent_name
+      label: Agent Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agent_license_number
+      label: Agent License Number
+      hint: Enter your real estate license number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_date
+      label: Quiz Date
+      hint: Enter the date you are taking this quiz
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: quiz_time_limit
+      label: Time Limit
+      hint: You have 60 minutes to complete this quiz
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: "Question 1: What is the typical commission rate for real estate agents?"
+      hint: Select the most common commission rate
+      type: select_one
+      options: ["3%", "5%", "6%", "10%"]
+      required: true
+    - id: 6
+      name: question_2
+      label: "Question 2: What does 'FSBO' stand for?"
+      hint: Select the correct definition
+      type: select_one
+      options: ["For Sale By Owner", "Fully Sold Before Occupancy", "Fair Selling By Organization", "Fixed Standard Buyer Offer"]
+      required: true
+    - id: 7
+      name: question_3
+      label: "Question 3: What is earnest money?"
+      hint: Select the best definition
+      type: select_one
+      options: ["The down payment", "A deposit showing good faith", "The realtor's commission", "Closing costs"]
+      required: true
+    - id: 8
+      name: question_4
+      label: "Question 4: What is the purpose of a home inspection?"
+      hint: Select the primary purpose
+      type: select_one
+      options: ["To determine the property's value", "To identify potential problems with the property", "To finalize the sale", "To calculate taxes"]
+      required: true
+    - id: 9
+      name: question_5
+      label: "Question 5: What is a contingency in a real estate contract?"
+      hint: Select the best definition
+      type: select_one
+      options: ["A penalty fee", "A condition that must be met for the contract to proceed", "The closing date", "The purchase price"]
+      required: true
+    - id: 10
+      name: question_6
+      label: "Question 6: What does 'pre-approval' mean for a buyer?"
+      hint: Select the correct definition
+      type: select_one
+      options: ["The buyer has been denied financing", "The buyer has been conditionally approved for a loan up to a certain amount", "The buyer has closed on a loan", "The buyer has paid cash for a property"]
+      required: true
+    - id: 11
+      name: question_7
+      label: "Question 7: What is the difference between a buyer's agent and a seller's agent?"
+      hint: Select the correct distinction
+      type: select_one
+      options: ["There is no difference", "A buyer's agent represents the buyer, a seller's agent represents the seller", "A buyer's agent sells properties, a seller's agent buys properties", "A buyer's agent works for free, a seller's agent charges fees"]
+      required: true
+    - id: 12
+      name: question_8
+      label: "Question 8: What is included in closing costs?"
+      hint: Select what is typically included
+      type: select_one
+      options: ["Only the realtor's commission", "Property taxes only", "Various fees associated with finalizing the sale", "The down payment"]
+      required: true
+    - id: 13
+      name: question_9
+      label: "Question 9: What is a Comparative Market Analysis (CMA)?"
+      hint: Select the correct definition
+      type: select_one
+      options: ["A legal document", "An estimate of a property's value based on similar properties", "A list of all properties for sale", "A buyer's offer"]
+      required: true
+    - id: 14
+      name: question_10
+      label: "Question 10: What is the purpose of title insurance?"
+      hint: Select the primary purpose
+      type: select_one
+      options: ["To protect against property damage", "To protect against losses from defects in title", "To guarantee the property value", "To cover moving expenses"]
+      required: true
+    - id: 15
+      name: question_11
+      label: "Question 11: What is a 'short sale'?"
+      hint: Select the correct definition
+      type: select_one
+      options: ["A quick closing process", "A sale where the lender agrees to accept less than the full balance of the loan", "A rental agreement", "A commercial property sale"]
+      required: true
+    - id: 16
+      name: question_12
+      label: "Question 12: What is the role of a real estate attorney?"
+      hint: Select the primary role
+      type: select_one
+      options: ["To conduct home inspections", "To handle legal aspects of real estate transactions", "To appraise property values", "To market properties"]
+      required: true
+    - id: 17
+      name: question_13
+      label: "Question 13: What is a 'pocket listing'?"
+      hint: Select the correct definition
+      type: select_one
+      options: ["A property listed on social media", "A property not listed on the MLS", "A small property", "A property with many closets"]
+      required: true
+    - id: 18
+      name: question_14
+      label: "Question 14: What is the purpose of a home warranty?"
+      hint: Select the primary purpose
+      type: select_one
+      options: ["To guarantee the sale price", "To cover repairs to appliances and systems after closing", "To insure the property value", "To protect against theft"]
+      required: true
+    - id: 19
+      name: question_15
+      label: "Question 15: What is dual agency?"
+      hint: Select the correct definition
+      type: select_one
+      options: ["Representing both buyer and seller in the same transaction", "Having two agents working together", "Owning two properties", "Having two licenses"]
+      required: true
+    - id: 20
+      name: quiz_score
+      label: Quiz Score
+      hint: Calculated based on your answers
+      type: note
+      options: []
+      required: false

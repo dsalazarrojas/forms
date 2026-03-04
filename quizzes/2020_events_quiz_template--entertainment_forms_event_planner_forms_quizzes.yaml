@@ -1,0 +1,180 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 Events Quiz
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your full name as you'd like it displayed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Used to send quiz results and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Date you took the quiz
+      hint: Select the date you are completing this quiz
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: attendance_type
+      label: How did you access this quiz?
+      hint: Choose the mode you used to participate
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: false
+    - id: 6
+      name: section_quiz_questions
+      label: '--- Quiz: 2020 Events ---'
+      hint: Read each question carefully and select the best answer
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: q_lockdown_cause
+      label: Which global event led to widespread lockdowns in 2020?
+      hint: Pick the most widely recognized cause
+      type: select_one
+      options:
+      - COVID-19 pandemic
+      - Australian bushfires
+      - Brexit implementation
+      - United States presidential election
+      required: true
+    - id: 8
+      name: q_company_wfh
+      label: Which company announced a permanent work-from-home option for many employees
+        in 2020?
+      hint: Choose the most notable early adopter company
+      type: select_one
+      options:
+      - Twitter
+      - Google
+      - Facebook
+      - Microsoft
+      required: true
+    - id: 9
+      name: q_tiger_king
+      label: Which streaming service released "Tiger King" in 2020?
+      hint: Single-answer question
+      type: select_one
+      options:
+      - Netflix
+      - Hulu
+      - Amazon Prime Video
+      - Disney+
+      required: true
+    - id: 10
+      name: q_tokyo_olympics
+      label: Which major sports event was postponed from 2020 to 2021?
+      hint: Single-answer question
+      type: select_one
+      options:
+      - Tokyo Olympics
+      - UEFA European Championship
+      - Super Bowl
+      - Wimbledon
+      required: true
+    - id: 11
+      name: q_george_floyd_protests
+      label: Which U.S. city was the center of large protests after George Floyd's
+        death?
+      hint: City where the incident occurred
+      type: select_one
+      options:
+      - Minneapolis
+      - Portland
+      - Seattle
+      - Atlanta
+      required: true
+    - id: 12
+      name: q_multiple_events_2020
+      label: Which of the following occurred in 2020? (select all that apply)
+      hint: Choose every option that applies
+      type: select_multiple
+      options:
+      - Global pandemic declared
+      - Major March stock market crash
+      - Multiple celebrity-led social campaigns
+      - Widespread transition to remote schooling
+      - Mars rover landing (incorrect)
+      required: false
+    - id: 13
+      name: q_leader_covid
+      label: Which national leader tested positive for COVID-19 in 2020?
+      hint: Single choice
+      type: select_one
+      options:
+      - Boris Johnson
+      - Joe Biden
+      - Angela Merkel
+      - Justin Trudeau
+      required: true
+    - id: 14
+      name: q_self_rating
+      label: Rate your knowledge of major 2020 events (1-10)
+      hint: 1 = Novice, 10 = Expert
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: would_like_more_quizzes
+      label: Would you like to receive more quizzes like this?
+      hint: Choose your preference
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - Probably not
+      - false
+      required: false
+    - id: 16
+      name: consent_receive_results
+      label: May we email your quiz results?
+      hint: Results are for personal feedback only
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional comments or corrections about the quiz
+      hint: Share any feedback or note any incorrect items
+      type: text
+      options: []
+      required: false

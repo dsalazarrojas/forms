@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aerial Convention Registration Form
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: experience_level
+      label: Aerial Arts Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Instructor
+      required: true
+    - id: 7
+      name: convention_package_header
+      label: -- Convention Packages --
+      hint: Select your package.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ticket_type
+      label: Ticket Type
+      hint: Early bird pricing ends soon.
+      type: select_one
+      options:
+      - Full Weekend Pass ($250)
+      - Saturday Only ($150)
+      - Sunday Only ($150)
+      - Workshops Only (No Shows)
+      required: true
+    - id: 9
+      name: workshop_selection
+      label: Workshop Preferences
+      hint: Select up to 3 workshops.
+      type: select_multiple
+      options:
+      - Silks Fundamentals
+      - Advanced Trapeze
+      - Lyra Flows
+      - Rope & Corde Lisse
+      - Flexibility & Contortion
+      - Rigging Safety 101
+      required: true
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For provided lunches.
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      required: false
+    - id: 11
+      name: waiver_agreement
+      label: Liability Waiver
+      hint: I agree to the terms and conditions and release liability.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: true

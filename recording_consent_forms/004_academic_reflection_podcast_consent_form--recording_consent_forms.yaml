@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Reflection Podcast Consent Form
+    pages:
+    - id: 1
+      name: section_consent
+      label: -- Participant Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name of Participant
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: podcast_title
+      label: Title of the Podcast Episode or Project
+      hint: Reference name for the recording
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recording_date
+      label: Date of Recording
+      hint: Date the session took place or will take place
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_usage
+      label: -- Usage Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: grant_permission
+      label: I grant permission to record my voice and image for academic purposes
+      hint: Essential for participation
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 8
+      name: scope_of_use
+      label: How can this recording be used?
+      hint: Select all approved uses
+      type: select_multiple
+      options:
+      - Internal Academic Review
+      - Public Podcast Platforms
+      - University Website
+      - Future Research Projects
+      required: true
+    - id: 9
+      name: anonymity_preference
+      label: Would you like your identity to remain anonymous?
+      hint: Privacy choice
+      type: select_one
+      options:
+      - Public Credit - Use my name
+      - Use a Pseudonym
+      - Full Anonymity
+      required: true
+    - id: 10
+      name: section_legal
+      label: -- Legal Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ownership_acknowledgement
+      label: I acknowledge that the recording is the property of the institution
+      hint: Legal ownership agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 12
+      name: remuneration_agreement
+      label: I understand that I will not receive financial compensation for this
+        participation
+      hint: Voluntary participation acknowledgment
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 13
+      name: signature_name
+      label: Electronic Signature - Type Full Name
+      hint: Validates this digital form
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date signed
+      hint: Current date
+      type: date
+      options: []
+      required: true

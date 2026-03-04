@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awana Registration Form
+    pages:
+    - id: 1
+      name: section_parent_info
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent/Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_email
+      label: Parent Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_child_info
+      label: -- Child Information --
+      hint: Please register one child per form
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: child_name
+      label: Child's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_dob
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: child_grade
+      label: Child's Grade
+      hint: Current grade in school
+      type: select_one
+      options:
+      - Pre-K (3-4 years old)
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      required: true
+    - id: 10
+      name: awana_club_level
+      label: Club Level
+      hint: Select based on age/grade
+      type: select_one
+      options:
+      - Cubbies (Preschool)
+      - Sparks (K - 2nd Grade)
+      - Truth & Training (3rd - 6th Grade)
+      required: true
+    - id: 11
+      name: section_medical_safety
+      label: -- Medical and Safety --
+      hint: Information for emergencies
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_allergies
+      label: Medical Conditions or Allergies
+      hint: Please be specific (e.g. Peanuts, asthma)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Alternative to parent/guardian
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: photo_release
+      label: Photo Release
+      hint: Can we use photos for church materials?
+      type: select_one
+      options:
+      - Yes, I give permission
+      - No, I do not give permission
+      required: true
+    - id: 16
+      name: medical_release
+      label: Medical Release Authorization
+      hint: In case of emergency medical treatment
+      type: select_one
+      options:
+      - Yes, I authorize treatment
+      - No, contact me first
+      required: true
+    - id: 17
+      name: pickup_auth
+      label: Pickup Authorization List
+      hint: Who else can pick up your child?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: volunteer_interest
+      label: Volunteer Interest?
+      hint: How would you like to help?
+      type: select_multiple
+      options:
+      - Club Leader/Teacher
+      - Secretary (Check-in)
+      - Game Leader
+      - Snack Preparation
+      - Special Events
+      required: false
+    - id: 19
+      name: parent_signature
+      label: Parent/Guardian Digital Signature
+      hint: Type full name to certify
+      type: text
+      options: []
+      required: true

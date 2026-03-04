@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portfolio Construction Event Registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_interest
+      label: Session Interest
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: attendee_needs
+      label: Attendee Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_datetime
+      label: Event Datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false

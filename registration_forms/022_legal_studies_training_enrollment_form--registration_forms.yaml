@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal-studies-training-enrollment-form
+    pages:
+    - id: 1
+      name: prospective_student_information
+      label: prospective-student-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: student-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_date_of_birth
+      label: student-date-of-birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program
+      label: program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: program_level
+      label: program-level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: course
+      label: course
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: enrollment_fee
+      label: enrollment-fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_date
+      label: payment-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_status
+      label: payment-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: payment_amount
+      label: payment-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

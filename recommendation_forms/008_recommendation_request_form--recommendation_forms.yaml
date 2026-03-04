@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recommendation Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_school
+      label: Student School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_degree
+      label: Student Degree
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Bachelor''}'
+      - Master
+      - PhD
+      required: false
+    - id: 4
+      name: student_major
+      label: Student Major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommender_name
+      label: Recommender Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommender_contact
+      label: Recommender Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommender_email
+      label: Recommender Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: recommender_phone
+      label: Recommender Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: recommendation_letter
+      label: Recommendation Letter
+      hint: null
+      type: text
+      options: []
+      required: false

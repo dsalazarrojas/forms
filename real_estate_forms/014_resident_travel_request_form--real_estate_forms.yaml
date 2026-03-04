@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: resident_travel_request_form
+    pages:
+    - id: 1
+      name: traveler_name
+      label: traveler_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_destination
+      label: preferred_destination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Flight
+      - Train
+      required: false
+    - id: 5
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hotel_name
+      label: hotel_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: flight_arrival_date
+      label: flight_arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: flight_departure_date
+      label: flight_departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_notes
+      label: travel_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_travel_date
+      label: preferred_travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: flight_arrival_time
+      label: flight_arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false

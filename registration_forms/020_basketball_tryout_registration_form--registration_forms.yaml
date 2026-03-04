@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Tryout Registration Form
+    pages:
+    - id: 1
+      name: personal_details_header
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_grade
+      label: Current Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: stats_header
+      label: -- Player Statistics and Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: favorite_position
+      label: Preferred Position
+      hint: null
+      type: select_one
+      options:
+      - Guard
+      - Forward
+      - Center
+      required: true
+    - id: 8
+      name: height_measurement
+      label: Height
+      hint: e.g. 5 foot 10 inches
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: weight_measurement
+      label: Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: experience_rating
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Competitive Club
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Any specific achievements or concerns?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: terms_header
+      label: -- Registration Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: accept_rules
+      label: I agree to follow the program rules and coaching directions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: registration_timestamp
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

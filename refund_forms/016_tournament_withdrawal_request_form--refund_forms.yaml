@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Withdrawal Request Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant
+      label: Participant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reason
+      label: Reason for withdrawal
+      hint: Please provide a brief explanation for the withdrawal.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tournament
+      label: Tournament
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Refunded''}'
+      - '{''label'': ''Partially Refunded''}'
+      - '{''label'': ''Fully Refunded''}'
+      required: false
+    - id: 8
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

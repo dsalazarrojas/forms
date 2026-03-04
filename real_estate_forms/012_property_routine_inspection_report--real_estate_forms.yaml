@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_routine_inspection_report
+    pages:
+    - id: 1
+      name: formid
+      label: formid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: house_id
+      label: house_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_id
+      label: inspector_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_id
+      label: client_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: house_address
+      label: house address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: room_number
+      label: room number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: condition_score
+      label: condition score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: date_of_sale
+      label: date of sale
+      hint: null
+      type: date
+      options: []
+      required: false

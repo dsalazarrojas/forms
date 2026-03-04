@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conditional Logic Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quiz_date
+      label: Quiz date
+      hint: Date of quiz attempt
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: scenario_one
+      label: Scenario one question
+      hint: Choose the correct action for scenario one
+      type: select_one
+      options:
+      - Action A
+      - Action B
+      - Action C
+      required: true
+    - id: 4
+      name: scenario_two
+      label: Scenario two question
+      hint: Conditional follow up depending on answer one
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: multiple_choice
+      label: Multiple choice question
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Choice A
+      - Choice B
+      - Choice C
+      required: false
+    - id: 6
+      name: short_answer
+      label: Short answer question
+      hint: Provide a short written response
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: passing_score
+      label: Passing score threshold
+      hint: Read only information about passing criteria
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: completion_time
+      label: Completion time minutes
+      hint: Time taken to complete quiz
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_comments
+      label: Reviewer comments
+      hint: For instructor feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: final_result
+      label: Final result
+      hint: Pass or fail outcome
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true

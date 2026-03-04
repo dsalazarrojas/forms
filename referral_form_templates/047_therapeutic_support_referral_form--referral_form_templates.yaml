@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: therapeutic_support_referral_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: User name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: referral_time
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referral_location
+      label: Referral Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 6
+      name: referral_department
+      label: Referral Department
+      hint: null
+      type: select_multiple
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: true
+    - id: 7
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: support_services
+      label: Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 14
+      name: support_provider
+      label: Support Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

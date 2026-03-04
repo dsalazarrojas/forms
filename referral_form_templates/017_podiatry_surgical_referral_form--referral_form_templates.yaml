@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podiatry Surgical Referral Form
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clinical_context
+      label: Clinical Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Records
+      - Surgery Notes
+      - Radiology Reports
+      - Imaging Results
+      - Other Documents
+      required: false
+    - id: 4
+      name: surgeon_details
+      label: Surgeon Details
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Doe
+      - Dr. Jane Doe
+      - Dr. Jim Smith
+      - Dr. Jane Smith
+      required: false
+    - id: 5
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Address
+      required: false
+    - id: 9
+      name: supporting_doctors
+      label: Supporting Doctors
+      hint: null
+      type: select_one
+      options:
+      - Dr. Bob Johnson
+      - Dr. Mike Smith
+      - Dr. Jane Johnson
+      required: false
+    - id: 10
+      name: clinic_phone
+      label: Clinic Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: clinic_email
+      label: Clinic Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: clinic_website
+      label: Clinic Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 16
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: surgeon_phone
+      label: Surgeon Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: surgeon_email
+      label: Surgeon Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: surgeon_notes
+      label: Surgeon Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Coaching Program Registration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_selection
+      label: Choose Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

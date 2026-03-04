@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Glass Quotation Request Form
+    pages:
+    - id: 1
+      name: vehicle_owner_info
+      label: Vehicle Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_damage_description
+      label: Vehicle Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_photos
+      label: Vehicle Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: repair_quote
+      label: Repair Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quotation_price
+      label: Quotation Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_insurance_info
+      label: Vehicle Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_registration
+      label: Vehicle Registration Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Toyota
+      - Nissan
+      - BMW
+      required: false
+    - id: 10
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - GT-R
+      - '911'
+      - Mustang
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_multiple
+      options:
+      - '2010'
+      - '2015'
+      required: false
+    - id: 12
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 13
+      name: bodyshop_address
+      label: Body Shop Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: bodyshop_phone
+      label: Body Shop Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: bodyshop_name
+      label: Body Shop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Van
+      - Truck
+      - Bus
+      required: false
+    - id: 17
+      name: vehicle_location
+      label: Vehicle Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_damage_level
+      label: Vehicle Damage Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 19
+      name: bodyshop_email
+      label: Body Shop Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_damage_description
+      label: Vehicle Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      required: false
+    - id: 22
+      name: insurance_claim_number
+      label: Insurance Claim Number
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      - '11111'
+      required: false
+    - id: 23
+      name: vehicle_insurance_status
+      label: Vehicle Insurance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: quotation_status
+      label: Quotation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      required: false
+    - id: 25
+      name: quotation_date
+      label: Quotation Date
+      hint: null
+      type: date
+      options: []
+      required: false

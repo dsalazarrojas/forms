@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Removals Quote Template
+    pages:
+    - id: 1
+      name: address_one
+      label: home_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: move_date
+      label: move_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: move_time
+      label: move_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: pickup_date
+      label: pickup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_time
+      label: pickup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: move_type
+      label: move_type
+      hint: null
+      type: select_one
+      options:
+      - Move
+      - Relocation
+      required: false
+    - id: 9
+      name: moving_service
+      label: moving_service
+      hint: null
+      type: select_multiple
+      options:
+      - Local Move
+      - Long Distance Move
+      - International Move
+      required: true
+    - id: 10
+      name: additional_services
+      label: additional_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: move_distance
+      label: move_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: move_weight
+      label: move_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: move_height
+      label: move_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: move_length
+      label: move_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: move_width
+      label: move_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: move_depth
+      label: move_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: move_weight_units
+      label: move_weight_units
+      hint: null
+      type: select_one
+      options:
+      - Kilograms
+      - Pounds
+      - Tons
+      required: false
+    - id: 18
+      name: move_distance_units
+      label: move_distance_units
+      hint: null
+      type: select_one
+      options:
+      - Kilometers
+      - Miles
+      - Feet
+      required: false
+    - id: 19
+      name: move_date_range
+      label: move_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: move_time_range
+      label: move_time_range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: pickup_date_range
+      label: pickup_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: pickup_time_range
+      label: pickup_time_range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: quote_total
+      label: quote_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: quote_discount
+      label: quote_discount
+      hint: null
+      type: select_one
+      options:
+      - '0.0'
+      - '0.05'
+      - '0.1'
+      required: true
+    - id: 25
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit
+      - Debit
+      required: true

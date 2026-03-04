@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Exchange Options Quote Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: notional
+      label: Notional
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: strike
+      label: Strike
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expiration_time
+      label: Expiration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer School Completion Discharge Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_number
+      label: student_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_term
+      label: school_term
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: school_year
+      label: school_year
+      hint: null
+      type: select_multiple
+      options:
+      - '2018'
+      - '2019'
+      - '2020'
+      required: false
+    - id: 6
+      name: student_level
+      label: student_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 7
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_number
+      label: teacher_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_address
+      label: school_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_discharge
+      label: date_of_discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: school_admin_name
+      label: school_admin_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_admin_number
+      label: school_admin_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_admin_email
+      label: school_admin_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: school_admin_phone
+      label: school_admin_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_admin_title
+      label: school_admin_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_parent_name
+      label: student_parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_parent_number
+      label: student_parent_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_parent_phone
+      label: student_parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: student_parent_email
+      label: student_parent_email
+      hint: null
+      type: email
+      options: []
+      required: false

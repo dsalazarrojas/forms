@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bullet Identification Quiz
+    pages:
+    - id: 1
+      name: quiz_date
+      label: Quiz Date
+      hint: When taking this quiz
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_id
+      label: Student or Participant ID
+      hint: Your identification number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization or School
+      hint: Your institution
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: Your Experience Level
+      hint: Prior knowledge
+      type: select_one
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+        - Expert
+      required: true
+    - id: 6
+      name: q1_bullet_type
+      label: Question 1 - Bullet Type Identification
+      hint: What type of bullet is this
+      type: select_one
+      options:
+        - Full Metal Jacket
+        - Hollow Point
+        - Soft Point
+        - Armor Piercing
+        - Tracer
+      required: true
+    - id: 7
+      name: q2_caliber
+      label: Question 2 - Identify Caliber
+      hint: What is the caliber
+      type: select_one
+      options:
+        - 9mm
+        - .45 ACP
+        - .40 S and W
+        - .380 ACP
+        - 5.56mm NATO
+      required: true
+    - id: 8
+      name: q3_casing_material
+      label: Question 3 - Casing Material
+      hint: What is the casing made from
+      type: select_one
+      options:
+        - Brass
+        - Steel
+        - Aluminum
+        - Copper
+        - Nickel
+      required: true
+    - id: 9
+      name: q4_bullet_weight
+      label: Question 4 - Typical Bullet Weight
+      hint: Weight measurement
+      type: select_one
+      options:
+        - Grains
+        - Grams
+        - Ounces
+        - Milligrams
+      required: true
+    - id: 10
+      name: q5_purpose
+      label: Question 5 - Intended Purpose
+      hint: What is bullet designed for
+      type: select_one
+      options:
+        - Target Practice
+        - Self Defense
+        - Hunting
+        - Military Use
+        - Sport Shooting
+      required: true
+    - id: 11
+      name: q6_velocity
+      label: Question 6 - Muzzle Velocity
+      hint: Approximate speed
+      type: select_one
+      options:
+        - 500-700 FPS
+        - 700-1000 FPS
+        - 1000-1300 FPS
+        - 1300-1600 FPS
+        - Over 1600 FPS
+      required: true
+    - id: 12
+      name: q7_construction
+      label: Question 7 - Bullet Construction Method
+      hint: How is it made
+      type: select_one
+      options:
+        - Cast Lead
+        - Swaged Lead
+        - Jacketed
+        - Bonded
+        - Monolithic
+      required: true
+    - id: 13
+      name: q8_comparison
+      label: Question 8 - Bullet Comparison
+      hint: Which is correct
+      type: select_one
+      options:
+        - 9mm more powerful than .45
+        - .45 ACP more powerful than 9mm
+        - Same power output
+        - Power depends on load
+        - Unsure
+      required: true
+    - id: 14
+      name: q9_identification_feature
+      label: Question 9 - Key Identification Feature
+      hint: What distinguishes bullets
+      type: select_one
+      options:
+        - Case Length
+        - Bullet Diameter
+        - Primer Size
+        - Powder Charge
+        - All of Above
+      required: true
+    - id: 15
+      name: q10_safety
+      label: Question 10 - Safe Handling Practice
+      hint: Best practice for safety
+      type: select_one
+      options:
+        - Always assume loaded
+        - Keep away from moisture
+        - Store in cool place
+        - All of above
+        - Store in heat
+      required: true
+    - id: 16
+      name: confidence_level
+      label: Confidence in Your Answers
+      hint: How confident are you
+      type: select_one
+      options:
+        - Very Confident
+        - Confident
+        - Somewhat Confident
+        - Not Confident
+      required: true
+    - id: 17
+      name: quiz_difficulty
+      label: Quiz Difficulty
+      hint: How hard was this
+      type: select_one
+      options:
+        - Very Easy
+        - Easy
+        - Moderate
+        - Difficult
+        - Very Difficult
+      required: true
+    - id: 18
+      name: feedback
+      label: Additional Feedback
+      hint: Any comments about quiz
+      type: text
+      options: []
+      required: false

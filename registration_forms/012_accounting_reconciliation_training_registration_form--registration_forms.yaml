@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Reconciliation Training Registration Form
+    pages:
+    - id: 1
+      name: training_header
+      label: -- Training Registration --
+      hint: Register for the upcoming reconciliation workshop
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For sending course materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department_or_firm
+      label: Department or Firm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: skill_level
+      label: Current Skill Level
+      hint: Help us tailor the session
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 6
+      name: preferred_training_date
+      label: Preferred Training Date
+      hint: Select one session
+      type: select_one
+      options:
+      - March 15
+      - March 22
+      - April 5
+      required: true
+    - id: 7
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Bank Reconciliation
+      - Credit Card Reconciliation
+      - Intercompany Reconciliations
+      - Troubleshooting Discrepancies
+      required: false
+    - id: 8
+      name: current_software_used
+      label: Current Software Used
+      hint: e.g., QuickBooks, Excel, NetSuite
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendance_mode
+      label: Attendance Mode
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online Webinar
+      required: true
+    - id: 10
+      name: consent_header
+      label: -- Consent and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_recording
+      label: Consent to Recording
+      hint: Will the session be recorded for later viewing?
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 12
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

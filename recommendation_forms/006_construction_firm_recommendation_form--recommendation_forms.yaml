@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Firm Recommendation Form
+    pages:
+    - id: 1
+      name: section_recommender_information
+      label: -- Recommender Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recommender_name
+      label: Recommender name
+      hint: Full name of the person making the recommendation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recommender_contact
+      label: Recommender contact email
+      hint: Email for verification if needed
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: firm_recommended
+      label: Firm recommended
+      hint: Name of the construction firm being recommended
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship_duration
+      label: Relationship duration years
+      hint: How long have you worked with the firm
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: strengths
+      label: Firm strengths
+      hint: Key strengths to highlight
+      type: select_multiple
+      options:
+      - Quality
+      - Timeliness
+      - Communication
+      - Cost control
+      - Safety
+      required: true
+    - id: 7
+      name: overall_recommendation
+      label: Overall recommendation level
+      hint: Choose level of recommendation
+      type: select_one
+      options:
+      - Highly recommend
+      - Recommend
+      - Recommend with reservations
+      - Do not recommend
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Optional supporting remarks
+      type: text
+      options: []
+      required: false

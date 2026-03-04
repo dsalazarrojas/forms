@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech Pathology Referral Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_phone
+      label: patient-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: healthcare_provider
+      label: healthcare-provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referral_reason
+      label: referral-reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: patient-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: referral_date
+      label: referral-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: patient_age
+      label: patient-age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: referral_method
+      label: referral-method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Online Portal
+      required: true
+    - id: 9
+      name: healthcare_provider_name
+      label: healthcare-provider-name
+      hint: null
+      type: text
+      options: []
+      required: true

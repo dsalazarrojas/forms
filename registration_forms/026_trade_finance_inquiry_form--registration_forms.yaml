@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Finance Inquiry Form
+    pages:
+    - id: 1
+      name: trade_finance_inquiry_form_title
+      label: Trade Finance Inquiry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trade_finance_inquiries
+      label: Trade Finance Inquiries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

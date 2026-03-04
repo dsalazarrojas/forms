@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gala Host Table RSVP Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: name_of_guests_attending
+      label: guests_attending
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 6
+      name: name_of_guests_diet
+      label: guests_diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_of_event
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_of_event
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: name_of_rsvp_host
+      label: rsvp_host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: number_of_guests_attending
+      label: number_of_guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: table_size
+      label: table_size
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 6, ''value'': 6}'
+      - '{''label'': 8, ''value'': 8}'
+      - '{''label'': 10, ''value'': 10}'
+      - '{''label'': 12, ''value'': 12}'
+      - '{''label'': 14, ''value'': 14}'
+      - '{''label'': 16, ''value'': 16}'
+      - '{''label'': 18, ''value'': 18}'
+      - '{''label'': 20, ''value'': 20}'
+      - '{''label'': 22, ''value'': 22}'
+      - '{''label'': 24, ''value'': 24}'
+      - '{''label'': 26, ''value'': 26}'
+      - '{''label'': 28, ''value'': 28}'
+      - '{''label'': 30, ''value'': 30}'
+      required: false

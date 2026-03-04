@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Identification Number Request Form
+    pages:
+    - id: 1
+      name: registration_id
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: school_id
+      label: School or Agency ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: membership_id
+      label: Membership ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Agency
+      - Membership
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow-up Needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Chat
+      - Email
+      - Phone
+      - In Person
+      - Video Call
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

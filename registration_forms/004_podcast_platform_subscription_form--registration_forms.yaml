@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Platform Subscription Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Free Trial''}'
+      - '{''id'': 2, ''name'': ''Pro Monthly''}'
+      - '{''id'': 3, ''name'': ''Premium Quarterly''}'
+      required: false
+    - id: 4
+      name: subscription_start_date
+      label: Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: subscription_end_date
+      label: End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: subscription_frequency
+      label: Subscription Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      required: false
+    - id: 7
+      name: subscription_timezone
+      label: Subscription Timezone
+      hint: Select Timezone
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''UTC-0''}'
+      - '{''id'': 2, ''name'': ''UTC-1''}'
+      - '{''id'': 3, ''name'': ''UTC-2''}'
+      required: false
+    - id: 8
+      name: timezone_offset
+      label: Timezone Offset
+      hint: HH
+      type: number
+      options: []
+      required: false

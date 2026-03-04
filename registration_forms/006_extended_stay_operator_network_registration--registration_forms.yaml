@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extended Stay Operator Network Registration
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: operator_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: operator_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: operator_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: operator_type
+      label: Operator Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Individual''}'
+      - '{''value'': ''Business''}'
+      - '{''value'': ''Organization''}'
+      required: false
+    - id: 9
+      name: operator_network
+      label: Operator Network
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: network_description
+      label: Network Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: network_details
+      label: Network Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Network A''}'
+      - '{''value'': ''Network B''}'
+      - '{''value'': ''Network C''}'
+      required: false
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hotel''}'
+      - '{''value'': ''Motel''}'
+      - '{''value'': ''Resort''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 13
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

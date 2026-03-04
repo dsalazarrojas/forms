@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_security_awareness_video_production_consent_form
+    pages:
+    - id: 1
+      name: video_production_consent
+      label: Video Production Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: consent_to_video_tape
+      label: Consent to Video Tape
+      hint: null
+      type: select_multiple
+      options:
+      - Consent to video tape
+      - Consent to audio recording
+      required: false
+    - id: 3
+      name: video_tape_duration
+      label: Video Tape Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recording_location
+      label: Recording Location
+      hint: Location of recording
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recording_date
+      label: Recording Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recording_time
+      label: Recording Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: employee_consent_statement
+      label: Employee Consent Statement
+      hint: Please enter your consent statement
+      type: text
+      options: []
+      required: false

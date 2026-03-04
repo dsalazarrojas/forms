@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Refund Verification Request
+    pages:
+    - id: 1
+      name: customer_refund_request
+      label: Customer Refund Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: purchase_details
+      label: Purchase Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purchase_location
+      label: Purchase Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: refund_documentation
+      label: Refund Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

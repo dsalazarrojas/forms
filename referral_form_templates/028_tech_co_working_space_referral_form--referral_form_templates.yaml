@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Co Working Space Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referral_phone
+      label: Referral Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_email
+      label: Referral Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: referred_name
+      label: Referred Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: referred_phone
+      label: Referred Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referred_email
+      label: Referred Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: co_working_name
+      label: Co-Working Space Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: co_working_space_type
+      label: Co-Working Space Type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      - Shared
+      required: true
+    - id: 12
+      name: co_working_space_address
+      label: Co-Working Space Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_step
+      label: Next Step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: co_working_space_url
+      label: Co-Working Space URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: co_working_space_logo
+      label: Co-Working Space Logo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: co_working_space_phone
+      label: Co-Working Space Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: co_working_space_email
+      label: Co-Working Space Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: co_working_space_description
+      label: Co-Working Space Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Jotform
+      - Chatbot
+      required: true
+    - id: 22
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - In Progress
+      - Done
+      required: false

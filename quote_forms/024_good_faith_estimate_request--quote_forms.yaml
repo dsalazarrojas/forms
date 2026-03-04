@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Good Faith Estimate Request
+    pages:
+    - id: 1
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: itemized_estimate
+      label: Itemized Estimate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: estimated_date
+      label: Estimated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: estimated_time
+      label: Estimated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: confirm_reciept
+      label: Confirm Receipt
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: confirm_method
+      label: Confirm Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: confirm_comments
+      label: Confirm Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_info
+      label: Billing Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_city
+      label: Submitter City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_country
+      label: Submitter Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_zip
+      label: Submitter Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_state
+      label: Submitter State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_notes
+      label: Submitter Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_agree_terms
+      label: Submitter Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submitter_agree_privacy
+      label: Submitter Agree to Privacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

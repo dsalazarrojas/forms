@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_collaboration_signup_form
+    pages:
+    - id: 1
+      name: project_collaboration_signup_form_page_1
+      label: project_collaboration_signup_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaborators
+      label: select_collaborators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: role
+      label: select_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: skill
+      label: select_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: availability
+      label: select_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

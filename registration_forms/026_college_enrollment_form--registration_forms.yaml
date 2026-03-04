@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Enrollment Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: citizenship_status
+      label: Citizenship Status
+      hint: null
+      type: select_one
+      options:
+      - U.S. Citizen
+      - International Student
+      - Permanent Resident
+      - Temporary Visa
+      required: true
+    - id: 7
+      name: ssn_or_ein
+      label: Social Security Number or Tax ID
+      hint: For billing and enrollment records
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: program_selected
+      label: Program or Degree Selected
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Associate Degree
+      - Graduate Program
+      - Certificate Program
+      - Other
+      required: true
+    - id: 13
+      name: major_selected
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: start_term
+      label: Start Term or Semester
+      hint: null
+      type: select_one
+      options:
+      - Spring Semester
+      - Summer Semester
+      - Fall Semester
+      - Winter Semester
+      required: true
+    - id: 15
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      required: true
+    - id: 16
+      name: admitted_as
+      label: Admitted As
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Transfer Student
+      - Graduate Student
+      - Non-Degree Student
+      required: true
+    - id: 17
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parent_contact_phone
+      label: Parent Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parent_email
+      label: Parent Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: housing_requested
+      label: On-Campus Housing Requested
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: meal_plan
+      label: Meal Plan Selection
+      hint: null
+      type: select_one
+      options:
+      - Unlimited Meal Plan
+      - Standard Meal Plan
+      - Limited Meal Plan
+      - No Meal Plan
+      required: false
+    - id: 24
+      name: financial_aid_acceptance
+      label: Accept Offered Financial Aid Package
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending Decision
+      required: true
+    - id: 25
+      name: enrollment_agreement
+      label: I agree to the enrollment terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

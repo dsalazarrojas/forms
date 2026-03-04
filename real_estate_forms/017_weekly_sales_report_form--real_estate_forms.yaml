@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_sales_report_form
+    pages:
+    - id: 1
+      name: sales_period
+      label: Sales Period
+      hint: null
+      type: select_one
+      options:
+      - First Quarter
+      - Second Quarter
+      - Third Quarter
+      - Fourth Quarter
+      required: false
+    - id: 2
+      name: sales_region
+      label: Sales Region
+      hint: null
+      type: select_multiple
+      options:
+      - East
+      - West
+      - North
+      - South
+      required: true
+    - id: 3
+      name: sales_type
+      label: Sales Type
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Rental
+      - Lease
+      required: true
+    - id: 4
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: sales_time
+      label: Sales Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sales_location
+      label: Sales Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Seattle
+      required: true
+    - id: 8
+      name: sales_note
+      label: Sales Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Literacy Workshop Broadcast Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: permission_to_record
+      label: permission_to_record
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 5
+      name: permission_to_broadcase
+      label: permission_to_broadcast
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Audio''}'
+      - '{''value'': ''Video''}'
+      - '{''value'': ''Live''}'
+      required: false
+    - id: 6
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: consent_time
+      label: consent_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: Additional comments or concerns
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: agreement_to_terms_and_conditions
+      label: agreement_to_terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: agreement_to_release
+      label: agreement_to_release
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 11
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 12
+      name: participant_agreement_date
+      label: participant_agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: participant_agreement_time
+      label: participant_agreement_time
+      hint: null
+      type: time
+      options: []
+      required: false

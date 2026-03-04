@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Land Lease Form
+    pages:
+    - id: 1
+      name: form_lease_size
+      label: Farm Lease Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: land_owner_name
+      label: Land Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenant_contact
+      label: Tenant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: farm_land_area
+      label: Farm Land Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: allowed_tenants
+      label: Allowed Tenants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: farm_address
+      label: Farm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rent_price
+      label: Rent Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: time
+      options: []
+      required: false

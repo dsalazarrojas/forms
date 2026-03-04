@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Technology Training Recording Consent Form
+    pages:
+    - id: 1
+      name: recording_consent_form
+      label: RecordingConsentForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nonprofit_technology_training_recording_consent_form
+      label: NonprofitTechnoloyTrainingRecordingConsentForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_participants
+      label: training_participants
+      hint: null
+      type: select_one
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 4
+      name: has_video_recording_consent
+      label: hasVideoRecordingConsent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: recorded_at
+      label: recorded_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recording_device
+      label: recording_device
+      hint: null
+      type: select_one
+      options:
+      - Smartphone
+      - Tablet
+      - Laptop
+      required: false
+    - id: 7
+      name: recording_file
+      label: recording_file
+      hint: null
+      type: select_multiple
+      options:
+      - Audio
+      - Video
+      required: false
+    - id: 8
+      name: recording_consent_message
+      label: recording_consent_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: has_audio_recording_consent
+      label: hasAudioRecordingConsent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

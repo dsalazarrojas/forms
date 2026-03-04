@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artisan Referral Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Referrer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Your Name
+      hint: Full name of the person making the referral
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_email
+      label: Your Email Address
+      hint: How we can contact you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: referrer_phone
+      label: Your Phone Number
+      hint: Optional - backup contact method
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship_to_artisan
+      label: Your Relationship to the Artisan
+      hint: How do you know them?
+      type: select_one
+      options:
+      - Personal Friend
+      - Family Member
+      - Business Associate
+      - Customer
+      - Colleague
+      - Other
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Referred Artisan Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: artisan_name
+      label: Artisan Name
+      hint: Full name of the artisan being referred
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artisan_email
+      label: Artisan Email Address
+      hint: Contact email if available
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: artisan_phone
+      label: Artisan Phone Number
+      hint: Contact number if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: artisan_type
+      label: Type of Artisan
+      hint: What type of crafts do they create?
+      type: select_one
+      options:
+      - Jewelry
+      - Textiles and Clothing
+      - Pottery and Ceramics
+      - Woodworking
+      - Metalwork
+      - Leather Goods
+      - Glass Art
+      - Painting and Prints
+      - Sculpture
+      - Mixed Media
+      - Other
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Referral Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: referral_reason
+      label: Why Are You Recommending This Artisan?
+      hint: Explain the reasons for your referral
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: artisan_strengths
+      label: What Makes This Artisan Exceptional?
+      hint: Describe their special skills or qualities
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: work_quality
+      label: Quality of Work
+      hint: Rate the quality of their craftsmanship
+      type: select_one
+      options:
+      - Exceptional
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Business Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: opportunity_type
+      label: Type of Opportunity Being Referred
+      hint: What opportunity are you referring?
+      type: select_one
+      options:
+      - Market or Exhibition
+      - Retail Partnership
+      - Custom Commission
+      - Networking Event
+      - Funding or Grant
+      - Collaboration
+      - Gallery Representation
+      - Online Platform
+      - Other
+      required: true
+    - id: 17
+      name: opportunity_details
+      label: Details About the Opportunity
+      hint: Describe the opportunity in detail
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_authorization
+      label: May We Contact the Artisan About This?
+      hint: Permission to share their information
+      type: select_one
+      options:
+      - Yes, please contact them
+      - Yes, but ask me first
+      - No, I will contact them
+      required: true
+    - id: 19
+      name: section_header_5
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: artisan_location
+      label: Artisan Location
+      hint: City or region where they work
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: online_presence
+      label: Artisan Website or Social Media
+      hint: URL or handles if available
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: referral_date
+      label: Date of Referral
+      hint: When are you making this referral?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_interest
+      label: Would You Like to Hear About the Outcome?
+      hint: Do you want updates on this referral?
+      type: select_one
+      options:
+      - Yes, please update me
+      - No, just submit the referral
+      required: false
+    - id: 24
+      name: confidentiality_consent
+      label: You May Share My Information with the Artisan
+      hint: Permission to share your contact details
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, Keep My Information Private
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other information to share?
+      type: text
+      options: []
+      required: false

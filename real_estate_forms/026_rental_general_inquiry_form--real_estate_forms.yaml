@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental General Inquiry Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Studio
+      - 1 Bedroom
+      - 2-3 Bedrooms
+      - 4+ Bedrooms
+      required: true
+    - id: 7
+      name: form_property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - For Rent
+      - Leased
+      - Sold
+      - Coming Soon
+      required: true
+    - id: 8
+      name: form_move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: form_move_in_time
+      label: Move In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: form_additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_property_city
+      label: Property City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_property_state
+      label: Property State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_property_zip
+      label: Property Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_property_country
+      label: Property Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_property_province
+      label: Property Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_property_neighborhood
+      label: Property Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_property_postal_code
+      label: Property Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_property_region
+      label: Property Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_property_area
+      label: Property Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_preferred_method_of_contact
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Phone & Email
+      - None
+      required: true
+    - id: 22
+      name: form_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: false
+    - id: 23
+      name: form_preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: select_one
+      options:
+      - Anytime
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 24
+      name: form_preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Email
+      - Text
+      - Video Call
+      required: false
+    - id: 25
+      name: form_agree_terms_and_conditions
+      label: Agree to Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true

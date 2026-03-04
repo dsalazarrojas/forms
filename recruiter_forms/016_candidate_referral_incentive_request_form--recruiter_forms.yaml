@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Referral Incentive Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Company ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Employee Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Employee Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Your Department
+      hint: Work department
+      type: select_one
+      options:
+      - Administration
+      - Sales
+      - Marketing
+      - Human Resources
+      - Finance
+      - Operations
+      - IT or Technology
+      - Customer Service
+      - Other
+      required: true
+    - id: 6
+      name: referred_candidate_name
+      label: Referred Candidate Full Name
+      hint: Name of person you are referring
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: referred_candidate_email
+      label: Referred Candidate Email
+      hint: Candidate email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: referred_candidate_phone
+      label: Referred Candidate Phone
+      hint: Candidate phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referred_candidate_linkedin
+      label: Referred Candidate LinkedIn Profile
+      hint: LinkedIn URL
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: position_referred_for
+      label: Position Referred For
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_posting_id
+      label: Job Posting ID or Reference
+      hint: Job reference number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: relationship_to_candidate
+      label: Your Relationship to Candidate
+      hint: How do you know them
+      type: select_one
+      options:
+      - Former colleague
+      - Current colleague
+      - Friend
+      - Family member
+      - Classmate
+      - Professional contact
+      - Other
+      required: true
+    - id: 13
+      name: how_long_known
+      label: How Long Have You Known the Candidate
+      hint: Duration of relationship
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 14
+      name: candidate_qualifications
+      label: Why Is This Candidate Qualified
+      hint: Describe their qualifications
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: candidate_strengths
+      label: Candidate Key Strengths
+      hint: What makes them stand out
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: referral_date
+      label: Date of Referral
+      hint: When did you refer them
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: candidate_hired
+      label: Has the Candidate Been Hired
+      hint: Employment status
+      type: select_one
+      options:
+      - Yes - already hired
+      - Yes - offer accepted
+      - In interview process
+      - Application submitted
+      - Not yet
+      required: true
+    - id: 18
+      name: hire_date
+      label: Candidate Hire Date
+      hint: When were they hired
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: incentive_type_requested
+      label: Type of Incentive Requested
+      hint: What incentive are you claiming
+      type: select_one
+      options:
+      - Cash bonus
+      - Gift card
+      - Extra vacation days
+      - Training budget
+      - Other
+      required: true
+    - id: 20
+      name: incentive_amount
+      label: Incentive Amount Expected
+      hint: Expected value
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: policy_acknowledgment
+      label: Have You Read the Referral Policy
+      hint: Policy understanding
+      type: select_one
+      options:
+      - Yes - fully read and understood
+      - Yes - partially read
+      - No - need to review
+      required: true
+    - id: 22
+      name: policy_agreement
+      label: Do You Agree to Policy Terms
+      hint: Terms acceptance
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 23
+      name: eligibility_confirmation
+      label: Are You Eligible for Referral Bonus
+      hint: Confirm eligibility
+      type: select_one
+      options:
+      - Yes - I am eligible
+      - Unsure - need verification
+      - false
+      required: true
+    - id: 24
+      name: previous_referrals
+      label: Have You Made Previous Referrals
+      hint: Past referral history
+      type: select_one
+      options:
+      - Yes - this is my first
+      - Yes - I have made referrals before
+      - No - first time
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: submission_date
+      label: Request Submission Date
+      hint: Date submitted
+      type: date
+      options: []
+      required: true

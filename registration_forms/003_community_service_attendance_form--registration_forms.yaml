@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Attendance Form
+    pages:
+    - id: 1
+      name: section_registration
+      label: -- Attendee Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registration_status
+      label: Registration Status
+      hint: Select one option.
+      type: select_one
+      options:
+      - Pre-registered
+      - Walk-in
+      - Returning Volunteer
+      required: true
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: sign_in_time
+      label: Sign-In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: sign_out_time
+      label: Sign-Out Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: total_minutes
+      label: Total Minutes Completed
+      hint: Whole numbers only.
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: organization_affiliation
+      label: School or Organization Name
+      hint: If applicable.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: heard_about_us
+      label: How did you hear about this event?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Word of Mouth
+      - Website
+      - Newsletter
+      - Flyer
+      - Other
+      required: false
+    - id: 15
+      name: areas_of_interest
+      label: What other types of service interest you?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Environmental
+      - Youth Mentoring
+      - Food Security
+      - Senior Care
+      - Animal Welfare
+      - Disaster Relief
+      required: false
+    - id: 16
+      name: feedback_comments
+      label: Feedback or Comments
+      hint: Anything you want us to know about today.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_again
+      label: Would you like to volunteer with us again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true

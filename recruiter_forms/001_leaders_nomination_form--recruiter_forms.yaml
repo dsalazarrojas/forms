@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leaders Nomination Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: null
+      type: select_multiple
+      options:
+      - Assistant Manager
+      - Assistant Director
+      - Deputy Manager
+      required: true
+    - id: 6
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominee_brief
+      label: Nominee Brief
+      hint: Provide a 1500 character description of the nominee
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_brief
+      label: Submitter Brief
+      hint: Provide a 500 character description of yourself
+      type: text
+      options: []
+      required: false

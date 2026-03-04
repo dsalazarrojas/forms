@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Café Bakery Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Your Name
+      hint: Name of person making referral
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_email
+      label: Your Email
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: referrer_phone
+      label: Your Phone
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referrer_type
+      label: I Am A
+      hint: What best describes you
+      type: select_one
+      options:
+      - Current customer
+      - Business owner
+      - Event planner
+      - Restaurant owner
+      - Caterer
+      - Other
+      required: true
+    - id: 5
+      name: referred_business_name
+      label: Referred Business Name
+      hint: Name of business being referred
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referred_contact_name
+      label: Referred Contact Name
+      hint: Primary contact at referred business
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: referred_contact_email
+      label: Referred Contact Email
+      hint: Email of referred contact
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: referred_contact_phone
+      label: Referred Contact Phone
+      hint: Phone number of referred contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referred_business_type
+      label: Referred Business Type
+      hint: What type of business is this
+      type: select_one
+      options:
+      - Restaurant
+      - Hotel
+      - Office building
+      - Event venue
+      - Corporate office
+      - Retail store
+      - Other food service
+      - Other
+      required: true
+    - id: 10
+      name: referral_type
+      label: Referral Type
+      hint: What type of referral is this
+      type: select_one
+      options:
+      - Wholesale bakery supply
+      - Catering services
+      - Coffee supply
+      - Event partnership
+      - Cross-promotion
+      - Corporate accounts
+      - Other
+      required: true
+    - id: 11
+      name: estimated_volume
+      label: Estimated Monthly Volume
+      hint: Approximate business volume expected
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1,000
+      - $1,000-$5,000
+      - $5,000-$10,000
+      - Over $10,000
+      - Not sure
+      required: false
+    - id: 12
+      name: referral_reason
+      label: Reason for Referral
+      hint: Why are you referring this business
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: relationship_to_business
+      label: Your Relationship to Referred Business
+      hint: How do you know this business
+      type: select_one
+      options:
+      - Owner or employee
+      - Friend or family
+      - Business partner
+      - Customer
+      - Other professional contact
+      - Other
+      required: true
+    - id: 14
+      name: best_contact_time
+      label: Best Time to Contact Referred Business
+      hint: When should we reach out
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      - By appointment only
+      required: false
+    - id: 15
+      name: permission_to_share
+      label: Do You Have Permission to Share This Contact
+      hint: Has the business agreed to be contacted
+      type: select_one
+      options:
+      - Yes, they are expecting contact
+      - Yes, but not expecting specific contact
+      - I think so
+      - Not sure
+      required: true
+    - id: 16
+      name: referral_incentive
+      label: Referral Incentive Interest
+      hint: Are you interested in referral rewards
+      type: select_one
+      options:
+      - Yes, tell me more
+      - Yes, already in program
+      - No thanks
+      required: false
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information about this referral
+      type: text
+      options: []
+      required: false

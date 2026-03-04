@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autism Support Service Referral Form
+    pages:
+    - id: 1
+      name: referral_info_header
+      label: -- Referral Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Referrer Name
+      hint: Name of the professional making the referral
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Name of the referring clinic, school, or agency
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referrer_email
+      label: Referrer Email
+      hint: Professional email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: referrer_phone
+      label: Referrer Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referral_date
+      label: Referral Date
+      hint: Date this referral is being submitted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: client_details_header
+      label: -- Patient and Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_full_name
+      label: Client Full Name
+      hint: Legal name of the individual being referred
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_date_of_birth
+      label: Client Date of Birth
+      hint: Used for age-appropriate service matching
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: gender
+      label: Gender
+      hint: Optional field for demographic information
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: primary_caregiver_name
+      label: Primary Caregiver Name
+      hint: Parent or guardian name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: caregiver_phone
+      label: Caregiver Contact Number
+      hint: Best phone number to reach the family
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: clinical_info_header
+      label: -- Clinical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: autism_diagnosis_status
+      label: Autism Diagnosis Status
+      hint: Current status of ASD diagnosis
+      type: select_one
+      options:
+      - Confirmed
+      - Suspected
+      - Re-evaluation needed
+      required: true
+    - id: 15
+      name: primary_reason_for_referral
+      label: Primary Reason for Referral
+      hint: Brief description of current needs or concerns
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_support_services
+      label: Current Support Services
+      hint: Select services currently being received
+      type: select_multiple
+      options:
+      - Speech Therapy
+      - Occupational Therapy
+      - Behavioral Therapy (ABA)
+      - Educational Support
+      - Social Skills Group
+      required: false
+    - id: 17
+      name: behavioral_concerns
+      label: Behavioral Concerns
+      hint: Describe any significant behavioral patterns or challenges
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_history_summary
+      label: Relevant Medical History
+      hint: Note any co-occurring conditions or medications
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: urgency_level
+      label: Urgency Level
+      hint: Help us prioritize this referral
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - Crisis
+      required: true

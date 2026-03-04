@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Service Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee name
+      hint: Full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event date
+      hint: Select planned service date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: service_type
+      label: Service type
+      hint: Choose service
+      type: select_one
+      options:
+      - Morning service
+      - Evening service
+      - Bible study
+      - Prayer meeting
+      required: true
+    - id: 4
+      name: number_of_guests
+      label: Number of guests
+      hint: Include yourself
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: special_requests
+      label: Special requests or accommodations
+      hint: Dietary needs accessibility concerns
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_interest
+      label: Interested in volunteering
+      hint: Check if you want to help
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: acknowledgement
+      label: Registration acknowledgement
+      hint: Confirmation will be sent by email
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

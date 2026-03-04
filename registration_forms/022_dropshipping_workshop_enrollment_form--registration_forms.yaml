@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: dropshipping_workshop_enrollment_form
+    pages:
+    - id: 1
+      name: workshop_enrollment_form
+      label: Workshop Enrollment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_email
+      label: shipping_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_type
+      label: workshop_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option 1''}'
+      - '{''label'': ''option 2''}'
+      - '{''label'': ''option 3''}'
+      required: true
+    - id: 6
+      name: enrollment_date
+      label: enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_in
+      label: time_in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: workshop_enrollment_date
+      label: workshop_enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: workshop_enrollment_time
+      label: workshop_enrollment_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: Time Of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: select_one
+      options:
+      - Buyer
+      - Lease
+      - Rent
+      - Other
+      required: false
+    - id: 10
+      name: visitor_details
+      label: Visitor Details
+      hint: null
+      type: select_multiple
+      options:
+      - Single family
+      - Multi family
+      - Other
+      required: false

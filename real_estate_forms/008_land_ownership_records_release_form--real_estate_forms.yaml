@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Land Ownership Records Release Form
+    pages:
+    - id: 1
+      name: land_ownership_records_release_form_property
+      label: Property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: land_ownership_records_release_form_property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 3
+      name: land_ownership_records_release_form_property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: land_ownership_records_release_form_agency
+      label: Agency
+      hint: null
+      type: select_multiple
+      options:
+      - Real Estate Agency 1
+      - Real Estate Agency 2
+      - Real Estate Agency 3
+      required: false
+    - id: 5
+      name: land_ownership_records_release_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: land_ownership_records_release_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: land_ownership_records_release_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: land_ownership_records_release_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: land_ownership_records_release_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

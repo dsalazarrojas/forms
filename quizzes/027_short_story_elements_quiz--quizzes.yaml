@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Story Elements Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: plot_section
+      label: plot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: character_section
+      label: character
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: theme_section
+      label: theme
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: plot_hint
+      label: plot hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: main_character
+      label: main character
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: supporting_character_1
+      label: supporting character 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: supporting_character_2
+      label: supporting character 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

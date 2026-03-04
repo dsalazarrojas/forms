@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Enrollment And Payment Registration
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 8
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Pending''}'
+      required: true
+    - id: 9
+      name: student_enrollment_date
+      label: Student Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: student_dues
+      label: Student Dues
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_signature_required
+      label: Student Signature Required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 15
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_signature_required
+      label: Staff Signature Required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 17
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Done''}'
+      - '{''label'': ''Cancelled''}'
+      required: true
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jimmy''}'
+      - '{''label'': ''John''}'
+      required: true
+    - id: 21
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Design Equipment Quote Form
+    pages:
+    - id: 1
+      name: equipment_type
+      label: Equipment type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_condition
+      label: Equipment condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Purchase date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: technician
+      label: Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

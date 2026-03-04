@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Agreement Delivery Form
+    pages:
+    - id: 1
+      name: lease_agreement_delivery_form_fields
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Tenant Contact
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: landlord_information
+      label: Landlord Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: building_details
+      label: Building Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

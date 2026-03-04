@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Lead Generation Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_details
+      label: Policy Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: insurance_policies
+      label: Insurance Policies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: policy_coverage
+      label: Policy Coverage
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 5
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: policy_ages
+      label: Policy Aged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: policy_premimum
+      label: Policy Premimum
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: policy_term
+      label: Policy Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: agent_info
+      label: Agent Info
+      hint: null
+      type: text
+      options: []
+      required: false

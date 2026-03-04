@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Inspection Refund Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Factory Inspection Refund Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspection_fee
+      label: Inspection Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: select_one
+      options:
+      - Inspection not done
+      - Inspection not passed
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: other_reason
+      label: Other Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: select_multiple
+      options:
+      - ABC Manufacturer
+      - DEF Manufacturer
+      - GHI Manufacturer
+      - JKL Manufacturer
+      - MNO Manufacturer
+      required: false
+    - id: 8
+      name: contractor
+      label: Contractor
+      hint: null
+      type: select_one
+      options:
+      - Contractor 1
+      - Contractor 2
+      - Contractor 3
+      - Contractor 4
+      - Contractor 5
+      - Contractor 6
+      - Contractor 7
+      - Contractor 8
+      - Contractor 9
+      - Contractor 10
+      required: false

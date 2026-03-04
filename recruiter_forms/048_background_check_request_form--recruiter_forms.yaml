@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Check Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Hiring manager or recruiter
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_name
+      label: Candidate name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position
+      label: Position to be filled
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_check
+      label: Reason for background check
+      hint: Employment screening volunteer role licensing
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorized_scope
+      label: Authorized scope of check
+      hint: Criminal records credit verification education
+      type: select_multiple
+      options:
+      - Criminal record
+      - Employment verification
+      - Education verification
+      - Credit check
+      required: true
+    - id: 6
+      name: priority_level
+      label: Priority level
+      hint: Urgency of request
+      type: select_one
+      options:
+      - Normal
+      - High
+      - Urgent
+      required: false
+    - id: 7
+      name: contact_email
+      label: Requester email
+      hint: For delivery of results
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Requester phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission date
+      hint: Date request created
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: approval_status
+      label: Approval status
+      hint: For internal workflow
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false

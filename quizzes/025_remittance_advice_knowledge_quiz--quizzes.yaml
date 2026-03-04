@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remittance Advice Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Remittance Advice Knowledge Quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_name
+      label: staff_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: select_question1
+      label: Which of the following is an example of remittance advice?
+      hint: null
+      type: select_one
+      options:
+      - '{''A'': ''A''}'
+      - '{''B'': ''B''}'
+      - '{''C'': ''C''}'
+      required: false
+    - id: 5
+      name: select_question2
+      label: Which of the following is an example of remittance advice?
+      hint: null
+      type: select_one
+      options:
+      - '{''A'': ''A''}'
+      - '{''B'': ''B''}'
+      - '{''C'': ''C''}'
+      required: false
+    - id: 6
+      name: answer1
+      label: answer1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: answer2
+      label: answer2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quiz_results
+      label: quiz_results
+      hint: null
+      type: select_one
+      options:
+      - '{''A'': ''Pass''}'
+      - '{''B'': ''Fail''}'
+      required: false
+    - id: 9
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: email2
+      label: email2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: price_quote_kf
+    pages:
+    - id: 1
+      name: price_quote_kf_form
+      label: quote form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quote_details
+      label: quote_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Jim Smith''}'
+      - '{''id'': 2, ''text'': ''Jim Doe''}'
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quote_terms
+      label: quote_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quote_terms_acceptance
+      label: quote_terms_acceptance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quote_terms_important
+      label: quote_terms_important
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quote_terms_acceptance_checkbox
+      label: quote_terms_acceptance_checkbox
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''yes''}'
+      - '{''id'': 2, ''text'': ''no''}'
+      required: false
+    - id: 10
+      name: quote_terms_important_checkbox
+      label: quote_terms_important_checkbox
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''yes''}'
+      - '{''id'': 2, ''text'': ''no''}'
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: quote_time
+      label: Quote Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: quote_price
+      label: Quote Price
+      hint: null
+      type: number
+      options: []
+      required: false

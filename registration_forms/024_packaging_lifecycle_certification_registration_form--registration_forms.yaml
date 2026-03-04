@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packaging Lifecycle Certification Registration Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lifecycle_stage
+      label: Lifecycle Stage
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stage 1
+      - Stage 2
+      - Stage 3
+      - Stage 4
+      - Stage 5
+      required: false
+    - id: 3
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Certification A
+      - Certification B
+      - Certification C
+      required: false
+    - id: 4
+      name: documentation
+      label: Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: organization_contact
+      label: Organization Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

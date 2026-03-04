@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: create-your-account-and-playlist
+    pages:
+    - id: 1
+      name: signup
+      label: create your account
+      hint: null
+      type: select_one
+      options:
+      - Account
+      - Playlist
+      required: true
+    - id: 2
+      name: email
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: playlist
+      label: playlist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - media platforms
+      - creator communities
+      required: true
+    - id: 8
+      name: platform
+      label: platform
+      hint: null
+      type: select_multiple
+      options:
+      - platform 1
+      - platform 2
+      - platform 3
+      required: true
+    - id: 9
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - role 1
+      - role 2
+      - role 3
+      required: true
+    - id: 10
+      name: timezone
+      label: timezone
+      hint: null
+      type: select_multiple
+      options:
+      - timezone 1
+      - timezone 2
+      - timezone 3
+      required: true
+    - id: 11
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - language 1
+      - language 2
+      - language 3
+      required: true
+    - id: 12
+      name: currency
+      label: currency
+      hint: null
+      type: select_multiple
+      options:
+      - currency 1
+      - currency 2
+      required: false
+    - id: 13
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: country_code
+      label: country code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: region
+      label: region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: area
+      label: area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: city
+      label: city
+      hint: city name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: address_1
+      label: address 1
+      hint: address line 1
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: address_2
+      label: address 2
+      hint: address line 2
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: address_3
+      label: address 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: post_code
+      label: post code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: confirm_phone
+      label: confirm phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: confirm_phone_label
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

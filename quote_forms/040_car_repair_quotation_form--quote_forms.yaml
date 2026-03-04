@@ -1,0 +1,415 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Repair Quotation Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For quote communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: Overall condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: repair_information
+      label: Repair Information
+      hint: Details about needed repairs
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: service_type
+      label: Service Type
+      hint: What type of service?
+      type: select_one
+      options:
+      - Engine repair
+      - Transmission service
+      - Brake service
+      - Suspension/Steering
+      - Electrical system
+      - AC/Heating
+      - Exhaust system
+      - Body work
+      - Paint work
+      - General maintenance
+      - Diagnostic only
+      - Other
+      required: true
+    - id: 20
+      name: problem_description
+      label: Problem Description
+      hint: Describe the issue
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: symptoms
+      label: Symptoms
+      hint: What symptoms are you experiencing?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: when_problem_occurs
+      label: When Problem Occurs
+      hint: Under what conditions?
+      type: select_one
+      options:
+      - Always
+      - When starting
+      - When accelerating
+      - When braking
+      - When turning
+      - At high speeds
+      - When idle
+      - Intermittently
+      required: false
+    - id: 23
+      name: warning_lights
+      label: Warning Lights
+      hint: Are any warning lights on?
+      type: select_multiple
+      options:
+      - None
+      - Check Engine
+      - Oil Pressure
+      - Battery
+      - Brake
+      - ABS
+      - Airbag
+      - Tire Pressure
+      - Temperature
+      - Other
+      required: false
+    - id: 24
+      name: recent_repairs
+      label: Recent Repairs
+      hint: Any recent work done?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quotation_details
+      label: Quotation Details
+      hint: Estimate preferences
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: estimate_type
+      label: Estimate Type
+      hint: What type of estimate?
+      type: select_one
+      options:
+      - Written estimate required
+      - Verbal estimate OK
+      - Phone estimate
+      - Email estimate
+      - In-person estimate
+      required: true
+    - id: 27
+      name: urgency
+      label: Urgency
+      hint: How urgent is this repair?
+      type: select_one
+      options:
+      - Emergency - immediate
+      - Urgent - within 24 hours
+      - Soon - within a week
+      - Routine - schedule convenience
+      - Planning ahead
+      required: true
+    - id: 28
+      name: budget_range
+      label: Budget Range
+      hint: Your expected budget
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$1,000
+      - $1,000-$2,000
+      - Over $2,000
+      - No limit - safety critical
+      required: false
+    - id: 29
+      name: parts_preference
+      label: Parts Preference
+      hint: Type of parts
+      type: select_one
+      options:
+      - OEM parts only
+      - Aftermarket parts OK
+      - Used/rebuilt parts OK
+      - No preference
+      required: true
+    - id: 30
+      name: warranty_importance
+      label: Warranty Importance
+      hint: Is warranty important?
+      type: select_one
+      options:
+      - Yes - must have warranty
+      - Preferred but not required
+      - Not important
+      required: true
+    - id: 31
+      name: appointment_preference
+      label: Appointment Preference
+      hint: When to bring vehicle?
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 3 days
+      - Within a week
+      - Next available
+      - Specific date
+      required: true
+    - id: 32
+      name: preferred_date
+      label: Preferred Date
+      hint: If specific date
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: preferred_time
+      label: Preferred Time
+      hint: Morning or afternoon?
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-5PM)
+      - Any time
+      required: false
+    - id: 34
+      name: loaner_vehicle_needed
+      label: Loaner Vehicle Needed
+      hint: Do you need a loaner?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 35
+      name: transportation_alternative
+      label: Transportation Alternative
+      hint: How will you get around?
+      type: select_one
+      options:
+      - Loaner vehicle
+      - Rental car
+      - Public transportation
+      - Ride from friend/family
+      - Walk/bike
+      - Work from home
+      required: false
+    - id: 36
+      name: authorization
+      label: Authorization
+      hint: Work authorization
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: diagnostic_authorization
+      label: Diagnostic Authorization
+      hint: Authorize diagnostic?
+      type: select_one
+      options:
+      - Yes - proceed with diagnostic
+      - No - quote first
+      required: true
+    - id: 38
+      name: contact_before_work
+      label: Contact Before Work
+      hint: Should we contact you first?
+      type: select_one
+      options:
+      - Yes - always call first
+      - Yes - for additional work only
+      - No - proceed with estimate
+      required: true
+    - id: 39
+      name: quote_delivery
+      label: Quote Delivery
+      hint: How to receive quote?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - In person
+      required: true
+    - id: 40
+      name: insurance_claim
+      label: Insurance Claim
+      hint: Is this an insurance claim?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 41
+      name: insurance_company
+      label: Insurance Company
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: claim_number
+      label: Claim Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Search engine
+      - Social media
+      - Friend/Family
+      - Advertisement
+      - Previous customer
+      - Insurance company
+      - Other
+      required: false
+    - id: 44
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: quote_request_date
+      label: Quote Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

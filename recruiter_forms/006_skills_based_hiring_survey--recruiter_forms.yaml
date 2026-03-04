@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skills Based Hiring Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Skills Based Hiring Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_1
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_1_1
+      label: What skills first hiring practices do you currently have in place
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some skills-first hiring practices
+      - Most skills-first hiring practices
+      - Completely skills-first hiring practices
+      - Not sure
+      required: false
+    - id: 5
+      name: question_1_2
+      label: What challenges do you face in implementing skills-first hiring practices
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of skills data
+      - Lack of budget
+      - Lack of resources
+      - Lack of support
+      - Not sure
+      required: false
+    - id: 6
+      name: question_2_1
+      label: On a scale of 0-10 what is your level of confidence in your current skills
+        data accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question_2_2
+      label: On a scale of 0-10 what is your level of confidence in your ability to
+        interpret and utilize your skills data
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question_3_1
+      label: Which industries do you currently adopt skills-first hiring practices
+        in
+      hint: null
+      type: select_multiple
+      options:
+      - Retail
+      - Finance and Insurance
+      - Healthcare
+      - Technology
+      - Manufacturing
+      - Energy & Utilities
+      - Not sure
+      required: false
+    - id: 9
+      name: question_4_1
+      label: What are some of the key challenges you face in adopting skills-first
+        hiring practices
+      hint: null
+      type: select_multiple
+      options:
+      - Skills data accuracy
+      - Skills data quality
+      - Integration with other systems
+      - Cost
+      - Not sure
+      required: false
+    - id: 10
+      name: question_5_1
+      label: On a scale of 1-5 how important is it for you to be able to collect and
+        analyze skills data
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: question_5_2
+      label: How often do you collect and analyze skills data
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false

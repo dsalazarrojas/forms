@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Item Registration Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_item_info
+      label: -- Item Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: item_category
+      label: Item Category
+      hint: null
+      type: select_one
+      options:
+      - Art
+      - Electronics
+      - Furniture
+      - Jewelry
+      - Memorabilia
+      - Other
+      required: true
+    - id: 7
+      name: item_description
+      label: Brief Description
+      hint: What makes this item special?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_value
+      label: Estimated Value
+      hint: What do you think it is worth?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: delivery_method
+      label: How will you get the item to us?
+      hint: null
+      type: select_one
+      options:
+      - Drop off
+      - Pick up required
+      - Mail in
+      required: true

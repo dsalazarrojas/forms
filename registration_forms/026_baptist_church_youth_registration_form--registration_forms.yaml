@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baptist Church Youth Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: youth_first_name
+      label: Youth First Name
+      hint: First name of youth participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: youth_last_name
+      label: Youth Last Name
+      hint: Last name of youth
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: youth_dob
+      label: Date of Birth
+      hint: Youth date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: youth_age
+      label: Current Age
+      hint: Age of youth
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: Current school grade
+      type: select_one
+      options:
+      - Elementary (K-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      - Not in School
+      required: true
+    - id: 7
+      name: youth_email
+      label: Youth Email (if available)
+      hint: Email if age appropriate
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: youth_phone
+      label: Youth Phone (if available)
+      hint: Phone if age appropriate
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Primary parent/guardian
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_email
+      label: Parent Email
+      hint: Parent contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: Parent Phone
+      hint: Parent contact phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: secondary_contact_name
+      label: Secondary Contact Name
+      hint: In case primary unavailable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: secondary_contact_phone
+      label: Secondary Contact Phone
+      hint: Emergency backup contact
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Street Address
+      hint: Youth residential address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: State of residence
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: activity_interest
+      label: Youth Activities of Interest
+      hint: Select all applicable areas
+      type: select_multiple
+      options:
+      - Bible Study Groups
+      - Youth Choir
+      - Sports Activities
+      - Community Service
+      - Mission Trips
+      - Social Events
+      - Leadership Training
+      - Counseling/Support
+      required: true
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food allergies or restrictions?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions or Medications
+      hint: Important health information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any accessibility needs?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: baptism_status
+      label: Baptism Status
+      hint: Has youth been baptized?
+      type: select_one
+      options:
+      - Baptized
+      - Not Yet Baptized
+      - Interested in Learning More
+      - Prefer Not to Say
+      required: false
+    - id: 23
+      name: parental_consent
+      label: I give permission for youth to participate in church activities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: emergency_authorization
+      label: I authorize emergency medical treatment if necessary
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

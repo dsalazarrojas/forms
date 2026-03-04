@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Script Reading Broadcast Consent Form
+    pages:
+    - id: 1
+      name: broadcast_permission
+      label: Broadcast Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: broadcast_type
+      label: Broadcast Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: broadcast_date
+      label: Broadcast Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: broadcast_time
+      label: Broadcast Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: script_title
+      label: Script Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: script_version
+      label: Script Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: broadcast_platform
+      label: Broadcast Platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: script_status
+      label: Script Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: script_description
+      label: Script Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: creator
+      label: Creator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: script_reading_broadcast_consent
+      label: Script Reading Broadcast Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: script_reading_broadcast_consent_version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: script_reading_broadcast_consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: script_reading_broadcast_consent_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poster Design Quotation Form
+    pages:
+    - id: 1
+      name: quote_request_form
+      label: Quote Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quote_type
+      label: quote_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quote_value
+      label: Quote Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: client_requirement
+      label: Client Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quote_deadline
+      label: Quote Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

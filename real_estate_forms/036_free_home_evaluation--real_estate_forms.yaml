@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_home_evaluation
+    pages:
+    - id: 1
+      name: first_page
+      label: Free Home Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: home_features
+      label: Home Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

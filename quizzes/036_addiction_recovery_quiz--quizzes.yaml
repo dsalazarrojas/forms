@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Addiction Recovery Quiz
+    pages:
+    - id: 1
+      name: quiz_intro
+      label: -- Understanding Your Relationship with Substances --
+      hint: This quiz is designed to help you reflect on your habits. It is not a
+        clinical diagnosis.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: frequency_check
+      label: How often do you find yourself using substances more than you intended?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Almost always
+      required: true
+    - id: 3
+      name: control_struggle
+      label: Have you ever tried to cut down or stop but found it difficult?
+      hint: null
+      type: select_one
+      options:
+      - No, never
+      - I have thought about it but haven't tried
+      - Yes, I have tried once or twice
+      - Yes, I have tried many times
+      required: true
+    - id: 4
+      name: life_impact
+      label: Has your substance use ever interfered with your work, school, or home
+        life?
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Occasional minor impact
+      - Significant recurring impact
+      - Severe impact on all areas
+      required: true
+    - id: 5
+      name: social_withdrawal
+      label: Do you find yourself avoiding social activities or hobbies to use substances?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Often
+      - Most of the time
+      required: true
+    - id: 6
+      name: physical_tolerance
+      label: Have you noticed that you need more of the substance to get the same
+        effect?
+      hint: null
+      type: select_one
+      options:
+      - No change noticed
+      - Slight increase
+      - Significant increase (Tolerance)
+      required: true
+    - id: 7
+      name: withdrawal_symptoms
+      label: Do you experience physical or emotional discomfort when you stop using?
+      hint: e.g. Anxiety, irritability, tremors, nausea
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently / Always
+      required: true
+    - id: 8
+      name: risk_awareness
+      label: Have you continued to use despite knowing it is causing physical or mental
+        health problems?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: support_readiness
+      label: How ready do you feel to talk to a professional about your recovery?
+      hint: null
+      type: select_one
+      options:
+      - Not ready at all
+      - Thinking about it
+      - Ready to take the first step
+      - Already seeking help
+      required: true
+    - id: 10
+      name: contact_request_header
+      label: -- Request Follow-up --
+      hint: If you would like an addiction coach to contact you, please provide your
+        details.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Preferred Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Do not contact me
+      required: true
+    - id: 13
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: privacy_agreement
+      label: I understand that my responses are confidential and used to provide support
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true

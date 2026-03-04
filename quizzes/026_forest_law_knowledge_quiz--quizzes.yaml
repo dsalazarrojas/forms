@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forest Law Knowledge Quiz
+    pages:
+    - id: 1
+      name: general_knowledge
+      label: General Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: multiple_choice_questions
+      label: Multiple Choice Question
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: forest_laws_description
+      label: Forest Laws Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email_input
+      label: Email Input
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_input
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one_integer
+      label: Select One Integer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: decimal_input
+      label: Decimal Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_select
+      label: Time Select
+      hint: null
+      type: time
+      options: []
+      required: false

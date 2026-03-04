@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: mortgage_quote_request_form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: loan_info
+      label: Loan Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employment_info
+      label: Employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: income
+      label: Income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Self-Employed
+      - Retired
+      - Disabled
+      - Unemployed
+      required: false
+    - id: 9
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Hourly
+      - Freelance
+      - Commission
+      - Contract
+      required: false
+    - id: 11
+      name: income_type
+      label: Income Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Joint
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 12
+      name: credit_score_rating
+      label: Credit Score Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: down_payment
+      label: Down Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Multi Family
+      - Condo
+      - Townhouse
+      - Duplex
+      required: false
+    - id: 16
+      name: property_age
+      label: Property Age
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: employment_length
+      label: Employment Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: income_range
+      label: Income Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 19
+      name: employment_verification
+      label: Employment Verification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: mortgage_type
+      label: Mortgage Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Adjustable
+      - Hybrid
+      - Home Equity
+      required: false
+    - id: 24
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Investment
+      - Second Home
+      - Vacation Home
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

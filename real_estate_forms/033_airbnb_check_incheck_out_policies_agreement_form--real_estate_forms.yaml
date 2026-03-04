@@ -1,0 +1,314 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Check In Check Out Policies Agreement Form
+    pages:
+    - id: 1
+      name: host_name
+      label: Host Name
+      hint: Full name of host
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: host_email
+      label: Host Email
+      hint: Host contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: Full name of guest
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_email
+      label: Guest Email
+      hint: Guest contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Guest Phone
+      hint: Guest contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Full address of rental
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reservation_dates
+      label: Reservation Dates
+      hint: Check-in and check-out dates
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: check_in_time
+      label: Check-in Time
+      hint: Official check-in time
+      type: select_one
+      options:
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - Flexible
+      - Other
+      required: true
+    - id: 10
+      name: check_out_time
+      label: Check-out Time
+      hint: Official check-out time
+      type: select_one
+      options:
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - Flexible
+      - Other
+      required: true
+    - id: 11
+      name: late_check_in
+      label: Late Check-in Policy
+      hint: Policy for late arrivals
+      type: select_one
+      options:
+      - Allowed with notice
+      - Not allowed
+      - Extra fee applies
+      - Self check-in available
+      required: true
+    - id: 12
+      name: early_check_in_fee
+      label: Early Check-in Fee
+      hint: Fee for early check-in
+      type: select_one
+      options:
+      - No fee
+      - $25
+      - $50
+      - Subject to availability
+      required: false
+    - id: 13
+      name: late_check_out_fee
+      label: Late Check-out Fee
+      hint: Fee for late check-out
+      type: select_one
+      options:
+      - No fee
+      - $25
+      - $50
+      - Full night charge
+      required: false
+    - id: 14
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Agreed cancellation terms
+      type: select_one
+      options:
+      - Flexible
+      - Moderate
+      - Strict
+      - Super strict
+      required: true
+    - id: 15
+      name: security_deposit
+      label: Security Deposit Amount
+      hint: Deposit required
+      type: select_one
+      options:
+      - No deposit
+      - $100
+      - $250
+      - $500
+      - $1,000 or more
+      required: true
+    - id: 16
+      name: deposit_return
+      label: Deposit Return Policy
+      hint: When deposit is returned
+      type: select_one
+      options:
+      - Within 24 hours of check-out
+      - Within 48 hours
+      - Within 7 days
+      - After damage assessment
+      required: true
+    - id: 17
+      name: smoking_policy
+      label: Smoking Policy
+      hint: Smoking rules
+      type: select_one
+      options:
+      - No smoking anywhere
+      - No smoking inside, outside allowed
+      - Designated area only
+      - Smoking allowed
+      required: true
+    - id: 18
+      name: smoking_violation_fee
+      label: Smoking Violation Fee
+      hint: Fee for violation
+      type: select_one
+      options:
+      - $250
+      - $500
+      - Full cleaning cost
+      - Not applicable
+      required: false
+    - id: 19
+      name: pet_policy
+      label: Pet Policy
+      hint: Pet rules
+      type: select_one
+      options:
+      - No pets allowed
+      - Pets allowed with fee
+      - Pets allowed, no fee
+      - Service animals only
+      required: true
+    - id: 20
+      name: pet_fee
+      label: Pet Fee
+      hint: Fee per pet
+      type: select_one
+      options:
+      - Not applicable
+      - $25 per night
+      - $50 per night
+      - $100 one-time
+      required: false
+    - id: 21
+      name: noise_policy
+      label: Noise Policy
+      hint: Quiet hours agreement
+      type: select_one
+      options:
+      - Quiet hours 10 PM to 8 AM
+      - Quiet hours 11 PM to 7 AM
+      - No specific hours
+      - No parties or events
+      required: true
+    - id: 22
+      name: party_policy
+      label: Party Policy
+      hint: Events and parties
+      type: select_one
+      options:
+      - No parties or events
+      - Small gatherings allowed
+      - Events allowed with approval
+      required: true
+    - id: 23
+      name: additional_guests
+      label: Additional Guests Policy
+      hint: Rules for extra guests
+      type: select_one
+      options:
+      - No additional guests
+      - Allowed with notice
+      - Fee per additional guest
+      required: true
+    - id: 24
+      name: parking_policy
+      label: Parking Policy
+      hint: Parking arrangements
+      type: select_one
+      options:
+      - Free parking on premises
+      - Street parking only
+      - Paid parking nearby
+      - No parking available
+      required: true
+    - id: 25
+      name: damage_policy
+      label: Damage Policy
+      hint: Responsibility for damages
+      type: select_one
+      options:
+      - Guest responsible for all damages
+      - Covered by security deposit
+      - Platform protection applies
+      required: true
+    - id: 26
+      name: cleaning_fee
+      label: Cleaning Fee
+      hint: Cleaning fee amount
+      type: select_one
+      options:
+      - Included in rate
+      - $50
+      - $100
+      - $150 or more
+      required: true
+    - id: 27
+      name: key_policy
+      label: Key Policy
+      hint: Key handling rules
+      type: select_one
+      options:
+      - Keys must be returned
+      - Lost key fee applies
+      - Smart lock, no keys
+      required: true
+    - id: 28
+      name: lost_key_fee
+      label: Lost Key Fee
+      hint: Fee for lost keys
+      type: select_one
+      options:
+      - $50
+      - $100
+      - Lock replacement cost
+      - Not applicable
+      required: false
+    - id: 29
+      name: house_rules_acknowledged
+      label: House Rules Acknowledged
+      hint: Guest confirms reading rules
+      type: select_one
+      options:
+      - Yes, I have read and agree
+      - false
+      required: true
+    - id: 30
+      name: host_signature
+      label: Host Signature
+      hint: Host digital signature
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: guest_signature
+      label: Guest Signature
+      hint: Guest digital signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: agreement_status
+      label: Agreement Status
+      hint: Current status
+      type: select_one
+      options:
+      - Both parties signed
+      - Pending guest signature
+      - Pending host signature
+      - Draft
+      required: true

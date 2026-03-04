@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interview Assessment Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: interviewer_comments
+      label: Interviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Unsatisfactory
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part Time
+      - Remote
+      - Contract
+      - Freelance
+      - Internship
+      - Temporary
+      required: true
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - HR
+      - Admin
+      - Operations
+      - Engineering
+      required: true
+    - id: 15
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 16
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 17
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 18
+      name: direct_report
+      label: Direct Report
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: performance_review
+      label: Performance Review
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: interview_type
+      label: Interview Type
+      hint: null
+      type: select_one
+      options:
+      - Face-to-Face
+      - Phone
+      - Video
+      - Online
+      required: true
+    - id: 23
+      name: interview_format
+      label: Interview Format
+      hint: null
+      type: select_multiple
+      options:
+      - One on One
+      - Panel
+      - Group
+      - Panel with multiple candidates
+      - One on One with multiple interviews
+      - Panel with multiple candidates
+      - Group with multiple interviews
+      required: true
+    - id: 24
+      name: candidate_background_check
+      label: Candidate Background Check
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: candidate_references
+      label: Candidate References
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

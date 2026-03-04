@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safe Deposit Box Referral Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_info
+      label: Account Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_referral
+      label: Customer Referral
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_referral_comments
+      label: Customer Referral Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_status
+      label: Follow-Up Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Followed Up
+      required: false
+    - id: 12
+      name: follow_up_comments
+      label: Follow-Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: account_status
+      label: Account Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 17
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-Person
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: last_follow_up_date
+      label: Last Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: last_follow_up_notes
+      label: Last Follow-Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_follow_up_date
+      label: Next Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_follow_up_notes
+      label: Next Follow-Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: account_id
+      label: Account ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

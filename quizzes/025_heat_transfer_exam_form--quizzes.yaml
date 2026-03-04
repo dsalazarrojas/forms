@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: heat_transfer_exam_form
+    pages:
+    - id: 1
+      name: first_page
+      label: heat_transfer_exam
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: first_question
+      label: first_question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: question_1_answer
+      label: question_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_2
+      label: question_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: question_3
+      label: question_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: question_4
+      label: question_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: question_5
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: question_6
+      label: question_6
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: question_7
+      label: question_7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question_8
+      label: question_8
+      hint: null
+      type: text
+      options: []
+      required: false

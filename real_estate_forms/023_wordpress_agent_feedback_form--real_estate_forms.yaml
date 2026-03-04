@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: wordpress_agent_feedback_form
+    pages:
+    - id: 1
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: date_and_time
+      label: Date And Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: agent_id
+      label: Agent ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: agent_rating
+      label: Agent Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: agent
+      label: Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: agent_rating_score
+      label: Agent Rating Score
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 19
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: submitted_by_status
+      label: Submitted By Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: submitted_at_status
+      label: Submitted At Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: submission_date_status
+      label: Submission Date Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: submission_time_status
+      label: Submission Time Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: submitted_by_type
+      label: Submitted By Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

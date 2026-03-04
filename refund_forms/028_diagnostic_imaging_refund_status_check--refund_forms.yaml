@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Diagnostic Imaging Refund Status Check
+    pages:
+    - id: 1
+      name: form_1
+      label: diagnostic_imaging_refund_status_check_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_sent
+      label: date_sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 5
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: facility
+      label: facility
+      hint: null
+      type: select_one
+      options:
+      - Imaging
+      - Radiology
+      - Other
+      required: false
+    - id: 7
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - Billing
+      - Clinical
+      - Other
+      required: false
+    - id: 8
+      name: patient_refund_status
+      label: patient_refund_status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: true

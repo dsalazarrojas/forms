@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gifted Down Payment Verification Form
+    pages:
+    - id: 1
+      name: gifted_down_payment_verification_form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gifted_down_payment_details
+      label: Down Payment Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: true
+    - id: 3
+      name: gifted_funds_source
+      label: Funds Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      - '{''label'': ''Option 4'', ''value'': ''option4''}'
+      required: true
+    - id: 4
+      name: gifted_property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: gifted_down_payment_amount
+      label: Down Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gifted_date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: gifted_transferor_name
+      label: Transferor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: gifted_transferor_address
+      label: Transferor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gifted_proof_of_funds
+      label: Proof of Funds
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: gifted_agreement_document
+      label: Agreement Document
+      hint: null
+      type: text
+      options: []
+      required: true

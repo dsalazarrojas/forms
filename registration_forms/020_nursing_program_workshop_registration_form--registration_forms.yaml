@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Program Workshop Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attending_day
+      label: Which day will you attend?
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 6
+      name: number_of_applicants
+      label: Number of applicants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: personal_info
+      label: Personal information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

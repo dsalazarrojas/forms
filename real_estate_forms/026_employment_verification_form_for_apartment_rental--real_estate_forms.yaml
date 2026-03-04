@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Verification Form For Apartment Rental
+    pages:
+    - id: 1
+      name: applicant
+      label: applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: years_worked
+      label: years worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: salary
+      label: salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_start
+      label: employment start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employment_end
+      label: employment end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employer_name
+      label: employer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employer_phone
+      label: employer phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supervisor_name
+      label: supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_phone
+      label: supervisor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employment_verification
+      label: employment verification
+      hint: null
+      type: select_one
+      options:
+      - verified
+      - not verified
+      - pending
+      required: true
+    - id: 14
+      name: date_of_verification
+      label: date of verification
+      hint: null
+      type: date
+      options: []
+      required: false

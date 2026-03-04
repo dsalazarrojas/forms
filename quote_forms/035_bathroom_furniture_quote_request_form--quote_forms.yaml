@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bathroom Furniture Quote Request Form
+    pages:
+    - id: 1
+      name: contact_details_header
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: City and State/Province required
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: furniture_spec_header
+      label: -- Furniture Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: furniture_type
+      label: What type of furniture are you looking for?
+      hint: null
+      type: select_multiple
+      options:
+      - Vanity Unit
+      - Wall-hung Cabinet
+      - Freestanding Linen Closet
+      - Mirror with Storage
+      - Floating Shelves
+      required: true
+    - id: 7
+      name: material_preference
+      label: Material Preference
+      hint: null
+      type: select_one
+      options:
+      - Solid Oak
+      - Teak (Moisture Resistant)
+      - MDF with High Gloss Finish
+      - Stainless Steel
+      - Reclaimed Wood
+      required: true
+    - id: 8
+      name: vanity_width_inches
+      label: Required Width (Inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vanity_depth_inches
+      label: Required Depth (Inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: countertop_material
+      label: Countertop Material (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - Marble
+      - Quartz
+      - Granite
+      - Glass
+      - Matching Wood
+      - None
+      required: false
+    - id: 11
+      name: color_finish
+      label: Preferred Color or Finish
+      hint: e.g. Matte Black, Natural Oak, Navy Blue
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quantity_requested
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: additional_requests
+      label: Special Requirements or Customizations
+      hint: e.g. Soft-close hinges, specific handle styles
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: When do you need this furniture delivered?
+      hint: null
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 1 month
+      - 1 - 3 months
+      - Planning for future
+      required: true
+    - id: 15
+      name: inquiry_date
+      label: Date of Inquiry
+      hint: null
+      type: date
+      options: []
+      required: true

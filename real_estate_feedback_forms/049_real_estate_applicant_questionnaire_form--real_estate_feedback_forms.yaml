@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_applicant_questionnaire_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: home_buyer
+      label: home_buyer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 5
+      name: financial_status
+      label: financial_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Stable''}'
+      - '{''value'': ''Financially_stable''}'
+      - '{''value'': ''Financially_stable''}'
+      required: true
+    - id: 6
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Self-employed''}'
+      - '{''value'': ''Unemployed''}'
+      required: true
+    - id: 8
+      name: employment_years
+      label: employment_years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''House''}'
+      - '{''value'': ''Apartment''}'
+      - '{''value'': ''Townhouse''}'
+      - '{''value'': ''Condo''}'
+      required: true
+    - id: 10
+      name: desired_location
+      label: desired_location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''City''}'
+      - '{''value'': ''Suburb''}'
+      - '{''value'': ''Town''}'
+      - '{''value'': ''Regional''}'
+      required: true
+    - id: 11
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: loan_type
+      label: loan_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Variable''}'
+      - '{''value'': ''Fixed''}'
+      required: true
+    - id: 13
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: employment_income
+      label: employment_income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: self_employed
+      label: self_employed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 16
+      name: employment_status_2
+      label: employment_status_2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Self-employed''}'
+      - '{''value'': ''Unemployed''}'
+      required: true
+    - id: 17
+      name: employment_years_2
+      label: employment_years_2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: employment_status_3
+      label: employment_status_3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employed''}'
+      - '{''value'': ''Self-employed''}'
+      - '{''value'': ''Unemployed''}'
+      required: true
+    - id: 19
+      name: employment_years_3
+      label: employment_years_3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email_2
+      label: email_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: time_2
+      label: time_2
+      hint: null
+      type: time
+      options: []
+      required: false

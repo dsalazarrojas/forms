@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Innovation Hub Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1 to 10
+      - 11 to 50
+      - 51 to 200
+      - 201 to 500
+      - 500 plus
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Primary industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Education
+      - Government
+      - Non-profit
+      - Other
+      required: true
+    - id: 8
+      name: innovation_role
+      label: Your Role in Innovation
+      hint: How are you involved in innovation
+      type: select_one
+      options:
+      - Leading innovation initiatives
+      - Part of innovation team
+      - Supporting innovation
+      - Interested in learning
+      - Exploring career change
+      required: true
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: Type of participation
+      type: select_one
+      options:
+      - Full program participant
+      - Workshop attendee
+      - Mentor
+      - Speaker
+      - Observer
+      - Virtual participant
+      required: true
+    - id: 10
+      name: innovation_interests
+      label: Areas of Innovation Interest
+      hint: Select all areas of interest
+      type: select_multiple
+      options:
+      - Business model innovation
+      - Digital transformation
+      - Product innovation
+      - Process innovation
+      - Service innovation
+      - Organizational innovation
+      - Sustainability innovation
+      - Social innovation
+      required: true
+    - id: 11
+      name: current_challenges
+      label: Current Innovation Challenges
+      hint: What challenges do you face
+      type: select_multiple
+      options:
+      - Lack of resources
+      - Resistance to change
+      - Limited expertise
+      - Unclear strategy
+      - Poor execution
+      - Measurement difficulties
+      - Culture barriers
+      - Technology gaps
+      required: true
+    - id: 12
+      name: innovation_goals
+      label: Innovation Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: experience_level
+      label: Innovation Experience Level
+      hint: How experienced are you with innovation
+      type: select_one
+      options:
+      - Expert - led multiple initiatives
+      - Advanced - some experience
+      - Intermediate - limited experience
+      - Beginner - new to innovation
+      required: true
+    - id: 14
+      name: program_track
+      label: Preferred Program Track
+      hint: Which track interests you most
+      type: select_one
+      options:
+      - Startup and entrepreneurship
+      - Corporate innovation
+      - Social innovation
+      - Digital innovation
+      - Undecided
+      required: true
+    - id: 15
+      name: availability
+      label: Availability
+      hint: When can you participate
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekends
+      - Flexible schedule
+      required: true
+    - id: 16
+      name: networking_goals
+      label: Networking Goals
+      hint: What networking outcomes do you seek
+      type: select_one
+      options:
+      - Find co-founders
+      - Meet mentors
+      - Connect with investors
+      - Build peer network
+      - Find partners
+      - All of the above
+      required: true
+    - id: 17
+      name: mentorship_interest
+      label: Mentorship Interest
+      hint: Are you interested in mentorship
+      type: select_one
+      options:
+      - Yes - seeking a mentor
+      - Yes - willing to be a mentor
+      - Yes - both
+      - No - not interested
+      required: true
+    - id: 18
+      name: project_submission
+      label: Do You Have a Project to Submit
+      hint: Will you submit an innovation project
+      type: select_one
+      options:
+      - Yes - ready to submit
+      - Yes - in development
+      - Maybe - still deciding
+      - No - just learning
+      required: true
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of awareness
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Colleague referral
+      - Event
+      - Media coverage
+      - Other
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

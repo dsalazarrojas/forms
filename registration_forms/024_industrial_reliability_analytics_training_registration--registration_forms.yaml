@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_reliability_analytics_training_registration
+    pages:
+    - id: 1
+      name: form_title
+      label: Industrial Reliability Analytics Training Registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_level
+      label: experience_level
+      hint: null
+      type: select_multiple
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: true
+    - id: 6
+      name: preferred_date
+      label: preferred_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_provider
+      label: training_provider
+      hint: null
+      type: select_one
+      options:
+      - Provider A
+      - Provider B
+      - Provider C
+      required: true
+    - id: 8
+      name: workshop_details
+      label: workshop_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_dates
+      label: session_dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: training_details
+      label: training_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: training_location
+      label: training_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_dates
+      label: training_dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_hours
+      label: training_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_time
+      label: training_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Bank Transfer
+      required: true
+    - id: 20
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: workshop_agreement
+      label: workshop_agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: cancellation_policy
+      label: cancellation_policy
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: training_status
+      label: training_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false

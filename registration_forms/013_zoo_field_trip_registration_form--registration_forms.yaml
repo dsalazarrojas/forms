@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Field Trip Registration Form
+    pages:
+    - id: 1
+      name: school_information
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_permissions
+      label: Student Permissions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_dob
+      label: Student DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: student_attendence
+      label: Student Attendence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: student_permission
+      label: Student Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: student_medical_info
+      label: Student Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false

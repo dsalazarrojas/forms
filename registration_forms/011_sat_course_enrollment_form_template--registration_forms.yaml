@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: sat_course_enrollment_form_template
+    pages:
+    - id: 1
+      name: user_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_info
+      label: Course Selection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_selection
+      label: Select a Course
+      hint: null
+      type: select_one
+      options:
+      - 'SAP 101: SAT Prep'
+      - 'SAP 102: SAT Prep'
+      - 'SAP 103: SAT Prep'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

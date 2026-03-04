@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Flood Disclosure Form
+    pages:
+    - id: 1
+      name: flood_disclosure
+      label: Flood Disclosure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flood_zone
+      label: Flood Zone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_moved_in
+      label: Date Moved In
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_moved_out
+      label: Date Moved Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: flood_elevation_certificate
+      label: Flood Elevation Certificate
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: flood_insurance
+      label: Flood Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: flood_certificate
+      label: Flood Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

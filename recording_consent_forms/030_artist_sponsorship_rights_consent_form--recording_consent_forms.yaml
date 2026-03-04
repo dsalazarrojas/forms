@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Sponsorship Rights Consent Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_email
+      label: Artist Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: artist_phone
+      label: Artist Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_name
+      label: Sponsor Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sponsor_representative
+      label: Sponsor Representative Name and Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sponsor_email
+      label: Sponsor Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: agreement_period
+      label: Agreement Period - Months
+      hint: Duration of sponsorship
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sponsorship_type
+      label: Type of Sponsorship
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Equipment
+      - Services
+      - Promotion
+      - Mixed
+      required: true
+    - id: 10
+      name: image_rights_granted
+      label: Artist Grants Image or Likeness Rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited Use Only
+      required: true
+    - id: 11
+      name: recording_rights
+      label: Recording Rights Granted
+      hint: For performance or content creation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited Use Only
+      required: true
+    - id: 12
+      name: exclusive_terms
+      label: Exclusive Sponsorship Terms
+      hint: null
+      type: select_one
+      options:
+      - Exclusive
+      - Non-Exclusive
+      required: true
+    - id: 13
+      name: geographic_territory
+      label: Geographic Territory of Rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media_usage
+      label: Permission for Social Media Usage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - With Approval Only
+      required: true
+    - id: 15
+      name: compensation_amount
+      label: Compensation or Benefit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: termination_clause
+      label: Early Termination Allowed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - With Notice Only
+      required: true
+    - id: 18
+      name: dispute_resolution
+      label: Dispute Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - Mediation
+      - Arbitration
+      - Legal Action
+      required: false
+    - id: 19
+      name: consent_granted
+      label: Artist Grants Consent to All Terms Above
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: signature_date
+      label: Date of Artist Signature or Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_terms
+      label: Additional Terms or Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

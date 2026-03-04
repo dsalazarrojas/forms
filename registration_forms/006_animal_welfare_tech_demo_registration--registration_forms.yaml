@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Tech Demo Registration
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send demo details and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: For event notifications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: Name of your shelter, clinic, or nonprofit
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: What type of animal organization
+      type: select_one
+      options:
+      - Animal Shelter
+      - Veterinary Clinic
+      - Wildlife Organization
+      - Nonprofit NGO
+      - Educational Institution
+      - Government Agency
+      - Tech Company
+      - Other
+      required: true
+    - id: 8
+      name: job_title
+      label: Your Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: demo_section_header
+      label: -- Demo Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: demo_date
+      label: Preferred Demo Date
+      hint: When would you like to attend
+      type: select_multiple
+      options:
+      - Monday - 10:00 AM
+      - Monday - 2:00 PM
+      - Tuesday - 10:00 AM
+      - Tuesday - 2:00 PM
+      - Wednesday - 10:00 AM
+      - Wednesday - 2:00 PM
+      - Thursday - 10:00 AM
+      - Thursday - 2:00 PM
+      - Friday - 10:00 AM
+      - Friday - 2:00 PM
+      required: true
+    - id: 11
+      name: demo_format
+      label: Preferred Demo Format
+      hint: How would you like to attend
+      type: select_one
+      options:
+      - In-Person at Facility
+      - Virtual via Zoom
+      - Hybrid Option
+      - No preference
+      required: true
+    - id: 12
+      name: location_city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location_state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tech_interests
+      label: What technologies are you interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data Management System
+      - Animal Record Database
+      - Adoption Matching Software
+      - Volunteer Management
+      - Donation Processing
+      - Medical Records System
+      - Social Media Integration
+      - Analytics Dashboard
+      required: true
+    - id: 15
+      name: current_tech
+      label: What systems are you currently using
+      hint: Tell us about your current technology
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pain_points_header
+      label: -- Organizational Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: main_challenges
+      label: What are your main technology challenges
+      hint: Describe your biggest tech pain points
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: success_goals
+      label: What would success look like for your organization
+      hint: What are you hoping to achieve
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: decision_maker
+      label: Are you a decision maker for technology purchases
+      hint: Your role in purchasing decisions
+      type: select_one
+      options:
+      - Yes, I make final decisions
+      - I influence decisions
+      - I evaluate and provide recommendations
+      - I implement decisions made by others
+      - Unsure
+      required: false
+    - id: 20
+      name: team_size
+      label: How many people in your organization
+      hint: Approximate number of staff
+      type: select_one
+      options:
+      - 1-10 people
+      - 11-25 people
+      - 26-50 people
+      - 51-100 people
+      - Over 100 people
+      required: false
+    - id: 21
+      name: budget_range
+      label: What is your technology budget range
+      hint: Annual budget for software and tech
+      type: select_one
+      options:
+      - Under 5000
+      - 5000-10000
+      - 10000-25000
+      - 25000-50000
+      - Over 50000
+      - Unsure
+      required: false
+    - id: 22
+      name: agreement_header
+      label: -- Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: contact_consent
+      label: I consent to be contacted with follow-up information
+      hint: We may follow up after the demo
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, thank you
+      required: true
+    - id: 24
+      name: event_details_email
+      label: Send me event details and reminders
+      hint: I want to receive calendar invites and reminders
+      type: select_one
+      options:
+      - Yes, send details
+      - No, do not send
+      required: true

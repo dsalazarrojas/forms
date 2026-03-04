@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: lenderApplicationForm
+    pages:
+    - id: 1
+      name: contactinformation
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: propertydetails
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loanamount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loanterm
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loantype
+      label: Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: loanpurpose
+      label: Loan Purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contactmethod
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contactmethod2
+      label: Contact Method 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

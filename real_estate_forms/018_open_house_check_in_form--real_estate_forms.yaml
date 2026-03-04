@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Check In Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_number
+      label: Property Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 1. Phone
+      - 2. Email
+      - 3. Text
+      required: false
+    - id: 9
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Call
+      - 2. Text
+      - 3. Email
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

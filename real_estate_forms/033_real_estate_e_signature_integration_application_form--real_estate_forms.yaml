@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate E Signature Integration Application Form
+    pages:
+    - id: 1
+      name: real_estate_e_signature_integration_application_form
+      label: Real Estate E-Signature Integration Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_team_name
+      label: Real Estate Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: real_estate_office_name
+      label: Office Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: real_estate_integration_request
+      label: Integration Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_integration_platform
+      label: Integration Platform
+      hint: null
+      type: select_one
+      options:
+      - Broker
+      - Accounting
+      - Document Management
+      required: true
+    - id: 6
+      name: real_estate_integration_request_status
+      label: Integration Request Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 7
+      name: real_estate_integration_date
+      label: Integration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_integration_time
+      label: Integration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: real_estate_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: real_estate_integration_request_notes
+      label: Integration Request Notes
+      hint: null
+      type: note
+      options: []
+      required: false

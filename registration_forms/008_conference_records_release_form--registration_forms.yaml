@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Records Release Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Your affiliated organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_records
+      label: Your Relationship to the Records
+      hint: How are you connected to these records
+      type: select_one
+      options:
+      - Conference Attendee
+      - Authorized Representative
+      - Legal Guardian
+      - Researcher
+      - Conference Staff
+      - Other
+      required: true
+    - id: 6
+      name: conference_name
+      label: Conference Name
+      hint: Which conference records are you requesting
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: conference_date
+      label: Conference Date
+      hint: When was the conference held
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: records_type
+      label: Type of Records Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Attendance Certificate
+      - CME Credits Documentation
+      - Presentation Materials
+      - Session Recordings
+      - Conference Proceedings
+      - Contact List of Attendees
+      - Registration Receipt
+      - Other Documents
+      required: true
+    - id: 9
+      name: specific_records
+      label: Specific Records Description
+      hint: Describe exactly what records you need
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_range
+      label: Date Range of Records
+      hint: If applicable specify date range
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why do you need these records
+      type: select_one
+      options:
+      - Personal Records
+      - Professional Development
+      - Legal Requirements
+      - Research Purposes
+      - Employment Verification
+      - Other
+      required: true
+    - id: 12
+      name: purpose_details
+      label: Purpose Details
+      hint: Provide more details about your purpose
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How would you like to receive records
+      type: select_one
+      options:
+      - Email Digital Copy
+      - Postal Mail Physical Copy
+      - Pick Up In Person
+      - Secure Download Link
+      required: true
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should records be sent
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: urgency
+      label: Urgency of Request
+      hint: How soon do you need these records
+      type: select_one
+      options:
+      - Standard Processing 5-7 business days
+      - Expedited 2-3 business days
+      - Urgent Next business day
+      required: true
+    - id: 16
+      name: identification_attached
+      label: Have you attached valid identification
+      hint: ID required for verification
+      type: select_one
+      options:
+      - Yes ID Attached
+      - Will Send Separately
+      - No ID Available
+      required: true
+    - id: 17
+      name: authorization_statement
+      label: Authorization Statement
+      hint: I authorize the release of specified records
+      type: select_one
+      options:
+      - I Authorize This Release
+      - I Do Not Authorize
+      required: true
+    - id: 18
+      name: privacy_acknowledgment
+      label: Privacy Acknowledgment
+      hint: I understand privacy implications
+      type: select_one
+      options:
+      - I Understand and Accept
+      - I Have Questions
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date of Authorization
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

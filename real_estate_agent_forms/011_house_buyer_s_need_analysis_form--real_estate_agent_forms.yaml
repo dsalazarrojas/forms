@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Buyers Need Analysis Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_neighborhood
+      label: Preferred Neighborhood
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: budget
+      label: Budget
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: home_location
+      label: Home Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: family_status
+      label: Family Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: preferred_features
+      label: Preferred Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: preferred_features_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: home_wishes
+      label: Home Wishes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autism Training Registration Form
+    pages:
+    - id: 1
+      name: participant_info_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your name as it should appear on your certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For session links and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: Best number for reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: profession_or_role
+      label: Profession or Role
+      hint: Select your primary reason for attending
+      type: select_one
+      options:
+      - Teacher
+      - Parent
+      - Healthcare Provider
+      - Student
+      - Employer
+      - Other
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: School, Clinic, or Business name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_selection_header
+      label: -- Training Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_topic
+      label: Session Topic
+      hint: Choose the training module you wish to join
+      type: select_one
+      options:
+      - Introduction to Autism
+      - Behavioral Strategies
+      - Inclusive Education
+      - Supporting Adults with Autism
+      required: true
+    - id: 9
+      name: preferred_training_date
+      label: Preferred Training Date
+      hint: Select from available sessions
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: training_format
+      label: Training Format
+      hint: How do you prefer to attend?
+      type: select_one
+      options:
+      - In-person
+      - Online Live
+      - Self-paced
+      required: true
+    - id: 11
+      name: specific_needs_header
+      label: -- Specific Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Select any support needed to participate
+      type: select_multiple
+      options:
+      - Sign Language Interpreter
+      - Captioning
+      - Sensory-friendly Environment
+      - Wheelchair Access
+      - Large Print Materials
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For in-person sessions providing lunch
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: learning_objectives_goals
+      label: Learning Objectives and Goals
+      hint: What do you hope to gain from this training?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: how_did_you_hear_about_us
+      label: How did you hear about us?
+      hint: Helps us reach more people
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Email Newsletter
+      - Professional Referral
+      required: false

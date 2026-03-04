@@ -1,0 +1,314 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Training Session Filming Consent Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: Details of the dog owner
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_first_name
+      label: Owner First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_last_name
+      label: Owner Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_dog_info
+      label: -- Dog Information --
+      hint: Details about the dog in training
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dog_name
+      label: Dog Name
+      hint: Name of your dog
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dog_breed
+      label: Dog Breed
+      hint: Breed of your dog
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dog_age
+      label: Dog Age
+      hint: Age of your dog
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dog_color
+      label: Dog Color or Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_training_info
+      label: -- Training Session Information --
+      hint: Details about the training session
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: training_type
+      label: Type of Training
+      hint: What kind of training
+      type: select_one
+      options:
+      - Basic Obedience
+      - Behavior Modification
+      - Service Dog Training
+      - Sport Training
+      - Agility
+      - Other
+      required: true
+    - id: 14
+      name: trainer_name
+      label: Trainer Name
+      hint: Name of your trainer
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: training_facility
+      label: Training Facility Name
+      hint: Name of facility where training occurs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_date
+      label: Session Date
+      hint: Date of this training session
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: session_start_time
+      label: Session Start Time
+      hint: Time session begins
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: session_duration
+      label: Estimated Session Duration (minutes)
+      hint: How long the session will be
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_filming_consent
+      label: -- Filming and Recording Consent --
+      hint: Permission to record the session
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: consent_video_recording
+      label: Consent to Video Recording
+      hint: Allow video recording of training session
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: consent_audio_recording
+      label: Consent to Audio Recording
+      hint: Allow audio recording of session
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: consent_photography
+      label: Consent to Still Photography
+      hint: Allow photos to be taken during session
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: section_usage
+      label: -- Usage of Recorded Material --
+      hint: How the footage will be used
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: use_for_progress_documentation
+      label: For Progress Documentation
+      hint: Use footage to document training progress
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: use_for_trainer_education
+      label: For Trainer Education and Training
+      hint: Use footage to train other trainers
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: use_for_marketing
+      label: For Marketing and Promotion
+      hint: Use footage to promote the training facility
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: use_for_social_media
+      label: For Social Media Posting
+      hint: Post footage on social media platforms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: use_for_content_creation
+      label: For Online Content Creation
+      hint: Use in videos, blogs, or other online content
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: use_for_research
+      label: For Research Purposes
+      hint: Use footage in professional research
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: section_confidentiality
+      label: -- Confidentiality and Privacy --
+      hint: How your information is protected
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: anonymization_preference
+      label: Anonymize Names and Identifying Information
+      hint: Remove names from public footage
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 32
+      name: review_footage_before_use
+      label: Right to Review Footage Before Public Use
+      hint: Opportunity to review before sharing
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 33
+      name: withdrawal_consent
+      label: Can Withdraw Consent at Any Time
+      hint: Understand you can withdraw consent
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 34
+      name: section_legal
+      label: -- Legal Acknowledgments --
+      hint: Final agreement statements
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: understand_rights
+      label: Understand Your Rights and Options
+      hint: Acknowledge understanding of rights
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 36
+      name: release_liability
+      label: Release of Liability
+      hint: Release facility from liability
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 37
+      name: agree_to_terms
+      label: I Agree to These Terms
+      hint: Accept all terms of consent
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 38
+      name: signature_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 39
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information or requests
+      type: text
+      options: []
+      required: false

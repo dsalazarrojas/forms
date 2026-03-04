@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Rental Lease Agreement Template
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: Enter tenant's name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: security_deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 12 months
+      - 24 months
+      required: false
+    - id: 10
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 11
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_due_date
+      label: Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: security_deposit_returnable
+      label: Security Deposit Returnable
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: pet
+      label: Pet
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rent_frequency_description
+      label: Rent Frequency Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tenant_signature_date
+      label: Tenant Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: landlord_signature_date
+      label: Landlord Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: utilities
+      label: Utilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_city
+      label: Property City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_province
+      label: Property Province
+      hint: null
+      type: text
+      options: []
+      required: false

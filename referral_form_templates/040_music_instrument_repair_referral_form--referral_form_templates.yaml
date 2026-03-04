@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Instrument Repair Referral Form
+    pages:
+    - id: 1
+      name: instrument_type
+      label: Music Instrument
+      hint: null
+      type: select_one
+      options:
+      - Guitar
+      - Violin
+      - Cello
+      - Bass
+      - Drums
+      required: true
+    - id: 2
+      name: instrument_condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Old
+      - Damaged
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer
+      hint: Name of the customer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: instrument_description
+      label: Instrument Description
+      hint: Brief description of the instrument and the issue
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: repair_service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - Setup
+      - Maintenance
+      - Repairs
+      required: true
+    - id: 8
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_provider
+      label: Service Provider
+      hint: Name of the service provider
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_details
+      label: Service Details
+      hint: Brief description of the service needed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Music Shop
+      - Instrument Tech
+      - Instructor
+      - Other
+      required: true
+    - id: 12
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: customer_address
+      label: Customer Address
+      hint: Address of the customer
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: instrument_serial_number
+      label: Instrument Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: instrument_model
+      label: Instrument Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: repair_cost
+      label: Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: referral_source_other
+      label: Referral Source Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: instrument_brand
+      label: Instrument Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: instrument_type
+      label: Instrument Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: service_provider_other
+      label: Service Provider Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_message
+      label: Follow Up Message
+      hint: null
+      type: text
+      options: []
+      required: false

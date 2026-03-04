@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: no_refund_and_warranty_policy_acknowledgment
+    pages:
+    - id: 1
+      name: no_refund_and_warranty_policy_acknowledgment_form
+      label: No Refund and Warranty Policy Acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_details_phone
+      label: Contact Details Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: no_refund_no_warranty_policy
+      label: No Refund or Warranty
+      hint: null
+      type: select_multiple
+      options:
+      - no_refund
+      - no_warranty
+      required: false
+    - id: 5
+      name: acceptance_of_no_refund_and_warranty
+      label: Acceptance of No Refund and Warranty
+      hint: null
+      type: select_one
+      options:
+      - I accept the terms of the refund policy
+      - I do not accept the terms of the refund policy
+      required: false
+    - id: 6
+      name: signature
+      label: Sign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_signature
+      label: Customer Sign
+      hint: null
+      type: text
+      options: []
+      required: false

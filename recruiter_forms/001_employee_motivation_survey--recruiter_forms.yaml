@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Motivation Survey
+    pages:
+    - id: 1
+      name: employee_motivation_survey_form
+      label: Employee Motivation Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your primary motivation for working for this company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: Do you feel valued and appreciated by your manager?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      required: false
+    - id: 4
+      name: question_3
+      label: Do you feel empowered to take ownership of your work?
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 5
+      name: question_4
+      label: Do you feel motivated to come to work on time?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: question_5
+      label: Do you feel motivated to work extra hours when needed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: question_6
+      label: Do you feel motivated to meet new challenges?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: question_7
+      label: Do you feel motivated to take initiative on projects?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: question_8
+      label: On a scale of 1-5, how motivated do you feel?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question_9
+      label: Do you enjoy coming to work?
+      hint: null
+      type: text
+      options: []
+      required: false

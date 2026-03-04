@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_referral_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_agent_name
+      label: real_estate_agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_agent_address
+      label: real_estate_agent_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Agent
+      - Real Estate Company
+      - Other
+      required: false
+    - id: 7
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_referral_message
+      label: real_estate_referral_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_referral_name
+      label: real_estate_referral_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_referral_phone
+      label: real_estate_referral_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: real_estate_referral_email
+      label: real_estate_referral_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: real_estate_referral_address
+      label: real_estate_referral_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: real_estate_referral_note
+      label: real_estate_referral_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: real_estate_referral_status
+      label: real_estate_referral_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 15
+      name: real_estate_referral_follow_up
+      label: real_estate_referral_follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: real_estate_referral_follow_up_time
+      label: real_estate_referral_follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: real_estate_referral_follow_up_note
+      label: real_estate_referral_follow_up_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: real_estate_referral_follow_up_status
+      label: real_estate_referral_follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Done
+      - Not Scheduled
+      required: false
+    - id: 19
+      name: real_estate_referral_last_follow_up
+      label: real_estate_referral_last_follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: real_estate_referral_last_follow_up_note
+      label: real_estate_referral_last_follow_up_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: real_estate_referral_last_follow_up_time
+      label: real_estate_referral_last_follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: real_estate_referral_last_follow_up_status
+      label: real_estate_referral_last_follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Not Done
+      required: false
+    - id: 23
+      name: real_estate_referral_last_follow_up_location
+      label: real_estate_referral_last_follow_up_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: real_estate_referral_last_follow_up_note
+      label: real_estate_referral_last_follow_up_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: real_estate_referral_last_follow_up_following
+      label: real_estate_referral_last_follow_up_following
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

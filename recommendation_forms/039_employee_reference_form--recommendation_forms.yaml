@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reference Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_position
+      label: Candidate Position
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Member
+      - Team Lead
+      required: true
+    - id: 3
+      name: referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referee_title
+      label: Referee Title
+      hint: null
+      type: select_multiple
+      options:
+      - CEO
+      - Manager
+      - Team Lead
+      - Other
+      required: false
+    - id: 5
+      name: referee_phone
+      label: Referee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referee_email
+      label: Referee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: referee_position
+      label: Referee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: candidate_position_2
+      label: Candidate Position 2
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Member
+      - Team Lead
+      required: false
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_reference
+      label: Date of Reference
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: referee_start_date
+      label: Referee Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: referee_end_date
+      label: Referee End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: years_at_current_company
+      label: Years at Current Company
+      hint: null
+      type: number
+      options: []
+      required: false

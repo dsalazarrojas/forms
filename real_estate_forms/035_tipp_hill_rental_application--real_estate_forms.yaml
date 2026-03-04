@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: tipp_hill_rental_application
+    pages:
+    - id: 1
+      name: rental_application
+      label: rental application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: apartment_address
+      label: apartment_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rent_start_date
+      label: rent_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rent_end_date
+      label: rent_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: rent_period
+      label: rent_period
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - yearly
+      required: true
+    - id: 9
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: lease_duration
+      label: lease_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: security_deposit
+      label: security_deposit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: rent_frequency
+      label: rent_frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - yearly
+      required: true
+    - id: 13
+      name: rent_frequency_frequency
+      label: rent_frequency_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - first
+      - last
+      - security
+      required: false
+    - id: 15
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: move_in_date_time
+      label: move_in_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: move_out_date_time
+      label: move_out_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: renter_status
+      label: renter_status
+      hint: null
+      type: select_multiple
+      options:
+      - single person
+      - couple
+      - family
+      required: true
+    - id: 20
+      name: renter_status_frequency
+      label: renter_status_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - monthly
+      - yearly
+      required: true
+    - id: 21
+      name: renter_status_duration
+      label: renter_status_duration
+      hint: null
+      type: select_multiple
+      options:
+      - short-term
+      - long-term
+      required: true
+    - id: 22
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: landlord_phone
+      label: landlord_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: landlord_email
+      label: landlord_email
+      hint: null
+      type: email
+      options: []
+      required: false

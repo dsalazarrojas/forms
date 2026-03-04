@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Accommodation Request
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For booking coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: postal_code
+      label: Postal Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: false
+    - id: 9
+      name: check_in_date
+      label: Check-In Date
+      hint: When will you arrive
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: check_out_date
+      label: Check-Out Date
+      hint: When will you depart
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: number_of_nights
+      label: Number of Nights
+      hint: Total nights staying
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total guests
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_adults
+      label: Number of Adults
+      hint: How many adults
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: number_of_children
+      label: Number of Children
+      hint: How many children
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: children_ages
+      label: Ages of Children
+      hint: List ages of children
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accommodation_type
+      label: Accommodation Type
+      hint: Select your preference
+      type: select_one
+      options:
+      - Studio
+      - One Bedroom
+      - Two Bedroom
+      - Three Bedroom
+      - Penthouse
+      - Villa
+      required: true
+    - id: 17
+      name: bed_preference
+      label: Bed Preference
+      hint: Select your preference
+      type: select_one
+      options:
+      - King Bed
+      - Queen Bed
+      - Two Double Beds
+      - Twin Beds
+      - No Preference
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: amenities_needed
+      label: Amenities Needed
+      hint: Select required amenities
+      type: select_multiple
+      options:
+      - WiFi
+      - Kitchen
+      - Washing Machine
+      - Parking
+      - Pool
+      - Gym
+      - Pet Friendly
+      - Air Conditioning
+      required: false
+    - id: 20
+      name: purpose_of_stay
+      label: Purpose of Stay
+      hint: Why are you staying
+      type: select_one
+      options:
+      - Leisure
+      - Business
+      - Family Visit
+      - Medical
+      - Relocation
+      - Other
+      required: false
+    - id: 21
+      name: pet_accommodation
+      label: Will You Bring a Pet
+      hint: Select if bringing pet
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: pet_details
+      label: Pet Details
+      hint: Describe your pet
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: estimated_arrival_time
+      label: Estimated Arrival Time
+      hint: What time will you arrive
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: transportation_needed
+      label: Do You Need Airport Transportation
+      hint: Select if you need transport
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Cash on Arrival
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_agreement
+      label: I Agree to Booking Terms
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 28
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true

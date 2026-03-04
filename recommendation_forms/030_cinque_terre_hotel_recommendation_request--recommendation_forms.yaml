@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cinque Terre Hotel Recommendation Request
+    pages:
+    - id: 1
+      name: section_header_traveler_info
+      label: -- Traveler Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: traveler_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: We'll send hotel recommendations here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: country_of_origin
+      label: Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_trip_dates
+      label: -- Trip Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: arrival_date
+      label: Arrival Date in Cinque Terre
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: departure_date
+      label: Departure Date from Cinque Terre
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_header_group
+      label: -- Group Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: group_size
+      label: Total Number of Travelers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: traveling_with
+      label: Traveling With
+      hint: null
+      type: select_multiple
+      options:
+      - Family with children
+      - Spouse or partner
+      - Friends
+      - Solo
+      - Group tour
+      required: false
+    - id: 12
+      name: children_count
+      label: Number of Children (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: children_ages
+      label: Ages of Children
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_preferences
+      label: -- Hotel Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_village
+      label: Preferred Village in Cinque Terre
+      hint: null
+      type: select_multiple
+      options:
+      - Monterosso al Mare
+      - Vernazza
+      - Corniglia
+      - Manarola
+      - Riomaggiore
+      - No preference
+      required: false
+    - id: 16
+      name: hotel_type
+      label: Preferred Hotel Type
+      hint: null
+      type: select_one
+      options:
+      - Luxury resort
+      - Upscale hotel
+      - Boutique hotel
+      - Mid-range hotel
+      - Budget hotel
+      - Guesthouse or B&B
+      - Vacation rental
+      required: true
+    - id: 17
+      name: room_type
+      label: Room Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Single room
+      - Double room
+      - Twin room
+      - Suite
+      - Multiple rooms
+      required: true
+    - id: 18
+      name: budget_per_night
+      label: Budget per Night (EUR)
+      hint: null
+      type: select_one
+      options:
+      - Under 50
+      - 50-100
+      - 100-150
+      - 150-200
+      - 200-300
+      - Over 300
+      required: true
+    - id: 19
+      name: section_header_amenities
+      label: -- Desired Amenities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: must_have_amenities
+      label: Must-Have Amenities (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Sea view
+      - Pool or hot tub
+      - Restaurant or bar
+      - WiFi
+      - Air conditioning
+      - Breakfast included
+      - Parking
+      - Terrace
+      - Beach access
+      - Hiking trails nearby
+      required: false
+    - id: 21
+      name: section_header_interests
+      label: -- Travel Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: primary_interests
+      label: Primary Travel Interests (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Beach and swimming
+      - Hiking and nature
+      - Wine tasting
+      - Italian cuisine
+      - Photography
+      - Cultural sites
+      - Relaxation
+      - Adventure sports
+      required: false
+    - id: 23
+      name: section_header_special
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: mobility_needs
+      label: Accessibility or Mobility Requirements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: mobility_description
+      label: Describe Accessibility Needs
+      hint: Wheelchair access, elevators, ground floor, etc
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: dietary_restrictions
+      label: Dietary Restrictions or Preferences
+      hint: Vegetarian, vegan, allergies, etc
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: additional_preferences
+      label: Any Other Preferences or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

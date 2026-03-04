@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Inspection Form
+    pages:
+    - id: 1
+      name: landlord_inspection_form
+      label: landlord_inspection_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_inspection
+      label: general_inspection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: electrical_systems
+      label: electrical_systems
+      hint: null
+      type: select_one
+      options:
+      - Appliances
+      - Fixtures
+      - Wiring
+      required: true
+    - id: 4
+      name: plumbing_systems
+      label: plumbing_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Water Heater
+      - Sink
+      - Toilet
+      required: true
+    - id: 5
+      name: heatingcooling_systems
+      label: heatingcooling_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Air Conditioning
+      - Fireplace
+      - Heating
+      required: true
+    - id: 6
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_one
+      options:
+      - Smoke Detector
+      - Fire Extinguisher
+      - Fire Alarm
+      required: true
+    - id: 7
+      name: doorsandwindows
+      label: doorsandwindows
+      hint: null
+      type: select_multiple
+      options:
+      - Doors
+      - Windows
+      - Locks
+      required: true
+    - id: 8
+      name: roof_and_siding
+      label: roofand_siding
+      hint: null
+      type: select_multiple
+      options:
+      - Roof
+      - Siding
+      - Gutters
+      required: true

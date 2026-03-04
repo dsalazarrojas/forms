@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Interview Form
+    pages:
+    - id: 1
+      name: candidate_first_name
+      label: Candidate First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_last_name
+      label: Candidate Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Candidate Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Candidate Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_applied
+      label: Position Applied For
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: interview_date
+      label: Interview Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: interview_time
+      label: Interview Time
+      hint: Scheduled time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: interview_format
+      label: Interview Format
+      hint: Type of interview
+      type: select_one
+      options:
+      - Phone
+      - Video call
+      - In-person
+      - Panel
+      - Technical
+      - Behavioral
+      - Case study
+      required: true
+    - id: 9
+      name: interviewer_name
+      label: Interviewer Name
+      hint: Who conducted interview
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: interviewer_title
+      label: Interviewer Title
+      hint: Interviewer role
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: years_experience
+      label: Years of Experience
+      hint: Candidate experience level
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: education_level
+      label: Education Level
+      hint: Highest degree
+      type: select_one
+      options:
+      - High school
+      - Associate
+      - Bachelor
+      - Master
+      - Doctorate
+      - Other
+      required: true
+    - id: 13
+      name: technical_skills_rating
+      label: Technical Skills Rating
+      hint: Rate technical abilities
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Not assessed
+      required: true
+    - id: 14
+      name: communication_skills_rating
+      label: Communication Skills Rating
+      hint: Rate communication
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: problem_solving_rating
+      label: Problem Solving Skills Rating
+      hint: Rate problem solving
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Not assessed
+      required: true
+    - id: 16
+      name: cultural_fit_rating
+      label: Cultural Fit Rating
+      hint: Rate fit with company
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: leadership_potential
+      label: Leadership Potential
+      hint: Rate leadership qualities
+      type: select_one
+      options:
+      - High potential
+      - Moderate potential
+      - Low potential
+      - Not assessed
+      required: false
+    - id: 18
+      name: strengths_observed
+      label: Key Strengths Observed
+      hint: Candidate strengths
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: weaknesses_identified
+      label: Areas for Improvement
+      hint: Areas needing development
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Candidate expectations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: availability_to_start
+      label: Availability to Start
+      hint: When can candidate begin
+      type: select_one
+      options:
+      - Immediately
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 2 months
+      - More than 2 months
+      required: true
+    - id: 22
+      name: relocation_required
+      label: Relocation Required
+      hint: Does candidate need to relocate
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 23
+      name: visa_sponsorship_needed
+      label: Visa Sponsorship Needed
+      hint: Work authorization
+      type: select_one
+      options:
+      - true
+      - false
+      - Already authorized
+      required: true
+    - id: 24
+      name: overall_recommendation
+      label: Overall Recommendation
+      hint: Hiring recommendation
+      type: select_one
+      options:
+      - Strongly recommend
+      - Recommend
+      - Neutral
+      - Do not recommend
+      - Strongly do not recommend
+      required: true
+    - id: 25
+      name: recommendation_rationale
+      label: Rationale for Recommendation
+      hint: Explain your decision
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: next_steps_recommended
+      label: Recommended Next Steps
+      hint: What should happen next
+      type: select_one
+      options:
+      - Move to next round
+      - Make offer
+      - Additional assessment needed
+      - Check references
+      - Do not proceed
+      - Keep on hold
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other notes
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: form_completion_date
+      label: Form Completion Date
+      hint: Date filled
+      type: date
+      options: []
+      required: true

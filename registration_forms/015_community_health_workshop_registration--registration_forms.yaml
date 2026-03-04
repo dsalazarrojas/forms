@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Workshop Registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Required for group sorting
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: session_choice
+      label: Preferred Workshop Session
+      hint: null
+      type: select_one
+      options:
+      - Morning Session (9:00 AM - 12:00 PM)
+      - Afternoon Session (1:00 PM - 4:00 PM)
+      - Full Day Seminar
+      required: true
+    - id: 6
+      name: health_interests
+      label: Specific Health Interests
+      hint: Select topics you want to focus on
+      type: select_multiple
+      options:
+      - Chronic Disease Management
+      - Mental Health and Wellness
+      - Preventive Care
+      - Nutritional Education
+      - Exercise and Fitness
+      required: true
+    - id: 7
+      name: prior_knowledge
+      label: Current Knowledge Level of Workshop Topic
+      hint: null
+      type: select_one
+      options:
+      - Beginner - No prior knowledge
+      - Intermediate - Some knowledge
+      - Advanced - Deep understanding
+      required: true
+    - id: 8
+      name: medical_disclaimer
+      label: I understand this workshop is for educational purposes only
+      hint: This is not medical advice or treatment
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 9
+      name: liability_waiver
+      label: Release of Liability and Terms of Participation
+      hint: null
+      type: select_one
+      options:
+      - I Agree to Terms
+      - Other
+      required: true
+    - id: 10
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

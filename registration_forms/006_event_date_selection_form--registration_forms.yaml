@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Date Selection Form
+    pages:
+    - id: 1
+      name: event_date_selection_form_first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date_selection_form_second_page
+      label: second_page
+      hint: null
+      type: select_multiple
+      options:
+      - '2022-01-01'
+      - '2022-01-15'
+      - '2022-02-01'
+      - '2022-02-15'
+      - '2022-03-01'
+      - '2022-03-15'
+      required: true
+    - id: 3
+      name: event_date_selection_form_third_page
+      label: preferred_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_date_selection_form_note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: event_date_selection_form_phone
+      label: attendee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date_selection_form_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_date_selection_form_event_name
+      label: event_name
+      hint: null
+      type: select_one
+      options:
+      - Event 1:Event 1
+      - Event 2:Event 2
+      - Event 3:Event 3
+      required: true
+    - id: 8
+      name: event_date_selection_form_additional_event
+      label: additional_event
+      hint: null
+      type: select_multiple
+      options:
+      - Event 4:Event 4
+      - Event 5:Event 5
+      - Event 6:Event 6
+      required: false

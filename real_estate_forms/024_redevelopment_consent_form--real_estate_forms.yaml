@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: revelopment_consent_form
+    pages:
+    - id: 1
+      name: re_development_project
+      label: re_development_project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: re_development_type
+      label: re_development_type
+      hint: null
+      type: select_one
+      options:
+      - land
+      - building
+      required: true
+    - id: 10
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - residential
+      - commercial
+      - industrial
+      - mixed_use
+      required: true
+    - id: 11
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_multiple
+      options:
+      - urban
+      - rural
+      - regional
+      required: true
+    - id: 12
+      name: re_development_area
+      label: re_development_area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: project_value
+      label: project_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: owner_signature
+      label: owner_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - completed
+      required: true
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

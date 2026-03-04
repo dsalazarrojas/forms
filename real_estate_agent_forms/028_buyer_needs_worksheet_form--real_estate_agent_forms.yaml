@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Needs Worksheet Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_email
+      label: Email Address
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: cobuy_name
+      label: Co-Buyer Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agent_name
+      label: Agent Name
+      hint: Real estate agent name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: worksheet_date
+      label: Worksheet Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: purchase_reason
+      label: Reason for Purchase
+      hint: Why are you buying now
+      type: select_one
+      options:
+      - Growing family
+      - Career relocation
+      - Downsizing
+      - Investment
+      - Lifestyle change
+      - Other
+      required: true
+    - id: 8
+      name: timeline_urgency
+      label: Purchase Timeline - Urgency
+      hint: How soon do you need to move
+      type: select_one
+      options:
+      - Flexible
+      - 3-6 months
+      - 1-3 months
+      - Immediate
+      required: true
+    - id: 9
+      name: financial_readiness
+      label: Financial Readiness
+      hint: Financing status
+      type: select_one
+      options:
+      - Pre-approved
+      - Pre-qualified
+      - In process
+      - Will apply soon
+      - Not yet discussed
+      required: true
+    - id: 10
+      name: down_payment
+      label: Estimated Down Payment Available
+      hint: Percent or amount
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: price_range
+      label: Price Range
+      hint: Your budget range
+      type: select_one
+      options:
+      - Under 250000
+      - 250000 - 400000
+      - 400000 - 600000
+      - 600000 - 800000
+      - 800000 - 1000000
+      - Over 1000000
+      required: true
+    - id: 12
+      name: property_types
+      label: Property Types Under Consideration
+      hint: Types you are considering
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Multi-family
+      - New Construction
+      - Older Character Home
+      required: true
+    - id: 13
+      name: location_must_haves
+      label: Location Must-Haves
+      hint: Essential location characteristics
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: avoid_areas
+      label: Areas to Avoid
+      hint: Neighborhoods not desired
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: square_footage
+      label: Square Footage Requirements
+      hint: Minimum to maximum
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: min_bedrooms
+      label: Minimum Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: min_bathrooms
+      label: Minimum Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: critical_features
+      label: Critical Features Required
+      hint: Non-negotiable features
+      type: select_multiple
+      options:
+      - Garage
+      - Hardwood Floors
+      - Updated Kitchen
+      - Fireplace
+      - Pool
+      - Large Yard
+      - Basement
+      - Other
+      required: false
+    - id: 19
+      name: special_considerations
+      label: Special Considerations
+      hint: Schools, commute, accessibility, etc.
+      type: text
+      options: []
+      required: false

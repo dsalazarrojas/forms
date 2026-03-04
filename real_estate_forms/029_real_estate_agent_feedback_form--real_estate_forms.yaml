@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_feedback_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: How satisfied are you with our services?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Unsatisfied
+      - Very Unsatisfied
+      required: true
+    - id: 3
+      name: feedback_details
+      label: Please provide feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Any Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_submitted
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

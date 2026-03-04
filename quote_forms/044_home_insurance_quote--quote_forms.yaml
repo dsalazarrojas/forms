@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Insurance Quote
+    pages:
+    - id: 1
+      name: main_address
+      label: Main Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: home_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Condo
+      - Townhouse
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: home_value
+      label: Home Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Liability
+      - Property
+      - Other
+      required: true
+    - id: 7
+      name: policy_period
+      label: Policy Period
+      hint: null
+      type: select_one
+      options:
+      - 1-year
+      - 5-year
+      required: true
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Auto
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

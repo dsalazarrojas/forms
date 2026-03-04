@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complex Text Comprehension Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Complex Text Comprehension Survey
+      hint: This survey assesses your reading comprehension of advanced texts
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_id
+      label: Participant ID
+      hint: Student or participant ID
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: test_date
+      label: Test Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Current grade or year
+      type: select_one
+      options:
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      - Undergraduate
+      - Graduate
+      - Other
+      required: true
+    - id: 6
+      name: reading_level
+      label: Self-Rated Reading Level
+      hint: How would you rate your reading ability
+      type: select_one
+      options:
+      - Advanced
+      - Above average
+      - Average
+      - Below average
+      - Needs improvement
+      required: true
+    - id: 7
+      name: section_a_intro
+      label: Section A - Factual Comprehension
+      hint: Answer questions about explicit information in the text
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: q1_factual
+      label: Question 1 - Factual Recall
+      hint: Based on the text provided
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 9
+      name: q2_factual
+      label: Question 2 - Factual Recall
+      hint: Based on the text provided
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 10
+      name: q3_factual
+      label: Question 3 - Factual Recall
+      hint: Based on the text provided
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 11
+      name: section_b_intro
+      label: Section B - Inferential Comprehension
+      hint: Answer questions requiring inference and interpretation
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: q4_inferential
+      label: Question 4 - Making Inferences
+      hint: What can you infer from the text
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 13
+      name: q5_inferential
+      label: Question 5 - Drawing Conclusions
+      hint: What conclusion can be drawn
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 14
+      name: q6_inferential
+      label: Question 6 - Understanding Implications
+      hint: What is implied in the text
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 15
+      name: section_c_intro
+      label: Section C - Critical Analysis
+      hint: Answer questions requiring critical thinking and evaluation
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: q7_analysis
+      label: Question 7 - Author Purpose
+      hint: What is the authors main purpose
+      type: select_one
+      options:
+      - To inform
+      - To persuade
+      - To entertain
+      - To describe
+      required: true
+    - id: 17
+      name: q8_analysis
+      label: Question 8 - Tone and Style
+      hint: What is the tone of the passage
+      type: select_one
+      options:
+      - Formal and academic
+      - Informal and conversational
+      - Persuasive and argumentative
+      - Neutral and objective
+      required: true
+    - id: 18
+      name: q9_analysis
+      label: Question 9 - Evaluating Arguments
+      hint: How strong is the authors argument
+      type: select_one
+      options:
+      - Very strong - well supported
+      - Strong - mostly supported
+      - Weak - limited support
+      - Very weak - unsupported
+      required: true
+    - id: 19
+      name: q10_analysis
+      label: Question 10 - Identifying Bias
+      hint: Is there evidence of bias
+      type: select_one
+      options:
+      - Yes - significant bias
+      - Yes - slight bias
+      - No - appears objective
+      - Cannot determine
+      required: true
+    - id: 20
+      name: section_d_intro
+      label: Section D - Vocabulary in Context
+      hint: Answer questions about word meanings in context
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: q11_vocabulary
+      label: Question 11 - Word Meaning
+      hint: What does the highlighted word mean
+      type: select_one
+      options:
+      - Definition A
+      - Definition B
+      - Definition C
+      - Definition D
+      required: true
+    - id: 22
+      name: q12_vocabulary
+      label: Question 12 - Figurative Language
+      hint: What does this phrase mean
+      type: select_one
+      options:
+      - Interpretation A
+      - Interpretation B
+      - Interpretation C
+      - Interpretation D
+      required: true
+    - id: 23
+      name: section_e_intro
+      label: Section E - Written Response
+      hint: Provide written answers to comprehension questions
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: q13_written
+      label: Question 13 - Summary
+      hint: Summarize the main idea in 2-3 sentences
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: q14_written
+      label: Question 14 - Analysis
+      hint: Analyze the authors argument in 3-4 sentences
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: q15_written
+      label: Question 15 - Evaluation
+      hint: Evaluate the effectiveness of the text in 3-4 sentences
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: difficulty_rating
+      label: How difficult was this text
+      hint: Rate the difficulty
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Moderate
+      - Somewhat difficult
+      - Very difficult
+      required: true
+    - id: 28
+      name: confidence_level
+      label: How confident are you in your answers
+      hint: Rate your confidence
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Somewhat unsure
+      - Very unsure
+      required: true
+    - id: 29
+      name: time_taken
+      label: How long did this take
+      hint: Approximate time
+      type: select_one
+      options:
+      - Under 15 minutes
+      - 15 to 30 minutes
+      - 30 to 45 minutes
+      - 45 to 60 minutes
+      - Over 60 minutes
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any feedback about the survey
+      type: text
+      options: []
+      required: false

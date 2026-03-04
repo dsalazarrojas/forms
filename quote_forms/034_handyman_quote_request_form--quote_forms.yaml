@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Handyman Quote Request Form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: services_selected_1
+      label: Service 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: services_selected_2
+      label: Service 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Information Survey
+    pages:
+    - id: 1
+      name: agent_full_name
+      label: Agent Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agent_email
+      label: Agent Email
+      hint: Enter your professional email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: agent_phone
+      label: Agent Phone
+      hint: Enter your primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agent_license_number
+      label: Agent License Number
+      hint: Enter your real estate license number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: license_issue_date
+      label: License Issue Date
+      hint: Enter the date your license was issued
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: license_expiry_date
+      label: License Expiry Date
+      hint: Enter the date your license expires
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: brokerage_affiliation
+      label: Brokerage Affiliation
+      hint: Enter the name of your brokerage firm
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_in_real_estate
+      label: Years in Real Estate
+      hint: How many years of experience do you have in real estate?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: specialization_header
+      label: -- Specialization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: property_types_specialized
+      label: Property Types Specialized In
+      hint: Select the types of properties you specialize in
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Land
+      - Luxury Properties
+      - Investment Properties
+      - New Construction
+      - Foreclosures
+      required: true
+    - id: 11
+      name: geographic_specialization
+      label: Geographic Specialization
+      hint: Enter the areas or markets you specialize in
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: average_sales_per_year
+      label: Average Sales Per Year
+      hint: How many sales do you typically close per year?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: education_background_header
+      label: -- Education Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: highest_education_level
+      label: Highest Education Level
+      hint: Select your highest level of education
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 15
+      name: college_university
+      label: College or University
+      hint: Enter the name of the institution you attended
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: degree_field
+      label: Degree Field
+      hint: Enter your field of study if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: certifications_header
+      label: -- Certifications and Designations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: professional_certifications
+      label: Professional Certifications
+      hint: List any professional certifications or designations you hold
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: continuing_education_credits
+      label: Continuing Education Credits
+      hint: How many continuing education credits do you have?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: marketing_strategies_header
+      label: -- Marketing Strategies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: primary_marketing_channels
+      label: Primary Marketing Channels
+      hint: Which marketing channels do you primarily use?
+      type: select_multiple
+      options:
+      - Online Listings
+      - Social Media
+      - Print Advertising
+      - Open Houses
+      - Referrals
+      - Direct Mail
+      - Networking Events
+      - Cold Calling
+      required: true
+    - id: 22
+      name: average_days_to_close
+      label: Average Days to Close
+      hint: What is your average number of days to close a sale?
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Any other information you'd like to share about your practice
+      type: text
+      options: []
+      required: false

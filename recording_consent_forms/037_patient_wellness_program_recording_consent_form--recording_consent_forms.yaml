@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Wellness Program Recording Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: recording_permissions
+      label: Recording Permissions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Self'', ''value'': ''self''}'
+      - '{''label'': ''Parent'', ''value'': ''parent''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: recorded_date
+      label: Recorded Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: recorded_time
+      label: Recorded Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: recorded_by
+      label: Recorded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recording_type
+      label: Recording Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Session'', ''value'': ''session''}'
+      - '{''label'': ''Series'', ''value'': ''series''}'
+      - '{''label'': ''Series + Session'', ''value'': ''series_session''}'
+      required: false
+    - id: 17
+      name: recording_method
+      label: Recording Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Manual'', ''value'': ''manual''}'
+      - '{''label'': ''Automated'', ''value'': ''automated''}'
+      required: false
+    - id: 18
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recording_device
+      label: Recording Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recording_notes
+      label: Recording Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: release_of_information
+      label: Release of Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 22
+      name: release_of_instrumental
+      label: Release of Instrumental
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 23
+      name: patient_agreement
+      label: Patient Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 24
+      name: provider_agreement
+      label: Provider Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

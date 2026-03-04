@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Reflection Video Publication Consent Form
+    pages:
+    - id: 1
+      name: section_project_details
+      label: -- Video Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: Name of the Video Project
+      hint: Official title of the recording
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_faculty_name
+      label: Name of Person Featured in Video
+      hint: Subject of the video reflection
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: For correspondence regarding the video
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_permissions
+      label: -- Publication Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: publication_consent
+      label: I authorize the publication of the video reflection for educational purposes
+      hint: Permission to share the content
+      type: select_one
+      options:
+      - Authorized
+      - Not Authorized
+      required: true
+    - id: 7
+      name: platforms_allowed
+      label: Select platforms where the video may be published
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - University YouTube Channel
+      - Institutional Repository
+      - Course Management System
+      - Social Media Handles
+      required: true
+    - id: 8
+      name: effective_date
+      label: Date from which consent is effective
+      hint: Start date for permissions
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: duration_of_consent
+      label: How long may the video remain published?
+      hint: Retention period
+      type: select_one
+      options:
+      - Indefinitely
+      - For 1 Year
+      - For 5 Years
+      - Until End of Current Semester
+      required: true
+    - id: 10
+      name: section_review
+      label: -- Content Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: right_to_review
+      label: Do you wish to review the final edit before publication?
+      hint: Final approval check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: terms_acceptance
+      label: I have read and agree to the video publication terms
+      hint: Acceptance of legal terms
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: digital_signature
+      label: Digital Signature - Type Name
+      hint: Legal verification
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signing_date
+      label: Signing Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

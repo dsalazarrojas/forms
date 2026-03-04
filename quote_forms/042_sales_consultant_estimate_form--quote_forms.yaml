@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Consultant Estimate Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consultant_name
+      label: consultant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_details
+      label: project_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: services_offered
+      label: services_offered
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Consulting
+      - Business Development
+      - Market Research
+      - Financial Planning
+      - Operations Improvement
+      - Marketing Strategy
+      - Market Analysis
+      required: false
+    - id: 6
+      name: estimated_cost
+      label: estimated_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hours_allocated
+      label: hours_allocated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: goals
+      label: goals
+      hint: null
+      type: select_one
+      options:
+      - Cost-Effective Solution
+      - Budget-Friendly
+      - High-Return
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

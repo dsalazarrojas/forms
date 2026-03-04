@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Assessment Pre Visit Questionnaire
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_date
+      label: contact date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_time
+      label: contact time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_multiple
+      options:
+      - call
+      - email
+      - text
+      - visit
+      required: false
+    - id: 6
+      name: contact_status
+      label: contact status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - completed
+      - cancelled
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_reminders
+      label: follow up reminders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_reminders_status
+      label: follow up reminders status
+      hint: null
+      type: select_one
+      options:
+      - 'on'
+      - 'off'
+      required: false
+    - id: 10
+      name: follow_up_reminders_frequency
+      label: follow up reminders frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - single_family_home
+      - multi_family_home
+      - condo
+      - duplex
+      required: false
+    - id: 12
+      name: property_features
+      label: property features
+      hint: null
+      type: select_multiple
+      options:
+      - swimming_pool
+      - fireplace
+      - park_view
+      - basement
+      required: false
+    - id: 13
+      name: property_size
+      label: property size
+      hint: null
+      type: number
+      options: []
+      required: false

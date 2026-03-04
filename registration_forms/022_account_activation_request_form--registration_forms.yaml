@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Activation Request Form
+    pages:
+    - id: 1
+      name: section_user_info
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: The email associated with your account
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: username
+      label: Username (if known)
+      hint: Enter your username if you already have one assigned
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_account_details
+      label: -- Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Personal account
+      - Business account
+      - Student account
+      - Trial account
+      - Other
+      required: true
+    - id: 8
+      name: platform_or_system
+      label: Platform or System
+      hint: Which platform or system needs activation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_activation
+      label: Reason for Activation Request
+      hint: null
+      type: select_one
+      options:
+      - New account setup
+      - Account was deactivated
+      - Account locked out
+      - Reactivation after inactivity
+      - Other
+      required: true
+    - id: 10
+      name: organization
+      label: Organization or Company (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requested_activation_date
+      label: Requested Activation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: additional_details
+      label: Additional Details or Comments
+      hint: Provide any other information that may help process your request
+      type: text
+      options: []
+      required: false

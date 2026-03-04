@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Questionnaire Form
+    pages:
+    - id: 1
+      name: candidate_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_interest
+      label: Position of Interest
+      hint: Which role are you interested in
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_employer
+      label: Current Employer
+      hint: Current company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_title
+      label: Current Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_experience
+      label: Years of Relevant Experience
+      hint: Total years in field
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: highest_education
+      label: Highest Education Level
+      hint: Highest degree
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Professional certification
+      required: true
+    - id: 10
+      name: relevant_certifications
+      label: Relevant Certifications
+      hint: Professional certifications held
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: key_responsibilities
+      label: Key Responsibilities in Current Role
+      hint: Main duties
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: major_achievements
+      label: Major Professional Achievements
+      hint: Notable accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: technical_skills
+      label: Technical Skills
+      hint: List relevant technical skills
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: software_proficiency
+      label: Software or Tools Proficiency
+      hint: Programs you can use
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Google Workspace
+      - Salesforce
+      - SAP
+      - Adobe Creative Suite
+      - SQL
+      - Python
+      - Java
+      - Other
+      required: false
+    - id: 15
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Languages you speak
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      - Japanese
+      - Other
+      required: false
+    - id: 16
+      name: management_experience
+      label: Do You Have Management Experience
+      hint: Have you managed teams
+      type: select_one
+      options:
+      - Yes - extensive
+      - Yes - some
+      - No - but interested
+      - No - not interested
+      required: true
+    - id: 17
+      name: team_size_managed
+      label: Largest Team Size Managed
+      hint: Number of direct reports
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: work_preference
+      label: Work Arrangement Preference
+      hint: Remote or in-office
+      type: select_one
+      options:
+      - Remote only
+      - Hybrid preferred
+      - In-office preferred
+      - Flexible - either works
+      required: true
+    - id: 19
+      name: travel_willingness
+      label: Willingness to Travel
+      hint: How much travel is acceptable
+      type: select_one
+      options:
+      - No travel
+      - Up to 10 percent
+      - Up to 25 percent
+      - Up to 50 percent
+      - More than 50 percent
+      required: true
+    - id: 20
+      name: relocation_willingness
+      label: Willing to Relocate
+      hint: Can you move for this role
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 21
+      name: salary_range
+      label: Expected Salary Range
+      hint: Annual salary expectation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: start_date_availability
+      label: Earliest Start Date
+      hint: When can you begin
+      type: select_one
+      options:
+      - Immediately
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 2 months
+      - More than 2 months
+      required: true
+    - id: 23
+      name: notice_period
+      label: Notice Period Required
+      hint: Time needed for current employer
+      type: select_one
+      options:
+      - None
+      - 1 week
+      - 2 weeks
+      - 1 month
+      - More than 1 month
+      required: true
+    - id: 24
+      name: why_interested
+      label: Why Are You Interested in This Position
+      hint: Motivation for applying
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: career_goals
+      label: What Are Your Career Goals
+      hint: Professional objectives
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Source of job posting
+      type: select_one
+      options:
+      - Company website
+      - Job board
+      - LinkedIn
+      - Employee referral
+      - Recruiter
+      - Social media
+      - Career fair
+      - Other
+      required: true
+    - id: 27
+      name: referred_by
+      label: Referred By
+      hint: Employee name if referred
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_information
+      label: Any Additional Information
+      hint: Other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: questionnaire_date
+      label: Questionnaire Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

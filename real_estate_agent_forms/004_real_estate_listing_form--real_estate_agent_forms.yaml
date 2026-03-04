@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Listing Form
+    pages:
+    - id: 1
+      name: real_estate_form
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''residential''}'
+      - '{''value'': ''commercial''}'
+      - '{''value'': ''industrial''}'
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seller_email
+      label: Seller Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: seller_phone
+      label: Seller Phone
+      hint: null
+      type: text
+      options: []
+      required: false

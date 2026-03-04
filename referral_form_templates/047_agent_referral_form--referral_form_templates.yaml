@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Referral Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Agent Referral Submission --
+      hint: formal referral of a client to another agent or representative
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referring_agent
+      label: Referring Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referring_agency
+      label: Referring Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referring_email
+      label: Referring Agent Email
+      hint: for coordination and fee payment
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Referred Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_email
+      label: Client Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referral_type
+      label: Type of Referral - Buyer, Seller, Investor, Insurance, Other
+      hint: select the primary service need
+      type: select_one
+      options:
+      - Home Buyer
+      - Home Seller
+      - Commercial Investor
+      - Insurance Policy Lead
+      - Recruitment Candidate
+      required: true
+    - id: 10
+      name: timeline_notes
+      label: Estimated Timeline for Client Need
+      hint: e.g., Looking to buy within 3 months
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_requirements
+      label: Notes or special requirements for the client
+      hint: anything the receiving agent should know
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fee_header
+      label: -- Referral Fee --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: fee_percentage
+      label: Agreed Referral Fee Percentage - %
+      hint: enter the percentage of gross commission
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: client_notification
+      label: Has the client been notified of this referral?
+      hint: null
+      type: select_one
+      options:
+      - Yes, they are expecting a call
+      - No, not yet
+      required: true

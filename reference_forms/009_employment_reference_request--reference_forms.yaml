@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Reference Request
+    pages:
+    - id: 1
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reference_name
+      label: Reference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reference_title
+      label: Reference Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reference_email
+      label: Reference Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: reference_phone
+      label: Reference Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reference_phone_2
+      label: Alternate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_note
+      label: Reference Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employer_title
+      label: Employer Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employer_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: employer_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: reference_available
+      label: Available
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Specified
+      required: true
+    - id: 15
+      name: reason_for_employment
+      label: Reason for Employment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reference_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Team Member
+      - Colleague
+      - Other
+      required: true
+    - id: 17
+      name: reference_since
+      label: Known Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: reference_last_contact
+      label: Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reference_next_contact
+      label: Next Contact
+      hint: null
+      type: date
+      options: []
+      required: false

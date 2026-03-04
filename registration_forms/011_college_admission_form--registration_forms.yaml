@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Admission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: citizenship_status
+      label: Citizenship Status
+      hint: null
+      type: select_one
+      options:
+      - U.S. Citizen
+      - International Student
+      - Permanent Resident
+      - Visa Holder
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State - Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: intended_major
+      label: Intended Major or Program
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Business
+      - Liberal Arts
+      - Sciences
+      - Nursing
+      - Education
+      - Other
+      required: true
+    - id: 14
+      name: high_school_name
+      label: High School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: graduation_year
+      label: High School Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: gpa
+      label: Current High School GPA
+      hint: On 4.0 scale
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: standardized_test_score
+      label: SAT or ACT Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - SAT
+      - ACT
+      - Both
+      - Not Submitted
+      required: true
+    - id: 19
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: Sports, clubs, volunteer work, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_talents
+      label: Special Talents or Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: essay_topics
+      label: Would you like to write a supplemental essay
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: family_info
+      label: Are you a first generation college student
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: financial_aid_needed
+      label: Do you require financial aid
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: application_date
+      label: Application Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

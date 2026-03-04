@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Tenancy Application Form
+    pages:
+    - id: 1
+      name: tenant_information
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: renter_history
+      label: Renter History
+      hint: Check rental history for any evictions or issues with previous landlords
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rental_preferences
+      label: Rental Preferences
+      hint: What kind of property do you want to rent?
+      type: select_multiple
+      options:
+      - Studio
+      - 1 Bedroom
+      - 2 Bedrooms
+      - 3 Bedrooms
+      - 4 Bedrooms
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: What type of property are you looking to rent?
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condo
+      - Townhouse
+      required: false
+    - id: 6
+      name: renter_info
+      label: Renter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 8
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: move_in_time
+      label: Move In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: lease_length
+      label: Lease Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: security_deposit
+      label: Security Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: move_in_status
+      label: Move In Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Conditional
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_relationship_type
+      label: Relationship Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: move_out_status
+      label: Move Out Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Conditional
+      required: false
+    - id: 25
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: move_out_time
+      label: Move Out Time
+      hint: null
+      type: time
+      options: []
+      required: false

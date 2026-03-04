@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Broker Compensation Agreement
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Buyer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Buyer Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: broker_name
+      label: Broker Name
+      hint: Real estate broker name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: broker_company
+      label: Brokerage Company
+      hint: Name of the brokerage
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: broker_email
+      label: Broker Email
+      hint: Broker contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: broker_phone
+      label: Broker Phone
+      hint: Broker contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: Date agreement is effective
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: Address of property being purchased
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purchase_price
+      label: Expected Purchase Price
+      hint: Estimated or agreed price
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: compensation_type
+      label: Compensation Type
+      hint: How broker will be compensated
+      type: select_one
+      options:
+      - Percentage of purchase price
+      - Flat fee
+      - Hourly rate
+      - Combination
+      required: true
+    - id: 12
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Dollar amount or percentage
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: compensation_source
+      label: Source of Compensation
+      hint: Who pays the broker
+      type: select_one
+      options:
+      - Seller
+      - Buyer
+      - Both parties
+      - Divided
+      required: true
+    - id: 14
+      name: commission_percentage
+      label: Commission Percentage
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: representation_type
+      label: Type of Representation
+      hint: Exclusive or limited
+      type: select_one
+      options:
+      - Exclusive Representation
+      - Limited Representation
+      - Transactional Representation
+      required: true
+    - id: 16
+      name: agreement_duration
+      label: Duration of Agreement
+      hint: How long is the agreement valid
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: special_conditions
+      label: Special Conditions or Modifications
+      hint: Any additions to agreement
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agreement_accepted
+      label: I Accept the Terms of This Agreement
+      hint: Must agree to proceed
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

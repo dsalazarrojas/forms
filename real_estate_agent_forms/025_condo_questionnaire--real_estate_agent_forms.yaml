@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Condo Questionnaire
+    pages:
+    - id: 1
+      name: questionnaire_intro
+      label: Condo Information Questionnaire
+      hint: Collect essential condo details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Full condo address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_number
+      label: Unit Number
+      hint: Specific unit
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: building_name
+      label: Building Name
+      hint: Condominium building
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_details
+      label: Property Details
+      hint: Basic information
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: Total bedrooms
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: Total bathrooms
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: square_footage
+      label: Square Footage
+      hint: Total area
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: floor_level
+      label: Floor Level
+      hint: Which floor
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_floors
+      label: Total Floors in Building
+      hint: Building height
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: ownership_info
+      label: Ownership Information
+      hint: Owner details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: owner_name
+      label: Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: owner_email
+      label: Owner Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: ownership_type
+      label: Ownership Type
+      hint: Type of ownership
+      type: select_one
+      options:
+      - Primary Residence
+      - Secondary Home
+      - Investment Property
+      - Rental Property
+      required: true
+    - id: 17
+      name: financial_details
+      label: Financial Details
+      hint: Condo fees and taxes
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: monthly_hoa_fee
+      label: Monthly HOA Fee
+      hint: Association fee
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: hoa_fee_includes
+      label: HOA Fee Includes
+      hint: What is covered
+      type: select_multiple
+      options:
+      - Water
+      - Sewer
+      - Trash Removal
+      - Building Insurance
+      - Common Area Maintenance
+      - Security
+      - Pool Maintenance
+      - Gym Access
+      required: false
+    - id: 20
+      name: property_taxes
+      label: Annual Property Taxes
+      hint: Yearly tax amount
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: amenities
+      label: Building Amenities
+      hint: Available facilities
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: amenities_available
+      label: Amenities Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Swimming Pool
+      - Fitness Center
+      - Concierge Service
+      - Security Guard
+      - Parking Garage
+      - Storage Unit
+      - Rooftop Deck
+      - Business Center
+      - Guest Suite
+      - Pet Friendly
+      required: false
+    - id: 23
+      name: parking_spaces
+      label: Parking Spaces
+      hint: Number included
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: pet_policy
+      label: Pet Policy
+      hint: Building pet rules
+      type: select_one
+      options:
+      - Pets Allowed No Restrictions
+      - Pets Allowed With Restrictions
+      - Small Pets Only
+      - No Pets Allowed
+      required: false
+    - id: 25
+      name: special_assessments
+      label: Special Assessments
+      hint: Any pending assessments
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: recent_renovations
+      label: Recent Renovations
+      hint: Updates made
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: reason_for_inquiry
+      label: Reason for Inquiry
+      hint: Why are you filling this out
+      type: select_one
+      options:
+      - Considering Purchase
+      - Current Owner
+      - Real Estate Agent
+      - Property Manager
+      - Appraisal
+      - Other
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

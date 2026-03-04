@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Requisition Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: job_opening_date
+      label: Job Opening Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_closing_date
+      label: Job Closing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_posting_url
+      label: Job Posting URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_id
+      label: Job ID
+      hint: null
+      type: number
+      options: []
+      required: false

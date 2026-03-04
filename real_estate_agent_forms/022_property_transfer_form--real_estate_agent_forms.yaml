@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Transfer Form
+    pages:
+    - id: 1
+      name: transfer_details
+      label: Transfer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: from_division
+      label: From Division
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: to_division
+      label: To Division
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: equipment_id
+      label: Equipment ID
+      hint: Enter the ID of the equipment being transferred
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: transfer_status
+      label: Transfer Status
+      hint: Select the status of the transfer
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transferor
+      label: Transferor
+      hint: null
+      type: text
+      options: []
+      required: false

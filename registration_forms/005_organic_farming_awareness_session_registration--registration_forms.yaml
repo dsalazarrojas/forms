@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Farming Awareness Session Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_info
+      label: attendee_info
+      hint: null
+      type: select_multiple
+      options:
+      - Fresher
+      - Farmer
+      - Farmer with Family
+      required: false
+    - id: 6
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_location
+      label: session_location
+      hint: null
+      type: select_one
+      options:
+      - Field A
+      - Field B
+      - Field C
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_confirmation
+      label: email_confirmation
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone_confirmation
+      label: phone_confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: confirm_phone
+      label: confirm_phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

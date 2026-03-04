@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Loan Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Referrer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_email
+      label: Referrer Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referrer_company
+      label: Your Company
+      hint: Company you represent
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_date
+      label: Referral Date
+      hint: Date of referral
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: Name of business being referred
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_contact_name
+      label: Business Contact Name
+      hint: Primary contact at the business
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_contact_email
+      label: Business Contact Email
+      hint: Email of business contact
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: business_contact_phone
+      label: Business Contact Phone
+      hint: Phone number of business contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_type
+      label: Business Type
+      hint: Industry or business type
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Restaurant
+      - Construction
+      - Professional services
+      - Real estate
+      - Hospitality
+      - Other
+      required: true
+    - id: 12
+      name: years_in_business
+      label: Years in Business
+      hint: How long has the business operated
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: estimated_annual_revenue
+      label: Estimated Annual Revenue
+      hint: Approximate gross annual revenue
+      type: select_one
+      options:
+      - Under $100K
+      - $100K to $500K
+      - $500K to $1M
+      - $1M to $5M
+      - $5M to $10M
+      - Over $10M
+      required: true
+    - id: 14
+      name: loan_amount_needed
+      label: Estimated Loan Amount Needed
+      hint: Approximate financing need
+      type: select_one
+      options:
+      - Under $25K
+      - $25K to $50K
+      - $50K to $100K
+      - $100K to $250K
+      - $250K to $500K
+      - Over $500K
+      required: true
+    - id: 15
+      name: loan_purpose
+      label: Purpose of Loan
+      hint: Why does the business need financing
+      type: select_one
+      options:
+      - Working capital
+      - Equipment purchase
+      - Expansion
+      - Inventory
+      - Debt refinancing
+      - Startup costs
+      - Real estate
+      - Other
+      required: true
+    - id: 16
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgently does the business need funding
+      type: select_one
+      options:
+      - Immediate - within 1 week
+      - Urgent - within 2 weeks
+      - Soon - within 1 month
+      - Flexible - 1 to 3 months
+      - Just exploring options
+      required: true
+    - id: 17
+      name: credit_quality
+      label: Known Credit Quality
+      hint: What do you know about their credit
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unknown
+      required: false
+    - id: 18
+      name: relationship_to_business
+      label: Your Relationship to Business
+      hint: How do you know this business
+      type: select_one
+      options:
+      - Business owner
+      - Employee
+      - Customer
+      - Vendor
+      - Friend or family
+      - Professional advisor
+      - Other
+      required: true
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About Our Lending Services
+      hint: Source of your awareness
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Advertisement
+      - Referral
+      - Existing client
+      - Other
+      required: false
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details about this referral
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: permission_to_share
+      label: Permission to Share Contact Information
+      hint: Do we have permission to share your info with the business
+      type: select_one
+      options:
+      - Yes - share all information
+      - Yes - share name only
+      - No - keep anonymous
+      required: true

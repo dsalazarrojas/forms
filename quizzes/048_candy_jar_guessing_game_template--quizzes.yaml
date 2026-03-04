@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Jar Guessing Game Template
+    pages:
+    - id: 1
+      name: participant_info_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name_guess
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email_guess
+      label: Email Address
+      hint: To notify the winner
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone_guess
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_group_dept
+      label: Group or Department
+      hint: Which team are you representing
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: the_guess_section
+      label: -- Your Guess --
+      hint: Choose your number carefully
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: candy_count_guess
+      label: What is your guess for the total number of candies in the jar
+      hint: Enter a whole number
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: main_candy_type_observation
+      label: What is the main type of candy you see
+      hint: Identify the primary contents
+      type: select_one
+      options:
+      - Jelly Beans
+      - M&Ms
+      - Candy Corn
+      - Skittles
+      - Mixed Selection
+      required: true
+    - id: 9
+      name: bonus_question_section
+      label: -- Bonus Question --
+      hint: For tie-breaking purposes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: jar_weight_guess
+      label: What is the total weight of the jar
+      hint: Specify unit (grams or oz)
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: winner_sharing_plan
+      label: If you win, who would you share the candy with
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_feedback_section
+      label: -- Event Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_organization_rating
+      label: How would you rate this event's organization
+      hint: 1 to 5 stars
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: more_guessing_games_pref
+      label: Would you like to see more guessing games in the future
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: game_confirmation_section
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: winner_rule_understanding
+      label: I understand that only the closest guess wins
+      hint: Decisions are final and based on the actual count
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: game_rules_agreement
+      label: I agree to the game rules
+      hint: Review terms and conditions of entry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: guess_submission_date_field
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Collaboration Referral Form
+    pages:
+    - id: 1
+      name: non_profit_collaboration_referral_form_1
+      label: Nonprofit Collaboration Referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: non_profit_collaboration_referral_organization_1
+      label: Organization 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: non_profit_collaboration_referral_organization_2
+      label: Organization 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: non_profit_collaboration_referral_organization_3
+      label: Organization 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

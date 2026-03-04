@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting And VAT Quiz
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+        - Student
+        - Accountant
+        - Business owner
+        - Finance professional
+        - Tax specialist
+        - Other
+      required: true
+    - id: 5
+      name: section_accounting_basics
+      label: -- Accounting Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_double_entry
+      label: In double-entry bookkeeping, every transaction affects at least
+      hint: null
+      type: select_one
+      options:
+        - One account
+        - Two accounts
+        - Three accounts
+        - Four accounts
+      required: true
+    - id: 7
+      name: q2_debit_increase
+      label: A debit increases which of the following account types
+      hint: null
+      type: select_one
+      options:
+        - Revenue
+        - Liabilities
+        - Assets
+        - Equity
+      required: true
+    - id: 8
+      name: q3_income_statement
+      label: Which financial statement shows revenue and expenses over a period
+      hint: null
+      type: select_one
+      options:
+        - Balance sheet
+        - Income statement
+        - Cash flow statement
+        - Statement of equity
+      required: true
+    - id: 9
+      name: q4_accounts_payable
+      label: Accounts payable is classified as a
+      hint: null
+      type: select_one
+      options:
+        - Current asset
+        - Current liability
+        - Long-term liability
+        - Equity
+      required: true
+    - id: 10
+      name: q5_trial_balance
+      label: What is the purpose of a trial balance
+      hint: null
+      type: select_one
+      options:
+        - To calculate profit
+        - To verify debits equal credits
+        - To file taxes
+        - To determine cash flow
+      required: true
+    - id: 11
+      name: section_vat_questions
+      label: -- VAT Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: q6_vat_stands_for
+      label: What does VAT stand for
+      hint: null
+      type: select_one
+      options:
+        - Value Added Tax
+        - Variable Assessment Tax
+        - Vendor Applied Tariff
+        - Volume Adjusted Tax
+      required: true
+    - id: 13
+      name: q7_vat_type
+      label: VAT is classified as what type of tax
+      hint: null
+      type: select_one
+      options:
+        - Direct tax
+        - Indirect tax
+        - Capital gains tax
+        - Property tax
+      required: true
+    - id: 14
+      name: q8_input_vat
+      label: Input VAT refers to
+      hint: null
+      type: select_one
+      options:
+        - Tax charged on sales
+        - Tax paid on purchases
+        - Tax refund from the government
+        - Tax on employee wages
+      required: true
+    - id: 15
+      name: q9_vat_liability
+      label: A business VAT liability is calculated as
+      hint: null
+      type: select_one
+      options:
+        - Total sales multiplied by VAT rate
+        - Output VAT minus input VAT
+        - Input VAT minus output VAT
+        - Revenue minus expenses
+      required: true
+    - id: 16
+      name: q10_zero_rated
+      label: Zero-rated supplies mean
+      hint: null
+      type: select_one
+      options:
+        - No VAT is charged and no input VAT can be reclaimed
+        - VAT is charged at 0% but input VAT can be reclaimed
+        - The item is exempt from all taxes
+        - The seller absorbs the VAT cost
+      required: true
+    - id: 17
+      name: section_feedback
+      label: -- Quiz Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: difficulty_rating
+      label: How Would You Rate the Difficulty of This Quiz
+      hint: null
+      type: select_one
+      options:
+        - Very easy
+        - Easy
+        - Moderate
+        - Difficult
+        - Very difficult
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

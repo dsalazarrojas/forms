@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Information Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_sqft
+      label: Building SqFt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lot_type
+      label: Lot Type
+      hint: null
+      type: select_one
+      options:
+      - Lot
+      - Land
+      - Condo
+      - Townhouse
+      - House
+      required: false
+    - id: 5
+      name: lot_dimensions
+      label: Lot Dimensions
+      hint: null
+      type: select_multiple
+      options:
+      - Acres
+      - Hectares
+      - Square Feet
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family Residence
+      - Multi Family Residence
+      - Condo
+      - Townhouse
+      required: false
+    - id: 7
+      name: year_built
+      label: Year Built
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Leased
+      required: false
+    - id: 9
+      name: bedrooms
+      label: Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: bathrooms
+      label: Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lot_value
+      label: Lot Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sale_status
+      label: Sale Status
+      hint: null
+      type: select_one
+      options:
+      - On the Market
+      - Off the Market
+      - Sold
+      - Leased
+      required: false

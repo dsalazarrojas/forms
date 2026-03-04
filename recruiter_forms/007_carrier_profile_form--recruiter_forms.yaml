@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Profile Form
+    pages:
+    - id: 1
+      name: company_information_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Carrier Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_type
+      label: Type of Carrier Company
+      hint: null
+      type: select_one
+      options:
+      - Trucking Company
+      - Freight Broker
+      - Logistics Provider
+      - Courier Service
+      - Shipping Company
+      - Other
+      required: true
+    - id: 4
+      name: company_established_date
+      label: Year Company Established
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_headquarters
+      label: Headquarters Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_city_state
+      label: City and State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_information_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_contact_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_contact_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: secondary_contact_name
+      label: Secondary Contact Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: secondary_contact_phone
+      label: Secondary Contact Phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: operations_section
+      label: -- Operations Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_types
+      label: Types of Vehicles Operated
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 18-Wheeler
+      - Box Truck
+      - Straight Truck
+      - Refrigerated Truck
+      - Tanker Truck
+      - Flatbed
+      - Specialized Equipment
+      - Van
+      required: true
+    - id: 16
+      name: fleet_size
+      label: Number of Vehicles in Fleet
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: service_areas
+      label: Geographic Service Areas
+      hint: Describe regions or states served
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: cargo_types
+      label: Types of Cargo Transported
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Merchandise
+      - Hazardous Materials
+      - Perishable Goods
+      - Electronics
+      - Machinery
+      - Automotive
+      - Specialty Items
+      - Other
+      required: true
+    - id: 19
+      name: operating_authority
+      label: Federal Operating Authority Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: certifications_section
+      label: -- Certifications and Insurance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: dot_number
+      label: Department of Transportation (DOT) Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mc_number
+      label: Motor Carrier (MC) Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: insurance_coverage
+      label: General Liability Insurance Limit
+      hint: null
+      type: select_one
+      options:
+      - $500,000
+      - $1,000,000
+      - $2,000,000
+      - $5,000,000
+      - Other
+      required: true
+    - id: 24
+      name: hazmat_certified
+      label: HazMat Certified?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information or Special Capabilities
+      hint: null
+      type: text
+      options: []
+      required: false

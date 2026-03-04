@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Submission Form
+    pages:
+    - id: 1
+      name: project_submission_form_page
+      label: Artist Project Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artist_project_details
+      label: Project Idea
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_supplies
+      label: Supplies
+      hint: List project supplies here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artist_contact_email
+      label: Artist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: artist_contact_phone
+      label: Artist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: Select project status
+      type: select_one
+      options:
+      - Pending
+      - Active
+      - Complete
+      required: false
+    - id: 10
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: Describe the project in as much detail as possible
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_image
+      label: Project Image
+      hint: null
+      type: text
+      options: []
+      required: false

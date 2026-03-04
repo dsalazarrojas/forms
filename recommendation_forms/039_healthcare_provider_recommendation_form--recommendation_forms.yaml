@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_provider_recommendation_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: specialty
+      label: Specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_visit
+      label: Date of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_last_visit
+      label: Time of Last Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

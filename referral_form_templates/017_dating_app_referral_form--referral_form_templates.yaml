@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dating App Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: friend_since
+      label: Known Friend Since
+      hint: null
+      type: select_multiple
+      options:
+      - 1 week ago - 1 year ago
+      - 1-2 years ago
+      - 2-5 years ago
+      - 5+ years ago
+      required: false
+    - id: 6
+      name: how_you_know_friender
+      label: How do you know friend?
+      hint: null
+      type: select_multiple
+      options:
+      - From a social media platform
+      - From a friend of a friend
+      - Through a common event
+      - Other
+      required: false
+    - id: 7
+      name: friend_relationship
+      label: Friend Relationship
+      hint: null
+      type: select_one
+      options:
+      - Couples
+      - Friend
+      - Distant relative
+      - Other
+      required: false
+    - id: 8
+      name: context_of_referral
+      label: Context of Referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Has given consent
+      hint: null
+      type: select_multiple
+      options:
+      - Given
+      - Not Given
+      - Unknown
+      required: false
+    - id: 10
+      name: consent_date
+      label: Consent Given Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_question
+      label: Follow up question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_answer
+      label: Follow up answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: friend_details
+      label: Friend Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_method
+      label: Follow up method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: Follow up status
+      hint: null
+      type: select_multiple
+      options:
+      - Sent
+      - Not sent
+      - In progress
+      required: false

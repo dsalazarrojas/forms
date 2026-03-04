@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Referral Form
+    pages:
+    - id: 1
+      name: referral_header
+      label: -- Referral Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Referrer name
+      hint: Person making the referral
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_contact
+      label: Referrer contact email
+      hint: Email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: referred_client_name
+      label: Referred client name
+      hint: Name of the person being referred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property type
+      hint: Type of property client is interested in
+      type: select_one
+      options: [Residential, Commercial, Rental, Land]
+      required: true
+    - id: 6
+      name: referral_reason
+      label: Reason for referral
+      hint: Brief description of motivation
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_contact_time
+      label: Preferred contact time for referred client
+      hint: Best time to reach referred client
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incentive_agreement
+      label: Is an incentive agreement in place
+      hint: Referral fee agreement status
+      type: select_one
+      options: [Yes, No]
+      required: false
+    - id: 9
+      name: assigned_agent
+      label: Assigned agent
+      hint: Agent to handle referral if known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any other helpful information
+      type: text
+      options: []
+      required: false

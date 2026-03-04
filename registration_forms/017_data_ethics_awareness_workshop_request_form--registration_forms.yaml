@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Ethics Awareness Workshop Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_topics
+      label: Workshop Topics
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Data Ethics''}'
+      - '{''value'': ''Data Protection''}'
+      - '{''value'': ''Data Privacy''}'
+      required: true
+    - id: 4
+      name: workshop_venue
+      label: Workshop Venue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Offline''}'
+      required: true
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: workshop_capacity
+      label: Workshop Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false

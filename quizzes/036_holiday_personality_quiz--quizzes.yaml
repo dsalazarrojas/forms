@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Personality Quiz
+    pages:
+    - id: 1
+      name: holiday_personality_quiz_questions
+      label: Holiday Personality Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: holiday_personality_quiz_category
+      label: Holiday Personality Quiz Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: holiday_personality_quiz_subcategory
+      label: Holiday Personality Quiz Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: holiday_personality_quiz_question
+      label: Holiday Personality Quiz Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: holiday_personality_quiz_answer
+      label: Holiday Personality Quiz Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: holiday_personality_quiz_results
+      label: Holiday Personality Quiz Results
+      hint: null
+      type: note
+      options: []
+      required: false

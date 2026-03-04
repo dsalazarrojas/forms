@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Background Check Form
+    pages:
+    - id: 1
+      name: tenant_first_name
+      label: first Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tenant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tenant_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tenant_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tenant_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed'', ''value'': ''employed''}'
+      - '{''label'': ''Self-Employed'', ''value'': ''self-employed''}'
+      - '{''label'': ''Unemployed'', ''value'': ''unemployed''}'
+      required: false
+    - id: 9
+      name: tenant_occupations
+      label: Occupations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Doctor'', ''value'': ''doctor''}'
+      - '{''label'': ''Lawyer'', ''value'': ''lawyer''}'
+      - '{''label'': ''Teacher'', ''value'': ''teacher''}'
+      required: false
+    - id: 10
+      name: tenant_education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tenant_previous_employers
+      label: Previous Employers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tenant_crime_record
+      label: Crime Record
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''none''}'
+      - '{''label'': True, ''value'': True}'
+      required: false

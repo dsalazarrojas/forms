@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeownership Eligibility Pre Screening
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income
+      label: What is your monthly income before taxes?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Working full-time''}'
+      - '{''label'': ''Working part-time''}'
+      - '{''label'': ''Unemployed''}'
+      - '{''label'': ''Retired''}'
+      required: false
+    - id: 4
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Married''}'
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Other (e.g. Domestic partner)''}'
+      required: false
+    - id: 5
+      name: address_history
+      label: Address History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-5 years''}'
+      - '{''label'': ''5-10 years''}'
+      - '{''label'': ''More than 10 years''}'
+      required: false
+    - id: 6
+      name: employment_history
+      label: Employment History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: credit_score
+      label: What is your credit score?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: debt_to_income
+      label: Do you have any outstanding debts or judgments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assets
+      label: What are your assets?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_type
+      label: What type of property are you looking to purchase?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Single-family home''}'
+      - '{''label'': ''Condo''}'
+      - '{''label'': ''Townhouse''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: property_value
+      label: What is the value of the property you are looking to purchase?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: loan_amount
+      label: How much of a loan are you looking to secure?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: down_payment
+      label: What is your planned down payment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: closing_cost
+      label: What is the closing cost for the home you are looking to purchase?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: property_type_2
+      label: What type of property are you looking to purchase?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Single-family home''}'
+      - '{''label'': ''Condo''}'
+      - '{''label'': ''Townhouse''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: property_value_2
+      label: What is the value of the property you are looking to purchase?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: loan_amount_2
+      label: How much of a loan are you looking to secure?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: down_payment_2
+      label: What is your planned down payment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: closing_cost_2
+      label: What is the closing cost for the home you are looking to purchase?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_credit
+      label: Are you applying with a non-traditional credit history?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: other_credit_2
+      label: Are you applying with a non-traditional credit history?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: other_credit_3
+      label: Are you applying with a non-traditional credit history?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Cancel''}'
+      required: false

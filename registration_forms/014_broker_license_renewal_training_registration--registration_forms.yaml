@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broker License Renewal Training Registration
+    pages:
+    - id: 1
+      name: participant_information_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: license_number
+      label: Broker License Number
+      hint: Your current broker license number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email for course communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company or Firm Name
+      hint: Name of your brokerage firm
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_requirements_header
+      label: -- Training Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: license_type
+      label: License Type
+      hint: Type of license you hold
+      type: select_one
+      options:
+      - Real Estate Broker
+      - Mortgage Broker
+      - Insurance Broker
+      - Investment Broker
+      - Other
+      required: true
+    - id: 9
+      name: current_license_expiration
+      label: Current License Expiration Date
+      hint: When your current license expires
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: required_credit_hours
+      label: Required Credit Hours
+      hint: Number of continuing education hours needed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: training_category
+      label: Training Category
+      hint: Select the category of training
+      type: select_one
+      options:
+      - Ethics
+      - Fair Housing
+      - Legal Updates
+      - Risk Management
+      - Technology
+      - Business Practices
+      - General Elective
+      required: true
+    - id: 12
+      name: course_selection_header
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: course_name
+      label: Course Name
+      hint: Name of the course you are registering for
+      type: select_one
+      options:
+      - Ethics and Professional Conduct
+      - Fair Housing and Discrimination
+      - Real Estate Law Updates
+      - Risk Management Strategies
+      - Technology in Brokerage
+      - Advanced Business Practices
+      - Broker Management
+      - Contract Writing
+      required: true
+    - id: 14
+      name: course_date
+      label: Preferred Course Date
+      hint: Date you want to attend
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: course_location
+      label: Course Location
+      hint: Select your preferred location
+      type: select_one
+      options:
+      - In-Person Downtown
+      - In-Person Suburbs
+      - Online Virtual
+      - Webinar
+      required: true
+    - id: 16
+      name: session_time
+      label: Preferred Session Time
+      hint: Select your preferred time slot
+      type: select_one
+      options:
+      - Morning Session 8AM-12PM
+      - Afternoon Session 1PM-5PM
+      - Full Day 8AM-5PM
+      - Evening Session 6PM-9PM
+      - Weekend Session
+      required: true
+    - id: 17
+      name: payment_information_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: course_fee
+      label: Course Fee
+      hint: Fee for the selected course
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the course
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Company Bill
+      - Money Order
+      - Online Payment
+      required: true
+    - id: 20
+      name: billing_address
+      label: Billing Address
+      hint: Address for billing if different
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_information_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: dietary_needs
+      label: Dietary Restrictions
+      hint: Any dietary requirements for in-person sessions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Other
+      required: false
+    - id: 23
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any accessibility accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requests or needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agreement_header
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: attendance_policy
+      label: I understand the attendance policy
+      hint: Full attendance is required to receive credit
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 27
+      name: cancellation_policy
+      label: I agree to the cancellation policy
+      hint: Check to acknowledge cancellation terms
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 28
+      name: confirmation_email
+      label: Send confirmation to this email
+      hint: Email for registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 29
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true

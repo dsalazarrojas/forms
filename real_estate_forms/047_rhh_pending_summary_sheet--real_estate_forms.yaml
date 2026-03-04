@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: RHH Pending Summary Sheet
+    pages:
+    - id: 1
+      name: purchase_agreement_form
+      label: RHH Purchase Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: seller
+      label: Seller
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: buyer
+      label: Buyer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: closing_time
+      label: Closing Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: seller_phone
+      label: Seller Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: seller_email
+      label: Seller Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Commercial
+      - Condominium
+      required: true
+    - id: 15
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - For Sale
+      - For Rent
+      - For Lease
+      - Leased
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

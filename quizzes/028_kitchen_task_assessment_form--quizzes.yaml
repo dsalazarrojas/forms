@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: kitchen_task_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Basic''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessed_by
+      label: Assessed By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Chef''}'
+      - '{''id'': 2, ''label'': ''Cook''}'
+      - '{''id'': 3, ''label'': ''Restaurateur''}'
+      required: true
+    - id: 5
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_training
+      label: Recommended Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''knife skills''}'
+      - '{''id'': 2, ''label'': ''knife safety''}'
+      - '{''id'': 3, ''label'': ''knife handling''}'
+      required: false
+    - id: 8
+      name: kitchen_skills
+      label: Kitchen Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''prep''}'
+      - '{''id'': 2, ''label'': ''cooking''}'
+      - '{''id'': 3, ''label'': ''food safety''}'
+      required: false
+    - id: 9
+      name: kitchen_equipment
+      label: Kitchen Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''knives''}'
+      - '{''id'': 2, ''label'': ''pots and pans''}'
+      - '{''id'': 3, ''label'': ''appliances''}'
+      required: false
+    - id: 10
+      name: kitchen_layout
+      label: Kitchen Layout
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''layout''}'
+      - '{''id'': 2, ''label'': ''organization''}'
+      - '{''id'': 3, ''label'': ''efficiency''}'
+      required: false
+    - id: 11
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''presentation''}'
+      - '{''id'': 2, ''label'': ''taste''}'
+      - '{''id'': 3, ''label'': ''consistency''}'
+      required: false
+    - id: 12
+      name: team_work
+      label: Team Work
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''communication''}'
+      - '{''id'': 2, ''label'': ''cooperation''}'
+      - '{''id'': 3, ''label'': ''leadership''}'
+      required: false
+    - id: 13
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''scheduling''}'
+      - '{''id'': 2, ''label'': ''prioritization''}'
+      - '{''id'': 3, ''label'': ''pacing''}'
+      required: false

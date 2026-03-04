@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult And Dislocated Worker Referral Form
+    pages:
+    - id: 1
+      name: worker_information_header
+      label: Worker Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: worker_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: referral_status_header
+      label: Referral Status and Classification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: worker_type
+      label: Worker Classification
+      hint: null
+      type: select_one
+      options:
+      - Dislocated Worker
+      - Adult Worker
+      - Long-Term Unemployed
+      - Incumbent Worker
+      required: true
+    - id: 12
+      name: reason_for_referral
+      label: Reason for Referral
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: layoff_date
+      label: Date of Job Loss or Layoff
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: previous_employer
+      label: Previous Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_title
+      label: Previous Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employment_duration
+      label: Years of Employment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: education_section
+      label: Education and Skills
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: highest_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - Less than high school
+      - High school diploma or GED
+      - Some college or vocational training
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      required: true
+    - id: 19
+      name: skills
+      label: Key Skills and Competencies
+      hint: Technical and soft skills
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: certifications
+      label: Professional Certifications or Licenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_search_goals
+      label: Job Search Goals and Target Positions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: wage_expectations
+      label: Expected Salary Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: barriers_header
+      label: Barriers to Employment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: employment_barriers
+      label: Barriers to Employment
+      hint: Transportation, childcare, disability, etc.
+      type: text
+      options: []
+      required: false

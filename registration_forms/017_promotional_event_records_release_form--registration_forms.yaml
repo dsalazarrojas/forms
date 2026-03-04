@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotional Event Records Release Form
+    pages:
+    - id: 1
+      name: promotional_event_records_release_form
+      label: promotional_event_records_release_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info_1
+      label: event_participant_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_info_2
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_details_1
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_details_2
+      label: event_participant_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_details_3
+      label: promotional_materials_sharing_consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_name'': True}'
+      - '{''option_name'': False}'
+      - '{''option_name'': ''Undecided''}'
+      required: false
+    - id: 7
+      name: event_details_4
+      label: participant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: promotional_event_records_release_form
+      label: promotional_event_records_release_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_consent
+      label: participant_consent
+      hint: null
+      type: select_one
+      options:
+      - '{''option_name'': True}'
+      - '{''option_name'': False}'
+      required: true
+    - id: 10
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''option_name'': ''I have read, understand, and agree with the above terms''}'
+      - '{''option_name'': ''I have not read, do not understand, and do not agree
+        with the above terms''}'
+      required: true
+    - id: 11
+      name: event_host
+      label: event_host
+      hint: null
+      type: note
+      options: []
+      required: false

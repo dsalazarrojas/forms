@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Referrer Full Name
+      hint: Person making the referral
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_email
+      label: Referrer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referrer_relationship
+      label: Your Relationship to Animal
+      hint: null
+      type: select_one
+      options:
+      - Current Owner
+      - Finder of Stray
+      - Shelter Staff
+      - Foster Parent
+      - Veterinarian
+      - Rescue Partner
+      - Other
+      required: true
+    - id: 5
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: animal_name
+      label: Animal Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: animal_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Mammal
+      - Reptile
+      - Livestock
+      - Wildlife
+      - Other
+      required: true
+    - id: 8
+      name: animal_breed
+      label: Breed
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: animal_age
+      label: Estimated Age
+      hint: In years or months
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: animal_sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: true
+    - id: 11
+      name: animal_color
+      label: Color and Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: animal_weight
+      label: Estimated Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: referral_reason
+      label: Reason for Referral
+      hint: Why is this animal being referred
+      type: select_one
+      options:
+      - Owner Surrender
+      - Stray Animal
+      - Medical Needs
+      - Behavioral Issues
+      - Overcrowding
+      - Rescue Transfer
+      - Abuse or Neglect Case
+      - Deceased Owner
+      - Housing Issues
+      - Other
+      required: true
+    - id: 14
+      name: referral_details
+      label: Additional Details
+      hint: Provide more context
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: health_status
+      label: Known Health Status
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Minor Issues
+      - Needs Medical Attention
+      - Chronic Condition
+      - Emergency Situation
+      - Unknown
+      required: true
+    - id: 16
+      name: health_details
+      label: Health Details
+      hint: Describe any known conditions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: behavior_status
+      label: Known Behavior Status
+      hint: null
+      type: select_one
+      options:
+      - Friendly and Social
+      - Shy or Nervous
+      - Energetic
+      - Calm
+      - Some Behavioral Issues
+      - Unknown
+      required: true
+    - id: 18
+      name: behavior_details
+      label: Behavior Details
+      hint: Describe temperament and any concerns
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: microchip_status
+      label: Microchip Status
+      hint: null
+      type: select_one
+      options:
+      - Yes - Have Number
+      - Yes - Unknown Number
+      - false
+      - Unknown
+      required: false
+    - id: 20
+      name: microchip_number
+      label: Microchip Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Up to Date
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Unknown
+      required: false
+    - id: 22
+      name: spay_neuter_status
+      label: Spay or Neuter Status
+      hint: null
+      type: select_one
+      options:
+      - Yes - Altered
+      - No - Not Altered
+      - Unknown
+      required: false
+    - id: 23
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon does animal need placement
+      type: select_one
+      options:
+      - Immediate - Within 24 Hours
+      - Urgent - Within 1 Week
+      - Soon - Within 2 Weeks
+      - Flexible
+      - Not Urgent
+      required: true
+    - id: 24
+      name: current_location
+      label: Current Location of Animal
+      hint: Address or description
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: photos_available
+      label: Do You Have Photos of the Animal
+      hint: null
+      type: select_one
+      options:
+      - Yes - Will Send
+      - Yes - Attached
+      - false
+      required: false
+    - id: 26
+      name: owner_contact
+      label: Owner Contact Information
+      hint: If different from referrer
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

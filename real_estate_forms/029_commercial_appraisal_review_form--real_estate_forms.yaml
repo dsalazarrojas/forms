@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Appraisal Review Form
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Full name of the reviewer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_credentials
+      label: Reviewer Credentials
+      hint: Professional certifications
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_header_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Complete property address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: Type of commercial property
+      type: select_one
+      options:
+      - Office Building
+      - Retail Space
+      - Warehouse
+      - Industrial
+      - Mixed Use
+      - Land
+      - Special Purpose
+      required: true
+    - id: 7
+      name: property_size
+      label: Property Size
+      hint: Square footage
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_header_appraisal_info
+      label: -- Appraisal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: appraiser_name
+      label: Appraiser Name
+      hint: Name of original appraiser
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: appraisal_date
+      label: Appraisal Date
+      hint: Date of original appraisal
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: appraised_value
+      label: Appraised Value
+      hint: Appraised property value
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: appraisal_purpose
+      label: Appraisal Purpose
+      hint: Why was appraisal conducted
+      type: select_one
+      options:
+      - Purchase
+      - Refinance
+      - Tax Assessment
+      - Insurance
+      - Estate Planning
+      - Litigation
+      - Other
+      required: true
+    - id: 14
+      name: section_header_review_criteria
+      label: -- Review Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: data_accuracy
+      label: Data Accuracy
+      hint: Rate accuracy of property data
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: comparable_selection
+      label: Comparable Selection
+      hint: Quality of comparable properties
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Below Average
+      - Poor
+      required: true
+    - id: 17
+      name: methodology
+      label: Appraisal Methodology
+      hint: Appropriateness of methods used
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Below Average
+      - Poor
+      required: true
+    - id: 18
+      name: adjustments
+      label: Adjustments
+      hint: Quality of adjustments made
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Below Average
+      - Poor
+      required: true
+    - id: 19
+      name: final_value_opinion
+      label: Final Value Opinion
+      hint: Support for value conclusion
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Below Average
+      - Poor
+      required: true
+    - id: 20
+      name: section_header_compliance
+      label: -- Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: uspap_compliance
+      label: USPAP Compliance
+      hint: Does appraisal meet USPAP standards
+      type: select_one
+      options:
+      - Yes Compliant
+      - No Not Compliant
+      - Partially Compliant
+      required: true
+    - id: 22
+      name: regulatory_compliance
+      label: Regulatory Compliance
+      hint: Meets regulatory requirements
+      type: select_one
+      options:
+      - Yes Compliant
+      - No Not Compliant
+      - Partially Compliant
+      required: true
+    - id: 23
+      name: section_header_findings
+      label: -- Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: value_agreement
+      label: Do You Agree with Appraised Value
+      hint: Is the value supported
+      type: select_one
+      options:
+      - Yes Fully Supported
+      - Yes Generally Supported
+      - Neutral
+      - No Concerns
+      - No Not Supported
+      required: true
+    - id: 25
+      name: revised_value
+      label: Revised Value Estimate
+      hint: Your value estimate if different
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: deficiencies
+      label: Deficiencies Found
+      hint: List any deficiencies
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: recommendation
+      label: Recommendation
+      hint: What action do you recommend
+      type: select_one
+      options:
+      - Accept as Is
+      - Accept with Conditions
+      - Revise and Resubmit
+      - Reject
+      - New Appraisal Required
+      required: true

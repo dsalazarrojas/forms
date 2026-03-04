@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Studio Student's Registration Form
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: birth_date
+      label: Birth Date
+      hint: Enter student's birth date (MM/DD/YYYY)
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_information
+      label: School Information
+      hint: Enter student's school
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: emergency_medical_treatment
+      label: Emergency Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: infectious_disease
+      label: Is Student Free from Infectious Disease or Conditions?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: restricted_activity
+      label: Any Activity Student Should be Restricted from?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_attention
+      label: Any Physical, Mental or Other Condition that Would Require Special Attention
+        or Medication While in Class?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

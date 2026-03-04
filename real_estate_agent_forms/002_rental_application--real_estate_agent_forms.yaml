@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Application
+    pages:
+    - id: 1
+      name: rental_application_form
+      label: rental_application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Condo
+      - Townhouse
+      - Other
+      required: false
+    - id: 3
+      name: property_size
+      label: property_size
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 room
+      - 3-4 room
+      - 5-6 room
+      - 7-8 room
+      required: false
+    - id: 4
+      name: desired_location
+      label: desired_location
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Suburban
+      - Rural
+      required: false
+    - id: 5
+      name: income_range
+      label: income_range
+      hint: null
+      type: select_multiple
+      options:
+      - 20000-40000
+      - 40001-60000
+      - 60001-80000
+      - 80001-100000
+      required: false
+    - id: 6
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      required: false
+    - id: 7
+      name: rental_history
+      label: rental_history
+      hint: null
+      type: select_multiple
+      options:
+      - Renting
+      - Owning
+      - Both
+      required: false
+    - id: 8
+      name: credit_score
+      label: credit_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rental_application_status
+      label: rental_application_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_of_move_in
+      label: date_of_move_in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_move_in
+      label: time_of_move_in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

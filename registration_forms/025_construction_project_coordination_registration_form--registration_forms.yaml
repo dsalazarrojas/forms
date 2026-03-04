@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Coordination Registration Form
+    pages:
+    - id: 1
+      name: section_participant_ident
+      label: -- Participant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name of Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Primary Email Address
+      hint: Coordination updates will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_role_ident
+      label: Your Role in the Project
+      hint: null
+      type: select_one
+      options:
+      - Project Manager
+      - Site Supervisor
+      - Lead Estimator
+      - Safety Officer
+      - Subcontractor Lead
+      - Client/Owner Representative
+      - Architect/Design Lead
+      required: true
+    - id: 6
+      name: employer_company_name
+      label: Employer or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_coordination_details
+      label: -- Coordination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_assigned_project
+      label: Primary Project Assignment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_comm_method
+      label: Preferred Method of Coordination Updates
+      hint: null
+      type: select_one
+      options:
+      - Email (Standard)
+      - SMS/Text Message (Urgent only)
+      - Project Portal/App (e.g., Procore, Slack)
+      - Phone Call (Direct)
+      required: true
+    - id: 10
+      name: meeting_availability_summary
+      label: Regular Availability for Coordination Meetings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday Mornings
+      - Tuesday Afternoons
+      - Wednesday Mid-day
+      - Thursday Mornings
+      - Friday Afternoons
+      - On-call/Always Available
+      required: true
+    - id: 11
+      name: section_technical_access
+      label: -- Technical and Software Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: software_access_req
+      label: Requested Software Access (If applicable)
+      hint: Check software you need access to
+      type: select_multiple
+      options:
+      - Procore
+      - Bluebeam Revu
+      - BIM 360/Autodesk Build
+      - Primavera P6
+      - Microsoft Project Online
+      - Internal Network/FTP
+      required: false
+    - id: 13
+      name: access_permission_verified
+      label: I have authorized permission for this software access
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Required request pending
+      - N/A
+      required: true
+    - id: 14
+      name: section_safety_certs
+      label: -- Safety and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: osha_training_level
+      label: OSHA Training Level Completed
+      hint: null
+      type: select_one
+      options:
+      - None
+      - OSHA 10-hour (Construction)
+      - OSHA 30-hour (Construction)
+      - OSHA 40-hour (HAZWOPER)
+      - Other Specialized Safety Cert
+      required: true
+    - id: 16
+      name: specialized_licenses_summary
+      label: Relevant Specialized Licenses or Certs
+      hint: e.g., P.E., LEED AP, First Aid/CPR
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_final_submission
+      label: -- Final Submission and Date --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_coordination_notes
+      label: Additional Coordination Requirements or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: manager_approval_name_label
+      label: Approving Manager (If known)
+      hint: null
+      type: text
+      options: []
+      required: false

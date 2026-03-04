@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Buyer Preliminary Information Collection Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_history
+      label: Employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: financial_info
+      label: Financial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_search
+      label: Property Search
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: loan_info
+      label: Loan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: credit_report
+      label: Credit Report
+      hint: Please select one of the following credit reports.
+      type: select_one
+      options:
+      - Credit Report A
+      - Credit Report B
+      - Credit Report C
+      required: true
+    - id: 9
+      name: credit_score_info
+      label: Credit Score Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      required: true
+    - id: 11
+      name: employment_type
+      label: Employment Type
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Self-employed
+      required: true
+    - id: 12
+      name: income_source
+      label: Income Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: income_info
+      label: Income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employment_info
+      label: Employment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: loan_amount
+      label: Loan Amount
+      hint: Please enter a dollar amount.
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: loan_term
+      label: Loan Term
+      hint: Please select one of the following loan terms.
+      type: select_one
+      options:
+      - 5 years
+      - 10 years
+      - 15 years
+      required: true
+    - id: 17
+      name: interest_rate
+      label: Interest Rate
+      hint: Please select one of the following interest rates.
+      type: select_one
+      options:
+      - '3.5'
+      - '4.5'
+      - '5.5'
+      required: true
+    - id: 18
+      name: loan_type
+      label: Loan Type
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Fixed
+      - Adjustable
+      - Variable
+      required: true
+    - id: 19
+      name: closing_info
+      label: Closing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: closing_cost
+      label: Closing Cost
+      hint: Please select one of the following closing costs.
+      type: select_one
+      options:
+      - '100'
+      - '200'
+      - '300'
+      required: true

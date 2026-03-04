@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vending Machine Refund Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_transaction
+      label: Date of Transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: machine_id
+      label: Vending Machine ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_purchased
+      label: Product Purchased
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assigned_support
+      label: Assigned Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

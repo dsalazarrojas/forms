@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Registration For Dispute Processing
+    pages:
+    - id: 1
+      name: form_header
+      label: Client Registration for Dispute Processing
+      hint: Complete this form to initiate dispute resolution services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Organization
+      - Legal Representative
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business or Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Mailing Address
+      hint: Street city state zip
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: For individual clients
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: business_registration_number
+      label: Business Registration Number
+      hint: For business clients
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_id
+      label: Tax ID or SSN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dispute_type
+      label: Type of Dispute
+      hint: null
+      type: select_one
+      options:
+      - Contract Dispute
+      - Employment Dispute
+      - Consumer Dispute
+      - Commercial Dispute
+      - Real Estate Dispute
+      - Family Law Matter
+      - Personal Injury
+      - Property Damage
+      - Debt Collection
+      - Other
+      required: true
+    - id: 13
+      name: dispute_description
+      label: Brief Description of Dispute
+      hint: Summarize the nature of the dispute
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: dispute_amount
+      label: Amount in Dispute
+      hint: null
+      type: select_one
+      options:
+      - Under $5000
+      - $5000-$25000
+      - $25000-$50000
+      - $50000-$100000
+      - $100000-$500000
+      - Over $500000
+      - Non-Monetary
+      required: true
+    - id: 15
+      name: opposing_party_name
+      label: Name of Opposing Party
+      hint: Individual or organization
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: opposing_party_contact
+      label: Opposing Party Contact Information
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: opposing_party_represented
+      label: Is Opposing Party Legally Represented
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 18
+      name: dispute_start_date
+      label: When Did the Dispute Begin
+      hint: Approximate date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: previous_resolution_attempts
+      label: Have You Attempted Resolution Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - Direct Negotiation
+      - Yes - Mediation
+      - Yes - Arbitration
+      - Yes - Litigation
+      - false
+      required: true
+    - id: 20
+      name: previous_outcome
+      label: Outcome of Previous Attempts
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: desired_outcome
+      label: What Is Your Desired Outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: preferred_resolution_method
+      label: Preferred Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - Mediation
+      - Arbitration
+      - Negotiation
+      - Collaborative Process
+      - No Preference
+      - Open to Advice
+      required: true
+    - id: 23
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low - No Immediate Deadline
+      - Medium - Some Time Sensitivity
+      - High - Urgent Matter
+      - Critical - Immediate Action Needed
+      required: true
+    - id: 24
+      name: deadline_date
+      label: Any Critical Deadlines
+      hint: Court dates filing deadlines etc.
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: legal_representation
+      label: Do You Have Legal Representation
+      hint: null
+      type: select_one
+      options:
+      - Yes - Attorney Representing Me
+      - Yes - Other Representative
+      - No - Self-Represented
+      - Considering Hiring Attorney
+      required: true
+    - id: 26
+      name: attorney_name
+      label: Attorney Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: attorney_contact
+      label: Attorney Contact Information
+      hint: Email and phone
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: upload_documents
+      label: Upload Relevant Documents
+      hint: Contracts correspondence evidence etc.
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: how_did_you_hear
+      label: How Did You Hear About Our Services
+      hint: null
+      type: select_one
+      options:
+      - Attorney Referral
+      - Court Referral
+      - Online Search
+      - Referral from Friend or Family
+      - Social Media
+      - Advertisement
+      - Other
+      required: false
+    - id: 30
+      name: agree_to_terms
+      label: I Agree to Terms of Service
+      hint: I agree to dispute processing terms and conditions
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 31
+      name: signature
+      label: Electronic Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

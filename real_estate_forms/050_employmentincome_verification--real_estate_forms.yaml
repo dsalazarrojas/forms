@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: EmploymentIncome Verification
+    pages:
+    - id: 1
+      name: rental_verification_process
+      label: Rental Verification Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income_verification
+      label: Income Verification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: employment_verification
+      label: Employment Verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employment_income_verification
+      label: Employment Income Verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employer_email
+      label: Employer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: employer_employment_start_date
+      label: Employer Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

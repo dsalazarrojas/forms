@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphing Skills Assessment
+    pages:
+    - id: 1
+      name: graphing_skills
+      label: Graphing Skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tools_used
+      label: Tools Used
+      hint: null
+      type: select_multiple
+      options:
+      - Graphing Software
+      - Graphing Calculator
+      - Other
+      required: false
+    - id: 3
+      name: challenges
+      label: Challenges Faced
+      hint: Please describe the challenges you faced while graphing.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: graphing_proficiency
+      label: Graphing Proficiency
+      hint: How would you rate your graphing proficiency?
+      type: select_one
+      options:
+      - Basic
+      - Advanced
+      - Expert
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Please provide any comments or suggestions for improving this form.
+      type: text
+      options: []
+      required: false

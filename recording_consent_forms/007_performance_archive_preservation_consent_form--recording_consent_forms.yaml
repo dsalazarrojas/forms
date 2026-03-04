@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Archive Preservation Consent Form
+    pages:
+    - id: 1
+      name: performance_archive_presentation
+      label: Performance Archive Presentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_archive_consent
+      label: Performance Archive Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: performance_archive_stored
+      label: Where will you store the recording?
+      hint: Please specify the location(s) where the recording will be stored.
+      type: select_multiple
+      options:
+      - Google
+      - YouTube
+      - Other
+      - Dropbox
+      required: false
+    - id: 4
+      name: performance_archive_access
+      label: How will you access the recording?
+      hint: Please specify how you will access the recording.
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 5
+      name: performance_archive_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_other_contact
+      label: Other Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_other_contact_url
+      label: Other Contact Info URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performance_name
+      label: Performance Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

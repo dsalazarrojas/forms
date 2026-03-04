@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_deed_records_release_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: deed_number
+      label: Deed Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_execution
+      label: Date of Execution
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: county
+      label: County
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: form_assigned_to
+      label: Form Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 16
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: upload_time
+      label: Upload Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: file_path
+      label: File Path
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: upload_server
+      label: Upload Server
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: upload_user
+      label: Upload User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: upload_ip
+      label: Upload IP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: upload_browser
+      label: Upload Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes2
+      label: Notes2
+      hint: null
+      type: note
+      options: []
+      required: false

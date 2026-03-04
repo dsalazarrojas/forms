@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Referral Verification Form
+    pages:
+    - id: 1
+      name: referral_form_data
+      label: Referral Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Referral Type
+      - Other
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_multiple
+      options:
+      - Medicare
+      - Medicaid
+      - Private Insurance
+      required: false
+    - id: 5
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Active
+      - Resolved
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - UnitedHealth
+      - BlueCross
+      - Cigna
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

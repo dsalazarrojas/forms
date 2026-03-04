@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Registration Time Off Form
+    pages:
+    - id: 1
+      name: request_time_off
+      label: Request Time Off
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Family Event''}'
+      - '{''id'': 2, ''label'': ''Personal Event''}'
+      - '{''id'': 3, ''label'': ''Funeral''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 2
+      name: reason
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_absence
+      label: Date of Absence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time_of_absence
+      label: Start Time of Absence
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time_of_absence
+      label: End Time of Absence
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: duration_of_absence
+      label: Duration of Absence
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: start_time_of_absence_time
+      label: Start Time of Absence Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: end_time_of_absence_time
+      label: End Time of Absence Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: teacher_approvals
+      label: Teacher Approvals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: admin_approvals
+      label: Admin Approvals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: teacher_approvals_required
+      label: Teacher Approvals Required
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Required''}'
+      - '{''id'': 2, ''label'': ''Not Required''}'
+      required: false
+    - id: 18
+      name: admin_approvals_required
+      label: Admin Approvals Required
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Required''}'
+      - '{''id'': 2, ''label'': ''Not Required''}'
+      required: false
+    - id: 19
+      name: approved_by_teacher
+      label: Approved by Teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Not Approved''}'
+      required: false
+    - id: 20
+      name: approved_by_admin
+      label: Approved by Admin
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Not Approved''}'
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Not Approved''}'
+      required: false
+    - id: 22
+      name: date_of_last_update
+      label: Date of Last Update
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: last_updated_by
+      label: Last Updated by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: true

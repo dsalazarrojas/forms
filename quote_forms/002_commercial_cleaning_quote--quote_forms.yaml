@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Cleaning Quote
+    pages:
+    - id: 1
+      name: company_name
+      label: Company name
+      hint: Business name for the quote
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact person name
+      hint: Primary contact for scheduling and questions
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email address
+      hint: Where to send the quote
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone number
+      hint: Best number to reach the contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: premises_type
+      label: Type of premises
+      hint: Choose the category that applies
+      type: select_one
+      options:
+      - Office
+      - Retail
+      - Industrial
+      - Medical facility
+      - Educational facility
+      required: true
+    - id: 6
+      name: square_footage
+      label: Approximate square footage
+      hint: Enter whole numbers only
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: services_required
+      label: Services required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Daily cleaning
+      - Weekly cleaning
+      - Deep cleaning
+      - Carpet cleaning
+      - Window cleaning
+      - Disinfection services
+      required: true
+    - id: 8
+      name: preferred_start_date
+      label: Preferred start date
+      hint: Earliest date to begin services
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: Service frequency
+      hint: Choose how often cleaning should occur
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - One time deep clean
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special instructions or access notes
+      hint: Include parking, gate codes, or hazards
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: budget_range
+      label: Budget range estimate
+      hint: Helps provide an accurate quote
+      type: select_one
+      options:
+      - Under 500
+      - 500 to 1500
+      - 1500 to 5000
+      - Over 5000
+      required: false

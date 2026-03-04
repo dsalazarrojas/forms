@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Release Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: tenant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release_date
+      label: release date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_visit
+      label: reason for visit
+      hint: null
+      type: select_one
+      options:
+      - To perform maintenance on the property
+      - To inspect the property
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: other_reason
+      label: other reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tenant_signature
+      label: tenant signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: manager signature
+      hint: null
+      type: note
+      options: []
+      required: false

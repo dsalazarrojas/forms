@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: heat_transfer_quiz
+    pages:
+    - id: 1
+      name: heat_transfer_conduction
+      label: conduction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: heat_transfer_convection
+      label: convection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: heat_transfer_radiation
+      label: radiation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quiz_conduction_description
+      label: conduction_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_convection_description
+      label: convection_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quiz_radiation_description
+      label: radiation_description
+      hint: null
+      type: text
+      options: []
+      required: false

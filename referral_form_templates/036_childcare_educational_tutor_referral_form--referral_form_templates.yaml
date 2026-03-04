@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Educational Tutor Referral Form
+    pages:
+    - id: 1
+      name: referral_date
+      label: Referral Date
+      hint: Date of tutor referral
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_grade_level
+      label: Child Grade Level
+      hint: Current grade level of the child
+      type: select_one
+      options:
+      - Pre-K
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 7
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: referral_source
+      label: Referral Source
+      hint: Who is making this referral?
+      type: select_one
+      options:
+      - Teacher
+      - Parent or guardian
+      - School counselor
+      - Childcare provider
+      - Healthcare provider
+      - Other
+      required: true
+    - id: 12
+      name: referral_reason
+      label: Referral Reason
+      hint: What is the primary reason for this tutoring referral?
+      type: select_one
+      options:
+      - Reading difficulties
+      - Math difficulties
+      - Writing difficulties
+      - General academic support
+      - Homework help
+      - Test preparation
+      - Learning disability support
+      - English language learning
+      - Gifted enrichment
+      - Other
+      required: true
+    - id: 13
+      name: referral_details
+      label: Referral Details
+      hint: Provide more details about the referral reason
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: academic_strengths
+      label: Child Academic Strengths
+      hint: What are the child's academic strengths?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: academic_challenges
+      label: Child Academic Challenges
+      hint: What specific challenges is the child facing?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: learning_style
+      label: Learning Style
+      hint: How does the child learn best?
+      type: select_one
+      options:
+      - Visual learner
+      - Auditory learner
+      - Kinesthetic learner
+      - Reading and writing
+      - Mixed styles
+      - Unsure
+      required: true
+    - id: 17
+      name: previous_tutoring_experience
+      label: Previous Tutoring Experience
+      hint: Has the child had tutoring before?
+      type: select_one
+      options:
+      - Yes, currently receiving
+      - Yes, previously received
+      - No, never had tutoring
+      required: true
+    - id: 18
+      name: previous_tutoring_outcome
+      label: Previous Tutoring Outcome
+      hint: How effective was previous tutoring?
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Not effective
+      - Not applicable
+      required: false
+    - id: 19
+      name: preferred_tutoring_schedule
+      label: Preferred Tutoring Schedule
+      hint: When would tutoring sessions be preferred?
+      type: select_one
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Flexible schedule
+      required: true
+    - id: 20
+      name: sessions_per_week
+      label: Sessions Per Week
+      hint: How many sessions per week are needed?
+      type: select_one
+      options:
+      - One session per week
+      - Two sessions per week
+      - Three sessions per week
+      - Four or more sessions
+      - As needed
+      required: true
+    - id: 21
+      name: tutoring_location_preference
+      label: Tutoring Location Preference
+      hint: Where should tutoring take place?
+      type: select_one
+      options:
+      - At childcare center
+      - At home
+      - Online or virtual
+      - At library or community center
+      - No preference
+      required: true
+    - id: 22
+      name: special_needs_or_accommodations
+      label: Special Needs or Accommodations
+      hint: Does the child require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: iep_or_504_plan
+      label: IEP or 504 Plan
+      hint: Does the child have an IEP or 504 plan?
+      type: select_one
+      options:
+      - Yes, has IEP
+      - Yes, has 504 plan
+      - false
+      - Being evaluated
+      required: true
+    - id: 24
+      name: tutor_preferences
+      label: Tutor Preferences
+      hint: Any preferences for tutor characteristics?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: goals_for_tutoring
+      label: Goals for Tutoring
+      hint: What are your goals for tutoring?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: consent_for_tutoring
+      label: Consent for Tutoring
+      hint: Do you consent to your child receiving tutoring services?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Need more information
+      required: true
+    - id: 27
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

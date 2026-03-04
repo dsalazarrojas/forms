@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property And Tenant Information Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Agricultural
+      - Other
+      required: true
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: employment_end_date
+      label: Employment End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: has_criminal_record
+      label: Has Criminal Record
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: crime_description
+      label: Crime Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reference_1
+      label: Reference 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reference_2
+      label: Reference 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reference_3
+      label: Reference 3
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Management Workshop Enrollment Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization
+      label: Organization
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: workshop_session
+      label: Workshop Session
+      hint: Which session are you enrolling in
+      type: select_one
+      options:
+      - Morning Session - 9 AM to 12 PM
+      - Afternoon Session - 1 PM to 4 PM
+      - Full Day - 9 AM to 4 PM
+      required: true
+    - id: 10
+      name: experience_level
+      label: Experience with Conflict Management
+      hint: Your current skill level
+      type: select_one
+      options:
+      - Beginner - No Formal Training
+      - Beginner - Some Experience
+      - Intermediate - Some Training
+      - Advanced - Extensive Experience
+      required: true
+    - id: 11
+      name: reason_for_attending
+      label: Reason for Attending
+      hint: Why do you want to attend this workshop
+      type: select_one
+      options:
+      - Personal Development
+      - Required by Manager
+      - Current Conflict Situation
+      - Preventive Measure
+      - Career Advancement
+      - Interest in Topic
+      required: true
+    - id: 12
+      name: specific_challenges
+      label: Specific Challenges You Face
+      hint: Describe any particular conflict situations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: learning_objectives
+      label: What Do You Hope to Learn
+      hint: Your learning goals for this workshop
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_conflicts
+      label: Do You Currently Experience Team Conflicts
+      hint: Are you dealing with ongoing team conflicts
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: management_role
+      label: Do You Have Management Responsibilities
+      hint: Do you manage other employees
+      type: select_one
+      options:
+      - Yes - Direct Reports
+      - Yes - Indirect Reports
+      - false
+      required: true
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions for catering
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Halal
+      - Kosher
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for this workshop
+      type: select_one
+      options:
+      - Company Invoice
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Sponsored
+      required: true
+    - id: 19
+      name: company_billing_contact
+      label: Company Billing Contact
+      hint: Name for invoice if company paying
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company_billing_email
+      label: Company Billing Email
+      hint: Email for invoice delivery
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Agreement to workshop terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 22
+      name: cancellation_policy
+      label: Cancellation Policy Understood
+      hint: You understand the cancellation terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: referral_source
+      label: How Did You Hear About This Workshop
+      hint: Source of information
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Social Media
+      - Colleague
+      - Manager
+      - HR Department
+      - Advertisement
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: enrollment_status
+      label: Enrollment Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Pending Approval
+      - Confirmed
+      - Waitlisted
+      - Cancelled
+      required: true

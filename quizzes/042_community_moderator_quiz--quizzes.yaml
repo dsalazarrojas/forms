@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Moderator Quiz
+    pages:
+    - id: 1
+      name: quiz_header
+      label: -- Moderator Screening Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate name
+      hint: Full name for records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For follow up and test results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: scenario_response_1
+      label: Scenario 1 response
+      hint: How would you handle disruptive comments
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: scenario_response_2
+      label: Scenario 2 response
+      hint: Approach to resolving conflicts between members
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: moderation_experience_years
+      label: Years of moderation experience
+      hint: Number of years moderating communities
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: availability_for_moderation
+      label: Availability for moderation duties
+      hint: Days or hours available
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: familiarity_with_policies
+      label: Familiarity with community policies
+      hint: Rate your familiarity
+      type: select_one
+      options:
+      - Very familiar
+      - Somewhat familiar
+      - Not familiar
+      required: true
+    - id: 9
+      name: references
+      label: References
+      hint: Provide any references or past moderation examples
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_background_check
+      label: Consent to background check if required
+      hint: Agree to screen if necessary
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

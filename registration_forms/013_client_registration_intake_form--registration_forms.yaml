@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Registration Intake Form
+    pages:
+    - id: 1
+      name: personal_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address_section
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_postal
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: service_section
+      label: -- Service Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_interested
+      label: Services Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Consulting
+      - Training
+      - Coaching
+      - Therapy
+      - Administrative support
+      - Other
+      required: true
+    - id: 14
+      name: how_heard
+      label: How Did You Hear About Us?
+      hint: null
+      type: select_one
+      options:
+      - Search engine
+      - Referral
+      - Social media
+      - Advertisement
+      - Other
+      required: false
+    - id: 15
+      name: experience_level
+      label: Your Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 16
+      name: goals_section
+      label: -- Goals and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_goals
+      label: What Are Your Primary Goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: specific_needs
+      label: Any Specific Needs or Preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: timeline
+      label: Timeline for Achievement
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Long-term
+      required: false
+    - id: 20
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

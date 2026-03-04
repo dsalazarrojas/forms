@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Flower Show Tournament Entry Form
+    pages:
+    - id: 1
+      name: exhibitor_name
+      label: Full Name
+      hint: Name of exhibitor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: membership_number
+      label: Garden Club Membership Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: show_year
+      label: Show Year
+      hint: Which year is this entry for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 7
+      name: entry_category
+      label: Entry Category
+      hint: What category are you entering?
+      type: select_one
+      options:
+      - Cut Flowers
+      - Potted Plants
+      - Floral Design
+      - Horticulture
+      - Photography
+      - Art and Crafts
+      - Garden Design
+      - Junior Division
+      - Other
+      required: true
+    - id: 8
+      name: entry_class
+      label: Entry Class
+      hint: Specific class within category
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: entry_name
+      label: Entry Name
+      hint: Name or title of your entry
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: plant_variety
+      label: Plant Variety
+      hint: Species or cultivar name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: number_of_entries
+      label: Number of Entries
+      hint: Total entries in this category
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: entry_description
+      label: Entry Description
+      hint: Describe your entry
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: growing_conditions
+      label: Growing Conditions
+      hint: How was it grown?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: entry_date
+      label: Entry Drop-off Date
+      hint: When will you deliver?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: entry_time
+      label: Entry Drop-off Time
+      hint: Preferred drop-off time
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: pickup_date
+      label: Pickup Date
+      hint: When will you collect?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: special_handling
+      label: Special Handling Required
+      hint: Any special care needs?
+      type: select_one
+      options:
+      - None
+      - Refrigeration
+      - Watering
+      - Fragile
+      - Other
+      required: true
+    - id: 18
+      name: handling_details
+      label: Handling Details
+      hint: Describe special requirements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: display_requirements
+      label: Display Requirements
+      hint: Space or setup needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: entry_fee
+      label: Entry Fee
+      hint: Fee per entry
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Online Payment
+      - Membership Included
+      required: true
+    - id: 22
+      name: judging_consent
+      label: Judging Consent
+      hint: I consent to judging of my entry
+      type: select_one
+      options:
+      - Yes, I Consent
+      - false
+      required: true
+    - id: 23
+      name: photo_consent
+      label: Photo Consent
+      hint: May we photograph your entry?
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, Please Do Not
+      required: true
+    - id: 24
+      name: award_preference
+      label: Award Preference
+      hint: Would you like to be considered for awards?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to help at the show?
+      type: select_one
+      options:
+      - Yes, Interested
+      - No, Thank You
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

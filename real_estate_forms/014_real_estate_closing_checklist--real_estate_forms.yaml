@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_closing_checklist
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: seller_agent
+      label: seller_agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: title_report
+      label: Title Report
+      hint: null
+      type: select_multiple
+      options:
+      - Title Report 1
+      - Title Report 2
+      - Title Report 3
+      required: false
+    - id: 4
+      name: appraisal
+      label: Appraisal
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: loan_documents
+      label: Loan Documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: escrow_instructions
+      label: Escrow Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family Residence
+      - Single Family Residence Condo
+      - Single Family Residence Co-op
+      - Single Family Residence Townhouse
+      - Multi Family Residence
+      required: false
+    - id: 9
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: buyer_agent
+      label: Buyer Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: buyer_info
+      label: Buyer Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: closing_inspector
+      label: Closing Inspector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: closing_fees
+      label: Closing Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: loan_provider
+      label: Loan Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: loan_provider_info
+      label: Loan Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: closing_date_time
+      label: Closing Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: closing_agent
+      label: Closing Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: closing_info
+      label: Closing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: closing_statement
+      label: Closing Statement
+      hint: null
+      type: select_multiple
+      options:
+      - Closing Statement 1
+      - Closing Statement 2
+      - Closing Statement 3
+      required: false
+    - id: 22
+      name: buyer_acknowledgement
+      label: Buyer Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: lender_acknowledgement
+      label: Lender Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: escrow_instructions_2
+      label: Escrow Instructions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: escrow_fees
+      label: Escrow Fees
+      hint: null
+      type: number
+      options: []
+      required: false

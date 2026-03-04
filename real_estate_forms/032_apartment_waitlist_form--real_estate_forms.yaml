@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Waitlist Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Waitlist registration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: apartment_complex
+      label: Apartment complex of interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: unit_size_preference
+      label: Preferred unit size
+      hint: Number of bedrooms
+      type: select_one
+      options:
+      - Studio
+      - 1 bedroom
+      - 2 bedrooms
+      - 3 bedrooms
+      - 4+ bedrooms
+      - No preference
+      required: true
+    - id: 8
+      name: floor_preference
+      label: Floor preference
+      hint: null
+      type: select_one
+      options:
+      - Ground floor
+      - Upper floors
+      - High floor
+      - No preference
+      required: true
+    - id: 9
+      name: budget_range
+      label: Budget range for monthly rent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: desired_move_in
+      label: Desired move-in date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: lease_term_preference
+      label: Preferred lease term
+      hint: null
+      type: select_one
+      options:
+      - Month-to-month
+      - 3-6 months
+      - 1 year
+      - 2 years
+      - 3+ years
+      - Flexible
+      required: true
+    - id: 12
+      name: occupancy_type
+      label: Type of occupancy
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Couple
+      - Family with children
+      - Roommates
+      - Other
+      required: true
+    - id: 13
+      name: number_of_occupants
+      label: Number of occupants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: pet_ownership
+      label: Do you have pets?
+      hint: null
+      type: select_one
+      options:
+      - No pets
+      - Cats
+      - Dogs
+      - Both cats and dogs
+      - Other pets
+      required: true
+    - id: 15
+      name: pet_details
+      label: Pet details - breed, size, number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_residency
+      label: Current residential status
+      hint: null
+      type: select_one
+      options:
+      - Currently renting elsewhere
+      - Currently living with family
+      - Currently living with friends
+      - Relocating from another area
+      - Other
+      required: true
+    - id: 17
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 18
+      name: income_verification_ready
+      label: Can provide income verification
+      hint: null
+      type: select_one
+      options:
+      - Yes, readily available
+      - Yes, can obtain
+      - Not sure
+      - false
+      required: true
+    - id: 19
+      name: rental_history
+      label: Rental history with previous landlords
+      hint: null
+      type: select_one
+      options:
+      - Good references available
+      - Fair references
+      - Poor references
+      - First-time renter
+      - No references available
+      required: true
+    - id: 20
+      name: background_check_consent
+      label: I consent to background check
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 21
+      name: credit_check_consent
+      label: I consent to credit check
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 22
+      name: waitlist_position
+      label: Understand waitlist position may change
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 23
+      name: notification_preference
+      label: Notification preference when unit available
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - No preference
+      required: true
+    - id: 24
+      name: additional_information
+      label: Additional information or requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Participation Release Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: Person participating in the event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_info
+      label: Event Information
+      hint: Details about the event
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: event_location
+      label: Event Location
+      hint: Where the event takes place
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: media_release
+      label: Media Release Authorization
+      hint: Permission to use photos and recordings
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: photo_consent
+      label: I Consent to Photography
+      hint: Photos may be used for promotional purposes
+      type: select_one
+      options:
+      - Yes - I Give Permission
+      - No - Do Not Photograph Me
+      required: true
+    - id: 18
+      name: video_consent
+      label: I Consent to Video Recording
+      hint: Videos may be used for promotional purposes
+      type: select_one
+      options:
+      - Yes - I Give Permission
+      - No - Do Not Record Me
+      required: true
+    - id: 19
+      name: audio_consent
+      label: I Consent to Audio Recording
+      hint: Audio may be used for promotional purposes
+      type: select_one
+      options:
+      - Yes - I Give Permission
+      - No - Do Not Record My Voice
+      required: true
+    - id: 20
+      name: usage_scope
+      label: Approved Usage
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Print Materials
+      - News Releases
+      - Internal Communications
+      - Annual Report
+      required: false
+    - id: 21
+      name: name_usage
+      label: May We Use Your Name
+      hint: In conjunction with media
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: liability_release
+      label: Liability Release
+      hint: Important legal information
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: release_agreement
+      label: I Agree to Release Liability
+      hint: I understand and accept the terms
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 24
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Any conditions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

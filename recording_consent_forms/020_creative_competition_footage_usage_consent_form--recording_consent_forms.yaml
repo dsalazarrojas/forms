@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Competition Footage Usage Consent Form
+    pages:
+    - id: 1
+      name: participant_permissions
+      label: Participant Permissions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: usage_agreement
+      label: Usage Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submission_rights
+      label: Submission Rights
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contests_festivals_campaigns
+      label: Contests, Festivals, and Campaigns
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: organizers
+      label: Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: submitted_video_content
+      label: Submitted Video Content
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: campaign_budget
+      label: Campaign Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

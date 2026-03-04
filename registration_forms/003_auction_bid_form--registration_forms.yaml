@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Bid Form
+    pages:
+    - id: 1
+      name: bidder_information_section
+      label: -- Bidder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bidder_number
+      label: Bidder Number
+      hint: Enter your assigned bidder number if known
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: For invoicing purposes
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_details_section
+      label: -- Item and Bid Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_lot_number
+      label: Item Lot Number
+      hint: Found in the auction catalog
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_description
+      label: Item Name or Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bid_amount
+      label: Maximum Bid Amount
+      hint: Enter your maximum bid for this lot
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: bid_type
+      label: Bid Type
+      hint: null
+      type: select_one
+      options:
+      - Absentee Bid
+      - Phone Bid
+      - In-Person Bid
+      required: true
+    - id: 12
+      name: agreement_section
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: terms_agreement
+      label: I agree to the Auction Terms and Conditions
+      hint: By checking this box, you enter a legally binding contract
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 14
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Wire Transfer
+      - Cash
+      - Check
+      required: true

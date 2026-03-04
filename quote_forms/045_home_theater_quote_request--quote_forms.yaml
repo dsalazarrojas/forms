@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Theater Quote Request
+    pages:
+    - id: 1
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Audio Installation
+      - Video Installation
+      - Lighting Installation
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: Enter the customer's name, contact number, and email
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_time
+      label: Project Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: installation_type
+      label: Installation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Home Automation
+      - Smart Home
+      - Theater Installation
+      required: false
+    - id: 14
+      name: equipment_list
+      label: Equipment List
+      hint: List of equipment to be installed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_price
+      label: Equipment Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: installer_comments
+      label: Installer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: quote_approved
+      label: Quote Approved
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: false
+    - id: 21
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: approval_note
+      label: Approval Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

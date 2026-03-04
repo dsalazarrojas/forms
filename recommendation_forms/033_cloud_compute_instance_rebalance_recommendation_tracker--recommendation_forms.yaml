@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Compute Instance Rebalance Recommendation Tracker
+    pages:
+    - id: 1
+      name: recommendation_id
+      label: Recommendation ID
+      hint: Unique tracking number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_created
+      label: Date Created
+      hint: When recommendation was identified
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: created_by
+      label: Created By
+      hint: Name of person creating recommendation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_instance
+      label: -- Instance Information --
+      hint: Details about the compute instance
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: instance_id
+      label: Instance ID or Name
+      hint: Cloud instance identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cloud_provider
+      label: Cloud Provider
+      hint: null
+      type: select_one
+      options:
+      - AWS
+      - Azure
+      - Google Cloud
+      - Other
+      required: true
+    - id: 7
+      name: current_instance_type
+      label: Current Instance Type
+      hint: e.g., t3.medium, Standard_D2s_v3
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_cpu_usage
+      label: Current CPU Usage Percentage
+      hint: Average usage
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_memory_usage
+      label: Current Memory Usage Percentage
+      hint: Average usage
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_recommendation
+      label: -- Recommendation Details --
+      hint: The rebalancing recommendation
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recommended_action
+      label: Recommended Action
+      hint: null
+      type: select_one
+      options:
+      - Downsize instance
+      - Upsize instance
+      - Horizontal scaling
+      - Vertical scaling
+      - Change instance family
+      - Consolidate instances
+      - Decommission
+      required: true
+    - id: 12
+      name: recommended_instance_type
+      label: Recommended Instance Type
+      hint: New instance type if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cost_savings_estimate
+      label: Estimated Cost Savings Per Month
+      hint: Dollar amount saved
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: implementation_effort
+      label: Implementation Effort
+      hint: null
+      type: select_one
+      options:
+      - Minimal - no downtime
+      - Low - brief downtime
+      - Medium - planned downtime window
+      - High - significant migration
+      - Very high - complex migration
+      required: true
+    - id: 15
+      name: section_risk
+      label: -- Risk Assessment --
+      hint: Potential risks and impact
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low - minimal risk
+      - Medium - some risk
+      - High - significant risk
+      - Critical - major risk
+      required: true
+    - id: 17
+      name: risk_description
+      label: Risk Description
+      hint: What could go wrong
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mitigation_strategy
+      label: Mitigation Strategy
+      hint: How to minimize risk
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_decision
+      label: -- Implementation Decision --
+      hint: Action to take
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: recommendation_status
+      label: Recommendation Status
+      hint: null
+      type: select_one
+      options:
+      - Approved for implementation
+      - Pending review
+      - Deferred
+      - Rejected
+      - Under investigation
+      required: true
+    - id: 21
+      name: assigned_to
+      label: Assigned To
+      hint: Person responsible for implementation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: target_implementation_date
+      label: Target Implementation Date
+      hint: When to implement this change
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: implementation_notes
+      label: Implementation Notes
+      hint: Any special instructions or considerations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: priority
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Critical - implement immediately
+      - High - implement soon
+      - Medium - implement in next cycle
+      - Low - nice to have
+      required: true
+    - id: 25
+      name: final_notes
+      label: Final Notes or Comments
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

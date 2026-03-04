@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Edge Detection Knowledge Quiz
+    pages:
+    - id: 1
+      name: user_input_1
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Quizzes''}'
+      - '{''option2'': ''Exam Forms''}'
+      required: true
+    - id: 3
+      name: user_input_2
+      label: User Input 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_input_5
+      label: User Input 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category2
+      label: Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Quizzes''}'
+      - '{''option2'': ''Exam Forms''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 7
+      name: user_input_7
+      label: User Input 7
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: user_input_10
+      label: User Input 10
+      hint: null
+      type: number
+      options: []
+      required: false

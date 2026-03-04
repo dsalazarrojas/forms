@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pest Control Cleanup Referral Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_phone
+      label: Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_email
+      label: Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: form_address
+      label: Address
+      hint: Home address or service address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_location
+      label: Location
+      hint: Location of pest control service
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Pest Extermination
+      - Fumigation
+      - Rodent control
+      - Other
+      required: false
+    - id: 8
+      name: form_service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: form_priority
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: form_pest_type
+      label: Type of Pests
+      hint: null
+      type: select_multiple
+      options:
+      - Cockroaches
+      - Rats
+      - Mice
+      - Bed bugs
+      - Flies
+      - Other
+      required: false
+    - id: 11
+      name: form_date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: form_time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: form_service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: form_additional_details
+      label: Additional Details
+      hint: Any other information about the pest control request
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_service_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Pending
+      required: false
+    - id: 17
+      name: form_service_notes
+      label: Service Notes
+      hint: Notes for technicians
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: form_service_comments
+      label: Comments
+      hint: Comments for service team
+      type: note
+      options: []
+      required: false

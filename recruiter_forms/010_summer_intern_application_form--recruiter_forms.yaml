@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Intern Application Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: select_multiple
+      options:
+      - Intern
+      - Volunteer
+      - Part-time/Full-time
+      required: true
+    - id: 6
+      name: availability
+      label: availability
+      hint: null
+      type: select_one
+      options:
+      - Summer 2023
+      - Summer 2024
+      - Summer 2025
+      required: true
+    - id: 7
+      name: availability_date
+      label: availability_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: availability_time
+      label: availability_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: education
+      label: education
+      hint: null
+      type: note
+      options: []
+      required: false

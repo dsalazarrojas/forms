@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction_score
+      label: Overall Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: living_space
+      label: Living Space
+      hint: How satisfied are you with your living space?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amenities
+      label: Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: amenities_list
+      label: Amenities List
+      hint: null
+      type: select_one
+      options:
+      - Apartment Complex
+      - Clubhouse
+      - Pool
+      - Parking
+      - Parking Lot
+      - Parking Garage
+      - Parking Ramp
+      - Pool
+      - Gym
+      - Laundry
+      - Parking
+      required: false
+    - id: 6
+      name: lease_renewal_likelihood
+      label: Lease Renewal Likelihood
+      hint: How likely are you to renew your lease?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lease_start_date
+      label: Lease Start Date
+      hint: When is your lease set to start?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tenant_suggestions
+      label: Tenant Suggestions
+      hint: Do you have any suggestions for us?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communication_channels
+      label: How do you prefer to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 10
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - Property Manager
+      - Property Owner
+      - Maintenance Worker
+      - Emergency Services
+      required: false
+    - id: 11
+      name: emergency_contacts_list
+      label: Emergency Contacts List
+      hint: null
+      type: select_one
+      options:
+      - Property Manager
+      - Property Owner
+      - Maintenance Worker
+      - Emergency Services
+      required: false
+    - id: 12
+      name: preferred_mode_of_contact
+      label: Preferred Contact Mode
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 13
+      name: contact_frequency
+      label: Contact Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 14
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_phone_number
+      label: Emergency Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

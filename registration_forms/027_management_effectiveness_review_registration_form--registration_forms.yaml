@@ -1,0 +1,54 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Management Effectiveness Review Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leader_name
+      label: leader_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_sessions
+      label: review_sessions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Session 1''}'
+      - '{''id'': 2, ''label'': ''Session 2''}'
+      - '{''id'': 3, ''label'': ''Session 3''}'
+      required: false
+    - id: 4
+      name: focus_areas
+      label: focus_areas
+      hint: 'List the areas you''d like the consultant to focus on (separated by commas):'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expectations
+      label: expectations
+      hint: What expectations do you have for the consultant?
+      type: text
+      options: []
+      required: false

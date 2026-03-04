@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lot Survey Feedback Form
+    pages:
+    - id: 1
+      name: lot_survey
+      label: What is the current status of the lot?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lot_status
+      label: What is the status of the lot?
+      hint: null
+      type: select_one
+      options:
+      - Sold
+      - Under-construction
+      - Available
+      - Leased
+      required: true
+    - id: 3
+      name: lot_price
+      label: What is the price of the lot?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: lot_size
+      label: What is the size of the lot in square meters?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: lot_location
+      label: What is the location of the lot?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lot_features
+      label: What are the notable features of the lot?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lot_condition
+      label: What is the condition of the lot?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: lot_recommendation
+      label: Do you recommend this lot for sale or rent?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: lot_notes
+      label: Any notes on the lot?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: agent_name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: agent_email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: agent_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: user_name
+      label: What is the name of the lot owner?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: user_email
+      label: What is the email address of the lot owner?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: user_phone
+      label: What is the phone number of the lot owner?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: lot_surveyor
+      label: Who conducted the lot survey?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: lot_survey_date
+      label: When did the lot survey take place?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: lot_survey_time
+      label: What time of day did the lot survey take place?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: lot_survey_notes
+      label: Any notes on the lot survey?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: lot_surveyor_title
+      label: What title do you hold on the lot survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lot_surveyor_company
+      label: Which company do you work for on the lot survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: lot_surveyor_position
+      label: What is your position on the lot survey?
+      hint: null
+      type: text
+      options: []
+      required: false

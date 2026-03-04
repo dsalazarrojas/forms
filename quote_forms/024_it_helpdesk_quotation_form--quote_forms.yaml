@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Helpdesk Quotation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Service A'', ''value'': ''A''}'
+      - '{''id'': 2, ''name'': ''Service B'', ''value'': ''B''}'
+      - '{''id'': 3, ''name'': ''Service C'', ''value'': ''C''}'
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quote
+      label: Quote
+      hint: null
+      type: text
+      options: []
+      required: false

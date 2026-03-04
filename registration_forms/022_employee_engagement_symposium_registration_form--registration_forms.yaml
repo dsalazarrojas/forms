@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Engagement Symposium Registration Form
+    pages:
+    - id: 1
+      name: attendee_info_1
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name_1
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title_1
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_1
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_1
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_type_1
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Meeting
+      - Seminar
+      - Other
+      required: true
+    - id: 9
+      name: shift_1
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - All
+      required: true
+    - id: 10
+      name: shift_time_1
+      label: Shift Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: attendance_1
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

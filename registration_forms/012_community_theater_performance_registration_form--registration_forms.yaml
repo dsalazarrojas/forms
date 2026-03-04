@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Theater Performance Registration Form
+    pages:
+    - id: 1
+      name: registrant_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registrant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: registration_type
+      label: What are you registering for?
+      hint: Select your participation type
+      type: select_one
+      options:
+      - Actor/Performer
+      - Stage Crew
+      - Costume Department
+      - Set Design/Construction
+      - Lighting/Sound
+      - Stage Management
+      - Front of House
+      - Marketing/Publicity
+      - General Volunteer
+      - Workshop Participant
+      required: true
+    - id: 7
+      name: production_selection
+      label: Which production are you registering for?
+      hint: Select the show
+      type: select_one
+      options:
+      - Spring Musical 2026
+      - Summer Drama Series 2026
+      - Fall Play 2026
+      - Winter Holiday Show 2026
+      - Children's Theater Program
+      - Open Registration (Any Production)
+      required: true
+    - id: 8
+      name: role_preference
+      label: Do you have a specific role preference?
+      hint: Character type or department
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prior_experience
+      label: What is your theater experience level?
+      hint: Background in theater
+      type: select_one
+      options:
+      - No prior experience
+      - School productions only
+      - Community theater (1-2 shows)
+      - Community theater (3-5 shows)
+      - Community theater (6+ shows)
+      - Professional experience
+      required: true
+    - id: 10
+      name: experience_details
+      label: Please describe your relevant experience
+      hint: Previous roles, productions, or training
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_skills
+      label: What special skills do you bring?
+      hint: Singing, dancing, instruments, crafts, etc.
+      type: select_multiple
+      options:
+      - Singing (lead)
+      - Singing (ensemble)
+      - Ballet
+      - Jazz Dance
+      - Tap Dance
+      - Hip Hop Dance
+      - Playing Piano
+      - Playing Guitar
+      - Playing Violin
+      - Playing Other Instruments
+      - Carpentry/Woodworking
+      - Painting/Scenic Art
+      - Sewing/Costume Design
+      - Makeup/Hair Design
+      - Photography
+      - Video Editing
+      - Social Media
+      - None of the above
+      required: false
+    - id: 12
+      name: skills_description
+      label: Please describe your skills in detail
+      hint: Level of proficiency, years of experience
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: availability_weekdays
+      label: Weekday Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday 6pm-10pm
+      - Tuesday 6pm-10pm
+      - Wednesday 6pm-10pm
+      - Thursday 6pm-10pm
+      - Friday 6pm-10pm
+      - Not Available Weekdays
+      required: true
+    - id: 14
+      name: availability_weekends
+      label: Weekend Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Saturday 9am-5pm
+      - Saturday 6pm-11pm
+      - Sunday 12pm-5pm
+      - Sunday 6pm-10pm
+      - Not Available Weekends
+      required: true
+    - id: 15
+      name: performance_dates_available
+      label: Are you available for all performance dates?
+      hint: Performance run typically 2-3 weeks
+      type: select_one
+      options:
+      - Yes, fully available
+      - Mostly available (some conflicts)
+      - Limited availability
+      required: true
+    - id: 16
+      name: known_conflicts
+      label: Please list any known scheduling conflicts
+      hint: Vacations, work commitments, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transportation
+      label: How will you get to the theater?
+      hint: Transportation method
+      type: select_one
+      options:
+      - Personal vehicle
+      - Public transportation
+      - Carpool
+      - Need ride assistance
+      required: true
+    - id: 18
+      name: tshirt_size
+      label: T-Shirt Size (for crew shirt)
+      hint: If applicable
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not needed
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_relation
+      label: Emergency Contact Relationship
+      hint: Relation to you
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Any medical conditions or allergies we should know?
+      hint: For safety purposes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: how_heard_about
+      label: How did you hear about this opportunity?
+      hint: Referral source
+      type: select_one
+      options:
+      - Social Media
+      - Theater Website
+      - Friend or Family
+      - Previous Production
+      - Community Bulletin
+      - Local Newspaper
+      - School/University
+      - Other
+      required: true
+    - id: 24
+      name: registration_fee
+      label: Registration Fee (if applicable)
+      hint: Some workshops may have fees
+      type: select_one
+      options:
+      - No fee required
+      - Fee waived (scholarship)
+      - Paying full fee
+      - Paying reduced fee
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Any additional comments or questions?
+      hint: Anything else you'd like to share
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,189 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Printer Product Quiz
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: '--- Respondent Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send quiz results and follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional — include country code if outside your country
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: section_printer_context
+      label: '--- Printer Usage & Context ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: experience_level
+      label: Experience level with 3D printing
+      hint: Select the option that best describes your skill level
+      type: select_one
+      options:
+      - Beginner
+      - Hobbyist
+      - Enthusiast
+      - Professional
+      - Industrial
+      required: true
+    - id: 7
+      name: primary_use_cases
+      label: Primary use cases (select all that apply)
+      hint: Select all uses that apply to your typical work
+      type: select_multiple
+      options:
+      - Prototyping
+      - End-use parts
+      - Education
+      - Hobby projects
+      - Art & design
+      - Research & development
+      required: true
+    - id: 8
+      name: frequency_of_use
+      label: How often do you operate a 3D printer?
+      hint: Typical cadence of usage
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 9
+      name: typical_build_volume_liters
+      label: Typical maximum build volume (liters)
+      hint: Enter approximate build volume in liters (e.g., 12.5)
+      type: decimal
+      options: []
+      required: false
+    - id: 10
+      name: importance_of_features
+      label: Which features influence your purchasing decision? (select all)
+      hint: Choose the features that matter most to you
+      type: select_multiple
+      options:
+      - Print quality
+      - Speed
+      - Reliability
+      - Price
+      - Ease of use
+      - Manufacturer support
+      - Material compatibility
+      required: true
+    - id: 11
+      name: material_compatibility
+      label: Current material requirements
+      hint: Choose the best match for the filaments/materials you use
+      type: select_one
+      options:
+      - PLA only
+      - PLA and PETG
+      - PLA/PETG/ABS
+      - Composite and flexible materials
+      - Engineering/industrial materials (Nylon, PEEK)
+      required: false
+    - id: 12
+      name: satisfaction
+      label: Overall satisfaction with the product selection guidance
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 13
+      name: print_quality_rating
+      label: Print quality rating (1-10)
+      hint: 1 = poor, 10 = excellent
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: likelihood_to_recommend
+      label: How likely are you to recommend this printer to others? (0-10)
+      hint: 0 = not at all, 10 = extremely likely
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: competitor_comparison
+      label: How does this product compare to alternatives?
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Somewhat worse
+      - Much worse
+      required: true
+    - id: 16
+      name: price_perception
+      label: How do you perceive the pricing of this product?
+      hint: null
+      type: select_one
+      options:
+      - Great value
+      - Fair price
+      - Slightly expensive
+      - Too expensive
+      - Premium but justified
+      required: true
+    - id: 17
+      name: desired_improvements
+      label: What single improvement would most increase your satisfaction?
+      hint: Be specific (feature, support, price, materials, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Optional — include any use-case details or expectations
+      type: text
+      options: []
+      required: false

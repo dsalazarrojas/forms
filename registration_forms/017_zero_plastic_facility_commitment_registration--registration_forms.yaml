@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zero Plastic Facility Commitment Registration
+    pages:
+    - id: 1
+      name: facility_details
+      label: Facility Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: zero_plastic_initiatives
+      label: Zero Plastic Initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - Zero Plastic Packaging
+      - Reducing Single-Use Plastics
+      - Eliminating Microplastic
+      - Eliminating Single-Use Plastic Bags
+      required: false
+    - id: 3
+      name: zero_plastic_commitment
+      label: Zero Plastic Commitment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: sustainability_program
+      label: Sustainability Program
+      hint: null
+      type: select_one
+      options:
+      - Existing
+      - New
+      required: false
+    - id: 5
+      name: authorized_commitment
+      label: Authorized Commitment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: facility_address
+      label: Facility Address
+      hint: Enter a physical address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_contact
+      label: Facility Contact
+      hint: Name and Contact Information of Facility Contact
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_website
+      label: Facility Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sustainability_programs
+      label: Sustainability Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Carbon Footprint Analysis
+      - Energy Efficiency
+      - Water Conservation
+      - Supply Chain Management
+      - Waste Reduction
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_type
+      label: Facility Type
+      hint: Enter a Facility Type (e.g., Manufacturing, Retail, Restaurant, etc.)
+      type: text
+      options: []
+      required: false

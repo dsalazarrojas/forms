@@ -1,0 +1,172 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: <internal>LISTING SUBMISSION SHEET</internal>
+    pages:
+    - id: 1
+      name: form_header
+      label: '--- Listing Submission Form ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_full_name
+      label: Agent full name
+      hint: Enter your legal name as registered agent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_email
+      label: Agent email address
+      hint: Professional email for listing communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: agent_phone
+      label: Agent phone number
+      hint: Direct contact number for urgent inquiries
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property address
+      hint: Full street address including unit/suite if applicable
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property type
+      hint: Select the primary property classification
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      - Townhouse
+      - Commercial
+      - Land
+      - Duplex
+      - Multi-family
+      required: true
+    - id: 7
+      name: num_bedrooms
+      label: Number of bedrooms
+      hint: Count all bedrooms that meet local building codes
+      type: integer
+      options: []
+      required: false
+    - id: 8
+      name: num_bathrooms
+      label: Number of bathrooms
+      hint: Include half-baths as 0.5
+      type: decimal
+      options: []
+      required: false
+    - id: 9
+      name: square_footage
+      label: Total square footage
+      hint: Approximate livable area in square feet
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: year_built
+      label: Year built
+      hint: Original construction year
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: listing_price
+      label: Listing price ($)
+      hint: Expected sale price in US dollars
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: property_status
+      label: Current property status
+      hint: Current condition of the property
+      type: select_one
+      options:
+      - Vacant
+      - Occupied
+      - Tenant occupied
+      - Under renovation
+      - Short sale
+      - Foreclosure
+      required: true
+    - id: 13
+      name: listing_date
+      label: Desired listing start date
+      hint: Date property should be available for showings
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: property_features
+      label: Key property features (select all that apply)
+      hint: Check all features that apply to this property
+      type: select_multiple
+      options:
+      - Garage
+      - Swimming pool
+      - Fireplace
+      - Hardwood floors
+      - Updated kitchen
+      - Updated bathroom
+      - Air conditioning
+      - Solar panels
+      - Smart home features
+      - Garden/yard
+      required: false
+    - id: 15
+      name: marketing_budget
+      label: Proposed marketing budget ($)
+      hint: Estimated amount for marketing and promotional activities
+      type: decimal
+      options: []
+      required: false
+    - id: 16
+      name: commission_rate
+      label: Commission rate (%)
+      hint: Percentage of sale price paid as commission
+      type: decimal
+      options: []
+      required: true
+    - id: 17
+      name: listing_agent_notes
+      label: Additional listing details or notes
+      hint: Any special instructions, disclosures, or selling points
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approval_required
+      label: Does this listing require management approval?
+      hint: Check if special pricing or terms apply
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

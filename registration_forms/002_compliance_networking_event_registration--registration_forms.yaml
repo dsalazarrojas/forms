@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Networking Event Registration
+    pages:
+    - id: 1
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for badge and records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or institution name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: Used for confirmations and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ticket_type
+      label: Ticket type
+      hint: Select desired ticket option
+      type: select_one
+      options:
+      - General admission
+      - Speaker
+      - Sponsor
+      - Student
+      required: true
+    - id: 7
+      name: sessions_of_interest
+      label: Sessions of interest
+      hint: Select up to three sessions
+      type: select_multiple
+      options:
+      - Keynote
+      - Panel discussions
+      - Workshops
+      - Networking lunch
+      - Roundtables
+      required: false
+    - id: 8
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Specify any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Tell us how we can accommodate you
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share_contact
+      label: Consent to share contact details
+      hint: Allow organizers to share your contact with partners
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

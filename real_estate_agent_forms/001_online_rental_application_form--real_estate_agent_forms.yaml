@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Rental Application Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_history
+      label: Rental History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rental_history_1
+      label: Previous Renters
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rental_history_2
+      label: Previous Landlords
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: property_history
+      label: Property History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rental_application
+      label: Rental Application
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rental_application_1
+      label: Rental Application 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: rental_application_2
+      label: Rental Application 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: employment_status_1
+      label: Employment Status 1
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: rental_property
+      label: Rental Property
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false

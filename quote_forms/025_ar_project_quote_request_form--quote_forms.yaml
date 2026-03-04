@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: AR Project Quote Request Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Professional email for project communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_company
+      label: Client Company
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client Phone
+      hint: Contact number for project discussions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: Name for your AR project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: Detailed description of your AR project requirements
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ar_application_type
+      label: AR Application Type
+      hint: What type of AR application do you need?
+      type: select_one
+      options:
+      - Mobile App
+      - Web-based AR
+      - Enterprise Solution
+      - Gaming
+      - Training/Education
+      - Marketing/Advertising
+      - Other
+      required: true
+    - id: 8
+      name: target_platform
+      label: Target Platform
+      hint: Which platform(s) should the AR application support?
+      type: select_multiple
+      options:
+      - iOS
+      - Android
+      - Web
+      - Windows
+      - AR Headset
+      - Other
+      required: true
+    - id: 9
+      name: target_audience
+      label: Target Audience
+      hint: Who is the intended audience for this AR application?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_timeline
+      label: Desired Project Timeline
+      hint: When do you need the project completed?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_budget
+      label: Project Budget Range
+      hint: What is your budget range for this project?
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$25,000
+      - $25,000-$50,000
+      - $50,000-$100,000
+      - Over $100,000
+      - Budget Flexible
+      required: true
+    - id: 12
+      name: required_features
+      label: Required Features
+      hint: List the essential features you need in the AR application
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reference_examples
+      label: Reference Examples
+      hint: Links or descriptions of AR applications you like
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special technical or design requirements?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When would you like the project to begin?
+      type: date
+      options: []
+      required: true

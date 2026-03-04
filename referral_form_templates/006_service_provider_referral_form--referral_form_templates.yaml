@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Provider Referral Form
+    pages:
+    - id: 1
+      name: service_provider_referral_form_page
+      label: service_provider_referral_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_information
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: service_provider_id
+      label: service_provider_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: referral_time
+      label: referral_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: referral_reason
+      label: referral_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

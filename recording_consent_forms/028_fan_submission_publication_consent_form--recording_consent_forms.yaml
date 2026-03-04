@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fan Submission Publication Consent Form
+    pages:
+    - id: 1
+      name: fan_submission_publication_consent_form
+      label: Fan Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fan_publication_permission
+      label: Publication Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Stated
+      required: true
+    - id: 3
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: fan_name
+      label: Fan Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fan_email
+      label: Fan Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: artist_email
+      label: Artist Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_multiple
+      options:
+      - Music
+      - Video
+      - Image
+      - Other
+      required: true
+    - id: 10
+      name: date_submission
+      label: Date Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_submission
+      label: Time Submission
+      hint: null
+      type: time
+      options: []
+      required: false

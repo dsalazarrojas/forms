@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: real-estate-agent-payment-portal
+    pages:
+    - id: 1
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_summary
+      label: Transaction Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_info
+      label: Property
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agent_info
+      label: Agent Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: goals
+      label: Goals
+      hint: Enter your goals
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      required: false

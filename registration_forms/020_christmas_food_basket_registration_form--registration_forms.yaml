@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Food Basket Registration Form
+    pages:
+    - id: 1
+      name: family_info
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: Primary Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Primary Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: household_address
+      label: Household Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: household_composition
+      label: -- Household Composition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: household_size
+      label: Total Household Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: adults_count
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: children_count
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: children_ages
+      label: Ages of Children
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: seniors_count
+      label: Number of Seniors (65+)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: dietary_needs
+      label: -- Dietary & Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut allergies
+      - Shellfish allergies
+      - Dairy-free
+      - Other allergies
+      required: false
+    - id: 18
+      name: dietary_details
+      label: Dietary Details
+      hint: Specify particular needs or preferences
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: food_preferences
+      label: -- Food Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_items
+      label: Preferred Food Items
+      hint: Select what you would like in your basket
+      type: select_multiple
+      options:
+      - Canned vegetables
+      - Canned fruits
+      - Protein items
+      - Grains and pasta
+      - Baking supplies
+      - Snacks
+      - Beverages
+      - Frozen items
+      required: false
+    - id: 21
+      name: items_to_avoid
+      label: Items to Avoid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: financial_info
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: income_level
+      label: Household Income Range
+      hint: null
+      type: select_one
+      options:
+      - Below poverty line
+      - 100-150% of poverty line
+      - 150-200% of poverty line
+      - Above 200% of poverty line
+      - Prefer not to answer
+      required: true
+    - id: 24
+      name: additional_assistance
+      label: Do you need additional assistance beyond food?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: additional_needs
+      label: Additional Assistance Needed
+      hint: null
+      type: text
+      options: []
+      required: false

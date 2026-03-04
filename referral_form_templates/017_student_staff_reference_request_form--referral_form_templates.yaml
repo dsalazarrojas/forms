@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Staff Reference Request Form
+    pages:
+    - id: 1
+      name: staff_member
+      label: staff_member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: relationship
+      label: relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false

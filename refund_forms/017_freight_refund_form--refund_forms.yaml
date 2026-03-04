@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Refund Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_refund
+      label: Reason For Refund
+      hint: Choose a reason for the refund
+      type: select_one
+      options:
+      - Service Issue
+      - Lost Package
+      - Billing Error
+      required: false
+    - id: 3
+      name: date_of_refund
+      label: Date Of Refund
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount_of_refund
+      label: Amount Of Refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_info_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_info_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_info_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_info_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_info_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

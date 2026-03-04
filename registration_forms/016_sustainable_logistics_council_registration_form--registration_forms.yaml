@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: sustainable_logistics_council_registration_form
+    pages:
+    - id: 1
+      name: member_first_name
+      label: Member First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: sustainability_focus
+      label: Sustainability Focus
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: council_level
+      label: Council Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: member_type
+      label: Member Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

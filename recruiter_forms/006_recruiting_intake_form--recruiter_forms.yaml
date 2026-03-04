@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: recruiting_intake_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full-time''}'
+      - '{''id'': 2, ''name'': ''Part-time''}'
+      - '{''id'': 3, ''name'': ''Contract''}'
+      required: false
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ideal_candidate_profile
+      label: Ideal Candidate Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: available_work_schedule
+      label: Available Work Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: recruiter_comments
+      label: Recruiter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''In Progress''}'
+      - '{''id'': 2, ''name'': ''Active''}'
+      - '{''id'': 3, ''name'': ''Completed''}'
+      required: false
+    - id: 15
+      name: assigned_recruiter
+      label: Assigned Recruiter
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,364 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offer And Counteroffer Form
+    pages:
+    - id: 1
+      name: offer_details
+      label: Offer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: buyer_contact_info
+      label: Buyer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: offer_price
+      label: Offer Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: offer_terms
+      label: Offer Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: counteroffer
+      label: Counteroffer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: buyer_title
+      label: Buyer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: buyer_company
+      label: Buyer Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: seller_title
+      label: Seller Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: seller_company
+      label: Seller Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: seller_phone
+      label: Seller Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: seller_email
+      label: Seller Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: offer_expiration_date
+      label: Offer Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: signature_note
+      label: Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: seller_signature_date
+      label: Seller Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: buyer_signature_date
+      label: Buyer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: seller_signature_time
+      label: Seller Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: buyer_signature_time
+      label: Buyer Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 27
+      name: offer_price_currency
+      label: Offer Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: offer_terms_note
+      label: Offer Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: counteroffer_note
+      label: Counteroffer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: counteroffer_price
+      label: Counteroffer Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: seller_signature_note
+      label: Seller Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: buyer_signature_note
+      label: Buyer Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: counteroffer_terms
+      label: Counteroffer Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: signature_date_note
+      label: Signature Date Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: offer_terms_date
+      label: Offer Terms Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 36
+      name: counteroffer_terms_date
+      label: Counteroffer Terms Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: seller_terms
+      label: Seller Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: buyer_terms
+      label: Buyer Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: seller_terms_note
+      label: Seller Terms Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: buyer_terms_note
+      label: Buyer Terms Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: signature_note_2
+      label: Signature Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: seller_note
+      label: Seller Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: buyer_note
+      label: Buyer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: offer_terms_2
+      label: Offer Terms 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: counteroffer_terms_2
+      label: Counteroffer Terms 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: seller_terms_2
+      label: Seller Terms 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: buyer_terms_2
+      label: Buyer Terms 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: buyer_terms_3
+      label: Buyer Terms 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: seller_terms_3
+      label: Seller Terms 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 50
+      name: offer_terms_3
+      label: Offer Terms 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 51
+      name: counteroffer_terms_3
+      label: Counteroffer Terms 3
+      hint: null
+      type: note
+      options: []
+      required: false

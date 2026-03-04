@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Representation Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agent_name
+      label: Real Estate Agent Name
+      hint: Name of your agent
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: brokerage_name
+      label: Brokerage Firm Name
+      hint: Real estate company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: agreement_date
+      label: Agreement Effective Date
+      hint: When does representation begin?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: agreement_duration
+      label: Agreement Duration
+      hint: How long is the agreement valid?
+      type: select_one
+      options:
+      - Until property found
+      - 30 days
+      - 60 days
+      - 90 days
+      - 6 months
+      - 12 months
+      - Other period
+      required: true
+    - id: 8
+      name: exclusive_representation
+      label: Exclusive or Non-Exclusive Representation
+      hint: null
+      type: select_one
+      options:
+      - Exclusive representation
+      - Non-exclusive representation
+      - Undecided
+      required: true
+    - id: 9
+      name: cobuyer_name
+      label: Co-Buyer Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: buyer_status
+      label: Buyer Status
+      hint: null
+      type: select_one
+      options:
+      - First-time homebuyer
+      - Repeat buyer
+      - Investor
+      - Other
+      required: true
+    - id: 11
+      name: purchase_timeline
+      label: Purchase Timeline
+      hint: When do you want to buy?
+      type: select_one
+      options:
+      - 0-30 days
+      - 30-60 days
+      - 60-90 days
+      - 90-180 days
+      - 180+ days
+      - Flexible
+      required: true
+    - id: 12
+      name: financing_status
+      label: Financing Status
+      hint: null
+      type: select_one
+      options:
+      - Pre-approved
+      - Pre-qualified
+      - Not yet approved
+      - Cash buyer
+      - Other
+      required: true
+    - id: 13
+      name: max_purchase_price
+      label: Maximum Purchase Price
+      hint: In USD or local currency
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: property_type_preference
+      label: Property Type Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Single-family home
+      - Townhouse
+      - Condo
+      - Multi-family
+      - Land
+      - New construction
+      - Other
+      required: true
+    - id: 15
+      name: geographic_area
+      label: Preferred Geographic Area
+      hint: Cities or neighborhoods
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: key_features
+      label: Key Features or Requirements
+      hint: Bedrooms, bathrooms, garage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agent_responsibilities
+      label: Agent Responsibilities Understood
+      hint: Review services and duties
+      type: select_one
+      options:
+      - Yes, I understand
+      - Need clarification
+      - false
+      required: true
+    - id: 18
+      name: commission_discussion
+      label: Commission and Compensation Discussed
+      hint: null
+      type: select_one
+      options:
+      - Yes, discussed and agreed
+      - Discussed, need clarification
+      - Not yet discussed
+      required: true
+    - id: 19
+      name: consent_to_represent
+      label: I Consent to Be Represented by This Agent
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - I need to think about it
+      - false
+      required: true
+    - id: 20
+      name: acknowledge_terms
+      label: I Acknowledge and Accept All Terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
