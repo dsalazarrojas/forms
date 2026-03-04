@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Happiness Survey
+    pages:
+    - id: 1
+      name: employee_happiness_survey
+      label: Employee Happiness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How would you rate your overall happiness at work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: Do you feel supported by your manager?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - A lot
+      required: false
+    - id: 4
+      name: question_3
+      label: Are you satisfied with the level of autonomy you have in your work?
+      hint: null
+      type: select_multiple
+      options:
+      - Not satisfied
+      - Somewhat satisfied
+      - Satisfied
+      required: false
+    - id: 5
+      name: question_4
+      label: How many hours do you spend working on your tasks?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: What is your role in the company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: How do you feel about the company culture?
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Neutral
+      - Positive
+      required: false
+    - id: 8
+      name: question_7
+      label: How do you feel about your work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Neutral
+      - Positive
+      required: false
+    - id: 9
+      name: question_8
+      label: Have you ever thought about leaving the company?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: question_9
+      label: Why did you feel the desire to leave the company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question_10
+      label: What is the primary motivation for your departure?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_11
+      label: Do you have any suggestions for improving the workplace?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_12
+      label: Is there anything else you would like to share with us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_13
+      label: Is there anything else you would like to share with us?
+      hint: null
+      type: text
+      options: []
+      required: false

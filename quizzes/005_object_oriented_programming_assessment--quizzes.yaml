@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Object Oriented Programming Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: programming_language
+      label: programming-language
+      hint: null
+      type: select_one
+      options:
+      - '{''code'': ''C++''}'
+      - '{''code'': ''Java''}'
+      - '{''code'': ''Python''}'
+      - '{''code'': ''Python 2''}'
+      - '{''code'': ''Python''}'
+      required: false
+    - id: 3
+      name: programming_concepts
+      label: programming-concepts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: programming_language_programming_concept
+      label: programming-language-programming-concept
+      hint: null
+      type: select_multiple
+      options:
+      - '{''code'': ''encapsulation''}'
+      - '{''code'': ''abstraction''}'
+      - '{''code'': ''polymorphism''}'
+      required: false
+    - id: 5
+      name: oop_characteristics
+      label: oop-characteristics
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: inheritance_example
+      label: inheritance-example
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: example_question_1
+      label: example-question-1
+      hint: null
+      type: select_one
+      options:
+      - '{''code'': ''option1''}'
+      - '{''code'': ''option2''}'
+      required: false
+    - id: 8
+      name: example_question_2
+      label: example-question-2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''code'': ''option1''}'
+      - '{''code'': ''option2''}'
+      required: false
+    - id: 9
+      name: code_review
+      label: code-review
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: example_question_3
+      label: example-question-3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: example_question_4
+      label: example-question-4
+      hint: null
+      type: select_one
+      options:
+      - '{''code'': ''option1''}'
+      - '{''code'': ''option2''}'
+      required: false
+    - id: 15
+      name: example_question_5
+      label: example-question-5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''code'': ''option1''}'
+      - '{''code'': ''option2''}'
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Owner Information Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: owner name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_email
+      label: owner email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: owner_phone
+      label: owner phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - Property Management Company
+      - Real Estate Company
+      - Other
+      required: false
+    - id: 6
+      name: property_year_built
+      label: property year built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_size_sqft
+      label: property size sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_management
+      label: property management
+      hint: null
+      type: select_multiple
+      options:
+      - Property Management Company
+      - Real Estate Company
+      - Other
+      required: false
+    - id: 9
+      name: property_manager
+      label: property manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_owner_notes
+      label: property owner notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_preference
+      label: contact preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false

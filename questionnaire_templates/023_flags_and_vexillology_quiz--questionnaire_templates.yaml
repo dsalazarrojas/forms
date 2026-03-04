@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: flags_and_vexillology_quiz
+    pages:
+    - id: 1
+      name: flag_question
+      label: flag_question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vexillology_quiz
+      label: vexillology_quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: class_club_or_trivia_night
+      label: class_club_or_trivia_night
+      hint: null
+      type: select_one
+      options:
+      - Class
+      - Club
+      - Trivia Night
+      required: false
+    - id: 4
+      name: number_of_participants
+      label: number_of_participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: participant_age_range_start
+      label: participant_age_range_start
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: participant_age_range_end
+      label: participant_age_range_end
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: participant_country
+      label: participant_country
+      hint: null
+      type: select_multiple
+      options:
+      - US
+      - Canada
+      - UK
+      - Ireland
+      - Australia
+      - New Zealand
+      - South Africa
+      - Germany
+      - France
+      - China
+      - Japan
+      - Korea
+      - Brazil
+      required: false
+    - id: 8
+      name: flag_colour
+      label: flag_colour
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: flag_shape
+      label: flag_shape
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: flag_symbol
+      label: flag_symbol
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: flag_position
+      label: flag_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vexillology_quiz_type
+      label: vexillology_quiz_type
+      hint: null
+      type: select_one
+      options:
+      - Class
+      - Club
+      - Trivia Night
+      required: false
+    - id: 13
+      name: quiz_type_details
+      label: quiz_type_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Non-binary
+      required: false
+    - id: 15
+      name: participant_gender_other
+      label: participant_gender_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_organisation
+      label: participant_organisation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quiz_organisation
+      label: quiz_organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: flag_of_interest
+      label: flag_of_interest
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - White
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      - Grey
+      - Orange
+      - Purple
+      required: false
+    - id: 22
+      name: flag_of_interest_other
+      label: flag_of_interest_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_flags
+      label: additional_flags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: flag_of_interest_details
+      label: flag_of_interest_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true

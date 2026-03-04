@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bison Premier Purchase Agreement
+    pages:
+    - id: 1
+      name: agreement_parties_header
+      label: -- Agreement Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_names
+      label: Buyer Names
+      hint: Enter all buyers legal names
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: purchase_details_header
+      label: -- Purchase Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_description
+      label: Item Description
+      hint: Detailed description of the bison or products
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_price
+      label: Total Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: terms_header
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: e.g. Net 30, Cash on Delivery
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_date
+      label: Expected Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Standard Shipping
+      - Express Delivery
+      required: true
+    - id: 14
+      name: signatures_header
+      label: -- Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: seller_signature_name
+      label: Seller Signature Name
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: buyer_signature_name
+      label: Buyer Signature Name
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true

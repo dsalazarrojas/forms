@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civic Space Freedom Perception Survey
+    pages:
+      - id: 1
+        name: respondent_country
+        label: Country of Residence
+        hint: Where do you currently live
+        type: select_one
+        options:
+          - United States
+          - Canada
+          - United Kingdom
+          - European Union
+          - Latin America
+          - Africa
+          - Asia
+          - Middle East
+          - Oceania
+          - Other
+        required: true
+      - id: 2
+        name: region_type
+        label: Type of Area
+        hint: Where you reside
+        type: select_one
+        options:
+          - Major city
+          - Medium city
+          - Small town
+          - Rural area
+          - Suburban area
+        required: true
+      - id: 3
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - 18-24 years
+          - 25-34 years
+          - 35-44 years
+          - 45-54 years
+          - 55-64 years
+          - 65+ years
+        required: true
+      - id: 4
+        name: occupation_category
+        label: Occupation Category
+        hint: Select your primary occupation type
+        type: select_one
+        options:
+          - Government or Public Sector
+          - Private Sector
+          - Nonprofit or NGO
+          - Education
+          - Healthcare
+          - Student
+          - Retired
+          - Unemployed
+          - Self-employed
+          - Other
+        required: true
+      - id: 5
+        name: assembly_freedom
+        label: How free are people to assemble peacefully
+        hint: In your country or region
+        type: select_one
+        options:
+          - Completely free
+          - Mostly free
+          - Somewhat restricted
+          - Mostly restricted
+          - Completely restricted
+          - Unsure
+        required: true
+      - id: 6
+        name: expression_freedom
+        label: How free are people to express opinions
+        hint: Including criticism of government
+        type: select_one
+        options:
+          - Completely free
+          - Mostly free
+          - Somewhat restricted
+          - Mostly restricted
+          - Completely restricted
+          - Unsure
+        required: true
+      - id: 7
+        name: association_freedom
+        label: How free are people to form organizations
+        hint: NGOs, advocacy groups, unions
+        type: select_one
+        options:
+          - Completely free
+          - Mostly free
+          - Somewhat restricted
+          - Mostly restricted
+          - Completely restricted
+          - Unsure
+        required: true
+      - id: 8
+        name: press_freedom
+        label: How free is the press in your region
+        hint: To report without censorship
+        type: select_one
+        options:
+          - Completely free
+          - Mostly free
+          - Somewhat restricted
+          - Mostly restricted
+          - Completely restricted
+          - Unsure
+        required: true
+      - id: 9
+        name: internet_freedom
+        label: How free is internet access
+        hint: Without government censorship or monitoring
+        type: select_one
+        options:
+          - Completely free
+          - Mostly free
+          - Somewhat restricted
+          - Mostly restricted
+          - Completely restricted
+          - Unsure
+        required: true
+      - id: 10
+        name: protest_experience
+        label: Have you participated in a public protest
+        hint: In the past 5 years
+        type: select_one
+        options:
+          - Yes, multiple times
+          - Yes, once or twice
+          - No, but would like to
+          - No, by choice
+          - No, due to restrictions
+        required: true
+      - id: 11
+        name: protest_safety
+        label: How safe do protesters feel
+        hint: From government retaliation or violence
+        type: select_one
+        options:
+          - Very safe
+          - Somewhat safe
+          - Neutral
+          - Somewhat unsafe
+          - Very unsafe
+          - Unsure
+        required: true
+      - id: 12
+        name: ngo_registration
+        label: How difficult is it to register an NGO
+        hint: In your country
+        type: select_one
+        options:
+          - Very easy
+          - Somewhat easy
+          - Moderate difficulty
+          - Somewhat difficult
+          - Very difficult
+          - Not allowed
+          - Unsure
+        required: true
+      - id: 13
+        name: funding_restrictions
+        label: Are there restrictions on NGO funding
+        hint: Especially foreign funding
+        type: select_one
+        options:
+          - No restrictions
+          - Minor restrictions
+          - Moderate restrictions
+          - Severe restrictions
+          - Complete ban
+          - Unsure
+        required: true
+      - id: 14
+        name: surveillance_concern
+        label: How concerned are you about government surveillance
+        hint: Of civic activities
+        type: select_one
+        options:
+          - Very concerned
+          - Somewhat concerned
+          - Neutral
+          - Not very concerned
+          - Not concerned at all
+        required: true
+      - id: 15
+        name: self_censorship
+        label: Do you ever self-censor your opinions
+        hint: On civic or political matters
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 16
+        name: civic_space_trend
+        label: Is civic space improving or declining
+        hint: In your region over the past 5 years
+        type: select_one
+        options:
+          - Significantly improving
+          - Somewhat improving
+          - Staying the same
+          - Somewhat declining
+          - Significantly declining
+          - Unsure
+        required: true
+      - id: 17
+        name: improvement_suggestions
+        label: What would improve civic freedom in your region
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Legal reforms
+          - Government accountability
+          - Media independence
+          - Judicial independence
+          - Police reform
+          - Education and awareness
+          - International pressure
+          - Grassroots organizing
+          - Technology access
+          - Other
+        required: false
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Share your perspective on civic space
+        type: text
+        options: []
+        required: false

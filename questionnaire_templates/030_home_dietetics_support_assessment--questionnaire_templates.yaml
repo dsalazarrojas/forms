@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_dietetics_support_assessment
+    pages:
+    - id: 1
+      name: home_dietetics_support_assessment_questions
+      label: Home Dietetics Support Assessment Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical-history
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: height_and_weight
+      label: height-and-weight
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''5\''4"-8\''4" (162-198 cm)'', ''label'': ''5\''4"-8\''4"
+        (162-198 cm)''}'
+      - Other
+      required: false
+    - id: 4
+      name: medication_list
+      label: medication-list
+      hint: List of medications
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Select medication''}'
+      - '{''value'': 2, ''text'': ''List medication''}'
+      required: false
+    - id: 5
+      name: allergies
+      label: allergies
+      hint: Allergies
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Food'', ''label'': ''Food''}'
+      - '{''value'': 2, ''text'': ''Environmental'', ''label'': ''Environmental''}'
+      - '{''value'': 3, ''text'': ''Medical'', ''label'': ''Medical''}'
+      required: false
+    - id: 6
+      name: health_problems
+      label: health-problems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Cardiovascular'', ''label'': ''Cardiovascular''}'
+      - '{''value'': 2, ''text'': ''Diabetes'', ''label'': ''Diabetes''}'
+      - '{''value'': 3, ''text'': ''Digestive'', ''label'': ''Digestive''}'
+      - '{''value'': 4, ''text'': ''Neurological'', ''label'': ''Neurological''}'
+      - '{''value'': 5, ''text'': ''Respiratory'', ''label'': ''Respiratory''}'
+      required: false
+    - id: 7
+      name: health_insurance
+      label: health-insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''Private'', ''label'': ''Private''}'
+      - Other
+      required: false
+    - id: 8
+      name: employment_status
+      label: employment-status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''Employed'', ''label'': ''Employed''}'
+      - '{''value'': 2, ''text'': ''Retiree'', ''label'': ''Retiree''}'
+      - '{''value'': 3, ''text'': ''Unemployed'', ''label'': ''Unemployed''}'
+      required: false
+    - id: 9
+      name: education_level
+      label: education-level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Bachelor'', ''label'': ''Bachelor''}'
+      - '{''value'': 2, ''text'': ''Master'', ''label'': ''Master''}'
+      - '{''value'': 3, ''text'': ''Doctoral'', ''label'': ''Doctoral''}'
+      required: false
+    - id: 10
+      name: family_status
+      label: family-status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Single'', ''label'': ''Single''}'
+      - '{''value'': 2, ''text'': ''Divorced'', ''label'': ''Divorced''}'
+      - '{''value'': 3, ''text'': ''Married'', ''label'': ''Married''}'
+      - '{''value'': 4, ''text'': ''Widowed'', ''label'': ''Widowed''}'
+      required: false
+    - id: 11
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: medical_history_2
+      label: medical-history-2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: blood_pressure
+      label: blood-pressure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''Low'', ''label'': ''Low''}'
+      - '{''value'': 2, ''text'': ''Normal'', ''label'': ''Normal''}'
+      - '{''value'': 3, ''text'': ''High'', ''label'': ''High''}'
+      required: false

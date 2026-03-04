@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduate Student Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: program_type
+      label: Program type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gpa
+      label: G.P.A.
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: graduation_year
+      label: Graduation year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: graduation_date
+      label: Graduation date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 13
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: program_satisfaction
+      label: Program satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

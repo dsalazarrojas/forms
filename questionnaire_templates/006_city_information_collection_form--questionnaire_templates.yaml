@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Information Collection Form
+    pages:
+    - id: 1
+      name: city_basics_header
+      label: -- Basic City Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: city_name
+      label: Name of the City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: state_province_region
+      label: State or Province or Region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: population_size
+      label: Total Population
+      hint: Current estimate
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: city_area_km
+      label: Total Area (sq km)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: demographics_header
+      label: -- Economy and Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_economic_sectors
+      label: Primary Economic Sectors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology
+      - Manufacturing
+      - Tourism
+      - Agriculture
+      - Finance
+      - Healthcare
+      required: false
+    - id: 9
+      name: median_household_income
+      label: Median Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: infrastructure_header
+      label: -- Infrastructure and Attractions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: public_transport_types
+      label: Available Public Transportation
+      hint: null
+      type: select_multiple
+      options:
+      - Subway/Metro
+      - Bus
+      - Light Rail/Tram
+      - Ferry
+      - Shared Bicycles
+      required: false
+    - id: 12
+      name: major_landmarks
+      label: Major Landmarks or Attractions
+      hint: List top 3
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: climate_type
+      label: Climate Type
+      hint: null
+      type: select_one
+      options:
+      - Tropical
+      - Dry/Arid
+      - Temperate
+      - Continental
+      - Polar
+      required: false
+    - id: 14
+      name: data_source
+      label: Source of this Information
+      hint: e.g., Census 2020, City Website
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_notes
+      label: Additional Researcher Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: collection_date
+      label: Date of Collection
+      hint: null
+      type: date
+      options: []
+      required: true

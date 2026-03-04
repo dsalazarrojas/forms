@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Health Screening Questionnaire
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_last_screening
+      label: Date of Last Screening
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fever''}'
+      - '{''value'': ''Cough''}'
+      - '{''value'': ''Sore Throat''}'
+      required: false
+    - id: 6
+      name: has_symptoms
+      label: Has Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 7
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: contact_history
+      label: Contact History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 9
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Healthy''}'
+      - '{''value'': ''Sick''}'
+      required: false
+    - id: 10
+      name: restaurant_id
+      label: Restaurant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

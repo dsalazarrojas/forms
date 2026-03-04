@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: staff_shift_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: break_duration
+      label: break_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: break_start_time
+      label: break_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: break_end_time
+      label: break_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: staff_notes
+      label: staff_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_suggestions
+      label: staff_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - assigned_tool1
+      - assigned_tool2
+      required: false

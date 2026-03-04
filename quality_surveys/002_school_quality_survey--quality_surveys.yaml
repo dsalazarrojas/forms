@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Quality Survey
+    pages:
+    - id: 1
+      name: school_quality_survey
+      label: school_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: school_administration
+      label: school_admin
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfactory''}'
+      - '{''value'': ''fairly_satisfactory''}'
+      - '{''value'': ''very_unsatisfactory''}'
+      required: false
+    - id: 3
+      name: school_facilities
+      label: school_facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: teachers_quality
+      label: teachers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_support
+      label: teacher_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_life
+      label: student_life
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_support_services
+      label: student_support_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_career_services
+      label: student_career_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_academic_services
+      label: student_academic_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: school_location
+      label: school_location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''urban''}'
+      - '{''value'': ''rural''}'
+      required: false
+    - id: 11
+      name: school_size
+      label: school_size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''small''}'
+      - '{''value'': ''large''}'
+      required: false
+    - id: 12
+      name: student_population
+      label: student_population
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Rooms Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: room_type
+      label: What type of room
+      hint: null
+      type: select_one
+      options:
+      - Living room
+      - Bedroom
+      - Kitchen
+      - Bathroom
+      - Hallway
+      required: true
+    - id: 3
+      name: number_of_rooms
+      label: Number of rooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: room_layout
+      label: Room layout
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - L-shaped
+      - U-shaped
+      required: true
+    - id: 5
+      name: room_features
+      label: What features does the room have?
+      hint: null
+      type: select_multiple
+      options:
+      - Window
+      - Door
+      - TV
+      - Bed
+      - Desk
+      required: true
+    - id: 6
+      name: room_use
+      label: How do you use the room?
+      hint: null
+      type: select_multiple
+      options:
+      - Living room
+      - Sleeping area
+      - Storage area
+      - Other
+      required: true
+    - id: 7
+      name: room_size
+      label: How big is the room?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: room_shape
+      label: Room shape
+      hint: null
+      type: select_one
+      options:
+      - Square
+      - Rectangle
+      - L-shape
+      - Other
+      required: true
+    - id: 9
+      name: room_height
+      label: How tall is the room?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: room_width
+      label: How wide is the room?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: room_length
+      label: How long is the room?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: room_depth
+      label: How deep is the room?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: room_height_units
+      label: Room height unit
+      hint: null
+      type: select_one
+      options:
+      - Feet
+      - Meters
+      - Inches
+      required: true
+    - id: 14
+      name: room_width_units
+      label: Room width unit
+      hint: null
+      type: select_one
+      options:
+      - Feet
+      - Meters
+      - Inches
+      required: true
+    - id: 15
+      name: room_length_units
+      label: Room length unit
+      hint: null
+      type: select_one
+      options:
+      - Feet
+      - Meters
+      - Inches
+      required: true
+    - id: 16
+      name: room_depth_units
+      label: Room depth unit
+      hint: null
+      type: select_one
+      options:
+      - Feet
+      - Meters
+      - Inches
+      required: true
+    - id: 17
+      name: room_orientation
+      label: Room orientation
+      hint: null
+      type: select_one
+      options:
+      - North-facing
+      - South-facing
+      - East-facing
+      - West-facing
+      required: true
+    - id: 18
+      name: room_view
+      label: Room view
+      hint: null
+      type: select_multiple
+      options:
+      - View
+      - No View
+      - Partial View
+      required: true
+    - id: 19
+      name: room_illum
+      label: Room illumination
+      hint: null
+      type: select_multiple
+      options:
+      - Light
+      - Dark
+      - Dim
+      required: true
+    - id: 20
+      name: room_smell
+      label: Room smell
+      hint: null
+      type: select_multiple
+      options:
+      - Pleasant
+      - Unpleasant
+      - Neutral
+      required: true
+    - id: 21
+      name: room_taste
+      label: Room taste
+      hint: null
+      type: select_multiple
+      options:
+      - Pleasant
+      - Unpleasant
+      - Neutral
+      required: true
+    - id: 22
+      name: room_touch
+      label: Room touch
+      hint: null
+      type: select_multiple
+      options:
+      - Pleasant
+      - Unpleasant
+      - Neutral
+      required: true
+    - id: 23
+      name: room_sound
+      label: Room sound
+      hint: null
+      type: select_multiple
+      options:
+      - Pleasant
+      - Unpleasant
+      - Neutral
+      required: true
+    - id: 24
+      name: room_feel
+      label: Room feel
+      hint: null
+      type: select_multiple
+      options:
+      - Pleasant
+      - Unpleasant
+      - Neutral
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Manager Welcome Quiz
+    pages:
+    - id: 1
+      name: new_manager_welcome_quiz
+      label: New Manager Welcome Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_info
+      label: Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporting_lines
+      label: Reporting Lines
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Line Manager''}'
+      - '{''value'': ''Team Lead''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: manager_role
+      label: Manager Role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''HR''}'
+      - '{''value'': ''IT''}'
+      - '{''value'': ''Admin''}'
+      required: false
+    - id: 5
+      name: years_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: manager_experience
+      label: Manager Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1-5''}'
+      - '{''value'': ''6-10''}'
+      - '{''value'': ''11-15''}'
+      - '{''value'': ''More than 15''}'
+      required: false
+    - id: 9
+      name: reporting_lines_manager_title
+      label: Reporting Lines Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_lines_manager_name
+      label: Reporting Lines Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: reporting_lines_name
+      label: Reporting Lines Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_lines_email
+      label: Reporting Lines Email
+      hint: null
+      type: email
+      options: []
+      required: false

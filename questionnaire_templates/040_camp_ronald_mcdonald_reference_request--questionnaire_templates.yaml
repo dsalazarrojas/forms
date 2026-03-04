@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Ronald McDonald Reference Request
+    pages:
+    - id: 1
+      name: rm_reference_intro_header
+      label: -- Volunteer - Staff Reference Questionnaire --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rm_applicant_name
+      label: Name of Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rm_reference_name_full
+      label: Your Full Name (Reference)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rm_reference_relationship
+      label: Relationship to Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rm_length_known
+      label: How long have you known the applicant?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rm_character_traits_eval_header
+      label: -- Personal Traits and Skills --
+      hint: Please evaluate the applicant on the following
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rm_trait_compassion_empathy
+      label: Compassion and Empathy
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 8
+      name: rm_trait_patience_flexibility
+      label: Patience and Flexibility
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 9
+      name: rm_trait_reliability_maturity
+      label: Reliability and Maturity
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 10
+      name: rm_special_needs_experience
+      label: Experience with Individuals with Special Needs
+      hint: Is the applicant comfortable and capable in this environment?
+      type: select_one
+      options:
+      - Highly Capable
+      - Capable
+      - Minimal Experience
+      - No Experience
+      required: true
+    - id: 11
+      name: rm_youth_safety_suitability
+      label: Suitability for Working in a Pediatric Health Environment
+      hint: Do you have any concerns regarding their interaction with ill children?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rm_teamwork_collaboration
+      label: Teamwork and Collaboration Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent Team Player
+      - Good
+      - Prefer Individual Work
+      required: true
+    - id: 13
+      name: rm_overall_recommendation_status
+      label: Overall Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Recommend with reservations
+      - Do not recommend
+      required: true
+    - id: 14
+      name: rm_reference_additional_comments
+      label: Additional Comments
+      hint: Any other information we should know?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rm_reference_contact_consent
+      label: May we contact you for more information?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: rm_reference_phone_lead
+      label: Reference Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rm_reference_digital_sig
+      label: Electronic Signature (Typed Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: rm_reference_timestamp_date
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

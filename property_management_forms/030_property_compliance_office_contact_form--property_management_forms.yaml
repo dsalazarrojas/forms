@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Compliance Office Contact Form
+    pages:
+    - id: 1
+      name: property_compliance_office_contact_form
+      label: property_compliance_office_contact_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: issue_details
+      label: issue_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: documentation_upload
+      label: documentation_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_office
+      label: contact_office
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Phone''}'
+      - '{''value'': 2, ''label'': ''Email''}'
+      - '{''value'': 3, ''label'': ''In-person''}'
+      required: true
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Commercial''}'
+      - '{''value'': 2, ''label'': ''Residential''}'
+      - '{''value'': 3, ''label'': ''Mixed Use''}'
+      required: false
+    - id: 10
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: staff_info
+      label: staff_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staff_email
+      label: staff_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: staff_phone
+      label: staff_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_office_hours
+      label: staff_office_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tenant_info
+      label: tenant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_info
+      label: owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_comments
+      label: staff_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: staff_comments_2
+      label: staff_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit_2
+      label: submit_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tenant_comments
+      label: tenant_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: owner_comments
+      label: owner_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submit_3
+      label: submit_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Under Review''}'
+      - '{''value'': 2, ''label'': ''Approved''}'
+      - '{''value'': 3, ''label'': ''Disapproved''}'
+      - '{''value'': 4, ''label'': ''Pending''}'
+      - '{''value'': 5, ''label'': ''Unknown''}'
+      required: false
+    - id: 25
+      name: submit_4
+      label: submit_4
+      hint: null
+      type: text
+      options: []
+      required: false

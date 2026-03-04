@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: (INFINITY LEAD GEN) Onboarding Feedback
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Provide a valid work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: e.g., Sales, Engineering
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: Your official title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hire_date
+      label: Date of hire
+      hint: Date you started working
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: years_employed
+      label: Years at organization
+      hint: Approximate years
+      type: integer
+      options: []
+      required: false
+    - id: 8
+      name: section_header_onboarding_experience
+      label: '--- Onboarding Experience ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: onboarding_start_date
+      label: Onboarding start date
+      hint: Start date of onboarding program
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: onboarding_end_date
+      label: Onboarding end date
+      hint: End date of onboarding program
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager name
+      hint: Name of your direct manager
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_completed
+      label: Training completed
+      hint: Did you complete all required training?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: training_feedback
+      label: Training feedback
+      hint: Any feedback on training sessions?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: satisfaction
+      label: Satisfaction with onboarding
+      hint: How satisfied are you with the onboarding experience?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: management_rating
+      label: Management communication rating
+      hint: Rate communication from management during onboarding
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: growth_opportunities
+      label: Support for professional development
+      hint: Do you feel supported in professional development during onboarding?
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 17
+      name: work_life_balance
+      label: Work‑life balance rating
+      hint: Rate your work‑life balance (1-10) during onboarding
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: team_integration
+      label: Team integration rating
+      hint: Rate how well you were integrated into the team (1-10)
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: preferred_learning_style
+      label: Preferred learning style
+      hint: Your preferred learning style
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Kinesthetic
+      - Reading/Writing
+      required: false
+    - id: 20
+      name: feedback_channel_preference
+      label: Preferred feedback channels
+      hint: Preferred channels for future feedback
+      type: select_multiple
+      options:
+      - Email
+      - Chat
+      - In-person
+      - Survey
+      required: false
+    - id: 21
+      name: would_recommend
+      label: Recommend onboarding
+      hint: Would you recommend this onboarding program to new hires?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: anonymous_feedback
+      label: Anonymous feedback preference
+      hint: Do you prefer to submit feedback anonymously?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: improvement_suggestions
+      label: Improvement suggestions
+      hint: Suggestions to improve onboarding
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other comments or notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: feedback_submission_date
+      label: Feedback submission date
+      hint: Date you are submitting this feedback
+      type: date
+      options: []
+      required: false

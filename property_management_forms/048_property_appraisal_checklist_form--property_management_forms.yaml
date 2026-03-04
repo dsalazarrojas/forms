@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Appraisal Checklist Form
+    pages:
+    - id: 1
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''single_family''}'
+      - '{''value'': ''single_condo''}'
+      - '{''value'': ''single_condo_unit''}'
+      - '{''value'': ''townhouse''}'
+      - '{''value'': ''apartment''}'
+      required: false
+    - id: 3
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''vacant''}'
+      - '{''value'': ''occupied''}'
+      - '{''value'': ''under_contract''}'
+      - '{''value'': ''hold''}'
+      required: false
+    - id: 5
+      name: property_status_notes
+      label: property_status_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: condition_of_structures
+      label: condition_of_structures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 7
+      name: condition_of_grounds
+      label: condition_of_grounds
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 8
+      name: condition_of_roof
+      label: condition_of_roof
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 9
+      name: condition_of_plumbing
+      label: condition_of_plumbing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 10
+      name: condition_of_electricity
+      label: condition_of_electricity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 11
+      name: condition_of_heating
+      label: condition_of_heating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 12
+      name: condition_of_walls
+      label: condition_of_walls
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 13
+      name: condition_of_floors
+      label: condition_of_floors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 14
+      name: condition_of_windows
+      label: condition_of_windows
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 15
+      name: condition_of_doors
+      label: condition_of_doors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 16
+      name: condition_of_paint
+      label: condition_of_paint
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 17
+      name: condition_of_flooring
+      label: condition_of_flooring
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 18
+      name: condition_of_ceiling
+      label: condition_of_ceiling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 19
+      name: condition_of_lighting
+      label: condition_of_lighting
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 20
+      name: condition_of_siding
+      label: condition_of_siding
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 21
+      name: condition_of_roof_structures
+      label: condition_of_roof_structures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 22
+      name: condition_of_pavement
+      label: condition_of_pavement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 23
+      name: condition_of_fence
+      label: condition_of_fence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 24
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Linking Words Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: quiz_number
+      label: Quiz Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: question1
+      label: Question 1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 7
+      name: question2
+      label: Question 2
+      hint: null
+      type: select_one
+      options:
+      - option6
+      - option7
+      - option8
+      - option9
+      - option10
+      required: true
+    - id: 8
+      name: question3
+      label: Question 3
+      hint: null
+      type: select_one
+      options:
+      - option11
+      - option12
+      - option13
+      - option14
+      - option15
+      required: true
+    - id: 9
+      name: question4
+      label: Question 4
+      hint: null
+      type: select_one
+      options:
+      - option16
+      - option17
+      - option18
+      - option19
+      - option20
+      required: true
+    - id: 10
+      name: question5
+      label: Question 5
+      hint: null
+      type: select_multiple
+      options:
+      - option21
+      - option22
+      - option23
+      required: true
+    - id: 11
+      name: question6
+      label: Question 6
+      hint: null
+      type: select_multiple
+      options:
+      - option24
+      - option25
+      - option26
+      required: true

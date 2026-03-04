@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automatic Thought Observation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automatic Thought Observation Form
+      hint: Record and examine your automatic thoughts
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: Current time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: situation
+      label: Situation
+      hint: What was happening when you had this thought
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mood_before
+      label: Mood Before
+      hint: How were you feeling before
+      type: select_one
+      options:
+      - Happy
+      - Calm
+      - Neutral
+      - Anxious
+      - Sad
+      - Angry
+      - Frustrated
+      - Overwhelmed
+      - Other
+      required: true
+    - id: 9
+      name: mood_intensity
+      label: Mood Intensity
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: automatic_thought
+      label: Automatic Thought
+      hint: What thought went through your mind
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: thought_category
+      label: Thought Category
+      hint: What type of thought
+      type: select_one
+      options:
+      - All or Nothing Thinking
+      - Overgeneralization
+      - Mental Filter
+      - Disqualifying the Positive
+      - Jumping to Conclusions
+      - Mind Reading
+      - Fortune Telling
+      - Magnification or Minimization
+      - Emotional Reasoning
+      - Should Statements
+      - Labeling
+      - Personalization
+      - Other
+      required: false
+    - id: 12
+      name: emotions_felt
+      label: Emotions Felt
+      hint: What emotions did you experience
+      type: select_multiple
+      options:
+      - Anxiety
+      - Sadness
+      - Anger
+      - Guilt
+      - Shame
+      - Fear
+      - Frustration
+      - Disappointment
+      - Loneliness
+      - Hopelessness
+      - Other
+      required: true
+    - id: 13
+      name: emotion_intensity
+      label: Emotion Intensity
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: physical_sensations
+      label: Physical Sensations
+      hint: Any bodily sensations noticed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: behavioral_response
+      label: Behavioral Response
+      hint: What did you do in response
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evidence_supporting
+      label: Evidence Supporting the Thought
+      hint: What facts support this thought
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: evidence_against
+      label: Evidence Against the Thought
+      hint: What facts contradict this thought
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: alternative_thought
+      label: Alternative or Balanced Thought
+      hint: What is a more balanced perspective
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: alternative_belief
+      label: How Much Do You Believe Alternative Thought
+      hint: Rate from 1 to 100 percent
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: reframed_emotion
+      label: Emotion After Reframing
+      hint: How do you feel now
+      type: select_one
+      options:
+      - Much Better
+      - Somewhat Better
+      - Same
+      - Somewhat Worse
+      - Much Worse
+      required: false
+    - id: 21
+      name: reframed_intensity
+      label: New Emotion Intensity
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: cognitive_distortions
+      label: Cognitive Distortions Identified
+      hint: Which distortions were present
+      type: select_multiple
+      options:
+      - Catastrophizing
+      - Black and White Thinking
+      - Personalization
+      - Control Fallacies
+      - Fairness Fallacy
+      - Blaming
+      - Always Being Right
+      - Heaven Reward Fallacy
+      - None Identified
+      required: false
+    - id: 23
+      name: triggers
+      label: Potential Triggers
+      hint: What might have triggered this
+      type: select_multiple
+      options:
+      - Work Stress
+      - Relationship Issue
+      - Financial Concern
+      - Health Worry
+      - Past Trauma Reminder
+      - Fatigue
+      - Hunger
+      - Environmental Factor
+      - Other
+      required: false
+    - id: 24
+      name: coping_strategies
+      label: Coping Strategies Used
+      hint: What helped you cope
+      type: select_multiple
+      options:
+      - Deep Breathing
+      - Mindfulness
+      - Talking to Someone
+      - Journaling
+      - Exercise
+      - Meditation
+      - Distraction
+      - Problem Solving
+      - None
+      required: false
+    - id: 25
+      name: lesson_learned
+      label: Lesson Learned
+      hint: What did you learn from this
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: action_plan
+      label: Action Plan
+      hint: What will you do differently
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: therapist_notes
+      label: Therapist Notes
+      hint: For therapist use only
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: follow_up_needed
+      label: Follow-Up Needed
+      hint: Is follow-up required
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 29
+      name: session_number
+      label: Session Number
+      hint: If part of therapy
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: overall_insight
+      label: Overall Insight
+      hint: Any additional insights
+      type: text
+      options: []
+      required: false

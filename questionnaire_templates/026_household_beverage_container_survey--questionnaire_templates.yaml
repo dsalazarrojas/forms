@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Beverage Container Survey
+    pages:
+    - id: 1
+      name: household_beverage_container_survey_1
+      label: What is the main reason why you drink water?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_beverage_container_survey_2
+      label: Do you drink coffee or tea?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''coffee''}'
+      - '{''value'': ''tea''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 3
+      name: household_beverage_container_survey_3
+      label: Do you have a coffee maker at home?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 4
+      name: household_beverage_container_survey_4
+      label: What type of coffee or tea do you drink?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''coffee''}'
+      - '{''value'': ''tea''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 5
+      name: household_beverage_container_survey_5
+      label: How many bottles of water do you have in your house?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: household_beverage_container_survey_6
+      label: What is the type of container for your water?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''plastic''}'
+      - '{''value'': ''glass''}'
+      - '{''value'': ''paper''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 7
+      name: household_beverage_container_survey_7
+      label: Have you ever drank from a tap?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: household_beverage_container_survey_8
+      label: How many bottles of juice do you have in your house?
+      hint: null
+      type: number
+      options: []
+      required: false

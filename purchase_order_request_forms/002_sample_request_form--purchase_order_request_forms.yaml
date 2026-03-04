@@ -1,0 +1,50 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: sample_request_form
+    pages:
+    - id: 1
+      name: purchase_order_request_fields
+      label: Purchase Order Request Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_request_details
+      label: Sample Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sample_request_fields_1
+      label: Sample Request Fields 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Product 1''}'
+      - '{''value'': 2, ''label'': ''Product 2''}'
+      - '{''value'': 3, ''label'': ''Product 3''}'
+      required: false
+    - id: 4
+      name: sample_request_fields_2
+      label: Sample Request Fields 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Product 1''}'
+      - '{''value'': 2, ''label'': ''Product 2''}'
+      - '{''value'': 3, ''label'': ''Product 3''}'
+      required: false

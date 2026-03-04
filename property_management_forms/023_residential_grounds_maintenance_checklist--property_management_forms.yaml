@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Grounds Maintenance Checklist
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lawn_maintenance
+      label: Lawn Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - Lawn mowing
+      - Weed control
+      - Irrigation system check
+      - Fertilization
+      - Pest control
+      - Tree trimming
+      - Sod repair
+      required: false
+    - id: 4
+      name: tree_trimming
+      label: Tree Trimming
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: water_feature_installation
+      label: Water Feature Installation
+      hint: null
+      type: select_multiple
+      options:
+      - Pool
+      - Sculpture fountain
+      - Waterfall
+      - Water feature repair
+      required: false
+    - id: 6
+      name: water_feature_maintenance
+      label: Water Feature Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - Pool maintenance
+      - Sculpture fountain maintenance
+      - Waterfall maintenance
+      required: false
+    - id: 7
+      name: irrigation_system
+      label: Irrigation System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: fencing
+      label: Fencing
+      hint: null
+      type: select_multiple
+      options:
+      - Fencing repair or replacement
+      - Gates repair or replacement
+      required: false
+    - id: 9
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

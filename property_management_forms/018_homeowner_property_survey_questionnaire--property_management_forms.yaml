@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowner Property Survey Questionnaire
+    pages:
+    - id: 1
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - '{''property_status'': ''Active''}'
+      - '{''property_status'': ''Sold''}'
+      - '{''property_status'': ''Leased''}'
+      required: false
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''property_type'': ''Single Family Home''}'
+      - '{''property_type'': ''Townhouse''}'
+      - '{''property_type'': ''Condo''}'
+      required: false
+    - id: 4
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_manager_name
+      label: property_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_manager_phone
+      label: property_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_details_1
+      label: property_details_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_details_2
+      label: property_details_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_details_3
+      label: property_details_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: property_details_4
+      label: property_details_4
+      hint: null
+      type: note
+      options: []
+      required: false

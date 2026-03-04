@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Browsing History Survey
+    pages:
+      - id: 1
+        name: respondent_id
+        label: Respondent ID
+        hint: Optional identifier
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or Older
+        required: true
+      - id: 3
+        name: gender
+        label: Gender
+        hint: Optional demographic information
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer to Self-describe
+          - Prefer Not to Say
+        required: false
+      - id: 4
+        name: occupation
+        label: Occupation
+        hint: Your current occupation
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: primary_device
+        label: Primary Device for Internet Access
+        hint: Which device do you use most
+        type: select_one
+        options:
+          - Smartphone
+          - Laptop
+          - Desktop Computer
+          - Tablet
+          - Smart TV
+          - Other
+        required: true
+      - id: 6
+        name: daily_internet_hours
+        label: Daily Internet Usage
+        hint: Average hours spent online per day
+        type: select_one
+        options:
+          - Less than 1 hour
+          - 1-3 hours
+          - 3-5 hours
+          - 5-8 hours
+          - 8+ hours
+        required: true
+      - id: 7
+        name: browser_preference
+        label: Preferred Web Browser
+        hint: Which browser do you use most
+        type: select_one
+        options:
+          - Google Chrome
+          - Safari
+          - Mozilla Firefox
+          - Microsoft Edge
+          - Opera
+          - Brave
+          - Other
+        required: true
+      - id: 8
+        name: frequently_visited_sites
+        label: Frequently Visited Website Types
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Social Media
+          - News and Media
+          - Shopping and E-commerce
+          - Entertainment and Streaming
+          - Educational Resources
+          - Professional Work Tools
+          - Gaming
+          - Forums and Communities
+          - Search Engines
+          - Other
+        required: true
+      - id: 9
+        name: online_shopping_frequency
+        label: Online Shopping Frequency
+        hint: How often do you shop online
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 10
+        name: social_media_platforms
+        label: Social Media Platforms Used
+        hint: Select all that you actively use
+        type: select_multiple
+        options:
+          - Facebook
+          - Instagram
+          - Twitter/X
+          - TikTok
+          - LinkedIn
+          - Pinterest
+          - Snapchat
+          - YouTube
+          - Reddit
+          - None
+        required: true
+      - id: 11
+        name: privacy_concerns
+        label: Privacy Concerns Level
+        hint: How concerned are you about online privacy
+        type: select_one
+        options:
+          - Very Concerned
+          - Somewhat Concerned
+          - Neutral
+          - Not Very Concerned
+          - Not Concerned at All
+        required: true
+      - id: 12
+        name: privacy_measures
+        label: Privacy Measures Taken
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Use Incognito/Private Mode
+          - Use Ad Blockers
+          - Use VPN Services
+          - Clear Cookies Regularly
+          - Use Privacy-focused Browsers
+          - Limit Personal Information Shared
+          - Review Privacy Settings
+          - None of the Above
+        required: true
+      - id: 13
+        name: browsing_purpose
+        label: Primary Browsing Purpose
+        hint: Main reason for internet use
+        type: select_one
+        options:
+          - Work or Business
+          - Education and Learning
+          - Entertainment
+          - Social Connection
+          - Shopping
+          - News and Information
+          - Multiple Purposes Equally
+        required: true
+      - id: 14
+        name: website_trust_factors
+        label: Website Trust Factors
+        hint: What makes you trust a website
+        type: select_multiple
+        options:
+          - Professional Design
+          - HTTPS Security
+          - Clear Privacy Policy
+          - Customer Reviews
+          - Brand Recognition
+          - Contact Information Available
+          - No Pop-up Ads
+          - Fast Loading Speed
+        required: true
+      - id: 15
+        name: ad_interaction
+        label: Online Ad Interaction
+        hint: How often do you click on online ads
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 16
+        name: browsing_habits_change
+        label: Browsing Habits Change
+        hint: Have your browsing habits changed in the past year
+        type: select_one
+        options:
+          - Significantly Increased
+          - Slightly Increased
+          - No Change
+          - Slightly Decreased
+          - Significantly Decreased
+        required: true
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about your browsing habits
+        type: text
+        options: []
+        required: false

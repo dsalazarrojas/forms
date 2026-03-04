@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicare Savings Program Application Form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medicare_savings_program_eligibility
+      label: Medicare Savings Program Eligibility
+      hint: null
+      type: select_multiple
+      options:
+      - Eligible
+      - Partially Eligible
+      - Not Eligible
+      required: false
+    - id: 4
+      name: income_info
+      label: Income Information
+      hint: Please enter your annual income
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medicare_savings_program_comments
+      label: Medicare Savings Program Comments
+      hint: Please provide any additional comments
+      type: text
+      options: []
+      required: false

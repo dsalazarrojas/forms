@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Purchase Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USA''}'
+      - '{''label'': ''Canada''}'
+      - '{''label'': ''Mexico''}'
+      - '{''label'': ''UK''}'
+      - '{''label'': ''Japan''}'
+      required: false
+    - id: 10
+      name: customer_terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I have read and agree to the terms and conditions''}'
+      - '{''label'': ''I do not agree to the terms and conditions''}'
+      - '{''label'': ''I do not have access to the terms and conditions''}'
+      required: false
+    - id: 11
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: ticket_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: ticket_purchased_at
+      label: Ticket Purchased At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash.reported''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 16
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: ticket_id
+      label: Ticket ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Admission''}'
+      - '{''label'': ''VIP''}'
+      - '{''label'': ''Student''}'
+      required: false
+    - id: 19
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_phone_note
+      label: Customer Phone Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: ticket_note
+      label: Ticket Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_terms_note
+      label: Payment Terms Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: customer_address_note
+      label: Customer Address Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: customer_postal_code_note
+      label: Customer Postal Code Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: ticket_status
+      label: Ticket Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Unknown''}'
+      - '{''label'': ''Voided''}'
+      required: false

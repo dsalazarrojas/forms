@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Expansion Project Contact Form
+    pages:
+    - id: 1
+      name: form_contact_form
+      label: contact_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: expansion_inquiry
+      label: expansion_inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_goal
+      label: project_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: timing
+      label: timing
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: expansion_inquiry_goals
+      label: expansion_inquiry_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expansion_inquiry_location
+      label: expansion_inquiry_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expansion_inquiry_timing
+      label: expansion_inquiry_timing
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: expansion_inquiry_project_status
+      label: expansion_inquiry_project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: lead_type
+      label: lead_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

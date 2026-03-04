@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Exam Preparation Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: Your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: Email for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: certification_exam
+      label: Certification Exam
+      hint: Which certification exam are you preparing for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exam_date_scheduled
+      label: Scheduled Exam Date
+      hint: When is your exam scheduled
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: study_duration
+      label: Study Duration
+      hint: How long have you been preparing
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 3-4 weeks
+      - 1-2 months
+      - 3-6 months
+      - More than 6 months
+      required: true
+    - id: 7
+      name: study_hours_per_week
+      label: Study Hours Per Week
+      hint: Average hours spent studying weekly
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 11-15 hours
+      - 16-20 hours
+      - More than 20 hours
+      required: true
+    - id: 8
+      name: study_methods
+      label: Study Methods Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Textbook reading
+      - Online courses
+      - Practice exams
+      - Study groups
+      - Flashcards
+      - Video tutorials
+      - One-on-one tutoring
+      - Self-study guides
+      required: true
+    - id: 9
+      name: preparation_materials
+      label: Preparation Materials Quality
+      hint: Rate the quality of preparation materials
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident do you feel about passing
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not confident
+      - Very anxious
+      required: true
+    - id: 11
+      name: practice_exam_scores
+      label: Practice Exam Performance
+      hint: How have you performed on practice exams
+      type: select_one
+      options:
+      - Consistently above passing
+      - At passing level
+      - Slightly below passing
+      - Well below passing
+      - Have not taken practice exams
+      required: true
+    - id: 12
+      name: study_environment
+      label: Study Environment
+      hint: Where do you primarily study
+      type: select_one
+      options:
+      - Home
+      - Library
+      - Workplace
+      - Coffee shop
+      - Study center
+      - Multiple locations
+      required: true
+    - id: 13
+      name: study_challenges
+      label: Study Challenges
+      hint: What challenges are you facing
+      type: select_multiple
+      options:
+      - Time management
+      - Understanding content
+      - Test anxiety
+      - Lack of resources
+      - Work commitments
+      - Family commitments
+      - Financial constraints
+      - None
+      required: true
+    - id: 14
+      name: instructor_support
+      label: Instructor Support Rating
+      hint: Rate the support from instructors
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - No instructor
+      required: true
+    - id: 15
+      name: peer_support
+      label: Peer Support
+      hint: Do you have study partners or groups
+      type: select_one
+      options:
+      - Yes - Active study group
+      - Yes - Occasional study partners
+      - No - Study alone
+      required: true
+    - id: 16
+      name: additional_resources_needed
+      label: Additional Resources Needed
+      hint: What additional resources would help
+      type: select_multiple
+      options:
+      - More practice exams
+      - Study guides
+      - Video content
+      - Live review sessions
+      - One-on-one tutoring
+      - Study group matching
+      - Time management help
+      - None
+      required: true
+    - id: 17
+      name: previous_attempts
+      label: Previous Exam Attempts
+      hint: How many times have you taken this exam
+      type: select_one
+      options:
+      - First attempt
+      - Second attempt
+      - Third attempt
+      - More than three attempts
+      required: true
+    - id: 18
+      name: readiness_rating
+      label: Readiness Rating
+      hint: On a scale of 1-10 how ready do you feel
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: most_helpful_resource
+      label: Most Helpful Resource
+      hint: What has been most helpful in your preparation
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: How could the preparation program be improved
+      type: text
+      options: []
+      required: false

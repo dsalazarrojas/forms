@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone Vocabulary Assessment
+    pages:
+    - id: 1
+      name: telecom_type
+      label: telecom_types
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: frequency_band
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: network_type
+      label: network_types
+      hint: null
+      type: select_one
+      options:
+      - Cellular
+      - Fixed
+      - Fiber-optic
+      - Satellite
+      required: false
+    - id: 4
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: select_multiple
+      options:
+      - AT&T
+      - Verizon
+      - T-Mobile
+      - Sprint
+      - Verizon
+      - AT&T
+      - T-Mobile
+      - Sprint
+      required: false
+    - id: 5
+      name: call_quality
+      label: call_quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: emergency_number
+      label: emergency_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: call_duration
+      label: call_duration
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Food Culture Quiz
+    pages:
+    - id: 1
+      name: country_of_origin
+      label: Country Of Origin
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: cuisine_type
+      label: Cuisine Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: global_food_culture
+      label: Global Food Culture
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: food_item
+      label: Food Item
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: food_item_1
+      label: Food Item 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: food_item_2
+      label: Food Item 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Material Purchase Request
+    pages:
+    - id: 1
+      name: material_purpose
+      label: material_purpose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: material_name
+      label: material_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: unit_cost
+      label: unit_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: purchase_time
+      label: purchase_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Priorities Assessment
+    pages:
+    - id: 1
+      name: security_focus_areas
+      label: Security Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Security Risks
+      - Security Threats
+      - Compliance
+      required: true
+    - id: 2
+      name: threat_level
+      label: Threat Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
+      name: risk_focus_areas
+      label: Risk Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Security Risks
+      - Security Threats
+      - Compliance
+      required: true
+    - id: 4
+      name: security_readiness
+      label: Security Readiness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: risk_priority
+      label: Risk Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: security_planning
+      label: Security Planning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: risk_focus_areas_2
+      label: Risk Focus Areas 2
+      hint: null
+      type: select_multiple
+      options:
+      - Security Risks
+      - Security Threats
+      - Compliance
+      required: false
+    - id: 9
+      name: risk_score_2
+      label: Risk Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: security_focus_areas_3
+      label: Security Focus Areas 3
+      hint: null
+      type: select_multiple
+      options:
+      - Security Risks
+      - Security Threats
+      - Compliance
+      required: false
+    - id: 11
+      name: security_planning_2
+      label: Security Planning 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: risk_score_3
+      label: Risk Score 3
+      hint: null
+      type: number
+      options: []
+      required: false

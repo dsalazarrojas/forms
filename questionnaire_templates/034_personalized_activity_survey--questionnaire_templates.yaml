@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Activity Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: activity_preference
+      label: What activities do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: availability
+      label: How often do you have time for activities?
+      hint: null
+      type: select_one
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: false
+    - id: 4
+      name: availability_time
+      label: What time of day do you have for activities?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: availability_time_end
+      label: What time of day do you end activities?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: availability_duration
+      label: How long do activities last?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: availability_schedule
+      label: What days of the week do you have availability?
+      hint: null
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: false
+    - id: 8
+      name: availability_schedule_time
+      label: What time slots do you have availability?
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00-10:00
+      - 10:00-11:00
+      - 11:00-12:00
+      - 12:00-13:00
+      - 13:00-14:00
+      - 14:00-15:00
+      - 15:00-16:00
+      - 16:00-17:00
+      - 17:00-18:00
+      - 18:00-19:00
+      - 19:00-20:00
+      - 20:00-21:00
+      - 21:00-22:00
+      - 22:00-23:00
+      - 23:00-00:00
+      required: false
+    - id: 9
+      name: availability_schedule_exceptions
+      label: Are there any exceptions to your availability?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

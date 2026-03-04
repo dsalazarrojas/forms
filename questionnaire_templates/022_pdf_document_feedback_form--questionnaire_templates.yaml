@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: pdf_document_feedback_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: document_title
+      label: Document Title
+      hint: The title of your document
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: What's your feedback?
+      hint: Be specific and detailed in your feedback
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: How would you rate this document?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Do you have any comments?
+      hint: Additional comments are welcome
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggest_improvements
+      label: Suggest improvements
+      hint: Help us improve our document templates
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggest_changes
+      label: Suggest changes
+      hint: Suggest specific changes to our document template
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_id
+      label: Document ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: true

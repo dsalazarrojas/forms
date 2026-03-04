@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geopolitical And Economic Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_info
+      label: Respondent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sector
+      label: sector
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: political_sentiment
+      label: political_sentiment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: economic_sentiment
+      label: economic_sentiment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: global_trends
+      label: global_trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false

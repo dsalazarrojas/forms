@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Recovery Assessment Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recovery_start_date
+      label: Estimated Start Date of Recovery
+      hint: The date your symptoms significantly improved
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: energy_level_scale
+      label: Current Energy Level
+      hint: Scale of 1 (Very Low) to 10 (Full Strength)
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: persistent_symptoms_list
+      label: Are you still experiencing any of the following?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Brain fog
+      - Loss of taste/smell
+      - Joint pain
+      - Chest pain
+      required: false
+    - id: 5
+      name: respiratory_status_cat
+      label: Current Respiratory Status
+      hint: null
+      type: select_one
+      options:
+      - Normal breathing
+      - Shortness of breath with exertion
+      - Shortness of breath at rest
+      - Using supplemental oxygen
+      required: true
+    - id: 6
+      name: exercise_tolerance_level
+      label: Exercise Tolerance
+      hint: null
+      type: select_one
+      options:
+      - Back to pre-illness levels
+      - Able to walk but tire easily
+      - Unable to perform light activity
+      - Bedbound
+      required: true
+    - id: 7
+      name: mental_health_summary
+      label: Mental Health and Emotional Wellbeing
+      hint: Describe any anxiety, depression, or sleep issues since recovery
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication_changes_text
+      label: Have there been any changes to your medications during recovery?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_appt_date
+      label: Next Scheduled Follow-up Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_team_concerns
+      label: Specific questions or concerns for your healthcare team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: monitoring_acknowledgment
+      label: I understand this is for monitoring purposes and does not replace emergency
+        care
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true

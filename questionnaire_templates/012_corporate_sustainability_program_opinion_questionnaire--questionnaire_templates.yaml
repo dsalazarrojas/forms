@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Sustainability Program Opinion Questionnaire
+    pages:
+    - id: 1
+      name: program_adoption
+      label: Program Adoption
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sustainability_goals
+      label: Sustainability Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_on_initiatives
+      label: Feedback On Initiatives
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: future_efforts
+      label: Future Efforts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

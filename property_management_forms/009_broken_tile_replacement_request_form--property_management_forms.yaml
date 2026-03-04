@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broken Tile Replacement Request Form
+    pages:
+    - id: 1
+      name: tenant_information_header
+      label: -- Tenant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: Tenant Name
+      hint: Full name of the tenant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_number
+      label: Unit Number
+      hint: Apartment or unit number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Email address for contact
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: property_information_header
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Full address of the property
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tile_location
+      label: Tile Location
+      hint: Where is the broken tile located
+      type: select_one
+      options:
+      - Kitchen Floor
+      - Bathroom Floor
+      - Bathroom Wall
+      - Shower Wall
+      - Entryway
+      - Living Room
+      - Bedroom
+      - Other
+      required: true
+    - id: 9
+      name: location_description
+      label: Location Description
+      hint: More specific location details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: damage_details_header
+      label: -- Damage Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: number_of_broken_tiles
+      label: Number of Broken Tiles
+      hint: How many tiles are damaged
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tile_size
+      label: Tile Size
+      hint: Approximate size of the tiles
+      type: select_one
+      options:
+      - Small (4 inch or less)
+      - Medium (6-8 inch)
+      - Large (12 inch or more)
+      - Unknown
+      required: true
+    - id: 13
+      name: tile_color_pattern
+      label: Tile Color or Pattern
+      hint: Description of tile color or pattern if known
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: damage_severity
+      label: Damage Severity
+      hint: How severe is the damage
+      type: select_one
+      options:
+      - Minor - Hairline crack
+      - Moderate - Partial break
+      - Severe - Complete break or missing
+      - Multiple tiles affected
+      required: true
+    - id: 15
+      name: damage_cause
+      label: Cause of Damage
+      hint: How did the damage occur
+      type: select_one
+      options:
+      - Normal wear and tear
+      - Dropped object
+      - Heavy impact
+      - Furniture damage
+      - Water damage
+      - Unknown
+      required: true
+    - id: 16
+      name: damage_description
+      label: Additional Damage Description
+      hint: Any additional details about the damage
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: repair_information_header
+      label: -- Repair Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When would you like the repair to be done
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: access_instructions
+      label: Access Instructions
+      hint: How can maintenance access the unit
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tenant_available
+      label: Tenant Will Be Present
+      hint: Will someone be present during the repair
+      type: select_one
+      options:
+      - Yes I will be present
+      - No leave key in secure location
+      - Other arrangements
+      required: true
+    - id: 21
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this repair request
+      type: select_one
+      options:
+      - Emergency
+      - High Priority
+      - Standard
+      - Low Priority
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for the repair team
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: authorization_header
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: repair_authorization
+      label: I authorize the repair and understand costs may apply
+      hint: Check to authorize the tile replacement
+      type: select_one
+      options:
+      - Yes I Authorize
+      - Other
+      required: true
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

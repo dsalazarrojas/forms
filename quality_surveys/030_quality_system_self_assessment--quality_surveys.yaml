@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality System Self Assessment
+    pages:
+    - id: 1
+      name: first_page
+      label: first page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: date_last_update
+      label: date last update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_last_update
+      label: time last update
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: first_page_comments
+      label: first page comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: department_comments
+      label: department comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: performance_comments
+      label: performance comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: process_change_comments
+      label: process change comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: improvement_comments
+      label: improvement comments
+      hint: null
+      type: note
+      options: []
+      required: false

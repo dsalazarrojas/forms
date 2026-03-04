@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option A''}'
+      - '{''id'': 2, ''label'': ''Option B''}'
+      - '{''id'': 3, ''label'': ''Option C''}'
+      - '{''id'': 4, ''label'': ''Option D''}'
+      - '{''id'': 5, ''label'': ''Option E''}'
+      required: false
+    - id: 8
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Highly Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Satisfied''}'
+      required: false
+    - id: 9
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_purchase
+      label: Time of Purchase
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date_of_purchase_time
+      label: Date of Purchase Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_purchase_time
+      label: Time of Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false

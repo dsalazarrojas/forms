@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Mentor Customization Survey
+    pages:
+    - id: 1
+      name: --user_profile--
+      label: -- User Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_level
+      label: Experience level with subject matter
+      hint: Choose the best fit
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 4
+      name: learning_goals
+      label: Primary learning goals
+      hint: Select up to three goals
+      type: select_multiple
+      options:
+      - Improve fundamentals
+      - Apply to projects
+      - Prepare for certification
+      - Mentorship and feedback
+      required: true
+    - id: 5
+      name: preferred_tone
+      label: Preferred mentor tone
+      hint: Choose one
+      type: select_one
+      options:
+      - Encouraging
+      - Direct and concise
+      - Technical and detailed
+      - Socratic and questioning
+      required: true
+    - id: 6
+      name: feedback_frequency
+      label: Desired feedback frequency
+      hint: How often mentor should provide feedback
+      type: select_one
+      options:
+      - After every session
+      - Weekly
+      - Biweekly
+      - Monthly
+      required: true
+    - id: 7
+      name: personalization_preferences
+      label: Personalization preferences
+      hint: Topics to prioritize
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_channels
+      label: Preferred communication channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email
+      - In app messaging
+      - Video call
+      - Instant chat
+      required: false
+    - id: 9
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes for mentor customization
+      hint: Optional
+      type: text
+      options: []
+      required: false

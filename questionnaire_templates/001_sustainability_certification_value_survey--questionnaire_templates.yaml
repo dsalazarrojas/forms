@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Certification Value Survey
+    pages:
+    - id: 1
+      name: sustainability_certification_value_survey_page_1
+      label: Sustainability Certification Value Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: certification
+      label: What is the name of your sustainability certification?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''ISO 26000''}'
+      - '{''label'': ''ISO 14001''}'
+      - '{''label'': ''OHSAS 18001''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: date_certified
+      label: Date Certified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: certification_body
+      label: Certification Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sustainability_certification
+      label: Sustainability Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sustainability_certification_level
+      label: Sustainability Certification Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Bronze''}'
+      - '{''label'': ''Silver''}'
+      - '{''label'': ''Gold''}'
+      - '{''label'': ''Platinum''}'
+      required: false
+    - id: 8
+      name: sustainability_commitment
+      label: Sustainability Commitment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: sustainability_investment
+      label: Sustainability Investment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sustainability_impact
+      label: Sustainability Impact
+      hint: null
+      type: note
+      options: []
+      required: false

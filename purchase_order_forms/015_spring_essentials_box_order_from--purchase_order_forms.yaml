@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Essentials Box Order From
+    pages:
+    - id: 1
+      name: spring_essentials_box_order_form_first_page
+      label: first_page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: purchase_amount
+      label: purchase_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_multiple
+      options:
+      - United States Postal Service
+      - FedEx
+      - UPS
+      - DHL
+      required: true
+    - id: 8
+      name: items_ordered
+      label: items_ordered
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: spring_essentials_box_order_form_second_page
+      label: second_page
+      hint: null
+      type: text
+      options: []
+      required: false

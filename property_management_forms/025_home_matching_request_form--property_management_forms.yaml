@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Matching Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_preferences
+      label: Owner's Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1 minimalist''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: relocation_team
+      label: Relocation Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_input_3
+      label: User Input 3
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_designer_client_questionnaire
+    pages:
+    - id: 1
+      name: web_designer_client_questionnaire
+      label: web_designer_client_questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_title
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - Web Design Forms
+      - Questionnaire Templates
+      required: false
+    - id: 4
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 7
+      name: form_output_file
+      label: form_output_file
+      hint: null
+      type: text
+      options: []
+      required: false

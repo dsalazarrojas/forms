@@ -1,0 +1,265 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civil Litigation Knowledge Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Full Name
+        hint: Enter your first and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For quiz results
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: role
+        label: Your Role
+        hint: Select your position
+        type: select_one
+        options:
+          - Law Student
+          - Paralegal
+          - Legal Assistant
+          - Attorney
+          - Law Clerk
+          - Other Legal Professional
+          - Other
+        required: true
+      - id: 4
+        name: experience_level
+        label: Years of Legal Experience
+        hint: Enter 0 if you are a student
+        type: integer
+        options: []
+        required: true
+      - id: 5
+        name: question_1
+        label: What is the first step in civil litigation
+        hint: Select the correct answer
+        type: select_one
+        options:
+          - Filing a complaint
+          - Discovery
+          - Trial
+          - Appeal
+          - Mediation
+        required: true
+      - id: 6
+        name: question_2
+        label: What does the term discovery refer to
+        hint: In civil litigation context
+        type: select_one
+        options:
+          - Pre-trial evidence exchange
+          - Finding a lawyer
+          - Court verdict
+          - Settlement negotiation
+          - Jury selection
+        required: true
+      - id: 7
+        name: question_3
+        label: What is a deposition
+        hint: Select the best definition
+        type: select_one
+        options:
+          - Sworn out-of-court testimony
+          - Court filing fee
+          - Judge decision
+          - Settlement offer
+          - Jury instruction
+        required: true
+      - id: 8
+        name: question_4
+        label: What is the purpose of a motion to dismiss
+        hint: In civil procedure
+        type: select_one
+        options:
+          - End the case before trial
+          - Delay the trial
+          - Add new parties
+          - Change the venue
+          - Request more damages
+        required: true
+      - id: 9
+        name: question_5
+        label: What is the burden of proof in most civil cases
+        hint: Standard of proof required
+        type: select_one
+        options:
+          - Preponderance of evidence
+          - Beyond reasonable doubt
+          - Clear and convincing evidence
+          - Probable cause
+          - Reasonable suspicion
+        required: true
+      - id: 10
+        name: question_6
+        label: What is summary judgment
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - Judgment without trial when no facts are disputed
+          - Quick trial procedure
+          - Reduced damages award
+          - Temporary court order
+          - Settlement agreement
+        required: true
+      - id: 11
+        name: question_7
+        label: What is the statute of limitations
+        hint: In civil litigation
+        type: select_one
+        options:
+          - Time limit to file a lawsuit
+          - Court operating hours
+          - Lawyer billing limit
+          - Discovery deadline
+          - Appeal timeframe
+        required: true
+      - id: 12
+        name: question_8
+        label: What does res judicata mean
+        hint: Legal doctrine definition
+        type: select_one
+        options:
+          - A matter already judged cannot be relitigated
+          - New evidence found
+          - Case transferred to higher court
+          - Settlement reached
+          - Trial postponed
+        required: true
+      - id: 13
+        name: question_9
+        name_label: What is interrogatories
+        hint: In discovery process
+        type: select_one
+        options:
+          - Written questions requiring written answers
+          - Oral testimony
+          - Physical evidence
+          - Expert reports
+          - Court orders
+        required: true
+      - id: 14
+        name: question_10
+        label: What is the role of a plaintiff
+        hint: In civil litigation
+        type: select_one
+        options:
+          - The party who files the lawsuit
+          - The party being sued
+          - The judge
+          - The jury foreman
+          - The court clerk
+        required: true
+      - id: 15
+        name: question_11
+        label: What is voir dire
+        hint: Trial procedure term
+        type: select_one
+        options:
+          - Jury selection process
+          - Opening statements
+          - Evidence presentation
+          - Closing arguments
+          - Sentencing hearing
+        required: true
+      - id: 16
+        name: question_12
+        label: What are compensatory damages
+        hint: Type of legal remedy
+        type: select_one
+        options:
+          - Money to compensate for actual losses
+          - Punishment for wrongdoing
+          - Court fees
+          - Lawyer fees
+          - Symbolic award
+        required: true
+      - id: 17
+        name: question_13
+        label: What is an appeal
+        hint: In the litigation process
+        type: select_one
+        options:
+          - Request to review a lower court decision
+          - New trial with new jury
+          - Settlement negotiation
+          - Motion for reconsideration
+          - Request for more evidence
+        required: true
+      - id: 18
+        name: question_14
+        label: What is alternative dispute resolution
+        hint: ADR definition
+        type: select_one
+        options:
+          - Methods to resolve disputes outside of court
+          - Appeal to supreme court
+          - Class action lawsuit
+          - Criminal prosecution
+          - Government arbitration
+        required: true
+      - id: 19
+        name: question_15
+        label: What is a class action lawsuit
+        hint: Select the best definition
+        type: select_one
+        options:
+          - One or more plaintiffs sue on behalf of a group
+          - Multiple lawyers work on one case
+          - Case heard by multiple judges
+          - Trial open to law students
+          - Lawsuit against a corporation
+        required: true
+      - id: 20
+        name: confidence_level
+        label: How confident are you in your quiz performance
+        hint: Self-assessment
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Neutral
+          - Not very confident
+          - Not confident at all
+        required: true
+      - id: 21
+        name: topics_difficult
+        label: Which topics did you find most challenging
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Pleadings and motions
+          - Discovery procedures
+          - Evidence rules
+          - Trial procedure
+          - Appeals process
+          - Damages and remedies
+          - Alternative dispute resolution
+          - None were challenging
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any feedback on the quiz
+        type: text
+        options: []
+        required: false

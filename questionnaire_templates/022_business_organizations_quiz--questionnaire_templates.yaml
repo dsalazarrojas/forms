@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Organizations Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Email Address
+      hint: Student email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: course_section
+      label: Course Section
+      hint: Class section number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date taking this quiz
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1_sole_prop
+      label: Define Sole Proprietorship
+      hint: What is a sole proprietorship?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question_2_partnership_types
+      label: Name Two Types of Partnerships
+      hint: Partnership types
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: question_3_corporation_definition
+      label: What is a Corporation?
+      hint: Corporation definition
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_4_llc_advantage
+      label: What is a Key Advantage of an LLC?
+      hint: LLC advantages
+      type: select_one
+      options:
+      - Limited liability protection
+      - Unlimited profits
+      - Single owner required
+      - Government ownership
+      required: true
+    - id: 9
+      name: question_5_cooperative
+      label: What is a Cooperative?
+      hint: Define cooperative
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_6_nonprofit
+      label: Key Feature of Non-profit Organization
+      hint: Non-profit characteristics
+      type: select_one
+      options:
+      - Distributes profits to owners
+      - Uses profits for organizational mission
+      - Always very small
+      - No employees
+      required: true
+    - id: 11
+      name: question_7_franchise
+      label: What is a Franchise?
+      hint: Define franchise business
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: question_8_startup
+      label: What Defines a Startup Business?
+      hint: Startup characteristics
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: question_9_organizational_structure
+      label: Types of Organizational Structures
+      hint: Name at least two structures
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: question_10_vertical_integration
+      label: What is Vertical Integration?
+      hint: Explain vertical integration
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: question_11_holding_company
+      label: What is a Holding Company?
+      hint: Holding company definition
+      type: select_one
+      options:
+      - A company that owns other companies
+      - A company that stores products
+      - A temporary business structure
+      - A non-profit organization
+      required: true
+    - id: 16
+      name: question_12_business_types
+      label: Match Business Type to Description
+      hint: Match examples to business types
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: quiz_difficulty
+      label: How Difficult Was This Quiz?
+      hint: Rate difficulty (1-5)
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: confidence_level
+      label: Your Confidence Level
+      hint: How confident are you? (1-5)
+      type: number
+      options: []
+      required: false

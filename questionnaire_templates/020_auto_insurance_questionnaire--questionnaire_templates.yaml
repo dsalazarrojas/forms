@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Questionnaire
+    pages:
+    - id: 1
+      name: personal_details_header
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: marital_status
+      label: Marital Status
+      hint: Select current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: true
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: driving_history_header
+      label: -- Driving History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_licensed
+      label: Years Licensed
+      hint: Total years you have held a driver's license
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: any_violations
+      label: Any Violations in the Last 5 Years?
+      hint: Select yes if you have tickets or accidents
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: details_of_violations
+      label: Details of Violations
+      hint: Briefly describe any violations or accidents
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_usage_header
+      label: -- Vehicle and Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_description
+      label: Vehicle Description
+      hint: Year, Make, and Model
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: miles_one_way
+      label: Miles One Way to Work
+      hint: Distance of your commute
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: days_per_week
+      label: Days per Week Driven to Work
+      hint: e.g. 5
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: existing_insurance_header
+      label: -- Existing Insurance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_carrier
+      label: Current Carrier
+      hint: Who are you currently insured with?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_monthly_premium
+      label: Current Monthly Premium
+      hint: Your current cost
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: interested_bundling
+      label: Interested in Bundling Home?
+      hint: Bundling often provides discounts
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: When is best for us to follow up?
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true

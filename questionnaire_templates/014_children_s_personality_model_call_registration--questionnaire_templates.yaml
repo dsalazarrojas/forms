@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Children Personality Model Call Registration
+    pages:
+      - id: 1
+        name: parent_name
+        label: Parent Name
+        hint: Name for scheduling the call
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: child_name
+        label: Child Name
+        hint: Name of the child
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: preferred_contact
+        label: Preferred Contact Email or Phone
+        hint: Best way to reach you
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: preferred_date
+        label: Preferred Call Date
+        hint: Select preferred date for the call
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: preferred_time
+        label: Preferred Call Time
+        hint: Choose a convenient time window
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: topics_of_interest
+        label: Topics of Interest
+        hint: What you would like to discuss during the call
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: consent_recording
+        label: Consent to Recording
+        hint: Permission to record the session for training
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other context to help prepare for the call
+        type: text
+        options: []
+        required: false

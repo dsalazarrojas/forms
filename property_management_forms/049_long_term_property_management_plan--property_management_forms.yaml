@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Long Term Property Management Plan
+    pages:
+    - id: 1
+      name: property_management_schedule
+      label: Property Management Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_schedule_plan
+      label: Maintenance Schedule Plan
+      hint: List the dates and times for regular maintenance and repairs
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tenant_management_plan
+      label: Tenant Management Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_schedule_items
+      label: Maintenance Schedule Items
+      hint: List items requiring maintenance or repairs
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: maintenance_schedule_items_items
+      label: Maintenance Schedule Items
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: maintenance_costs
+      label: Maintenance Costs
+      hint: Estimated costs for each maintenance or repair item
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: tenant_management_plan
+      label: Tenant Management Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_details
+      label: Emergency Contact Details
+      hint: Contact information for emergency contacts
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_duration
+      label: Maintenance Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_schedule_impact
+      label: Maintenance Schedule Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_management_plan
+      label: Emergency Management Plan
+      hint: Plan for emergency management and response
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tenant_management_plan
+      label: Tenant Management Plan
+      hint: Plan for tenant relations and management
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_owner_info
+      label: Property Owner Info
+      hint: Contact information for property owner or manager
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: property_manager_info
+      label: Property Manager Info
+      hint: Contact information for property manager
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: Phone number for property manager
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: property_manager_address
+      label: Property Manager Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_manager_website
+      label: Property Manager Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_manager_social_media
+      label: Property Manager Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_manager_license
+      label: Property Manager License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_manager_licence_number
+      label: Property Manager Licence Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_manager_vehicle_number
+      label: Property Manager Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_owner_vehicle_number
+      label: Property Owner Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false

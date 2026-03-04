@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acne Questionnaire
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: condition_header
+      label: -- Skin Condition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: acne_severity
+      label: Acne Severity
+      hint: Self-assessed
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Cystic
+      required: true
+    - id: 7
+      name: affected_areas
+      label: Affected Areas
+      hint: Select all locations where acne occurs
+      type: select_multiple
+      options:
+      - Face
+      - Back
+      - Chest
+      - Shoulders
+      - Neck
+      required: true
+    - id: 8
+      name: duration_of_condition_months
+      label: Duration of Condition (Months)
+      hint: How long have you had this issue?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: previous_treatments
+      label: Previous Treatments
+      hint: Select what you have tried in the past
+      type: select_multiple
+      options:
+      - Over-the-counter creams
+      - Oral Antibiotics
+      - Accutane
+      - Laser Therapy
+      - Facials
+      required: false
+    - id: 10
+      name: family_history_of_acne
+      label: Family History of Acne
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 11
+      name: lifestyle_header
+      label: -- Lifestyle and Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_skincare_routine
+      label: Current Skincare Routine
+      hint: List products currently used
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: known_allergies
+      label: Known Allergies
+      hint: Especially medication or topical allergies
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      required: true
+    - id: 15
+      name: additional_medical_concerns
+      label: Additional Medical Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

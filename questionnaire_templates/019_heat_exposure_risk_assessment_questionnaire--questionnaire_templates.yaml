@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: heat_exposure_risk_assessment_questionnaire
+    pages:
+    - id: 1
+      name: job_site
+      label: Job Site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: weather_station_id
+      label: Weather Station ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wind_speed_mph
+      label: Wind Speed MPH
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: max_heat_index
+      label: Max Heat Index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exposure_hours
+      label: Exposure Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: wind_direction
+      label: Wind Direction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: humidity_range
+      label: Humidity Range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

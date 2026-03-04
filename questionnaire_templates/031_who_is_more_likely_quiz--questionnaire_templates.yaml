@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Who Is More Likely Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What is the name of the game or movie?
+      hint: 'Example: Harry Potter and the Philosopher''s Stone'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question1_score
+      label: Score (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: Who do you think is more likely to win?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: question2_score
+      label: Score (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: Why do you think this character is more likely to win?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question4
+      label: Do you want to be on the team?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: question4_score
+      label: Score (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question5
+      label: How do you feel about this choice?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question5_score
+      label: Score (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: result
+      label: Result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 12
+      name: result_score
+      label: Result Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: Tell us what's on your mind
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 22
+      name: time_zone_score
+      label: Time Zone Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: user_time_zone
+      label: User's Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_time_zone_score
+      label: User's Time Zone Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

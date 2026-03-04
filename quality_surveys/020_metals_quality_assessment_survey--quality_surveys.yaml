@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metals Quality Assessment Survey
+    pages:
+    - id: 1
+      name: sample_id
+      label: Sample ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: sample_weight
+      label: Sample Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: sample_color
+      label: Sample Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sample_shape
+      label: Sample Shape
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: hardness
+      label: Hardness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: density
+      label: Density
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: melting_point
+      label: Melting Point
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: element
+      label: element
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: atomic_weight
+      label: atomic-weight
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

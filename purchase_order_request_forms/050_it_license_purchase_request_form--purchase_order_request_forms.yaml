@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT License Purchase Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_request_id
+      label: Purchase Request ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - ProcurementchartInstance
+      - Finance
+      required: true
+    - id: 4
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_multiple
+      options:
+      - Software
+      - Hardware
+      - Subscription
+      required: true
+    - id: 5
+      name: software_details
+      label: Software Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hardware_details
+      label: Hardware Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: subscription_details
+      label: Subscription Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Procurement
+      - Finance
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

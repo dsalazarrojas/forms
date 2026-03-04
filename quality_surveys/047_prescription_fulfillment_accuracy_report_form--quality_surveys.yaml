@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Fulfillment Accuracy Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: prophets
+      label: Number of Prophets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: correct_orders
+      label: Correct Orders
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: incorrect_orders
+      label: Incorrect Orders
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reasons_for_error
+      label: Reasons for Prophets Discrepancy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: action_planned
+      label: Action Planned
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Awaiting
+      - Planned
+      - In Progress
+      - Completed
+      required: true
+    - id: 7
+      name: action_implemented
+      label: Action Implemented
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Awaiting
+      - Planned
+      - In Progress
+      - Completed
+      required: true
+    - id: 8
+      name: action_effective
+      label: Action Effective
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Awaiting
+      - Planned
+      - In Progress
+      - Completed
+      required: true
+    - id: 9
+      name: reason_for_action_implemented
+      label: Reason for Prophets Implementation
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Awaiting
+      - Planned
+      - In Progress
+      - Completed
+      required: true
+    - id: 10
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: team_member
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: pharmacist
+      label: Pharmacist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: technician
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: comments_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: action_date
+      label: Action Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: action_time
+      label: Action Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: team_lead_2
+      label: Team Lead 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_member_2
+      label: Team Member 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: location_2
+      label: Location 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pharmacist_2
+      label: Pharmacist 2
+      hint: null
+      type: text
+      options: []
+      required: false

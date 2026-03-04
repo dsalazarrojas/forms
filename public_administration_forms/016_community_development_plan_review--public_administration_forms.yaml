@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Development Plan Review
+    pages:
+      - id: 1
+        name: reviewer_name
+        label: Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: reviewer_email
+        label: Email Address
+        hint: For correspondence
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: reviewer_type
+        label: Reviewer Type
+        hint: Your relationship to the community
+        type: select_one
+        options:
+          - Resident
+          - Business Owner
+          - Property Owner
+          - Community Organization
+          - Developer
+          - Other Stakeholder
+        required: true
+      - id: 4
+        name: plan_reference
+        label: Plan Reference Number or Name
+        hint: Which plan are you reviewing?
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: review_date
+        label: Date of Review
+        hint: When did you review the plan?
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: overall_support
+        label: Overall Support for Plan
+        hint: Do you support this development plan?
+        type: select_one
+        options:
+          - Strongly Support
+          - Support
+          - Neutral
+          - Oppose
+          - Strongly Oppose
+        required: true
+      - id: 7
+        name: zoning_compatibility
+        label: Zoning Compatibility
+        hint: Is the plan compatible with current zoning?
+        type: select_one
+        options:
+          - Fully Compatible
+          - Mostly Compatible
+          - Somewhat Compatible
+          - Not Compatible
+          - No Opinion
+        required: true
+      - id: 8
+        name: environmental_impact
+        label: Environmental Impact Assessment
+        hint: Your view on environmental effects
+        type: select_one
+        options:
+          - Minimal Impact
+          - Moderate Impact
+          - Significant Impact
+          - Severe Impact
+          - No Opinion
+        required: true
+      - id: 9
+        name: traffic_impact
+        label: Traffic Impact Assessment
+        hint: Expected effect on traffic
+        type: select_one
+        options:
+          - Minimal Impact
+          - Moderate Impact
+          - Significant Impact
+          - Severe Impact
+          - No Opinion
+        required: true
+      - id: 10
+        name: community_benefit
+        label: Community Benefit
+        hint: Will this benefit the community?
+        type: select_one
+        options:
+          - Great Benefit
+          - Some Benefit
+          - Neutral
+          - Some Harm
+          - Great Harm
+        required: true
+      - id: 11
+        name: infrastructure_adequacy
+        label: Infrastructure Adequacy
+        hint: Is existing infrastructure sufficient?
+        type: select_one
+        options:
+          - Fully Adequate
+          - Mostly Adequate
+          - Somewhat Adequate
+          - Inadequate
+          - No Opinion
+        required: true
+      - id: 12
+        name: specific_support
+        label: Specific Aspects You Support
+        hint: What do you like about the plan?
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: specific_concerns
+        label: Specific Concerns
+        hint: What concerns do you have?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: recommended_changes
+        label: Recommended Changes
+        hint: What modifications would you suggest?
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

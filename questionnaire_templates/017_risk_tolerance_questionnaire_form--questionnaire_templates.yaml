@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Tolerance Questionnaire Form
+    pages:
+    - id: 1
+      name: investment_preferences
+      label: Investment Preferences
+      hint: null
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      required: false
+    - id: 2
+      name: risk_capacity
+      label: Risk Capacity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: time_horizon
+      label: Time Horizon
+      hint: null
+      type: select_one
+      options:
+      - Short term
+      - Medium term
+      - Long term
+      required: false
+    - id: 4
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: investment_experience
+      label: Investment Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 6
+      name: financial_goal
+      label: Financial Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: investment_assets
+      label: Investment Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_net_worth
+      label: Financial Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: investment_expenses
+      label: Investment Expenses
+      hint: null
+      type: number
+      options: []
+      required: false

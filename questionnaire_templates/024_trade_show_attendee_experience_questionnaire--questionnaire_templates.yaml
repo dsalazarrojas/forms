@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Attendee Experience Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: Rating
+      hint: Rating
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Comments
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attended_days
+      label: Attended Days
+      hint: Attended Days
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: attended_sessions
+      label: Attended Sessions
+      hint: Attended Sessions
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rated_sessions
+      label: Rated Sessions
+      hint: Rated Sessions
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: satisfied
+      label: Satisfied
+      hint: Satisfied
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': True}'
+      - '{''id'': 12, ''name'': False}'
+      required: true
+    - id: 11
+      name: would_recommend
+      label: Would Recommend
+      hint: Would Recommend
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''name'': True}'
+      - '{''id'': 22, ''name'': False}'
+      - '{''id'': 23, ''name'': ''Unsure''}'
+      required: true
+    - id: 12
+      name: suggestions
+      label: Suggestions
+      hint: Suggestions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments2
+      label: Comments 2
+      hint: Comments 2
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company
+      label: Company
+      hint: Company
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: position
+      label: Position
+      hint: Position
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attended_sessions2
+      label: Attended Sessions 2
+      hint: Attended Sessions 2
+      type: number
+      options: []
+      required: false

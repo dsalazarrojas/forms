@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Scheme Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness_of_government_scheme
+      label: awareness_of_government_scheme
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very aware''}'
+      - '{''label'': ''Somewhat aware''}'
+      - '{''label'': ''Not aware''}'
+      required: false
+    - id: 3
+      name: how_obtained_scheme_info
+      label: how_obtained_scheme_info
+      hint: e.g., social media, TV, radio, friend, family, other (please specify)
+      type: select_one
+      options:
+      - '{''label'': ''Social media''}'
+      - '{''label'': ''TV''}'
+      - '{''label'': ''Radio''}'
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Family''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: source_of_scheme_info
+      label: source_of_scheme_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Social media''}'
+      - '{''label'': ''TV''}'
+      - '{''label'': ''Radio''}'
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Family''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: access_scheme
+      label: access_to_scheme
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Easy''}'
+      - '{''label'': ''Somewhat easy''}'
+      - '{''label'': ''Not easy''}'
+      - '{''label'': ''Not possible''}'
+      required: false
+    - id: 6
+      name: satisfaction_with_scheme
+      label: satisfaction_with_scheme
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 7
+      name: satisfaction_with_outreach
+      label: satisfaction_with_outreach
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 8
+      name: barriers_to_access
+      label: barriers_to_access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Language barrier''}'
+      - '{''label'': ''Cost''}'
+      - '{''label'': ''Lack of awareness''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 9
+      name: other_barriers
+      label: other_barriers
+      hint: e.g., lack of interest, lack of skills, other (please specify)
+      type: select_multiple
+      options:
+      - '{''label'': ''Lack of interest''}'
+      - '{''label'': ''Lack of skills''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 10
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

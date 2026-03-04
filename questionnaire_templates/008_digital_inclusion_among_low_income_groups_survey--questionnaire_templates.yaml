@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Inclusion Among Low Income Groups Survey
+    pages:
+    - id: 1
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_devices
+      label: Household Devices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''smartphone'', ''value'': ''smartphone''}'
+      - '{''id'': 2, ''label'': ''desktop_computer'', ''value'': ''desktop_computer''}'
+      - '{''id'': 3, ''label'': ''laptop'', ''value'': ''laptop''}'
+      - '{''id'': 4, ''label'': ''tablet'', ''value'': ''tablet''}'
+      - '{''id'': 5, ''label'': ''smart_tv'', ''value'': ''smart_tv''}'
+      - '{''id'': 6, ''label'': ''gaming_console'', ''value'': ''gaming_console''}'
+      - '{''id'': 7, ''label'': ''other'', ''value'': ''other''}'
+      - '{''id'': 8, ''label'': ''none'', ''value'': ''none''}'
+      required: false
+    - id: 3
+      name: internet_reliability
+      label: internet_reliability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: digital_barriers
+      label: digital_barriers
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''lack_of_device_access'', ''value'': ''lack_of_device_access''}'
+      - '{''id'': 2, ''label'': ''lack_of_internet_access'', ''value'': ''lack_of_internet_access''}'
+      - '{''id'': 3, ''label'': ''lack_of_affordability'', ''value'': ''lack_of_affordability''}'
+      - '{''id'': 4, ''label'': ''lack_of_literacy'', ''value'': ''lack_of_literacy''}'
+      - '{''id'': 5, ''label'': ''lack_of_trust'', ''value'': ''lack_of_trust''}'
+      - '{''id'': 6, ''label'': ''other'', ''value'': ''other''}'
+      - '{''id'': 7, ''label'': ''none'', ''value'': ''none''}'
+      required: false
+    - id: 5
+      name: device_access
+      label: device_access
+      hint: null
+      type: number
+      options: []
+      required: false

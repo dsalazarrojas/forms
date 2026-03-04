@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotechnology Product Knowledge Quiz
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_role
+      label: Your Role
+      hint: Position or department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quiz_date
+      label: Quiz Date
+      hint: When are you taking this quiz
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_questions
+      label: -- Knowledge Assessment Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question_1
+      label: Question 1 - What is the primary function of biotechnology in drug development
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To speed up the approval process
+      - To use living organisms or cellular processes to create drugs
+      - To eliminate the need for animal testing
+      - To reduce the cost of medication
+      required: true
+    - id: 8
+      name: question_2
+      label: Question 2 - Which technique is used to identify specific DNA sequences
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Gel Electrophoresis
+      - DNA Sequencing
+      - Polymerase Chain Reaction (PCR)
+      - DNA Fingerprinting
+      required: true
+    - id: 9
+      name: question_3
+      label: Question 3 - What does CRISPR-Cas9 technology allow scientists to do
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Clone entire organisms
+      - Edit specific genes in DNA
+      - Grow cells in culture indefinitely
+      - Manufacture synthetic proteins
+      required: true
+    - id: 10
+      name: question_4
+      label: Question 4 - Which of the following is an example of a monoclonal antibody
+        therapeutic
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Insulin
+      - Interferon
+      - Erythropoietin
+      - Herceptin
+      required: true
+    - id: 11
+      name: question_5
+      label: Question 5 - What is the purpose of a clinical trial Phase 1 study
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Assess safety and dosage in small patient groups
+      - Determine effectiveness in larger populations
+      - Confirm long-term effects and monitor adverse reactions
+      - Obtain FDA approval for market release
+      required: true
+    - id: 12
+      name: question_6
+      label: Question 6 - Which term refers to the insertion of genetic material into
+        a cell
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Mutation
+      - Transcription
+      - Transfection
+      - Translation
+      required: true
+    - id: 13
+      name: question_7
+      label: Question 7 - What is the main advantage of recombinant protein production
+        using biotechnology
+      hint: Select the best answer
+      type: select_one
+      options:
+      - It is cheaper than chemical synthesis
+      - It can produce large quantities of pure proteins quickly
+      - It eliminates the need for research
+      - It removes the need for quality testing
+      required: true
+    - id: 14
+      name: question_8
+      label: Question 8 - Which regulatory agency approves new biotech products in
+        the United States
+      hint: Select the best answer
+      type: select_one
+      options:
+      - USDA
+      - FDA
+      - EPA
+      - CDC
+      required: true
+    - id: 15
+      name: question_9
+      label: Question 9 - What is bioprinting primarily used for in biotechnology
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Printing DNA sequences
+      - Creating living tissue structures using 3D printing
+      - Printing laboratory reports
+      - Marking biological samples
+      required: true
+    - id: 16
+      name: question_10
+      label: Question 10 - Which of the following describes personalized medicine
+        in biotech
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Medicine that is custom-made by patients
+      - Treatment tailored to individual genetic profiles
+      - Medicine only available through genetic counseling
+      - Treatment that works for everyone equally
+      required: true
+    - id: 17
+      name: section_application
+      label: -- Application and Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: question_11
+      label: Question 11 - How would you explain synthetic biology to a non-scientist
+      hint: Provide a brief explanation
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: question_12
+      label: Question 12 - Describe a real-world application of biotechnology that
+        interests you most
+      hint: Explain why this application is important
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: question_13
+      label: Question 13 - What ethical considerations should be addressed in genetic
+        engineering
+      hint: Provide your perspective
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_confidence
+      label: -- Self-Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: confidence_level
+      label: Your Overall Confidence in Biotechnology Knowledge
+      hint: Rate your confidence 1-10
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: knowledge_improvement
+      label: Has this training improved your biotech knowledge
+      hint: Select level of improvement
+      type: select_one
+      options:
+      - Significantly Improved
+      - Improved
+      - Somewhat Improved
+      - No Improvement
+      - Decreased
+      required: true
+    - id: 24
+      name: feedback_comments
+      label: Additional Comments or Feedback
+      hint: Share your thoughts about the quiz
+      type: text
+      options: []
+      required: false

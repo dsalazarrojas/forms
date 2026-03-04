@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Security Assessment Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resident_details
+      label: Resident Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: safety_assessment
+      label: Safety Assessment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: fire_safety
+      label: Fire Safety
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: first_aid
+      label: First Aid
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submission_datetime
+      label: Submission Datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_user
+      label: Submission User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_ip
+      label: Submission IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_useragent
+      label: Submission User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_referrer
+      label: Submission Referrer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_location
+      label: Submission Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_language
+      label: Submission Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_timezone
+      label: Submission Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_os
+      label: Submission OS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_browser
+      label: Submission Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_platform
+      label: Submission Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_device
+      label: Submission Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_comment
+      label: Submission Comment
+      hint: null
+      type: text
+      options: []
+      required: false

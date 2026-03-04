@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Service Improvement Request Form
+    pages:
+    - id: 1
+      name: request_info
+      label: Request information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_request_type
+      label: Service Request Type
+      hint: Please specify the type of service requested
+      type: select_one
+      options:
+      - General Inquiry
+      - Request for Service
+      - Complaint
+      - Praise
+      - Other
+      required: false
+    - id: 5
+      name: service_request_description
+      label: Service Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: completed_by
+      label: Completed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      - Closed
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_request_notes
+      label: Service Request Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_request_comments
+      label: Service Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

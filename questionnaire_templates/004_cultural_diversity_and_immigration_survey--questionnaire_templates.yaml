@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Diversity And Immigration Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_information
+      label: demographic_information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cultural_background
+      label: cultural_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: immigration_status
+      label: immigration_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 5
+      name: language_speaking
+      label: language_speaking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 6
+      name: language_spoken_at_home
+      label: language_spoken_at_home
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: years_in_us
+      label: years_in_us
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: highest_education
+      label: highest_education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Elementary School''}'
+      - '{''id'': 2, ''label'': ''High School''}'
+      - '{''id'': 3, ''label'': ''College''}'
+      - '{''id'': 4, ''label'': ''University''}'
+      required: false
+    - id: 9
+      name: highest_education_other
+      label: highest_education_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employed''}'
+      - '{''id'': 2, ''label'': ''Unemployed''}'
+      - '{''id'': 3, ''label'': ''Retired''}'
+      - '{''id'': 4, ''label'': ''Student''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: income_level
+      label: income_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: income_level_range
+      label: income_level_range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''$0-20,000''}'
+      - '{''id'': 2, ''label'': ''$20,001-50,000''}'
+      - '{''id'': 3, ''label'': ''$50,001-100,000''}'
+      - '{''id'': 4, ''label'': ''$100,001 or more''}'
+      required: false
+    - id: 13
+      name: income_level_other
+      label: income_level_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Single''}'
+      - '{''id'': 2, ''label'': ''Married''}'
+      - '{''id'': 3, ''label'': ''Divorced''}'
+      - '{''id'': 4, ''label'': ''Widowed''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: family_size
+      label: family_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: family_size_range
+      label: family_size_range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''1-2''}'
+      - '{''id'': 2, ''label'': ''3-5''}'
+      - '{''id'': 3, ''label'': ''6-10''}'
+      - '{''id'': 4, ''label'': ''11 or more''}'
+      required: false
+    - id: 17
+      name: family_size_other
+      label: family_size_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: race
+      label: race
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Asian''}'
+      - '{''id'': 2, ''label'': ''Black or African American''}'
+      - '{''id'': 3, ''label'': ''Hispanic or Latino''}'
+      - '{''id'': 4, ''label'': ''White''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: ethnic_background
+      label: ethnic_background
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''American Indian or Alaska Native''}'
+      - '{''id'': 2, ''label'': ''Asian''}'
+      - '{''id'': 3, ''label'': ''Black or African American''}'
+      - '{''id'': 4, ''label'': ''Native Hawaiian or Other Pacific Islander''}'
+      - '{''id'': 5, ''label'': ''Some other race or ethnicity''}'
+      required: false
+    - id: 20
+      name: sex
+      label: sex
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Female''}'
+      - '{''id'': 2, ''label'': ''Male''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: age_group
+      label: age_group
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''0-17''}'
+      - '{''id'': 2, ''label'': ''18-24''}'
+      - '{''id'': 3, ''label'': ''25-34''}'
+      - '{''id'': 4, ''label'': ''35-44''}'
+      - '{''id'': 5, ''label'': ''45-54''}'
+      - '{''id'': 6, ''label'': ''55-64''}'
+      - '{''id'': 7, ''label'': ''65 or older''}'
+      required: false
+    - id: 23
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Elementary School''}'
+      - '{''id'': 2, ''label'': ''High School''}'
+      - '{''id'': 3, ''label'': ''Some college''}'
+      - '{''id'': 4, ''label'': ''College''}'
+      - '{''id'': 5, ''label'': ''Some other''}'
+      required: false
+    - id: 24
+      name: income_range
+      label: income_range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''$0-20,000''}'
+      - '{''id'': 2, ''label'': ''$20,001-50,000''}'
+      - '{''id'': 3, ''label'': ''$50,001-100,000''}'
+      - '{''id'': 4, ''label'': ''$100,001 or more''}'
+      required: false
+    - id: 25
+      name: other_income
+      label: other_income
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: public-policy-opinion-survey
+    pages:
+    - id: 1
+      name: what_is_your_current_employment_status
+      label: what-is-your-current-employment-status
+      hint: Please select your current employment status
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''employed'', ''label'': ''Employed''}'
+      - '{''id'': 2, ''value'': ''retired'', ''label'': ''Retired''}'
+      - '{''id'': 3, ''value'': ''unemployed'', ''label'': ''Unemployed''}'
+      required: false
+    - id: 2
+      name: what_is_your_annual_income
+      label: what-is-your-annual-income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: which_political_party
+      label: which-political-party
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''democratic-party'', ''label'': ''Democratic Party''}'
+      - '{''id'': 2, ''value'': ''republican-party'', ''label'': ''Republican Party''}'
+      - '{''id'': 3, ''value'': ''independent'', ''label'': ''Independent''}'
+      required: false
+    - id: 4
+      name: how_old_are_you
+      label: how-old-are-you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: do_you_agree_with_the_following_statement
+      label: do-you-agree-with-the-following-statement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True, ''label'': True}'
+      - '{''id'': 2, ''value'': False, ''label'': False}'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: what_is_your_education_level
+      label: what-is-your-education-level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''high-school'', ''label'': ''High School''}'
+      - '{''id'': 2, ''value'': ''some-college'', ''label'': ''Some College''}'
+      - '{''id'': 3, ''value'': ''college'', ''label'': ''College''}'
+      required: false
+    - id: 10
+      name: which_form_of_employment
+      label: which-form-of-employment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''government'', ''label'': ''Government''}'
+      - '{''id'': 2, ''value'': ''private'', ''label'': ''Private''}'
+      - '{''id'': 3, ''value'': ''non-profit'', ''label'': ''Non-profit''}'
+      required: false
+    - id: 11
+      name: how_often_do_you_use_the_internet
+      label: how-often-do-you-use-the-internet
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''daily'', ''label'': ''Daily''}'
+      - '{''id'': 2, ''value'': ''weekly'', ''label'': ''Weekly''}'
+      - '{''id'': 3, ''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''id'': 4, ''value'': ''rarely'', ''label'': ''Rarely''}'
+      - '{''id'': 5, ''value'': ''never'', ''label'': ''Never''}'
+      required: false
+    - id: 12
+      name: do_you_own_or_rent
+      label: do-you-own-or-rent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''own'', ''label'': ''Own''}'
+      - '{''id'': 2, ''value'': ''rent'', ''label'': ''Rent''}'
+      required: false
+    - id: 13
+      name: what_is_your_annual_housing_cost
+      label: what-is-your-annual-housing-cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: how_many_hours_do_you_work
+      label: how-many-hours-do-you-work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: do_you_have_a_family
+      label: do-you-have-a-family
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True, ''label'': True}'
+      - '{''id'': 2, ''value'': False, ''label'': False}'
+      required: false
+    - id: 16
+      name: how_many_members_in_your_family
+      label: how-many-members-in-your-family
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: what_is_your_household_income
+      label: what-is-your-household-income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: how_many_children_under_18_in_your_household
+      label: how-many-children-under-18-in-your-household
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: how_many_people_in_your_household
+      label: how-many-people-in-your-household
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: how_much_does_your_household_income_per_year
+      label: how-much-does-your-household-income-per-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: do_you_agree_with_the_following_statement_2
+      label: do-you-agree-with-the-following-statement-2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True, ''label'': True}'
+      - '{''id'': 2, ''value'': False, ''label'': False}'
+      required: false
+    - id: 22
+      name: how_often_do_you_read_local_newspaper
+      label: how-often-do-you-read-local-newspaper
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''daily'', ''label'': ''Daily''}'
+      - '{''id'': 2, ''value'': ''weekly'', ''label'': ''Weekly''}'
+      - '{''id'': 3, ''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''id'': 4, ''value'': ''rarely'', ''label'': ''Rarely''}'
+      - '{''id'': 5, ''value'': ''never'', ''label'': ''Never''}'
+      required: false
+    - id: 23
+      name: what_is_your_annual_income
+      label: what-is-your-annual-income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: do_you_agree_with_the_following_statement_3
+      label: do-you-agree-with-the-following-statement-3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True, ''label'': True}'
+      - '{''id'': 2, ''value'': False, ''label'': False}'
+      required: false
+    - id: 25
+      name: additional_comments_2
+      label: additional-comments-2
+      hint: null
+      type: text
+      options: []
+      required: false

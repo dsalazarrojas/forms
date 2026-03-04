@@ -1,0 +1,150 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "AO - British Columbia Post Interview Questionnaire"
+    pages:
+    - id: 1
+      name: section_header_candidate_info
+      label: "-- Candidate Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name
+      label: "Full name of the candidate interviewed"
+      hint: "Enter first and last name"
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_applied_for
+      label: "Position the candidate applied for"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interview_date
+      label: "Date of the interview"
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: interviewer_name
+      label: "Name of the interviewer"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_evaluation
+      label: "-- Candidate Evaluation --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_impression
+      label: "Overall impression of the candidate"
+      hint: "Select the option that best reflects your assessment"
+      type: select_one
+      options:
+        - "Excellent"
+        - "Good"
+        - "Average"
+        - "Below Average"
+        - "Poor"
+      required: true
+    - id: 8
+      name: communication_skills
+      label: "How would you rate the candidate's communication skills"
+      hint: "1 = Poor, 5 = Excellent"
+      type: select_one
+      options:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+      required: true
+    - id: 9
+      name: technical_knowledge
+      label: "How would you rate the candidate's technical knowledge"
+      hint: "1 = Poor, 5 = Excellent"
+      type: select_one
+      options:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+      required: true
+    - id: 10
+      name: cultural_fit
+      label: "How well does the candidate align with the organization's culture"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly Aligned"
+        - "Somewhat Aligned"
+        - "Neutral"
+        - "Somewhat Misaligned"
+        - "Not Aligned"
+      required: true
+    - id: 11
+      name: candidate_strengths
+      label: "What are the candidate's key strengths"
+      hint: "List the top strengths observed during the interview"
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: areas_for_improvement
+      label: "What areas could the candidate improve on"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: candidate_interest_level
+      label: "How interested did the candidate seem in the position"
+      hint: null
+      type: select_one
+      options:
+        - "Very Interested"
+        - "Somewhat Interested"
+        - "Neutral"
+        - "Not Very Interested"
+        - "Not Interested at All"
+      required: true
+    - id: 14
+      name: recommendation
+      label: "Would you recommend this candidate for the position"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly Recommend"
+        - "Recommend"
+        - "Recommend with Reservations"
+        - "Do Not Recommend"
+      required: true
+    - id: 15
+      name: additional_comments
+      label: "Additional comments or observations"
+      hint: "Provide any further notes about the candidate"
+      type: text
+      options: []
+      required: false

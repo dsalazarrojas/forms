@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: property-auction-claim-form
+    pages:
+    - id: 1
+      name: user_info
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bid_date
+      label: Bid Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: bid_time
+      label: Bid Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true
+    - id: 7
+      name: representative
+      label: Representative
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: property_team
+      label: Property Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email_verification
+      label: Email Verification
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_representative
+      label: Representative of Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_property_team
+      label: Property Team of Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: property_auctions_manager_notes
+      label: Property Auctions Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: property_auctions_manger_phone
+      label: Property Auctions Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_auctions_manager_email
+      label: Property Auctions Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: property_auctions_manger_representative
+      label: Property Auctions Manager Representative
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: property_auctions_manager_property_team
+      label: Property Auctions Manager Property Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: property_auctions_manager_verification
+      label: Property Auctions Manager Verification
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      required: false

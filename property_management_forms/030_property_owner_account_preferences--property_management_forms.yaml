@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Property Owner Account Preferences
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: Enter your first name, Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - text
+      required: true
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 5
+      name: contact_frequency
+      label: Contact Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 6
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: true
+    - id: 7
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: notes_1
+      label: Notes 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes_3
+      label: Notes 3
+      hint: null
+      type: note
+      options: []
+      required: false

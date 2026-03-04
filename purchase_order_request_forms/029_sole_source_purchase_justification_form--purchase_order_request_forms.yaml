@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sole Source Purchase Justification Form
+    pages:
+    - id: 1
+      name: purchase_request_details
+      label: Purchase Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_type
+      label: purchase_type
+      hint: null
+      type: select_one
+      options:
+      - Sole Source
+      - Best Value
+      - Other
+      required: false
+    - id: 3
+      name: justification
+      label: justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contract_date
+      label: contract_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_value
+      label: contract_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: procurement_officer
+      label: procurement_officer
+      hint: null
+      type: select_one
+      options:
+      - Procurement Officer 1
+      - Procurement Officer 2
+      required: false
+    - id: 8
+      name: department_head
+      label: department_head
+      hint: null
+      type: select_multiple
+      options:
+      - Department Head 1
+      - Department Head 2
+      - Department Head 3
+      required: false
+    - id: 9
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,152 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Branding And Marketing Inquiry
+    pages:
+      - id: 1
+        name: inquiry_intro
+        label: -- Branding and Marketing Discovery --
+        hint: Help us understand your vision and project requirements.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_company_name
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: primary_contact
+        label: Primary Contact Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_goals_header
+        label: -- Project Objectives --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: primary_project_goal
+        label: What is your primary goal for this project?
+        hint: e.g. Brand Refresh, New Product Launch, Increased Lead Gen
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: target_audience
+        label: Who is your target audience?
+        hint: Describe demographics and psychographics
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: brand_values
+        label: What are your core brand values? (Top 3)
+        hint: e.g. Transparency, Innovation, Sustainability
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: services_requested
+        label: Which services are you interested in?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Logo Design & Visual Identity
+          - Brand Voice & Messaging
+          - Social Media Strategy
+          - Content Marketing
+          - SEO/SEM
+          - Email Marketing
+          - Paid Advertising (PPC)
+        required: true
+      - id: 9
+        name: budget_header
+        label: -- Budget and Timeline --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: estimated_budget
+        label: Estimated Budget Range ($)
+        hint: null
+        type: select_one
+        options:
+          - $2,500 - $5,000
+          - $5,000 - $10,000
+          - $10,000 - $25,000
+          - $25,000 - $50,000
+          - $50,000+
+        required: true
+      - id: 11
+        name: desired_launch_date
+        label: Ideal Launch Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: competitors_list
+        label: List your top 3 competitors
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: existing_assets_check
+        label: Do you have existing brand assets (Brand Book, Logos)?
+        hint: null
+        type: select_one
+        options:
+          - Yes, ready to provide
+          - Some, but need updating
+          - None, starting from scratch
+        required: true
+      - id: 14
+        name: discovery_call_interest
+        label: Are you available for a 30-minute discovery call next week?
+        hint: null
+        type: select_one
+        options:
+          - Yes, please send booking link
+          - Not yet, just send a quote
+        required: true
+      - id: 15
+        name: additional_comments
+        label: Any additional details we should know?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: contact_email
+        label: Best email for follow-up
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 17
+        name: inquiry_footer
+        label: -- Thank you for your inquiry --
+        hint: Our strategy team will review your submission and contact you within 2 business days.
+        type: note
+        options: []
+        required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunication Systems Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: telecommunication_systems_knowledge_questions
+      label: Telecommunication Systems Knowledge Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: quiz_title
+      label: Quiz Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quiz_duration
+      label: Quiz Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quiz_start_time
+      label: Quiz Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: quiz_end_time
+      label: Quiz End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: telecommunication_systems_knowledge_answers
+      label: Telecommunication Systems Knowledge Answers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: quiz_score
+      label: Quiz Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: quiz_status
+      label: Quiz Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

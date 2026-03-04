@@ -1,0 +1,60 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: veneer_comfort_and_speech_survey
+    pages:
+    - id: 1
+      name: comfort_level
+      label: How would you rate your overall comfort level after treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Comfortable
+      - Somewhat Comfortable
+      - Neutral
+      - Somewhat Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 2
+      name: sensitivity_level
+      label: How would you rate your level of sensitivity after treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - Not Noticeable
+      - Noticeable but Tolerable
+      - Noticeable and Discomforting
+      required: true
+    - id: 3
+      name: speech_level
+      label: Has your speech changed after treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - Yes - Slightly
+      - Yes - Noticeably
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: How satisfied are you with the overall treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true

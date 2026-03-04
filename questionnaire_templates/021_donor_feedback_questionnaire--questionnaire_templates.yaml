@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Feedback Questionnaire
+    pages:
+    - id: 1
+      name: donor_feedback_form
+      label: Donor Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_on_event_type
+      label: Feedback On Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Event''}'
+      - '{''value'': ''Campaign''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 4
+      name: event_details_event
+      label: Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_details_campaign
+      label: Campaign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_on_what_went_well
+      label: Feedback On What Went Well
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_on_what_didnt_go_well
+      label: Feedback On What Didn't Go Well
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_on_improvement
+      label: Feedback On Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_on_what_was_helpful
+      label: Feedback On What Was Helpful
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

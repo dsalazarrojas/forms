@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Role Clarity Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: treasury_responsibilities
+      label: Treasury Responsibilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comment
+      label: Comments
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reporting_line_title
+      label: Reporting Line Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_line_email
+      label: Reporting Line Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: reporting_line_phone
+      label: Reporting Line Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting_line_title
+      label: Reporting Line Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: text
+      options: []
+      required: false

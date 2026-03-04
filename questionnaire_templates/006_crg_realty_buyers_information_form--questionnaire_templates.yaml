@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRG Realty Buyers Information Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer name
+      hint: Full name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Preferred contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_type_interest
+      label: Property type of interest
+      hint: Select primary property preference
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Land
+      required: true
+    - id: 5
+      name: budget_range
+      label: Budget range
+      hint: Estimated purchase budget
+      type: select_one
+      options:
+      - Under 100000
+      - 100000 to 300000
+      - 300000 to 600000
+      - Over 600000
+      required: true
+    - id: 6
+      name: preferred_locations
+      label: Preferred locations
+      hint: Neighborhoods or cities
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: timeline_to_buy
+      label: Timeline to purchase
+      hint: When do you plan to buy
+      type: select_one
+      options:
+      - Immediately
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6+ months
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: Any other details for the agent
+      type: text
+      options: []
+      required: false

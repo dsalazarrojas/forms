@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Admission Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: Primary email for communications
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: membership_type
+      label: Membership Type
+      hint: Select the type of membership you are applying for
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Senior
+      - Youth
+      - Student
+      required: true
+    - id: 15
+      name: programs_interested
+      label: Programs Interested In
+      hint: Select programs you would like to participate in
+      type: select_multiple
+      options:
+      - Fitness Classes
+      - Sports Leagues
+      - Arts and Crafts
+      - Educational Workshops
+      - Senior Programs
+      - Youth Programs
+      - Special Events
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any conditions or allergies we should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accessibility accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you learn about the community center?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Flyer or Poster
+      - Local Advertisement
+      - Other
+      required: false
+    - id: 19
+      name: terms_accepted
+      label: I Agree to Terms and Conditions
+      hint: By checking this box, you agree to the center policies
+      type: select_one
+      options:
+      - Yes, I accept
+      - Other
+      required: true
+    - id: 20
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Purchase Authorization Form
+    pages:
+    - id: 1
+      name: requestor_details_header
+      label: -- Requestor Information --
+      hint: To be completed by the person initiating the purchase
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_name
+      label: Department / Cost Center
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Information Technology
+      - Marketing and Sales
+      - Human Resources
+      - Security and Facilities
+      - Branch Operations
+      required: true
+    - id: 4
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: purchase_details_header
+      label: -- Purchase Details --
+      hint: List the items or services requested
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_description
+      label: Description of Items or Services
+      hint: Include quantities, model numbers, or project names
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: estimated_total_cost
+      label: Estimated Total Cost
+      hint: Including tax and shipping
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Important
+      - Critical / Emergency
+      required: true
+    - id: 9
+      name: vendor_info_header
+      label: -- Proposed Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vendor_website_quote
+      label: Vendor Quote or Website Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: budget_check_header
+      label: -- Budget and Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: budget_availability
+      label: Is this purchase within the current department budget?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Within Budget
+      - No - Over Budget (Requires justification)
+      required: true
+    - id: 14
+      name: business_justification
+      label: Business Justification
+      hint: Why is this purchase necessary for bank operations?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: approval_flow_header
+      label: -- Approval Routing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: manager_approval_name
+      label: Direct Manager Name
+      hint: Person authorized to approve this request
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: approval_status
+      label: Approval Status
+      hint: For administrative use only
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Denied
+      - More Information Requested
+      required: false
+    - id: 18
+      name: final_reviewer_notes
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

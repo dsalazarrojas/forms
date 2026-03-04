@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: model_call_questionnaire
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: model_type
+      label: Model Type
+      hint: null
+      type: select_one
+      options:
+      - Model
+      - Non Model
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Email
+      - Phone
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: false
+    - id: 8
+      name: portfolio_link
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: portfolio_type
+      label: Portfolio Type
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Other
+      required: false
+    - id: 10
+      name: portfolio_link_2
+      label: Portfolio Link 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: portfolio_link_3
+      label: Portfolio Link 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: why_call
+      label: Why Call
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: model_fee
+      label: Model Fee
+      hint: null
+      type: select_one
+      options:
+      - $0-$50
+      - $50-$100
+      - $100+
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Curator Interview Form
+    pages:
+    - id: 1
+      name: candidate_overview_header
+      label: -- Candidate Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interview_date
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_evaluation_header
+      label: -- Experience and Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: years_curatorial_experience
+      label: Years of Curatorial Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: academic_background
+      label: Academic Background (Degrees in Art History, Museum Studies, etc.)
+      hint: null
+      type: select_one
+      options:
+      - PhD in Art History - Related Field
+      - MA in Curatorial Studies
+      - MA in Art History
+      - BA in Art History
+      - Other Professional Degree
+      required: true
+    - id: 8
+      name: primary_specialization
+      label: Primary Artistic Specialization
+      hint: e.g., Contemporary Art, Renaissance, Photography, etc.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: previous_exhibitions_scale
+      label: Scale of Previously Curated Exhibitions
+      hint: null
+      type: select_one
+      options:
+      - Major Museum Retrospectives
+      - Commercial Gallery Shows
+      - Independent Pop-up Exhibitions
+      - Academic - University Gallery
+      required: true
+    - id: 10
+      name: interview_questions_header
+      label: -- Interview Responses --
+      hint: Rate the candidate's answers to the following core questions
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vision_and_narrative_score
+      label: Ability to develop a compelling exhibition narrative
+      hint: null
+      type: select_one
+      options:
+      - Outstanding
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 12
+      name: artist_relationship_management
+      label: Experience in artist relationship and contract management
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Familiar
+      - No Experience
+      required: true
+    - id: 13
+      name: technical_installation_knowledge
+      label: Knowledge of conservation and installation standards
+      hint: null
+      type: select_one
+      options:
+      - Advanced
+      - Sufficient
+      - Basic
+      - Needs Development
+      required: true
+    - id: 14
+      name: budget_management_experience
+      label: Proficiency in exhibition budget oversight
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 15
+      name: curator_strengths_summary
+      label: Summary of Candidate Strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: curator_weaknesses_summary
+      label: Summary of Areas for Concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hiring_recommendation_header
+      label: -- Final Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: hiring_decision
+      label: Final Hiring Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Strongly Recommend for Hire
+      - Consider for Next Stage
+      - Not Recommended
+      required: true
+    - id: 19
+      name: interviewer_signature
+      label: Interviewer Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lifespan Development Knowledge Quiz
+    pages:
+    - id: 1
+      name: first_three_years
+      label: What is the first three years of life called?
+      hint: null
+      type: select_one
+      options:
+      - Infancy
+      - Toddlerhood
+      - Childhood
+      required: false
+    - id: 2
+      name: prenatal_pregnancy
+      label: What is prenatal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: infancy
+      label: Infancy
+      hint: null
+      type: select_one
+      options:
+      - Birth to 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      required: false
+    - id: 4
+      name: toddlerhood
+      label: Toddlerhood
+      hint: null
+      type: select_one
+      options:
+      - 1 to 2 years
+      - 2 to 3 years
+      - 3 to 4 years
+      required: false
+    - id: 5
+      name: childhood
+      label: Childhood
+      hint: null
+      type: select_multiple
+      options:
+      - 2 to 6 years
+      - 6 to 12 years
+      - 12 to 18 years
+      required: false
+    - id: 6
+      name: adolescence
+      label: Adolescence
+      hint: null
+      type: select_one
+      options:
+      - 10 to 14 years
+      - 14 to 18 years
+      required: false
+    - id: 7
+      name: young_adulthood
+      label: Young Adulthood
+      hint: null
+      type: select_one
+      options:
+      - 18 to 25 years
+      - Other
+      required: false
+    - id: 8
+      name: adulthood
+      label: Adulthood
+      hint: null
+      type: select_one
+      options:
+      - 25 years and above
+      - Other
+      required: false
+    - id: 9
+      name: lifespan_stage_important
+      label: What stage is the most important?
+      hint: null
+      type: select_one
+      options:
+      - None of the above
+      - Infancy
+      - Toddlerhood
+      - Childhood
+      - Adolescence
+      - Young Adulthood
+      - Adulthood
+      required: false

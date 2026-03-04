@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Questionnaire
+    pages:
+    - id: 1
+      name: family_name
+      label: Family Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: household_count
+      label: Number of Household Members
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: physical_address
+      label: Current Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_impact
+      label: Has your employment status been affected by the pandemic?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Lost job
+      - Yes - Reduced hours
+      - No impact
+      - Not employed
+      required: true
+    - id: 6
+      name: immediate_needs
+      label: Does your household have any immediate needs?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Food assistance
+      - Medical supplies
+      - Rent/Utility support
+      - Child care
+      - Transportation
+      required: true
+    - id: 7
+      name: internet_access
+      label: Do all household members have access to the internet for remote learning
+        or work?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Sometimes
+      required: true
+    - id: 8
+      name: elderly_count
+      label: Number of household members over age 65
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: medical_needs_detail
+      label: List any specific medical or health supplies needed
+      hint: e.g. insulin, specialized formula, masks
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_delivery
+      label: Preferred time for assistance delivery or pickup
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      required: true
+    - id: 11
+      name: certification_header
+      label: -- Certification --
+      hint: By submitting this form you certify the information provided is for nonprofit
+        support use
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: info_accuracy_agree
+      label: I certify that the information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classifieds Order Form Example
+    pages:
+    - id: 1
+      name: advertiser_name
+      label: Advertiser Name
+      hint: Your full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: advertiser_email
+      label: Email Address
+      hint: Email for confirmation and contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: advertiser_phone
+      label: Phone Number
+      hint: Contact telephone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_header_ad_details
+      label: -- Advertisement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ad_category
+      label: Advertisement Category
+      hint: Select the primary category for your ad
+      type: select_one
+      options:
+      - For Sale - Items
+      - For Sale - Real Estate
+      - For Sale - Vehicles
+      - Services Offered
+      - Employment
+      - Rentals
+      - Wanted/Seeking
+      - Other
+      required: true
+    - id: 6
+      name: ad_headline
+      label: Advertisement Headline
+      hint: Brief title for your ad (50 characters max)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ad_description
+      label: Advertisement Description
+      hint: Detailed description of what you are advertising
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ad_price
+      label: Price (if applicable)
+      hint: Cost or asking price
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: ad_location
+      label: Location or Service Area
+      hint: Geographic area relevant to the ad
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name_in_ad
+      label: Contact Name to Display
+      hint: Name to show in the classified ad
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone_in_ad
+      label: Contact Phone to Display
+      hint: Phone number to show in the ad
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email_in_ad
+      label: Contact Email to Display
+      hint: Email to show in the ad
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: section_header_publication
+      label: -- Publication Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: publication_choice
+      label: Which Publication?
+      hint: Select the newspaper or publication
+      type: select_one
+      options:
+      - Daily Newspaper - Print
+      - Sunday Newspaper - Print
+      - Weekly Gazette
+      - Community News
+      required: true
+    - id: 15
+      name: publication_date
+      label: Desired Publication Date
+      hint: When should your ad appear?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: number_of_issues
+      label: Number of Issues
+      hint: How many consecutive publications?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_header_pricing
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: ad_word_count
+      label: Word Count
+      hint: Approximate number of words in your ad
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: pricing_tier
+      label: Pricing Tier
+      hint: Select pricing based on size and duration
+      type: select_one
+      options:
+      - Economy (25-50 words, 1 issue)
+      - Standard (50-100 words, 2-4 issues)
+      - Premium (100+ words, highlighted)
+      - Featured (Bold/Highlighted, Multiple Issues)
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - In Person
+      required: true
+    - id: 21
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: special_formatting
+      label: Special Formatting Requested
+      hint: Bold, italics, or other special formatting?
+      type: text
+      options: []
+      required: false

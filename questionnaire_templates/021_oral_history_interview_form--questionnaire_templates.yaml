@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oral History Interview Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_date
+      label: introduction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: introduction_time
+      label: introduction_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: introduction_location
+      label: introduction_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interviewer_notes
+      label: interviewer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: introduction_interviewer
+      label: introduction_interviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: introduction_participants
+      label: introduction_participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: introduction_topics
+      label: introduction_topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: introduction_other_notes
+      label: introduction_other_notes
+      hint: null
+      type: text
+      options: []
+      required: false

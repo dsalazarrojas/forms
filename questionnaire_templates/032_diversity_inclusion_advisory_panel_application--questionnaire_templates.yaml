@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diversity & Inclusion Advisory Panel Application
+    pages:
+    - id: 1
+      name: candidate
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Chair
+      - Member
+      - Alternate
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

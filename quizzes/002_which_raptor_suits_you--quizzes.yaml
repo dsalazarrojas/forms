@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: which_raptor_suits_you
+    pages:
+    - id: 1
+      name: intro_page
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_page
+      label: Which raptor
+      hint: null
+      type: select_one
+      options:
+      - Raptor Alpha
+      - Raptor Beta
+      - Raptor Gamma
+      - Raptor Delta
+      required: false
+    - id: 3
+      name: select_page
+      label: Which color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Green
+      - Yellow
+      - Blue
+      required: true
+    - id: 4
+      name: answer_page
+      label: What do you think?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_page
+      label: What is your favorite animal
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      required: false
+    - id: 6
+      name: number_page
+      label: What number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: decimal_page
+      label: What decimal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_page
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_page
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_page
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

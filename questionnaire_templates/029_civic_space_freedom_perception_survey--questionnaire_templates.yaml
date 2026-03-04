@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Space Freedom Perception Survey
+    pages:
+    - id: 1
+      name: respondent_affiliation
+      label: Respondent affiliation
+      hint: NGO researcher activist citizen
+      type: select_one
+      options:
+      - NGO
+      - Researcher
+      - Activist
+      - Citizen
+      - Other
+      required: false
+    - id: 2
+      name: location
+      label: Location surveyed
+      hint: City district or neighborhood
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: perception_of_freedom
+      label: Perception of freedom to assemble and speak
+      hint: 1 very restricted to 5 very free
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: incidents_reported
+      label: Any incidents restricting civic space
+      hint: Brief description if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_concerns
+      label: Safety concerns for civic actors
+      hint: Describe concerns
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_needed
+      label: Support needed to improve civic space
+      hint: Legal protection training funding advocacy
+      type: select_multiple
+      options:
+      - Legal support
+      - Capacity building
+      - Funding
+      - Advocacy
+      required: false
+    - id: 7
+      name: willingness_to_report
+      label: Willingness to report violations
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations to expand civic space
+      hint: Practical steps or policy suggestions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_for_follow_up
+      label: Consent for follow up contact
+      hint: Provide email if yes
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

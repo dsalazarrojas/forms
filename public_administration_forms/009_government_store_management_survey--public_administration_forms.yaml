@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Store Management Survey
+    pages:
+    - id: 1
+      name: store_location
+      label: Store Location
+      hint: null
+      type: select_one
+      options:
+      - Government Store 1
+      - Government Store 2
+      - Government Store 3
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: feedback_score
+      label: Feedback Score
+      hint: Score the manager's performance on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Describe the manager's performance
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_operations
+      label: Store Operations
+      hint: List specific store operations challenges
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: priority_areas
+      label: Priority Areas
+      hint: Select all areas that require improvement
+      type: select_multiple
+      options:
+      - Store Layout
+      - Store Staffing
+      - Inventory Management
+      - Sales Performance
+      - Customer Service
+      required: false
+    - id: 8
+      name: performance_data
+      label: Performance Data
+      hint: Upload performance data CSV file
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_file
+      label: Uploaded File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_response
+      label: Manager Response
+      hint: null
+      type: text
+      options: []
+      required: false

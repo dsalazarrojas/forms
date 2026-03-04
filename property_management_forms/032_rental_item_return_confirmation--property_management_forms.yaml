@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Item Return Confirmation
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: returned_date
+      label: Returned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: returned_date_confirmation
+      label: Returned Date Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: item_damage_description
+      label: Item Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: return_reason
+      label: Return Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: returned_by
+      label: Returned By
+      hint: null
+      type: select_one
+      options:
+      - Staff
+      - Customer
+      required: false
+    - id: 10
+      name: returned_by_id
+      label: Returned By ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: return_status
+      label: Return Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
+    - id: 14
+      name: return_status_date
+      label: Return Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false

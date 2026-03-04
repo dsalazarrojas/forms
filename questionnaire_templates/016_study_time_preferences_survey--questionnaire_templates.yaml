@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Time Preferences Survey
+    pages:
+    - id: 1
+      name: study_time_preferences_survey_page_1
+      label: study_time_preferences_survey_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_routine_frequency
+      label: study_routine_frequency_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: study_routine_location
+      label: study_routine_location_label
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: study_routine_duration
+      label: study_routine_duration_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: productivity_patterns
+      label: productivity_patterns_label
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: time_of_day
+      label: time_of_day_label
+      hint: null
+      type: time
+      options: []
+      required: false

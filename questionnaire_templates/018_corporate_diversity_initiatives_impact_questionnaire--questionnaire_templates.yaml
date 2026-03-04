@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_diversity_initiatives_impact_questionnaire
+    pages:
+    - id: 1
+      name: demographic_info
+      label: Diversity and Inclusion Efforts
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department_prophets
+      label: Departmental Initiatives
+      hint: None
+      type: select_multiple
+      options:
+      - Diversity and Inclusion Committee
+      - Employee Resource Groups
+      - Leadership Development Programs
+      - Mentorship Programs
+      - Training and Development
+      required: true
+    - id: 3
+      name: employee_feedback
+      label: Employee Feedback
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: departmental_initiatives
+      label: Departmental Initiatives
+      hint: None
+      type: select_one
+      options:
+      - Diversity and Inclusion Committee
+      - Employee Resource Groups
+      - Leadership Development Programs
+      - Mentorship Programs
+      - Training and Development
+      required: true
+    - id: 5
+      name: perceived_impact
+      label: Perceived Impact
+      hint: None
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: departmental_impact
+      label: Departmental Impact
+      hint: None
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: departmental_impact_frequency
+      label: Departmental Impact Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 8
+      name: departmental_progress
+      label: Departmental Progress
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: departmental_progress_frequency
+      label: Departmental Progress Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 10
+      name: departmental_challenges
+      label: Departmental Challenges
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: departmental_challenges_frequency
+      label: Departmental Challenges Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 12
+      name: departmental_suggestions
+      label: Departmental Suggestions
+      hint: None
+      type: select_multiple
+      options:
+      - Diversity and Inclusion Committee
+      - Employee Resource Groups
+      - Leadership Development Programs
+      - Mentorship Programs
+      - Training and Development
+      required: false
+    - id: 13
+      name: departmental_suggestions_frequency
+      label: Departmental Suggestions Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 14
+      name: departmental_suggestions_impact
+      label: Departmental Suggestions Impact
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: departmental_suggestions_impact_frequency
+      label: Departmental Suggestions Impact Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 16
+      name: departmental_suggestions_progress
+      label: Departmental Suggestions Progress
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: departmental_suggestions_progress_frequency
+      label: Departmental Suggestions Progress Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 18
+      name: departmental_suggestions_challenges
+      label: Departmental Suggestions Challenges
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: departmental_suggestions_challenges_frequency
+      label: Departmental Suggestions Challenges Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 20
+      name: departmental_suggestions_implementation
+      label: Departmental Suggestions Implementation
+      hint: None
+      type: select_multiple
+      options:
+      - Diversity and Inclusion Committee
+      - Employee Resource Groups
+      - Leadership Development Programs
+      - Mentorship Programs
+      - Training and Development
+      required: false
+    - id: 21
+      name: departmental_suggestions_implementation_frequency
+      label: Departmental Suggestions Implementation Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 22
+      name: departmental_suggestions_implementation_status
+      label: Departmental Suggestions Implementation Status
+      hint: None
+      type: select_one
+      options:
+      - In Progress
+      - Implemented
+      - Planned
+      required: false
+    - id: 23
+      name: departmental_suggestions_implementation_status_frequency
+      label: Departmental Suggestions Implementation Status Frequency
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 24
+      name: departmental_suggestions_implementation_status_progress
+      label: Departmental Suggestions Implementation Status Progress
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: departmental_suggestions_implementation_status_progress_frequency
+      label: Departmental Suggestions Implementation Status Progress
+      hint: None
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false

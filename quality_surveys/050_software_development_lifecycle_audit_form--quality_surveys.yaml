@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Development Lifecycle Audit Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: project_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Waterfall
+      - Agile
+      - Hybrid
+      required: true
+    - id: 4
+      name: project_team_size
+      label: Team size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: project_sprint_duration
+      label: Sprint duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_sprint_frequency
+      label: Sprint frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 7
+      name: project_sprint_start_date
+      label: Sprint start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_sprint_end_date
+      label: Sprint end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: project_status
+      label: Project status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On-hold
+      required: true
+    - id: 10
+      name: project_lead_name
+      label: Lead name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_lead_email
+      label: Lead email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: project_lead_phone
+      label: Lead phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_lead_role
+      label: Lead role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_lead_manager_name
+      label: Lead manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_lead_manager_email
+      label: Lead manager email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: project_lead_manager_phone
+      label: Lead manager phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_lead_manager_role
+      label: Lead manager role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: project_lead_team
+      label: Lead team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_sprint_start_date_estimated
+      label: Sprint start date estimated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: project_sprint_end_date_estimated
+      label: Sprint end date estimated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: project_lead_estimated_sprint_start_date
+      label: Estimated sprint start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: project_lead_estimated_sprint_end_date
+      label: Estimated sprint end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: project_lead_actual_sprint_duration
+      label: Actual sprint duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: project_lead_lead_manager_comment
+      label: Lead manager comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: project_lead_comment
+      label: Project lead comment
+      hint: null
+      type: note
+      options: []
+      required: false

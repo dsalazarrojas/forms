@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sexual Cells Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cells_type
+      label: cells_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mitosis''}'
+      - '{''label'': ''Meiosis''}'
+      - '{''label'': ''Somatic''}'
+      - '{''label'': ''Both''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 3
+      name: cell_membrane
+      label: cell_membrane
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cell_nucleus
+      label: cell_nucleus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cell_structure
+      label: cell_structure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Plasma''}'
+      - '{''label'': ''Cytoplasm''}'
+      - '{''label'': ''Nucleus''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 6
+      name: cell_transport
+      label: cell_transport
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Diffusion''}'
+      - '{''label'': ''Osmosis''}'
+      - '{''label'': ''Endocytosis''}'
+      - '{''label'': ''Exocytosis''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 7
+      name: cell_growth
+      label: cell_growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cell_division
+      label: cell_division
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Mitosis''}'
+      - '{''label'': ''Meiosis''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 9
+      name: cell_death
+      label: cell_death
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Apoptosis''}'
+      - '{''label'': ''Necrosis''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 10
+      name: cell_cycle
+      label: cell_cycle
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''G1''}'
+      - '{''label'': ''G2''}'
+      - '{''label'': ''S''}'
+      - '{''label'': ''None''}'
+      required: false

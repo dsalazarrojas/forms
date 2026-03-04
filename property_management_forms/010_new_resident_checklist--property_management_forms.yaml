@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Resident Checklist
+    pages:
+    - id: 1
+      name: new_resident_checklist_form
+      label: new_resident_checklist_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: unit_number
+      label: unit_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: move_in_time
+      label: move_in_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: move_in_vehicle
+      label: move_in_vehicle
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Taxi
+      - Train
+      - Bus
+      - Bike
+      - Walk
+      required: false
+    - id: 11
+      name: vehicle_registration
+      label: vehicle_registration
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 12
+      name: parking_arrangement
+      label: parking_arrangement
+      hint: null
+      type: select_one
+      options:
+      - On-site Parking
+      - Off-site Parking
+      - Not Applicable
+      required: false
+    - id: 13
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

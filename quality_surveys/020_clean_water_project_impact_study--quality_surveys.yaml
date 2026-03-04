@@ -1,0 +1,468 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clean Water Project Impact Study
+    pages:
+      - id: 1
+        name: section_header_project
+        label: -- Project Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: project_name
+        label: Project Name
+        hint: Name of the clean water project
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: project_id
+        label: Project ID Number
+        hint: Unique project identifier
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_location
+        label: Project Location
+        hint: Village, town, or community name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: district
+        label: District or Region
+        hint: Administrative district
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: country
+        label: Country
+        hint: Country where project is located
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: project_completion_date
+        label: Project Completion Date
+        hint: When was the project completed
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: survey_date
+        label: Survey Date
+        hint: Date of this impact survey
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: surveyor_name
+        label: Surveyor Name
+        hint: Name of the person conducting the survey
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: organization
+        label: Implementing Organization
+        hint: Name of the organization that implemented the project
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: section_header_community
+        label: -- Community Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: household_size
+        label: Household Size
+        hint: Number of people in your household
+        type: select_one
+        options:
+          - 1-3 people
+          - 4-6 people
+          - 7-10 people
+          - More than 10 people
+        required: true
+      - id: 13
+        name: number_of_children
+        label: Number of Children Under 18
+        hint: How many children under 18 in your household
+        type: select_one
+        options:
+          - None
+          - 1-2 children
+          - 3-4 children
+          - 5 or more children
+        required: true
+      - id: 14
+        name: primary_occupation
+        label: Primary Occupation
+        hint: Main source of livelihood
+        type: select_one
+        options:
+          - Farming or Agriculture
+          - Fishing
+          - Small Business or Trade
+          - Wage Labor
+          - Government Employee
+          - Student
+          - Homemaker
+          - Unemployed
+          - Other
+        required: true
+      - id: 15
+        name: section_header_water_access
+        label: -- Water Access Before and After --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: water_source_before
+        label: Main Water Source Before Project
+        hint: Where did you get water before this project
+        type: select_one
+        options:
+          - Unsafe Well
+          - River or Stream
+          - Pond or Lake
+          - Rainwater Collection
+          - Water Vendor or Truck
+          - Distant Borehole
+          - Other Unsafe Source
+        required: true
+      - id: 17
+        name: distance_to_water_before
+        label: Distance to Water Source Before
+        hint: How far did you travel for water
+        type: select_one
+        options:
+          - Less than 100 meters
+          - 100-500 meters
+          - 500 meters to 1 km
+          - 1-3 km
+          - More than 3 km
+        required: true
+      - id: 18
+        name: time_to_collect_water_before
+        label: Time Spent Collecting Water Before
+        hint: How long did it take to collect water
+        type: select_one
+        options:
+          - Less than 30 minutes
+          - 30 minutes to 1 hour
+          - 1-2 hours
+          - 2-4 hours
+          - More than 4 hours
+        required: true
+      - id: 19
+        name: water_source_after
+        label: Main Water Source After Project
+        hint: Where do you get water now
+        type: select_one
+        options:
+          - Community Borehole or Well
+          - Piped Water to Home
+          - Community Tap Stand
+          - Protected Spring
+          - Rainwater Harvesting System
+          - Water Kiosk
+          - Other Improved Source
+        required: true
+      - id: 20
+        name: distance_to_water_after
+        label: Distance to Water Source Now
+        hint: How far do you travel for water now
+        type: select_one
+        options:
+          - Less than 100 meters
+          - 100-500 meters
+          - 500 meters to 1 km
+          - 1-3 km
+          - More than 3 km
+        required: true
+      - id: 21
+        name: time_to_collect_water_after
+        label: Time Spent Collecting Water Now
+        hint: How long does it take to collect water now
+        type: select_one
+        options:
+          - Less than 30 minutes
+          - 30 minutes to 1 hour
+          - 1-2 hours
+          - 2-4 hours
+          - More than 4 hours
+        required: true
+      - id: 22
+        name: water_availability
+        label: Water Availability
+        hint: Is clean water available year-round
+        type: select_one
+        options:
+          - Yes - Available all year
+          - Mostly - Available most of the year
+          - Sometimes - Seasonal availability
+          - No - Frequently unavailable
+        required: true
+      - id: 23
+        name: section_header_health_impact
+        label: -- Health Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: waterborne_illness_before
+        label: Waterborne Illnesses Before Project
+        hint: How often did family members get sick from water
+        type: select_one
+        options:
+          - Very Frequently - Monthly or more
+          - Frequently - Every few months
+          - Occasionally - Once or twice a year
+          - Rarely - Almost never
+          - Never
+        required: true
+      - id: 25
+        name: waterborne_illness_after
+        label: Waterborne Illnesses After Project
+        hint: How often do family members get sick from water now
+        type: select_one
+        options:
+          - Very Frequently - Monthly or more
+          - Frequently - Every few months
+          - Occasionally - Once or twice a year
+          - Rarely - Almost never
+          - Never
+        required: true
+      - id: 26
+        name: common_illnesses
+        label: Common Water-Related Illnesses Experienced
+        hint: Select all that applied before the project
+        type: select_multiple
+        options:
+          - Diarrhea
+          - Cholera
+          - Typhoid
+          - Dysentery
+          - Parasitic Infections
+          - Skin Infections
+          - Eye Infections
+          - None
+        required: true
+      - id: 27
+        name: health_improvement
+        label: Overall Health Improvement
+        hint: How has your family health changed since the project
+        type: select_one
+        options:
+          - Significant Improvement - Much healthier
+          - Moderate Improvement - Somewhat healthier
+          - Slight Improvement - A bit healthier
+          - No Change - Same as before
+          - Worse - Health has declined
+        required: true
+      - id: 28
+        name: medical_expenses_change
+        label: Change in Medical Expenses
+        hint: How have medical expenses changed
+        type: select_one
+        options:
+          - Significantly Decreased
+          - Somewhat Decreased
+          - No Change
+          - Somewhat Increased
+          - Significantly Increased
+        required: true
+      - id: 29
+        name: section_header_quality
+        label: -- Water Quality and Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: water_taste
+        label: Water Taste
+        hint: How does the water taste
+        type: select_one
+        options:
+          - Excellent - Very good taste
+          - Good - Acceptable taste
+          - Fair - Could be better
+          - Poor - Bad taste
+        required: true
+      - id: 31
+        name: water_clarity
+        label: Water Clarity
+        hint: How clear is the water
+        type: select_one
+        options:
+          - Very Clear - No particles visible
+          - Clear - Mostly clear
+          - Somewhat Clear - Slightly cloudy
+          - Cloudy - Visible particles
+        required: true
+      - id: 32
+        name: water_odor
+        label: Water Odor
+        hint: Does the water have any odor
+        type: select_one
+        options:
+          - No Odor - Smells clean
+          - Slight Odor - Mild smell
+          - Noticeable Odor - Distinct smell
+          - Strong Odor - Unpleasant smell
+        required: true
+      - id: 33
+        name: overall_satisfaction
+        label: Overall Satisfaction with Project
+        hint: How satisfied are you with the clean water project
+        type: select_one
+        options:
+          - Very Satisfied - Exceeded expectations
+          - Satisfied - Met expectations
+          - Neutral - Neither satisfied nor dissatisfied
+          - Dissatisfied - Below expectations
+          - Very Dissatisfied - Did not meet expectations
+        required: true
+      - id: 34
+        name: project_maintenance
+        label: Project Maintenance and Sustainability
+        hint: Is the water system well maintained
+        type: select_one
+        options:
+          - Excellent - Very well maintained
+          - Good - Generally well maintained
+          - Fair - Some maintenance issues
+          - Poor - Significant maintenance problems
+        required: true
+      - id: 35
+        name: community_training
+        label: Community Training Received
+        hint: Did you receive training on water system maintenance
+        type: select_one
+        options:
+          - Yes - Comprehensive training
+          - Yes - Basic training
+          - No - No training received
+          - Unsure
+        required: true
+      - id: 36
+        name: section_header_economic_social
+        label: -- Economic and Social Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 37
+        name: time_saved_usage
+        label: How Is Saved Time Now Used
+        hint: What do you do with time saved from water collection
+        type: select_multiple
+        options:
+          - Children attend school more regularly
+          - More time for income-generating activities
+          - More time for household chores
+          - More time for childcare
+          - More time for rest
+          - Community activities
+          - Other
+        required: true
+      - id: 38
+        name: income_impact
+        label: Impact on Household Income
+        hint: How has the project affected your income
+        type: select_one
+        options:
+          - Significant Increase
+          - Moderate Increase
+          - Slight Increase
+          - No Change
+          - Decrease
+        required: true
+      - id: 39
+        name: children_school_attendance
+        label: Impact on Children School Attendance
+        hint: How has school attendance changed
+        type: select_one
+        options:
+          - Significant Improvement
+          - Moderate Improvement
+          - Slight Improvement
+          - No Change
+          - Not Applicable - No school-age children
+        required: true
+      - id: 40
+        name: women_girls_impact
+        label: Impact on Women and Girls
+        hint: How has the project affected women and girls specifically
+        type: text
+        options: []
+        required: true
+      - id: 41
+        name: section_header_additional
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 42
+        name: biggest_benefit
+        label: Biggest Benefit from Project
+        hint: What is the most important benefit you have experienced
+        type: text
+        options: []
+        required: true
+      - id: 43
+        name: challenges_remaining
+        label: Challenges Remaining
+        hint: Are there any remaining water-related challenges
+        type: text
+        options: []
+        required: false
+      - id: 44
+        name: recommendations
+        label: Recommendations for Future Projects
+        hint: What would you suggest for similar projects
+        type: text
+        options: []
+        required: false
+      - id: 45
+        name: would_recommend_to_others
+        label: Would You Recommend This Type of Project
+        hint: Would you recommend this to other communities
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 46
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or stories to share
+        type: text
+        options: []
+        required: false

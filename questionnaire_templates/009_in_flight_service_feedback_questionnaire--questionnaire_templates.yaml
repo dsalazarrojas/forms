@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Flight Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: first_page
+      label: First page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: flight_details
+      label: Flight details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flight_number
+      label: Flight number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: flight_date
+      label: Flight date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: flight_time
+      label: Flight time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: cabin_name
+      label: Cabin name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seat_number
+      label: Seat number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: flight_rating
+      label: Flight rating
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 9
+      name: cabin_rating
+      label: Cabin rating
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: passenger_type
+      label: Passenger type
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Child
+      - Infant
+      required: false
+    - id: 13
+      name: airline_name
+      label: Airline name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: crew_rating
+      label: Crew rating
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 15
+      name: ground_staff_rating
+      label: Ground staff rating
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 16
+      name: in_flight_staff_rating
+      label: In-flight staff rating
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 17
+      name: food_and_beverage_rating
+      label: Food and beverage rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 18
+      name: in_flight_entertainment_rating
+      label: In-flight entertainment rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 19
+      name: in_flight_service_rating
+      label: In-flight service rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 20
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 21
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

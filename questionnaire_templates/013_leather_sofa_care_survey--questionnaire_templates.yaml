@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Leather Sofa Care Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_information
+      label: customer_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: How often do you clean your leather sofa?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Rarely'', ''value'': ''Rarely''}'
+      - '{''id'': 5, ''label'': ''Never'', ''value'': ''Never''}'
+      required: false
+    - id: 4
+      name: cleaning_products
+      label: cleaning_products
+      hint: What cleaning products do you use for your leather sofa?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: care_recommendations
+      label: care_recommendations
+      hint: What do you think we could improve about our care guidance?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_recommendations
+      label: product_recommendations
+      hint: What products would you recommend for our leather sofa care line?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Leather soap'', ''value'': ''Leather soap''}'
+      - '{''id'': 2, ''label'': ''Leather conditioner'', ''value'': ''Leather conditioner''}'
+      - '{''id'': 3, ''label'': ''Fabric protector'', ''value'': ''Fabric protector''}'
+      - '{''id'': 4, ''label'': ''Microfiber cloth'', ''value'': ''Microfiber cloth''}'
+      - '{''id'': 5, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: customer_experience
+      label: customer_experience
+      hint: How would you rate your overall experience with our care guidance?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral'', ''value'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 5, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: Is there anything else you would like to share with us?
+      type: note
+      options: []
+      required: false

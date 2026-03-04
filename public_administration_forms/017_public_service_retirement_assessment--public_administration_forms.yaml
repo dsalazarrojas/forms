@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_service_retirement_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: retirement_status
+      label: retirement_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: concerns
+      label: concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: benefits_package
+      label: benefits_package
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: follow_ups
+      label: follow_ups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: retirement_readiness
+      label: retirement_readiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: years_of_service
+      label: years_of_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: retirement_plan
+      label: retirement_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_concerns
+      label: employee_concerns
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: retirement_readiness_level
+      label: retirement_readiness_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earned Income Tax Credit (EITC) Client Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: firstName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: lastName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''AK''}'
+      - '{''label'': ''AL''}'
+      - '{''label'': ''AR''}'
+      - '{''label'': ''CA''}'
+      - '{''label'': ''CO''}'
+      - '{''label'': ''CT''}'
+      - '{''label'': ''DE''}'
+      - '{''label'': ''FL''}'
+      - '{''label'': ''GA''}'
+      - '{''label'': ''HI''}'
+      - '{''label'': ''IA''}'
+      - '{''label'': ''ID''}'
+      - '{''label'': ''IL''}'
+      - '{''label'': ''IN''}'
+      - '{''label'': ''KS''}'
+      - '{''label'': ''KY''}'
+      - '{''label'': ''LA''}'
+      - '{''label'': ''MA''}'
+      - '{''label'': ''MD''}'
+      - '{''label'': ''ME''}'
+      - '{''label'': ''MI''}'
+      - '{''label'': ''MN''}'
+      - '{''label'': ''MO''}'
+      - '{''label'': ''MS''}'
+      - '{''label'': ''MT''}'
+      - '{''label'': ''NC''}'
+      - '{''label'': ''ND''}'
+      - '{''label'': ''NE''}'
+      - '{''label'': ''NH''}'
+      - '{''label'': ''NJ''}'
+      - '{''label'': ''NM''}'
+      - '{''label'': ''NV''}'
+      - '{''label'': ''NY''}'
+      - '{''label'': ''OH''}'
+      - '{''label'': ''OK''}'
+      - '{''label'': ''OR''}'
+      - '{''label'': ''PA''}'
+      - '{''label'': ''RI''}'
+      - '{''label'': ''SC''}'
+      - '{''label'': ''SD''}'
+      - '{''label'': ''TN''}'
+      - '{''label'': ''TX''}'
+      - '{''label'': ''UT''}'
+      - '{''label'': ''VA''}'
+      - '{''label'': ''WA''}'
+      - '{''label'': ''WI''}'
+      - '{''label'': ''WV''}'
+      - '{''label'': ''WY''}'
+      required: false
+    - id: 7
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: income_earned_2018
+      label: Income Earned 2018
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: dependents_2018
+      label: Dependents 2018
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: earned_income_2018
+      label: Earned Income 2018
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: earned_income_tax_credit_2018
+      label: Earned Income Tax Credit 2018
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: earned_income_tax_credit_2018_amount
+      label: Earned Income Tax Credit Amount 2018
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: earned_income_tax_credit_2018_percentage
+      label: Earned Income Tax Credit Percentage 2018
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: earned_income_tax_credit_2018_start_date
+      label: Earned Income Tax Credit Start Date 2018
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: earned_income_tax_credit_2018_end_date
+      label: Earned Income Tax Credit End Date 2018
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: earned_income_tax_credit_2018_start_year
+      label: Earned Income Tax Credit Start Year 2018
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''January''}'
+      - '{''label'': ''February''}'
+      - '{''label'': ''March''}'
+      - '{''label'': ''April''}'
+      - '{''label'': ''May''}'
+      - '{''label'': ''June''}'
+      - '{''label'': ''July''}'
+      - '{''label'': ''August''}'
+      - '{''label'': ''September''}'
+      - '{''label'': ''October''}'
+      - '{''label'': ''November''}'
+      - '{''label'': ''December''}'
+      - '{''label'': ''Unknown''}'
+      required: true
+    - id: 20
+      name: earned_income_tax_credit_2018_end_year
+      label: Earned Income Tax Credit End Year 2018
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''January''}'
+      - '{''label'': ''February''}'
+      - '{''label'': ''March''}'
+      - '{''label'': ''April''}'
+      - '{''label'': ''May''}'
+      - '{''label'': ''June''}'
+      - '{''label'': ''July''}'
+      - '{''label'': ''August''}'
+      - '{''label'': ''September''}'
+      - '{''label'': ''October''}'
+      - '{''label'': ''November''}'
+      - '{''label'': ''December''}'
+      - '{''label'': ''Unknown''}'
+      required: true
+    - id: 21
+      name: total_earned_income_tax_credit_amount_2018
+      label: Total Earned Income Tax Credit Amount 2018
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: is_eligible_for_eitc
+      label: isEligibleForEITC
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 23
+      name: eitc_start_date
+      label: eitcStartDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: eitc_end_date
+      label: eitcEndDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true

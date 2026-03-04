@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architecture Design Project Requirements Assessment Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_company
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_project_overview
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: What is the project about?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - New building
+      - Renovation
+      - Addition
+      - Interior redesign
+      - Urban planning
+      - Landscape design
+      - Mixed-use
+      - Other
+      required: true
+    - id: 10
+      name: project_location
+      label: Project Location
+      hint: City, region, address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_requirements
+      label: -- Project Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_objectives
+      label: Primary Project Objectives
+      hint: What are the main goals?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: budget_range
+      label: Budget Range
+      hint: Estimated project budget
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: timeline
+      label: Project Timeline
+      hint: Desired start and completion dates
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: key_requirements
+      label: Key Requirements
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Sustainability
+      - Accessibility
+      - Historic preservation
+      - Code compliance
+      - Innovation
+      - Cost efficiency
+      - Rapid delivery
+      required: false
+    - id: 16
+      name: section_priorities
+      label: -- Priority Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: aesthetic_priority
+      label: Aesthetic Design Priority (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: functionality_priority
+      label: Functionality Priority (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: cost_priority
+      label: Cost Efficiency Priority (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: timeline_priority
+      label: Timeline Priority (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_scope
+      label: -- Scope Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: site_area
+      label: Site Area (Square Feet)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: building_area
+      label: Building Area (Square Feet)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: wioa_monthly_check_in
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''location_option_1'', ''label'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''location_option_2'', ''label'': ''Location 2''}'
+      - '{''id'': 3, ''name'': ''location_option_3'', ''label'': ''Location 3''}'
+      required: false
+    - id: 7
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''comments_option_1'', ''label'': ''Comments 1''}'
+      - '{''id'': 2, ''name'': ''comments_option_2'', ''label'': ''Comments 2''}'
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''assigned_tool_option_1'', ''label'': ''Tool 1''}'
+      - '{''id'': 2, ''name'': ''assigned_tool_option_2'', ''label'': ''Tool 2''}'
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category_option_1'', ''label'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''category_option_2'', ''label'': ''Category 2''}'
+      - '{''id'': 3, ''name'': ''category_option_3'', ''label'': ''Category 3''}'
+      required: false

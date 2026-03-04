@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Tiering Assessment
+    pages:
+    - id: 1
+      name: service_tiering_assessment_page
+      label: service_tiering_assessment
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      required: true
+    - id: 2
+      name: service_tiering_priority_level
+      label: service_tiering_priority_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
+      name: service_criticality_level
+      label: service_criticality_level
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Non_Critical
+      - Not_Essential
+      required: true
+    - id: 4
+      name: service_support_level
+      label: service_support_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: service_downtime_impact
+      label: service_downtime_impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: service_tiering_comment
+      label: service_tiering_comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: service_tiering_decision
+      label: service_tiering_decision
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      - Not_Evaluated
+      required: true
+    - id: 8
+      name: service_tiering_justification
+      label: service_tiering_justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_tiering_recommendation
+      label: service_tiering_recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: service_tiering_next_steps
+      label: service_tiering_next_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_tiering_date
+      label: service_tiering_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: service_tiering_time
+      label: service_tiering_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: service_tiering_email
+      label: service_tiering_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: service_tiering_phone
+      label: service_tiering_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_tiering_comments
+      label: service_tiering_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_tiering_agreement
+      label: service_tiering_agreement
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: false
+    - id: 17
+      name: service_tiering_agreement_comment
+      label: service_tiering_agreement_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_tiering_recommendation_2
+      label: service_tiering_recommendation_2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 19
+      name: service_tiering_agreement_2
+      label: service_tiering_agreement_2
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: false
+    - id: 20
+      name: service_tiering_comments_2
+      label: service_tiering_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_tiering_date_2
+      label: service_tiering_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: service_tiering_time_2
+      label: service_tiering_time_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: service_tiering_email_2
+      label: service_tiering_email_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: service_tiering_phone_2
+      label: service_tiering_phone_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: service_tiering_agreement_3
+      label: service_tiering_agreement_3
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: false

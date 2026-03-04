@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Risk Behavior Assessment Form
+    pages:
+    - id: 1
+      name: financial_risk_behavior_assessment
+      label: Financial Risk Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: client_onboarding
+      label: Client Onboarding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: portfolio_reviews
+      label: Portfolio Reviews
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: risk_tolerance_level
+      label: Risk Tolerance Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_free_time
+      label: Risk-Free Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

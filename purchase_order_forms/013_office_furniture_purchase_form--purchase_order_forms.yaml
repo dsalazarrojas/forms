@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Furniture Purchase Form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: products
+      label: Products
+      hint: null
+      type: select_one
+      options:
+      - Office Chair
+      - Office Desk
+      - Office Table
+      - Office Sofa
+      - Office Shelf
+      - Office File Cabinet
+      - Office Bookshelf
+      - Office Bookcase
+      required: false
+    - id: 6
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Green
+      - Blue
+      - Yellow
+      - Purple
+      - Black
+      - White
+      - Grey
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Defect Type Selection Survey
+    pages:
+    - id: 1
+      name: defect_type_selection_form
+      label: Defect Type Selection Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: defect_type
+      label: defect_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: defect_date
+      label: defect_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: defect_time
+      label: defect_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: defect_description
+      label: defect_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: team_member
+      label: team_member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: defect_location
+      label: defect_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: defect_pattern
+      label: defect_pattern
+      hint: null
+      type: text
+      options: []
+      required: false

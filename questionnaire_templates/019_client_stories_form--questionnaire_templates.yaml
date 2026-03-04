@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Stories Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Share Your Success Story
+      hint: Help us inspire others with your experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: industry
+      label: Industry
+      hint: What industry are you in?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: For follow-up purposes
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: background_section
+      label: -- Your Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_since
+      label: How long have you been a client with us?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 9
+      name: services_used
+      label: What services or products have you used from us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: challenge_section
+      label: -- The Challenge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: initial_challenge
+      label: What challenge or problem did you face before working with us?
+      hint: Describe the situation in detail
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: impact_of_challenge
+      label: How did this challenge impact your business or life?
+      hint: What were the consequences?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: why_chose_us
+      label: Why did you decide to work with us?
+      hint: What made you choose us over other options?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: solution_section
+      label: -- The Solution and Journey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: our_approach
+      label: Describe how we helped address your challenge
+      hint: What specific solutions or support did we provide?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: implementation_experience
+      label: How was the implementation or onboarding process?
+      hint: Was it smooth? Any challenges during the process?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: turning_point
+      label: Was there a specific turning point or breakthrough moment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: results_section
+      label: -- The Results and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: measurable_results
+      label: What measurable results or improvements have you achieved?
+      hint: Use specific numbers, percentages, or metrics where possible
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: business_impact
+      label: How has this impacted your business or personal goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: unexpected_benefits
+      label: Were there any unexpected benefits or surprises?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendations_section
+      label: -- Your Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: would_recommend
+      label: Would you recommend us to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 24
+      name: who_would_benefit
+      label: Who would benefit most from our services based on your experience?
+      hint: What type of customer or use case?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: final_thought
+      label: In one sentence, describe the essence of your experience with us
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: media_section
+      label: -- Media and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: media_permission
+      label: May we use your story in marketing materials?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: name_permission
+      label: May we use your name and company name?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: photo_permission
+      label: May we include a photo of you or your company?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: additional_info
+      label: Any additional information you would like to share?
+      hint: null
+      type: text
+      options: []
+      required: false

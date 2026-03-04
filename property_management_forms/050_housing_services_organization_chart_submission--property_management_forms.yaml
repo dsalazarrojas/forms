@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Services Organization Chart Submission
+    pages:
+    - id: 1
+      name: org_chart
+      label: Org Chart
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: department_details
+      label: Department Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_heads
+      label: Department Heads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: staff_info
+      label: Staff Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: org_chart_data
+      label: Org Chart Data
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

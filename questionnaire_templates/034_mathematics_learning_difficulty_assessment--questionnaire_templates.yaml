@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: mathematics_learning_difficulty_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: mathematics_learning_difficulty_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3, ''label'': ''K-5'', ''value'': ''k_5''}'
+      - '{''id'': 4, ''label'': ''6-8'', ''value'': ''six_eight''}'
+      - '{''id'': 5, ''label'': ''9-12'', ''value'': ''nine_twelve''}'
+      required: true
+    - id: 4
+      name: math_concept
+      label: math_concept
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6, ''label'': ''fractions'', ''value'': ''fractions''}'
+      - '{''id'': 7, ''label'': ''algebra'', ''value'': ''algebra''}'
+      - '{''id'': 8, ''label'': ''geometry'', ''value'': ''geometry''}'
+      required: false
+    - id: 5
+      name: math_difficulty
+      label: math_difficulty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9, ''label'': ''easy'', ''value'': ''easy''}'
+      - '{''id'': 10, ''label'': ''medium'', ''value'': ''medium''}'
+      - '{''id'': 11, ''label'': ''hard'', ''value'': ''hard''}'
+      required: true
+    - id: 6
+      name: math_challenge
+      label: math_challenge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: math_support
+      label: math_support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 12, ''label'': ''tutor_help'', ''value'': ''tutor_help''}'
+      - '{''id'': 13, ''label'': ''online_resources'', ''value'': ''online_resources''}'
+      - '{''id'': 14, ''label'': ''practice_problems'', ''value'': ''practice_problems''}'
+      - '{''id'': 15, ''label'': ''homework_help'', ''value'': ''homework_help''}'
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Agreement Discharge Form
+    pages:
+    - id: 1
+      name: tenant_agreement_discharge_form
+      label: landlord
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reasons_for_discharge
+      label: reasons_for_discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenant_signature
+      label: tenant_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: landlord_signature
+      label: landlord_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: landlord_date
+      label: landlord_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: landlord_name
+      label: landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lease_term
+      label: lease_term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: discharge_amount
+      label: discharge_amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discharge_funds
+      label: discharge_funds
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: agreement_status
+      label: agreement_status
+      hint: null
+      type: select_one
+      options:
+      - terminated
+      - active
+      - inactive
+      required: false
+    - id: 15
+      name: reason_for_discharge
+      label: reason_for_discharge
+      hint: null
+      type: select_multiple
+      options:
+      - lease_end
+      - tenant_violation
+      - other
+      - '[''tenant_default'', ''tenant_abandonment'', ''landlord_initiated'']'
+      required: false
+    - id: 16
+      name: discharge_type
+      label: discharge_type
+      hint: null
+      type: select_multiple
+      options:
+      - tenant_agreement
+      - other - landlord_agreement
+      required: false
+    - id: 17
+      name: tenant_discharged
+      label: tenant_discharged
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: other_reason
+      label: other_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_reason_details
+      label: other_reason_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_reason_notes
+      label: other_reason_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: discharge_note
+      label: discharge_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: discharge_note_details
+      label: discharge_note_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: discharge_note_signature
+      label: discharge_note_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: discharge_note_date
+      label: discharge_note_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: discharge_note_landlord_name
+      label: discharge_note_landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false

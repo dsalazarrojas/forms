@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: phonetics_assessment_survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Phonetics Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background
+      label: language_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pronunciation_ratings
+      label: pronunciation_ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: language_proficiency
+      label: language_proficiency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: audio_sample
+      label: audio_sample
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: audio_samples_uploads
+      label: audio_samples_uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pronunciation_comments
+      label: pronunciation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: background_audio
+      label: background_audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pronunciation_audio
+      label: pronunciation_audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pronunciation_audio_uploads
+      label: pronunciation_audio_uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: background_audio_uploads
+      label: background_audio_uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

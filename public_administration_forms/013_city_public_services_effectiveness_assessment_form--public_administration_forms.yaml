@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Public Services Effectiveness Assessment Form
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_area
+      label: Service area being assessed
+      hint: E g sanitation parks transportation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_rating
+      label: Overall satisfaction rating
+      hint: 1 poor to 5 excellent
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: timeliness_rating
+      label: Timeliness of service delivery
+      hint: Rate promptness
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quality_rating
+      label: Quality of service provided
+      hint: Rate quality
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: major_issues_identified
+      label: Major issues identified
+      hint: Describe any problems
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: Actionable recommendations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trust_in_service_provider
+      label: Trust in service provider
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: would_recommend
+      label: Would recommend service to others
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Procedure Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Medical Procedure Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Rating scale
+      hint: Scale from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pain_control
+      label: Pain Control
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: anxiety_level
+      label: Anxiety Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pain_management_had
+      label: Pain Management Had
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: medical_expertise
+      label: Medical Expertise
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 9
+      name: emotional_satisfaction
+      label: Emotional Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: care_provider
+      label: Care Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false

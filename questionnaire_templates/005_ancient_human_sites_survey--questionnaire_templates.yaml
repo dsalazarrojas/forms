@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Human Sites Survey
+    pages:
+    - id: 1
+      name: researcher_name
+      label: Researcher Full Name
+      hint: Name of the person conducting the survey
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: researcher_email
+      label: Researcher Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: Research Institution
+      hint: University, museum, or research organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: survey_date
+      label: Survey Date
+      hint: Date of site visit or report
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: site_information_header
+      label: Site Information Section
+      hint: Please provide detailed information about the ancient site
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: site_name
+      label: Site Name
+      hint: Official or common name of the archaeological site
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_location
+      label: Site Location
+      hint: Geographic location including country and region
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: gps_coordinates
+      label: GPS Coordinates
+      hint: Latitude and longitude if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_type
+      label: Type of Site
+      hint: Primary classification of the site
+      type: select_one
+      options:
+      - Settlement
+      - Burial Ground
+      - Religious Temple
+      - Fortress
+      - Cave Dwelling
+      - Rock Art Site
+      - Monument
+      - Other
+      required: true
+    - id: 10
+      name: estimated_age
+      label: Estimated Age Period
+      hint: Archaeological period or date range
+      type: select_one
+      options:
+      - Paleolithic (Old Stone Age)
+      - Mesolithic (Middle Stone Age)
+      - Neolithic (New Stone Age)
+      - Bronze Age
+      - Iron Age
+      - Classical Antiquity
+      - Medieval
+      - Unknown
+      required: true
+    - id: 11
+      name: site_condition
+      label: Current Site Condition
+      hint: Overall preservation state
+      type: select_one
+      options:
+      - Excellent - Well preserved
+      - Good - Minor deterioration
+      - Fair - Moderate deterioration
+      - Poor - Significant deterioration
+      - Critical - At risk of loss
+      - Destroyed - No longer exists
+      required: true
+    - id: 12
+      name: excavation_status
+      label: Excavation Status
+      hint: Current excavation or research status
+      type: select_one
+      options:
+      - Never excavated
+      - Partially excavated
+      - Fully excavated
+      - Excavation completed and reburied
+      - Currently under excavation
+      required: true
+    - id: 13
+      name: cultural_significance
+      label: Cultural Significance
+      hint: Importance level of the site
+      type: select_one
+      options:
+      - Local significance
+      - Regional significance
+      - National significance
+      - International significance
+      - UNESCO World Heritage Site
+      required: true
+    - id: 14
+      name: visible_features
+      label: Visible Features
+      hint: Select all features present at the site
+      type: select_multiple
+      options:
+      - Stone structures
+      - Earthworks
+      - Rock art or petroglyphs
+      - Pottery fragments
+      - Human remains
+      - Tools or artifacts
+      - Architectural elements
+      - Inscriptions
+      required: false
+    - id: 15
+      name: threats_to_site
+      label: Threats to Site Preservation
+      hint: Select all applicable threats
+      type: select_multiple
+      options:
+      - Natural erosion
+      - Climate change
+      - Urban development
+      - Agricultural activity
+      - Looting or vandalism
+      - Tourism impact
+      - Vegetation overgrowth
+      - None identified
+      required: false
+    - id: 16
+      name: accessibility
+      label: Site Accessibility
+      hint: How accessible is the site to researchers
+      type: select_one
+      options:
+      - Easily accessible by road
+      - Accessible with difficulty
+      - Remote - requires hiking
+      - Restricted access
+      - Private property
+      required: true
+    - id: 17
+      name: research_notes
+      label: Research Notes
+      hint: Additional observations or comments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: photographs_available
+      label: Are photographs available for this site
+      hint: Do you have photographic documentation
+      type: select_one
+      options:
+      - Yes - extensive documentation
+      - Yes - limited photos
+      - No photographs taken
+      required: false
+    - id: 19
+      name: follow_up_needed
+      label: Is Follow-up Research Needed
+      hint: Does this site require further investigation
+      type: select_one
+      options:
+      - Yes - urgent
+      - Yes - when resources allow
+      - No - adequately documented
+      - Unsure
+      required: false

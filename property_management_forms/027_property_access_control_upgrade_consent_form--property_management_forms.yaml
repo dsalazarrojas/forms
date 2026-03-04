@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_access_control_upgrade_consent_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: security_system_upgrade
+      label: Security System Upgrade
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: security_system_upgrade_reason
+      label: Why do you want to upgrade your security system?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_approval
+      label: Do you have the owner's approval?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: owner_approval_other
+      label: Owner Approval (if other, please describe)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resident_approval
+      label: Have you received resident approval?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: resident_approval_other
+      label: Resident Approval (if other, please describe)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Has your manager approved the upgrade?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: manager_approval_other
+      label: Manager Approval (if other, please describe)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Resident/Owner Signature
+      hint: null
+      type: date
+      options: []
+      required: true

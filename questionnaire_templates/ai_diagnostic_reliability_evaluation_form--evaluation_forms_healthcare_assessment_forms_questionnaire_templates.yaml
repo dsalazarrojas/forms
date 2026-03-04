@@ -1,0 +1,225 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Diagnostic Reliability Evaluation Form
+    pages:
+    - id: 1
+      name: section_header_patient
+      label: '--- Patient & Encounter Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside region
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: Hospital or researcher contact preferred
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: visit_date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: encounter_id
+      label: Encounter / Record ID
+      hint: Hospital EMR encounter ID if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_ai
+      label: '--- AI Model & Output Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: ai_model_name
+      label: AI model name / version
+      hint: Include version or commit tag
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: input_modality
+      label: Input modality
+      hint: Select primary data type used by the model
+      type: select_one
+      options:
+      - Radiology image
+      - Clinical notes
+      - Lab results
+      - Vital signs
+      - Multimodal
+      required: true
+    - id: 12
+      name: ai_suggested_diagnosis
+      label: AI-suggested diagnosis (short)
+      hint: Use concise clinical term
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ai_confidence
+      label: AI confidence score (0.0-1.0)
+      hint: Use model-provided probability; 0.0 = none, 1.0 = certain
+      type: decimal
+      options: []
+      required: true
+    - id: 14
+      name: automated_flags
+      label: Automated flags or warnings
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Low image quality
+      - Incomplete data
+      - Out-of-distribution input
+      - Low confidence
+      - Processing error
+      required: false
+    - id: 15
+      name: section_header_clinician
+      label: '--- Clinician Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: clinician_agrees_with_ai
+      label: Clinician agrees with AI-suggested diagnosis
+      hint: Choose best match after reviewing records
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 17
+      name: clinician_confidence
+      label: Clinician confidence in final decision (0-10)
+      hint: 0 = no confidence, 10 = complete confidence
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: recommended_next_steps
+      label: Recommended next steps
+      hint: Primary recommendation (choose all that apply)
+      type: select_multiple
+      options:
+      - Additional imaging
+      - Laboratory confirmation
+      - Specialist referral
+      - Immediate treatment
+      - Watchful waiting
+      required: true
+    - id: 19
+      name: confirmatory_test_performed
+      label: Confirmatory test performed?
+      hint: e.g., biopsy, PCR, follow-up imaging
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 20
+      name: outcome_within_30_days
+      label: Outcome within 30 days
+      hint: If unknown, select Pending
+      type: select_one
+      options:
+      - Resolved
+      - Worsened
+      - Unchanged
+      - Pending
+      required: false
+    - id: 21
+      name: section_header_quality
+      label: '--- Quality & Reliability Metrics ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: time_to_ai_result_seconds
+      label: Time from data submission to AI result (seconds)
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 23
+      name: discrepancy_description
+      label: Describe any discrepancy between AI and clinician
+      hint: Include likely causes and context
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_reliability_rating
+      label: Overall AI diagnostic reliability
+      hint: Consider accuracy, utility, and safety
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs improvement
+      - Unreliable
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Include examples, timestamps, or links to records
+      type: text
+      options: []
+      required: false

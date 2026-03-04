@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Questionnaire
+    pages:
+    - id: 1
+      name: section_creator_introduction
+      label: -- Creator and Character Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: creator_full_name_identity
+      label: Creator Full Name
+      hint: e.g., Author, Writer, or Student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: character_full_legal_name
+      label: Character Full Legal Name
+      hint: Enter the character's full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_personality_and_habits
+      label: -- Personality and Daily Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: character_primary_personality_traits
+      label: Character Primary Personality Traits
+      hint: List 3-5 core characteristics
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: character_daily_routine_brief
+      label: Character Daily Routine Brief
+      hint: How do they spend a typical day?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: favorite_pastime_or_hobby
+      label: Favorite Pastime or Hobby
+      hint: What do they do for fun or relaxation?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_values_and_beliefs
+      label: -- Values and Beliefs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: character_core_values_system
+      label: Character Core Values System
+      hint: What principles guide their actions?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: major_belief_or_philosophy
+      label: Major Belief or Philosophy
+      hint: Do they have a specific outlook on life?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: religious_or_spiritual_background
+      label: Religious or Spiritual Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_relationships_social_dynamics
+      label: -- Relationships and Social Dynamics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: closest_friend_or_ally
+      label: Closest Friend or Ally
+      hint: Who do they trust the most?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: primary_rival_or_enemy
+      label: Primary Rival or Enemy
+      hint: Who is their main opponent?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: nature_of_their_social_circle
+      label: Nature of Their Social Circle
+      hint: Are they a loner or part of a group?
+      type: select_one
+      options:
+      - Loner (Prefer Solitude)
+      - Part of a Close Group
+      - Social Butterfly (Wide Circle)
+      - Family-Oriented
+      - Professional Network
+      required: true
+    - id: 16
+      name: section_conflict_and_resolution
+      label: -- Conflict and Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: biggest_fear_or_vulnerability
+      label: Biggest Fear or Vulnerability
+      hint: What is the character most afraid of?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: typical_approach_to_conflict
+      label: Typical Approach to Conflict
+      hint: How do they handle disagreement?
+      type: select_one
+      options:
+      - Confrontation (Direct)
+      - Avoidance (Passive)
+      - Diplomacy (Negotiation)
+      - Subterfuge (Hidden)
+      required: true
+    - id: 19
+      name: major_turning_point_event
+      label: Major Turning Point Event
+      hint: Briefly describe one moment that changed their life
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_questionnaire_finalization
+      label: -- Questionnaire Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: accuracy_confirmation_creator_questionnaire
+      label: Confirmation of Questionnaire Completion
+      hint: I confirm that I have answered these questions thoughtfully and honestly
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true
+    - id: 22
+      name: date_of_questionnaire_log_submission
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments_questionnaire
+      label: Additional Comments or Thoughts
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false

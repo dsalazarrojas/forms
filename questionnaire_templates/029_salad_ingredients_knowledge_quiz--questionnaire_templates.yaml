@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salad Ingredients Knowledge Quiz
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ingredients
+      label: Salad Ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - Lettuce
+      - Tomato
+      - Cucumber
+      required: true
+    - id: 3
+      name: dressings
+      label: Salad Dressings
+      hint: null
+      type: select_one
+      options:
+      - Mayo
+      - Sour Cream
+      - Mustard
+      required: true
+    - id: 4
+      name: trainers_info
+      label: Trainers Information
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: food_creators_info
+      label: Food Creators Information
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: quiz_start_time
+      label: Quiz Start Time
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quiz_end_time
+      label: Quiz End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: quiz_durations
+      label: Quiz Durations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quiz_score
+      label: Quiz Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Success
+      - Failure
+      - Aborted
+      required: false

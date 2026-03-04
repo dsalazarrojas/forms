@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: teaching_assistant_questionnaire
+    pages:
+    - id: 1
+      name: teaching_assistant_questionnaire
+      label: teaching_assistant_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_of_teaching_assistant
+      label: Role of teaching assistant
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''primary_tutor''}'
+      - '{''value'': ''secondary_tutor''}'
+      - '{''value'': ''teaching_tutor''}'
+      required: false
+    - id: 3
+      name: teaching_assistant_questionnaire_response
+      label: How often would you like to receive updates from teaching assistants?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''once_a_week''}'
+      - '{''value'': ''once_a_month''}'
+      - '{''value'': ''never''}'
+      required: false
+    - id: 4
+      name: teaching_assistant_questionnaire_description
+      label: Description of the teaching assistant's role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teaching_assistant_questionnaire_response_2
+      label: How would you like to contact the teaching assistant?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''text''}'
+      - '{''value'': ''phone''}'
+      required: false
+    - id: 6
+      name: teaching_assistant_questionnaire_response_3
+      label: Are you satisfied with the teaching assistant?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 7
+      name: teaching_assistant_questionnaire_response_4
+      label: Comments on the teaching assistant
+      hint: null
+      type: text
+      options: []
+      required: false

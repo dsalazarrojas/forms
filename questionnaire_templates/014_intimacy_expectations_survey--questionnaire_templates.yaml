@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intimacy Expectations Survey
+    pages:
+    - id: 1
+      name: relationship_expectations
+      label: Relationship Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: intimacy_levels
+      label: Intimacy Levels
+      hint: null
+      type: select_one
+      options:
+      - Intimacy Level 1
+      - Intimacy Level 2
+      - Intimacy Level 3
+      required: false
+    - id: 3
+      name: communication_styles
+      label: Communication Styles
+      hint: null
+      type: select_one
+      options:
+      - Assertive
+      - Avoidant
+      - Passive
+      - Passive-Aggressive
+      required: false
+    - id: 4
+      name: emotional_expression
+      label: Emotional Expression
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: conflict_resolution
+      label: Conflict Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: boundaries
+      label: Boundaries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emotional_intimacy
+      label: Emotional Intimacy
+      hint: null
+      type: select_one
+      options:
+      - Emotional
+      - Physical
+      - Emotional and Physical
+      required: false
+    - id: 8
+      name: intimacy_expectations
+      label: Intimacy Expectations
+      hint: null
+      type: text
+      options: []
+      required: false

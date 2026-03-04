@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geographical Size Comparison Quiz
+    pages:
+    - id: 1
+      name: country_a
+      label: Country A
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: country_b
+      label: Country B
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: geographical_size_comparison
+      label: Which of the following countries is larger
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: country_a_population
+      label: Country A population
+      hint: In millions of people
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: country_b_population
+      label: Country B population
+      hint: In millions of people
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: geographical_size_difference
+      label: Geographical size difference between the two countries
+      hint: In percent
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: geographical_size_difference_type
+      label: Geographical size difference type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: country_a_area
+      label: Country A area
+      hint: In km2
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: country_b_area
+      label: Country B area
+      hint: In km2
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: geographical_size_difference_type_description
+      label: Geographical size difference type description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question_comments
+      label: Question comments
+      hint: null
+      type: text
+      options: []
+      required: false

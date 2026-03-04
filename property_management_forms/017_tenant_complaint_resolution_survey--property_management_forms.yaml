@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Complaint Resolution Survey
+    pages:
+    - id: 1
+      name: tenant_complaint_resolution_survey_page_1
+      label: Tenant Complaint Resolution Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_complaint_resolution_page_2
+      label: How did you find the resolution process?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tenant_complaint_resolution_page_3
+      label: Was the resolution process completed within the time frame you expected?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tenant_complaint_resolution_page_4
+      label: How would you rate your satisfaction with the resolution?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tenant_complaint_resolution_survey_page_5
+      label: Was the resolution process handled in a professional and respectful manner?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tenant_complaint_resolution_page_6
+      label: Do you have any further comments or concerns regarding the resolution
+        process?
+      hint: null
+      type: note
+      options: []
+      required: false

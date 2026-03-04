@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Formation Questionnaire
+    pages:
+    - id: 1
+      name: founder_information
+      label: -- Founder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: founder_name
+      label: Founder Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: founder_email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: founder_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: previous_experience
+      label: Previous Business Experience
+      hint: Have you started a business before?
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once Before
+      - No, First Time
+      - Not Applicable
+      required: true
+    - id: 6
+      name: business_concept
+      label: -- Business Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_idea
+      label: Business Idea
+      hint: What is your business idea?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: problem_solution
+      label: Problem You Solve
+      hint: What problem does this solve?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_market
+      label: Target Market
+      hint: Who is your customer?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: market_size
+      label: Market Size Estimate
+      hint: Total addressable market
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What makes you different?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_structure
+      label: -- Desired Business Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: entity_type
+      label: Preferred Entity Type
+      hint: What structure?
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - S-Corp
+      - Non-Profit
+      - Cooperative
+      - Unsure
+      required: true
+    - id: 14
+      name: number_of_founders
+      label: Number of Founders
+      hint: How many founders?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: founder_roles
+      label: Founder Roles and Responsibilities
+      hint: Describe each founder's role
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ownership_structure
+      label: Ownership Structure
+      hint: How will ownership be divided?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: financial_planning
+      label: -- Financial Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: startup_capital
+      label: Estimated Startup Capital
+      hint: How much to start?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: funding_sources
+      label: Planned Funding Sources
+      hint: Where will money come from?
+      type: select_multiple
+      options:
+      - Personal Savings
+      - Friends and Family
+      - Bank Loan
+      - Venture Capital
+      - Angel Investment
+      - Crowdfunding
+      - Grants
+      - Other
+      required: true
+    - id: 20
+      name: break_even_timeline
+      label: Break-Even Timeline
+      hint: How many months?
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: licensing_permits
+      label: -- Legal and Regulatory --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_licenses
+      label: Special Licenses or Permits Needed
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: regulatory_compliance
+      label: Key Regulatory Compliance Areas
+      hint: What regulations apply?
+      type: text
+      options: []
+      required: false

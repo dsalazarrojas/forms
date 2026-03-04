@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exercise Readiness Questionnaire
+    pages:
+    - id: 1
+      name: exercise_readiness_questionnaire
+      label: what_is_your_current_fitness_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1 - Beginner
+      - Level 2 - Intermediate
+      - Level 3 - Advanced
+      - Level 4 - Expert
+      - Level 5 - Elite
+      required: true
+    - id: 2
+      name: physical_status
+      label: what_is_your_current_physical_status
+      hint: null
+      type: select_multiple
+      options:
+      - I am currently active and can perform physical activities without restrictions
+      - I have physical limitations that impact my ability to perform physical activities
+      - I am recovering from an injury or illness and need time to recover
+      - I am recovering from an injury or illness but can perform physical activities
+        with modifications
+      - I am recovering from an injury or illness and cannot perform physical activities
+      required: true
+    - id: 3
+      name: exercise_frequency
+      label: how_many_days_do_you_train_per_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: exercise_minutes_per_session
+      label: how_many_minutes_do_you_spend_exercising_per_session
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: body_fat_percentage
+      label: Body Fat Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: resting_heart_rate
+      label: Resting Heart Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: max_heart_rate
+      label: Max Heart Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: resting_bp
+      label: Resting Bp
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: stress_level
+      label: what_is_your_stress_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: motivation_level
+      label: what_is_your_motivation_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: exercise_preference
+      label: which_type_of_exercise_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiovascular
+      - Resistance
+      - High Intensity Interval Training (HIIT)
+      required: false
+    - id: 15
+      name: exercise_frequency_preferred
+      label: how_many_days_per_week
+      hint: null
+      type: select_one
+      options:
+      - 0-3
+      - 4-7
+      - 8-14
+      - More than 14
+      required: false

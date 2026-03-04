@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Barriers In Public Spaces Survey
+    pages:
+    - id: 1
+      name: respondent_disability_status
+      label: Respondent Disability Status
+      hint: Do you have a disability that affects mobility, vision, hearing, or other functions?
+      type: select_one
+      options: ["Yes", "No", "Prefer not to say"]
+      required: true
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: What is your age range?
+      type: select_one
+      options: ["Under 18", "18-24", "25-34", "35-44", "45-54", "55-64", "65-74", "75 or older"]
+      required: true
+    - id: 3
+      name: frequent_locations
+      label: Frequent Locations
+      hint: Which types of public spaces do you visit most often?
+      type: select_multiple
+      options: ["Parks and Recreation Areas", "Shopping Centers", "Public Transportation", "Government Buildings", "Libraries", "Museums and Cultural Centers", "Restaurants", "Healthcare Facilities", "Educational Institutions", "Other"]
+      required: true
+    - id: 4
+      name: mobility_impairment_type
+      label: Mobility Impairment Type
+      hint: If applicable, what type of mobility impairment do you have?
+      type: select_multiple
+      options: ["Wheelchair User", "Walker/Cane User", "Leg Amputation", "Paralysis", "Chronic Pain", "Balance Issues", "None", "Other"]
+      required: false
+    - id: 5
+      name: vision_impairment_type
+      label: Vision Impairment Type
+      hint: If applicable, what type of vision impairment do you have?
+      type: select_multiple
+      options: ["Blind", "Low Vision", "Color Blindness", "Light Sensitivity", "None", "Other"]
+      required: false
+    - id: 6
+      name: hearing_impairment_type
+      label: Hearing Impairment Type
+      hint: If applicable, what type of hearing impairment do you have?
+      type: select_multiple
+      options: ["Deaf", "Hard of Hearing", "Auditory Processing Disorder", "None", "Other"]
+      required: false
+    - id: 7
+      name: most_common_accessibility_barrier
+      label: Most Common Accessibility Barrier
+      hint: What is the most common accessibility barrier you encounter in public spaces?
+      type: select_one
+      options: ["Inaccessible Entrances", "Poor Signage", "Inadequate Parking", "Uneven Surfaces", "Narrow Pathways", "Lack of Ramps/Elevators", "Inadequate Restroom Facilities", "Poor Lighting", "Noise Issues", "Lack of Seating"]
+      required: true
+    - id: 8
+      name: frequency_of_accessibility_issues
+      label: Frequency of Accessibility Issues
+      hint: How often do you encounter accessibility barriers in public spaces?
+      type: select_one
+      options: ["Daily", "Weekly", "Monthly", "Occasionally", "Rarely", "Never"]
+      required: true
+    - id: 9
+      name: specific_location_issues
+      label: Specific Location Issues
+      hint: Which specific public space has the most accessibility issues?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: barrier_severity_rating
+      label: Barrier Severity Rating
+      hint: How severely do accessibility barriers impact your ability to use public spaces?
+      type: select_one
+      options: ["Extremely", "Very Much", "Moderately", "Slightly", "Not at All"]
+      required: true
+    - id: 11
+      name: transportation_accessibility_issues
+      label: Transportation Accessibility Issues
+      hint: Do you experience accessibility issues with public transportation?
+      type: select_one
+      options: ["Yes, Major Issues", "Yes, Minor Issues", "Occasionally", "Rarely", "No Issues"]
+      required: true
+    - id: 12
+      name: communication_accessibility_issues
+      label: Communication Accessibility Issues
+      hint: Do you experience issues with communication accessibility (signage, announcements, etc.)?
+      type: select_one
+      options: ["Yes, Major Issues", "Yes, Minor Issues", "Occasionally", "Rarely", "No Issues"]
+      required: true
+    - id: 13
+      name: emergency_accessibility_preparedness
+      label: Emergency Accessibility Preparedness
+      hint: Do public spaces adequately accommodate your needs during emergencies?
+      type: select_one
+      options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+      required: true
+    - id: 14
+      name: staff_assistance_availability
+      label: Staff Assistance Availability
+      hint: How often can you get assistance from staff when facing accessibility barriers?
+      type: select_one
+      options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+      required: true
+    - id: 15
+      name: accessibility_improvement_priority
+      label: Accessibility Improvement Priority
+      hint: Which accessibility improvement should be prioritized first?
+      type: select_one
+      options: ["Ramps and Elevators", "Accessible Parking", "Restroom Facilities", "Wayfinding Signage", "Pathway Clearances", "Emergency Evacuation Plans", "Staff Training", "Technology Aids", "Seating Areas", "Other"]
+      required: true
+    - id: 16
+      name: awareness_of_rights
+      label: Awareness of Rights
+      hint: Are you aware of your rights regarding accessibility in public spaces?
+      type: select_one
+      options: ["Very Aware", "Somewhat Aware", "Slightly Aware", "Not Aware", "Unsure"]
+      required: true
+    - id: 17
+      name: reporting_experience
+      label: Reporting Experience
+      hint: Have you reported accessibility issues to authorities?
+      type: select_one
+      options: ["Yes, and Issues Were Resolved", "Yes, but Issues Were Not Resolved", "Yes, Still Pending Resolution", "No, Haven't Reported", "No, Don't Know How"]
+      required: true
+    - id: 18
+      name: satisfaction_with_current_accessibility
+      label: Satisfaction with Current Accessibility
+      hint: How satisfied are you with the current level of accessibility in public spaces?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 19
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: What specific improvements would you suggest for public space accessibility?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments about accessibility barriers in public spaces?
+      type: text
+      options: []
+      required: false

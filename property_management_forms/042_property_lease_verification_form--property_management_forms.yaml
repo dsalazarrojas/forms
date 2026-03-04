@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Leverage Verification Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: minimalist_properties
+      label: Minimalist Properties
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 9
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 11
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: select_multiple
+      options:
+      - '6'
+      - '12'
+      - '24'
+      required: false
+    - id: 12
+      name: photo_id
+      label: Photo ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: id_number
+      label: ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false

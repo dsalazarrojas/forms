@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Color Personality Test
+    pages:
+      - id: 1
+        name: header
+        label: -- Personality Test --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: date
+        label: Date
+        hint: YYYY-MM-DD
+        type: date
+        options: []
+        required: false
+      - id: 4
+        name: choose_color_1
+        label: Choose color 1
+        hint: First selection
+        type: select_one
+        options:
+          - Red
+          - Blue
+          - Green
+          - Yellow
+        required: true
+      - id: 5
+        name: choose_color_2
+        label: Choose color 2
+        hint: Second selection
+        type: select_one
+        options:
+          - Purple
+          - Orange
+          - Teal
+          - Grey
+        required: true
+      - id: 6
+        name: dominant_traits
+        label: Dominant personality traits
+        hint: Derived traits based on colors
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: introversion_extroversion
+        label: Introversion or extroversion tendency
+        hint: Self assessment
+        type: select_one
+        options:
+          - Introvert
+          - Ambivert
+          - Extrovert
+        required: false
+      - id: 8
+        name: decision_style
+        label: Decision making style
+        hint: How decisions are generally made
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: recommended_roles
+        label: Recommended roles or careers
+        hint: Based on test results
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Free text
+        type: text
+        options: []
+        required: false

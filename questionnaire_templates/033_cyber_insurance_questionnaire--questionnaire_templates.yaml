@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cyber Insurance Questionnaire
+    pages:
+    - id: 1
+      name: cyber_insurance_questionnaire
+      label: Cyber Insurance Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cyber_insurance_questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - What is your cyber insurance coverage?
+      - How many cyber attacks have you experienced in the last 2 years?
+      - What level of cyber insurance coverage do you need?
+      required: false
+    - id: 3
+      name: cyber_insurance_coverage
+      label: Coverage
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 4
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: insurance_coverage_needed
+      label: Coverage Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Data Protection
+      - Security Consulting
+      - Cyber Security
+      required: false
+    - id: 7
+      name: insurance_coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Network Security
+      - Data Protection
+      - Security Consulting
+      required: false
+    - id: 8
+      name: cyber_insurance_provider
+      label: Provider
+      hint: null
+      type: select_one
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      required: false
+    - id: 9
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: coverage_period
+      label: Coverage Period
+      hint: null
+      type: select_multiple
+      options:
+      - 1 year
+      - 3 years
+      - 5 years
+      required: false
+    - id: 11
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Annual
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 12
+      name: coverage_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false

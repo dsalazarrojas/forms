@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Questionnaire Form
+    pages:
+    - id: 1
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: website_purpose
+      label: Website Purpose
+      hint: null
+      type: select_one
+      options:
+      - Website for Information
+      - Website for Shopping
+      - Website for Community
+      required: false
+    - id: 8
+      name: website_preferences
+      label: Website Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 9
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_visited
+      label: Time Visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: comments_count
+      label: Comments Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - 1-3
+      - 4-5
+      - 6-7
+      required: false
+    - id: 14
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Option D
+      - Option E
+      - Option F
+      required: false
+    - id: 15
+      name: website_traffic
+      label: Website Traffic
+      hint: null
+      type: select_multiple
+      options:
+      - Option G
+      - Option H
+      - Option I
+      required: false
+    - id: 16
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: select_one
+      options:
+      - Option J
+      - Option K
+      - Option L
+      required: false
+    - id: 17
+      name: website_design
+      label: Website Design
+      hint: null
+      type: select_one
+      options:
+      - Option M
+      - Option N
+      - Option O
+      required: false
+    - id: 18
+      name: website_usability
+      label: Website Usability
+      hint: null
+      type: select_one
+      options:
+      - Option P
+      - Option Q
+      - Option R
+      required: false
+    - id: 19
+      name: user_frustration_level
+      label: User Frustration Level
+      hint: null
+      type: select_multiple
+      options:
+      - Option S
+      - Option T
+      - Option U
+      required: false
+    - id: 20
+      name: website_purpose_scale
+      label: Website Purpose Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Option V
+      - Option W
+      - Option X
+      required: false
+    - id: 21
+      name: user_satisfaction_level
+      label: User Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - Option Y
+      - Option Z
+      - Option AA
+      required: false
+    - id: 22
+      name: website_traffic_scale
+      label: Website Traffic Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Option AB
+      - Option AC
+      - Option AD
+      required: false
+    - id: 23
+      name: user_experience_scale
+      label: User Experience Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Option AE
+      - Option AF
+      - Option AG
+      required: false
+    - id: 24
+      name: user_satisfaction_scale
+      label: User Satisfaction Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Option AH
+      - Option AI
+      - Option AJ
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Interview Questionnaire Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teaching_certifications
+      label: Teaching Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching Certification 1
+      - Teaching Certification 2
+      required: false
+    - id: 6
+      name: experience_years
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

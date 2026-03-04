@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prospective Traveler Vacation Questionnaire
+    pages:
+    - id: 1
+      name: travel_planner
+      label: Travel planner
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_budget
+      label: travel_budget
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: budget
+      label: budget
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_preferences
+      label: travel_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_frequency
+      label: travel_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_travel_agency
+      label: assigned_travel_agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_travel_agency_label
+      label: assigned_travel_agency_label
+      hint: null
+      type: text
+      options: []
+      required: false

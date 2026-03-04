@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bear Trap Usage Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization/Agency
+      hint: Which organization do you represent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_experience
+      label: Years of Experience with Bear Traps
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: For follow-up purposes
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: usage_section
+      label: -- Trap Usage Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: annual_traps_used
+      label: Number of Traps Used Annually
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: trap_type
+      label: Primary Trap Type Used
+      hint: null
+      type: select_one
+      options:
+      - Leg Hold
+      - Box Trap
+      - Snare
+      - Cable Restraint
+      - Other
+      required: true
+    - id: 10
+      name: geographic_region
+      label: Geographic Region of Use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: safety_section
+      label: -- Safety Perceptions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: trap_safety_rating
+      label: How safe are bear traps in practice
+      hint: Rate from 1-5
+      type: select_one
+      options:
+      - Very Unsafe
+      - Unsafe
+      - Neutral
+      - Safe
+      - Very Safe
+      required: true
+    - id: 13
+      name: human_injury_concerns
+      label: Concern level for human injury
+      hint: null
+      type: select_one
+      options:
+      - Not Concerned
+      - Slightly Concerned
+      - Moderately Concerned
+      - Very Concerned
+      - Extremely Concerned
+      required: true
+    - id: 14
+      name: animal_welfare_concern
+      label: Concern level for animal welfare
+      hint: null
+      type: select_one
+      options:
+      - Not Concerned
+      - Slightly Concerned
+      - Moderately Concerned
+      - Very Concerned
+      - Extremely Concerned
+      required: true
+    - id: 15
+      name: safety_incident
+      label: Have you experienced a safety incident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: incident_description
+      label: Describe any safety incidents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_section
+      label: -- Policy Opinions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_regulations
+      label: Current regulations are adequate
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 19
+      name: policy_changes
+      label: What policy changes would you recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: alternatives_knowledge
+      label: Awareness of alternative trap methods
+      hint: null
+      type: select_one
+      options:
+      - Not Aware
+      - Slightly Aware
+      - Moderately Aware
+      - Very Aware
+      - Extremely Aware
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

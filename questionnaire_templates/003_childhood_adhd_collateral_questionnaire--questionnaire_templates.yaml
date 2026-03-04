@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Childhood ADHD Collateral Questionnaire
+    pages:
+      - id: 1
+        name: introductory_note
+        label: -- Collateral Observation Form --
+        hint: This form is to be completed by a teacher, coach, or caregiver who knows the child well.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: child_name
+        label: Child Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: observer_name
+        label: Observer Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: relationship_to_child
+        label: Relationship to Child
+        hint: e.g. 2nd Grade Teacher, Soccer Coach
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: length_of_acquaintance
+        label: How long have you known this child?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: attention_header
+        label: -- Attention and Focus --
+        hint: Rate the frequency of the following behaviors
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: fails_to_give_attention
+        label: Often fails to give close attention to details or makes careless mistakes
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Often
+          - Very Often
+        required: true
+      - id: 8
+        name: difficulty_sustaining_attention
+        label: Often has difficulty sustaining attention in tasks or play activities
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Often
+          - Very Often
+        required: true
+      - id: 9
+        name: does_not_seem_to_listen
+        label: Often does not seem to listen when spoken to directly
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Often
+          - Very Often
+        required: true
+      - id: 10
+        name: hyperactivity_header
+        label: -- Hyperactivity and Impulsivity --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: fidgets_with_hands
+        label: Often fidgets with hands or feet or squirms in seat
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Often
+          - Very Often
+        required: true
+      - id: 12
+        name: leaves_seat
+        label: Often leaves seat in situations where remaining seated is expected
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Often
+          - Very Often
+        required: true
+      - id: 13
+        name: talks_excessively
+        label: Often talks excessively
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Often
+          - Very Often
+        required: true
+      - id: 14
+        name: social_functioning
+        label: Describe the childs social interactions with peers
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: academic_performance
+        label: Describe the childs current academic performance
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: strengths
+        label: What are the childs greatest strengths?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: additional_concerns
+        label: Are there any other concerns you would like to mention?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: report_date
+        label: Date of Report
+        hint: null
+        type: date
+        options: []
+        required: true

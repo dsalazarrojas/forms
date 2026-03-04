@@ -1,0 +1,292 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Compliance Efficiency Survey
+    pages:
+      - id: 1
+        name: respondent_section
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: role_title
+        label: Your title or role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department_area
+        label: Department or area of responsibility
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: experience_level
+        label: Years of compliance experience
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - More than 10 years
+        required: true
+      - id: 6
+        name: workflow_assessment
+        label: -- Workflow Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_efficiency
+        label: Overall efficiency of compliance processes
+        hint: null
+        type: select_one
+        options:
+          - Very efficient
+          - Efficient
+          - Neutral
+          - Inefficient
+          - Very inefficient
+        required: true
+      - id: 8
+        name: process_documentation
+        label: Clarity of process documentation
+        hint: null
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - No documentation
+        required: true
+      - id: 9
+        name: workflow_standardization
+        label: Workflow standardization across building
+        hint: null
+        type: select_one
+        options:
+          - Fully standardized
+          - Mostly standardized
+          - Partially standardized
+          - Minimally standardized
+          - Not standardized
+        required: true
+      - id: 10
+        name: communication_flow
+        label: Communication flow between teams
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 11
+        name: system_tools
+        label: -- Tools and Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: tools_used
+        label: Tools and systems used for compliance
+        hint: null
+        type: select_multiple
+        options:
+          - Spreadsheets
+          - Specialized compliance software
+          - Building management system
+          - Document management
+          - Email
+          - Manual processes
+          - Custom database
+          - Other
+        required: true
+      - id: 13
+        name: tool_effectiveness
+        label: Effectiveness of current tools
+        hint: null
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Somewhat effective
+          - Not very effective
+          - Not effective
+        required: true
+      - id: 14
+        name: system_integration
+        label: Integration between systems
+        hint: null
+        type: select_one
+        options:
+          - Fully integrated
+          - Mostly integrated
+          - Partially integrated
+          - Minimal integration
+          - No integration
+        required: true
+      - id: 15
+        name: data_accessibility
+        label: Accessibility of compliance data
+        hint: null
+        type: select_one
+        options:
+          - Very accessible
+          - Accessible
+          - Somewhat accessible
+          - Difficult to access
+          - Not accessible
+        required: true
+      - id: 16
+        name: bottlenecks
+        label: -- Bottlenecks and Challenges --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: main_bottlenecks
+        label: Main workflow bottlenecks
+        hint: null
+        type: select_multiple
+        options:
+          - Data entry and manual work
+          - System limitations
+          - Communication delays
+          - Approval processes
+          - Document organization
+          - Resource constraints
+          - Training gaps
+          - Unclear procedures
+          - System integration issues
+        required: true
+      - id: 18
+        name: time_consumption
+        label: Most time-consuming activities
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: error_frequency
+        label: Frequency of compliance errors
+        hint: null
+        type: select_one
+        options:
+          - Rarely - Less than once per month
+          - Occasionally - Monthly
+          - Frequently - Weekly
+          - Very frequently - Daily
+        required: true
+      - id: 20
+        name: error_causes
+        label: Primary causes of errors
+        hint: null
+        type: select_multiple
+        options:
+          - Manual entry mistakes
+          - Unclear procedures
+          - Miscommunication
+          - System limitations
+          - Training gaps
+          - Outdated information
+          - Resource limitations
+        required: false
+      - id: 21
+        name: improvements
+        label: -- Suggested Improvements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: improvement_priorities
+        label: Top improvement priorities
+        hint: null
+        type: select_multiple
+        options:
+          - Automation of processes
+          - Better system integration
+          - Improved documentation
+          - Staff training
+          - New tools/software
+          - Process redesign
+          - Better communication
+          - Real-time dashboards
+        required: true
+      - id: 23
+        name: automation_opportunities
+        label: Opportunities for automation
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: training_needs
+        label: Training needs for efficiency
+        hint: null
+        type: select_multiple
+        options:
+          - Tool training
+          - Process training
+          - System updates
+          - Best practices
+          - New software
+          - Compliance updates
+          - Other
+        required: false
+      - id: 25
+        name: resource_requirements
+        label: Resources needed for improvement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: implementation_capacity
+        label: Capacity to implement improvements
+        hint: null
+        type: select_one
+        options:
+          - High capacity
+          - Moderate capacity
+          - Limited capacity
+          - Very limited capacity
+        required: false
+      - id: 27
+        name: additional_feedback
+        label: Additional feedback or suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

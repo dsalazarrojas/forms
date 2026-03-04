@@ -1,0 +1,324 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contracts Knowledge Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Full Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Email for results delivery
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Company or institution name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: role
+        label: Your Role
+        hint: Your job title or position
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: section_quiz
+        label: -- Contract Law Basics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: q1
+        label: What are the essential elements of a valid contract
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Offer, acceptance, and consideration
+          - Offer, counteroffer, and signature
+          - Agreement, payment, and witness
+          - Proposal, negotiation, and execution
+        required: true
+      - id: 7
+        name: q2
+        label: What does consideration mean in contract law
+        hint: null
+        type: select_one
+        options:
+          - Something of value exchanged between parties
+          - Careful thought before signing
+          - Time to review the contract
+          - Legal advice obtained
+        required: true
+      - id: 8
+        name: q3
+        label: What is a breach of contract
+        hint: null
+        type: select_one
+        options:
+          - Failure to perform contractual obligations
+          - Negotiating better terms
+          - Requesting contract modification
+          - Signing under pressure
+        required: true
+      - id: 9
+        name: q4
+        label: What is the statute of frauds
+        hint: null
+        type: select_one
+        options:
+          - Law requiring certain contracts to be in writing
+          - Time limit for filing lawsuits
+          - Rule about fraudulent contracts
+          - Regulation of contract language
+        required: true
+      - id: 10
+        name: q5
+        label: What does force majeure mean
+        hint: null
+        type: select_one
+        options:
+          - Unforeseeable circumstances preventing contract performance
+          - Major contract violation
+          - Mandatory contract terms
+          - Maximum liability clause
+        required: true
+      - id: 11
+        name: section_contract_types
+        label: -- Contract Types --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: q6
+        label: What is a unilateral contract
+        hint: null
+        type: select_one
+        options:
+          - A promise in exchange for an act
+          - A contract with one party only
+          - A contract signed by one person
+          - An illegal agreement
+        required: true
+      - id: 13
+        name: q7
+        label: What is a bilateral contract
+        hint: null
+        type: select_one
+        options:
+          - A promise in exchange for a promise
+          - A contract between two countries
+          - A contract with two signatures
+          - An agreement with two witnesses
+        required: true
+      - id: 14
+        name: q8
+        label: What is an express contract
+        hint: null
+        type: select_one
+        options:
+          - Terms stated orally or in writing
+          - A fast-track agreement
+          - A contract with explicit penalties
+          - A government contract
+        required: true
+      - id: 15
+        name: q9
+        label: What is an implied contract
+        hint: null
+        type: select_one
+        options:
+          - Formed by actions or conduct of parties
+          - A suggested but not binding agreement
+          - A contract that is not important
+          - A verbal agreement only
+        required: true
+      - id: 16
+        name: q10
+        label: What is a voidable contract
+        hint: null
+        type: select_one
+        options:
+          - A contract that can be legally canceled by one party
+          - An invalid agreement
+          - A contract with no legal effect
+          - An expired contract
+        required: true
+      - id: 17
+        name: section_remedies
+        label: -- Remedies and Damages --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: q11
+        label: What are compensatory damages
+        hint: null
+        type: select_one
+        options:
+          - Money to compensate for actual losses
+          - Punishment for bad behavior
+          - Symbolic payment
+          - Legal fees reimbursement
+        required: true
+      - id: 19
+        name: q12
+        label: What are punitive damages
+        hint: null
+        type: select_one
+        options:
+          - Money awarded to punish wrongful conduct
+          - Payment for court costs
+          - Compensation for emotional distress
+          - Refund of contract price
+        required: true
+      - id: 20
+        name: q13
+        label: What is specific performance
+        hint: null
+        type: select_one
+        options:
+          - Court order to fulfill contractual obligations
+          - Detailed contract terms
+          - Performance bonus clause
+          - Quality standards requirement
+        required: true
+      - id: 21
+        name: q14
+        label: What is liquidated damages
+        hint: null
+        type: select_one
+        options:
+          - Pre-agreed amount for breach
+          - Money held in escrow
+          - Damages that are easily calculated
+          - Payment in installments
+        required: true
+      - id: 22
+        name: q15
+        label: What is rescission of a contract
+        hint: null
+        type: select_one
+        options:
+          - Cancellation and return to pre-contract position
+          - Modification of terms
+          - Extension of deadline
+          - Transfer to another party
+        required: true
+      - id: 23
+        name: section_advanced
+        label: -- Advanced Concepts --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: q16
+        label: What is the parol evidence rule
+        hint: null
+        type: select_one
+        options:
+          - Prevents outside evidence contradicting written contract
+          - Requires all contracts to be spoken
+          - Allows verbal modifications only
+          - Mandates witness testimony
+        required: true
+      - id: 25
+        name: q17
+        label: What is privity of contract
+        hint: null
+        type: select_one
+        options:
+          - Relationship between contracting parties
+          - Privacy clause in contracts
+          - Confidentiality agreement
+          - Private negotiation process
+        required: true
+      - id: 26
+        name: q18
+        label: What is an assignment of contract
+        hint: null
+        type: select_one
+        options:
+          - Transfer of rights to a third party
+          - Delegation of duties only
+          - Modification of contract terms
+          - Termination of agreement
+        required: true
+      - id: 27
+        name: q19
+        label: What is novation
+        hint: null
+        type: select_one
+        options:
+          - Substitution of new party or obligation
+          - Contract renewal
+          - Minor contract change
+          - Contract extension
+        required: true
+      - id: 28
+        name: q20
+        label: What is unconscionability
+        hint: null
+        type: select_one
+        options:
+          - Contract terms so unfair they shock the conscience
+          - Minor unfairness in terms
+          - Illegal contract provisions
+          - Unclear contract language
+        required: true
+      - id: 29
+        name: section_self_assessment
+        label: -- Self Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: confidence_level
+        label: How confident do you feel about contract law
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Somewhat Confident
+          - Neutral
+          - Not Very Confident
+          - Not Confident at All
+        required: true
+      - id: 31
+        name: areas_for_improvement
+        label: Areas where you need more study
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Contract formation
+          - Contract types
+          - Breach and remedies
+          - Contract interpretation
+          - Special doctrines
+          - None - I feel confident
+        required: false

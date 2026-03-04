@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_service_evaluation_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_rating
+      label: Service rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction_level
+      label: Satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_request
+      label: Service request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

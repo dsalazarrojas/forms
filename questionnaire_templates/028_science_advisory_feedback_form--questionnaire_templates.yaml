@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Advisory Feedback Form
+    pages:
+    - id: 1
+      name: science_advisory_feedback_form
+      label: What was your experience at the science advisory session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: science_advisory_session
+      label: Which session did you attend
+      hint: null
+      type: select_one
+      options:
+      - Session A
+      - Session B
+      - Session C
+      required: true
+    - id: 3
+      name: science_advisory_rating
+      label: How would you rate your experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: science_advisory_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_contact
+      label: How did you hear about us
+      hint: null
+      type: select_multiple
+      options:
+      - Online search
+      - Social media
+      - Friend
+      - Other
+      required: true
+    - id: 7
+      name: science_advisory_session_improve
+      label: Which session could improve the most
+      hint: null
+      type: select_one
+      options:
+      - Content
+      - Timing
+      - Venue
+      required: true
+    - id: 8
+      name: science_advisory_rating_scale
+      label: How would you rate our rating system
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: science_advisory_additional_feedback
+      label: Do you have any additional feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: science_advisory_session_satisfaction
+      label: How satisfied are you with the session
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: science_advisory_session_relevance
+      label: How relevant was the session
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: science_advisory_session_usefulness
+      label: How useful was the session
+      hint: null
+      type: number
+      options: []
+      required: true

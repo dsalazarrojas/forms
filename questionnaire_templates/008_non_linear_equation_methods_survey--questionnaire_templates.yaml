@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Linear Equation Methods Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: numerical_methods
+      label: What type of numerical method?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Analytical Method''}'
+      - '{''id'': 2, ''name'': ''Approximation''}'
+      - '{''id'': 3, ''name'': ''Numerical Method''}'
+      required: false
+    - id: 3
+      name: survey_question
+      label: What do you want to find?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: survey_response
+      label: What would you like to know?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: survey_question_2
+      label: How do you know this?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: survey_response_2
+      label: How?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: numerical_method
+      label: Which numerical method do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Analytical''}'
+      - '{''id'': 2, ''name'': ''Approximation''}'
+      - '{''id'': 3, ''name'': ''Numerical''}'
+      required: true
+    - id: 8
+      name: frequency_of_use
+      label: How often do you use it?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      required: true
+    - id: 9
+      name: time_of_day
+      label: What time of day do you usually use it?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: duration_of_use
+      label: How much time do you usually spend on it?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: difficulty_level
+      label: How difficult is it to use?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Easy''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Hard''}'
+      required: true
+    - id: 12
+      name: satisfaction_level
+      label: How satisfied are you with it?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Satisfied''}'
+      - '{''id'': 2, ''name'': ''Neutral''}'
+      - '{''id'': 3, ''name'': ''Dissatisfied''}'
+      required: true
+    - id: 13
+      name: recommendation
+      label: Would you recommend it?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: numerical_method_2
+      label: Another numerical method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: numerical_method_3
+      label: Yet another numerical method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: numerical_method_4
+      label: Another numerical method again
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: numerical_method_5
+      label: Yet another numerical method again
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: numerical_method_6
+      label: Another numerical method once more
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: numerical_method_7
+      label: Yet another numerical method once more
+      hint: null
+      type: text
+      options: []
+      required: false

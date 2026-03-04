@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychology Questionnaire
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: treatment
+      label: treatment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_data
+      label: patient_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_notes
+      label: patient_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: therapist_info
+      label: therapist_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_contact
+      label: patient_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: practice_info
+      label: practice_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: psychologist_info
+      label: psychologist_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: next_appointment
+      label: next_appointment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assessment_result
+      label: assessment_result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_consent
+      label: patient_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: follow_up_info
+      label: follow_up_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: practice_contact
+      label: practice_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: practice_location
+      label: practice_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: practitioner_info
+      label: practitioner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: practice_phone
+      label: practice_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: practice_address
+      label: practice_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_appointment_status
+      label: next_appointment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

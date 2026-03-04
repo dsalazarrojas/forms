@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Director Candidate Profile Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_position
+      label: Current Position in Club
+      hint: Member, officer, committee member, etc
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_in_club
+      label: Years Member of Club
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_experience
+      label: -- Leadership Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: leadership_background
+      label: Leadership Background
+      hint: Prior roles held in club or other organizations
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: relevant_skills
+      label: Relevant Skills and Competencies
+      hint: Organizational, communication, decision-making, etc
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: prior_director_experience
+      label: Prior Director or Chair Experience
+      hint: null
+      type: select_one
+      options:
+      - Yes - this club
+      - Yes - other organization
+      - No experience
+      - Limited experience
+      required: true
+    - id: 11
+      name: section_vision
+      label: -- Vision and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vision_statement
+      label: Vision for Club During Term
+      hint: What direction would you take the club?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: key_initiatives
+      label: Key Initiatives or Projects Planned
+      hint: What would you accomplish?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: challenges_facing
+      label: What challenges face the club currently?
+      hint: And how would you address them?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_qualities
+      label: -- Personal Qualities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: leadership_strengths
+      label: Top 3 Leadership Strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: improvement_areas
+      label: Areas for Personal Growth
+      hint: What would you work to improve?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: decision_making
+      label: Decision-Making Style
+      hint: How do you approach decisions?
+      type: select_one
+      options:
+      - Collaborative and consensus-based
+      - Decisive and independent
+      - Data-driven
+      - Balanced approach
+      required: true
+    - id: 19
+      name: conflict_resolution
+      label: How do you handle conflict?
+      hint: Describe your approach
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_commitment
+      label: -- Commitment and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: time_commitment
+      label: Hours Per Week Available
+      hint: Time dedicated to director role
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: full_term_commitment
+      label: Commit to Full Term
+      hint: Can you serve the complete term?
+      type: select_one
+      options:
+      - Yes, fully committed
+      - Yes, mostly committed
+      - Uncertain
+      - 'No'
+      required: true
+    - id: 23
+      name: endorsements
+      label: Endorsements or References
+      hint: Names of club members who support your candidacy
+      type: text
+      options: []
+      required: false

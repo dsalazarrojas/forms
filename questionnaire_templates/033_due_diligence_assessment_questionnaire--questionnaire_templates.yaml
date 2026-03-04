@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Due Diligence Assessment Questionnaire
+    pages:
+    - id: 1
+      name: potential_business_partners
+      label: Potential Business Partners
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: entity_finance
+      label: Entity Finance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: entity_legal
+      label: Entity Legal
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: financial_standing
+      label: Financial Standing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vetting_process
+      label: Vetting Process
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: business_partners
+      label: Business Partners
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: entity_name
+      label: Entity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: entity_status
+      label: Entity Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: vetting_notes
+      label: Vetting Notes
+      hint: null
+      type: note
+      options: []
+      required: false

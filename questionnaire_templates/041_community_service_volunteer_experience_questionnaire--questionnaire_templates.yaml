@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Volunteer Experience Questionnaire
+    pages:
+    - id: 1
+      name: volunteer_info
+      label: Volunteer Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_duration
+      label: How Long Have You Volunteered
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 7
+      name: experience_section
+      label: Volunteer Experience
+      hint: Your recent project
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_name
+      label: Project Name
+      hint: What project did you work on
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: role
+      label: Your Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: hours_contributed
+      label: Hours Contributed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: satisfaction_ratings
+      label: Satisfaction Ratings
+      hint: Rate your experience
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 14
+      name: organization_support
+      label: Organization Support Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: training_quality
+      label: Training Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: true
+    - id: 16
+      name: supervisor_support
+      label: Supervisor Support Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: impact_rating
+      label: How Much Impact Did You Feel You Made
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 18
+      name: meaningful_work
+      label: Was Your Work Meaningful
+      hint: null
+      type: select_one
+      options:
+      - Very Meaningful
+      - Meaningful
+      - Neutral
+      - Not Very Meaningful
+      - Not Meaningful
+      required: true
+    - id: 19
+      name: skills_section
+      label: Skills and Development
+      hint: Your growth
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: skills_used
+      label: Skills You Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Teamwork
+      - Problem Solving
+      - Organization
+      - Technical Skills
+      - Creative Skills
+      - Physical Skills
+      - Teaching
+      - Other
+      required: true
+    - id: 21
+      name: skills_learned
+      label: New Skills You Learned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confidence_improved
+      label: Did Your Confidence Improve
+      hint: null
+      type: select_one
+      options:
+      - Significantly
+      - Somewhat
+      - Not Really
+      - Not At All
+      required: true
+    - id: 23
+      name: challenges_section
+      label: Challenges and Support
+      hint: What you faced
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: challenges_faced
+      label: Challenges You Faced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of Training
+      - Insufficient Resources
+      - Time Constraints
+      - Communication Issues
+      - Physical Demands
+      - Emotional Demands
+      - Lack of Support
+      - Unclear Expectations
+      - None
+      required: false
+    - id: 25
+      name: support_needed
+      label: What Support Would Have Helped
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: recommendations_section
+      label: Recommendations
+      hint: Your suggestions
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: improvements
+      label: What Could Be Improved
+      hint: Be specific
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: continue_volunteering
+      label: Will You Continue Volunteering
+      hint: null
+      type: select_one
+      options:
+      - Yes - With This Organization
+      - Yes - With Different Organization
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 29
+      name: recommend_others
+      label: Would You Recommend to Friends
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 30
+      name: highlight
+      label: What Was Your Highlight
+      hint: Best moment
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Achievements Survey
+    pages:
+    - id: 1
+      name: user_response
+      label: user_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_know_this
+      label: how_do_you_know_this
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: what_is_your_occupation
+      label: what_is_your_occupation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student''}'
+      - '{''label'': ''Teacher''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: have_you_teach_history
+      label: have_you_teach_history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 5
+      name: how_much_do_you_like_teaching
+      label: how_much_do_you_like_teaching
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_much_do_you_like_learning
+      label: how_much_do_you_like_learning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: how_familiar_are_you_with_history
+      label: how_familiar_are_you_with_history
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: have_you_read_history_books
+      label: have_you_read_history_books
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 9
+      name: how_much_do_you_think_history_is_importance
+      label: how_much_do_you_think_history_is_importance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: what_do_you_think_is_the_most_difficult_part
+      label: what_do_you_think_is_the_most_difficult_part
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Familiarity with historical events''}'
+      - '{''label'': ''Understanding the context of historical events''}'
+      - '{''label'': ''Understanding the causes and consequences of historical events''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 11
+      name: how_much_do_you_like_talking_about_history
+      label: how_much_do_you_like_talking_about_history
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: how_familiar_are_you_with_historical_figures
+      label: how_familiar_are_you_with_historical_figures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: do_you_believe_history_is_importance
+      label: do_you_believe_history_is_importance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 14
+      name: have_you_attended_history_workshops
+      label: have_you_attended_history_workshops
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 15
+      name: have_you_watched_history_documents
+      label: have_you_watched_history_documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 16
+      name: do_you_believe_history_is_fun
+      label: do_you_believe_history_is_fun
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: have_you_participated_in_history_festivals
+      label: have_you_participated_in_history_festivals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 18
+      name: what_do_you_think_is_most_importance
+      label: what_do_you_think_is_most_importance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Familiarity with historical events''}'
+      - '{''label'': ''Understanding the context of historical events''}'
+      - '{''label'': ''Understanding the causes and consequences of historical events''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 19
+      name: how_much_do_you_agree_that_history_is_important
+      label: how_much_do_you_agree_that_history_is_important
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: have_you_teach_history_online
+      label: have_you_teach_history_online
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 21
+      name: do_you_believe_history_is_fun
+      label: do_you_believe_history_is_fun
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 22
+      name: have_you_participated_in_history_competition
+      label: have_you_participated_in_history_competition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 23
+      name: how_much_do_you_know_about_history
+      label: how_much_do_you_know_about_history
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: have_you_read_history_articles
+      label: have_you_read_history_articles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 25
+      name: have_you_attended_history_seminars
+      label: have_you_attended_history_seminars
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false

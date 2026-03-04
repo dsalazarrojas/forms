@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Straw Poll
+    pages:
+    - id: 1
+      name: straw_poll_form
+      label: straw_poll_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject_title
+      label: subject_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: poll_subject
+      label: poll_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: poll_question
+      label: poll_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: level_of_education
+      label: level_of_education
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - College
+      - University
+      - Master's
+      - Other
+      required: false
+    - id: 6
+      name: voter_gender
+      label: voter_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: voter_age
+      label: voter_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: voter_income
+      label: voter_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: voter_education
+      label: voter_education
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - College
+      - University
+      - Master's
+      - Ph.D.
+      - Other
+      required: false
+    - id: 10
+      name: voter_occupation
+      label: voter_occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Student
+      - Employee
+      - Retired
+      - Other
+      required: false
+    - id: 11
+      name: voter_level_of_interest
+      label: voter_level_of_interest
+      hint: null
+      type: select_multiple
+      options:
+      - Very
+      - Somewhat
+      - Not very
+      - Not at all
+      required: false
+    - id: 12
+      name: straw_poll_comments
+      label: straw_poll_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: filter_by_education
+      label: filter_by_education
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - College
+      - University
+      - Master's
+      - Other
+      required: false
+    - id: 14
+      name: filter_by_age
+      label: filter_by_age
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 15
+      name: filter_by_income
+      label: filter_by_income
+      hint: null
+      type: select_one
+      options:
+      - 0-25000
+      - 25001-40000
+      - 40001-60000
+      - 60001-80000
+      - 80001-100000
+      - More than 100000
+      required: false
+    - id: 16
+      name: filter_by_occupation
+      label: filter_by_occupation
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Employee
+      - Retired
+      - Other
+      required: false
+    - id: 17
+      name: filter_by_interest_level
+      label: filter_by_interest_level
+      hint: null
+      type: select_one
+      options:
+      - Very
+      - Somewhat
+      - Not very
+      - Not at all
+      required: false
+    - id: 18
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_info
+      label: submitter_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: filter_by_educational_level
+      label: filter_by_educational_level
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - College
+      - University
+      - Master's
+      - Other
+      required: false

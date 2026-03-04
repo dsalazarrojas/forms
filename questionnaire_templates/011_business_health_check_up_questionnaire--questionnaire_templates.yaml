@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Health Check Up Questionnaire
+    pages:
+      - id: 1
+        name: header
+        label: -- Business Health Check Up --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company name
+        hint: Legal or trading name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_date
+        label: Assessment date
+        hint: Date completed
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: leadership_effectiveness
+        label: Leadership effectiveness
+        hint: Rate leadership performance
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Excellent
+        required: true
+      - id: 5
+        name: financial_health
+        label: Financial health
+        hint: Rate the financial health of the business
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Strong
+        required: true
+      - id: 6
+        name: market_position
+        label: Market position
+        hint: How competitive is the business in its market
+        type: select_one
+        options:
+          - Weak
+          - Moderate
+          - Strong
+        required: true
+      - id: 7
+        name: talent_and_skills
+        label: Talent and skills
+        hint: Rate the workforce capability
+        type: select_one
+        options:
+          - Needs improvement
+          - Adequate
+          - High performing
+        required: true
+      - id: 8
+        name: key_metrics
+        label: Key metrics
+        hint: Provide top three KPIs to track
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: improvement_actions
+        label: Improvement actions
+        hint: Proposed actions to improve business health
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: follow_up_required
+        label: Follow up required
+        hint: Indicate if further review is needed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false

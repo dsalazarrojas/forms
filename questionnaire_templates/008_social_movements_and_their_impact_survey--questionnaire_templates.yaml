@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Movements And Their Impact Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_movement_awareness
+      label: social movement awareness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: participation_in_social_movements
+      label: participation in social movements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: perceived_outcomes
+      label: perceived outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: impact_on_society
+      label: impact on society
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: impact_on_participants
+      label: impact on participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role_in_movement
+      label: role in movement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: social_movement_characteristics
+      label: social movement characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_movement_characteristics_other
+      label: other social movement characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_social_movement_characteristics
+      label: other social movement characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: conclusion
+      label: conclusion
+      hint: null
+      type: text
+      options: []
+      required: false

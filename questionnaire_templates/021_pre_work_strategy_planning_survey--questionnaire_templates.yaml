@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Work Strategy Planning Survey
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: readiness
+      label: Readiness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: risk
+      label: Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_kickoff_date
+      label: Project Kickoff Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: review_location
+      label: Review Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: risk_rationale
+      label: Risk Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: risk_probability
+      label: Risk Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: risk_frequency
+      label: Risk Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: risk_impact_probability_frequency
+      label: Risk Impact, Probability, and Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: team_members_email
+      label: Team Members Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: project_kickoff_time
+      label: Project Kickoff Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: project_kickoff_location
+      label: Project Kickoff Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false

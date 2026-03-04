@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_education_data_ethics_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: global_education_data_ethics_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_1
+      label: What are the biggest challenges facing education data ethics in your
+        region?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_2
+      label: What do you think is the main purpose of education data ethics?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_3
+      label: How do you think the main purpose of education data ethics should be?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education_data_ethics_principles
+      label: Education data ethics principles
+      hint: null
+      type: select_multiple
+      options:
+      - Principles for data quality
+      - Principles for data privacy
+      - Principles for data security
+      - Principles for data accuracy
+      - Principles for data authenticity
+      - Principles for data integrity
+      - Principles for data availability
+      - Principles for data accessibility
+      - Principles for data accountability
+      - Principles for data transparency
+      - Principles for data trust
+      - Principles for data responsibility
+      - Principles for data sustainability
+      required: true
+    - id: 6
+      name: page_4
+      label: Which of the following data types should have the highest priority for
+        data ethics?
+      hint: null
+      type: select_one
+      options:
+      - Student data
+      - Teacher data
+      - Parent data
+      - School data
+      - District data
+      - State data
+      - National data
+      - Global data
+      required: true
+    - id: 7
+      name: page_5
+      label: How would you rate the current level of data ethics awareness in your
+        region?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: page_6
+      label: Which data practices should be implemented in your region?
+      hint: null
+      type: select_multiple
+      options:
+      - Anonymization of data
+      - Data anonymization
+      - Data pseudonymization
+      - Data encryption
+      - Data masking
+      - Data tokenization
+      required: true
+    - id: 9
+      name: page_7
+      label: What should be the role of AI in education data ethics?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_8
+      label: How do you rate the importance of data ethics in education?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: true
+    - id: 11
+      name: page_9
+      label: Would you like to share any additional comments or suggestions regarding
+        education data ethics?
+      hint: null
+      type: text
+      options: []
+      required: false

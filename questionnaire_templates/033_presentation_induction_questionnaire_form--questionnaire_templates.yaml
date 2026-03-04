@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Induction Questionnaire Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_info
+      label: Background Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: presenter_info
+      label: Presenter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presentation_info
+      label: Presentation Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: presentation_content
+      label: What was the content of the presentation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: audience_info
+      label: Audience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false

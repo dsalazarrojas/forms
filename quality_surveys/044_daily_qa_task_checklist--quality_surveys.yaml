@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_qa_task_checklist
+    pages:
+    - id: 1
+      name: daily_qa_task_checklist
+      label: Daily QA Task Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - QA Department 1
+      - QA Department 2
+      - QA Department 3
+      required: false
+    - id: 3
+      name: task1
+      label: task_1
+      hint: null
+      type: select_multiple
+      options:
+      - Task 1a
+      - Task 1b
+      - Task 1c
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: issue
+      label: issue
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: select_one
+      options:
+      - Not Done
+      - In Progress
+      - Done
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_by
+      label: follow_up_by
+      hint: null
+      type: text
+      options: []
+      required: false

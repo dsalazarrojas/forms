@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Initiative Employment Application
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_form
+      label: Application Form
+      hint: Tell us about yourself
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Please select your job title
+      type: select_one
+      options:
+      - Software Engineer
+      - Data Scientist
+      - Project Manager
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: Please list your educational qualifications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resume
+      label: Resume (PDF)
+      hint: null
+      type: text
+      options: []
+      required: false

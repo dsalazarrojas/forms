@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Case Resolution Client Feedback Questionnaire
+    pages:
+    - id: 1
+      name: case_resolution_form_page_1
+      label: case-resolution-form-page-1-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Law Firm'', ''value'': ''Law Firm''}'
+      - '{''id'': 2, ''label'': ''Case Management Organization'', ''value'': ''Case
+        Management Organization''}'
+      required: false
+    - id: 3
+      name: question_2
+      label: What is your role in this case?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Client'', ''value'': ''Client''}'
+      - '{''id'': 2, ''label'': ''Attorney'', ''value'': ''Attorney''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: How satisfied are you with our service?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Satisfied'', ''value'': ''Not Satisfied''}'
+      - '{''id'': 4, ''label'': ''Very Dissatisfied'', ''value'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: question_4
+      label: What did we do right?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Provided clear communication'', ''value'': ''Provided
+        clear communication''}'
+      - '{''id'': 2, ''label'': ''Met expectations'', ''value'': ''Met expectations''}'
+      - '{''id'': 3, ''label'': ''Other (please specify)'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: question_5
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: Would you recommend our service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 8
+      name: question_7
+      label: How likely are you to recommend our service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Likely'', ''value'': ''Very Likely''}'
+      - '{''id'': 2, ''label'': ''Somewhat Likely'', ''value'': ''Somewhat Likely''}'
+      - '{''id'': 3, ''label'': ''Not Likely'', ''value'': ''Not Likely''}'
+      - '{''id'': 4, ''label'': ''Very Unlikely'', ''value'': ''Very Unlikely''}'
+      required: false
+    - id: 9
+      name: question_8
+      label: What did you use to contact us?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In-person'', ''value'': ''In-person''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: question_9
+      label: Would you like to add any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question_10
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_11
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: question_12
+      label: What is your profession?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_13
+      label: How likely are you to use our service again?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Likely'', ''value'': ''Very Likely''}'
+      - '{''id'': 2, ''label'': ''Somewhat Likely'', ''value'': ''Somewhat Likely''}'
+      - '{''id'': 3, ''label'': ''Not Likely'', ''value'': ''Not Likely''}'
+      - '{''id'': 4, ''label'': ''Very Unlikely'', ''value'': ''Very Unlikely''}'
+      required: false
+    - id: 15
+      name: question_14
+      label: Would you like to schedule a follow-up call?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 16
+      name: question_15
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: question_16
+      label: How likely are you to refer a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Likely'', ''value'': ''Very Likely''}'
+      - '{''id'': 2, ''label'': ''Somewhat Likely'', ''value'': ''Somewhat Likely''}'
+      - '{''id'': 3, ''label'': ''Not Likely'', ''value'': ''Not Likely''}'
+      - '{''id'': 4, ''label'': ''Very Unlikely'', ''value'': ''Very Unlikely''}'
+      required: false
+    - id: 18
+      name: question_17
+      label: Can we help you with anything else?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: question_18
+      label: Would you like to be contacted again in the future?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 20
+      name: question_19
+      label: Can we contact you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question_20
+      label: Can we contact you via email or phone?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: question_21
+      label: How did we contact you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: question_22
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: question_23
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question_24
+      label: What is your address?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: External Links Access Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: links_type
+      label: links_type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''safe_link''}'
+      - '{''text'': ''unsafe_link''}'
+      required: false
+    - id: 3
+      name: link_url
+      label: link_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: link_description
+      label: link_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: link_tags
+      label: link_tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''category_a''}'
+      - '{''text'': ''category_b''}'
+      - '{''text'': ''category_c''}'
+      required: false
+    - id: 6
+      name: link_source
+      label: link_source
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''internal_source''}'
+      - '{''text'': ''external_source''}'
+      required: false
+    - id: 7
+      name: link_target
+      label: link_target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: link_destination
+      label: link_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: link_type
+      label: link_type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''direct_link''}'
+      - '{''text'': ''embedded_link''}'
+      required: false
+    - id: 10
+      name: link_target_id
+      label: link_target_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: link_destination_id
+      label: link_destination_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''option_1''}'
+      - '{''text'': ''option_2''}'
+      - '{''text'': ''option_3''}'
+      required: false
+    - id: 13
+      name: correct_answer_hint
+      label: correct_answer_hint
+      hint: null
+      type: note
+      options: []
+      required: false

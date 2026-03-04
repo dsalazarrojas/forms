@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registrar Placement Questionnaire
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_year
+      label: School Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_id
+      label: School ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_program
+      label: Student Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: school_program
+      label: School Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: placement_date
+      label: Placement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: placement_time
+      label: Placement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: placement_reason
+      label: Placement Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: school_status
+      label: School Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

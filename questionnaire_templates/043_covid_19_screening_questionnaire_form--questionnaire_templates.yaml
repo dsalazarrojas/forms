@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Screening Questionnaire Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Once''}'
+      - '{''label'': ''Ongoing''}'
+      required: true
+    - id: 5
+      name: healthcare_worker
+      label: Healthcare Worker
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: recent_travel
+      label: Recent Travel
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': True}'
+      - '{''label'': ''Partial''}'
+      required: false
+    - id: 7
+      name: exposure_risk
+      label: Exposure Risk
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 8
+      name: symptoms_start
+      label: Symptoms Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: symptoms_end
+      label: Symptoms End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vaccination_dose
+      label: Vaccination Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: vaccination_time
+      label: Vaccination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: text
+      options: []
+      required: false

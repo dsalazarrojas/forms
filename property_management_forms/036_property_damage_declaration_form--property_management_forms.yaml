@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Damage Declaration Form
+    pages:
+    - id: 1
+      name: form_submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: first name
+      hint: First name of the declarant
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: phone
+      hint: Phone number of the declarant
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: email
+      hint: E-mail address of the declarant
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_city
+      label: city
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_zip
+      label: zip
+      hint: ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: property type
+      hint: Type of property that has been damaged
+      type: select_one
+      options:
+      - Apartment
+      - Condo
+      - Duplex
+      - House
+      - Mobile home
+      - Other
+      - Single-family home
+      - Townhouse
+      required: false
+    - id: 11
+      name: property_location
+      label: property location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Other
+      required: false
+    - id: 12
+      name: property_description
+      label: describe property damage
+      hint: Provide a detailed description of the property damage
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date_damage_occurred
+      label: date damage occurred
+      hint: Date when damage occurred
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_damage_occurred
+      label: time damage occurred
+      hint: Time when damage occurred
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: damage_description
+      label: describe damage
+      hint: Provide a detailed description of the damage
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: property_damage_value
+      label: estimated property value
+      hint: Estimated value of the property at the time of damage
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: insurance_provider
+      label: insurance provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: provider_address
+      label: provider address
+      hint: Address of the insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_provider
+      label: contact provider
+      hint: Contact information of the insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: claimant_declaration
+      label: claimant declaration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: claimant_name
+      label: claimant name
+      hint: Name of the claimant
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claimant_phone
+      label: claimant phone
+      hint: Phone number of the claimant
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claimant_address
+      label: claimant address
+      hint: Address of the claimant
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claimant_email
+      label: claimant e-mail
+      hint: E-mail address of the claimant
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submit2
+      label: submit2
+      hint: null
+      type: note
+      options: []
+      required: false

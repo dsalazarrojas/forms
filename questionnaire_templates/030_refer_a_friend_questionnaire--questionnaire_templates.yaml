@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: refer a friend questionnaire
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral
+      label: referral
+      hint: null
+      type: select_one
+      options:
+      - '{''option-1'': ''Friend''}'
+      - '{''option-2'': ''Coworker''}'
+      - '{''option-3'': ''Family Member''}'
+      required: false
+    - id: 3
+      name: friend_name
+      label: friends name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: friend_email
+      label: friends email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: friend_phone
+      label: friends phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: friend_relationship
+      label: relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Friend
+      - Coworker
+      - Family Member
+      required: false
+    - id: 8
+      name: friend_since
+      label: friends since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: friend_since_year
+      label: friends since year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: friend_since_date
+      label: friends since date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: friend_since_time
+      label: friends since time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: friend_message
+      label: message to friend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: friend_birthday
+      label: friends birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: friend_birthday_year
+      label: friends birthday year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: friend_age
+      label: friends age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: friend_age_relationship
+      label: relationship to age
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than 1 year
+      - 1 year
+      - 5 years
+      - 10 years
+      required: false
+    - id: 17
+      name: friend_occupation
+      label: friends occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: friend_education
+      label: friends education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: friend_revenue
+      label: friends revenue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: friend_net_worth
+      label: friends net worth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: friend_relationship_questions
+      label: relationship questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: friend_since_question
+      label: friends since question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: friend_message_question
+      label: message to friend question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: friend_birthday_question
+      label: friends birthday question
+      hint: null
+      type: text
+      options: []
+      required: false

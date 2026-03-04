@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Caretaking Quote Request
+    pages:
+    - id: 1
+      name: property_caretaking_quote_request
+      label: Property Caretaking Quote Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_caretaking_quote_request_required
+      label: Required
+      hint: null
+      type: select_one
+      options:
+      - caretaker
+      - property-owner
+      - property-manager
+      required: false
+    - id: 3
+      name: caretaker_name
+      label: Caretaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: caretaker_quote
+      label: Caretaker Quote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: caretaker_rate
+      label: Caretaker Rate
+      hint: null
+      type: time
+      options: []
+      required: false

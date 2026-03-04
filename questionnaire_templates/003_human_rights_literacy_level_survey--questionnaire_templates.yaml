@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Rights Literacy Level Survey
+    pages:
+    - id: 1
+      name: school_type
+      label: school_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: level_of_awareness
+      label: level_of_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: human_rights_concepts
+      label: human_rights_concepts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: human_rights_mandates
+      label: human_rights_mandates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: level_of_engagement
+      label: level_of_engagement
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: gender
+      label: gender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

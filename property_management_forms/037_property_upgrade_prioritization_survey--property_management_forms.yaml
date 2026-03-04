@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Upgrade Prioritization Survey
+    pages:
+    - id: 1
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_upgrade_type
+      label: Property Upgrade Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Minor''}'
+      - '{''value'': ''Major''}'
+      - '{''value'': ''Minor- Major''}'
+      required: true
+    - id: 3
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Incomplete''}'
+      required: true
+    - id: 4
+      name: priority_score
+      label: Priority Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: estimated_value
+      label: Estimated Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: priority_ranking
+      label: Priority Ranking
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Title Insurance Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - commercial
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: shipment_method
+      label: Shipment Method
+      hint: null
+      type: select_multiple
+      options:
+      - mail
+      - email
+      - fax
+      required: true
+    - id: 8
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - policy
+      - title
+      - escrow
+      required: true
+    - id: 9
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_address1
+      label: Company Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_address2
+      label: Company Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_city
+      label: Company City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_state
+      label: Company State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_zip
+      label: Company Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: company_country
+      label: Company Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_address1
+      label: Client Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_address2
+      label: Client Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_city
+      label: Client City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_state
+      label: Client State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_zip
+      label: Client Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipment_instructions
+      label: Shipment Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

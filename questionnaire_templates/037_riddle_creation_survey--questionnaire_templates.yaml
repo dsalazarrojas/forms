@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Riddle Creation Survey
+    pages:
+    - id: 1
+      name: riddle_input
+      label: Riddle Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: answer_input
+      label: answer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: explanation_input
+      label: explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: creator_info
+      label: creator_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: answer_type
+      label: answer_type
+      hint: null
+      type: select_one
+      options:
+      - riddle
+      - answer
+      - both
+      required: false
+    - id: 6
+      name: riddle_type
+      label: riddle_type
+      hint: null
+      type: select_multiple
+      options:
+      - classic
+      - cryptic
+      required: false
+    - id: 7
+      name: difficulty_level
+      label: difficulty_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_limit
+      label: Time Limit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

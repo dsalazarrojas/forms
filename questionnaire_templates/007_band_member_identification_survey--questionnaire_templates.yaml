@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Member Identification Survey
+    pages:
+    - id: 1
+      name: member_personal_header
+      label: -- Member Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: musical_role_header
+      label: -- Musical Role and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_instrument
+      label: Primary Instrument
+      hint: e.g., Guitar, Drums, Trumpet, Vocals
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: secondary_instruments
+      label: Secondary Instruments
+      hint: List any other instruments you play at a performance level
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: musical_role
+      label: Role in the Band
+      hint: Select your primary function
+      type: select_one
+      options:
+      - Lead Performer
+      - Rhythm Section
+      - Supporting Musician
+      - Vocalist
+      - Band Leader / Director
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Musical Experience
+      hint: Total years playing your primary instrument
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: training_background
+      label: Formal Training Background
+      hint: Select the highest level of music education completed
+      type: select_one
+      options:
+      - Self-Taught
+      - Private Lessons
+      - High School Music Program
+      - University / Conservatory Degree
+      - Professional Certificate
+      required: true
+    - id: 11
+      name: availability_header
+      label: -- Availability and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: weekly_rehearsal_hours
+      label: Available Weekly Rehearsal Hours
+      hint: Number of hours you can commit per week
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: travel_willingness
+      label: Are you willing to travel for performances?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Locally only
+      - Yes - Nationally
+      - Yes - Internationally
+      - No - Studio only
+      required: true
+    - id: 14
+      name: equipment_status
+      label: Do you own professional-grade performance gear?
+      hint: Instruments, amps, pedals, etc.
+      type: select_one
+      options:
+      - Yes - Fully equipped
+      - Yes - Partially equipped
+      - No - Need to rent/borrow
+      required: true
+    - id: 15
+      name: goals_and_interests
+      label: Musical Goals and Interests
+      hint: Briefly describe what you hope to achieve with this band
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Access Barrier Request Form
+    pages:
+    - id: 1
+      name: vehicle_access_barrier_request_form
+      label: Vehicle Access Barrier Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_name
+      label: property_name
+      hint: null
+      type: text
+      options: []
+      required: false

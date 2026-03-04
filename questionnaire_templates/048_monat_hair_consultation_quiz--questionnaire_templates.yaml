@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monat Hair Consultation Quiz
+    pages:
+    - id: 1
+      name: hair_problems
+      label: hair_problems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_type
+      label: hair_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''curly'', ''label'': ''curly''}'
+      - '{''id'': 2, ''name'': ''wavy'', ''label'': ''wavy''}'
+      - '{''id'': 3, ''name'': ''straight'', ''label'': ''straight''}'
+      required: false
+    - id: 3
+      name: hair_color
+      label: hair_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''blonde''}'
+      - '{''id'': 2, ''name'': ''brunette''}'
+      - '{''id'': 3, ''name'': ''redhead''}'
+      - '{''id'': 4, ''name'': ''gray''}'
+      - '{''id'': 5, ''name'': ''other''}'
+      - '{''id'': 6, ''name'': ''platinum''}'
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hair_concerns
+      label: hair_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: previous_products
+      label: previous_products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monat_tone''}'
+      - '{''id'': 2, ''name'': ''monat_shine''}'
+      - '{''id'': 3, ''name'': ''monat_hair''}'
+      - '{''id'': 4, ''name'': ''monat_pro''}'
+      - '{''id'': 5, ''name'': ''monat_fusion''}'
+      - '{''id'': 6, ''name'': ''monat_dry_shampoo''}'
+      required: false
+    - id: 7
+      name: have_used_monat
+      label: have_used_monat
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 8
+      name: have_shared_monat
+      label: have_shared_monat
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 9
+      name: hair_type_1
+      label: hair_type_1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''natural''}'
+      - '{''id'': 2, ''name'': ''color''}'
+      - '{''id'': 3, ''name'': ''color''}'
+      - '{''id'': 4, ''name'': ''color''}'
+      required: false
+    - id: 10
+      name: hair_color_1
+      label: hair_color_1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''black''}'
+      - '{''id'': 2, ''name'': ''brown''}'
+      required: false
+    - id: 11
+      name: natural_ingredients
+      label: natural_ingredients
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 12
+      name: hair_growth_rate
+      label: hair_growth_rate
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''slow''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''fast''}'
+      required: false
+    - id: 13
+      name: previous_products_1
+      label: previous_products_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monat''}'
+      - '{''id'': 2, ''name'': ''monat''}'
+      - '{''id'': 3, ''name'': ''monat''}'
+      - '{''id'': 4, ''name'': ''monat''}'
+      required: false
+    - id: 14
+      name: monat_products_1
+      label: monat_products_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monat''}'
+      - '{''id'': 2, ''name'': ''monat''}'
+      - '{''id'': 3, ''name'': ''monat''}'
+      required: false
+    - id: 15
+      name: monat_fusion
+      label: monat_fusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hair_problems_1
+      label: hair_problems_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''frizzy''}'
+      - '{''id'': 2, ''name'': ''frizzy''}'
+      - '{''id'': 3, ''name'': ''frizzy''}'
+      required: false
+    - id: 17
+      name: have_used_monat_fusion
+      label: have_used_monat_fusion
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 18
+      name: hair_problems_2
+      label: hair_problems_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''frizzy''}'
+      - '{''id'': 2, ''name'': ''frizzy''}'
+      required: false
+    - id: 19
+      name: previous_monat_products_1
+      label: previous_monat_products_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monat''}'
+      - '{''id'': 2, ''name'': ''monat''}'
+      - '{''id'': 3, ''name'': ''monat''}'
+      required: false
+    - id: 20
+      name: have_shared_monat_fusion
+      label: have_shared_monat_fusion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 21
+      name: previous_monat_products_2
+      label: previous_monat_products_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monat''}'
+      - '{''id'': 2, ''name'': ''monat''}'
+      required: false
+    - id: 22
+      name: monat_products_2
+      label: monat_products_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monat''}'
+      - '{''id'': 2, ''name'': ''monat''}'
+      required: false
+    - id: 23
+      name: monat_hair
+      label: monat_hair
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_monat_products_3
+      label: previous_monat_products_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monat''}'
+      - '{''id'': 2, ''name'': ''monat''}'
+      required: false
+    - id: 25
+      name: have_used_monat_hair
+      label: have_used_monat_hair
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false

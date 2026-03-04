@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Adoption Readiness Questionnaire
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Name of company or institution
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name of person completing form
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_organizational
+      label: -- Organizational Profile --
+      hint: Basic organizational information
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Primary industry sector
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_size
+      label: Organization Size
+      hint: null
+      type: select_one
+      options:
+      - Small (1-50 employees)
+      - Medium (51-500 employees)
+      - Large (501-5000 employees)
+      - Enterprise (5000+ employees)
+      required: true
+    - id: 8
+      name: years_in_business
+      label: Years in Business
+      hint: How long has organization been operating
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_it
+      label: -- Current IT Environment --
+      hint: Your existing technology infrastructure
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: it_infrastructure
+      label: Primary IT Infrastructure Type
+      hint: null
+      type: select_one
+      options:
+      - On-premises only
+      - Hybrid (on-premises and cloud)
+      - Cloud-only
+      - Distributed/edge computing
+      required: true
+    - id: 11
+      name: it_maturity
+      label: Current IT Maturity Level
+      hint: null
+      type: select_one
+      options:
+      - Ad hoc and unstructured
+      - Developing processes
+      - Defined processes
+      - Managed and optimized
+      - High maturity
+      required: true
+    - id: 12
+      name: current_cloud_usage
+      label: Current Cloud Usage
+      hint: null
+      type: select_one
+      options:
+      - No cloud usage
+      - Minimal cloud usage
+      - Some cloud usage
+      - Significant cloud usage
+      - Cloud-centric
+      required: true
+    - id: 13
+      name: section_business
+      label: -- Business Drivers --
+      hint: Why your organization is considering cloud
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_drivers
+      label: Primary Drivers for Cloud Adoption
+      hint: null
+      type: select_multiple
+      options:
+      - Cost reduction
+      - Scalability
+      - Performance improvement
+      - Innovation
+      - Business continuity
+      - Digital transformation
+      - Competitive advantage
+      - Compliance requirements
+      required: true
+    - id: 15
+      name: strategic_alignment
+      label: Cloud Adoption Aligns with Business Strategy
+      hint: null
+      type: select_one
+      options:
+      - Strongly aligned
+      - Aligned
+      - Somewhat aligned
+      - Not aligned
+      - No clear strategy
+      required: true
+    - id: 16
+      name: section_readiness
+      label: -- Readiness Assessment --
+      hint: Your organization's readiness level
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: leadership_commitment
+      label: Executive Leadership Commitment to Cloud
+      hint: null
+      type: select_one
+      options:
+      - Strongly committed
+      - Committed
+      - Neutral
+      - Skeptical
+      - Opposed
+      required: true
+    - id: 18
+      name: budget_availability
+      label: Budget Availability
+      hint: null
+      type: select_one
+      options:
+      - Sufficient funding allocated
+      - Likely to be funded
+      - Uncertain
+      - Limited funding
+      - No funding available
+      required: true
+    - id: 19
+      name: skill_level
+      label: Current IT Team Cloud Skills
+      hint: null
+      type: select_one
+      options:
+      - Highly skilled
+      - Moderately skilled
+      - Limited skills
+      - Minimal skills
+      - No cloud experience
+      required: true
+    - id: 20
+      name: change_readiness
+      label: Organizational Change Readiness
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Moderate
+      - Low
+      - Very low
+      required: true
+    - id: 21
+      name: section_challenges
+      label: -- Challenges and Concerns --
+      hint: Potential barriers to adoption
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: key_challenges
+      label: Key Challenges for Cloud Adoption
+      hint: null
+      type: select_multiple
+      options:
+      - Security concerns
+      - Compliance requirements
+      - Legacy system integration
+      - Data migration complexity
+      - Cost concerns
+      - Skill gaps
+      - Organizational resistance
+      - Vendor lock-in
+      required: true
+    - id: 23
+      name: risk_tolerance
+      label: Organization Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Moderate
+      - Low
+      - Very low
+      required: true
+    - id: 24
+      name: timeline
+      label: Preferred Cloud Adoption Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate - 0-3 months
+      - Short term - 3-6 months
+      - Medium term - 6-12 months
+      - Long term - 12+ months
+      - Flexible
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

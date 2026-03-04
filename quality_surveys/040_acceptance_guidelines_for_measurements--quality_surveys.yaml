@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acceptance Guidelines For Measurements
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Acceptance Guidelines for Measurements --
+      hint: Document employee acknowledgment of measurement procedures and acceptance
+        criteria.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Employee full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_date
+      label: Date of training or review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: guidelines_section
+      label: -- Measurement Procedures Reviewed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: measurement_type
+      label: Type of measurement procedure reviewed
+      hint: null
+      type: select_one
+      options:
+      - Dimensional measurements
+      - Weight and mass
+      - Temperature
+      - Pressure
+      - Electrical
+      - Chemical composition
+      - Other
+      required: true
+    - id: 10
+      name: equipment_used
+      label: Measurement equipment covered in this review
+      hint: List specific instruments or tools
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: acceptance_criteria_reviewed
+      label: Which acceptance criteria were reviewed (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Tolerance limits
+      - Calibration standards
+      - Pass/fail thresholds
+      - Statistical process control limits
+      - Customer specifications
+      - Regulatory requirements
+      required: true
+    - id: 12
+      name: understanding_level
+      label: How confident are you in your understanding of the measurement procedures
+      hint: null
+      type: select_one
+      options:
+      - Not at all confident
+      - Slightly confident
+      - Moderately confident
+      - Very confident
+      - Fully confident
+      required: true
+    - id: 13
+      name: questions_or_concerns
+      label: Do you have any questions or concerns about the procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_training
+      label: Have you received training on these measurement procedures before
+      hint: null
+      type: select_one
+      options:
+      - Yes - within the last year
+      - Yes - more than a year ago
+      - No - this is my first training
+      required: true
+    - id: 15
+      name: acknowledgment
+      label: I acknowledge that I have reviewed and understand the acceptance guidelines
+        for measurements applicable to my role
+      hint: null
+      type: select_one
+      options:
+      - Yes - I acknowledge
+      - Other
+      required: true
+    - id: 16
+      name: commitment
+      label: I commit to following these guidelines consistently in my daily work
+      hint: null
+      type: select_one
+      options:
+      - Yes - I commit
+      - Other
+      required: true
+    - id: 17
+      name: acknowledgment_date
+      label: Date of acknowledgment
+      hint: null
+      type: date
+      options: []
+      required: true

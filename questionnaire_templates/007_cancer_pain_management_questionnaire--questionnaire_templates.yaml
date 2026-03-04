@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancer Pain Management Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Legal name of patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: Hospital or clinic ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: Patient Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: patient_gender
+      label: Gender
+      hint: Gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 5
+      name: cancer_type
+      label: Type of Cancer
+      hint: Primary cancer diagnosis
+      type: select_one
+      options:
+      - Breast cancer
+      - Lung cancer
+      - Prostate cancer
+      - Colorectal cancer
+      - Leukemia
+      - Lymphoma
+      - Melanoma
+      - Pancreatic cancer
+      - Ovarian cancer
+      - Other
+      required: true
+    - id: 6
+      name: cancer_stage
+      label: Cancer Stage
+      hint: Current stage if known
+      type: select_one
+      options:
+      - Stage 0
+      - Stage I
+      - Stage II
+      - Stage III
+      - Stage IV
+      - Unknown
+      required: false
+    - id: 7
+      name: current_treatment
+      label: Current Treatment Type
+      hint: What treatment are you receiving
+      type: select_multiple
+      options:
+      - Chemotherapy
+      - Radiation therapy
+      - Immunotherapy
+      - Hormone therapy
+      - Targeted therapy
+      - Surgery
+      - Palliative care
+      - Clinical trial
+      - None currently
+      required: true
+    - id: 8
+      name: pain_location
+      label: Where Do You Feel Pain
+      hint: Select all locations
+      type: select_multiple
+      options:
+      - Head or neck
+      - Chest
+      - Abdomen
+      - Back
+      - Arms
+      - Legs
+      - Joints
+      - Multiple areas
+      - No pain
+      required: true
+    - id: 9
+      name: pain_intensity_current
+      label: Current Pain Level
+      hint: Rate pain from 0 to 10 where 0 is no pain
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pain_intensity_worst
+      label: Worst Pain in Last 24 Hours
+      hint: Highest pain level in past day
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pain_intensity_least
+      label: Least Pain in Last 24 Hours
+      hint: Lowest pain level in past day
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pain_intensity_average
+      label: Average Pain Level
+      hint: Average pain over past 24 hours
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: pain_characteristics
+      label: Describe Your Pain
+      hint: What type of pain do you feel
+      type: select_multiple
+      options:
+      - Sharp or stabbing
+      - Dull or aching
+      - Burning or tingling
+      - Throbbing or pulsing
+      - Cramping
+      - Pressure or squeezing
+      - Numbness
+      - Other
+      required: true
+    - id: 14
+      name: pain_frequency
+      label: How Often Do You Experience Pain
+      hint: Pain frequency pattern
+      type: select_one
+      options:
+      - Constant - never stops
+      - Frequent - most of the time
+      - Occasional - comes and goes
+      - Rare - infrequent episodes
+      - None currently
+      required: true
+    - id: 15
+      name: pain_triggers
+      label: What Makes Pain Worse
+      hint: Pain triggers or aggravating factors
+      type: select_multiple
+      options:
+      - Movement or activity
+      - Resting or lying down
+      - Stress or anxiety
+      - Certain positions
+      - Eating or drinking
+      - Weather changes
+      - Nothing specific
+      - Other
+      required: false
+    - id: 16
+      name: pain_relief_methods
+      label: What Helps Relieve Pain
+      hint: Methods that provide relief
+      type: select_multiple
+      options:
+      - Pain medication
+      - Heat or cold therapy
+      - Rest
+      - Massage
+      - Relaxation techniques
+      - Distraction
+      - Exercise or stretching
+      - Nothing helps
+      required: false
+    - id: 17
+      name: current_pain_medications
+      label: Current Pain Medications
+      hint: List medications you take for pain
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medication_effectiveness
+      label: How Well Do Medications Work
+      hint: Rate effectiveness of pain meds
+      type: select_one
+      options:
+      - Completely effective
+      - Very effective
+      - Moderately effective
+      - Slightly effective
+      - Not effective at all
+      required: true
+    - id: 19
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: Any side effects experienced
+      type: select_multiple
+      options:
+      - Nausea or vomiting
+      - Constipation
+      - Drowsiness
+      - Dizziness
+      - Confusion
+      - Dry mouth
+      - Itching
+      - None
+      required: false
+    - id: 20
+      name: pain_impact_sleep
+      label: How Does Pain Affect Your Sleep
+      hint: Impact on sleep quality
+      type: select_one
+      options:
+      - Cannot sleep due to pain
+      - Wake up frequently
+      - Sleep less than usual
+      - No effect on sleep
+      required: true
+    - id: 21
+      name: pain_impact_activity
+      label: How Does Pain Affect Daily Activities
+      hint: Impact on daily functioning
+      type: select_one
+      options:
+      - Completely prevents activities
+      - Significantly limits activities
+      - Somewhat limits activities
+      - Minimal impact
+      - No impact
+      required: true
+    - id: 22
+      name: pain_impact_mood
+      label: How Does Pain Affect Your Mood
+      hint: Emotional impact of pain
+      type: select_one
+      options:
+      - Severe impact - very distressed
+      - Moderate impact - often upset
+      - Mild impact - occasionally bothered
+      - No impact on mood
+      required: true
+    - id: 23
+      name: pain_impact_relationships
+      label: How Does Pain Affect Relationships
+      hint: Impact on social interactions
+      type: select_one
+      options:
+      - Significantly affects relationships
+      - Somewhat affects relationships
+      - Minimal effect
+      - No effect
+      required: false
+    - id: 24
+      name: non_medication_approaches
+      label: Interest in Non-Medication Approaches
+      hint: Would you try other pain relief methods
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not interested
+      required: true
+    - id: 25
+      name: additional_concerns
+      label: Additional Pain Concerns
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: questionnaire_date
+      label: Questionnaire Completion Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

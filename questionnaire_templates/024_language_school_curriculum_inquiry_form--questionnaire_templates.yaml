@@ -1,0 +1,62 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Language School Curriculum Inquiry Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: language_school
+      label: What Language School
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Spanish''}'
+      - '{''id'': 2, ''label'': ''English''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      - '{''id'': 4, ''label'': ''German''}'
+      - '{''id'': 5, ''label'': ''Chinese''}'
+      required: false
+    - id: 3
+      name: curriculum_level
+      label: Curriculum Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Call''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Text''}'
+      required: false
+    - id: 5
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

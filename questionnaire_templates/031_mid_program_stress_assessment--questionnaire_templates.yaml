@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: mid-program-stress-assessment
+    pages:
+    - id: 1
+      name: participant_feedback
+      label: participant feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stress_trends
+      label: stress trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stress_level
+      label: stress level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: support_needs
+      label: support needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: support_channel
+      label: support channel
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - text
+      - chat
+      required: false
+    - id: 6
+      name: stressors
+      label: stressors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

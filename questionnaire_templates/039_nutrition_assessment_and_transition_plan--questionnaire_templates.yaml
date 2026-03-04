@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: nutrition-assessment-and-transition-plan
+    pages:
+    - id: 1
+      name: nutrition_assessment
+      label: nutrition-assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: nutrition_plan
+      label: nutrition-plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_plan
+      label: follow-up-plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nutrition_assessment_and_transition_plan_form_id
+      label: nutrition-assessment-and-transition-plan-form-id
+      hint: null
+      type: select_one
+      options:
+      - '45035'
+      - Other
+      required: false
+    - id: 7
+      name: nutrition_assessment_and_transition_plan_form_created_at
+      label: nutrition-assessment-and-transition-plan-form-created-at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: nutrition_assessment_and_transition_plan_form_updated_at
+      label: nutrition-assessment-and-transition-plan-form-updated-at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: nutrition_assessment_and_transition_plan_form_created_by
+      label: nutrition-assessment-and-transition-plan-form-created-by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worms Knowledge Quiz
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: quiz_answers
+      label: Quiz Answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quiz_progress
+      label: Quiz Progress
+      hint: null
+      type: text
+      options: []
+      required: false

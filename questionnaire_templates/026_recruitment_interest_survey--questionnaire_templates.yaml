@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Interest Survey
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_industry
+      label: Preferred Industry
+      hint: null
+      type: select_one
+      options:
+      - Advertising
+      - Consulting
+      - Finance
+      - Healthcare
+      - Information Technology
+      - Manufacturing
+      - Marketing
+      - Retail
+      - Software
+      - Other
+      required: true
+    - id: 5
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor's
+      - Master's
+      - Ph.D.
+      - Certificate
+      required: true
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_one
+      options:
+      - 0-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 7
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Part-time
+      - Full-time
+      - Intern
+      - Contract
+      - Other
+      required: true
+    - id: 8
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_skills
+      label: Preferred Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Problem-solving
+      - Time management
+      - Team management
+      - Project management
+      - Analytical skills
+      - Other
+      required: true
+    - id: 13
+      name: work_schedule
+      label: Work Schedule
+      hint: null
+      type: select_one
+      options:
+      - Mon-Fri
+      - Tue-Thur
+      - Mon-Thu
+      - Mon-Sun
+      - Fri-Sun
+      - Other
+      required: true

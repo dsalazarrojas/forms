@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Committee Meeting Scheduling
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer name
+      hint: Person coordinating meeting dates
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: committee_name
+      label: Committee name
+      hint: e g board finance committee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_meeting_format
+      label: Preferred meeting format
+      hint: Choose how the meeting should be held
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 4
+      name: potential_dates
+      label: Potential meeting dates
+      hint: List up to three date options
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time_of_day
+      label: Preferred time of day
+      hint: Morning afternoon or evening
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 6
+      name: agenda_items
+      label: Proposed agenda items
+      hint: Briefly list topics to cover
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: duration_estimate
+      label: Estimated meeting duration in minutes
+      hint: e g 60 90
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: room_requirements
+      label: Room or technical requirements
+      hint: AV access capacity accessibility
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_deadline
+      label: RSVP deadline date
+      hint: Date to confirm attendance
+      type: date
+      options: []
+      required: false

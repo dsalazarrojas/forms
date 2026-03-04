@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Floral Arrangement Survey
+    pages:
+    - id: 1
+      name: wedding_floral_styles
+      label: What are the couple's floral style preferences?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: wedding_color_palette
+      label: What is the wedding color palette?
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Pink
+      - Yellow
+      - White
+      - Purple
+      required: false
+    - id: 3
+      name: wedding_arrangement_needs
+      label: What are the couple's wedding arrangement needs?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: couple_color_pallette_preferred
+      label: What is the couple's preferred color palette?
+      hint: null
+      type: select_one
+      options:
+      - Soft Pastel Colors
+      - Vibrant and Bold
+      - White and Cream
+      - Monochromatic
+      required: false
+    - id: 5
+      name: number_of_guests_attending
+      label: Number of guests attending the wedding reception?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wedding_budget
+      label: What is the wedding budget?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: venue_type
+      label: What type of venue is this going to be held in?
+      hint: null
+      type: select_multiple
+      options:
+      - Outdoor
+      - Indoor
+      - Outdoor and Indoor
+      required: false
+    - id: 8
+      name: wedding_date
+      label: What is the date of the wedding?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_method_venue
+      label: How do you prefer to contact the venue?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_method_florist
+      label: How do you prefer to contact the florist?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: note_to_planner
+      label: Any additional notes to the planner?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Domestic Violence Submission Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: perpetrator_gender
+      label: Perpetrator Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: victim_name
+      label: Victim Name
+      hint: null
+      type: text
+      options: []
+      required: false

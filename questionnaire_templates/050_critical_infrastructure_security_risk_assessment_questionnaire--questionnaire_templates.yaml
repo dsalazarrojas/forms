@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Infrastructure Security Risk Assessment Questionnaire
+    pages:
+    - id: 1
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: site_id
+      label: Site ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: risk_assessment_date
+      label: Risk Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: risk_assessment_frequency
+      label: Risk Assessment Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment_status
+      label: Risk Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      - Not Assessed
+      required: false
+    - id: 8
+      name: risk_assessment_comments
+      label: Risk Assessment Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_contacts
+      label: Site Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_names
+      label: Contact Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: security_concerns
+      label: Security Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 13
+      name: report_id
+      label: Report ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: critical_infrastructure_security_risks
+      label: Critical Infrastructure Security Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: safeguards
+      label: Safeguards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: site_safeguards
+      label: Site Safeguards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: site_safeguard
+      label: Site Safeguard
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Operational
+      - Cyber
+      - None
+      required: false
+    - id: 18
+      name: site_risks
+      label: Site Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: security_measures
+      label: Security Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: control_measures
+      label: Control Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: security_controls
+      label: Security Controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: control_frequency
+      label: Control Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: control_status
+      label: Control Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      - Not Controlled
+      required: false
+    - id: 24
+      name: controls
+      label: Controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

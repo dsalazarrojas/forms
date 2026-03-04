@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forest Fire Prevention Awareness Survey
+    pages:
+    - id: 1
+      name: fire_risk
+      label: Fire Risk
+      hint: null
+      type: select_one
+      options:
+      - low
+      - moderate
+      - high
+      required: true
+    - id: 2
+      name: fire_prevention
+      label: Fire Prevention
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: true
+    - id: 3
+      name: fire_safety
+      label: Fire Safety
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: prevention_behaviors
+      label: Prevention Behaviors
+      hint: What are some of the prevention behaviors you engage in?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risk_behaviors
+      label: Risk Behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: true
+    - id: 6
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: prevention_behaviors_detail
+      label: Prevention Behaviors Detail
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: prevention_plan
+      label: Prevention Plan
+      hint: null
+      type: select_one
+      options:
+      - a
+      - b
+      - c
+      required: true
+    - id: 9
+      name: prevention_plan_detail
+      label: Prevention Plan Detail
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_detail
+      label: Follow Up Detail
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: prevention_plan_implementation
+      label: Prevention Plan Implementation
+      hint: null
+      type: select_multiple
+      options:
+      - a
+      - b
+      - c
+      required: true
+    - id: 15
+      name: prevention_plan_implementation_detail
+      label: Prevention Plan Implementation Detail
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

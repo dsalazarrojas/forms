@@ -1,0 +1,145 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airline Passenger Preference Information Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Passenger Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: frequent_flyer_number
+      label: Frequent Flyer Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_seating
+      label: -- Seating Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: seat_type
+      label: Preferred Seat Type
+      hint: null
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Extra Legroom
+      - Bulkhead
+      - No Preference
+      required: true
+    - id: 5
+      name: seating_area
+      label: Preferred Cabin Area
+      hint: null
+      type: select_one
+      options:
+      - Front of Cabin
+      - Over Wing
+      - Rear of Cabin
+      required: false
+    - id: 6
+      name: section_dining
+      label: -- Dining Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: special_meal_request
+      label: Special Dietary Requirements
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - Nut-Free
+      - Diabetic
+      required: true
+    - id: 8
+      name: favorite_beverage
+      label: Preferred Welcome Beverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_amenities
+      label: -- Amenity Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: pillow_blanket
+      label: Require extra pillow or blanket?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 11
+      name: newspaper_preference
+      label: Preferred Newspaper or Magazine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_general
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: travel_purpose
+      label: Primary Purpose of Travel
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Leisure
+      - Visiting Family/Friends
+      - Education
+      required: true
+    - id: 14
+      name: baggage_handling
+      label: Prefer Priority Baggage Handling?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 15
+      name: additional_preferences
+      label: Any other specific requests or preferences?
+      hint: null
+      type: text
+      options: []
+      required: false

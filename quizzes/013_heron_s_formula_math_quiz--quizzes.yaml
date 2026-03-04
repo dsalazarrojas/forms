@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Herons Formula Math Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_question
+      label: First Question
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      - '{''id'': 4, ''label'': ''D''}'
+      required: false
+    - id: 3
+      name: side_a_length
+      label: Side A Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: side_b_length
+      label: Side B Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: side_c_length
+      label: Side C Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: answer
+      label: Answer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: first_note
+      label: First Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: second_note
+      label: Second Note
+      hint: null
+      type: note
+      options: []
+      required: false

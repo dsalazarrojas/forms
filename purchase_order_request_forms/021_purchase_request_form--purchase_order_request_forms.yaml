@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Request Form
+    pages:
+    - id: 1
+      name: purchase_request_form
+      label: Purchase Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Purchase Forms
+      - Other
+      required: false
+    - id: 3
+      name: customer
+      label: customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_address
+      label: customer address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_city
+      label: customer city
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Boston
+      - Dallas
+      - San Francisco
+      required: false
+    - id: 8
+      name: customer_state
+      label: customer state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      - Illinois
+      - Florida
+      - Michigan
+      required: false
+    - id: 9
+      name: customer_zip
+      label: customer zip
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: items
+      label: items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: item_quantity
+      label: item quantity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: item_price
+      label: item price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: request_date
+      label: request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: request_time
+      label: request time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: department_manager
+      label: department manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: manager_phone
+      label: manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_email
+      label: manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: manager_address
+      label: manager address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: manager_city
+      label: manager city
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Boston
+      - Dallas
+      - San Francisco
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Renovation Quality Survey
+    pages:
+    - id: 1
+      name: property_renovation_quality_survey_page_1
+      label: property_renovation_quality_survey_page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_renovation_quality_survey_page_2
+      label: contractor_performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_renovation_quality_survey_page_3
+      label: quality_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 4
+      name: property_renovation_quality_survey_page_4
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: property_renovation_quality_survey_page_5
+      label: property_renovation_quality_survey_page_5
+      hint: null
+      type: note
+      options: []
+      required: false

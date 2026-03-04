@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Parking Ticket Hearing Request Form
+    pages:
+    - id: 1
+      name: parking_ticket_hearing_request
+      label: parking_ticket_hearing_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parking_ticket_details
+      label: parking_ticket_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_hearing_date
+      label: preferred_hearing_date
+      hint: Please select a date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: preferred_hearing_time
+      label: preferred_hearing_time
+      hint: Please select a time
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: supporting_documentation
+      label: supporting_documentation
+      hint: Upload your supporting documentation (e.g. photo of parking ticket)
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: parking_ticket_number
+      label: parking_ticket_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hearing_preferences
+      label: hearing_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''7-1'', ''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': ''7-2'', ''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': ''7-3'', ''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''8-1'', ''label'': ''Submit'', ''value'': ''Submit''}'
+      - '{''id'': ''8-2'', ''label'': ''Cancel'', ''value'': ''Cancel''}'
+      required: true

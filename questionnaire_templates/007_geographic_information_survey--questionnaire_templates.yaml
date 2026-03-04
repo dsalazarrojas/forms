@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geographic Information Survey
+    pages:
+    - id: 1
+      name: home_location
+      label: Home Location
+      hint: null
+      type: select_one
+      options:
+      - city
+      - town
+      - village
+      - rural
+      - other
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - high_school
+      - some_college
+      - bachelors
+      - masters
+      - phd
+      required: false
+    - id: 5
+      name: income_range
+      label: Income Range
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 6
+      name: income_range_other
+      label: Income Range Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 10
+      name: language_spoken
+      label: Language Spoken
+      hint: null
+      type: select_multiple
+      options:
+      - english
+      - spanish
+      - chinese
+      - mexican
+      - other
+      required: false

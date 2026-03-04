@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vocabulary Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Enter student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vocabulary_type
+      label: Select vocabulary type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: score
+      label: Enter score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: student_response
+      label: Student response
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_phone
+      label: Student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: Teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_email
+      label: Teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: teacher_phone
+      label: Teacher phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: classroom
+      label: Classroom
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false

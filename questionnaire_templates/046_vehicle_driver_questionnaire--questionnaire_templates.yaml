@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_driver_questionnaire
+    pages:
+    - id: 1
+      name: driver_history
+      label: Drivers History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_history
+      label: Vehicles History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: violations_list
+      label: Violations List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: incident_reports
+      label: Incident Reports
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vehicle_license_number
+      label: Vehicle License Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: accident_date
+      label: Accident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: accident_time
+      label: Accident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: driver_vehicle
+      label: Driver Vehicle
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: driver_status
+      label: Driver Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: vehicle_condition_status
+      label: Vehicle Condition Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: vehicle_vehicle_status
+      label: Vehicle Vehicle Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

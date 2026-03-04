@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Status Survey
+    pages:
+    - id: 1
+      name: relationship_status
+      label: Single
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Single''}'
+      - '{''id'': 2, ''value'': ''Married''}'
+      - '{''id'': 3, ''value'': ''In a relationship''}'
+      - '{''id'': 4, ''value'': ''Other, specify''}'
+      required: false
+    - id: 2
+      name: relationship_duration
+      label: Relationship Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''1-2 months''}'
+      - '{''id'': 2, ''value'': ''2-6 months''}'
+      - '{''id'': 3, ''value'': ''6 months - 1 year''}'
+      - '{''id'': 4, ''value'': ''Over 1 year''}'
+      required: false
+    - id: 3
+      name: relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Romantic''}'
+      - '{''id'': 2, ''value'': ''Family''}'
+      - '{''id'': 3, ''value'': ''Friend''}'
+      - '{''id'': 4, ''value'': ''Other, specify''}'
+      required: false
+    - id: 4
+      name: relationship_status_change
+      label: Relationship Status Change
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Started dating''}'
+      - '{''id'': 2, ''value'': ''Broke up''}'
+      - '{''id'': 3, ''value'': ''Got married''}'
+      - '{''id'': 4, ''value'': ''Moved in together''}'
+      - '{''id'': 5, ''value'': ''Moved apart''}'
+      required: false
+    - id: 5
+      name: relationship_satisfaction
+      label: Relationship Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: relationship_satisfaction_scale
+      label: Relationship Satisfaction Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Very satisfied''}'
+      - '{''id'': 2, ''value'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''value'': ''Neutral''}'
+      - '{''id'': 4, ''value'': ''Somewhat dissatisfied''}'
+      - '{''id'': 5, ''value'': ''Very dissatisfied''}'
+      required: false
+    - id: 7
+      name: relationship_satisfaction_reasons
+      label: Reasons for Relationship Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relationship_satisfaction_reasons_other
+      label: Other reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communication
+      label: How would you rate your communication with your partner?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Good''}'
+      - '{''id'': 3, ''value'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor''}'
+      required: false
+    - id: 10
+      name: intimacy
+      label: Intimacy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Very intimate''}'
+      - '{''id'': 2, ''value'': ''Somewhat intimate''}'
+      - '{''id'': 3, ''value'': ''Neutral''}'
+      - '{''id'': 4, ''value'': ''Somewhat distant''}'
+      - '{''id'': 5, ''value'': ''Very distant''}'
+      required: false
+    - id: 11
+      name: conflict
+      label: Conflict
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Very few conflicts''}'
+      - '{''id'': 2, ''value'': ''Few conflicts''}'
+      - '{''id'': 3, ''value'': ''Moderate conflicts''}'
+      - '{''id'': 4, ''value'': ''Many conflicts''}'
+      required: false
+    - id: 12
+      name: conflict_topics
+      label: Conflict Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: conflict_topics_other
+      label: Other conflicts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: conflict_topics_frequency
+      label: Conflict Topics Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: conflict_topics_frequency_other
+      label: Other Conflict Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trust
+      label: Trust
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Very much''}'
+      - '{''id'': 2, ''value'': ''Somewhat''}'
+      - '{''id'': 3, ''value'': ''A little''}'
+      - '{''id'': 4, ''value'': ''Not at all''}'
+      required: false
+    - id: 17
+      name: trustworthiness
+      label: Trustworthiness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trustworthiness_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trustworthiness_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: communication_channels
+      label: Communication channels used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Text messages''}'
+      - '{''id'': 2, ''value'': ''Phone calls''}'
+      - '{''id'': 3, ''value'': ''Video calls''}'
+      - '{''id'': 4, ''value'': ''In-person meetings''}'
+      - '{''id'': 5, ''value'': ''Other, specify''}'
+      required: false
+    - id: 21
+      name: communication_channels_other
+      label: Other communication channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: communication_topics
+      label: Communication topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: communication_topics_other
+      label: Other communication topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: communication_topics_frequency
+      label: Communication Topics Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: communication_topics_frequency_other
+      label: Other communication topics
+      hint: null
+      type: text
+      options: []
+      required: false

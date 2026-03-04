@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: tmj_awareness_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: knowledge
+      label: knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: discomfort
+      label: discomfort
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: questions
+      label: questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: Quiz
+      type: select_one
+      options:
+      - Quizzes
+      - Other
+      required: false

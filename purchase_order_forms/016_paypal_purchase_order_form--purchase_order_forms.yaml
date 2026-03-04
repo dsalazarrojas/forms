@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Purchase Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 5
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: You can pay using this form, but please make the payment via your bank
+        after submission
+      type: select_one
+      options:
+      - Bank
+      - PayPal
+      required: false
+    - id: 13
+      name: paypal_token
+      label: PayPal Token
+      hint: Please enter the token provided by the PayPal
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: paypal_total
+      label: PayPal Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: paypal_tax
+      label: PayPal Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: paypal_shipping
+      label: PayPal Shipping
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: paypal_discount
+      label: PayPal Discount
+      hint: If you have a valid promo code, input the code here
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: paypal_note
+      label: PayPal Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - I have carefully reviewed the form and the information provided is correct.
+      - I have not reviewed the form and the information provided may be incorrect.
+      required: true
+    - id: 21
+      name: confirm_note
+      label: Confirm Note
+      hint: null
+      type: text
+      options: []
+      required: false

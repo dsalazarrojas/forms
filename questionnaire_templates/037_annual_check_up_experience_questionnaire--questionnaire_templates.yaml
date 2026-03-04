@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Check Up Experience Questionnaire
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: Your medical record number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visit_info_header
+      label: -- Visit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: visit_date
+      label: Date of Annual Check-Up
+      hint: When was your appointment
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Name of your doctor or provider
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_name
+      label: Facility or Clinic Name
+      hint: Where your visit took place
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appointment_experience_header
+      label: -- Appointment Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: check_in_experience
+      label: Check-In Experience
+      hint: Rate your check-in process
+      type: select_one
+      options:
+      - Excellent - Very smooth
+      - Good - Efficient
+      - Satisfactory - Adequate
+      - Poor - Needs improvement
+      - Terrible - Very problematic
+      required: true
+    - id: 12
+      name: wait_time
+      label: Wait Time
+      hint: How long did you wait
+      type: select_one
+      options:
+      - No wait - Seen immediately
+      - Short wait - Under 15 minutes
+      - Moderate wait - 15-30 minutes
+      - Long wait - 30-60 minutes
+      - Very long wait - Over 1 hour
+      required: true
+    - id: 13
+      name: exam_quality
+      label: Quality of the Medical Exam
+      hint: Rate the thoroughness of exam
+      type: select_one
+      options:
+      - Excellent - Very thorough
+      - Good - Thorough
+      - Satisfactory - Adequate
+      - Poor - Incomplete
+      - Terrible - Very inadequate
+      required: true
+    - id: 14
+      name: provider_interaction_header
+      label: -- Provider Interaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: provider_listening
+      label: Did provider listen to your concerns
+      hint: Rate how well they listened
+      type: select_one
+      options:
+      - Yes, very attentive
+      - Yes, attentive
+      - Somewhat - Could have listened better
+      - No - Did not seem to listen
+      - Not applicable
+      required: false
+    - id: 16
+      name: communication_clarity
+      label: Clarity of Health Information
+      hint: Was information explained clearly
+      type: select_one
+      options:
+      - Very clear - Easy to understand
+      - Clear - Mostly understood
+      - Neutral - Some confusion
+      - Unclear - Hard to understand
+      - Very unclear - Not explained
+      required: true
+    - id: 17
+      name: time_spent_with_provider
+      label: Time Spent with Provider
+      hint: Was enough time spent with you
+      type: select_one
+      options:
+      - Plenty of time
+      - Adequate time
+      - Somewhat rushed
+      - Very rushed
+      - Not enough time
+      required: true
+    - id: 18
+      name: health_outcomes_header
+      label: -- Health Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: wellness_advice
+      label: Did you receive wellness recommendations
+      hint: Got preventive health advice
+      type: select_one
+      options:
+      - Yes, clear recommendations
+      - Yes, some recommendations
+      - Minimal recommendations
+      - No recommendations
+      - Not applicable
+      required: false
+    - id: 20
+      name: follow_up_instructions
+      label: Did you understand follow-up instructions
+      hint: Clear on next steps
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - None provided
+      required: true
+    - id: 21
+      name: overall_satisfaction_header
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: overall_satisfaction
+      label: Overall Satisfaction with Check-Up
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 23
+      name: recommend_provider
+      label: Would you recommend this provider
+      hint: Would you suggest to others
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Maybe
+      - No, probably not
+      - No, definitely not
+      required: true
+    - id: 24
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What could be better
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Additional Comments or Feedback
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

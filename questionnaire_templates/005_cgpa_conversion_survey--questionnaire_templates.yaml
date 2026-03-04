@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: CGPA Conversion Survey
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: University identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Institutional email preferred
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_institution
+      label: Current Institution
+      hint: Name of university or college
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_country
+      label: Country of Institution
+      hint: Where is your institution located
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - India
+      - China
+      - Japan
+      - South Korea
+      - Brazil
+      - Mexico
+      - Other
+      required: true
+    - id: 7
+      name: current_grading_system
+      label: Current Grading System
+      hint: Select your current grading scale
+      type: select_one
+      options:
+      - 4.0 Scale
+      - 5.0 Scale
+      - 10.0 Scale
+      - 20.0 Scale
+      - Percentage Based
+      - Letter Grades A-F
+      - Other
+      required: true
+    - id: 8
+      name: current_cgpa
+      label: Current CGPA
+      hint: Your current cumulative GPA
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: target_institution
+      label: Target Institution
+      hint: Institution you are applying to
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_country
+      label: Target Country
+      hint: Country of target institution
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Netherlands
+      - Sweden
+      - Other
+      required: true
+    - id: 11
+      name: target_grading_system
+      label: Target Grading System
+      hint: Grading system you need conversion to
+      type: select_one
+      options:
+      - 4.0 Scale
+      - 5.0 Scale
+      - 10.0 Scale
+      - First Class Honours
+      - Percentage Based
+      - Other
+      required: true
+    - id: 12
+      name: program_level
+      label: Program Level
+      hint: Your current academic level
+      type: select_one
+      options:
+      - Undergraduate
+      - Masters
+      - Doctoral
+      - Postdoctoral
+      - Certificate Program
+      required: true
+    - id: 13
+      name: field_of_study
+      label: Field of Study
+      hint: Your major or specialization
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: total_credits
+      label: Total Credits Completed
+      hint: Number of credit hours or equivalent
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: conversion_purpose
+      label: Purpose of Conversion
+      hint: Why do you need CGPA conversion
+      type: select_one
+      options:
+      - Graduate School Application
+      - Job Application
+      - Scholarship Application
+      - Transfer Credits
+      - Personal Records
+      - Other
+      required: true
+    - id: 16
+      name: deadline
+      label: Application Deadline
+      hint: When do you need the conversion
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: transcript_attached
+      label: Official Transcript Attached
+      hint: Have you attached your transcript
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Submit Later
+      required: true
+    - id: 18
+      name: additional_documents
+      label: Additional Documents
+      hint: List any other documents submitted
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_circumstances
+      label: Special Circumstances
+      hint: Any factors affecting your GPA
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true

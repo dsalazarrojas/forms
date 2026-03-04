@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_delivery_service_feedback_questionnaire
+    pages:
+    - id: 1
+      name: delivery_area
+      label: Delivery Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: Write your feedback here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_person
+      label: Delivery Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

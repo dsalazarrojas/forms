@@ -1,0 +1,386 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Illness Lifestyle Support Evaluation Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up communication
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - 18-24 years
+          - 25-34 years
+          - 35-44 years
+          - 45-54 years
+          - 55-64 years
+          - 65 or older
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+          - Prefer to self-describe
+        required: false
+      - id: 5
+        name: section_demographics
+        label: -- Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: chronic_condition
+        label: Chronic Condition
+        hint: Your primary condition
+        type: select_one
+        options:
+          - Type 2 Diabetes
+          - Hypertension
+          - Heart Disease
+          - COPD
+          - Arthritis
+          - Chronic Pain
+          - Fibromyalgia
+          - Multiple Sclerosis
+          - Lupus
+          - Mental Health Condition
+          - Multiple Conditions
+          - Other
+        required: true
+      - id: 7
+        name: condition_duration
+        label: How Long Diagnosed
+        hint: Time since diagnosis
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - Over 10 years
+        required: true
+      - id: 8
+        name: current_treatment
+        label: Current Treatment
+        hint: What treatment are you receiving
+        type: select_one
+        options:
+          - Medication only
+          - Therapy only
+          - Medication and therapy
+          - Lifestyle management only
+          - Alternative therapies
+          - No current treatment
+        required: true
+      - id: 9
+        name: section_condition_info
+        label: -- Condition Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: diet_quality
+        label: Diet Quality
+        hint: How would you rate your diet
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: physical_activity
+        label: Physical Activity
+        hint: How active are you weekly
+        type: select_one
+        options:
+          - Sedentary no exercise
+          - Light 1-2 days per week
+          - Moderate 3-4 days per week
+          - Active 5-6 days per week
+          - Very active daily
+        required: true
+      - id: 12
+        name: sleep_quality
+        label: Sleep Quality
+        hint: How is your sleep
+        type: select_one
+        options:
+          - Excellent 7-9 hours
+          - Good 6-8 hours
+          - Fair 5-7 hours
+          - Poor less than 6 hours
+          - Very poor irregular
+        required: true
+      - id: 13
+        name: section_lifestyle_habits
+        label: -- Lifestyle Habits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: stress_level
+        label: Stress Level
+        hint: Rate your typical stress
+        type: select_one
+        options:
+          - Very low
+          - Low
+          - Moderate
+          - High
+          - Very high
+        required: true
+      - id: 15
+        name: stress_management
+        label: Stress Management
+        hint: How do you manage stress
+        type: select_multiple
+        options:
+          - Exercise
+          - Meditation
+          - Deep breathing
+          - Therapy
+          - Hobbies
+          - Social support
+          - Medication
+          - None currently
+        required: true
+      - id: 16
+        name: social_connections
+        label: Social Connections
+        hint: How connected do you feel
+        type: select_one
+        options:
+          - Very connected
+          - Somewhat connected
+          - Neutral
+          - Somewhat isolated
+          - Very isolated
+        required: true
+      - id: 17
+        name: section_wellness
+        label: -- Wellness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: support_system
+        label: Support System
+        hint: Do you have support
+        type: select_one
+        options:
+          - Strong family and friends
+          - Some supportive people
+          - Limited support
+          - No support system
+          - Professional support only
+        required: true
+      - id: 19
+        name: support_type_needed
+        label: Support Type Needed
+        hint: What support would help
+        type: select_multiple
+        options:
+          - Emotional support
+          - Practical daily help
+          - Medical appointment support
+          - Exercise buddy
+          - Meal preparation help
+          - Transportation assistance
+          - Financial guidance
+          - Information and education
+        required: true
+      - id: 20
+        name: section_support
+        label: -- Support System --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: health_literacy
+        label: Health Literacy
+        hint: How well do you understand your condition
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Moderately
+          - Poorly
+          - Very poorly
+        required: true
+      - id: 22
+        name: self_efficacy
+        label: Self-Efficacy
+        hint: How confident in managing condition
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not very confident
+          - Not confident at all
+        required: true
+      - id: 23
+        name: motivation_level
+        label: Motivation Level
+        hint: How motivated are you
+        type: select_one
+        options:
+          - Very motivated
+          - Motivated
+          - Somewhat motivated
+          - Not very motivated
+          - Not motivated at all
+        required: true
+      - id: 24
+        name: section_self_management
+        label: -- Self-Management --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: barriers_to_healthy_living
+        label: Barriers to Healthy Living
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Physical limitations
+          - Pain or fatigue
+          - Lack of time
+          - Financial constraints
+          - Lack of knowledge
+          - Lack of motivation
+          - Limited access to facilities
+          - No safe places to exercise
+          - Food access issues
+          - Work schedule
+          - Family responsibilities
+        required: true
+      - id: 26
+        name: goals_for_improvement
+        label: Goals for Improvement
+        hint: What do you want to improve
+        type: select_multiple
+        options:
+          - Diet and nutrition
+          - Physical activity
+          - Sleep quality
+          - Stress management
+          - Medication adherence
+          - Social connections
+          - Weight management
+          - Mental health
+        required: true
+      - id: 27
+        name: section_barriers_and_goals
+        label: -- Barriers and Goals --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: program_interest
+        label: Program Interest
+        hint: Interested in support programs
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested
+        required: true
+      - id: 29
+        name: preferred_support_format
+        label: Preferred Support Format
+        hint: How would you like support
+        type: select_multiple
+        options:
+          - One-on-one coaching
+          - Group sessions
+          - Online programs
+          - Mobile app
+          - Phone support
+          - Written materials
+          - Video tutorials
+          - Peer support groups
+        required: false
+      - id: 30
+        name: section_program_preferences
+        label: -- Program Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: quality_of_life_rating
+        label: Quality of Life Rating
+        hint: Rate your current quality of life
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 32
+        name: biggest_challenge
+        label: Biggest Challenge
+        hint: What is your biggest daily challenge
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: additional_support_needed
+        label: Additional Support Needed
+        hint: What else would help you
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

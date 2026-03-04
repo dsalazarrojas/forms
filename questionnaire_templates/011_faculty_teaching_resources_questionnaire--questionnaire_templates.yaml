@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Teaching Resources Questionnaire
+    pages:
+    - id: 1
+      name: faculty_teaching_resources_questionnaire_form
+      label: What are your teaching resources?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: faculty_teaching_resources_questionnaire_select_one
+      label: How often do you use teaching resources?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Always''}'
+      - '{''id'': 2, ''label'': ''Frequently''}'
+      - '{''id'': 3, ''label'': ''Occasionally''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      required: true
+    - id: 3
+      name: teaching_resources_questionnaire_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: teaching_resources_questionnaire_note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: teaching_resources_questionnaire_time
+      label: Teaching time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: teaching_resources_questionnaire_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: teaching_resources_questionnaire_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: faculty_teaching_resources_questionnaire_2
+      label: What do you use?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: faculty_teaching_resources_questionnaire_form_2
+      label: Do you find our resources helpful?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: faculty_teaching_resources_questionnaire_form_3
+      label: What do you like best?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: faculty_teaching_resources_questionnaire_form_4
+      label: What do you like least?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: faculty_teaching_resources_questionnaire_form_5
+      label: What could we improve?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: faculty_teaching_resources_questionnaire_form_6
+      label: What would you like to see?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: faculty_teaching_resources_questionnaire_form_7
+      label: Do you have any additional comments?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

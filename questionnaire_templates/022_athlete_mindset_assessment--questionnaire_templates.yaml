@@ -1,0 +1,247 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Mindset Assessment
+    pages:
+      - id: 1
+        name: profile_header
+        label: -- Athlete Profile Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: athlete_name
+        label: Athlete Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: sport_position
+        label: Sport and Primary Position
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: competition_level
+        label: Current Level of Competition
+        hint: null
+        type: select_one
+        options:
+          - Professional
+          - Collegiate
+          - Semi-Professional / Amateur
+          - High School / Academy
+          - Youth / Developmental
+        required: true
+      - id: 5
+        name: motivation_header
+        label: -- Motivation and Goal Setting --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: primary_motivation
+        label: What is your primary motivation for competing?
+        hint: Select the one that fits best
+        type: select_one
+        options:
+          - Personal Mastery and Growth
+          - Winning and Outperforming Others
+          - Social Connection and Team Environment
+          - Professional Career Goals
+          - External Rewards or Recognition
+        required: true
+      - id: 7
+        name: goal_setting_habit
+        label: Do you set specific, written goals for your season?
+        hint: null
+        type: select_one
+        options:
+          - Yes, always
+          - Often
+          - Sometimes
+          - Rarely or never
+        required: true
+      - id: 8
+        name: training_commitment
+        label: Commitment Level to Training Plan
+        hint: 1 is Not Committed, 10 is Fully Committed
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 9
+        name: confidence_header
+        label: -- Confidence and Self-Belief --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: pressure_confidence
+        label: Confidence in Performing Under Pressure
+        hint: 1 is Low Confidence, 10 is High Confidence
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 11
+        name: mistake_response
+        label: How do you typically respond to a major mistake or loss?
+        hint: Describe your internal process
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: self_talk_frequency
+        label: Frequency of Positive Self-Talk during Competition
+        hint: null
+        type: select_one
+        options:
+          - Frequently
+          - Occasionally
+          - Rarely
+          - Never
+        required: true
+      - id: 13
+        name: mental_skills_header
+        label: -- Mental Skills and Focus --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: focus_ability
+        label: Ability to Maintain Focus during Long Sessions
+        hint: 1 is Easily Distracted, 10 is Highly Focused
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 15
+        name: visualization_use
+        label: Do you use visualization or mental rehearsal?
+        hint: e.g. Imagining successful performance
+        type: select_one
+        options:
+          - Yes, regularly
+          - Occasionally
+          - I have tried it
+          - No
+        required: true
+      - id: 16
+        name: anxiety_management
+        label: Management of Pre-Competition Anxiety
+        hint: 1 is Poor Management, 5 is Excellent Management
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Neutral
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 17
+        name: resilience_header
+        label: -- Resilience and Coachability --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: criticism_reception
+        label: Ability to Handle Constructive Criticism
+        hint: 1 is Defensive, 10 is Very Open
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 19
+        name: pain_management_description
+        label: How do you handle physical discomfort during intense training?
+        hint: Describe your mindset towards physical limits
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: overall_mindset_rating
+        label: Overall Mental Strength Self-Rating
+        hint: 1 is Weak, 10 is Elite
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 21
+        name: development_skill
+        label: Specific Mental Skill You Wish to Develop
+        hint: e.g. Focus, Resilience, Confidence
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: assessment_date
+        label: Date of Assessment
+        hint: null
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone System Setup Questionnaire
+    pages:
+    - id: 1
+      name: first_page
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_system_id
+      label: phone_system_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_one
+      options:
+      - telecom_provider
+      - it_team
+      - service_partner
+      required: true
+    - id: 9
+      name: business_size
+      label: business_size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 10
+      name: num_employees
+      label: num_employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: employee_count
+      label: employee_count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: phone_system_details
+      label: phone_system_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: existing_system
+      label: existing_system
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: existing_system_name
+      label: existing_system_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: existing_system_info
+      label: existing_system_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: existing_system_notes
+      label: existing_system_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: system_requirements
+      label: system_requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: required_features
+      label: required_features
+      hint: null
+      type: select_multiple
+      options:
+      - voip
+      - voicemail
+      - call_forwarding
+      required: true
+    - id: 19
+      name: system_requirements_1
+      label: system_requirements_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: system_requirements_2
+      label: system_requirements_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: system_requirements_3
+      label: system_requirements_3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: system_requirements_4
+      label: system_requirements_4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_features
+      label: additional_features
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Planning Community Needs Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: contact information
+      hint: Please provide your contact information so we can follow up with you after
+        the survey
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How satisfied are you with your neighborhood
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_score
+      label: What do you think is the primary issue with your neighborhood?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Housing''}'
+      - '{''id'': 2, ''label'': ''Transportation''}'
+      - '{''id'': 3, ''label'': ''Public Safety''}'
+      - '{''id'': 4, ''label'': ''Public Spaces''}'
+      - '{''id'': 5, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 5
+      name: satisfaction_score_2
+      label: How satisfied are you with public services in your neighborhood?
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: public_services
+      label: What type of public services are most important to you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Public Parks''}'
+      - '{''id'': 2, ''label'': ''Public Schools''}'
+      - '{''id'': 3, ''label'': ''Public Libraries''}'
+      - '{''id'': 4, ''label'': ''Public Restrooms''}'
+      - '{''id'': 5, ''label'': ''Public Sports Facilities''}'
+      required: false
+    - id: 7
+      name: neighborhood_priorities
+      label: What are the top priorities in your neighborhood?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Affordable Housing''}'
+      - '{''id'': 2, ''label'': ''Community Engagement''}'
+      - '{''id'': 3, ''label'': ''Local Businesses''}'
+      - '{''id'': 4, ''label'': ''Public Transportation''}'
+      - '{''id'': 5, ''label'': ''Safety and Security''}'
+      - '{''id'': 6, ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 8
+      name: neighborhood_satisfaction
+      label: Overall, how satisfied are you with your neighborhood?
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

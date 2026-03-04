@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anxiety Self Reflection Form
+    pages:
+    - id: 1
+      name: reflection_date
+      label: Reflection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: reflection_period
+      label: This reflection covers what time period?
+      hint: null
+      type: select_one
+      options:
+      - Today
+      - Past week
+      - Past month
+      - Custom period
+      required: true
+    - id: 3
+      name: overall_anxiety_level
+      label: Overall anxiety level during this period
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: anxiety_compared_to_last
+      label: Anxiety compared to last reflection
+      hint: null
+      type: select_one
+      options:
+      - Much worse
+      - Somewhat worse
+      - About the same
+      - Somewhat better
+      - Much better
+      required: true
+    - id: 5
+      name: primary_triggers_this_period
+      label: Primary anxiety triggers during this period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: trigger_patterns
+      label: Any patterns noticed in your triggers?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physical_symptoms
+      label: Physical symptoms experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Racing heart
+      - Shortness of breath
+      - Chest tightness
+      - Trembling or shaking
+      - Sweating
+      - Nausea
+      - Muscle tension
+      - Sleep disturbance
+      - Fatigue
+      - None
+      required: true
+    - id: 8
+      name: emotional_symptoms
+      label: Emotional symptoms experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excessive worry
+      - Difficulty concentrating
+      - Irritability
+      - Feeling overwhelmed
+      - Fear or panic
+      - Sadness
+      - Loneliness
+      - None
+      required: true
+    - id: 9
+      name: symptom_frequency
+      label: Frequency of anxiety symptoms
+      hint: null
+      type: select_one
+      options:
+      - Constant or near-constant
+      - Several times daily
+      - Daily
+      - Several times per week
+      - Weekly
+      - Few times per month
+      required: true
+    - id: 10
+      name: coping_strategies_used
+      label: Coping strategies you used during this period
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Deep breathing exercises
+      - Physical exercise
+      - Meditation or mindfulness
+      - Journaling
+      - Talking to others
+      - Professional support
+      - Distraction activities
+      - Rest or sleep
+      - Healthy eating
+      - Limiting alcohol or caffeine
+      - Other
+      required: true
+    - id: 11
+      name: most_helpful_strategy
+      label: Which coping strategy was most helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: strategy_effectiveness
+      label: Overall effectiveness of coping strategies
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Moderately effective
+      - Slightly effective
+      - Not effective
+      required: true
+    - id: 13
+      name: avoided_triggers
+      label: Did you avoid any situations or triggers?
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, sometimes
+      - Yes, occasionally
+      - false
+      required: true
+    - id: 14
+      name: avoidance_impact
+      label: How did avoidance impact your life?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sleep_quality
+      label: Sleep quality during this period
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: exercise_frequency
+      label: How often did you exercise?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - A few times per month
+      - Never
+      required: true
+    - id: 17
+      name: diet_quality
+      label: Diet quality during this period
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 18
+      name: social_connection
+      label: How connected did you feel socially?
+      hint: null
+      type: select_one
+      options:
+      - Very connected
+      - Somewhat connected
+      - Neutral
+      - Somewhat isolated
+      - Very isolated
+      required: true
+    - id: 19
+      name: professional_support
+      label: Did you engage in professional support this period?
+      hint: Therapy, counseling, coaching
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, but should have
+      - No, not needed
+      required: true
+    - id: 20
+      name: positive_moments
+      label: Positive moments or wins during this period
+      hint: What went well?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: growth_observations
+      label: What have you learned about your anxiety?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: goals_next_period
+      label: Goals for the next reflection period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: support_needed
+      label: What support would be helpful going forward?
+      hint: null
+      type: text
+      options: []
+      required: false

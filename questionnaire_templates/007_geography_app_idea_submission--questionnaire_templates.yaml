@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geography App Idea Submission
+    pages:
+    - id: 1
+      name: user_type
+      label: UserType
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Educator
+      - Product Team
+      required: false
+    - id: 2
+      name: app_concept
+      label: AppConcept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: idea_description
+      label: IdeaDescription
+      hint: Briefly describe your geography app idea.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: Choose your app's category.
+      type: select_one
+      options:
+      - Geography
+      - History
+      - Social Studies
+      - Other
+      required: false
+    - id: 5
+      name: features
+      label: Features
+      hint: Describe your app's key features.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: target_audience
+      label: TargetAudience
+      hint: Who is your target audience?
+      type: select_one
+      options:
+      - Students
+      - Educators
+      - General Public
+      required: false
+    - id: 7
+      name: platform
+      label: Platform
+      hint: On which platform is your app available?
+      type: select_multiple
+      options:
+      - Mobile
+      - Web
+      - Desktop
+      required: false
+    - id: 8
+      name: follow_up
+      label: FollowUp
+      hint: How would you like to follow-up with our team?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      required: false
+    - id: 9
+      name: review_status
+      label: ReviewStatus
+      hint: What status would you like to assign to your submission?
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 10
+      name: submission_date
+      label: SubmissionDate
+      hint: Date of submission
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: ReviewDate
+      hint: Date of review
+      type: date
+      options: []
+      required: false

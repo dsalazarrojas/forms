@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Access Security Broker (CASB) Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or Team
+      hint: Your area of responsibility
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_current
+      label: -- Current Cloud Environment --
+      hint: Information about your current setup
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cloud_platforms
+      label: Which cloud platforms does your organization use
+      hint: null
+      type: select_multiple
+      options:
+      - Microsoft Azure
+      - Amazon Web Services (AWS)
+      - Google Cloud Platform (GCP)
+      - Salesforce
+      - ServiceNow
+      - Office 365
+      - Slack
+      - Dropbox
+      - Box
+      - OneDrive
+      required: true
+    - id: 7
+      name: cloud_adoption_stage
+      label: Current Cloud Adoption Stage
+      hint: null
+      type: select_one
+      options:
+      - Early stages
+      - Moderate adoption
+      - Mature adoption
+      - Cloud-centric organization
+      required: true
+    - id: 8
+      name: section_security
+      label: -- Security Concerns --
+      hint: Your primary security challenges
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_concerns
+      label: Primary Security Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Data loss and leakage
+      - Unauthorized access
+      - Insider threats
+      - Malware and ransomware
+      - Compliance violations
+      - Shadow IT
+      - Misconfigurations
+      - API exploits
+      required: true
+    - id: 10
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - GDPR
+      - HIPAA
+      - PCI DSS
+      - SOC 2
+      - ISO 27001
+      - CCPA
+      - Industry-specific
+      - None currently
+      required: true
+    - id: 11
+      name: section_objectives
+      label: -- CASB Objectives --
+      hint: What do you hope to achieve with CASB
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: deployment_goals
+      label: Primary Deployment Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Visibility into cloud apps
+      - User behavior monitoring
+      - Data loss prevention
+      - Threat detection
+      - Compliance enforcement
+      - Access controls
+      - Cloud app discovery
+      - API security
+      required: true
+    - id: 13
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 1 month
+      - Short term - 1-3 months
+      - Medium term - 3-6 months
+      - Long term - 6-12 months
+      - Exploratory only
+      required: true
+    - id: 14
+      name: section_requirements
+      label: -- Technical Requirements --
+      hint: Specific needs and constraints
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: integration_requirements
+      label: Integration Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - SIEM integration
+      - DLP system integration
+      - IAM integration
+      - Email security
+      - Endpoint protection
+      - Mobile device management
+      - API-based integration
+      required: true
+    - id: 16
+      name: user_count
+      label: Approximate Number of Users
+      hint: How many users need coverage
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: data_sensitivity
+      label: Data Sensitivity Level
+      hint: null
+      type: select_one
+      options:
+      - Non-sensitive
+      - Sensitive
+      - Highly sensitive
+      - Mixed sensitivity levels
+      required: true
+    - id: 18
+      name: section_priorities
+      label: -- Prioritization --
+      hint: Key priorities for your organization
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: critical_features
+      label: Most Critical Features
+      hint: null
+      type: select_multiple
+      options:
+      - Real-time monitoring
+      - Anomaly detection
+      - Automated response
+      - User analytics
+      - File analysis
+      - Encryption
+      - Custom policies
+      required: true
+    - id: 20
+      name: reporting_needs
+      label: Reporting and Analytics Needs
+      hint: null
+      type: select_one
+      options:
+      - Basic reporting
+      - Standard dashboards
+      - Advanced analytics
+      - Custom reporting
+      required: true
+    - id: 21
+      name: section_readiness
+      label: -- Organizational Readiness --
+      hint: Your preparation level
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: it_resource_availability
+      label: IT Resources Available for Implementation
+      hint: null
+      type: select_one
+      options:
+      - Full-time dedicated team
+      - Part-time resources
+      - Limited resources
+      - External consultant required
+      required: true
+    - id: 23
+      name: training_capability
+      label: Training and Support Capability
+      hint: null
+      type: select_one
+      options:
+      - In-house expertise
+      - Partner support needed
+      - Vendor training sufficient
+      - Significant support needed
+      required: true
+    - id: 24
+      name: budget_range
+      label: Budget Range for CASB Solution
+      hint: null
+      type: select_one
+      options:
+      - Under 50K per year
+      - 50K-100K per year
+      - 100K-250K per year
+      - 250K-500K per year
+      - Over 500K per year
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Additional Comments or Concerns
+      hint: Any other information to consider
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Maintenance Request
+    pages:
+    - id: 1
+      name: property_maintenance_request
+      label: Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Townhouse
+      - Duplex
+      - Condo
+      - Townhouse
+      - Mobile
+      - Single Family
+      - Multi Family
+      required: false
+    - id: 3
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_multiple
+      options:
+      - Repair
+      - Maintenance
+      - Upgrade
+      - Other
+      required: false
+    - id: 4
+      name: maintenance_request_date
+      label: Maintenance Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_request_time
+      label: Maintenance Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_request_description
+      label: Maintenance Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_contact
+      label: Assigned Contact
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      - Alice
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjim
+      - chat-jimmy
+      - jim
+      required: false
+    - id: 9
+      name: maintenance_request_status
+      label: Maintenance Request Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      - Approved
+      required: false
+    - id: 10
+      name: maintenance_request_priority
+      label: Maintenance Request Priority
+      hint: null
+      type: number
+      options: []
+      required: false

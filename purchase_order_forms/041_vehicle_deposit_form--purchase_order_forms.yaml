@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_deposit_form
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: deposit_date
+      label: Deposit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Check''}'
+      - '{''label'': ''Credit''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Net 30''}'
+      - '{''label'': ''30/60''}'
+      - '{''label'': ''60/90''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact
+      label: Contact
+      hint: Enter name and phone number
+      type: text
+      options: []
+      required: false

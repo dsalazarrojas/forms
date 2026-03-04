@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cryptic Text Analysis Survey
+    pages:
+    - id: 1
+      name: intro_question
+      label: What is your interpretation of the ambiguous passage?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sentiment_question
+      label: What is your sentiment towards this passage?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: puzzle_type
+      label: What type of puzzle is this?
+      hint: null
+      type: select_one
+      options:
+      - Logic
+      - Riddle
+      - Maze
+      - Labyrinth
+      required: false
+    - id: 4
+      name: passage_type
+      label: What type of passage is this?
+      hint: null
+      type: select_one
+      options:
+      - Story
+      - Riddle
+      - Joke
+      - Puzzle
+      required: false
+    - id: 5
+      name: solution_type
+      label: What type of solution is required?
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Multiple
+      - None
+      required: false
+    - id: 6
+      name: solution_length
+      label: How long does the solution take?
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 7
+      name: difficulty_level
+      label: How difficult is this puzzle?
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      - Very Hard
+      required: false
+    - id: 8
+      name: solution_hint
+      label: What is the solution hint?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_type
+      label: Will the solution be submitted?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Ask
+      required: false
+    - id: 10
+      name: submission_date
+      label: What is the submission date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: What is the submission time?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: researcher_experience
+      label: How many years of experience as a researcher do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: researcher_title
+      label: What is your title?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: educator_experience
+      label: How many years of experience as an educator do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: puzzle_creator_experience
+      label: How many years of experience as a puzzle creator do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: feedback
+      label: Do you have any feedback for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: researcher_institution
+      label: Which institution do you represent?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: puzzle_creator_institution
+      label: Which puzzle organization do you represent?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: research_purpose
+      label: What is the purpose of your research?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: puzzle_purpose
+      label: What is the purpose of the puzzle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: puzzle_theme
+      label: What is the theme of the puzzle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_method
+      label: How will you be submitting the solution?
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false
+    - id: 25
+      name: submission_location
+      label: Where will you be submitting the solution?
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false

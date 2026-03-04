@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Range Selection Survey
+    pages:
+    - id: 1
+      name: meeting_times
+      label: Meeting Times
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: temperature
+      label: Temperature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: productivity
+      label: Productivity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: range_selection_time
+      label: Range Selection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: range_selection_temp
+      label: Range Selection Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: range_selection_range
+      label: Range Selection Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

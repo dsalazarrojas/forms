@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Preservation Assessment
+    pages:
+    - id: 1
+      name: financial_adviser
+      label: Financial Adviser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: assets_owned
+      label: Assets Owned
+      hint: List all assets
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: asset_allocation
+      label: Asset Allocation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cash''}'
+      - '{''value'': ''Stocks''}'
+      - '{''value'': ''Bonds''}'
+      - '{''value'': ''Alternative Investments''}'
+      required: false
+    - id: 5
+      name: financial_goals
+      label: Financial Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Retirement''}'
+      - '{''value'': ''Wealth Creation''}'
+      - '{''value'': ''Debt Reduction''}'
+      required: false
+    - id: 6
+      name: income_streams
+      label: Income Streams
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Salary''}'
+      - '{''value'': ''Investments''}'
+      - '{''value'': ''Rental Income''}'
+      required: false
+    - id: 7
+      name: investment_strategy
+      label: Investment Strategy
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tax_filing_status
+      label: Tax Filing Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single''}'
+      - '{''value'': ''Joint''}'
+      - '{''value'': ''Married''}'
+      required: false
+    - id: 9
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: time_frame
+      label: Time Frame
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Short Term''}'
+      - '{''value'': ''Medium Term''}'
+      - '{''value'': ''Long Term''}'
+      required: false
+    - id: 11
+      name: asset_protection
+      label: Asset Protection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''id'': 12, ''name'': ''estate_planning'', ''label'': ''Estate Planning'',
+        ''hint'': None, ''type'': ''select_one'', ''options'': [{''value'': True},
+        {''value'': False}]}'
+      required: false
+    - id: 12
+      name: trusts
+      label: Trusts
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: wills
+      label: Wills
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: powers_of_attorney
+      label: Powers of Attorney
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 15
+      name: advance_directives
+      label: Advance Directives
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 16
+      name: guardianship
+      label: Guardianship
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 17
+      name: guardianship_alternate
+      label: Alternate Guardian
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Primary Caregiver''}'
+      - '{''value'': ''Spouse''}'
+      - '{''value'': ''Child''}'
+      required: false
+    - id: 18
+      name: probate
+      label: Probate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 19
+      name: guardianship_fees
+      label: Guardianship Fess
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: estate_taxation
+      label: Estate Taxation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 21
+      name: asset_allocation_fees
+      label: Asset Allocation Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: investment_management_fees
+      label: Investment Management Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: legal_fees
+      label: Legal Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: tax_fees
+      label: Tax Fees
+      hint: null
+      type: number
+      options: []
+      required: false

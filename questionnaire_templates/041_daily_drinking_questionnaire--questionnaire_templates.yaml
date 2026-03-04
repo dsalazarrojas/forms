@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Drinking Questionnaire
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: drink_type
+      label: Drink Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consumed
+      label: Consumed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: units_consumed
+      label: Units Consumed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_consumed
+      label: Time Consumed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: drinker_status
+      label: Drinker Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: drinker_status_2
+      label: Drinker Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: drinker_status_3
+      label: Drinker Status 3
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

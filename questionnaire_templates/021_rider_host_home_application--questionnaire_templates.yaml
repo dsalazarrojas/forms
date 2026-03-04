@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Rider Host Home Application
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rider_details
+      label: rider details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: host_details
+      label: host details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_details
+      label: emergency details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: household_details
+      label: household details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: host_availability
+      label: host availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: visit_details
+      label: visit details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: host_neighbours
+      label: host neighbours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: host_vehicle
+      label: host vehicle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: host_agreement
+      label: host agreement
+      hint: null
+      type: select_one
+      options:
+      - I am willing to host a rider.
+      - I am not willing to host a rider.
+      - Other (explain in additional comments)
+      required: true
+    - id: 13
+      name: rider_type
+      label: rider type
+      hint: null
+      type: select_multiple
+      options:
+      - Local Rider
+      - Visiting Rider
+      - Both
+      required: true

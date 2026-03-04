@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: DIY Beauty Practice Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What Is Your Age Group?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: age_group
+      label: What is your age group?
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55 or older
+      required: false
+    - id: 3
+      name: beauty_practice_frequency
+      label: How often do you practice at-home beauty routines?
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - 2-3 times a week
+      - 1 time a week
+      - less than 1 time a week
+      - never
+      required: false
+    - id: 4
+      name: motivation
+      label: What motivates your at-home beauty routine?
+      hint: null
+      type: select_multiple
+      options:
+      - self-care
+      - social media
+      - convenience
+      - time-saving
+      - others
+      required: false
+    - id: 5
+      name: challenge
+      label: What are your biggest challenges with at-home beauty routines?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: satisfaction_level
+      label: How satisfied are you with your at-home beauty routines?
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: false
+    - id: 7
+      name: practice_satisfaction_motivation
+      label: How does satisfaction motivate your at-home beauty practice?
+      hint: null
+      type: select_one
+      options:
+      - strongly_agree
+      - somewhat_agree
+      - neutral
+      - somewhat_disagree
+      - strongly_disagree
+      required: false
+    - id: 8
+      name: product_influence
+      label: How do you usually find out about new beauty products?
+      hint: null
+      type: select_multiple
+      options:
+      - social media
+      - word_of_mouth
+      - online_reviews
+      - offline_ads
+      - magazines
+      required: false
+    - id: 9
+      name: product_influence_frequency
+      label: How often do you usually find out about new beauty products?
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - 2-3 times a week
+      - 1 time a week
+      - less than 1 time a week
+      - never
+      required: false
+    - id: 10
+      name: product_satisfaction
+      label: What do you usually do with a new beauty product once you've tried it?
+      hint: null
+      type: select_multiple
+      options:
+      - use_it
+      - return_it
+      - share_it_with_friends
+      - share_on_social_media
+      required: false
+    - id: 11
+      name: purchase_satisfaction
+      label: What do you usually purchase beauty products online?
+      hint: null
+      type: select_multiple
+      options:
+      - purchase_it
+      - purchase_it_sometimes
+      - never
+      required: false
+    - id: 12
+      name: purchase_influencer
+      label: Have you ever purchased beauty products recommended by a beauty influencer?
+      hint: null
+      type: select_multiple
+      options:
+      - purchased_it
+      - purchased_it_sometimes
+      - never
+      required: false
+    - id: 13
+      name: product_satisfaction_level
+      label: What motivates you to purchase a new beauty product?
+      hint: null
+      type: select_one
+      options:
+      - highly_motivated
+      - somewhat_motivated
+      - neutral
+      - somewhat_unmotivated
+      - highly_unmotivated
+      required: false
+    - id: 14
+      name: purchase_frequency
+      label: How often do you purchase beauty products?
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - 2-3 times a week
+      - 1 time a week
+      - less than 1 time a week
+      - never
+      required: false
+    - id: 15
+      name: purchase_in_store
+      label: Do you usually purchase beauty products in-store?
+      hint: null
+      type: select_multiple
+      options:
+      - purchase_in_store
+      - purchase_online
+      - both
+      required: false
+    - id: 16
+      name: practice_difficulties
+      label: Which of the following are challenges you face with at-home beauty routines?
+      hint: null
+      type: select_multiple
+      options:
+      - skin_type
+      - time
+      - product_availability
+      - others
+      required: false
+    - id: 17
+      name: practice_satisfaction_level
+      label: How often do you use a beauty product for its intended use?
+      hint: null
+      type: select_one
+      options:
+      - very_frequently
+      - somewhat_frequently
+      - occasionally
+      - never
+      required: false
+    - id: 18
+      name: practice_frequency
+      label: How often do you practice at-home beauty routines?
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - 2-3 times a week
+      - 1 time a week
+      - less than 1 time a week
+      - never
+      required: false
+    - id: 19
+      name: practice_difficulties
+      label: Which of the following are challenges you face with at-home beauty routines?
+      hint: null
+      type: select_multiple
+      options:
+      - product_effectiveness
+      - ingredient_safety
+      - skin_type
+      - others
+      required: false
+    - id: 20
+      name: product_effectiveness
+      label: How often do you find at-home beauty products to be effective?
+      hint: null
+      type: select_one
+      options:
+      - very_effective
+      - somewhat_effective
+      - neutral
+      - somewhat_ineffective
+      - very_ineffective
+      required: false
+    - id: 21
+      name: skin_type
+      label: What is your skin type?
+      hint: null
+      type: select_multiple
+      options:
+      - normal
+      - dry
+      - oily
+      - combination
+      - others
+      required: false
+    - id: 22
+      name: skin_sensitivity
+      label: What is your skin sensitivity level?
+      hint: null
+      type: select_one
+      options:
+      - very_sensitive
+      - somewhat_sensitive
+      - not_sensitive
+      - not_applicable
+      required: false
+    - id: 23
+      name: skin_problems
+      label: Which of the following skin problems do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - acne
+      - hyperpigmentation
+      - aging
+      - rosacea
+      - others
+      required: false
+    - id: 24
+      name: skin_problem_frequency
+      label: How often do you experience the following skin problems?
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - 2-3 times a week
+      - 1 time a week
+      - less than 1 time a week
+      - never
+      required: false
+    - id: 25
+      name: conclusion_page
+      label: How likely are you to recommend this survey to others?
+      hint: null
+      type: select_one
+      options:
+      - highly_likely
+      - somewhat_likely
+      - not_likely
+      - not_at_all_likely
+      - not_applicable
+      required: false

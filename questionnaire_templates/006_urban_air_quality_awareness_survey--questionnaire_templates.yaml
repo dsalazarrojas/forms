@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban-air-quality-awareness-survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Urban Air Quality Awareness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: What is your location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: perception
+      label: Perception
+      hint: null
+      type: select_one
+      options:
+      - strongly disagree
+      - disagree
+      - neutral
+      - agree
+      - strongly agree
+      required: false
+    - id: 4
+      name: concern
+      label: Concern
+      hint: null
+      type: select_multiple
+      options:
+      - very concerned
+      - somewhat concerned
+      - not very concerned
+      - not concerned at all
+      required: false
+    - id: 5
+      name: behavior
+      label: Behavior
+      hint: null
+      type: select_one
+      options:
+      - mostly stay indoors
+      - sometimes stay indoors
+      - rarely stay indoors
+      - always stay indoors
+      required: false
+    - id: 6
+      name: perception_time
+      label: Perception Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: concern_time
+      label: Concern Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: behavior_time
+      label: Behavior Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

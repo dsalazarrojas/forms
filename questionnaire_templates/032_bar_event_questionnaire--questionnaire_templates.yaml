@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Event Questionnaire
+    pages:
+    - id: 1
+      name: response_date
+      label: Response Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Name of the bar event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: attendee_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date Attended
+      hint: When was the event?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: first_time_event
+      label: Was This Your First Time at This Event?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: group_size
+      label: Size of Your Group
+      hint: How many people came together?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: how_heard_about_event
+      label: How Did You Hear About This Event?
+      hint: Select your source
+      type: select_one
+      options:
+      - Social Media
+      - Word of Mouth
+      - Bar Website
+      - Email Newsletter
+      - Flyer or Poster
+      - Friend Referral
+      - Other
+      required: true
+    - id: 10
+      name: event_atmosphere_rating
+      label: Event Atmosphere and Setup
+      hint: How was the setup and atmosphere?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: entertainment_quality
+      label: Entertainment Quality
+      hint: Rate the entertainment
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: false
+    - id: 12
+      name: music_experience
+      label: Music and Sound Quality
+      hint: How was the music?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: false
+    - id: 13
+      name: event_organization
+      label: Event Organization and Flow
+      hint: Was the event well organized?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: staff_service_rating
+      label: Staff Service and Responsiveness
+      hint: How was the bar service?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 15
+      name: beverage_pricing
+      label: Beverage Pricing
+      hint: Were prices reasonable?
+      type: select_one
+      options:
+      - 1 - Too High
+      - 2 - High
+      - 3 - Fair
+      - 4 - Good
+      - 5 - Great Value
+      required: false
+    - id: 16
+      name: food_options
+      label: Food Options Quality (if applicable)
+      hint: Rate the food available
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      - N/A - No Food
+      required: false
+    - id: 17
+      name: would_attend_again
+      label: Would You Attend This Event Again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Would
+      - Probably Would
+      - Unsure
+      - Probably Not
+      - Would Not
+      required: true
+    - id: 18
+      name: overall_satisfaction
+      label: Overall Event Satisfaction
+      hint: How satisfied were you?
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 19
+      name: recommendation_likelihood
+      label: Would You Recommend This Event to Others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Would
+      - Probably Would
+      - Unsure
+      - Probably Not
+      - Would Not
+      required: true
+    - id: 20
+      name: best_aspect
+      label: What Was the Best Part of the Event?
+      hint: Tell us what you enjoyed most
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvement_suggestions
+      label: How Could This Event Be Improved?
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: future_suggestions
+      label: Suggestions for Future Events
+      hint: Ideas for next time
+      type: text
+      options: []
+      required: false

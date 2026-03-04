@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Color Questionnaire
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hair_color
+      label: What is the customer's hair color?
+      hint: null
+      type: select_one
+      options:
+      - Blonde
+      - Brown
+      - Black
+      - Red
+      - Gray
+      - Other
+      required: false
+    - id: 4
+      name: desired_hair_color
+      label: What is the customer's desired hair color?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hair_length
+      label: What is the customer's hair length?
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Medium
+      - Long
+      - Very long
+      required: false
+    - id: 6
+      name: hair_type
+      label: What type of hair do they have?
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Other
+      required: false
+    - id: 7
+      name: face_shape
+      label: What is the face shape of the customer?
+      hint: null
+      type: select_one
+      options:
+      - Oval
+      - Round
+      - Square
+      - Triangular
+      required: false
+    - id: 8
+      name: skin_tone
+      label: What is the customer's skin tone?
+      hint: null
+      type: select_one
+      options:
+      - Fair
+      - Medium
+      - Olive
+      - Dark
+      required: false
+    - id: 9
+      name: face_frame_shape
+      label: What is the face frame shape of the customer?
+      hint: null
+      type: select_one
+      options:
+      - Square
+      - Round
+      - Heart
+      required: false
+    - id: 10
+      name: hair_texture
+      label: What is the texture of the customer's hair?
+      hint: null
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Coarse
+      - Very Coarse
+      required: false
+    - id: 11
+      name: customer_style
+      label: What style are you looking for?
+      hint: null
+      type: select_multiple
+      options:
+      - Natural
+      - Glam
+      - Chic
+      - Casual
+      required: false
+    - id: 12
+      name: product_recommendation
+      label: What products do you recommend?
+      hint: null
+      type: select_multiple
+      options:
+      - Dye
+      - Conditioner
+      - Shampoo
+      - Mask
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Any customer notes?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: color_match
+      label: What color do you think you match with best?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: stylist
+      label: Your name as a stylist?
+      hint: null
+      type: text
+      options: []
+      required: false

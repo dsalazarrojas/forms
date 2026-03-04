@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Type Assessment Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: skin_type
+      label: skin_type
+      hint: null
+      type: select_multiple
+      options:
+      - Acne-prone
+      - Oily
+      - Dry
+      - Combination
+      - Normal
+      required: false
+    - id: 3
+      name: concerns
+      label: concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: skincare_product_use
+      label: skincare_product_use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Rarely
+      required: false
+    - id: 6
+      name: follow_up_appointments
+      label: follow_up_appointments
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 7
+      name: skin_type_awareness
+      label: skin_type_awareness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: skin_concerns
+      label: skin_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommended_products
+      label: recommended_products
+      hint: null
+      type: text
+      options: []
+      required: false

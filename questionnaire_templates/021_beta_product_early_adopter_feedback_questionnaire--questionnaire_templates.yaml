@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beta Product Early Adopter Feedback Questionnaire
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: We will send follow-up surveys here
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: company_name
+        label: Company Name
+        hint: Organization you work for if applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: role
+        label: Your Role
+        hint: What is your job title or role
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: industry
+        label: Industry
+        hint: Which industry do you work in
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Education
+          - Retail
+          - Manufacturing
+          - Media and Entertainment
+          - Professional Services
+          - Government
+          - Other
+        required: true
+      - id: 6
+        name: beta_access_duration
+        label: How Long Have You Had Beta Access
+        hint: Duration of beta usage
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1 to 2 weeks
+          - 2 to 4 weeks
+          - 1 to 3 months
+          - Over 3 months
+        required: true
+      - id: 7
+        name: usage_frequency
+        label: How Often Do You Use the Beta Product
+        hint: Your usage frequency
+        type: select_one
+        options:
+          - Multiple times daily
+          - Once daily
+          - Several times a week
+          - Once a week
+          - Occasionally
+        required: true
+      - id: 8
+        name: primary_use_case
+        label: Primary Use Case
+        hint: What do you primarily use the product for
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: first_impression
+        label: First Impression Rating
+        hint: Rate your first impression of the product
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: ease_of_use
+        label: Ease of Use Rating
+        hint: How easy is the product to use
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Somewhat Difficult
+          - Very Difficult
+        required: true
+      - id: 11
+        name: feature_satisfaction
+        label: Feature Satisfaction Rating
+        hint: How satisfied are you with current features
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Somewhat Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 12
+        name: missing_features
+        label: What Features Are Missing
+        hint: What features would you like to see added
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: most_valuable_feature
+        label: Most Valuable Feature
+        hint: Which feature do you find most useful
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: least_valuable_feature
+        label: Least Valuable Feature
+        hint: Which feature do you find least useful
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: bugs_encountered
+        label: Did You Encounter Any Bugs
+        hint: Describe any bugs or issues you experienced
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: performance_rating
+        label: Performance Rating
+        hint: How would you rate the product performance
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: design_rating
+        label: Design and User Interface Rating
+        hint: Rate the visual design and interface
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 18
+        name: solves_problem
+        label: Does This Product Solve Your Problem
+        hint: How well does it address your needs
+        type: select_one
+        options:
+          - Completely Solves
+          - Mostly Solves
+          - Partially Solves
+          - Barely Solves
+          - Does Not Solve
+        required: true
+      - id: 19
+        name: would_recommend
+        label: Would You Recommend This Product
+        hint: Would you recommend to colleagues or friends
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: would_pay
+        label: Would You Pay for This Product
+        hint: Is this something you would purchase
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: improvement_suggestions
+        label: What Improvements Would You Suggest
+        hint: What would make this product better
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other thoughts or comments
+        type: text
+        options: []
+        required: false

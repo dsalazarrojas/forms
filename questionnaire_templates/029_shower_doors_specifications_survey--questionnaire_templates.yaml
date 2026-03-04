@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shower Doors Specifications Survey
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: true
+    - id: 4
+      name: glass_type
+      label: Glass Type
+      hint: null
+      type: select_multiple
+      options:
+      - Frameless
+      - Semi Frameless
+      - Bifold
+      required: true
+    - id: 5
+      name: glass_thickness
+      label: Glass Thickness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: frame_type
+      label: Frame Type
+      hint: null
+      type: select_one
+      options:
+      - No Frame
+      - Frame
+      required: true
+    - id: 7
+      name: frame_material
+      label: Frame Material
+      hint: null
+      type: select_multiple
+      options:
+      - Aluminum
+      - Wood
+      required: true
+    - id: 8
+      name: glass_finish
+      label: Glass Finish
+      hint: null
+      type: select_one
+      options:
+      - Satin
+      - Haze
+      - Low-Irid
+      - High-Irid
+      required: true
+    - id: 9
+      name: glass_treatment
+      label: Glass Treatment
+      hint: null
+      type: select_one
+      options:
+      - Tempering
+      - Laminating
+      required: true
+    - id: 10
+      name: glass_size
+      label: Glass Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Large
+      required: true
+    - id: 11
+      name: quantity_of_units
+      label: Quantity of Units
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: glass_height
+      label: Glass Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: glass_width
+      label: Glass Width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: shower_frame_type
+      label: Shower Frame Type
+      hint: null
+      type: select_one
+      options:
+      - No Frame
+      - Hinged
+      required: true
+    - id: 15
+      name: door_height
+      label: Door Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: door_width
+      label: Door Width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: shower_purpose
+      label: Purpose of Shower
+      hint: null
+      type: select_multiple
+      options:
+      - Bath
+      - Shower
+      - Walk-in Closet
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

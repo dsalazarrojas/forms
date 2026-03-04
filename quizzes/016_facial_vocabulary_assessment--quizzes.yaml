@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Vocabulary Assessment
+    pages:
+    - id: 1
+      name: first_page
+      label: What is the name of the student?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_page_section
+      label: Facial Expressions
+      hint: null
+      type: select_multiple
+      options:
+      - Smile
+      - Frown
+      - Laugh
+      - Cry
+      required: true
+    - id: 3
+      name: first_page_sub_section
+      label: Facial Expressions Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Sad
+      - Happy
+      - Angry
+      - Surprised
+      required: true
+    - id: 4
+      name: second_page
+      label: What is the student's age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: second_page_sub
+      label: Student's Age
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: third_page
+      label: What is the student's gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 7
+      name: third_page_sub
+      label: Student's Gender
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fourth_page
+      label: What is the student's favorite food?
+      hint: null
+      type: select_multiple
+      options:
+      - Pizza
+      - Tacos
+      - Sushi
+      - Steak
+      required: false
+    - id: 9
+      name: fourth_page_sub
+      label: Favorite Food
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: fifth_page
+      label: What is the student's favorite color?
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 11
+      name: fifth_page_sub
+      label: Favorite Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: sixth_page
+      label: When do you like to eat?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: sixth_page_sub
+      label: Mealtime
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: seventh_page
+      label: Do you like to dance?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 15
+      name: seventh_page_sub
+      label: Dance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: eighth_page
+      label: What is the student's phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: eighth_page_sub
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: ninth_page
+      label: What is the student's email?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: ninth_page_sub
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tenth_page
+      label: Is there a specific date for the assessment?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: tenth_page_sub
+      label: Assessment Date
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: eleventh_page
+      label: Do you have any medical conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 23
+      name: eleventh_page_sub
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: twelfth_page
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: twelfth_page_sub
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: RBAC Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: multiple_choice_question1
+      label: Which access control model is most commonly used in RBAC?
+      hint: null
+      type: select_multiple
+      options:
+      - Role-Based Access Control (RBAC)
+      - Mandatory Access Control (MAC)
+      required: false
+    - id: 3
+      name: multiple_choice_question2
+      label: How does RBAC ensure that users have the appropriate permissions to access
+        resources?
+      hint: null
+      type: select_multiple
+      options:
+      - Role Hierarchy
+      - Attribute-Based Access Control (ABAC)
+      required: false
+    - id: 4
+      name: true_false_question1
+      label: Can roles be dynamically assigned to users in RBAC?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: multiple_choice_question3
+      label: What is the main purpose of RBAC in IT systems?
+      hint: null
+      type: select_multiple
+      options:
+      - To ensure that users have access to only the resources they need
+      - To limit users' access to resources based on their roles
+      - To simplify access control for administrators
+      required: false
+    - id: 6
+      name: text_field
+      label: What is the difference between RBAC and MAC?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: text_field
+      label: What are the benefits of using RBAC?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_field
+      label: When was the concept of RBAC first introduced?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_field
+      label: What time of day is best for taking this quiz?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email_field
+      label: What email address should we use to send reminders?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number_field
+      label: What is your emergency contact number?
+      hint: null
+      type: text
+      options: []
+      required: false

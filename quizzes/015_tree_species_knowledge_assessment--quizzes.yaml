@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Species Knowledge Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tree_species_list
+      label: Tree Species List
+      hint: null
+      type: select_multiple
+      options:
+      - Pinus sylvestris
+      - Quercus robur
+      - Fagus sylvestris
+      required: false
+    - id: 3
+      name: tree_species_question
+      label: Tree Species Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: forest_concepts
+      label: Forest Concepts
+      hint: null
+      type: select_one
+      options:
+      - Ecological Role
+      - Diversity
+      - Ecological Role
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

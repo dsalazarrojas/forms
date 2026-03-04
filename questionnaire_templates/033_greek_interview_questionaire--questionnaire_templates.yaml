@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Greek Interview Questionaire
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_time
+      label: Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_notes
+      label: Approval Notes
+      hint: Additional notes for approval or denial
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: deny_reason
+      label: Deny Reason
+      hint: Reason for denying the attendee
+      type: text
+      options: []
+      required: false

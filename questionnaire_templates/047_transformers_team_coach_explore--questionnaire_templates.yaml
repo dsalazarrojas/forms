@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: transformers_team_coach_explore
+    pages:
+    - id: 1
+      name: title
+      label: transformers Team Coach Explore
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weight_loss_commitment
+      label: weight loss commitment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight_loss_goals
+      label: weight loss goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: support_system
+      label: support system
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: health_goals
+      label: health goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_participation
+      label: program participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: weight_loss_progress
+      label: weight loss progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: participant_info
+      label: participant info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historic Property Rental Application Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Landmark
+      - Heritage
+      - Other
+      required: false
+    - id: 6
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Sold
+      - Leased
+      required: false
+    - id: 7
+      name: rent_type
+      label: Rent Type
+      hint: null
+      type: select_one
+      options:
+      - Lease
+      - License
+      - Other
+      required: false
+    - id: 8
+      name: applicant_note
+      label: Applicant Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_image
+      label: Property Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: applicant_phone
+      label: Applicant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: applicant_date_of_birth
+      label: Applicant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: applicant_time_of_day
+      label: Applicant Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: applicant_signature
+      label: Applicant Signature
+      hint: null
+      type: text
+      options: []
+      required: false

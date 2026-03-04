@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_property_inspection_form
+    pages:
+    - id: 1
+      name: rental_property_inspection_form_page
+      label: rental_property_inspection_form_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: unit_address
+      label: unit_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: unit_status
+      label: unit_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 4
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 5
+      name: unit_type
+      label: unit_type
+      hint: null
+      type: select_one
+      options:
+      - Studio
+      - One-bedroom
+      - Two-bedroom
+      - Three-bedroom
+      required: false
+    - id: 6
+      name: unit_notes
+      label: unit_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_notes
+      label: property_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lease_start_date
+      label: lease_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: property_owner
+      label: property_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: inspecting_party
+      label: inspecting_party
+      hint: null
+      type: select_one
+      options:
+      - Property Manager
+      - Landlord
+      - Tenant
+      required: false
+    - id: 15
+      name: inspection_result
+      label: inspection_result
+      hint: null
+      type: select_multiple
+      options:
+      - Passed
+      - Failed
+      - Deferred
+      required: false

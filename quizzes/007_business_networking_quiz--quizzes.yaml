@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Networking Quiz
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Networking Assessment Introduction --
+        type: note
+        required: false
+      - id: 2
+        name: question_1
+        label: How often do you attend networking events
+        hint: Select the most accurate response
+        type: select_one
+        options:
+          - Never
+          - Rarely (less than once per year)
+          - Occasionally (2-4 times per year)
+          - Regularly (monthly)
+          - Very frequently (weekly or more)
+        required: true
+      - id: 3
+        name: question_2
+        label: What is your comfort level with approaching strangers at events
+        hint: Rate on the provided scale
+        type: select_one
+        options:
+          - Very Uncomfortable
+          - Somewhat Uncomfortable
+          - Neutral
+          - Somewhat Comfortable
+          - Very Comfortable
+        required: true
+      - id: 4
+        name: question_3
+        label: How many meaningful business relationships have you built through networking in the past year
+        hint: Select the closest range
+        type: select_one
+        options:
+          - None
+          - 1-2
+          - 3-5
+          - 6-10
+          - More than 10
+        required: true
+      - id: 5
+        name: question_4
+        label: What is your primary networking goal
+        hint: Choose your main focus
+        type: select_one
+        options:
+          - Find Business Clients
+          - Seek Employment Opportunities
+          - Build Partnerships
+          - Share Knowledge
+          - Create Friendships
+          - Not Sure
+        required: true
+      - id: 6
+        name: question_5
+        label: Which networking challenges apply to you
+        hint: Select all that are relevant
+        type: select_multiple
+        options:
+          - Lack of Confidence
+          - Time Constraints
+          - Geographic Limitations
+          - Difficulty Following Up
+          - Not Clear on Strategy
+        required: false
+      - id: 7
+        name: question_6
+        label: How do you typically follow up with new connections
+        hint: Select your usual method
+        type: select_one
+        options:
+          - LinkedIn Message
+          - Email
+          - Phone Call
+          - Social Media
+          - I do not follow up
+        required: true
+      - id: 8
+        name: question_7
+        label: What would most improve your networking effectiveness
+        hint: Choose one primary need
+        type: select_one
+        options:
+          - Better Communication Skills
+          - More Event Opportunities
+          - Structured Networking Strategy
+          - Online Networking Tools
+          - Confidence Building
+        required: false
+      - id: 9
+        name: contact_email
+        label: Email Address
+        hint: To receive your personalized feedback
+        type: email
+        required: true
+      - id: 10
+        name: contact_name
+        label: Your Name
+        hint: For personalization purposes
+        type: text
+        required: true

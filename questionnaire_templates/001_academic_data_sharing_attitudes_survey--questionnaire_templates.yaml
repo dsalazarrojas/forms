@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Data Sharing Attitudes Survey
+    pages:
+    - id: 1
+      name: introduction_note
+      label: Introduction to Academic Data Sharing Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_role
+      label: What is your role in academic research?
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Principal Investigator
+      - Postdoctoral Researcher
+      - Graduate Student
+      - Undergraduate Student
+      - Research Staff
+      - Faculty Member
+      - Other
+      required: true
+    - id: 3
+      name: years_experience
+      label: How many years of research experience do you have?
+      hint: Count from your first research position
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: discipline_area
+      label: What is your primary research discipline?
+      hint: Specify your main field of study
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: data_sharing_frequency
+      label: How often do you share your research data with others?
+      hint: Select the most accurate option
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 6
+      name: data_sharing_reasons
+      label: What motivates you to share research data? (Select all that apply)
+      hint: Multiple selections allowed
+      type: select_multiple
+      options:
+      - Advancing scientific knowledge
+      - Funding requirements
+      - Journal requirements
+      - Collaboration opportunities
+      - Personal interest
+      - Institutional policy
+      - None of the above
+      required: false
+    - id: 7
+      name: data_sharing_barriers
+      label: What barriers prevent you from sharing research data? (Select all that
+        apply)
+      hint: Multiple selections allowed
+      type: select_multiple
+      options:
+      - Privacy concerns
+      - Intellectual property rights
+      - Time constraints
+      - Lack of infrastructure
+      - Fear of criticism
+      - Competition concerns
+      - Unclear policies
+      - Technical difficulties
+      required: false
+    - id: 8
+      name: data_sharing_importance_rating
+      label: How important do you think data sharing is for scientific advancement?
+      hint: Rate on a scale of 1 to 5, where 1 is not important and 5 is extremely
+        important
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: data_repository_use
+      label: Which data repositories do you typically use? (Select all that apply)
+      hint: Multiple selections allowed
+      type: select_multiple
+      options:
+      - Figshare
+      - Dryad
+      - Zenodo
+      - GitHub
+      - Institutional repository
+      - Domain-specific repository
+      - None
+      - Other
+      required: false
+    - id: 10
+      name: data_licensing_preference
+      label: What type of license do you prefer for your shared data?
+      hint: Select your preferred licensing option
+      type: select_one
+      options:
+      - Creative Commons CC BY
+      - Creative Commons CC0
+      - GNU GPL
+      - MIT License
+      - No license
+      - Not sure
+      required: false
+    - id: 11
+      name: data_citation_practice
+      label: Do you cite data sets used in your research?
+      hint: Select yes if you consistently cite data sources
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: data_sharing_training
+      label: Have you received formal training on data sharing practices?
+      hint: Select yes if you have participated in workshops or courses
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 13
+      name: data_management_planning
+      label: Do you create data management plans for your research projects?
+      hint: Select yes if you develop formal plans for data handling
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, sometimes
+      - No, never
+      - Not sure
+      required: true
+    - id: 14
+      name: data_sharing_future_intent
+      label: How likely are you to increase data sharing in your future research?
+      hint: Rate on a scale of 1 to 5, where 1 is not likely and 5 is extremely likely
+      type: number
+      options: []
+      required: true

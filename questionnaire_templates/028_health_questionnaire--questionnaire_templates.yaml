@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Questionnaire
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allergies
+      label: Allergies
+      hint: List any allergies
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: List any medications
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_test
+      label: Medical Test
+      hint: List any medical tests or procedures you've had
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: List any emergency contacts
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_procedure_2
+      label: Medical Procedure 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_test_2
+      label: Medical Test 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Valentine's Day Gift Questionnaire
+    pages:
+    - id: 1
+      name: valentines_day_gift_questionnaire
+      label: valentines_day_gift_questionnaire_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: recipient_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gift_suggestion
+      label: gift_suggestion_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gift_budget
+      label: gift_budget_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gift_budget_hint
+      label: gift_budget_hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_color
+      label: preferred_color_label
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Purple
+      - Pink
+      required: false
+    - id: 7
+      name: gift_category
+      label: gift_category_label
+      hint: null
+      type: select_one
+      options:
+      - Clothing
+      - Jewelry
+      - Gift Cards
+      - Other
+      required: false
+    - id: 8
+      name: special_instructions
+      label: special_instructions_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gift_wishes
+      label: gift_wishes_label
+      hint: null
+      type: note
+      options: []
+      required: false

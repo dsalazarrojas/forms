@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tickets Purchase Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - Ticket A
+      - Ticket B
+      - Ticket C
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 7
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: donor_phone
+      label: Donor Phone
+      hint: Please provide phone number in E.164 format
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: donation_description
+      label: Donation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_id
+      label: Event ID
+      hint: null
+      type: select_one
+      options:
+      - Event A
+      - Event B
+      - Event C
+      required: false
+    - id: 13
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

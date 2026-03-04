@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Architecture Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: Email address for results delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: Institution or Organization
+      hint: School, museum, or organization you represent
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quiz_section_intro
+      label: Welcome to the Ancient Architecture Quiz
+      hint: This quiz tests your knowledge of ancient architectural wonders from around the world. Select the best answer for each question.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: Which ancient wonder was located in Alexandria, Egypt
+      hint: Select one answer
+      type: select_one
+      options:
+      - The Great Pyramid
+      - The Lighthouse of Alexandria
+      - The Hanging Gardens
+      - The Colossus of Rhodes
+      required: true
+    - id: 6
+      name: question_2
+      label: What material was primarily used in the construction of the Roman Colosseum
+      hint: Select one answer
+      type: select_one
+      options:
+      - Marble and granite
+      - Concrete and travertine stone
+      - Wood and clay
+      - Bronze and iron
+      required: true
+    - id: 7
+      name: question_3
+      label: The Parthenon in Athens was dedicated to which Greek deity
+      hint: Select one answer
+      type: select_one
+      options:
+      - Zeus
+      - Apollo
+      - Athena
+      - Hera
+      required: true
+    - id: 8
+      name: question_4
+      label: Which ancient civilization built Machu Picchu
+      hint: Select one answer
+      type: select_one
+      options:
+      - Aztec
+      - Maya
+      - Inca
+      - Olmec
+      required: true
+    - id: 9
+      name: question_5
+      label: What architectural feature is characteristic of Gothic cathedrals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Flying buttresses
+      - Pointed arches
+      - Rounded domes
+      - Stained glass windows
+      - Hypostyle halls
+      required: true
+    - id: 10
+      name: question_6
+      label: The Pantheon in Rome is famous for its
+      hint: Select one answer
+      type: select_one
+      options:
+      - Massive unsupported dome with oculus
+      - Tall spiral columns
+      - Underground chambers
+      - Golden roof tiles
+      required: true
+    - id: 11
+      name: question_7
+      label: Which structure was built as a tomb for a pharaoh
+      hint: Select one answer
+      type: select_one
+      options:
+      - The Sphinx
+      - The Great Pyramid of Giza
+      - The Temple of Karnak
+      - The Valley of the Kings
+      required: true
+    - id: 12
+      name: question_8
+      label: Stonehenge is located in which country
+      hint: Select one answer
+      type: select_one
+      options:
+      - France
+      - Ireland
+      - England
+      - Scotland
+      required: true
+    - id: 13
+      name: question_9
+      label: What was the primary purpose of Roman aqueducts
+      hint: Select one answer
+      type: select_one
+      options:
+      - Military defense
+      - Water transportation
+      - Religious ceremonies
+      - Trade routes
+      required: true
+    - id: 14
+      name: question_10
+      label: Which ancient architectural style features torii gates
+      hint: Select one answer
+      type: select_one
+      options:
+      - Chinese
+      - Korean
+      - Japanese
+      - Vietnamese
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any thoughts about ancient architecture you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: difficulty_rating
+      label: How would you rate the difficulty of this quiz
+      hint: Your feedback helps us improve
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: false

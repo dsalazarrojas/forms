@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Youth Education Barriers Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: what_is_your_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: country_of_residence
+      label: what_country_do_you_live_in
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: what_is_your_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: education_status
+      label: what_is_your_education_status
+      hint: null
+      type: select_one
+      options:
+      - Not going to school
+      - Going to school
+      - Have a degree
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: language
+      label: which_language_do_you_speak
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: barriers_1
+      label: what_are_some_of_your_main_barriers_to_education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: barriers_2
+      label: what_other_barriers_do_you_experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: support_1
+      label: what_type_of_support_do_you_need
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Emotional
+      - Financial
+      - Social
+      - Academic
+      - Other (please specify)
+      required: true
+    - id: 10
+      name: support_2
+      label: where_do_you_expect_to_get_the_support
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Community
+      - Government
+      - Other (please specify)
+      required: true
+    - id: 11
+      name: other_support
+      label: other_types_of_support_do_you_need
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: conclusion
+      label: do_you_have_any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false

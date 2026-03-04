@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Reservation Request Form
+    pages:
+    - id: 1
+      name: reservation_request
+      label: Reservation request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Condo
+      required: true
+    - id: 3
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reservation_duration
+      label: Reservation duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: guest_count
+      label: Guest count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reservation_message
+      label: Reservation message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_manager_message
+      label: Property manager message
+      hint: null
+      type: text
+      options: []
+      required: false

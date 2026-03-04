@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breakup Recovery Reflection Form
+    pages:
+      - id: 1
+        name: first_name
+        label: First Name
+        hint: Your first name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: submission_date
+        label: Date of Reflection
+        hint: When are you completing this reflection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: time_since_breakup
+        label: How long ago did the breakup occur
+        hint: Select the time period
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-2 weeks
+          - 2-4 weeks
+          - 1-2 months
+          - 2-3 months
+          - 3-6 months
+          - 6-12 months
+          - Over 1 year
+        required: true
+      - id: 4
+        name: emotional_state
+        label: How are you feeling emotionally
+        hint: Rate your emotional state
+        type: select_one
+        options:
+          - 1 - Devastated
+          - 2 - Very sad
+          - 3 - Sad
+          - 4 - Okay
+          - 5 - Better
+          - 6 - Good
+          - 7 - Very good
+        required: true
+      - id: 5
+        name: processing_feelings
+        label: Have you been able to process your feelings
+        hint: Rate your progress
+        type: select_one
+        options:
+          - Not at all
+          - Minimally
+          - Somewhat
+          - Quite a bit
+          - Significantly
+          - Mostly complete
+          - Completely
+        required: true
+      - id: 6
+        name: support_received
+        label: Support System Throughout Recovery
+        hint: Select types of support you received
+        type: select_multiple
+        options:
+          - Family support
+          - Friends support
+          - Professional counseling
+          - Support group
+          - Online community
+          - Coaching
+          - Spiritual/religious support
+          - Self-support only
+        required: false
+      - id: 7
+        name: coping_strategies
+        label: Coping Strategies Used
+        hint: How have you coped with the breakup
+        type: select_multiple
+        options:
+          - Exercise
+          - Meditation or yoga
+          - Creative outlets
+          - Spending time with friends
+          - Professional help
+          - Journaling
+          - Travel or new experiences
+          - Self-care
+        required: false
+      - id: 8
+        name: personal_growth
+        label: Personal Growth Since the Breakup
+        hint: What have you learned about yourself
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: positive_changes
+        label: Positive Changes in Your Life
+        hint: Describe any improvements or changes
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: relationship_lessons
+        label: Lessons Learned About Relationships
+        hint: Insights from this experience
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: self_understanding
+        label: Better Understanding of Yourself
+        hint: How has your self-awareness increased
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: future_outlook
+        label: How do you feel about the future
+        hint: Your optimism about the future
+        type: select_one
+        options:
+          - Very pessimistic
+          - Pessimistic
+          - Neutral
+          - Hopeful
+          - Very hopeful
+        required: true
+      - id: 13
+        name: readiness_new_relationship
+        label: Are you ready for a new relationship
+        hint: Rate your readiness
+        type: select_one
+        options:
+          - Not ready at all
+          - Will need more time
+          - Somewhat ready
+          - Ready
+          - Very ready
+        required: false
+      - id: 14
+        name: remaining_challenges
+        label: Remaining Challenges
+        hint: What still feels difficult
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: closure_feelings
+        label: Do you feel you have closure
+        hint: Rate your sense of closure
+        type: select_one
+        options:
+          - No closure yet
+          - Some closure
+          - Partial closure
+          - Mostly closed
+          - Complete closure
+        required: true
+      - id: 16
+        name: contact_with_ex
+        label: Have you maintained contact with your ex
+        hint: Current status of contact
+        type: select_one
+        options:
+          - No contact
+          - Minimal contact
+          - Some contact
+          - Regular contact
+          - Unclear
+        required: false
+      - id: 17
+        name: advice_to_others
+        label: Advice You Would Give Others Going Through Breakup
+        hint: Your wisdom or guidance
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: next_steps
+        label: Your Next Steps in Recovery
+        hint: What will you focus on next
+        type: text
+        options: []
+        required: false

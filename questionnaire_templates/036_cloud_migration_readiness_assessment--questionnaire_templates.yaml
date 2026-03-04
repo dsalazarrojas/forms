@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Migration Readiness Assessment
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Company or department name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name of person completing assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_apps
+      label: -- Applications and Systems --
+      hint: Inventory of systems to migrate
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_applications
+      label: Total Number of Applications to Migrate
+      hint: How many apps need to move
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: migration_scope
+      label: Migration Scope
+      hint: null
+      type: select_one
+      options:
+      - All applications
+      - Specific applications only
+      - Phased migration
+      - Data only
+      - Infrastructure only
+      required: true
+    - id: 8
+      name: application_complexity
+      label: Overall Application Complexity
+      hint: null
+      type: select_one
+      options:
+      - Simple - web-based apps
+      - Moderate - mixed environment
+      - Complex - legacy systems
+      - Very complex - interconnected systems
+      required: true
+    - id: 9
+      name: total_data_volume
+      label: Total Data Volume to Migrate
+      hint: Size in GB or TB
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_infrastructure
+      label: -- Current Infrastructure --
+      hint: Your existing environment
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: infrastructure_type
+      label: Current Infrastructure Type
+      hint: null
+      type: select_one
+      options:
+      - Entirely on-premises
+      - Hybrid (on-premises and cloud)
+      - Multiple data centers
+      - Virtualized (VMware, Hyper-V)
+      - Containerized
+      - Mixed environments
+      required: true
+    - id: 12
+      name: current_cloud_usage
+      label: Current Cloud Usage
+      hint: What is already in cloud
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: backup_recovery_solution
+      label: Current Backup and Recovery Solution
+      hint: How you currently backup data
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_readiness
+      label: -- Readiness Assessment --
+      hint: Your organization's readiness level
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: executive_support
+      label: Executive Support for Migration
+      hint: null
+      type: select_one
+      options:
+      - Strong support
+      - Good support
+      - Neutral
+      - Limited support
+      - No support
+      required: true
+    - id: 16
+      name: budget_allocated
+      label: Budget Allocated for Migration
+      hint: null
+      type: select_one
+      options:
+      - Fully funded
+      - Partially funded
+      - Not funded
+      - Undecided
+      required: true
+    - id: 17
+      name: team_skills
+      label: IT Team Cloud Skills
+      hint: null
+      type: select_one
+      options:
+      - Advanced cloud expertise
+      - Moderate cloud skills
+      - Basic cloud knowledge
+      - Limited cloud experience
+      - No cloud experience
+      required: true
+    - id: 18
+      name: change_management
+      label: Change Management Capability
+      hint: null
+      type: select_one
+      options:
+      - Strong process
+      - Established process
+      - Basic process
+      - Limited process
+      - No formal process
+      required: true
+    - id: 19
+      name: section_challenges
+      label: -- Challenges and Constraints --
+      hint: Potential barriers to migration
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: key_challenges
+      label: Key Challenges for Migration
+      hint: null
+      type: select_multiple
+      options:
+      - Legacy system compatibility
+      - Data security concerns
+      - Compliance requirements
+      - Downtime risk
+      - Integration complexity
+      - Cost concerns
+      - Skills gap
+      - Vendor lock-in concerns
+      required: true
+    - id: 21
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - HIPAA
+      - GDPR
+      - PCI DSS
+      - SOC 2
+      - Industry-specific
+      - None
+      required: true
+    - id: 22
+      name: section_target
+      label: -- Target Cloud Environment --
+      hint: Where you want to migrate
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: target_cloud
+      label: Target Cloud Platform
+      hint: null
+      type: select_one
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Multi-cloud
+      - Undecided
+      required: true
+    - id: 24
+      name: target_model
+      label: Target Deployment Model
+      hint: null
+      type: select_one
+      options:
+      - Public cloud
+      - Private cloud
+      - Hybrid cloud
+      - Undecided
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

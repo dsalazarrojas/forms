@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Find The Best Beginner Program For You
+    pages:
+    - id: 1
+      name: find_the_best_beginner_program_for_you_page_1
+      label: What is your goal for this beginner program?
+      hint: null
+      type: select_one
+      options:
+      - Goal - Career Development
+      - Goal - Skill Development
+      - Goal - Fun and Leisure
+      required: false
+    - id: 2
+      name: find_the_best_beginner_program_for_you_page_2
+      label: What is your level of experience?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 3
+      name: find_the_best_beginner_program_for_you_page_3
+      label: How much time do you have available each week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: find_the_best_beginner_program_for_you_page_4
+      label: What is your preferred format of learning?
+      hint: null
+      type: select_multiple
+      options:
+      - Online Course
+      - Offline Course
+      - Online Community
+      - Video Tutorial
+      - Book
+      required: false
+    - id: 5
+      name: find_the_best_beginner_program_for_you_page_5
+      label: What type of program are you looking for?
+      hint: null
+      type: select_multiple
+      options:
+      - Program to learn a new skill
+      - Program to learn new techniques
+      - Program to improve your physical condition
+      - Program to improve your mental well-being
+      required: false
+    - id: 6
+      name: find_the_best_beginner_program_for_you_page_6
+      label: What is your preferred pace of learning?
+      hint: null
+      type: select_one
+      options:
+      - Fast
+      - Medium
+      - Slow
+      required: false
+    - id: 7
+      name: find_the_best_beginner_program_for_you_page_7
+      label: How many hours per week would you commit to learning?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: find_the_best_beginner_program_for_you_page_8
+      label: What are your expected results?
+      hint: null
+      type: select_multiple
+      options:
+      - Results - Physical improvements
+      - Results - Mental improvements
+      - Results - Social improvements
+      - Results - Professional improvements
+      required: false
+    - id: 9
+      name: find_the_best_beginner_program_for_you_page_9
+      label: Do you have any health concerns?
+      hint: null
+      type: select_one
+      options:
+      - -_goals - No
+      - Other
+      required: false
+    - id: 10
+      name: find_the_best_beginner_program_for_you_page_10
+      label: Do you require any special accommodations?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: find_the_best_beginner_program_for_you_page_11
+      label: Can you confirm?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Medicine Innovation Evaluation Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: background_page
+      label: background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_page
+      label: project
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: team_page
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: innovation_page
+      label: innovation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_page
+      label: evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: score_page
+      label: score
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments_page
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_page
+      label: submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_page
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

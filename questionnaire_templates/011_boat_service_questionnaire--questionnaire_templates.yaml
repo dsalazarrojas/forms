@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Service Questionnaire
+    pages:
+    - id: 1
+      name: boat_owner_name
+      label: Boat Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: boat_owner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: boat_owner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: boat_name
+      label: Boat Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: boat_manufacturer
+      label: Boat Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: boat_model
+      label: Boat Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: boat_year
+      label: Year of Manufacture
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: boat_length
+      label: Boat Length in Feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline Inboard
+      - Gasoline Outboard
+      - Diesel Inboard
+      - Diesel Outboard
+      - Electric
+      - Jet Drive
+      - Sailboat - No Engine
+      required: true
+    - id: 10
+      name: last_service_date
+      label: Date of Last Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: last_service_type
+      label: Type of Last Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_provider
+      label: Name of Last Service Provider
+      hint: Mechanic or marina
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: engine_hours
+      label: Current Engine Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: maintenance_schedule_adherence
+      label: How well do you follow maintenance schedule
+      hint: null
+      type: select_one
+      options:
+      - Always follow schedule
+      - Usually follow schedule
+      - Sometimes follow schedule
+      - Rarely follow schedule
+      - Never follow schedule
+      required: true
+    - id: 15
+      name: regular_maintenance_items
+      label: Regular Maintenance Performed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Oil and Filter Changes
+      - Fuel Filter Replacement
+      - Spark Plug Replacement
+      - Coolant Flush
+      - Transmission Fluid
+      - Battery Maintenance
+      - Hull Inspection
+      - Bottom Painting
+      - Propeller Service
+      - Engine Winterization
+      required: true
+    - id: 16
+      name: recent_issues
+      label: Any Recent Issues or Problems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: warranty_status
+      label: Boat Warranty Status
+      hint: null
+      type: select_one
+      options:
+      - Under Manufacturer Warranty
+      - Extended Warranty
+      - No Warranty
+      - Unsure
+      required: true
+    - id: 18
+      name: storage_location
+      label: Where is the boat typically stored
+      hint: null
+      type: select_one
+      options:
+      - In Water - Marina
+      - On Land - Dry Storage
+      - In Water - Private Dock
+      - On Mooring Ball
+      - At Home
+      - Seasonal Storage
+      required: true
+    - id: 19
+      name: annual_usage_hours
+      label: Estimated Annual Usage Hours
+      hint: Approximate hours per year
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: satisfaction_last_service
+      label: Satisfaction with Last Service
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 21
+      name: preferred_service_provider
+      label: Would you use the same service provider again
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Neutral
+      - Probably no
+      - false
+      required: true
+    - id: 22
+      name: service_improvements
+      label: Suggestions for Service Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_service_needs
+      label: What service do you need next
+      hint: null
+      type: text
+      options: []
+      required: false

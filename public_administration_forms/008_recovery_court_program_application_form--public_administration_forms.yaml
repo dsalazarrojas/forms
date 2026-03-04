@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recovery Court Program Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: court_order
+      label: court_order
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: program_services
+      label: program_services
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policy Impact Assessment Application Form
+    pages:
+    - id: 1
+      name: policy_impact_assessment
+      label: Policy Impact Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objective
+      label: Objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact
+      label: Policy Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stakeholders
+      label: Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: policy_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: policy_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submission By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

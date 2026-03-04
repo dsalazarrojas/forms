@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Dynamics Self Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Family Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: household_info
+      label: Household Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_relationships
+      label: Family Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Spouse
+      - Grandparent
+      - Sibling
+      - Child
+      required: false
+    - id: 4
+      name: communication_styles
+      label: Communication Styles
+      hint: Think about how you typically interact with each other
+      type: select_one
+      options:
+      - Avoidant
+      - Passive
+      - Assertive
+      - Aggressive
+      required: false
+    - id: 5
+      name: conflict_styles
+      label: Conflict Styles
+      hint: Consider a time when you disagreed with family members
+      type: select_one
+      options:
+      - Collaborative
+      - Avoidant
+      - Aggressive
+      - Passive
+      required: false
+    - id: 6
+      name: family_role
+      label: Family Roles
+      hint: Who performs which tasks and responsibilities
+      type: select_one
+      options:
+      - Primary Caregiver
+      - Secondary Caregiver
+      - Equal Share
+      required: false
+    - id: 7
+      name: family_values
+      label: Family Values
+      hint: What are the most important things in your family?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_goals
+      label: Family Goals
+      hint: What are the goals you want to achieve as a family?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communication_goals
+      label: Communication Goals
+      hint: What are the goals you want to achieve through communication?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: communication_challenges
+      label: Communication Challenges
+      hint: What challenges do you face in communicating with each other?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emotional_intelligence
+      label: Emotional Intelligence
+      hint: How do you handle emotions in your family?
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: problem_solving
+      label: Problem Solving
+      hint: How do you approach problems as a family?
+      type: select_one
+      options:
+      - Collaborative
+      - Dominant
+      - Avoidant
+      required: false
+    - id: 13
+      name: decision_making
+      label: Decision Making
+      hint: How do you make decisions in your family?
+      type: select_one
+      options:
+      - Collaborative
+      - Dominant
+      - Avoidant
+      required: false
+    - id: 14
+      name: family_dynamics
+      label: Family Dynamics
+      hint: How do you feel about your family dynamics?
+      type: select_one
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      - Undecided
+      required: false
+    - id: 15
+      name: family_stress
+      label: Family Stress
+      hint: What stresses you in your family?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: relationship_quality
+      label: Relationship Quality
+      hint: How would you rate your relationships in the family?
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      - Very bad
+      required: false
+    - id: 17
+      name: conclusion
+      label: Thank You!
+      hint: Thank you for taking this survey. Your responses are valuable to us.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_us
+      label: Contact Us
+      hint: If you have further questions, please contact us at [email address]
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about this survey?
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: family_history
+      label: Family History
+      hint: How long have you been together as a family?
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: family_size
+      label: Family Size
+      hint: How many people are in your family?
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: family_age
+      label: Family Age
+      hint: What is your current age?
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: family_income
+      label: Family Income
+      hint: What is your family's monthly income?
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: family_vehicles
+      label: Family Vehicles
+      hint: How many vehicles do you have in your family?
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: family_education
+      label: Family Education
+      hint: What is the highest level of education achieved in your family?
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Bachelor
+      - Graduate Degree
+      - Post-Graduate Degree
+      required: false
+    - id: 26
+      name: family_culture
+      label: Family Culture
+      hint: What are some of the core values that define your family culture?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: family_language
+      label: Family Language
+      hint: What language is spoken at home?
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: false
+    - id: 28
+      name: family_occupation
+      label: Family Occupation
+      hint: What are the primary occupations of family members?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: family_residence
+      label: Family Residence
+      hint: What type of accommodation do you use?
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Other
+      required: false

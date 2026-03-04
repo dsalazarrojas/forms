@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training And Behavior Questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_info_page
+      label: owner_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dog_info_page
+      label: dog_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_goals_page
+      label: training_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: behavior_questions_page
+      label: behavior_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: training_needs_page
+      label: training_needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: training_methods_page
+      label: training_methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: veterinary_info_page
+      label: veterinary_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_notes_page
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_page
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: veterinary_contact_page
+      label: veterinary_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: veterinary_agreement_page
+      label: veterinary_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: veterinary_notes_page
+      label: veterinary_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: training_agreement_page
+      label: training_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: additional_comments_page
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_comments_page
+      label: owner_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: veterinary_comments_page
+      label: veterinary_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_comments_page
+      label: medical_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: veterinary_certification_page
+      label: veterinary_certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: owner_certification_page
+      label: owner_certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: veterinary_signature_page
+      label: veterinary_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: owner_signature_page
+      label: owner_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: veterinarian_signature_page
+      label: veterinarian_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_page
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: form_completion_page
+      label: form_completion
+      hint: null
+      type: text
+      options: []
+      required: false

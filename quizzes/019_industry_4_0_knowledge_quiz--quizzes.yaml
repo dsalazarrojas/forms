@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industry 4.0 Knowledge Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: What_is_Industry_4_0
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: industry_4_0_concept
+      label: Industry_4_0_Key_Concepts
+      hint: null
+      type: select_one
+      options:
+      - Artificial_Intelligence
+      - Internet_of_Things
+      - Cyber_Physics_Systems
+      required: true
+    - id: 3
+      name: production_environment
+      label: Production_Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: production_environments_list
+      label: Production_Environments
+      hint: null
+      type: select_multiple
+      options:
+      - Factory
+      - Plant
+      - Warehouse
+      required: false
+    - id: 5
+      name: production_line
+      label: Production_Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_line_elements
+      label: Production_Line_Elements
+      hint: null
+      type: select_multiple
+      options:
+      - Machine
+      - Sensor
+      - Robot
+      required: true
+    - id: 7
+      name: work_in_progress
+      label: Work_In_Progress
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_in_workshop
+      label: Time_In_Workshop
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Add_your_notes_here
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Contact_Employee
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Contact_Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: production_line_length
+      label: Production_Line_Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: production_line_belt_size
+      label: Production_Line_Belt_Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: time_to_complete
+      label: Time_to_Complete
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: score
+      label: Your_Score
+      hint: null
+      type: select_one
+      options:
+      - 0-50
+      - 51-75
+      - 76-100
+      required: true
+    - id: 16
+      name: production_line_speed
+      label: Production_Line_Speed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: production_line_direction
+      label: Production_Line_Direction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: time_in_production
+      label: Time_In_Production
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: time_in_planning
+      label: Time_In_Planning
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: production_capacity
+      label: Production_Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: production_cost
+      label: Production_Cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: production_quality
+      label: Production_Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: production_time
+      label: Production_Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: production_date
+      label: Production_Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - Employee_1
+      - Employee_2
+      - Employee_3
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Audit Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - Property Inspection
+      - Condition Assessment
+      - Maintenance Inspection
+      required: false
+    - id: 3
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: building_id
+      label: Building Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: unit_id
+      label: Unit Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unit_name
+      label: Unit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: unit_address
+      label: Unit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: note
+      options: []
+      required: false

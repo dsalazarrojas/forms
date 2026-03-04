@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Practice Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learner_habits
+      label: learner_habits
+      hint: How often do learners practice language in a day?
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Several times a week''}'
+      - '{''label'': ''Almost every day''}'
+      required: false
+    - id: 3
+      name: progress_assess
+      label: progress_assess
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: challenge_assess
+      label: challenge_assess
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Grammar''}'
+      - '{''label'': ''Vocab''}'
+      - '{''label'': ''Pronunciation''}'
+      - '{''label'': ''Listening''}'
+      required: false
+    - id: 5
+      name: feedback_req
+      label: feedback_req
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_assess
+      label: support_assess
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Often''}'
+      required: false
+    - id: 7
+      name: teacher_input
+      label: teacher_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: learner_challenges
+      label: learner_challenges
+      hint: What are some common challenges learners face when practicing a language?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_challenges
+      label: teacher_challenges
+      hint: What are some common challenges teachers face when teaching a language?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support_provides
+      label: support_provides
+      hint: What kind of support do you provide to learners?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: learner_progress
+      label: learner_progress
+      hint: How do you measure learner progress?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_progress
+      label: teacher_progress
+      hint: How do you measure teacher progress?
+      type: text
+      options: []
+      required: false

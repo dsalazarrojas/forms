@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Preference Quiz
+    pages:
+    - id: 1
+      name: plant_preference_quiz
+      label: Plant Preference Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Flower
+      - Succulent
+      - Other
+      required: true
+    - id: 3
+      name: plant_type
+      label: plant-type
+      hint: null
+      type: select_multiple
+      options:
+      - Indoor
+      - Outdoor
+      - Both
+      - None
+      required: true
+    - id: 4
+      name: size
+      label: plant-size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: true
+    - id: 5
+      name: plant_color
+      label: plant-color
+      hint: null
+      type: select_multiple
+      options:
+      - Green
+      - Red
+      - Blue
+      - Purple
+      - Pink
+      - Yellow
+      - None
+      required: true
+    - id: 6
+      name: price_range
+      label: price-range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: plant_frequency
+      label: plant-frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 8
+      name: communication_channels
+      label: communication-channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      - Social Media
+      - None
+      required: true
+    - id: 9
+      name: preferred_plant
+      label: preferred-plant
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: house_type
+      label: house-type
+      hint: null
+      type: select_one
+      options:
+      - Condo
+      - Apartment
+      - House
+      - Other
+      required: true
+    - id: 11
+      name: plant_purpose
+      label: plant-purpose
+      hint: null
+      type: select_one
+      options:
+      - Decoration
+      - Meditation
+      - Health
+      - Hobby
+      - Other
+      required: true
+    - id: 12
+      name: recommended_plant
+      label: recommended-plant
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: quiz_completed
+      label: quiz-completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: quiz_completed_at
+      label: quiz-completed-at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: quiz_completed_at_2
+      label: quiz-completed-at-2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: user_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: user_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_info
+      label: additional-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: quiz_completed_at_3
+      label: quiz-completed-at-3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: quiz_completed_at_4
+      label: quiz-completed-at-4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: quiz_completed_at_5
+      label: quiz-completed-at-5
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: quiz_completed_at_6
+      label: quiz-completed-at-6
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: quiz_completed_at_7
+      label: quiz-completed-at-7
+      hint: null
+      type: date
+      options: []
+      required: false

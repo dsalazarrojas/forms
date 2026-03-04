@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Opinion On Law Enforcement
+    pages:
+    - id: 1
+      name: survey_title
+      label: Public Opinion On Law Enforcement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trust_level
+      label: trust_levels
+      hint: null
+      type: select_multiple
+      options:
+      - Trust
+      - Distrust
+      - Neutral
+      - Undecided
+      required: true
+    - id: 3
+      name: safety_level
+      label: safety_levels
+      hint: null
+      type: select_multiple
+      options:
+      - Very Safe
+      - Somewhat Safe
+      - Somewhat Not Safe
+      - Not Safe At All
+      required: true
+    - id: 4
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_other
+      label: contact_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_review
+      label: submission_review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: submission_ip
+      label: submission_ip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_ip
+      label: submitter_ip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_agreement
+      label: submitter_agreement
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 19
+      name: submission_ip_location
+      label: submission_ip_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_agreement_comments
+      label: submitter_agreement_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_agreement_other
+      label: submitter_agreement_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_agreement_other_notes
+      label: submitter_agreement_other_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_agreement_agree
+      label: submitter_agreement_agree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_agreement_disagree
+      label: submitter_agreement_disagree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_agreement_undecided
+      label: submitter_agreement_undecided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: submitter_agreement_neutral
+      label: submitter_agreement_neutral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: submitter_agreement_comments
+      label: submitter_agreement_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: submitter_agreement_other_comments
+      label: submitter_agreement_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: submitter_agreement_notes
+      label: submitter_agreement_notes
+      hint: null
+      type: text
+      options: []
+      required: false

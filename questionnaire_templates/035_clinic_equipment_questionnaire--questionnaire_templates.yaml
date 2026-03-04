@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinic Equipment Questionnaire
+    pages:
+    - id: 1
+      name: clinic_section
+      label: -- Clinic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Clinic Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: clinic_type
+      label: Type of Clinic
+      hint: null
+      type: select_one
+      options:
+      - Hospital clinic
+      - Standalone clinic
+      - Community health center
+      - Private practice
+      - Specialty clinic
+      - Other
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_section
+      label: -- Equipment Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_equipment
+      label: Primary types of medical equipment used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diagnostic equipment
+      - Imaging equipment
+      - Monitoring equipment
+      - Surgical equipment
+      - Laboratory equipment
+      - Treatment equipment
+      - Support equipment
+      - Other
+      required: true
+    - id: 10
+      name: equipment_age
+      label: Age of equipment (average)
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 years
+      - 2-5 years
+      - 5-10 years
+      - 10-15 years
+      - More than 15 years
+      required: false
+    - id: 11
+      name: maintenance_section
+      label: -- Maintenance and Servicing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_schedule
+      label: Equipment maintenance schedule
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - As needed
+      - No schedule
+      required: true
+    - id: 13
+      name: maintenance_provider
+      label: Who performs maintenance?
+      hint: null
+      type: select_one
+      options:
+      - In-house staff
+      - External service provider
+      - Manufacturer service
+      - Mixed
+      required: true
+    - id: 14
+      name: maintenance_costs
+      label: Annual maintenance costs
+      hint: Approximate
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: compliance_section
+      label: -- Compliance and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: certification_status
+      label: Equipment certification status
+      hint: null
+      type: select_one
+      options:
+      - All certified
+      - Mostly certified
+      - Partially certified
+      - Not certified
+      - Unknown
+      required: true
+    - id: 17
+      name: safety_concerns
+      label: Any current safety concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_section
+      label: -- Staff Training --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: staff_training
+      label: Staff trained on equipment operation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 20
+      name: training_frequency
+      label: Training frequency
+      hint: null
+      type: select_one
+      options:
+      - Annual
+      - Biennial
+      - Every 3 years
+      - As needed
+      - No scheduled training
+      required: false
+    - id: 21
+      name: needs_section
+      label: -- Future Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: equipment_needs
+      label: Equipment needs for next 2-3 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: budget_available
+      label: Budget available for equipment upgrades
+      hint: null
+      type: number
+      options: []
+      required: false

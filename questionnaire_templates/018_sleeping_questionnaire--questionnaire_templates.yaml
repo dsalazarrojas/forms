@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sleeping Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sleep_issues
+      label: Sleep Issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sleep_duration
+      label: How long do you sleep at night?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 hours
+      - 3-5 hours
+      - 5-7 hours
+      - 7-9 hours
+      - More than 9 hours
+      required: true
+    - id: 4
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sleep_timesleep_wake
+      label: Sleep Timesleep Wake
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: wake_timesleep_duration
+      label: Wake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sleep_timesleep_frequency
+      label: Sleep Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Every other day
+      - 3 to 4 times a week
+      - 2 times a month
+      - Never
+      required: true
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_symptoms
+      label: Other Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false

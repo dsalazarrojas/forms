@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthy Habits Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Required phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: how_do_you_take_care_of_your_self_care
+      label: How prophets do you take care of your self care
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: what_are_your_daily_goals
+      label: What are your daily goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: do_you_practice_exercise
+      label: Do you practice exercise
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 8
+      name: how_often_do_you_practice_exercise
+      label: How often do you practice exercise
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Weekly''}'
+      - '{''option3'': ''Monthly''}'
+      required: true
+    - id: 9
+      name: do_you_follow_a_diet
+      label: Do you follow a diet
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 10
+      name: how_often_do_you_follow_a_diet
+      label: How often do you follow a diet
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Rarely''}'
+      - '{''option2'': ''Occasionally''}'
+      - '{''option3'': ''Often''}'
+      required: false
+    - id: 11
+      name: do_you_practice_meditation
+      label: Do you practice meditation
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 12
+      name: how_often_do_you_practice_meditation
+      label: How often do you practice meditation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Weekly''}'
+      - '{''option3'': ''Monthly''}'
+      required: false
+    - id: 13
+      name: do_you_smoke
+      label: Do you smoke
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 14
+      name: how_often_do_you_smoke
+      label: How often do you smoke
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Occasionally''}'
+      - '{''option3'': ''Rarely''}'
+      required: false
+    - id: 15
+      name: do_you_drink_alcohol
+      label: Do you drink alcohol
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 16
+      name: how_often_do_you_prophets_smoke
+      label: How often do you smoke alcohol
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Occasionally''}'
+      - '{''option3'': ''Rarely''}'
+      required: false
+    - id: 17
+      name: do_you_drink_water
+      label: Do you drink water
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 18
+      name: do_you_eat
+      label: Do you eat fruits and veggies
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 19
+      name: how_often_do_you_eat_fruits_and_veggies
+      label: How often do you eat fruits and veggies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Occasionally''}'
+      - '{''option3'': ''Rarely''}'
+      required: true
+    - id: 20
+      name: do_you_spend_time_outside
+      label: Do you spend time outside
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 21
+      name: how_much_time_do_you_spend_outside
+      label: How much time do you spend outside
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: do_you_follow_a_fitness_program
+      label: Do you follow a fitness program
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 23
+      name: how_often_do_you_follow_a_fitness_program
+      label: How often do you follow a fitness program
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Daily''}'
+      - '{''option2'': ''Occasionally''}'
+      - '{''option3'': ''Rarely''}'
+      required: false
+    - id: 24
+      name: do_you_practice_mindfulness
+      label: Do you practice mindfulness
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 25
+      name: how_much_do_you_sleep
+      label: How many hours do you sleep
+      hint: null
+      type: number
+      options: []
+      required: true

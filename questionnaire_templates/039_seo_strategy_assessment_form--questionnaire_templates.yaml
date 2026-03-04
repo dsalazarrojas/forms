@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: SEO Strategy Assessment Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: keyword_page
+      label: What Keywords
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: search_page
+      label: Current Search Engine Visibility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: discovery_page
+      label: Discovery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_page
+      label: Current Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: strategy_page
+      label: Recommended Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: next_steps_page
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: review_page
+      label: Final Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_notes_page
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info_page
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: review_page
+      label: Review and Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

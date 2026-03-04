@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Workforce Diversity Employment Analysis
+    pages:
+    - id: 1
+      name: employee_diversity
+      label: Employee Diversity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_category
+      label: Job Category
+      hint: This field is required
+      type: select_one
+      options:
+      - '{''value'': ''A'', ''text'': ''A''}'
+      - '{''value'': ''B'', ''text'': ''B''}'
+      - '{''value'': ''C'', ''text'': ''C''}'
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_grade
+      label: Job Grade
+      hint: Select only numbers 1, 2, or 3
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''text'': ''1''}'
+      - '{''value'': ''2'', ''text'': ''2''}'
+      - '{''value'': ''3'', ''text'': ''3''}'
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: job_start_date
+      label: Job Start Date
+      hint: YYYY-MM-YYYY
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_end_date
+      label: Job End Date
+      hint: YYYY-MM-YYYY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''M'', ''text'': ''Male''}'
+      - '{''value'': ''F'', ''text'': ''Female''}'
+      - '{''value'': ''O'', ''text'': ''Other''}'
+      required: false
+    - id: 12
+      name: age
+      label: Age
+      hint: Age in years
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_performance
+      label: Job Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: diversity_awareness
+      label: Diversity Awareness
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: work_life_balance
+      label: Work-Life Balance
+      hint: Select only one option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: work_satisfaction
+      label: Work Satisfaction
+      hint: Select only one option
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 18
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: Select only one option
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 19
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: Select only one option
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 20
+      name: employee_awareness
+      label: Employee Awareness
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: job_awareness
+      label: Job Awareness
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: job_diversity_commitment
+      label: Job Diversity Commitment
+      hint: Select only one option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: department_awareness
+      label: Department Awareness
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: job_security
+      label: Job Security
+      hint: Select only one option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: diversity_inclusion
+      label: Diversity Inclusion
+      hint: null
+      type: text
+      options: []
+      required: false

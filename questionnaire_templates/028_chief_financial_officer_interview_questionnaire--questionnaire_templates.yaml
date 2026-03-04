@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chief Financial Officer Interview Questionnaire
+    pages:
+      - id: 1
+        name: interview_intro
+        label: -- CFO Interview Questionnaire --
+        hint: Evaluate candidate responses for Chief Financial Officer position
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: interview_date
+        label: Interview date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: interviewer_name
+        label: Interviewer name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: candidate_name
+        label: Candidate name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: candidate_email
+        label: Candidate email
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 6
+        name: position_applied
+        label: Position applied for
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: interview_round
+        label: Interview round
+        hint: null
+        type: select_one
+        options:
+          - First round
+          - Second round
+          - Final round
+          - Screening
+        required: true
+      - id: 8
+        name: financial_expertise
+        label: Rate financial management expertise
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below average
+          - 3 - Average
+          - 4 - Above average
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: strategic_thinking
+        label: Rate strategic thinking ability
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below average
+          - 3 - Average
+          - 4 - Above average
+          - 5 - Excellent
+        required: true
+      - id: 10
+        name: communication_skills
+        label: Rate communication and presentation skills
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below average
+          - 3 - Average
+          - 4 - Above average
+          - 5 - Excellent
+        required: true
+      - id: 11
+        name: leadership_potential
+        label: Rate leadership and team management potential
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below average
+          - 3 - Average
+          - 4 - Above average
+          - 5 - Excellent
+        required: true
+      - id: 12
+        name: problem_solving
+        label: Rate problem-solving and analytical skills
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Below average
+          - 3 - Average
+          - 4 - Above average
+          - 5 - Excellent
+        required: true
+      - id: 13
+        name: budget_management
+        label: Experience with budget management and forecasting
+        hint: null
+        type: select_one
+        options:
+          - Very limited
+          - Moderate
+          - Significant
+          - Extensive
+        required: true
+      - id: 14
+        name: audit_compliance
+        label: Understanding of audit and compliance requirements
+        hint: null
+        type: select_one
+        options:
+          - Minimal
+          - Basic
+          - Solid
+          - Expert
+        required: true
+      - id: 15
+        name: technology_knowledge
+        label: Knowledge of financial technology and systems
+        hint: null
+        type: select_one
+        options:
+          - Limited
+          - Moderate
+          - Good
+          - Excellent
+        required: true
+      - id: 16
+        name: strongest_area
+        label: Candidate's strongest area
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: improvement_area
+        label: Area requiring development
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: fit_assessment
+        label: Overall fit for the organization
+        hint: null
+        type: select_one
+        options:
+          - Poor fit
+          - Acceptable fit
+          - Good fit
+          - Excellent fit
+        required: true
+      - id: 19
+        name: compensation_alignment
+        label: Salary expectations align with budget
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Needs negotiation
+          - Unknown
+        required: true
+      - id: 20
+        name: recommendation
+        label: Interview recommendation
+        hint: null
+        type: select_one
+        options:
+          - Strong reject
+          - Reject
+          - Consider
+          - Recommend
+          - Strong recommend
+        required: true
+      - id: 21
+        name: additional_comments
+        label: Additional comments or notes
+        hint: null
+        type: text
+        options: []
+        required: false

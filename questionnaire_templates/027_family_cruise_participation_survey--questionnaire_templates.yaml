@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Cruise Participation Survey
+    pages:
+    - id: 1
+      name: headcount
+      label: Headcount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: special_needs
+      label: Special Needs
+      hint: Please specify any medical or disability needs
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: travel_preferences
+      label: Travel Preferences
+      hint: null
+      type: select_one
+      options:
+      - 9am-10am
+      - 10am-11am
+      - 11am-12pm
+      required: false
+    - id: 5
+      name: cabin_choice
+      label: Cabin Choice
+      hint: Please select preferred cabin type
+      type: select_multiple
+      options:
+      - Standard
+      - Deluxe
+      required: false
+    - id: 6
+      name: headcount_confirmed
+      label: Headcount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: special_needs_confirmed
+      label: Special Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

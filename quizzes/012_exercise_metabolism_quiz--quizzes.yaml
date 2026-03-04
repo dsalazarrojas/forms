@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exercise Metabolism Quiz
+    pages:
+    - id: 1
+      name: user_input_1
+      label: What is your primary exercise type?
+      hint: null
+      type: select_one
+      options:
+      - Endurance
+      - HIIT
+      - Strength
+      - Flexibility
+      - Balance
+      required: true
+    - id: 2
+      name: user_input_2
+      label: On average, how many days do you exercise per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: user_input_3
+      label: What is your age group?
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Child
+      - Elderly
+      required: true
+    - id: 4
+      name: user_input_4
+      label: What is your fitness goal?
+      hint: null
+      type: select_one
+      options:
+      - Weight loss
+      - Weight gain
+      - Strength
+      - Endurance
+      - Flexibility
+      - Balance
+      - Other
+      required: true
+    - id: 5
+      name: user_input_5
+      label: What is your body fat percentage range?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_input_6
+      label: Do you have any health conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart condition
+      - Respiratory condition
+      - Other
+      required: false
+    - id: 7
+      name: user_input_7
+      label: What is your resting heart rate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_input_8
+      label: Do you smoke?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: user_input_9
+      label: How would you describe your current activity level?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: user_input_10
+      label: On average, how many hours do you exercise per week?
+      hint: null
+      type: number
+      options: []
+      required: false

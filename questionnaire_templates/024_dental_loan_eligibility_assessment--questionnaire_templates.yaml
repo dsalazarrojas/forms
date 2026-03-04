@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Loan Eligibility Assessment
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_details
+      label: Loan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 12 months
+      - 24 months
+      - 36 months
+      - 48 months
+      - 60 months
+      - 72 months
+      required: false
+    - id: 6
+      name: loan_frequency
+      label: Loan Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One-time
+      - Ongoing
+      - Both
+      required: false
+    - id: 7
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: select_one
+      options:
+      - Financing for dental work only
+      - Financing for dental and other medical expenses
+      - Financing for other
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Denied
+      - Approved
+      - Pending
+      required: false

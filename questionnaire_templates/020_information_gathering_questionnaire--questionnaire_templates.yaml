@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Gathering Questionnaire
+    pages:
+    - id: 1
+      name: audience_insights
+      label: Audience Insights
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_feedback
+      label: Satisfaction Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

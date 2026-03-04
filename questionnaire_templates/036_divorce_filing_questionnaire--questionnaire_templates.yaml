@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Divorce Filing Questionnaire
+    pages:
+    - id: 1
+      name: divorce_filing_info
+      label: divorce_filing_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filing_court
+      label: filing_court
+      hint: null
+      type: select_one
+      options:
+      - Court of Common Pleas
+      - Federal Bankruptcy Court
+      - other
+      required: false
+    - id: 3
+      name: filing_type
+      label: filing_type
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Limited
+      - Special
+      required: false
+    - id: 4
+      name: joint_property
+      label: joint_property
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: divorce_date
+      label: divorce_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: divorce_time
+      label: divorce_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: spouse1_name
+      label: spouse1_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spouse1_address
+      label: spouse1_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: spouse1_phone
+      label: spouse1_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spouse2_name
+      label: spouse2_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spouse2_address
+      label: spouse2_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: spouse2_phone
+      label: spouse2_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Separated
+      - Divorced
+      - Never Married
+      required: false
+    - id: 14
+      name: children
+      label: children
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: children_details
+      label: children_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property
+      label: property
+      hint: null
+      type: select_multiple
+      options:
+      - Joint
+      - Separate
+      - Community
+      required: false
+    - id: 17
+      name: custody
+      label: custody
+      hint: null
+      type: select_multiple
+      options:
+      - Joint
+      - Sole
+      - Split
+      required: false
+    - id: 18
+      name: alimony
+      label: alimony
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: alimony_amount
+      label: alimony_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: divorce_documentation
+      label: divorce_documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: divorce_documentation_type
+      label: divorce_documentation
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Uncontested
+      - Default
+      required: false
+    - id: 22
+      name: court_order
+      label: court_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_court_orders
+      label: other_court_orders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_court_orders_details
+      label: other_court_orders_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: divorce_filing_fee
+      label: divorce_filing_fee
+      hint: null
+      type: select_one
+      options:
+      - $2500
+      - $5000
+      - Other
+      required: false
+    - id: 26
+      name: divorce_filing_fee_details
+      label: divorce_filing_fee_details
+      hint: null
+      type: text
+      options: []
+      required: false

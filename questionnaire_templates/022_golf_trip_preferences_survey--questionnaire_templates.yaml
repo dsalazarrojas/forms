@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golf Trip Preferences Survey
+    pages:
+    - id: 1
+      name: trip_preferences_form_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_preferences_form_2
+      label: Golf Trip Preferences
+      hint: null
+      type: select_one
+      options:
+      - Select a preference for the golf trip
+      - Other
+      required: false
+    - id: 3
+      name: travel_dates
+      label: When would you like to travel?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_time
+      label: At what time of day would you like to travel?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: travel_location
+      label: What is your preferred location for the golf trip?
+      hint: null
+      type: select_multiple
+      options:
+      - Mountain
+      - Ocean
+      - City
+      required: false
+    - id: 6
+      name: budget_range
+      label: What is your budget for the golf trip?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_players
+      label: Number of players?
+      hint: Please enter a whole number.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: golf_club_preferences
+      label: What golf clubs would you like to play at?
+      hint: null
+      type: select_multiple
+      options:
+      - Gulf Club 1, Gulf Club 2, Golf Club 3
+      - Other
+      required: false
+    - id: 9
+      name: special_request
+      label: Is there anything special we should know about your trip?
+      hint: Please be as specific as possible to help us tailor your golf trip.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: travel_dates_2
+      label: When would you like to travel 2
+      hint: null
+      type: select_multiple
+      options:
+      - 1st week of April, 2nd week of April, 3rd week of April
+      - Other
+      required: false
+    - id: 14
+      name: travel_time_2
+      label: At what time of day 2
+      hint: null
+      type: select_multiple
+      options:
+      - Morning, Afternoon, Evening
+      - Other
+      required: false

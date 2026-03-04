@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Country Culture Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - en
+      - fr
+      - es
+      required: true
+    - id: 6
+      name: quiz_type
+      label: quiz type
+      hint: null
+      type: select_multiple
+      options:
+      - fun
+      - serious
+      - both
+      required: true
+    - id: 7
+      name: time_zone
+      label: time zone
+      hint: null
+      type: select_one
+      options:
+      - utc
+      - central
+      - eastern
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: first_page
+      label: first page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: country_of_origin
+      label: country of origin
+      hint: null
+      type: select_one
+      options:
+      - china
+      - usa
+      - japan
+      required: false
+    - id: 14
+      name: language_of_culture
+      label: language of culture
+      hint: null
+      type: select_one
+      options:
+      - english
+      - french
+      - spanish
+      required: false
+    - id: 15
+      name: cultural_level
+      label: cultural level
+      hint: null
+      type: select_multiple
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: true
+    - id: 16
+      name: form_id
+      label: form id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_name
+      label: form name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_version
+      label: form version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_description
+      label: form description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_category
+      label: form category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_tags
+      label: form tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_created_at
+      label: form created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_updated_at
+      label: form updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: form_submitted_by
+      label: form submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_at
+      label: form submitted at
+      hint: null
+      type: date
+      options: []
+      required: false

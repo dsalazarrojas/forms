@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trauma Exposure And Impact Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trauma_questions
+      label: trauma_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trauma_score
+      label: trauma_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: support_needs
+      label: support_needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: daily_living
+      label: daily_living
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: daily_living_score
+      label: daily_living_score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emotional_reactions
+      label: emotional_reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coping_strategies
+      label: coping_strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: impact_score
+      label: impact_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: impact
+      label: impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

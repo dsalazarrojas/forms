@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: early_pregnancy_self_referral_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_last_period
+      label: Date Of Last Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: gestational_age
+      label: Gestational Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_expected_delivery
+      label: Date Of Expected Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Pregnancy
+      - High Risk
+      - Multiple Pregnancy
+      - Other Condition
+      required: false
+    - id: 6
+      name: symptoms
+      label: Symptoms
+      hint: List all your symptoms
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Folate
+      - Other
+      required: false
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Other
+      required: false
+    - id: 10
+      name: medical_contact
+      label: Medical Contact
+      hint: null
+      type: text
+      options: []
+      required: false

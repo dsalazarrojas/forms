@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: university-research-chemicals-order-form-template
+    pages:
+    - id: 1
+      name: chemicals_ordered
+      label: ordered_chemicals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: lab_contact
+      label: lab_contact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: lab_id
+      label: lab_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_manager_id
+      label: purchase_manager_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: chemical_requested
+      label: chemical_requested
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: chemical_quantity
+      label: chemical_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_amount
+      label: order_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: chemical_supplier
+      label: chemical_supplier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: routing_status
+      label: routing_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: purchase_manager_name
+      label: purchase_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: purchase_manager_title
+      label: purchase_manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: lab_name
+      label: lab_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lab_department
+      label: lab_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false

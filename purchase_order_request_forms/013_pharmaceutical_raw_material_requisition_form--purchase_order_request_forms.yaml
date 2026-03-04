@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Raw Material Requisition Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requested_material
+      label: Requested Material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: routing_status
+      label: Routing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_department
+      label: Customer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: route_to
+      label: Route To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: remarks_1
+      label: Remarks 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: material_status
+      label: Material Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: material_id
+      label: Material Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: quantity_received
+      label: Quantity Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: quantity_requisitioned
+      label: Requisitioned Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: remarks_2
+      label: Remarks 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: material_requisitioned
+      label: Requisitioned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: date_ship
+      label: Date Ship
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: remarks_3
+      label: Remarks 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: shipper
+      label: Shipper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: remarks_4
+      label: Remarks 4
+      hint: null
+      type: note
+      options: []
+      required: false

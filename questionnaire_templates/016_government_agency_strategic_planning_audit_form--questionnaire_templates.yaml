@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Agency Strategic Planning Audit Form
+    pages:
+    - id: 1
+      name: agency_location
+      label: Agency Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agency_type
+      label: Agency Type
+      hint: null
+      type: select_one
+      options:
+      - Government Agency
+      - Non-Profit
+      - Other
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: strategic_plan
+      label: Strategic Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: plan_start_date
+      label: Plan Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: plan_end_date
+      label: Plan End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: audit_frequency
+      label: Audit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-Annual
+      - Annually
+      required: false
+    - id: 10
+      name: last_audit_date
+      label: Last Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_audit_scheduled_date
+      label: Next Audit Scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 13
+      name: areas_for_improvement
+      label: Areas For Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_due_date
+      label: Follow-up Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: audit_result
+      label: Audit Result
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Pending
+      required: false
+    - id: 21
+      name: final_notes
+      label: Final Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overall_risk_rating
+      label: Overall Risk Rating
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 23
+      name: risk_area
+      label: Risk Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: text
+      options: []
+      required: false

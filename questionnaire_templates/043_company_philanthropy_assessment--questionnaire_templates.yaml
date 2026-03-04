@@ -1,0 +1,431 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Philanthropy Assessment
+    pages:
+      - id: 1
+        name: company_name
+        label: Company Name
+        hint: Full company name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_title
+        label: Your Title
+        hint: Position
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: respondent_email
+        label: Email Address
+        hint: Company email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Executive
+          - Corporate Social Responsibility
+          - Human Resources
+          - Marketing
+          - Finance
+          - Operations
+          - Other
+        required: true
+      - id: 6
+        name: company_size
+        label: Company Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - 1-50 employees
+          - 51-200 employees
+          - 201-500 employees
+          - 501-1000 employees
+          - 1001-5000 employees
+          - 5000+ employees
+        required: true
+      - id: 7
+        name: industry
+        label: Industry
+        hint: Your industry
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Manufacturing
+          - Retail
+          - Energy
+          - Consumer Goods
+          - Services
+          - Other
+        required: true
+      - id: 8
+        name: section_current_giving
+        label: -- Current Giving Practices --
+        hint: Your giving programs
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: has_formal_program
+        label: Does your company have a formal philanthropy program?
+        hint: Program status
+        type: select_one
+        options:
+          - Yes, well-established
+          - Yes, but informal
+          - No, but planning one
+          - No, not currently
+        required: true
+      - id: 10
+        name: years_of_program
+        label: How long has the program existed?
+        hint: Program age
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 4-10 years
+          - Over 10 years
+          - Not applicable
+        required: false
+      - id: 11
+        name: annual_giving_budget
+        label: What is your approximate annual giving budget?
+        hint: Budget range
+        type: select_one
+        options:
+          - Under $10,000
+          - $10,000-$50,000
+          - $50,001-$100,000
+          - $100,001-$500,000
+          - $500,001-$1 million
+          - Over $1 million
+          - Not sure
+        required: false
+      - id: 12
+        name: giving_as_percentage
+        label: What percentage of revenue is allocated to giving?
+        hint: Percentage
+        type: select_one
+        options:
+          - Less than 0.1%
+          - 0.1%-0.5%
+          - 0.5%-1%
+          - 1%-2%
+          - Over 2%
+          - Not sure
+        required: false
+      - id: 13
+        name: section_focus_areas
+        label: -- Focus Areas --
+        hint: Your giving priorities
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: current_focus_areas
+        label: What causes does your company currently support?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Education
+          - Healthcare
+          - Environment
+          - Poverty alleviation
+          - Arts and culture
+          - Animal welfare
+          - Disaster relief
+          - Community development
+          - Youth programs
+          - Senior services
+          - Diversity and inclusion
+          - Other
+        required: false
+      - id: 15
+        name: primary_focus
+        label: What is your primary focus area?
+        hint: Main cause
+        type: select_one
+        options:
+          - Education
+          - Healthcare
+          - Environment
+          - Poverty alleviation
+          - Arts and culture
+          - Animal welfare
+          - Disaster relief
+          - Community development
+          - Youth programs
+          - Senior services
+          - Diversity and inclusion
+          - Other
+        required: false
+      - id: 16
+        name: focus_area_selection
+        label: How are focus areas determined?
+        hint: Selection process
+        type: select_one
+        options:
+          - Executive decision
+          - Employee input
+          - Community needs assessment
+          - Board recommendation
+          - Alignment with business values
+          - Other
+        required: false
+      - id: 17
+        name: section_giving_methods
+        label: -- Giving Methods --
+        hint: How you give
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: giving_methods
+        label: What methods of giving does your company use?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Direct cash donations
+          - Grants to nonprofits
+          - Employee matching gifts
+          - In-kind donations
+          - Volunteer time off
+          - Pro bono services
+          - Product donations
+          - Scholarship programs
+          - Other
+        required: false
+      - id: 19
+        name: employee_matching
+        label: Does your company offer employee matching gifts?
+        hint: Matching program
+        type: select_one
+        options:
+          - Yes, dollar-for-dollar
+          - Yes, partial match
+          - No, but considering
+          - No
+        required: false
+      - id: 20
+        name: match_limit
+        label: What is the annual match limit per employee?
+        hint: Match cap
+        type: select_one
+        options:
+          - No limit
+          - Up to $100
+          - $101-$500
+          - $501-$1,000
+          - $1,001-$5,000
+          - Over $5,000
+          - Not applicable
+        required: false
+      - id: 21
+        name: section_volunteer
+        label: -- Employee Volunteering --
+        hint: Volunteer programs
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: has_volunteer_program
+        label: Does your company have an employee volunteer program?
+        hint: Volunteer status
+        type: select_one
+        options:
+          - Yes, formal program
+          - Yes, informal
+          - No, but planning
+          - No
+        required: false
+      - id: 23
+        name: volunteer_time_off
+        label: Do employees get paid time off for volunteering?
+        hint: VTO policy
+        type: select_one
+        options:
+          - Yes, unlimited
+          - Yes, up to 40 hours/year
+          - Yes, up to 24 hours/year
+          - Yes, up to 8 hours/year
+          - No
+        required: false
+      - id: 24
+        name: employee_participation
+        label: What percentage of employees participate?
+        hint: Participation rate
+        type: select_one
+        options:
+          - Over 75%
+          - 50%-75%
+          - 25%-49%
+          - 10%-24%
+          - Under 10%
+          - Not sure
+        required: false
+      - id: 25
+        name: section_impact
+        label: -- Impact Measurement --
+        hint: Measuring outcomes
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: tracks_impact
+        label: Does your company track the impact of giving?
+        hint: Impact tracking
+        type: select_one
+        options:
+          - Yes, comprehensively
+          - Yes, partially
+          - No, but planning to
+          - No
+        required: false
+      - id: 27
+        name: metrics_tracked
+        label: What metrics do you track?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Dollars donated
+          - Volunteer hours
+          - Beneficiaries served
+          - Employee engagement
+          - Community impact
+          - Brand perception
+          - Other
+        required: false
+      - id: 28
+        name: reports_impact
+        label: Do you publish an impact report?
+        hint: Reporting
+        type: select_one
+        options:
+          - Yes, annually
+          - Yes, bi-annually
+          - Yes, occasionally
+          - No
+        required: false
+      - id: 29
+        name: section_partnerships
+        label: -- Partnerships --
+        hint: Partner organizations
+        type: note
+        options: []
+        required: false
+      - id: 30
+        name: nonprofit_partnerships
+        label: How many nonprofit partners do you work with?
+        hint: Number of partners
+        type: select_one
+        options:
+          - 1-5
+          - 6-10
+          - 11-20
+          - 21-50
+          - Over 50
+          - None
+        required: false
+      - id: 31
+        name: partnership_selection
+        label: How do you select nonprofit partners?
+        hint: Selection criteria
+        type: select_one
+        options:
+          - Formal application process
+          - Recommendations
+          - Existing relationships
+          - Community reputation
+          - Alignment with values
+          - Other
+        required: false
+      - id: 32
+        name: section_goals
+        label: -- Goals and Aspirations --
+        hint: Future plans
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: satisfaction_level
+        label: How satisfied are you with current philanthropy efforts?
+        hint: Satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: false
+      - id: 34
+        name: improvement_areas
+        label: What areas need improvement?
+        hint: Improvement priorities
+        type: select_multiple
+        options:
+          - Increase budget
+          - Expand focus areas
+          - Improve impact measurement
+          - Increase employee engagement
+          - Better communication
+          - More strategic approach
+          - Stronger partnerships
+          - Other
+        required: false
+      - id: 35
+        name: future_goals
+        label: What are your philanthropy goals for the next year?
+        hint: Goals
+        type: text
+        options: []
+        required: false
+      - id: 36
+        name: challenges_faced
+        label: What challenges have you faced?
+        hint: Obstacles
+        type: text
+        options: []
+        required: false
+      - id: 37
+        name: support_needed
+        label: What support would help improve your program?
+        hint: Support needs
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: assessment_date
+        label: Assessment Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

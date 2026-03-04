@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Matching Form
+    pages:
+    - id: 1
+      name: participant_profile_header
+      label: -- Participant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For match notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional contact method
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interests_preferences_header
+      label: -- Interests and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: areas_interest
+      label: Areas of Interest
+      hint: Select all fields you are passionate about
+      type: select_multiple
+      options:
+      - Technology
+      - Arts
+      - Sports
+      - Business
+      - Education
+      - Science
+      required: true
+    - id: 7
+      name: matching_goal
+      label: Matching Goal
+      hint: What is the primary outcome you seek?
+      type: select_one
+      options:
+      - Mentorship
+      - Networking
+      - Project Collaboration
+      - Study Buddy
+      required: true
+    - id: 8
+      name: skills_offered
+      label: Description of Skills Offered
+      hint: What can you contribute to a match?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: skills_sought
+      label: Description of Skills Sought
+      hint: What are you looking for in a match?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: availability_consent_header
+      label: -- Availability and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: available_days
+      label: Available Days
+      hint: When are you most active?
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      required: true
+    - id: 12
+      name: timezone
+      label: Timezone
+      hint: Select your local time offset
+      type: select_one
+      options:
+      - UTC-5
+      - UTC-8
+      - UTC+0
+      - UTC+1
+      - Other
+      required: true
+    - id: 13
+      name: allow_data_processing
+      label: I consent to my data being processed by the matching algorithm
+      hint: Required for matching functionality
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: match_notifications
+      label: Receive Match Notifications
+      hint: Get alerted when a new match is found
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: participation_rules
+      label: Agreement to Participation Rules
+      hint: I agree to abide by the community guidelines
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: additional_criteria
+      label: Additional Matching Criteria
+      hint: Any other specific preferences
+      type: text
+      options: []
+      required: false

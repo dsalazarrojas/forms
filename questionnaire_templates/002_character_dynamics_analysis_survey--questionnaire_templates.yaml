@@ -1,0 +1,153 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Character Dynamics Analysis Survey
+    pages:
+      - id: 1
+        name: analyst_name
+        label: Analyst Name
+        hint: Your name or pen name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: story_title
+        label: Story or Project Title
+        hint: Name of the work being analyzed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: character_one_name
+        label: Character One Name
+        hint: First character in the dynamic
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: character_one_role
+        label: Character One Role
+        hint: Primary role in the story
+        type: select_one
+        options:
+          - Protagonist
+          - Antagonist
+          - Deuteragonist
+          - Supporting
+          - Minor
+        required: true
+      - id: 5
+        name: character_two_name
+        label: Character Two Name
+        hint: Second character in the dynamic
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: character_two_role
+        label: Character Two Role
+        hint: Primary role in the story
+        type: select_one
+        options:
+          - Protagonist
+          - Antagonist
+          - Deuteragonist
+          - Supporting
+          - Minor
+        required: true
+      - id: 7
+        name: relationship_type
+        label: What is their relationship type
+        hint: Primary relationship dynamic
+        type: select_one
+        options:
+          - Allies
+          - Rivals
+          - Mentor and student
+          - Family members
+          - Romantic partners
+          - Enemies
+          - Complicated
+        required: true
+      - id: 8
+        name: conflict_level
+        label: Conflict level between characters
+        hint: How much tension exists
+        type: select_one
+        options:
+          - None
+          - Low
+          - Moderate
+          - High
+          - Extreme
+        required: true
+      - id: 9
+        name: character_one_traits
+        label: Character One Key Traits
+        hint: Top 3 personality traits
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: character_two_traits
+        label: Character Two Key Traits
+        hint: Top 3 personality traits
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: dynamic_description
+        label: Describe their dynamic
+        hint: How they interact and influence each other
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: key_interactions
+        label: Key interactions or scenes
+        hint: Important moments between them
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: power_balance
+        label: Power balance in the relationship
+        hint: Who holds more influence
+        type: select_one
+        options:
+          - Character one dominates
+          - Character one slightly leads
+          - Equal balance
+          - Character two slightly leads
+          - Character two dominates
+        required: true
+      - id: 14
+        name: relationship_arc
+        label: How does their relationship change
+        hint: Describe the arc
+        type: select_one
+        options:
+          - Strengthens
+          - Weakens
+          - Remains stable
+          - Fluctuates
+          - Transforms completely
+        required: true
+      - id: 15
+        name: additional_notes
+        label: Additional analysis notes
+        hint: Any other observations
+        type: text
+        options: []
+        required: false

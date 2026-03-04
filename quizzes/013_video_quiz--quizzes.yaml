@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: video_quiz
+    pages:
+    - id: 1
+      name: form_title
+      label: video_quiz_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: video_quiz_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: video_quiz_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 63735, ''label'': ''Quizzes''}'
+      - '{''id'': 95912, ''label'': ''Personal Trainer Forms''}'
+      required: false
+    - id: 4
+      name: form_video_url
+      label: video_quiz_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_video_embed
+      label: video_quiz_embed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''label'': ''None''}'
+      - '{''id'': 1, ''label'': ''Embedded''}'
+      - '{''id'': 2, ''label'': ''Embedded with controls''}'
+      required: true
+    - id: 6
+      name: form_start_time
+      label: video_quiz_start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_end_time
+      label: video_quiz_end_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_repeat
+      label: video_quiz_repeat
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Never''}'
+      - '{''id'': 1, ''label'': ''Once''}'
+      - '{''id'': 2, ''label'': ''Multiple''}'
+      required: false
+    - id: 9
+      name: form_share
+      label: video_quiz_share
+      hint: null
+      type: text
+      options: []
+      required: false

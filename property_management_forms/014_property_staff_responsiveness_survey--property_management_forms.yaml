@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Staff Responsiveness Survey
+    pages:
+    - id: 1
+      name: property_manager_response_time
+      label: Property Manager Response Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_communication_quality
+      label: Staff Communication Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: overall_service_quality
+      label: Overall Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 4
+      name: property_staff_availability
+      label: Property Staff Availability
+      hint: When are the property staff available to meet?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resident_feedback_on_response_time
+      label: Resident Feedback on Response Time
+      hint: How satisfied are you with the response time of your issues?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication_with_property_staff
+      label: Communication with Property Staff
+      hint: How satisfied are you with the communication with the property staff?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback_on_service_quality
+      label: Feedback on Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: property_staff_quality
+      label: Property Staff Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false

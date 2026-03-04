@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: sedentary_behaviour_questionnaire
+    pages:
+    - id: 1
+      name: sedentary_behaviour_questionnaire_questions
+      label: sedentary_behaviour_questionnaire_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sedentary_behaviour_questionnaire_inactivity
+      label: sedentary_behaviour_questionnaire_inactivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sedentary_behaviour_questionnaire_frequency
+      label: sedentary_behaviour_questionnaire_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sedentary_behaviour_questionnaire_duration
+      label: sedentary_behaviour_questionnaire_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sedentary_behaviour_questionnaire_days
+      label: sedentary_behaviour_questionnaire_days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sedentary_behaviour_questionnaire_days_of_week
+      label: sedentary_behaviour_questionnaire_days_of_week
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sedentary_behaviour_questionnaire_days_of_week
+      label: sedentary_behaviour_questionnaire_days_of_week
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sedentary_behaviour_questionnaire_comments
+      label: sedentary_behaviour_questionnaire_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sedentary_behaviour_questionnaire_email
+      label: sedentary_behaviour_questionnaire_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: sedentary_behaviour_questionnaire_phone
+      label: sedentary_behaviour_questionnaire_phone
+      hint: null
+      type: text
+      options: []
+      required: false

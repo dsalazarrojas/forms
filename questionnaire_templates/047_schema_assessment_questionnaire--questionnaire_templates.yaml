@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: schema_assessment_questionnaire
+    pages:
+    - id: 1
+      name: schema_assessment_questionnaire_data_teams
+      label: Data Teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schema_assessment_questionnaire_stakeholders
+      label: Stakeholders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schema_assessment_questionnaire_schema_type
+      label: Schema Type
+      hint: null
+      type: select_multiple
+      options:
+      - Data Team
+      - Business Owner
+      - IT
+      - Data Architect
+      - Business Analyst
+      - Product Manager
+      required: true
+    - id: 4
+      name: schema_assessment_questionnaire_schema_scope
+      label: Schema Scope
+      hint: null
+      type: select_one
+      options:
+      - Enterprise
+      - Department
+      - Team
+      required: true
+    - id: 5
+      name: schema_assessment_questionnaire_schema_complexity
+      label: Schema Complexity
+      hint: null
+      type: select_one
+      options:
+      - Simple
+      - Complex
+      required: true
+    - id: 6
+      name: schema_assessment_questionnaire_schema_maturity
+      label: Schema Maturity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: schema_assessment_questionnaire_schema_frequency
+      label: Schema Frequency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: schema_assessment_questionnaire_schema_last_updated
+      label: Schema Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: schema_assessment_questionnaire_schema_last_reviewed
+      label: Schema Last Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: schema_assessment_questionnaire_schema_version
+      label: Schema Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: schema_assessment_questionnaire_schema_status
+      label: Schema Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Active
+      - In Progress
+      - Retired
+      - Inactive
+      required: true
+    - id: 12
+      name: schema_assessment_questionnaire_schema_change_frequency
+      label: Schema Change Frequency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 13
+      name: schema_assessment_questionnaire_schema_last_updated_by
+      label: Schema Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: schema_assessment_questionnaire_schema_last_reviewed_by
+      label: Schema Last Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: schema_assessment_questionnaire_schema_comment
+      label: Schema Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: schema_assessment_questionnaire_schema_last_reviewed_on
+      label: Schema Last Reviewed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: schema_assessment_questionnaire_schema_last_reviewed_at
+      label: Schema Last Reviewed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: schema_assessment_questionnaire_schema_last_reviewed_by_user
+      label: Schema Last Reviewed By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: schema_assessment_questionnaire_schema_last_reviewed_by_user_id
+      label: Schema Last Reviewed By User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: schema_assessment_questionnaire_schema_last_reviewed_by_ip
+      label: Schema Last Reviewed By Ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: schema_assessment_questionnaire_schema_last_reviewed_by_country
+      label: Schema Last Reviewed By Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: schema_assessment_questionnaire_schema_last_reviewed_by_region
+      label: Schema Last Reviewed By Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: schema_assessment_questionnaire_schema_last_reviewed_by_city
+      label: Schema Last Reviewed By City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: schema_assessment_questionnaire_schema_last_reviewed_by_zip
+      label: Schema Last Reviewed By Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: schema_assessment_questionnaire_schema_last_reviewed_by_state
+      label: Schema Last Reviewed By State
+      hint: null
+      type: text
+      options: []
+      required: false

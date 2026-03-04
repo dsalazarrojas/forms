@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Behavior Questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: This is a dog behavior questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: dog_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_age
+      label: dog_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pet_breed
+      label: dog_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: behavioral_issues
+      label: behavioral_issues
+      hint: null
+      type: select_multiple
+      options:
+      - Separation anxiety
+      - Fear of strangers
+      - Fear of noise
+      - Fear of water
+      - Other
+      required: false

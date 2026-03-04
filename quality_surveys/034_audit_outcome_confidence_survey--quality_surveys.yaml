@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Outcome Confidence Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: stakeholder_type
+        label: Stakeholder Type
+        hint: What is your relationship to the audit?
+        type: select_one
+        options:
+          - Board Member
+          - Senior Management
+          - Department Head
+          - Audit Committee
+          - External Stakeholder
+          - Internal Auditor
+          - External Auditor
+          - Other
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: audit_name
+        label: Audit Name
+        hint: Name or reference of audit
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: audit_completion_date
+        label: Audit Completion Date
+        hint: When was the audit completed?
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: outcome_understanding
+        label: Outcome Understanding
+        hint: How well do you understand the audit outcomes?
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Moderately
+          - Slightly
+          - Not at all
+        required: true
+      - id: 9
+        name: findings_clarity
+        label: Findings Clarity
+        hint: How clear were the audit findings?
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Moderately clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 10
+        name: confidence_in_findings
+        label: Confidence in Findings
+        hint: Rate your confidence in the audit findings
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Neutral
+          - Not confident
+          - Not confident at all
+        required: true
+      - id: 11
+        name: recommendations_appropriateness
+        label: Recommendations Appropriateness
+        hint: How appropriate are the recommendations?
+        type: select_one
+        options:
+          - Very appropriate
+          - Appropriate
+          - Neutral
+          - Inappropriate
+          - Very inappropriate
+        required: true
+      - id: 12
+        name: actionability_of_recommendations
+        label: Actionability of Recommendations
+        hint: How actionable are the recommendations?
+        type: select_one
+        options:
+          - Very actionable
+          - Actionable
+          - Neutral
+          - Not actionable
+          - Not actionable at all
+        required: true
+      - id: 13
+        name: management_response_adequacy
+        label: Management Response Adequacy
+        hint: How adequate was management's response?
+        type: select_one
+        options:
+          - Very adequate
+          - Adequate
+          - Neutral
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 14
+        name: implementation_likelihood
+        label: Implementation Likelihood
+        hint: How likely are recommendations to be implemented?
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 15
+        name: expected_impact
+        label: Expected Impact
+        hint: What impact do you expect from the audit?
+        type: select_one
+        options:
+          - Significant positive impact
+          - Moderate positive impact
+          - Minimal impact
+          - Negative impact
+          - Unsure
+        required: true
+      - id: 16
+        name: audit_quality_rating
+        label: Audit Quality Rating
+        hint: Rate the overall quality of the audit
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: auditor_professionalism
+        label: Auditor Professionalism
+        hint: Rate the professionalism of auditors
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 18
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: Rate the effectiveness of audit communications
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 19
+        name: concerns_or_questions
+        label: Concerns or Questions
+        hint: Any concerns or questions about the audit outcomes
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any additional feedback
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: overall_confidence
+        label: Overall Confidence
+        hint: Rate your overall confidence in audit outcomes
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Neutral
+          - Not confident
+          - Not confident at all
+        required: true

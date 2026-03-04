@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Log
+    pages:
+    - id: 1
+      name: sleep_log
+      label: sleep_log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_time
+      label: sleep_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wake_up_time
+      label: wake_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: bedtime
+      label: bedtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: sleep_routine
+      label: sleep_routine
+      hint: null
+      type: select_one
+      options:
+      - Establish a consistent sleep schedule
+      - Get regular exercise
+      - Avoid screens before bed
+      - Practice relaxation techniques
+      - Get a massage
+      - Read a book
+      - Listen to soothing music
+      - Get a cup of tea
+      - Write in a journal
+      - Take a warm bath
+      - Get a change of scenery
+      - Try aromatherapy
+      - Get a dog
+      - Try meditation
+      - Get a good night's sleep
+      - Try a white noise machine
+      required: false
+    - id: 7
+      name: sleep_location
+      label: sleep_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wake_up_reason
+      label: wake_up_reason
+      hint: null
+      type: select_one
+      options:
+      - Not feeling tired
+      - Too hot or cold
+      - Pain or discomfort
+      - Work or school
+      - Travel
+      - Family or social obligations
+      - Other
+      required: false
+    - id: 9
+      name: sleep_quality_rating
+      label: sleep_quality_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sleep_log_frequency
+      label: sleep_log_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Yearly
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Coaches/Wellness provider
+      required: false
+    - id: 12
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false

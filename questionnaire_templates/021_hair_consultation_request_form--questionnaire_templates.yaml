@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: hair Consultation Request Form
+    pages:
+    - id: 1
+      name: hair_consultation_request
+      label: hair consultation request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''color''}'
+      - '{''id'': 2, ''label'': ''style''}'
+      - '{''id'': 3, ''label'': ''texture''}'
+      required: false
+    - id: 3
+      name: hair_length
+      label: hair length
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''short''}'
+      - '{''id'': 2, ''label'': ''medium''}'
+      - '{''id'': 3, ''label'': ''long''}'
+      required: false
+    - id: 4
+      name: hair_color
+      label: hair color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hair_type
+      label: hair type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hair_condition
+      label: hair condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''dry''}'
+      - '{''id'': 2, ''label'': ''oily''}'
+      - '{''id'': 3, ''label'': ''curly''}'
+      - '{''id'': 4, ''label'': ''damaged''}'
+      - '{''id'': 5, ''label'': ''normal''}'
+      required: false
+    - id: 7
+      name: schedule
+      label: schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_time
+      label: preferred time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''appointment''}'
+      - '{''id'': 2, ''label'': ''follow up''}'
+      - '{''id'': 3, ''label'': ''consultation''}'
+      - '{''id'': 4, ''label'': ''other''}'
+      required: false
+    - id: 10
+      name: contact_information
+      label: contact information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

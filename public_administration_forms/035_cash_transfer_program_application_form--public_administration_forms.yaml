@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Transfer Program Application Form
+    pages:
+    - id: 1
+      name: application_header_section
+      label: -- Application Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: program_name
+      label: Cash Transfer Program Name
+      hint: Which program are you applying for?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_information_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: national_id
+      label: National ID Number or Passport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: residential_address_section
+      label: -- Residential Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: household_section
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: monthly_household_income
+      label: Monthly Household Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: income_sources
+      label: Sources of Household Income
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Employment
+      - Self-employment
+      - Social Benefits
+      - Pension
+      - Informal Work
+      - Family Support
+      - Other
+      required: true
+    - id: 20
+      name: eligibility_section
+      label: -- Eligibility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: income_level_meets_criteria
+      label: Does your household income meet program criteria?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 22
+      name: residency_status
+      label: Residency Status
+      hint: null
+      type: select_one
+      options:
+      - Permanent Resident
+      - Temporary Resident
+      - Citizen
+      - Other Status
+      required: true
+    - id: 23
+      name: assistance_needed_section
+      label: -- Assistance Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: transfer_amount_requested
+      label: Cash Transfer Amount Requested
+      hint: Dollar amount needed
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: intended_use
+      label: Intended Use of Cash Transfer
+      hint: Explain how funds will be used
+      type: text
+      options: []
+      required: true

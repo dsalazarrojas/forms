@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Status Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Status Survey --
+      hint: This survey collects student feedback on academic programs, enrollment
+        experience, and overall satisfaction.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: enrollment_status
+      label: Current enrollment status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Auditing
+      - On leave of absence
+      - Withdrawn
+      required: true
+    - id: 6
+      name: academic_level
+      label: Current academic level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate - Masters
+      - Graduate - Doctoral
+      - Post-doctoral
+      required: true
+    - id: 7
+      name: program_of_study
+      label: Program or major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: minor_concentration
+      label: Minor or concentration (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expected_graduation
+      label: Expected graduation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: academic_standing
+      label: Current academic standing
+      hint: null
+      type: select_one
+      options:
+      - Good standing
+      - Academic probation
+      - Deans list or honors
+      - Conditional
+      - Not sure
+      required: true
+    - id: 11
+      name: credits_completed
+      label: Approximate number of credits completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: satisfaction_program
+      label: How satisfied are you with your academic program
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
+      required: true
+    - id: 13
+      name: satisfaction_advising
+      label: How satisfied are you with academic advising
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
+      required: true
+    - id: 14
+      name: challenges
+      label: What challenges are you currently facing (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Financial concerns
+      - Course availability
+      - Work-life balance
+      - Academic difficulty
+      - Mental health
+      - Housing or transportation
+      - None
+      required: false
+    - id: 15
+      name: plan_after_graduation
+      label: What are your plans after graduation
+      hint: null
+      type: select_one
+      options:
+      - Employment in my field
+      - Graduate or professional school
+      - Military service
+      - Travel or gap year
+      - Undecided
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Any additional comments about your academic experience
+      hint: null
+      type: text
+      options: []
+      required: false

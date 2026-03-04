@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Service Retirement Assessment
+    pages:
+    - id: 1
+      name: retirement_assessment
+      label: What is your current salary
+      hint: null
+      type: select_one
+      options:
+      - less than $25,000
+      - $25,000-$50,000
+      - $50,000-$75,000
+      - $75,000-$100,000
+      - $100,000 and above
+      required: false
+    - id: 2
+      name: retirement_planning
+      label: What is your retirement planning strategy
+      hint: null
+      type: select_one
+      options:
+      - Not planned
+      - Somewhat planned
+      - Very planned
+      required: false
+    - id: 3
+      name: employee_concerns
+      label: Employee concerns about retirement
+      hint: null
+      type: select_multiple
+      options:
+      - Pension or retirement benefits
+      - Cost of living
+      - Healthcare
+      - Financial stability
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: follow_up
+      label: Would you like to schedule a follow-up call or meeting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 5
+      name: benefits
+      label: What benefits do you have available to you
+      hint: null
+      type: select_multiple
+      options:
+      - Pension or pension equivalent
+      - 401(k) or other defined contribution plan
+      - Retirement annuity
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: benefits_employed_by
+      label: Which of these benefits are you employed by
+      hint: null
+      type: select_multiple
+      options:
+      - Employer
+      - Spouse
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: years_worked
+      label: Years you have worked in public service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: years_worked_value
+      label: What is the approximate number of years you have worked in public service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: retirement_date
+      label: What is your target retirement date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: retirement_age
+      label: What is your current age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: years_service
+      label: How many years of service do you have
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: employer
+      label: Which employer do you work for
+      hint: null
+      type: select_multiple
+      options:
+      - Federal Government
+      - State
+      - Local
+      - Other (please specify)
+      required: false
+    - id: 13
+      name: job_title
+      label: What is your job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: What department do you work in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: What is your location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor
+      label: Who is your supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: retirement_plan
+      label: Do you have a retirement plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: retirement_plan_value
+      label: Please describe your retirement plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: retirement_plan_type
+      label: What type of retirement plan do you have
+      hint: null
+      type: select_multiple
+      options:
+      - Defined Benefit
+      - Defined Contribution
+      - Hybrid
+      - Other (please specify)
+      required: false
+    - id: 23
+      name: years_service_value
+      label: What is the approximate number of years of service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: retirement_plan_provider
+      label: Who provides your retirement plan
+      hint: null
+      type: select_multiple
+      options:
+      - Employer
+      - Spouse
+      - Other (please specify)
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

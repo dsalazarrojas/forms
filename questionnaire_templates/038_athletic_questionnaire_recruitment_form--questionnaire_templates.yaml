@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Questionnaire Recruitment Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: school_name
+      label: School Name
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 11
+      name: gpa
+      label: Current GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sport
+      label: Primary Sport
+      hint: Main sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Wrestling
+      - Cross Country
+      - Golf
+      - Other
+      required: true
+    - id: 13
+      name: position
+      label: Primary Position
+      hint: Main position played
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: height
+      label: Height
+      hint: In feet and inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: weight
+      label: Weight
+      hint: In pounds or kg
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: years_experience
+      label: Years of Experience
+      hint: How long have you played
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: current_team
+      label: Current Team
+      hint: School or club team
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: coach_name
+      label: Coach Name
+      hint: Current coach
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact email
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: coach_phone
+      label: Coach Phone
+      hint: Coach contact number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: athletic_achievements
+      label: Athletic Achievements
+      hint: List awards, honors, records
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: personal_records
+      label: Personal Records or Stats
+      hint: List key statistics
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: video_footage
+      label: Video Footage Available
+      hint: Do you have game or highlight footage
+      type: select_one
+      options:
+      - Yes - Will Provide
+      - Yes - Link Available
+      - 'No'
+      required: true
+    - id: 24
+      name: video_link
+      label: Video Link
+      hint: Provide link if available
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: academic_achievements
+      label: Academic Achievements
+      hint: List honors, AP courses, test scores
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: List clubs, organizations, leadership roles
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: community_service
+      label: Community Service
+      hint: List volunteer work or service
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: why_this_program
+      label: Why Are You Interested in This Program
+      hint: What motivates you
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: career_goals
+      label: Career or Athletic Goals
+      hint: What are your goals
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: strengths
+      label: Your Greatest Strengths
+      hint: As an athlete and person
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: areas_improvement
+      label: Areas for Improvement
+      hint: What do you want to work on
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: campus_visit
+      label: Interested in Campus Visit
+      hint: Would you like to visit
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Yes - Maybe
+      - 'No'
+      required: true
+    - id: 33
+      name: scholarship_interest
+      label: Scholarship Interest
+      hint: Are you seeking athletic scholarship
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 34
+      name: other_schools
+      label: Other Schools Recruiting You
+      hint: List any other schools interested
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: how_heard
+      label: How Did You Hear About Our Program
+      hint: Source of referral
+      type: select_one
+      options:
+      - Coach Recommendation
+      - Camp or Clinic
+      - Social Media
+      - Website
+      - Friend or Teammate
+      - Family Member
+      - Other
+      required: true
+    - id: 36
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

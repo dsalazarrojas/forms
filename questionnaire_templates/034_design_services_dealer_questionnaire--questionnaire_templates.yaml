@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Services Dealer Questionnaire
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_services
+      label: Design Services
+      hint: null
+      type: select_multiple
+      options:
+      - Graphic Design
+      - Web Design
+      - UX/UI Design
+      - Logo Design
+      required: false
+    - id: 3
+      name: service_requirement
+      label: Service Requirement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 5
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_level_agreement
+      label: Service Level Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

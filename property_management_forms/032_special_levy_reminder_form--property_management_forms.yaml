@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Levy Reminder Form
+    pages:
+    - id: 1
+      name: special_levy_reminder_form
+      label: special levy reminder form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_manager_info
+      label: property manager info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resident_info
+      label: resident info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: send_levy_notice
+      label: send levy notice
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: collect_acknowledgement
+      label: collect acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partial
+      required: false
+    - id: 7
+      name: resident_response
+      label: resident response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: special instructions
+      hint: null
+      type: text
+      options: []
+      required: false

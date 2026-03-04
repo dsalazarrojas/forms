@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance Store Stock Requisition Form
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Internal requisition number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_name
+      label: Requestor name
+      hint: Employee requesting the stock
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department requesting items
+      type: select_one
+      options:
+      - Sales
+      - Service
+      - Warehouse
+      - Retail
+      required: true
+    - id: 4
+      name: item_description
+      label: Item description
+      hint: Model, size, or SKU
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity_requested
+      label: Quantity requested
+      hint: Enter whole number quantity
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: priority
+      label: Priority
+      hint: Urgency level for the requisition
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 7
+      name: needed_by_date
+      label: Needed by date
+      hint: Date when items are required
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: approval_status
+      label: Approval status
+      hint: Internal approval tracking
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 9
+      name: approver_name
+      label: Approver name
+      hint: Manager who approved or denied the request
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Continuity Assessment
+    pages:
+    - id: 1
+      name: disruption_readiness
+      label: Service Disruption Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: risk_identification
+      label: Continuity Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_continuity_plan
+      label: Business Continuity Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: continuity_gaps
+      label: Continuity Gaps
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

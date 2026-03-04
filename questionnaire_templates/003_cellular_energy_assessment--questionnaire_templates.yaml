@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cellular Energy Assessment
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Client's age in years
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to Self-Describe
+      - Prefer Not to Answer
+      required: false
+    - id: 5
+      name: daily_energy_level
+      label: Current Daily Energy Level
+      hint: Rate your typical energy on a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: energy_time_of_day
+      label: When Do You Feel Most Energetic
+      hint: Time of day with highest energy
+      type: select_one
+      options:
+      - Early Morning
+      - Mid-Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: false
+    - id: 7
+      name: hours_sleep_per_night
+      label: Average Hours of Sleep Per Night
+      hint: Typical sleep duration
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sleep_quality
+      label: Sleep Quality Rating
+      hint: How would you rate your sleep quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 9
+      name: sleep_issues
+      label: Sleep Issues Experienced
+      hint: Select any sleep problems you have
+      type: select_multiple
+      options:
+      - Difficulty Falling Asleep
+      - Waking During Night
+      - Early Morning Waking
+      - Non-restorative Sleep
+      - Nightmares
+      - Sleep Apnea Suspected
+      required: false
+    - id: 10
+      name: exercise_frequency
+      label: Exercise Frequency Per Week
+      hint: How many days per week do you exercise
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: exercise_duration
+      label: Average Exercise Duration
+      hint: Minutes per session
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: exercise_types
+      label: Types of Exercise You Perform
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cardio
+      - Weight Training
+      - Yoga
+      - Stretching
+      - Walking
+      - Sports
+      - Swimming
+      required: false
+    - id: 13
+      name: fatigue_level
+      label: Fatigue Level During Day
+      hint: Rate typical daytime fatigue 1-10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: fatigue_triggers
+      label: Triggers for Fatigue or Energy Loss
+      hint: What causes you to feel tired
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: stress_level
+      label: Perceived Stress Level
+      hint: Rate your stress on a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: mood_general
+      label: General Mood Assessment
+      hint: How would you describe your mood
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: false
+    - id: 17
+      name: caffeine_intake
+      label: Daily Caffeine Consumption
+      hint: Cups of coffee, tea, or energy drinks
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: nutrition_quality
+      label: Nutrition Quality Assessment
+      hint: Rate your overall diet quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: water_intake
+      label: Daily Water Intake in Glasses
+      hint: Approximate glasses of water per day
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: health_concerns
+      label: Health Concerns or Conditions
+      hint: Any relevant medical history
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: energy_goals
+      label: Energy and Wellness Goals
+      hint: What would you like to improve
+      type: text
+      options: []
+      required: false

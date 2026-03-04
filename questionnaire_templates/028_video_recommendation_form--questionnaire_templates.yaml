@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Recommendation Form
+    pages:
+    - id: 1
+      name: video_recommendation
+      label: Video Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Drama
+      - Comedy
+      - Horror
+      - Romance
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: genre
+      label: Genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: video_type
+      label: Video Type
+      hint: null
+      type: select_one
+      options:
+      - Live
+      - Pre-recorded
+      required: false
+    - id: 6
+      name: video_length
+      label: Video Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: audio
+      label: Audio
+      hint: Optional audio
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: video_id
+      label: Video ID
+      hint: Video ID or Video URL
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: video_url
+      label: Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: modified
+      label: Modified
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

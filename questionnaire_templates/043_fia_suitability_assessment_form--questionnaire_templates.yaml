@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: FIA Suitability Assessment Form
+    pages:
+    - id: 1
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_horizon
+      label: Time Horizon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fixed_index_anuity_investment_options
+      label: Fixed Index Annuity Investment Options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: risk_free_rate
+      label: Risk Free Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: investment_return_assumptions
+      label: Investment Return Assumptions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: investment_return_period
+      label: Investment Return Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: inflation_rate
+      label: Inflation Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: investment_return_rate
+      label: Investment Return Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tax_impact
+      label: Tax Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fixed_index_anuity_fees
+      label: Fixed Index Annuity Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: risk_tolerance_level
+      label: Risk Tolerance Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: fixed_index_anuity_investment_minimums
+      label: Fixed Index Annuity Investment Minimums
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fixed_index_anuity_investment_maximums
+      label: Fixed Index Annuity Investment Maximums
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: investment_return_frequency
+      label: Investment Return Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: fixed_index_anuity_annuity_liquidity
+      label: Fixed Index Annuity Liquidity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: tax_free_rate
+      label: Tax Free Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 18
+      name: fixed_index_anuity_benefits
+      label: Fixed Index Annuity Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: fixed_index_anuity_riders
+      label: Fixed Index Annuity Riders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: annuity_fees
+      label: Annuity Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: fixed_index_anuity_annuity_surrender_charges
+      label: Fixed Index Annuity Annuity Surrender Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: fixed_index_anuity_annuity_exercise_frequency
+      label: Fixed Index Annuity Annuity Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: fixed_index_anuity_annuity_exercise_window
+      label: Fixed Index Annuity Annuity Exercise Window
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: fixed_index_anuity_annuity_exercise_window_start_date
+      label: Fixed Index Annuity Annuity Exercise Window Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: fixed_index_anuity_annuity_exercise_window_end_date
+      label: Fixed Index Annuity Annuity Exercise Window End Date
+      hint: null
+      type: date
+      options: []
+      required: false

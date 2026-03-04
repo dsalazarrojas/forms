@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Planning And Execution Survey
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''project'', ''label'': ''Project''}'
+      - '{''id'': 2, ''name'': ''maintenance'', ''label'': ''Maintenance''}'
+      - '{''id'': 3, ''name'': ''service'', ''label'': ''Service''}'
+      required: false
+    - id: 3
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: actual_start_date
+      label: Actual Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: actual_end_date
+      label: Actual End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: planned_start_date
+      label: Planned Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: planned_end_date
+      label: Planned End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Joe Smith''}'
+      required: false
+    - id: 10
+      name: team_members_notes
+      label: Team Members Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Joe Smith''}'
+      required: false
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Joe Smith''}'
+      required: false
+    - id: 13
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: actual_hours
+      label: Actual Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: actual_costs
+      label: Actual Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: actual_revenue
+      label: Actual Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: planned_hours
+      label: Planned Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: planned_costs
+      label: Planned Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: planned_revenue
+      label: Planned Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: job_outcome
+      label: Job Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

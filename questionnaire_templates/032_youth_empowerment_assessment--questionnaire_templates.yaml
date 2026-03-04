@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Empowerment Assessment
+    pages:
+    - id: 1
+      name: school_survey
+      label: School Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: youth_participation
+      label: Youth Participation
+      hint: How involved are youth in program activities
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_services
+      label: Services provided by the youth program
+      hint: null
+      type: select_multiple
+      options:
+      - After school programs
+      - Academic support
+      - Housing support
+      - Food support
+      - Health and wellness support
+      - Career development
+      required: false
+    - id: 4
+      name: assessment_outcomes
+      label: Assessment and outcomes
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: feedback
+      label: Open-ended feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: Time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: decimal
+      label: Number of youth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: note_2
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

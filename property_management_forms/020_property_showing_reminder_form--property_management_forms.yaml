@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Showing Reminder Form
+    pages:
+    - id: 1
+      name: scheduled_showing
+      label: Scheduled Showing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: showing_details
+      label: Showing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reminder_preferences
+      label: Reminder Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: send_reminders
+      label: Send Reminders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reminder_frequency
+      label: Reminder Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Daily
+      - Weekly
+      required: false
+    - id: 6
+      name: reminder_time
+      label: Reminder Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: send_reminders_to
+      label: Send Reminders To
+      hint: null
+      type: select_multiple
+      options:
+      - Client 1
+      - Client 2
+      - Client 3
+      required: false
+    - id: 8
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: showing_confirmed
+      label: Showing Confirmed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: send_notification
+      label: Send Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: showing_status
+      label: Showing Status
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Late
+      - No-Show
+      required: false
+    - id: 14
+      name: reason_for_late_or_no_show
+      label: Reason for Late/No-Show
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_question
+      label: Follow-up Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: send_follow_up
+      label: Send Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Pending
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Daily
+      - Weekly
+      required: false
+    - id: 22
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: showings
+      label: Showings
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Multi
+      required: false

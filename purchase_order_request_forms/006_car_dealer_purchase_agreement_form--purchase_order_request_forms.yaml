@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Dealer Purchase Agreement Form
+    pages:
+    - id: 1
+      name: agreement_header
+      label: -- Purchase Agreement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dealer_name
+      label: Dealership Name
+      hint: Name of the selling dealer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_full_name
+      label: Buyer Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_email
+      label: Buyer Email Address
+      hint: For digital copy of agreement
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: buyer_phone
+      label: Buyer Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_header
+      label: -- Vehicle Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make
+      label: Vehicle Make
+      hint: e.g., Toyota, Ford, BMW
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_model
+      label: Vehicle Model
+      hint: e.g., Camry, F-150, 3 Series
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: odometer_reading
+      label: Odometer Reading
+      hint: Current mileage on the vehicle
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sale_terms_header
+      label: -- Financial Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: purchase_price
+      label: Total Purchase Price
+      hint: Final negotiated price including fees
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: down_payment
+      label: Down Payment Amount
+      hint: Amount paid at signing
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: financing_method
+      label: Method of Payment/Financing
+      hint: How is the remaining balance covered?
+      type: select_one
+      options:
+      - Cash/Certified Check
+      - Dealer Financing
+      - External Bank Loan
+      - Lease Agreement
+      required: true
+    - id: 16
+      name: trade_in_allowance
+      label: Trade-in Allowance
+      hint: Value credited for trade-in vehicle (if any)
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: agreement_date
+      label: Date of Sale
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: warranty_selection
+      label: Warranty Inclusion
+      hint: Select the warranty type provided
+      type: select_one
+      options:
+      - Manufacturer Warranty Only
+      - Dealer Limited Warranty
+      - Extended Service Contract
+      - As-Is - No Warranty
+      required: true
+    - id: 19
+      name: buyer_signature_text
+      label: Buyer Digital Signature
+      hint: Type your full name to sign electronically
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: dealer_representative_name
+      label: Dealer Representative Name
+      hint: Name of the employee handling the sale
+      type: text
+      options: []
+      required: true

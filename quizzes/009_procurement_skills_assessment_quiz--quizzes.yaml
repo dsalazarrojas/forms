@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Procurement Skills Assessment Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: procurement_category
+      label: procurement_category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11}'
+      - '{''id'': 12}'
+      - '{''id'': 13}'
+      - '{''id'': 14}'
+      - '{''id'': 15}'
+      - '{''id'': 16}'
+      - '{''id'': 17}'
+      required: false
+    - id: 3
+      name: first_question
+      label: first_question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: first_answer
+      label: first_answer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: second_question
+      label: second_question
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: second_answer
+      label: second_answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: first_phone
+      label: first_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Country Entry Health and Travel Questionnaire
+    pages:
+    - id: 1
+      name: pre_arrival_travel
+      label: Pre Arrival Travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_screening
+      label: Health Screening
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 3
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Yearly''}'
+      required: false
+    - id: 5
+      name: flight_info
+      label: Flight Info
+      hint: null
+      type: text
+      options: []
+      required: false

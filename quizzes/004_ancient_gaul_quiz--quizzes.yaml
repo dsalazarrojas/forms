@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Gaul Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For receiving quiz results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: affiliation
+      label: School or Organization
+      hint: Your institution
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quiz_introduction
+      label: Welcome to the Ancient Gaul Quiz
+      hint: Test your knowledge of ancient Gaul, the Celtic culture, and Roman conquest. Choose the best answer for each question.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: Ancient Gaul corresponds roughly to which modern-day country
+      hint: Select one answer
+      type: select_one
+      options:
+      - Spain
+      - France
+      - Germany
+      - Italy
+      required: true
+    - id: 6
+      name: question_2
+      label: Who was the famous Gallic chieftain who united the Gauls against Rome
+      hint: Select one answer
+      type: select_one
+      options:
+      - Brennus
+      - Vercingetorix
+      - Ambiorix
+      - Ariovistus
+      required: true
+    - id: 7
+      name: question_3
+      label: Which Roman general conquered Gaul in the Gallic Wars
+      hint: Select one answer
+      type: select_one
+      options:
+      - Pompey
+      - Mark Antony
+      - Julius Caesar
+      - Augustus
+      required: true
+    - id: 8
+      name: question_4
+      label: What was the name of the fortified hilltop settlements built by the Gauls
+      hint: Select one answer
+      type: select_one
+      options:
+      - Acropolis
+      - Oppidum
+      - Citadel
+      - Castrum
+      required: true
+    - id: 9
+      name: question_5
+      name: question_5
+      label: Which battle marked the decisive Roman victory over the Gauls in 52 BCE
+      hint: Select one answer
+      type: select_one
+      options:
+      - Battle of Alesia
+      - Battle of Gergovia
+      - Battle of Bibracte
+      - Battle of the Sabis
+      required: true
+    - id: 10
+      name: question_6
+      label: The Gauls belonged to which broader cultural group
+      hint: Select one answer
+      type: select_one
+      options:
+      - Germanic
+      - Celtic
+      - Iberian
+      - Etruscan
+      required: true
+    - id: 11
+      name: question_7
+      label: What type of religious leaders held high status in Gallic society
+      hint: Select one answer
+      type: select_one
+      options:
+      - Pharaohs
+      - Druids
+      - Shamans
+      - Priests of Apollo
+      required: true
+    - id: 12
+      name: question_8
+      label: Which famous siege did Julius Caesar document in his Commentaries on the Gallic War
+      hint: Select one answer
+      type: select_one
+      options:
+      - Siege of Syracuse
+      - Siege of Alesia
+      - Siege of Carthage
+      - Siege of Jerusalem
+      required: true
+    - id: 13
+      name: question_9
+      label: What writing system did the Gauls primarily use before Roman conquest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Latin alphabet
+      - Greek alphabet
+      - Runes
+      - Hieroglyphics
+      - They had limited written records
+      required: true
+    - id: 14
+      name: question_10
+      label: Which Roman emperor completed the conquest and pacification of Gaul
+      hint: Select one answer
+      type: select_one
+      options:
+      - Julius Caesar
+      - Augustus
+      - Tiberius
+      - Claudius
+      required: true
+    - id: 15
+      name: question_11
+      label: What was the capital of Roman Gaul
+      hint: Select one answer
+      type: select_one
+      options:
+      - Paris (Lutetia)
+      - Lyon (Lugdunum)
+      - Marseille (Massilia)
+      - Bordeaux (Burdigala)
+      required: true
+    - id: 16
+      name: question_12
+      label: The Gauls were known for their skill in which crafts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ironworking
+      - Pottery
+      - Textile weaving
+      - Glassblowing
+      - Goldsmithing
+      required: true
+    - id: 17
+      name: difficulty_feedback
+      label: How difficult was this quiz for you
+      hint: Your feedback is appreciated
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 18
+      name: comments
+      label: Additional Comments
+      hint: Any thoughts about ancient Gaul
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Results Validity Assessment Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: journal_publication
+      label: Journal Publication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: study_authors
+      label: Study Authors
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: study_year
+      label: Study Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: peer_reviewers
+      label: Peer Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John Doe
+      - Dr. Jane Doe
+      - Dr. Joe Doe
+      required: true
+    - id: 8
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reviewer_recommendations
+      label: Reviewer Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: study_outcome
+      label: Study Outcome
+      hint: null
+      type: select_one
+      options:
+      - Successful
+      - Unsuccessful
+      - Neutral
+      required: true
+    - id: 11
+      name: study_remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: study_results
+      label: Study Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: peer_reviewer_signature
+      label: Peer Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: true

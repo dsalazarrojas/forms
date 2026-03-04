@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instruction Compliance Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_title
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_title
+      label: instructor_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_title
+      label: course_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: course_code
+      label: course_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

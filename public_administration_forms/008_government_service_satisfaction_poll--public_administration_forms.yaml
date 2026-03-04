@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: government_service_satisfaction_poll
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How would you rate the service quality of our office?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: What was the purpose of your visit?
+      hint: null
+      type: select_one
+      options:
+      - To obtain information
+      - To apply for a service
+      - To pay a bill
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: question_3
+      label: How did you feel about your overall experience at our office?
+      hint: null
+      type: select_multiple
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: false
+    - id: 5
+      name: question_4
+      label: What would make it more convenient for you to visit our office in the
+        future?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: How likely are you to recommend this office to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - highly_likely
+      - somewhat_likely
+      - not_likely
+      required: false
+    - id: 7
+      name: question_6
+      label: How long did you spend at our office?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: What day of the week did you visit our office?
+      hint: null
+      type: select_one
+      options:
+      - saturday
+      - sunday
+      - other
+      required: false
+    - id: 9
+      name: question_8
+      label: What time of day did you visit our office?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: question_9
+      label: What time of day did you visit our office?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: question_10
+      label: How do you usually contact our office?
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - in_person
+      - other
+      required: false
+    - id: 12
+      name: question_11
+      label: How often do you visit our office?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: question_12
+      label: How do you usually find out about our office hours?
+      hint: null
+      type: select_multiple
+      options:
+      - social_media
+      - email
+      - website
+      - other
+      required: false
+    - id: 14
+      name: question_13
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: question_14
+      label: How long have you lived in our city/area?
+      hint: null
+      type: select_multiple
+      options:
+      - less_than_1_year
+      - 1_year_or_more
+      - 5_years_or_more
+      - more_than_5_years
+      required: false
+    - id: 16
+      name: question_15
+      label: How long have you known our office?
+      hint: null
+      type: select_multiple
+      options:
+      - less_than_1_month
+      - 1_month_or_more
+      - 1_year_or_more
+      - more_than_1_year
+      required: false
+    - id: 17
+      name: question_16
+      label: Have you ever visited our office before?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: question_17
+      label: How likely are you to recommend this office to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - highly_likely
+      - somewhat_likely
+      - not_likely
+      required: false
+    - id: 19
+      name: question_18
+      label: What is your income?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: question_19
+      label: How many members are in your household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: question_20
+      label: What is your level of education?
+      hint: null
+      type: select_multiple
+      options:
+      - high_school
+      - college
+      - graduate_school
+      - postgraduate_school
+      required: false
+    - id: 22
+      name: question_21
+      label: Which of the following best describes you?
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 23
+      name: question_22
+      label: What is your marital status?
+      hint: null
+      type: select_multiple
+      options:
+      - married
+      - single
+      - divorced
+      - widow
+      required: false
+    - id: 24
+      name: question_23
+      label: What is your occupation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question_24
+      label: Do you have any comments or concerns about our service?
+      hint: null
+      type: note
+      options: []
+      required: false

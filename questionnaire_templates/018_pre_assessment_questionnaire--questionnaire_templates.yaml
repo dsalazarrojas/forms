@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: pre-assessment-questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: Please provide a brief description of your background and experience
+        in English.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: language_competency
+      label: What is your level of English language competency?
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Elementary
+      - Pre-Intermediate
+      - Intermediate
+      - Advanced
+      - Proficient
+      required: true
+    - id: 3
+      name: english_reading_comprehension
+      label: How would you rate your current English reading comprehension level?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Basic
+      - Basic
+      - Elementary
+      - Proficient
+      required: true
+    - id: 4
+      name: english_writing_comprehension
+      label: How would you rate your current English writing comprehension level?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Basic
+      - Basic
+      - Elementary
+      - Proficient
+      required: true
+    - id: 5
+      name: english_listening_comprehension
+      label: How would you rate your current English listening comprehension level?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Basic
+      - Basic
+      - Elementary
+      - Proficient
+      required: true
+    - id: 6
+      name: english_speaking_comprehension
+      label: How would you rate your current English speaking comprehension level?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Basic
+      - Basic
+      - Elementary
+      - Proficient
+      required: true
+    - id: 7
+      name: education_and_training
+      label: What is your highest level of education completed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: english_language_assessment
+      label: What kind of English language assessment would you like to undergo?
+      hint: null
+      type: select_multiple
+      options:
+      - Listening
+      - Speaking
+      - Reading
+      - Writing
+      required: true
+    - id: 9
+      name: language_assessment_date
+      label: If the date for the language assessment is available, please provide
+        the date and time of the assessment.
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: language_assessment_center
+      label: Please indicate the center or department where the language assessment
+        will be held.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: language_assessment_facilitator
+      label: Please indicate who will administer the language assessment (e.g. a teacher
+        or a computer program).
+      hint: null
+      type: select_one
+      options:
+      - Teacher or Instructor
+      - Computer Program
+      - Other
+      required: true

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Training Impact Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: training_session_date
+      label: Training Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: training_session_time
+      label: Training Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: training_outcomes_measured
+      label: Training Outcomes Measured
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: training_outcome_1_value
+      label: Value 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: training_outcome_2_value
+      label: Value 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: training_outcome_3_value
+      label: Value 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: training_outcome_4_value
+      label: Value 4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: training_outcome_5_value
+      label: Value 5
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Session Preference Information Form
+    pages:
+    - id: 1
+      name: client_info_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - In-Person
+      required: true
+    - id: 6
+      name: session_goals_section
+      label: -- Session Goals and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_goal
+      label: What is your primary goal for working together?
+      hint: Be specific about what you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: specific_topics
+      label: Specific topics or issues you want to address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: previous_experience
+      label: Have you worked with a coach/consultant/provider like this before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: expectations
+      label: What are your expectations for the sessions?
+      hint: What would success look like?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: scheduling_section
+      label: -- Session Scheduling Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: session_frequency
+      label: Preferred session frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      - Other
+      required: true
+    - id: 13
+      name: session_duration
+      label: Preferred session duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      - Other
+      required: true
+    - id: 14
+      name: preferred_day
+      label: Preferred day of week for sessions
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 15
+      name: preferred_time
+      label: Preferred time of day for sessions
+      hint: null
+      type: select_one
+      options:
+      - Early Morning (before 9am)
+      - Morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Night (after 8pm)
+      - Flexible
+      required: true
+    - id: 16
+      name: timezone
+      label: Your timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: format_section
+      label: -- Session Format and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: session_format
+      label: Preferred session format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Video Call
+      - Phone Call
+      - No Preference
+      required: true
+    - id: 19
+      name: location_or_platform
+      label: If in-person, preferred location. If remote, platform preference?
+      hint: Zoom, Skype, Teams, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Do you have any accessibility needs?
+      hint: Physical access, hearing/visual accommodations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: communication_section
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: communication_style
+      label: How do you prefer to be communicated with?
+      hint: null
+      type: select_one
+      options:
+      - Direct and Structured
+      - Conversational and Flexible
+      - Mix of Both
+      required: false
+    - id: 23
+      name: feedback_preference
+      label: How do you prefer to receive feedback?
+      hint: null
+      type: select_one
+      options:
+      - Direct and Honest
+      - Gentle and Supportive
+      - Data-Driven
+      - Other
+      required: false
+    - id: 24
+      name: learning_style
+      label: Your preferred learning style
+      hint: null
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Kinesthetic
+      - Reading-Writing
+      - Mixed
+      required: false
+    - id: 25
+      name: preparation_section
+      label: -- Session Preparation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: preparation_materials
+      label: Are you willing to prepare materials or do homework between sessions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only if Brief
+      required: false
+    - id: 27
+      name: additional_preferences
+      label: Any other preferences or important information?
+      hint: null
+      type: text
+      options: []
+      required: false

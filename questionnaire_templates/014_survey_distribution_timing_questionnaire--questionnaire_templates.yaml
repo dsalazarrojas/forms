@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey Distribution Timing Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction_date
+      label: introduction_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: introduction_time
+      label: introduction_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: distribution_channels
+      label: distribution_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: channels_1
+      label: Channels 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: channels_1_options
+      label: Channels 1 Options
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 7
+      name: channels_2
+      label: Channels 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: channels_2_options
+      label: Channels 2 Options
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 9
+      name: timing
+      label: Timing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: timing_options
+      label: Timing Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: timing_options_1
+      label: Timing Options 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: timing_options_1_options
+      label: Timing Options 1 Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: timing_options_2
+      label: Timing Options 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: timing_options_2_options
+      label: Timing Options 2 Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_addresses
+      label: Email addresses
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: phone_numbers
+      label: Phone numbers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: survey_days
+      label: Survey days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: survey_days_1
+      label: Survey days 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: survey_days_1_options
+      label: Survey days 1 Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: survey_days_2
+      label: Survey days 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: survey_days_2_options
+      label: Survey days 2 Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: survey_hours
+      label: Survey hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: survey_hours_1
+      label: Survey hours 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survey_hours_1_options
+      label: Survey hours 1 Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

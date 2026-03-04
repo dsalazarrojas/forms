@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Vineyard Barrels Requisition Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_timing
+      label: Delivery Timing
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: inventory_needs
+      label: Inventory Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: internal_approvals
+      label: Internal Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 5
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 6
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 7
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_needed
+      label: Time Needed
+      hint: null
+      type: time
+      options: []
+      required: true

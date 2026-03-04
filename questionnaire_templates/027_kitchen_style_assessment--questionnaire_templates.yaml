@@ -1,0 +1,350 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Style Assessment
+    pages:
+    - id: 1
+      name: kitchen_style_assessment
+      label: What is your current kitchen style?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Modern''}'
+      - '{''label'': ''Traditional''}'
+      - '{''label'': ''Rustic''}'
+      - '{''label'': ''Transitional''}'
+      required: false
+    - id: 2
+      name: budget_constraint
+      label: How much are you willing to spend?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: kitchen_style_assessment_2
+      label: What is the primary material of your current kitchen?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Solid Surface''}'
+      - '{''label'': ''Laminate''}'
+      - '{''label'': ''Engineered Stone''}'
+      - '{''label'': ''Granite''}'
+      required: false
+    - id: 4
+      name: renovation_goals
+      label: What are your current renovation goals for your kitchen?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Increase Storage Space''}'
+      - '{''label'': ''Improve Aesthetics''}'
+      - '{''label'': ''Update to Modernize''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: current_kitchen_size
+      label: How many people typically use the kitchen?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: kitchen_style_assessment_3
+      label: What type of lighting do you currently have in your kitchen?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''LED''}'
+      - '{''label'': ''Recessed''}'
+      - '{''label'': ''Under-Cabinet''}'
+      - '{''label'': ''Pendant''}'
+      required: false
+    - id: 7
+      name: renovation_scope
+      label: What scope of the renovation do you plan to tackle?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Full Kitchen''}'
+      - '{''label'': ''Partial Kitchen''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: kitchen_layout
+      label: What type of kitchen layout do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''U-Shaped''}'
+      - '{''label'': ''L-Shaped''}'
+      - '{''label'': ''Linear''}'
+      - '{''label'': ''Galley''}'
+      required: false
+    - id: 9
+      name: design_style
+      label: What design style do you lean towards?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Modern''}'
+      - '{''label'': ''Traditional''}'
+      - '{''label'': ''Rustic''}'
+      - '{''label'': ''Transitional''}'
+      required: false
+    - id: 10
+      name: cabinet_style
+      label: What cabinet style do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Stock''}'
+      - '{''label'': ''Semi-Custom''}'
+      - '{''label'': ''Custom''}'
+      required: false
+    - id: 11
+      name: appliance_type
+      label: What type of appliances do you currently have in your kitchen?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Built-in Appliances''}'
+      - '{''label'': ''Major Appliances''}'
+      - '{''label'': ''Minor Appliances''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: cabinet_height
+      label: What height do you prefer for your cabinets?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Above 72 inches''}'
+      - '{''label'': ''48-72 inches''}'
+      - '{''label'': ''36-48 inches''}'
+      - '{''label'': ''Below 36 inches''}'
+      required: false
+    - id: 13
+      name: cabinet_width
+      label: What width do you prefer for your cabinets?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''12-15 inches''}'
+      - '{''label'': ''18-21 inches''}'
+      - '{''label'': ''24-27 inches''}'
+      - '{''label'': ''30-33 inches''}'
+      required: false
+    - id: 14
+      name: counter_material
+      label: What type of counter material do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Laminate''}'
+      - '{''label'': ''Solid Surface''}'
+      - '{''label'': ''Granite''}'
+      - '{''label'': ''Marble''}'
+      required: false
+    - id: 15
+      name: sink_type
+      label: What type of sink do you currently have in your kitchen?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Drop-in''}'
+      - '{''label'': ''Under-Mount''}'
+      - '{''label'': ''Top-Mount''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: faucet_style
+      label: What style of faucet do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Single-Handle''}'
+      - '{''label'': ''Double-Handle''}'
+      - '{''label'': ''Wall-Mount''}'
+      - '{''label'': ''Wall-Bridge''}'
+      required: false
+    - id: 17
+      name: faucet_material
+      label: What material do you prefer for your faucet?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Stainless Steel''}'
+      - '{''label'': ''Bronze''}'
+      - '{''label'': ''Brass''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: countertop_material
+      label: What type of countertop material do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Granite''}'
+      - '{''label'': ''Marble''}'
+      - '{''label'': ''Quartz''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: flooring_type
+      label: What type of flooring do you currently have in your kitchen?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Hardwood''}'
+      - '{''label'': ''Laminate''}'
+      - '{''label'': ''Ceramic''}'
+      - '{''label'': ''Vinyl''}'
+      required: false
+    - id: 20
+      name: electrical_outlets
+      label: Are you willing to move electrical outlets?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 21
+      name: plumbing_fixtures
+      label: What style of plumbing fixtures do you currently have in your kitchen?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Single-Handle''}'
+      - '{''label'': ''Single-Handle w/ Touch Control''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: lighting_fixtures
+      label: What style of lighting fixtures do you currently have in your kitchen?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: kitchen_style_assessment_4
+      label: What style do you prefer for your kitchen island?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Rectangle w/ Sink''}'
+      - '{''label'': ''Square w/ Sink''}'
+      - '{''label'': ''Round w/ Sink''}'
+      - '{''label'': ''Peninsula w/ Sink''}'
+      - '{''label'': ''Peninsula w/ No Sink''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: kitchen_style_assessment_5
+      label: What type of backsplash do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Glass''}'
+      - '{''label'': ''Tile''}'
+      - '{''label'': ''Painted''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: kitchen_style_assessment_6
+      label: Are there any other design elements you would like to include in your
+        kitchen?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: kitchen_style_assessment_7
+      label: What type of kitchen style do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Modern''}'
+      - '{''label'': ''Traditional''}'
+      - '{''label'': ''Rustic''}'
+      - '{''label'': ''Transitional''}'
+      required: false
+    - id: 27
+      name: cabinet_color
+      label: What color do you prefer for your cabinets?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Light Gray''}'
+      - '{''label'': ''Dark Gray''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 28
+      name: countertop_color
+      label: What color do you prefer for your countertop?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Light Gray''}'
+      - '{''label'': ''Dark Gray''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 29
+      name: flooring_color
+      label: What color do you prefer for your flooring?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Hardwood''}'
+      - '{''label'': ''Light Gray''}'
+      - '{''label'': ''Dark Gray''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 30
+      name: electrical_color
+      label: What color do you prefer for your electrical outlets?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Light Gray''}'
+      - '{''label'': ''Dark Gray''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 31
+      name: plumbing_color
+      label: What color do you prefer for your plumbing fixtures?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Light Gray''}'
+      - '{''label'': ''Dark Gray''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 32
+      name: lighting_color
+      label: What color do you prefer for your lighting fixtures?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Light Gray''}'
+      - '{''label'': ''Dark Gray''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 33
+      name: kitchen_color
+      label: What style do you prefer for your kitchen?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Modern''}'
+      - '{''label'': ''Traditional''}'
+      - '{''label'': ''Rustic''}'
+      - '{''label'': ''Transitional''}'
+      required: false

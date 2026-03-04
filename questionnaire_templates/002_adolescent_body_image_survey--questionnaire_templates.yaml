@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adolescent Body Image Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: -- Survey Introduction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age
+      label: Age
+      hint: Enter age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: gender_identity
+      label: Gender identity
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Nonbinary
+      - Prefer not to say
+      required: false
+    - id: 4
+      name: satisfaction_with_body
+      label: Satisfaction with body image
+      hint: Rate your satisfaction over the past month
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
+      required: true
+    - id: 5
+      name: influence_factors
+      label: Factors influencing body image
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Peers and friends
+      - Family
+      - School environment
+      - Advertising
+      required: false
+    - id: 6
+      name: eating_habits_concerns
+      label: Eating habits concerns
+      hint: Select if any apply
+      type: select_multiple
+      options:
+      - Skipping meals
+      - Overeating
+      - Restrictive eating
+      - Binge episodes
+      - None
+      required: false
+    - id: 7
+      name: body_image_impact
+      label: Body image impact on daily life
+      hint: Describe how body image affects school or activities
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support_needed
+      label: Type of support desired
+      hint: Select any supports you would find helpful
+      type: select_multiple
+      options:
+      - Counseling
+      - Peer support groups
+      - Family sessions
+      - Educational resources
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: Optional for follow up
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: final_comments
+      label: Final comments
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

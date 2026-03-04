@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salad Ingredients Knowledge Quiz
+    pages:
+    - id: 1
+      name: salad_ingredients_knowledge_quiz_form
+      label: Salad Ingredients Knowledge Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_suggested_salad_ingredients
+      label: Select Suggested Salad Ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: select_salad_dressing
+      label: Select Salad Dressing
+      hint: null
+      type: select_one
+      options:
+      - Vinaigrette
+      - Caesar
+      - Ranch
+      - Greek
+      - Blue Cheese
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: trainer_phone
+      label: Trainer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

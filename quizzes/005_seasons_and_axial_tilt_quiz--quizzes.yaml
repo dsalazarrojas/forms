@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasons And Axial Tilt Quiz
+    pages:
+    - id: 1
+      name: seasons_and_axial_tilt_quiz_page_1
+      label: Seasons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: axial_tilt_quiz_question_1
+      label: What is the time of year when Earth is tilted 23.5 degrees?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Summer''}'
+      - '{''label'': ''Winter''}'
+      - '{''label'': ''Spring''}'
+      - '{''label'': ''Autumn''}'
+      required: false
+    - id: 3
+      name: axial_tilt_quiz_question_2
+      label: What is the time of year when Earth is tilted 0 degrees?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Spring''}'
+      - '{''label'': ''Autumn''}'
+      required: false
+    - id: 4
+      name: axial_tilt_quiz_question_3
+      label: Which of the following describes the Earth's axial tilt?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': "The tilt is in sync with Earth''s seasons."}'
+      - '{''label'': "The tilt is not in sync with Earth''s seasons."}'
+      - '{''label'': "I don''t know."}'
+      required: false
+    - id: 5
+      name: axial_tilt_quiz_question_4
+      label: Which of the following is a result of Earth's axial tilt?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': "Changes in Earth''s temperature."}'
+      - '{''label'': "Changes in Earth''s precipitation."}'
+      - '{''label'': "Changes in Earth''s atmospheric pressure."}'
+      - '{''label'': "I don''t know."}'
+      required: false
+    - id: 6
+      name: axial_tilt_quiz_question_5
+      label: What is the main reason why scientists measure Earth's axial tilt?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': "To understand the effects of the tilt on Earth''s climate."}'
+      - '{''label'': "To understand the effects of the tilt on Earth''s geography."}'
+      - '{''label'': "To understand the effects of the tilt on Earth''s oceans."}'
+      - '{''label'': "I don''t know."}'
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: tenant_communication_preference_survey
+    pages:
+    - id: 1
+      name: survey_details
+      label: Survey Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_methods
+      label: Contact Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Message
+      required: false
+    - id: 3
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_timing
+      label: Preferred Timing
+      hint: null
+      type: time
+      options: []
+      required: false

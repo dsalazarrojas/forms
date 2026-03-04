@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eye And Ear Infection Quiz
+    pages:
+    - id: 1
+      name: eye_and_ear_infection_quiz
+      label: What is your age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: ear_infection_symptoms
+      label: Have you experienced any of these ear infection symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Ear pain
+      - Discharge
+      - Fever
+      - Swelling
+      - Redness
+      - Hearing loss
+      required: false
+    - id: 3
+      name: eye_infection_symptoms
+      label: Have you experienced any of these eye infection symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Blurred vision
+      - Eye pain
+      - Sensitivity to light
+      - Swollen eyelid
+      - Eye pain
+      - Redness
+      required: false
+    - id: 4
+      name: contact_with_another_person
+      label: Have you had contact with another person who has an ear infection
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 5
+      name: contact_with_another_person_eye
+      label: Have you had contact with another person who has an eye infection
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 6
+      name: medical_history
+      label: Do you have any medical history
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 7
+      name: medical_history_eye
+      label: Do you have any eye medical history
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: What is your follow up date
+      hint: null
+      type: date
+      options: []
+      required: false

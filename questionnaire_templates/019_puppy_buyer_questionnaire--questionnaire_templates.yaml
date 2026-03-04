@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Buyer Questionnaire
+    pages:
+    - id: 1
+      name: puppy_buyer_questionnaire
+      label: Puppy buyer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: puppy_name
+      label: puppy name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: puppy_breed
+      label: puppy breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: puppy_age
+      label: puppy age
+      hint: Please enter the puppy's age
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: puppy_gender
+      label: puppy gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: puppy_color
+      label: puppy color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: puppy_weight
+      label: puppy weight
+      hint: Please enter the puppy's weight
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: puppy_height
+      label: puppy height
+      hint: Please enter the puppy's height
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: seller
+      label: seller name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: seller_email
+      label: seller email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: seller_phone
+      label: seller phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: buyer
+      label: buyer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: buyer_email
+      label: buyer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: buyer_phone
+      label: buyer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: puppy_diet
+      label: puppy diet
+      hint: null
+      type: select_one
+      options:
+      - raw
+      - kibble
+      - canned food
+      - mix
+      required: true
+    - id: 16
+      name: puppy_size
+      label: puppy size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 17
+      name: puppy_activity_level
+      label: puppy activity level
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: true
+    - id: 18
+      name: puppy_socialization
+      label: puppy socialization
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: true
+    - id: 19
+      name: puppy_trainability
+      label: puppy trainability
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: true
+    - id: 20
+      name: puppy_behavior
+      label: puppy behavior
+      hint: null
+      type: select_one
+      options:
+      - good
+      - medium
+      - bad
+      required: true
+    - id: 21
+      name: puppy_health
+      label: puppy health
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - bad
+      required: true
+    - id: 22
+      name: puppy_special_requirements
+      label: puppy special requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: puppy_sensitivities
+      label: puppy sensitivities
+      hint: null
+      type: select_multiple
+      options:
+      - food
+      - environment
+      - people
+      required: true
+    - id: 24
+      name: puppy_allergies
+      label: puppy allergies
+      hint: null
+      type: select_multiple
+      options:
+      - food
+      - environment
+      - people
+      required: true
+    - id: 25
+      name: puppy_medications
+      label: puppy medications
+      hint: Please enter any medications the puppy is currently taking
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_coaching_goal_planning_survey
+    pages:
+    - id: 1
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coaching_areas
+      label: Coaching Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: motivation_levels
+      label: Motivation Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_progress
+      label: Current Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: desired_progress
+      label: Desired Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: goal_setting_dates
+      label: Goal Setting Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_planning
+      label: Follow Up Planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

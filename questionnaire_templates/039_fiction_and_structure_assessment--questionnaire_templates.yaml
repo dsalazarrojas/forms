@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: fiction_and_structure_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: story_info
+      label: Story Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: structure
+      label: Structure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: fiction_rating
+      label: Fiction Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: structure_rating
+      label: Structure Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Short Story''}'
+      - '{''label'': ''Novel''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''On Hold''}'
+      required: true
+    - id: 12
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: structure_info
+      label: Structure Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: feedback_text
+      label: Feedback Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: submission_timezone
+      label: Submission Timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''UTC''}'
+      - '{''label'': ''Local Time''}'
+      required: false
+    - id: 19
+      name: submission_timezone_offset
+      label: Submission Timezone Offset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_location
+      label: Submission Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_latitude
+      label: Submission Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submission_longitude
+      label: Submission Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: submission_elevation
+      label: Submission Elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submission_accuracy
+      label: Submission Accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submission_altitude
+      label: Submission Altitude
+      hint: null
+      type: number
+      options: []
+      required: false

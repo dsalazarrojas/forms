@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Medicine Quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_type
+      label: Quiz Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: quiz_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quiz_type_other_desc
+      label: Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

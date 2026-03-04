@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: ICG 1 1 Form
+    pages:
+    - id: 1
+      name: first_page
+      label: direct_report_one_to_one_meeting_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: one_to_one_meeting_type
+      label: one_to_one_meeting_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''meeting'', ''label'': ''Meeting''}'
+      - '{''id'': 2, ''name'': ''call'', ''label'': ''Call''}'
+      - '{''id'': 3, ''name'': ''call_meeting'', ''label'': ''Call Meeting''}'
+      required: true
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''online'', ''label'': ''Online''}'
+      - '{''id'': 2, ''name'': ''offline'', ''label'': ''Offline''}'
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time_end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: meeting_participants
+      label: meeting_participants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''user_1'', ''label'': ''User 1''}'
+      - '{''id'': 2, ''name'': ''user_2'', ''label'': ''User 2''}'
+      required: true
+    - id: 11
+      name: meeting_location
+      label: meeting_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''location_1'', ''label'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''location_2'', ''label'': ''Location 2''}'
+      required: false

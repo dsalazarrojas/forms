@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Records Request Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Contact Person 1''}'
+      - '{''option2'': ''Contact Person 2''}'
+      required: false
+    - id: 3
+      name: records_request_details
+      label: Records Request Details
+      hint: Please provide specific details about the records you need
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: file_attachment
+      label: File Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 17
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 19
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 20
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 3''}'
+      - '{''option3'': ''Option 4''}'
+      required: true
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''In Progress''}'
+      - '{''option2'': ''Completed''}'
+      - '{''option3'': ''Not Started''}'
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: file_link
+      label: File Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_link
+      label: Submission Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

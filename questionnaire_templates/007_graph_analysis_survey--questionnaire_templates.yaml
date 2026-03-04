@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graph Analysis Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: graph_background
+      label: graph_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage_habits
+      label: usage_habits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tool_satisfaction
+      label: tool_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Highly Satisfied''}'
+      - '{''option'': ''Somewhat Satisfied''}'
+      - '{''option'': ''Neither Satisfied Nor Dissatisfied''}'
+      - '{''option'': ''Somewhat Dissatisfied''}'
+      - '{''option'': ''Highly Dissatisfied''}'
+      required: false
+    - id: 5
+      name: background_info
+      label: what_do_you_know_about_the_graph
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_sources
+      label: what_data_sources_do_you_use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Google Analytics''}'
+      - '{''option'': ''Google Data Studio''}'
+      - '{''option'': ''Google BigQuery''}'
+      - '{''option'': ''Google Cloud Storage''}'
+      required: false
+    - id: 7
+      name: usage_info
+      label: how_do_you_use_the_graph
+      hint: null
+      type: text
+      options: []
+      required: false

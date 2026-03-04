@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cryptographic Communication Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audience
+      label: What audience are you in this context
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: adoption
+      label: What is your level of adoption of cryptographic communication
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 4
+      name: confidence
+      label: How confident are you in using cryptographic communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: needs
+      label: What are your needs around cryptographic communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: policy_implications
+      label: How do you think the use of cryptographic communication affects policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: product_development_implications
+      label: How do you think the use of cryptographic communication affects product
+        development
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: education_implications
+      label: How do you think the use of cryptographic communication affects education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: future_plans
+      label: Do you plan to use cryptographic communication in the future
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Is there anything else you would like to tell us?
+      hint: null
+      type: text
+      options: []
+      required: false

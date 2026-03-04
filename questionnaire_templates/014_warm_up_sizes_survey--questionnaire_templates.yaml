@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warm Up Sizes Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: size_question
+      label: Warm-up Garment Size
+      hint: null
+      type: select_one
+      options:
+      - '34'
+      - '35'
+      - '36'
+      - '37'
+      - '38'
+      - '39'
+      - '40'
+      - '41'
+      - '42'
+      - '43'
+      - '44'
+      - '45'
+      required: false
+    - id: 3
+      name: fit_preference
+      label: Fit Preference
+      hint: null
+      type: select_one
+      options:
+      - Relaxed
+      - Comfort
+      - Performance
+      required: false
+    - id: 4
+      name: size_chart
+      label: Size Chart
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 5
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Replacement
+      - Gift
+      - Other
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Mobile/Phone
+      hint: Enter your mobile or phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coach_details
+      label: Coach Details
+      hint: null
+      type: select_multiple
+      options:
+      - Coach Name
+      - School/Club
+      - Contact Email
+      - Contact Number
+      required: true
+    - id: 9
+      name: school_details
+      label: School Details
+      hint: null
+      type: select_multiple
+      options:
+      - School Name
+      - School Code
+      - Location
+      required: true
+    - id: 10
+      name: order_details
+      label: Order Details
+      hint: null
+      type: select_multiple
+      options:
+      - Number of Orders
+      - Order Date
+      - Order Type
+      required: true
+    - id: 11
+      name: garment_details
+      label: Garment Details
+      hint: null
+      type: select_multiple
+      options:
+      - Garment Type
+      - Garment Size
+      - Garment Color
+      required: true
+    - id: 12
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false

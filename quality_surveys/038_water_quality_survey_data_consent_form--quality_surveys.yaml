@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Quality Survey Data Consent Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: water_source
+      label: Water Source
+      hint: Select the source of your water
+      type: select_one
+      options:
+      - '{''value'': ''well'', ''label'': ''Well''}'
+      - '{''value'': ''municipal_water'', ''label'': ''Municipal water''}'
+      - '{''value'': ''rainwater_collection_system'', ''label'': ''Rainwater collection
+        system''}'
+      - '{''value'': ''other'', ''label'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: permission
+      label: Permission for Water Quality Research
+      hint: Do you give permission for your water quality data to be used for research
+        purposes?
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: If you would like to be contacted for further information regarding this
+        form submission, you may enter your email address below.
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

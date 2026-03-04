@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Chapter Worksheet
+    pages:
+    - id: 1
+      name: chapter_reflection
+      label: Chapter Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: comprehension_check
+      label: Comprehension Check
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''correct''}'
+      - '{''value'': ''incorrect''}'
+      - '{''value'': ''unsure''}'
+      required: false
+    - id: 3
+      name: reflection_question_1
+      label: Reflection Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reflection_question_2
+      label: Reflection Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: learning_feedback_1
+      label: Learning Feedback 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Email address of student
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Phone number of student
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: Date completed
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: Time Completed
+      hint: Time completed
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

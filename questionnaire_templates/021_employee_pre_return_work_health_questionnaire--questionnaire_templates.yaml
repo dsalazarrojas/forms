@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Pre Return Work Health Questionnaire
+    pages:
+    - id: 1
+      name: pre_return_work_health_questionnaire
+      label: employee_pre_return_work_health_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_health_status
+      label: has_employees_health_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: return_date
+      label: employee_return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: health_risk_factors
+      label: employee_health_risk_factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_related_risk_factors
+      label: employee_work_related_risk_factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: health_procedure
+      label: employee_health_procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: health_status
+      label: employee_health_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: work_status
+      label: employee_work_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: health_risk_level
+      label: employee_health_risk_level
+      hint: null
+      type: number
+      options: []
+      required: false

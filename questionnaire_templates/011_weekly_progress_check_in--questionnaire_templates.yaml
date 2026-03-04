@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Progress Check In
+    pages:
+    - id: 1
+      name: weekly_progress_check_in_form
+      label: Weekly Progress Check In Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learner_progress
+      label: Learner Progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participation
+      label: Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participation_rate
+      label: Participation Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participation_comments
+      label: Participation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: goals_comments
+      label: Goals Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false

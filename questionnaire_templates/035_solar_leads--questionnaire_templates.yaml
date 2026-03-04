@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Leads
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_address
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: solar_system_type
+      label: Solar System Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: solar_panel_size
+      label: Solar Panel Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: roof_area
+      label: Roof Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: solar_install_date
+      label: Solar Install Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: user_message
+      label: User Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_note
+      label: User Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false

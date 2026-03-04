@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refugee Youth Education Barriers Survey
+    pages:
+    - id: 1
+      name: survey_participant
+      label: Refugee Youth Education Barriers Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Primary School''}'
+      - '{''id'': 2, ''label'': ''Secondary School''}'
+      - '{''id'': 3, ''label'': ''Higher Education''}'
+      required: false
+    - id: 4
+      name: barriers_to_education
+      label: Barriers to Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Financial''}'
+      - '{''id'': 2, ''label'': ''Language''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: education_support
+      label: Needed Education Support
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Academic Support''}'
+      - '{''id'': 2, ''label'': ''Psychological Support''}'
+      - '{''id'': 3, ''label'': ''Social Support''}'
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Primary''}'
+      - '{''id'': 2, ''label'': ''Secondary''}'
+      - '{''id'': 3, ''label'': ''Tertiary''}'
+      required: false
+    - id: 8
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Arabic''}'
+      - '{''id'': 2, ''label'': ''English''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_period
+      label: Time Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

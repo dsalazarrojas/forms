@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: omr_sheet_design_survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: educator_preferences
+      label: What are the top 3 design preferences of educators in your organization?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: assessment_team_preferences
+      label: What are the top 3 design preferences of assessment teams in your organization?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: priorities_for_improvement
+      label: What are the top 3 priorities for improving the design?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: submission_method
+      label: How will submissions be made in your organization?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: preferred_design_feature
+      label: What design feature do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: submission_process
+      label: What is the submission process like?
+      hint: null
+      type: text
+      options: []
+      required: false

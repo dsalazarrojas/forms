@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Training Consultation Questionnaire
+    pages:
+    - id: 1
+      name: goals
+      label: What are your goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_progress
+      label: current_progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: health_details
+      label: Health details e g weight height etc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_frequency
+      label: How often do you train per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: nutrition_plan
+      label: nutrition_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: motivation
+      label: motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exercise_routine
+      label: Exercise routine e g cardio strength endurance etc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Do you have any medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_relevant
+      label: Is this relevant to your doctor
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 10
+      name: training_plan
+      label: Would you like to create a personal training plan
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 11
+      name: contact_details
+      label: How would you like to be contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 12
+      name: submitter_type
+      label: Who is the submitter
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Group
+      required: false
+    - id: 13
+      name: submitter_name
+      label: Submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter e mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_organization
+      label: Organization or company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_department
+      label: Submitter department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_job_title
+      label: Submitter job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_location
+      label: Submitter location
+      hint: null
+      type: text
+      options: []
+      required: false

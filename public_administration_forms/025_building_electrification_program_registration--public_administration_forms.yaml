@@ -1,0 +1,362 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Electrification Program Registration
+    pages:
+    - id: 1
+      name: program_header
+      label: -- Building Electrification Program Registration --
+      hint: Register your building for electrification incentives and support
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_awareness
+      label: How did you learn about this program?
+      hint: null
+      type: select_one
+      options:
+      - Municipality or utility notice
+      - Community organization
+      - Social media
+      - News article
+      - Contractor recommendation
+      - Word of mouth
+      - Email
+      - Other
+      required: true
+    - id: 3
+      name: property_owner
+      label: -- Property Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: owner_name
+      label: Property owner name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: owner_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_type
+      label: Owner type
+      hint: null
+      type: select_one
+      options:
+      - Residential property owner
+      - Multi-family owner
+      - Commercial business
+      - Non-profit organization
+      - Municipal building
+      - Other
+      required: true
+    - id: 8
+      name: property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city_zip
+      label: City and ZIP code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Multi-family building
+      - Commercial building
+      - Mixed-use building
+      - Industrial facility
+      - Other
+      required: true
+    - id: 12
+      name: property_year_built
+      label: Year built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: square_feet
+      label: Square footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: current_heating
+      label: -- Current Heating System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: heating_fuel_type
+      label: Current heating fuel type
+      hint: null
+      type: select_one
+      options:
+      - Natural gas
+      - Oil
+      - Electric
+      - Propane
+      - District heating
+      - Other
+      - None
+      required: true
+    - id: 16
+      name: heating_system_age
+      label: Age of heating system
+      hint: Approximate years
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: heating_system_condition
+      label: Heating system condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Recently replaced
+      - Good - Functioning well
+      - Fair - Works but aging
+      - Poor - Frequent repairs
+      - Non-functional - needs replacement
+      required: true
+    - id: 18
+      name: water_heating
+      label: -- Water Heating System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: water_heater_fuel
+      label: Current water heating fuel
+      hint: null
+      type: select_one
+      options:
+      - Natural gas
+      - Oil
+      - Electric
+      - Propane
+      - Solar
+      - Heat pump
+      - District
+      - Other
+      required: true
+    - id: 20
+      name: water_heater_age
+      label: Water heater age
+      hint: Approximate years
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: cooking_appliances
+      label: -- Cooking and Appliances --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: cooking_fuel
+      label: Current cooking fuel
+      hint: null
+      type: select_one
+      options:
+      - Natural gas
+      - Electric
+      - Propane
+      - Mixed
+      - Other
+      required: true
+    - id: 23
+      name: appliance_efficiency
+      label: Overall appliance efficiency level
+      hint: null
+      type: select_one
+      options:
+      - Energy Star certified
+      - Above average efficiency
+      - Average efficiency
+      - Below average
+      - Unknown
+      required: false
+    - id: 24
+      name: electrification_interest
+      label: -- Electrification Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: electrification_priority
+      label: Electrification priority areas
+      hint: null
+      type: select_multiple
+      options:
+      - Space heating
+      - Water heating
+      - Cooking
+      - All systems
+      - Not sure
+      - Considering all options
+      required: true
+    - id: 26
+      name: motivation_factors
+      label: Primary motivation for electrification
+      hint: null
+      type: select_multiple
+      options:
+      - Environmental concerns
+      - Cost savings
+      - Health and indoor air quality
+      - Independence from fossil fuels
+      - Incentives available
+      - System replacement needed
+      - Grid modernization
+      - Other
+      required: true
+    - id: 27
+      name: timeline_plan
+      label: Planned timeline for upgrades
+      hint: null
+      type: select_one
+      options:
+      - Within 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      - Undecided
+      required: true
+    - id: 28
+      name: budget_expectations
+      label: Budget expectations
+      hint: null
+      type: select_one
+      options:
+      - Under 10,000
+      - 10,000-25,000
+      - 25,000-50,000
+      - 50,000-100,000
+      - Over 100,000
+      - Undecided
+      required: false
+    - id: 29
+      name: incentive_interest
+      label: -- Incentive and Support Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: incentive_availability
+      label: Aware of available incentives
+      hint: null
+      type: select_one
+      options:
+      - Yes, very aware
+      - Yes, somewhat aware
+      - Minimally aware
+      - Not aware
+      required: true
+    - id: 31
+      name: incentive_types
+      label: Interested in support types
+      hint: null
+      type: select_multiple
+      options:
+      - Rebates
+      - Grants
+      - Low-interest financing
+      - Technical assistance
+      - Contractor referrals
+      - Education and training
+      - All available support
+      required: true
+    - id: 32
+      name: financing_option
+      label: Preferred financing option
+      hint: null
+      type: select_one
+      options:
+      - Cash payment
+      - Rebate/grant
+      - Loan
+      - PACE financing
+      - Unsure
+      required: false
+    - id: 33
+      name: contractor_info
+      label: -- Contractor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: have_contractor
+      label: Do you already have a contractor?
+      hint: null
+      type: select_one
+      options:
+      - Yes, already selected
+      - No, need recommendations
+      - Considering options
+      required: true
+    - id: 35
+      name: contractor_referral
+      label: Would you like contractor referrals?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - false
+      - Maybe later
+      required: false
+    - id: 36
+      name: next_steps
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: additional_info
+      label: Additional information or questions
+      hint: null
+      type: text
+      options: []
+      required: false

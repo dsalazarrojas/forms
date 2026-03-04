@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Records Management Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quiz_answer
+      label: Quiz Answer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: Name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: score
+      label: Score
+      hint: Score
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: results
+      label: Results
+      hint: Results
+      type: text
+      options: []
+      required: false

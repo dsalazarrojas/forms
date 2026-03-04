@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Counting Skills Assessment
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_age
+      label: Student age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: grade_level
+      label: Grade level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assessment_date
+      label: Assessment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: teacher_name
+      label: Teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_2
+      label: -- Counting to 5 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: count_1_5
+      label: Can the student count from 1 to 5?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Without Help
+      - Yes - With Prompting
+      - false
+      required: true
+    - id: 9
+      name: count_1_5_order
+      label: Are the numbers in correct order?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - false
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Counting to 10 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: count_1_10
+      label: Can the student count from 1 to 10?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Without Help
+      - Yes - With Prompting
+      - false
+      required: true
+    - id: 12
+      name: count_1_10_accuracy
+      label: Counting accuracy for 1-10
+      hint: null
+      type: select_one
+      options:
+      - Perfect
+      - Mostly Correct
+      - Some Errors
+      - Many Errors
+      required: false
+    - id: 13
+      name: section_header_4
+      label: -- Counting Objects --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: count_objects_5
+      label: Can the student count 5 objects correctly?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - false
+      required: true
+    - id: 15
+      name: count_objects_10
+      label: Can the student count 10 objects correctly?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - false
+      required: true
+    - id: 16
+      name: counting_method
+      label: Counting method used
+      hint: null
+      type: select_one
+      options:
+      - One-to-One Correspondence
+      - Counting Aloud
+      - Pointing
+      - Other
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Number Recognition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: recognize_numbers_1_5
+      label: Recognizes numerals 1-5?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - false
+      required: true
+    - id: 19
+      name: recognize_numbers_1_10
+      label: Recognizes numerals 1-10?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - false
+      required: true
+    - id: 20
+      name: section_header_6
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: strengths
+      label: Student strengths in counting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: areas_development
+      label: Areas for development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_level
+      label: Overall counting skill level
+      hint: null
+      type: select_one
+      options:
+      - Above Grade Level
+      - At Grade Level
+      - Below Grade Level
+      - Needs Intervention
+      required: true
+    - id: 24
+      name: recommendations
+      label: Recommendations for practice
+      hint: null
+      type: text
+      options: []
+      required: false

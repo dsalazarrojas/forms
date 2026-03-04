@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: rural_clinic_healthcare_service_quality_survey
+    pages:
+    - id: 1
+      name: clinic_visit
+      label: Clinic Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: nurse
+      label: Nurse
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: waiting_time
+      label: Waiting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: will_return
+      label: Will Return
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: recommend
+      label: Recommend
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: clinic_cleanliness
+      label: Clinic Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: doctor_nurse_communication
+      label: Doctor Nurse Communication
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: waiting_time_sufficient
+      label: Waiting Time Sufficient
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

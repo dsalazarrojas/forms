@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: experiment-participant-information-collection-form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Participant
+      - Researcher
+      - Lab
+      required: true
+    - id: 6
+      name: research_study_name
+      label: Research Study Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: schedule
+      label: Schedule
+      hint: Enter date and time of participant's next visit
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

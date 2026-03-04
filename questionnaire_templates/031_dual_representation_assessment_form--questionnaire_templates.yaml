@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dual Representation Assessment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: translation_format
+      label: Translation Format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      required: false
+    - id: 3
+      name: participant_response_english
+      label: Participant Response English
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_response_spanish
+      label: Participant Response Spanish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_response_french
+      label: Participant Response French
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trainer_response_english
+      label: Trainer Response English
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trainer_response_spanish
+      label: Trainer Response Spanish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainer_response_french
+      label: Trainer Response French
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_translation_diff_english
+      label: Participant Translation Diff English
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_translation_diff_spanish
+      label: Participant Translation Diff Spanish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_translation_diff_french
+      label: Participant Translation Diff French
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: trainer_translation_diff_english
+      label: Trainer Translation Diff English
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trainer_translation_diff_spanish
+      label: Trainer Translation Diff Spanish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trainer_translation_diff_french
+      label: Trainer Translation Diff French
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trainer_notes
+      label: Trainer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_completion_status
+      label: Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''Started''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      required: false
+    - id: 18
+      name: participant_completion_status
+      label: Participant Completion Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''Started''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      required: false
+    - id: 19
+      name: participant_time_spent
+      label: Participant Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: trainer_time_spent
+      label: Trainer Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: participant_score
+      label: Participant Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: trainer_score
+      label: Trainer Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: trainer_comments
+      label: Trainer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

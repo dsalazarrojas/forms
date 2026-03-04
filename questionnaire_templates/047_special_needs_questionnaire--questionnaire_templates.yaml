@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Needs Questionnaire
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_needs
+      label: Medical Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Oxygen''}'
+      - '{''label'': ''Ventilator''}'
+      - '{''label'': ''Dialysis''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_conditions_description
+      label: Medical Conditions Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: hospital_stay_length
+      label: Hospital Stay Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_specialist
+      label: Medical Specialist
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Nurse''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: follow_up_visit
+      label: Follow Up Visit
+      hint: null
+      type: date
+      options: []
+      required: false

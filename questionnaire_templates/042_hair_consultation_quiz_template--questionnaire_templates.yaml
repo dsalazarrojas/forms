@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Consultation Quiz Template
+    pages:
+    - id: 1
+      name: form_start
+      label: form_start_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_details
+      label: hair_details_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: hair_length
+      label: hair_length_label
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: hair_textur
+      label: hair_textur_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hair_color
+      label: hair_color_label
+      hint: null
+      type: select_one
+      options:
+      - Blonde
+      - Red
+      - Brown
+      required: true
+    - id: 6
+      name: hair_style
+      label: hair_style_label
+      hint: null
+      type: select_one
+      options:
+      - Curly
+      - Wavy
+      - Straight
+      required: false
+    - id: 7
+      name: hair_preferred_style
+      label: hair_preferred_style_label
+      hint: null
+      type: select_multiple
+      options:
+      - Curly
+      - Wavy
+      - Straight
+      required: true
+    - id: 8
+      name: preferred_hair_color
+      label: preferred_hair_color_label
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blonde
+      - Brown
+      required: true
+    - id: 9
+      name: hair_goal
+      label: hair_goal_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: hair_problems
+      label: hair_problems_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: hair_goal_description
+      label: hair_goal_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_end
+      label: form_end_label
+      hint: null
+      type: text
+      options: []
+      required: false

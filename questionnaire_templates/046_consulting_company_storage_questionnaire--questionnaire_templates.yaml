@@ -1,0 +1,66 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Company Storage Questionnaire
+    pages:
+      - id: 1
+        name: section_storage_needs
+        label: -- Storage Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company name
+        hint: Name of organization
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: storage_types_required
+        label: Storage types required
+        hint: Select types of storage needed
+        type: select_multiple
+        options:
+          - Document storage
+          - Digital archival
+          - Equipment storage
+          - Off site warehouse
+        required: true
+      - id: 4
+        name: approximate_volume
+        label: Approximate volume
+        hint: Estimate number of boxes or GB of data
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: access_frequency
+        label: Access frequency
+        hint: How often stored items need to be accessed
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+        required: false
+      - id: 6
+        name: security_requirements
+        label: Security requirements
+        hint: Any special security or compliance needs
+        type: text
+        options: []
+        required: false

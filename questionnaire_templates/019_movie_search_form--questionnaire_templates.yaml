@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Search Form
+    pages:
+    - id: 1
+      name: search_preferences
+      label: search_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: genre
+      label: genre
+      hint: null
+      type: select_multiple
+      options:
+      - action
+      - comedy
+      - drama
+      - horror
+      - mystery
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: release_year
+      label: release_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: director
+      label: director
+      hint: null
+      type: select_multiple
+      options:
+      - Quentin Tarantino
+      - James Cameron
+      - Christopher Nolan
+      - Other
+      required: false
+    - id: 6
+      name: actor
+      label: actor
+      hint: null
+      type: select_multiple
+      options:
+      - Tom Hanks
+      - Leonardo DiCaprio
+      - Tom Cruise
+      - Other
+      required: false
+    - id: 7
+      name: movie_duration
+      label: movie_duration
+      hint: null
+      type: select_one
+      options:
+      - '90'
+      - '120'
+      - '150'
+      - '180'
+      - '210'
+      required: false
+    - id: 8
+      name: watched
+      label: watched
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: favorite
+      label: favorite
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: share_with
+      label: share_with
+      hint: null
+      type: select_one
+      options:
+      - self
+      - friends
+      - family
+      required: false
+    - id: 11
+      name: review
+      label: review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: review_rating
+      label: review_rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 13
+      name: review_text
+      label: review_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

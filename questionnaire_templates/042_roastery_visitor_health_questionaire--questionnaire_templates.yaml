@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roastery Visitor Health Questionaire
+    pages:
+    - id: 1
+      name: first_question
+      label: Have you had any symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: temperature
+      label: Fever
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: travel_history
+      label: recent_travel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: recent_travel
+      label: travel_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: fever_duration
+      label: fever_duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: fever_severity
+      label: fever_severity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - None
+      required: true
+    - id: 8
+      name: recent_contact
+      label: recent_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: recent_contacted_person
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recent_contacted_person_other
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recent_contacted_person_other_label
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recent_contacted_person_other_hint
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recent_contacted_person_other_placeholder
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recent_contacted_person_other_value
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recent_contacted_person_other_value_2
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recent_contacted_person_other_value_3
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recent_contacted_person_other_value_4
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recent_contacted_person_other_value_5
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recent_contacted_person_other_value_6
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recent_contacted_person_other_value_7
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recent_contacted_person_other_value_8
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recent_contacted_person_other_value_9
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recent_contacted_person_other_value_10
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recent_contacted_person_other_value_11
+      label: recent_contacted_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

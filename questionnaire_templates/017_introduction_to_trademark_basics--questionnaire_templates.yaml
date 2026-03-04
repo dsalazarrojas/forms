@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Introduction To Trademark Basics
+    pages:
+    - id: 1
+      name: learner_feedback
+      label: Introduction To Trademark Basics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: follow_up_questions
+      label: Follow-up questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 5
+      name: submission_management
+      label: Submission Management
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

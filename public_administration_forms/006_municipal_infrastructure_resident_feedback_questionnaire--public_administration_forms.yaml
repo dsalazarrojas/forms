@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: municipal_infrastructure_resident_feedback_questionnaire
+    pages:
+    - id: 1
+      name: service_availability
+      label: What are you currently experiencing in your neighborhood?
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 2
+      name: service_quality
+      label: How would you rate the quality of local services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: neighborhood_conditions
+      label: How would you rate the condition of your neighborhood?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: community_satisfaction
+      label: How satisfied are you with your community?
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: false
+    - id: 5
+      name: contact_info
+      label: What is your contact information?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Any other comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_frequency
+      label: How frequently do you use local services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: services_importance
+      label: How important are local services?
+      hint: null
+      type: select_multiple
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: false

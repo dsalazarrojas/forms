@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Quiz
+    pages:
+    - id: 1
+      name: quiz_title
+      label: Online Quiz
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - quizzes
+      - surveys
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quiz_title
+      label: quiz_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: time_required
+      label: time_required
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone_hint
+      label: phone_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_hint
+      label: email_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category_hint
+      label: category_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quiz_title_hint
+      label: quiz_title_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: time_hint
+      label: time_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: time_required_hint
+      label: time_required_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email_subject
+      label: email_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email_body
+      label: email_body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: subject
+      label: subject
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 22
+      name: subject_hint
+      label: subject_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: language_hint
+      label: language_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: grade_level_hint
+      label: grade_level_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_hint
+      label: submit_hint
+      hint: null
+      type: text
+      options: []
+      required: false

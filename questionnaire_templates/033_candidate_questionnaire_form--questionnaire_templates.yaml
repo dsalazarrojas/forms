@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Questionnaire Form
+    pages:
+    - id: 1
+      name: preliminary_info_section
+      label: -- Preliminary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name_q
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_applied_for_q
+      label: Position Applied For
+      hint: What role is this for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_job_title_q
+      label: Current Job Title
+      hint: Your current or most recent position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_salary_amount
+      label: Current Salary
+      hint: Specify amount and currency
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expected_salary_amount
+      label: Expected Salary
+      hint: Desired annual compensation
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: notice_period_text_q
+      label: Notice Period
+      hint: e.g. 2 weeks, 1 month
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: skills_experience_section
+      label: -- Skills and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: relevant_skill_main
+      label: Most relevant skill for this role
+      hint: Why are you a good fit
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: work_environment_pref
+      label: Preferred Work Environment
+      hint: Select your top choice
+      type: select_one
+      options:
+      - Fully Remote
+      - Hybrid
+      - In-Office
+      required: true
+    - id: 11
+      name: travel_openness
+      label: Are you open to business travel
+      hint: Frequency of work-related trips
+      type: select_one
+      options:
+      - Yes, up to 25%
+      - Yes, up to 50%
+      - Yes, more than 50%
+      - false
+      required: true
+    - id: 12
+      name: software_experience_years
+      label: Years of experience with relevant software/tools
+      hint: Approximate count of years
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: culture_motivation_section
+      label: -- Culture and Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: professional_motivations
+      label: What motivates you professionally
+      hint: Tell us what keeps you engaged
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: career_achievement_description
+      label: Biggest career achievement to date
+      hint: Something you are proud of
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: leaving_reason
+      label: Reason for leaving current position
+      hint: Why are you looking for a change
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_qualities_pref
+      label: What do you look for in a manager
+      hint: Describe your ideal leadership style
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: availability_reference_section
+      label: -- Availability and Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: earliest_start_date_q
+      label: Earliest start date
+      hint: When can you join the team
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: employer_contact_consent
+      label: May we contact your current employer for a reference
+      hint: Choose your preference for screening
+      type: select_one
+      options:
+      - Yes, immediately
+      - Only after an offer
+      - false
+      required: true
+    - id: 21
+      name: reference_1_details
+      label: Reference contact 1 - Name and Phone
+      hint: Personal or professional reference
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reference_2_details
+      label: Reference contact 2 - Name and Phone
+      hint: Personal or professional reference
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_date_q
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

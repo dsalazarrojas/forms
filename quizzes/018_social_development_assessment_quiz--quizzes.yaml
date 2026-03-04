@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Development Assessment Quiz
+    pages:
+    - id: 1
+      name: quiz_title
+      label: quiz-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Social Category 1''}'
+      - '{''id'': 2, ''name'': ''Social Category 2''}'
+      - '{''id'': 3, ''name'': ''Social Category 3''}'
+      required: false
+    - id: 3
+      name: section_1
+      label: section-1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Section 1 Option 1''}'
+      - '{''id'': 2, ''name'': ''Section 1 Option 2''}'
+      - '{''id'': 3, ''name'': ''Section 1 Option 3''}'
+      required: false
+    - id: 4
+      name: section_2
+      label: section-2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Section 2 Option 1''}'
+      - '{''id'': 2, ''name'': ''Section 2 Option 2''}'
+      - '{''id'': 3, ''name'': ''Section 2 Option 3''}'
+      required: false
+    - id: 5
+      name: section_3
+      label: section-3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Section 3 Option 1''}'
+      - '{''id'': 2, ''name'': ''Section 3 Option 2''}'
+      - '{''id'': 3, ''name'': ''Section 3 Option 3''}'
+      required: false
+    - id: 6
+      name: section_4
+      label: section-4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Section 4 Option 1''}'
+      - '{''id'': 2, ''name'': ''Section 4 Option 1''}'
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Follow up 1''}'
+      - '{''id'': 2, ''name'': ''Follow up 2''}'
+      - '{''id'': 3, ''name'': ''Follow up 3''}'
+      required: false

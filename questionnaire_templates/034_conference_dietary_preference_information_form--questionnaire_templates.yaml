@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Dietary Preference Information Form
+    pages:
+      - id: 1
+        name: dietary_header
+        label: Dietary Preference Information
+        hint: Help us accommodate your dietary needs
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Attendee Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: attendee_email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: registration_id
+        label: Registration ID
+        hint: Confirmation number
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: conference_info
+        label: Conference Information
+        hint: Event details
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: conference_name
+        label: Conference Name
+        hint: Event name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: conference_dates
+        label: Conference Dates
+        hint: When attending
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: meal_plan
+        label: Meal Plan Selection
+        hint: Which meals to include
+        type: select_multiple
+        options:
+          - All Meals Included
+          - Breakfast Only
+          - Lunch Only
+          - Dinner Only
+          - Coffee Breaks Only
+        required: true
+      - id: 9
+        name: dietary_classification
+        label: Dietary Classification
+        hint: Primary diet type
+        type: select_one
+        options:
+          - No Restrictions
+          - Vegetarian
+          - Vegan
+          - Pescatarian
+          - Kosher
+          - Halal
+          - Gluten Free
+          - Dairy Free
+          - Nut Allergy
+          - Other Allergy
+        required: true
+      - id: 10
+        name: dietary_details
+        label: Dietary Details
+        hint: Specific requirements
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: allergies
+        label: Food Allergies
+        hint: List all allergies
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: allergy_severity
+        label: Allergy Severity
+        hint: How severe
+        type: select_one
+        options:
+          - Mild Preference
+          - Moderate Avoidance
+          - Severe Must Avoid
+          - Life Threatening Cross Contamination Risk
+        required: false
+      - id: 13
+        name: religious_requirements
+        label: Religious Requirements
+        hint: Faith-based dietary needs
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: medical_requirements
+        label: Medical Requirements
+        hint: Doctor recommended diet
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: meal_preferences
+        label: Meal Preferences
+        hint: Food likes and dislikes
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: protein_preference
+        label: Protein Preference
+        hint: Preferred proteins
+        type: select_multiple
+        options:
+          - Beef
+          - Pork
+          - Chicken
+          - Fish
+          - Tofu
+          - Legumes
+          - Eggs
+        required: false
+      - id: 17
+        name: foods_to_avoid
+        label: Foods to Avoid
+        hint: Dislikes or restrictions
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: favorite_foods
+        label: Favorite Foods
+        hint: Preferences
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: breakfast_needs
+        label: Breakfast Needs
+        hint: Morning meal requirements
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: lunch_needs
+        label: Lunch Needs
+        hint: Midday meal requirements
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: dinner_needs
+        label: Dinner Needs
+        hint: Evening meal requirements
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: snack_preferences
+        label: Snack Preferences
+        hint: Break time snacks
+        type: select_multiple
+        options:
+          - Fresh Fruit
+          - Nuts and Seeds
+          - Granola Bars
+          - Cheese and Crackers
+          - Vegetables and Hummus
+          - No Snacks Needed
+        required: false
+      - id: 23
+        name: beverage_needs
+        label: Beverage Needs
+        hint: Drink requirements
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: emergency_contact
+        label: Emergency Contact
+        hint: For severe allergies
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_notes
+        label: Additional Notes
+        hint: Other dietary information
+        type: text
+        options: []
+        required: false

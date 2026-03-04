@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Appraisal Update Request Form
+    pages:
+    - id: 1
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Single Family''}'
+      - '{''id'': 2, ''label'': ''Condo''}'
+      - '{''id'': 3, ''label'': ''Townhouse''}'
+      required: false
+    - id: 4
+      name: appraiser_name
+      label: appraiser_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appraiser_phone
+      label: appraiser_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appraiser_email
+      label: appraiser_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_inspection
+      label: time_of_inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: property_value
+      label: property_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_update
+      label: reason_for_update
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Market Conditions''}'
+      - '{''id'': 2, ''label'': ''Property Value''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

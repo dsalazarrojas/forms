@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interfamily Property Transfer Form
+    pages:
+    - id: 1
+      name: family_member_1
+      label: family_member_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_member_2
+      label: family_member_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Lease Agreement'', ''value'': ''lease_agreement''}'
+      - '{''id'': 2, ''label'': ''Deed'', ''value'': ''deed''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 4
+      name: transfer_date
+      label: transfer_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: transfer_time
+      label: transfer_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: signature_type
+      label: signature_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''E-Signature'', ''value'': ''e_signature''}'
+      - '{''id'': 2, ''label'': ''Physical Signature'', ''value'': ''physical_signature''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 7
+      name: transferor_signature
+      label: transferor_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: transferee_signature
+      label: transferee_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: document_description
+      label: document_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: transferor_name
+      label: transferor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: transferee_name
+      label: transferee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: document_number
+      label: document_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: document_version
+      label: document_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transfer_date_2
+      label: transfer_date_2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: transfer_time_2
+      label: transfer_time_2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: document_status
+      label: document_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: document_type_2
+      label: document_type_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Lease Agreement'', ''value'': ''lease_agreement''}'
+      - '{''id'': 2, ''label'': ''Deed'', ''value'': ''deed''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 18
+      name: transfer_method
+      label: transfer_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 2, ''label'': ''Hand-to-Hand'', ''value'': ''hand_to_hand''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 19
+      name: transferor_email
+      label: transferor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: transferee_email
+      label: transferee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: transferor_phone
+      label: transferor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: transferee_phone
+      label: transferee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: transfer_date_3
+      label: transfer_date_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: transfer_time_3
+      label: transfer_time_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: transfer_date_4
+      label: transfer_date_4
+      hint: null
+      type: date
+      options: []
+      required: false

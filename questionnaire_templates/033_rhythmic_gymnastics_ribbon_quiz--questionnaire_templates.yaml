@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: rhythmic_gymnastics_ribbon_quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - Gold Medal
+      - Silver Medal
+      - Bronze Medal
+      required: false
+    - id: 7
+      name: ribbon_type
+      label: Ribbon Type
+      hint: null
+      type: select_multiple
+      options:
+      - Ribbon 1
+      - Ribbon 2
+      - Ribbon 3
+      required: false
+    - id: 8
+      name: date_time
+      label: Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

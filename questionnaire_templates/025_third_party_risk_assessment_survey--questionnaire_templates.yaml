@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Risk Assessment Survey
+    pages:
+    - id: 1
+      name: third_party_risk_assessment_survey_page
+      label: Third-Party Risk Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_website
+      label: vendor_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_type
+      label: review_type
+      hint: null
+      type: select_multiple
+      options:
+      - Risk Management
+      - IT Security
+      - Procurement
+      - Other
+      required: false
+    - id: 9
+      name: review_frequency
+      label: review_frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Semi-Annually
+      - Quarterly
+      - Monthly
+      - Other
+      required: false
+    - id: 10
+      name: review_comment
+      label: review_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vendor_type
+      label: vendor_type
+      hint: null
+      type: select_multiple
+      options:
+      - Type A
+      - Type B
+      - Type C
+      - Type D
+      required: false
+    - id: 12
+      name: vendor_risk_level
+      label: vendor_risk_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vendor_control_measure
+      label: vendor_control_measure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vendor_status
+      label: vendor_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      required: false
+    - id: 15
+      name: vendor_last_review_date
+      label: vendor_last_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vendor_next_review_date
+      label: vendor_next_review_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: vendor_review_rating
+      label: vendor_review_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: vendor_status_comment
+      label: vendor_status_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_comment
+      label: review_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      required: false

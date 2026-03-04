@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: form_title
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_output_file
+      label: output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_assinged_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_title
+      label: pre program survey
+      hint: A pre program survey is a questionnaire used to collect data from potential
+        students before they register for post-secondary programs.
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: form_program_id
+      label: program id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_program
+      label: program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_program_name
+      label: program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: form_program_survey_question_1
+      label: program survey question 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: form_program_survey_question_2
+      label: program survey question 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

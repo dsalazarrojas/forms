@@ -1,0 +1,143 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Language Acquisition Evaluation Form
+    pages:
+    - id: 1
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - School
+      - School District
+      - Other
+      required: true
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: language_acquisition_method
+      label: language_acquisition_method
+      hint: null
+      type: select_multiple
+      options:
+      - Immersion
+      - Language Course
+      - Language Immersion
+      - Other
+      - School Language Class
+      required: true
+    - id: 5
+      name: parent_language_acquisition
+      label: Parent Language Acquisition
+      hint: null
+      type: select_multiple
+      options:
+      - Both parents
+      - Mother
+      - Father
+      - Other
+      required: true
+    - id: 6
+      name: language_acquisition_level
+      label: language_acquisition_level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 7
+      name: student_ages
+      label: student_ages
+      hint: null
+      type: select_multiple
+      options:
+      - 5-6
+      - 7-8
+      - 9-10
+      - 11-12
+      - 13-14
+      - 15-16
+      required: true
+    - id: 8
+      name: learning_goals
+      label: learning_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Fluent
+      - Basic
+      - Functional
+      - None
+      required: true
+    - id: 9
+      name: language_use
+      label: language_use
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: teacher_evaluation
+      label: teacher_evaluation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: parent_evaluation
+      label: parent_evaluation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: other_evaluation
+      label: other_evaluation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: true

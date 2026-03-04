@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประกพมลนปนพประกประกนปนพยปม
+    pages:
+    - id: 1
+      name: input_consistency
+      label: input consistency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: output_quality
+      label: output quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''very good''}'
+      - '{''id'': 2, ''value'': ''satisfactory''}'
+      - '{''id'': 3, ''value'': ''unsatisfactory''}'
+      - '{''id'': 4, ''value'': ''very unsatisfactory''}'
+      required: false
+    - id: 3
+      name: output_effectiveness
+      label: output effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''very good''}'
+      - '{''id'': 2, ''value'': ''satisfactory''}'
+      - '{''id'': 3, ''value'': ''unsatisfactory''}'
+      - '{''id'': 4, ''value'': ''very unsatisfactory''}'
+      required: false
+    - id: 4
+      name: process_consistency
+      label: process consistency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: process_effectiveness
+      label: process effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''very good''}'
+      - '{''id'': 2, ''value'': ''good''}'
+      - '{''id'': 3, ''value'': ''satisfactory''}'
+      - '{''id'': 4, ''value'': ''unsatisfactory''}'
+      required: false
+    - id: 6
+      name: time_to_complete
+      label: time to complete
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: time_to_complete_variance
+      label: time to complete variance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_to_complete_variation
+      label: time to complete variation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: output_variance
+      label: output variance
+      hint: null
+      type: number
+      options: []
+      required: false

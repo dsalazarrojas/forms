@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Mortgage Qualification Survey
+    pages:
+    - id: 1
+      name: borrower_information
+      label: Borrower Information
+      hint: Provide details about the borrowing entity
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal name of the borrowing entity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Select the type of business entity
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Non-Profit
+      required: true
+    - id: 4
+      name: years_in_business
+      label: Years in Business
+      hint: Number of years the business has been operating
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Gross annual revenue in USD
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: credit_score_range
+      label: Credit Score Range
+      hint: Primary borrower credit score range
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (600-649)
+      - Below 600
+      required: true
+    - id: 7
+      name: property_information
+      label: Property Information
+      hint: Details about the commercial property
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: Type of commercial property
+      type: select_one
+      options:
+      - Office Building
+      - Retail Space
+      - Industrial/Warehouse
+      - Mixed-Use
+      - Multi-Family (5+ units)
+      - Hotel/Motel
+      - Medical Facility
+      required: true
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: Full street address of the property
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_square_footage
+      label: Property Square Footage
+      hint: Total square footage of the property
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: year_built
+      label: Year Built
+      hint: Year the property was constructed
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: loan_details
+      label: Loan Details
+      hint: Information about the requested loan
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: loan_amount_requested
+      label: Loan Amount Requested
+      hint: Total loan amount needed in USD
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: loan_purpose
+      label: Loan Purpose
+      hint: Primary purpose of the loan
+      type: select_one
+      options:
+      - Purchase
+      - Refinance
+      - Construction
+      - Renovation/Improvement
+      - Working Capital
+      required: true
+    - id: 15
+      name: desired_loan_term
+      label: Desired Loan Term
+      hint: Preferred loan term in years
+      type: select_one
+      options:
+      - 5 years
+      - 10 years
+      - 15 years
+      - 20 years
+      - 25 years
+      - 30 years
+      required: true
+    - id: 16
+      name: down_payment_available
+      label: Down Payment Available
+      hint: Amount available for down payment in USD
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: existing_debt_obligations
+      label: Existing Debt Obligations
+      hint: Total existing business debt in USD
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: additional_borrowers
+      label: Additional Borrowers
+      hint: Will there be additional borrowers on this loan
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: contact_email
+      label: Contact Email
+      hint: Email address for loan communications
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: contact_phone
+      label: Contact Phone
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true

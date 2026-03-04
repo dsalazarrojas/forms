@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Getting To Know You Questionnaire
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: favorite_food
+      label: favorite food
+      hint: null
+      type: select_one
+      options:
+      - Pizza
+      - Salad
+      - Sushi
+      - Tacos
+      required: true
+    - id: 7
+      name: favorite_hobby
+      label: favorite hobby
+      hint: null
+      type: select_multiple
+      options:
+      - Reading
+      - Hiking
+      - Cooking
+      - Traveling
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_work
+      label: time of work
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

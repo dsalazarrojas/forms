@@ -1,0 +1,403 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Digital Marketing Audit Form
+    pages:
+    - id: 1
+      name: retail_digital_marketing_audit_form
+      label: Retail Channel Overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: channels
+      label: What are your company's main retail channels?
+      hint: null
+      type: select_multiple
+      options:
+      - Online Store
+      - Social Media
+      - Email
+      required: true
+    - id: 3
+      name: current_channels
+      label: Which of the following is currently used?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: channels_used
+      label: Which retail channels are currently used?
+      hint: null
+      type: select_multiple
+      options:
+      - Online Store
+      - Social Media
+      - Email
+      required: true
+    - id: 5
+      name: retail_channel_performance
+      label: How would you rate the performance of your retail channels?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: retail_channel_goals
+      label: What are your current goals for the retail channels?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: channel_goals_1
+      label: Increase sales
+      hint: null
+      type: select_one
+      options:
+      - Increase sales
+      - Improve engagement
+      - Increase brand awareness
+      required: false
+    - id: 8
+      name: channel_goals_2
+      label: Improve engagement
+      hint: null
+      type: select_one
+      options:
+      - Increase sales
+      - Improve engagement
+      - Increase brand awareness
+      required: false
+    - id: 9
+      name: performance_goals_1
+      label: Performance
+      hint: null
+      type: select_one
+      options:
+      - Increase sales
+      - Improve engagement
+      - Increase brand awareness
+      required: false
+    - id: 10
+      name: performance_goals_2
+      label: Improve engagement
+      hint: null
+      type: select_one
+      options:
+      - Increase sales
+      - Improve engagement
+      - Increase brand awareness
+      required: false
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: audience_segment
+      label: What is your target audience segment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: target_location
+      label: Target Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location_details
+      label: Which location do you target?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: target_age
+      label: Target Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: audience_characteristics
+      label: What are the key characteristics of your target audience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: audience_characteristics_1
+      label: Age
+      hint: null
+      type: select_one
+      options:
+      - Age
+      - Location
+      - Income
+      required: false
+    - id: 18
+      name: audience_characteristics_2
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Age
+      - Location
+      - Income
+      required: false
+    - id: 19
+      name: audience_characteristics_3
+      label: Income
+      hint: null
+      type: select_one
+      options:
+      - Age
+      - Location
+      - Income
+      required: false
+    - id: 20
+      name: marketing_channels
+      label: Which marketing channels do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Online Store
+      required: true
+    - id: 21
+      name: marketing_channels_1
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Online Store
+      required: false
+    - id: 22
+      name: marketing_channels_2
+      label: Email
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Online Store
+      required: false
+    - id: 23
+      name: performance_metrics
+      label: Which KPIs do you use to measure performance?
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Engagement
+      - Conversion Rate
+      required: true
+    - id: 24
+      name: performance_metrics_1
+      label: Sales
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Engagement
+      - Conversion Rate
+      required: false
+    - id: 25
+      name: performance_metrics_2
+      label: Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Engagement
+      - Conversion Rate
+      required: false
+    - id: 26
+      name: performance_metrics_3
+      label: Conversion Rate
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Engagement
+      - Conversion Rate
+      required: false
+    - id: 27
+      name: performance_goals_1
+      label: Performance
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Engagement
+      - Conversion Rate
+      required: false
+    - id: 28
+      name: sales
+      label: Sales
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: sales_amount
+      label: What is your current sales volume?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: sales_channel
+      label: Which sales channel is this sales volume from?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: sales_channel_1
+      label: Online Store
+      hint: null
+      type: select_one
+      options:
+      - Online Store
+      - Social Media
+      - Email
+      required: false
+    - id: 32
+      name: sales_channel_2
+      label: Social Media
+      hint: null
+      type: select_one
+      options:
+      - Online Store
+      - Social Media
+      - Email
+      required: false
+    - id: 33
+      name: sales_channel_3
+      label: Email
+      hint: null
+      type: select_one
+      options:
+      - Online Store
+      - Social Media
+      - Email
+      required: false
+    - id: 34
+      name: sales_channel_4
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: sales_channel_5
+      label: Specify other sales channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: sales_channel_6
+      label: Sales channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: sales_channel_7
+      label: Other channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: sales_channel_8
+      label: Specify other channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: sales_channel_9
+      label: Sales channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: sales_channel_10
+      label: Channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: conversion
+      label: Conversion
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 42
+      name: conversion_rate
+      label: What is your conversion rate?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: conversion_channel
+      label: Which channel has the highest conversion rate?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: engagement
+      label: Engagement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 45
+      name: engagement_rate
+      label: What is your current engagement rate?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: engagement_channel
+      label: Which channel has the highest engagement rate?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: return_on_investment
+      label: Return on Investment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 48
+      name: roi
+      label: What is your current ROi?
+      hint: null
+      type: text
+      options: []
+      required: false

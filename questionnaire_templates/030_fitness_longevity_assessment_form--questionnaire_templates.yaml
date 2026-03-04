@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Longevity Assessment Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: clients-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: clients-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: program_type
+      label: program-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: frequency
+      label: frequency
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: exercise_plan
+      label: exercise-plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nutrition_plan
+      label: nutrition-plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goal_achievement
+      label: goal-achievement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: physical_assessment
+      label: physical-assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: mental_assessment
+      label: mental-assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emotional_assessment
+      label: emotional-assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: goal
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: review
+      label: review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: next_step
+      label: next-step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: additional-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: client_comments
+      label: client-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: admin_comments
+      label: admin-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: admin_comments_2
+      label: admin-comments-2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: admin_comments_3
+      label: admin-comments-3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: admin_comments_4
+      label: admin-comments-4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: admin_comments_5
+      label: admin-comments-5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: admin_comments_6
+      label: admin-comments-6
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contraception And Endometriosis Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Full name or initials
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: participant_type
+        label: Participant Type
+        hint: Your role
+        type: select_one
+        options:
+          - Student
+          - Healthcare professional
+          - Educator
+          - General public
+          - Other
+        required: true
+      - id: 3
+        name: quiz_date
+        label: Quiz Date
+        hint: Date of quiz
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: question_1
+        label: Question 1 - What is endometriosis?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - A hormonal imbalance
+          - Tissue similar to uterine lining growing outside uterus
+          - A type of infection
+          - A form of cancer
+        required: true
+      - id: 5
+        name: question_2
+        label: Question 2 - Which is NOT a common symptom of endometriosis?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Pelvic pain
+          - Painful periods
+          - Increased appetite
+          - Pain during intercourse
+        required: true
+      - id: 6
+        name: question_3
+        label: Question 3 - What age group is most commonly affected by endometriosis?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Pre-pubescent girls
+          - Reproductive age women
+          - Post-menopausal women
+          - All ages equally
+        required: true
+      - id: 7
+        name: question_4
+        label: Question 4 - Which contraceptive method is hormonal?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Copper IUD
+          - Condom
+          - Birth control pill
+          - Diaphragm
+        required: true
+      - id: 8
+        name: question_5
+        label: Question 5 - What is the primary purpose of contraception?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Treat infections
+          - Prevent pregnancy
+          - Regulate hormones only
+          - Cure endometriosis
+        required: true
+      - id: 9
+        name: question_6
+        label: Question 6 - Which contraceptive also helps with endometriosis symptoms?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Barrier methods
+          - Hormonal IUD
+          - Natural family planning
+          - Withdrawal method
+        required: true
+      - id: 10
+        name: question_7
+        label: Question 7 - What is the effectiveness rate of birth control pills when used perfectly?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - About 50 percent
+          - About 75 percent
+          - About 91 percent
+          - Over 99 percent
+        required: true
+      - id: 11
+        name: question_8
+        label: Question 8 - Which is a long-acting reversible contraceptive?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Birth control pill
+          - IUD
+          - Condom
+          - Patch
+        required: true
+      - id: 12
+        name: question_9
+        label: Question 9 - Can endometriosis affect fertility?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - No, never
+          - Yes, it can
+          - Only in severe cases
+          - Only in young women
+        required: true
+      - id: 13
+        name: question_10
+        label: Question 10 - What is the gold standard for diagnosing endometriosis?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Blood test
+          - Ultrasound only
+          - Laparoscopy
+          - Physical exam only
+        required: true
+      - id: 14
+        name: self_assessment
+        label: Self Assessment
+        hint: How would you rate your knowledge before this quiz?
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Somewhat knowledgeable
+          - Neutral
+          - Not very knowledgeable
+          - No prior knowledge
+        required: true
+      - id: 15
+        name: topics_of_interest
+        label: Topics of Interest
+        hint: What would you like to learn more about?
+        type: select_multiple
+        options:
+          - Endometriosis symptoms
+          - Endometriosis treatment
+          - Contraceptive options
+          - Hormonal methods
+          - Non-hormonal methods
+          - Fertility considerations
+          - Lifestyle management
+        required: false

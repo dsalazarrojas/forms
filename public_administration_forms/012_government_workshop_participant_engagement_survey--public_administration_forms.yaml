@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Workshop Participant Engagement Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Survey Start
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_satisfaction
+      label: Workshop Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: learning_experience
+      label: Learning Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participant_engagement
+      label: Participant Engagement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: workshop_improvement_areas
+      label: Workshop Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: participant_suggestions
+      label: Participant Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: participant_recommend
+      label: Participant Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

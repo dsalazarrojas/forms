@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: material_cutting_control_form
+    pages:
+    - id: 1
+      name: page1
+      label: production_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: machine_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: page3
+      label: operator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: page4
+      label: material_type
+      hint: null
+      type: select_one
+      options:
+      - Cutting Material 1
+      - Cutting Material 2
+      - Cutting Material 3
+      required: true
+    - id: 5
+      name: page5
+      label: quality_check
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: page6
+      label: cutting_method
+      hint: null
+      type: select_one
+      options:
+      - Method 1
+      - Method 2
+      - Method 3
+      required: true
+    - id: 7
+      name: page7
+      label: cutting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: page8
+      label: cut_sign_off
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: page9
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

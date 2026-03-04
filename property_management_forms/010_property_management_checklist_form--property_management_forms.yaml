@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Checklist Form
+    pages:
+    - id: 1
+      name: property_management_checklist_form_title
+      label: Property Management Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_management_checklist_form_property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Single Family Home''}'
+      - '{''id'': 2, ''label'': ''Multi Family Home''}'
+      - '{''id'': 3, ''label'': ''Condo''}'
+      required: false
+    - id: 3
+      name: property_management_checklist_form_property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_management_checklist_form_maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Needs Work''}'
+      required: false
+    - id: 5
+      name: property_management_checklist_form_last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: property_management_checklist_form_next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: property_management_checklist_form_inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Quarterly''}'
+      - '{''id'': 3, ''label'': ''Bi-Annually''}'
+      required: false
+    - id: 8
+      name: property_management_checklist_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_management_checklist_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: property_management_checklist_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

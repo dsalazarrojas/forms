@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Stress And Burnout Survey
+    pages:
+    - id: 1
+      name: parent_caregiver_role
+      label: Parent or Caregiver Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stress_level
+      label: How would you rate your current level of stress?
+      hint: Use a scale from 0-10
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: coping_strategies
+      label: What coping strategies do you use to manage your stress?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Parental self-care
+      - Exercise
+      - Mindfulness
+      - Support from friends and family
+      - Other
+      required: true
+    - id: 4
+      name: stress_sources
+      label: What are the main sources of stress in your life?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial worries
+      - Relationship issues
+      - Career or job pressures
+      - Other
+      required: false
+    - id: 5
+      name: experience_with_stress
+      label: How long have you been experiencing stress?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: experience_description
+      label: Can you please describe your experiences with stress?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: emotional_reactions
+      label: How do you typically react when experiencing stress?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support_services
+      label: Have you sought support from any services or professionals?
+      hint: null
+      type: select_multiple
+      options:
+      - Therapist
+      - Counselor
+      - Support group
+      - Other
+      required: false
+    - id: 9
+      name: burnout_experiences
+      label: What burnout experiences have you had?
+      hint: null
+      type: select_multiple
+      options:
+      - Emotional exhaustion
+      - Cognitive impairments
+      - Reduced motivation
+      - Other
+      required: false
+    - id: 10
+      name: burnout_frequency
+      label: How often do you feel burned out?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 11
+      name: impact_on_health
+      label: How has burnout affected your health?
+      hint: null
+      type: select_multiple
+      options:
+      - Mental health
+      - Physical health
+      - Relationship issues
+      - Other
+      required: false
+    - id: 12
+      name: burnout_impact_duration
+      label: How long have you been feeling burned out?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: burnout_severity
+      label: How severe has burnout been for you?
+      hint: Use a scale from 0-10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: burnout_consequences
+      label: What consequences have you experienced due to burnout?
+      hint: null
+      type: select_multiple
+      options:
+      - Increased anxiety
+      - Mood changes
+      - Reduced productivity
+      - Other
+      required: false
+    - id: 15
+      name: burnout_prevention
+      label: What prevents you from feeling more burned out?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: burnout_remediation
+      label: What remedies or treatments have you tried to address burnout?
+      hint: null
+      type: select_multiple
+      options:
+      - Self-care
+      - Mindfulness
+      - Exercise
+      - Other
+      required: false
+    - id: 17
+      name: burnout_support_services
+      label: Which services have you sought or would you like to seek for burnout
+        support?
+      hint: null
+      type: select_multiple
+      options:
+      - Therapist
+      - Counselor
+      - Support group
+      - Other
+      required: false
+    - id: 18
+      name: burnout_preventive_measures
+      label: What measures would you suggest to prevent burnout?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: burnout_additional_comments
+      label: Do you have any other comments about burnout?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: burnout_agreed_to_share
+      label: Can we share your responses with your school or organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: burnout_additional_comments
+      label: Do you have any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: burnout_agreed_to_follow_up
+      label: Can we follow up with you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: burnout_agreed_to_share
+      label: Can we share your responses with your school or organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: burnout_agreed_to_contact
+      label: Can we contact you for more information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: burnout_additional_comments
+      label: Do you have any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false

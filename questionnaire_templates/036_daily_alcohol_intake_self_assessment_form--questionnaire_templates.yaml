@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Alcohol Intake Self Assessment Form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intake
+      label: What is your alcohol intake today
+      hint: null
+      type: select_one
+      options:
+      - Beer
+      - Wine
+      - Spirits
+      - Water
+      - Other (please specify)
+      - None
+      required: false
+    - id: 3
+      name: beer_consume
+      label: How much beer did you drink today?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wine_consume
+      label: How much wine did you drink today?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: spirits_consume
+      label: How much spirits did you drink today?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: other_consume
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: water_consume
+      label: How much water did you drink today?
+      hint: null
+      type: number
+      options: []
+      required: false

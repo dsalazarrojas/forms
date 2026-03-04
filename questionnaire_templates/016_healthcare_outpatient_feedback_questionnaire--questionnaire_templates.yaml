@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Outpatient Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating1
+      label: how_would_you_rate_the_nurses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating2
+      label: how_would_you_rate_the_doctors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating3
+      label: how_would_you_rate_the_clinics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating4
+      label: how_would_you_rate_the_services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating5
+      label: how_would_you_rate_the_clinics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: suggestion
+      label: do_you_have_any_suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: do_you_agree_to_share_your_contact_info_for_follow_up
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 9
+      name: email
+      label: please_provide_your_email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: please_provide_your_phone_number
+      hint: null
+      type: text
+      options: []
+      required: true

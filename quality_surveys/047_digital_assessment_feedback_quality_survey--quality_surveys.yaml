@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Assessment Feedback Quality Survey
+    pages:
+    - id: 1
+      name: digital_assessment_feedback_quality_survey_page_1
+      label: Digital Assessment Feedback Quality Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your overall impression of this assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: How would you rate the difficulty level of this assessment?
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Too Easy'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Just Right'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Too Hard'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Not Applicable'', ''value'': 4}'
+      required: false
+    - id: 4
+      name: question_3
+      label: How would you rate the relevance of the questions?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Relevant'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Somewhat Relevant'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Not Relevant'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Not Applicable'', ''value'': 4}'
+      required: false
+    - id: 5
+      name: question_5
+      label: How would you rate the clarity of the instructions?
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_6
+      label: What suggestions do you have for improving this assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_7
+      label: Is there anything else you would like to say about this assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_8
+      label: How would you rate the overall quality of this assessment?
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Very Poor'', ''value'': 5}'
+      required: false
+    - id: 9
+      name: question_9
+      label: Do you have any other feedback about this assessment?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question_10
+      label: Do you think this assessment meets the learning objectives?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      required: false
+    - id: 11
+      name: question_11
+      label: How likely are you to use this assessment in future classes?
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Likely'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Somewhat Likely'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Not Very Likely'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Not at All Likely'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Not at All Likely'', ''value'': 5}'
+      required: false

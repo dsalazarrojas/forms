@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: herbal_medicine_safety_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: herbal_medicine_awareness
+      label: Herbal Medicine Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_interactions
+      label: Medication Interactions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: herbal_medicine_side_effects
+      label: Herbal Medicine Side Effects
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: herbal_medicine_dosage
+      label: Herbal Medicine Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: medical_professional
+      label: Medical Professional
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: followup
+      label: Followup
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: public-environmental-policy-sentiment-poll
+    pages:
+    - id: 1
+      name: environmental_policy_questionnaire
+      label: Environmental Policy Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: environmental_sentiment_rating
+      label: Environmental Sentiment Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: effective_pollution_control_measures
+      label: Effective Pollution Control Measures
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Agree''}'
+      - '{''label'': ''Disagree''}'
+      - '{''label'': ''Strongly Disagree''}'
+      - '{''label'': ''Neither Agree nor Disagree''}'
+      required: false
+    - id: 4
+      name: environmental_concerns
+      label: Environmental Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_effectiveness
+      label: Policy Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: environmental_sentiment
+      label: Environmental Sentiment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      - '{''label'': ''Neutral''}'
+      required: false
+    - id: 7
+      name: policy_relevance
+      label: Policy Relevance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: policy_sentiment_spread
+      label: Policy Sentiment Spread
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      required: false
+    - id: 9
+      name: policy_sentiment_average
+      label: Policy Sentiment Average
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      required: false
+    - id: 10
+      name: community_engagement
+      label: Community Engagement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      required: false
+    - id: 11
+      name: policy_effectiveness_ratio
+      label: Policy Effectiveness Ratio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policy_relevance_yes_no
+      label: Policy Relevance Yes/No
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 20
+      name: policy_sentiment_positive_negative
+      label: Policy Sentiment Positive/Negative
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      required: false
+    - id: 21
+      name: policy_effectiveness_level
+      label: Policy Effectiveness Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      required: false
+    - id: 22
+      name: environmental_concerns_level
+      label: Environmental Concerns Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      required: false
+    - id: 23
+      name: policy_sustainability
+      label: Policy Sustainability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      required: false
+    - id: 24
+      name: policy_effectiveness_yes_no
+      label: Policy Effectiveness Yes/No
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: policy_sustainability_yes_no
+      label: Policy Sustainability Yes/No
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

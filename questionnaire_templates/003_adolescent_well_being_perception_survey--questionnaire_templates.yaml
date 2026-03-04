@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adolescent Well Being Perception Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Well being Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name_initials
+      label: Name or initials
+      hint: Provide initials if prefer anonymity
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: Enter age in years
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: mood_last_two_weeks
+      label: Mood over last two weeks
+      hint: Choose the best option
+      type: select_one
+      options:
+      - Very low
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: true
+    - id: 5
+      name: sleep_quality
+      label: Sleep quality
+      hint: Typical sleep quality recently
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very good
+      required: true
+    - id: 6
+      name: social_support
+      label: Perceived social support
+      hint: Rate support from family and friends
+      type: select_one
+      options:
+      - None
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 7
+      name: stress_sources
+      label: Main sources of stress
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - School
+      - Family
+      - Peers
+      - Social media
+      - Health
+      required: false
+    - id: 8
+      name: coping_strategies
+      label: Coping strategies used
+      hint: Describe any strategies that help you cope
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: need_follow_up
+      label: Would you like follow up
+      hint: Staff will contact if yes and contact provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: Optional for follow up calls
+      type: text
+      options: []
+      required: false

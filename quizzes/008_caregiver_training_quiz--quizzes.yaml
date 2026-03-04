@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Training Quiz
+    pages:
+    - id: 1
+      name: section_caregiver_id
+      label: -- Caregiver Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_quiz
+      label: Date of Quiz
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_safety
+      label: -- Module 1 - Patient Safety --
+      hint: Choose the best answer for each question
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: quiz_q1
+      label: What is the first step in fall prevention for a new client?
+      hint: null
+      type: select_one
+      options:
+      - Bed Alarm
+      - Risk Assessment
+      - Call Light
+      - Siderails
+      required: true
+    - id: 7
+      name: quiz_q2
+      label: How often should a bed-bound patient be repositioned?
+      hint: To prevent pressure sores
+      type: select_one
+      options:
+      - Every 1 hour
+      - Every 2 hours
+      - Every 4 hours
+      - Every 8 hours
+      required: true
+    - id: 8
+      name: quiz_q3
+      label: Which of these is a sign of infection to report immediately?
+      hint: Monitor for changes in baseline
+      type: select_one
+      options:
+      - Increased Appetite
+      - Normal Temperature
+      - New Onset Confusion
+      - Improved Sleep
+      required: true
+    - id: 9
+      name: section_med_management
+      label: -- Module 2 - Medication Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: quiz_q4
+      label: What must be checked before administering medication?
+      hint: The Rights of Medication Administration
+      type: select_one
+      options:
+      - Right Patient
+      - Right Route
+      - Right Dose
+      - All of the above
+      required: true
+    - id: 11
+      name: quiz_q5
+      label: True or False - Caregivers can administer non-prescribed OTC medication
+        without approval?
+      hint: Over-the-counter drugs
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: section_ethics_doc
+      label: -- Module 3 - Ethics and Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: quiz_q6
+      label: When should an incident report be completed?
+      hint: In the event of an accident or injury
+      type: select_one
+      options:
+      - End of the week
+      - End of the shift
+      - Within 24 hours
+      - Only if requested
+      required: true
+    - id: 14
+      name: quiz_q7
+      label: Which of these is a violation of patient confidentiality?
+      hint: Protecting health information
+      type: select_one
+      options:
+      - Discussing care with the team
+      - Sharing photos on social media
+      - Documenting in the medical record
+      - Reporting to the manager
+      required: true
+    - id: 15
+      name: quiz_q8
+      label: Define Person-Centered Care
+      hint: Briefly explain what this means in your own words
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_feedback
+      label: -- Feedback and Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: quiz_feedback
+      label: How would you rate the clarity of the training material?
+      hint: 1 being unclear, 5 being very clear
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: training_suggestions
+      label: What topics do you need more training on?
+      hint: help us identify future educational needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_acknowledgment
+      label: I certify that I completed this quiz independently
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: signature_confirmation
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

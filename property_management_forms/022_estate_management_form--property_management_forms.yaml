@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Management Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: property_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tenant_details
+      label: tenant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request
+      label: request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''maintenance_request'', ''label'': ''Maintenance'',
+        ''value'': 1}'
+      - '{''id'': 2, ''name'': ''maintenance_request'', ''label'': ''Maintenance'',
+        ''value'': 2}'
+      required: false
+    - id: 5
+      name: maintenance_request
+      label: Maintenance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''maintenance_request'', ''label'': ''Maintenance'',
+        ''value'': 1}'
+      - '{''id'': 2, ''name'': ''maintenance_request'', ''label'': ''Maintenance'',
+        ''value'': 2}'
+      required: false
+    - id: 6
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''maintenance_type'', ''label'': ''Maintenance'', ''value'':
+        1}'
+      - '{''id'': 2, ''name'': ''maintenance_type'', ''label'': ''maintenance_request'',
+        ''value'': 2}'
+      - '{''id'': 3, ''name'': ''maintenance_type'', ''label'': ''maintenance_type'',
+        ''value'': 3}'
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_start_date
+      label: maintenance_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_end_date
+      label: maintenance_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''maintenance_status'', ''label'': ''Pending'', ''value'':
+        1}'
+      - '{''id'': 2, ''name'': ''maintenance_status'', ''label'': ''In Progress'',
+        ''value'': 2}'
+      - '{''id'': 3, ''name'': ''maintenance_status'', ''label'': ''Completed'', ''value'':
+        3}'
+      required: false
+    - id: 11
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''priority'', ''label'': ''High'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''priority'', ''label'': ''Medium'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''priority'', ''label'': ''Low'', ''value'': 3}'
+      required: false
+    - id: 12
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: request_time
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''assigned_user'', ''label'': ''ChatJimmy'', ''value'':
+        1}'
+      - Other
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''assigned_tool'', ''label'': ''chatjimmy'', ''value'':
+        1}'
+      - Other
+      required: false
+    - id: 16
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: request_comments
+      label: request_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''status'', ''label'': ''Pending'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''In Progress'', ''label'': ''In Progress'', ''value'':
+        2}'
+      - '{''id'': 3, ''name'': ''Completed'', ''value'': 3}'
+      required: false
+    - id: 20
+      name: completed
+      label: completed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''completed'', ''label'': ''Done'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''completed'', ''label'': ''Not Done'', ''value'':
+        2}'
+      - '{''id'': 3, ''name'': ''completed'', ''label'': ''In Progress'', ''value'':
+        3}'
+      required: false
+    - id: 21
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: property_notes
+      label: property_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false

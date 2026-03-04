@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: vacant_property_cctv_monitoring_request
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_contact
+      label: Property Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: monitoring_request_details
+      label: Monitoring Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorization_details
+      label: Authorization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: monitoring_scheduling
+      label: Monitoring Scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: security_team_contact
+      label: Security Team Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Monitoring Scheduling Done
+      - Monitoring in progress
+      - Not Yet Scheduled
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Other
+      required: true
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false

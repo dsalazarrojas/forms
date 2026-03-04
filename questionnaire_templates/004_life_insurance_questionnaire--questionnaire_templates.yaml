@@ -1,0 +1,342 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Questionnaire
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_history
+      label: Insurance History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 3
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Life
+      - Health
+      - Dental
+      required: false
+    - id: 4
+      name: premium_payers
+      label: Premium Payers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: premium_start_date
+      label: Premium Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: premium_end_date
+      label: Premium End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: coverage_status
+      label: Coverage Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: premium_status
+      label: Premium Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: coverage_type_2
+      label: Coverage Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: policy_number_2
+      label: Policy Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coverage_start_date_2
+      label: Coverage Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: coverage_end_date_2
+      label: Coverage End Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_provider
+      label: Policy Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Please provide any additional comments about the policy.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: policy_holder_address
+      label: Policy Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: policy_holder_email
+      label: Policy Holder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 29
+      name: policy_holder_phone
+      label: Policy Holder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: policy_holder_dob
+      label: Policy Holder DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: policy_holder_gender
+      label: Policy Holder Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 32
+      name: policy_holder_employment_status
+      label: Policy Holder Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 33
+      name: policy_holder_occupation
+      label: Policy Holder Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: policy_holder_income
+      label: Policy Holder Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: policy_holder_relationship_status
+      label: Policy Holder Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 36
+      name: policy_holder_marital_status
+      label: Policy Holder Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 37
+      name: policy_holder_number_of_dependents
+      label: Policy Holder Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: policy_holder_number_of_dependents_above_65
+      label: Policy Holder Number of Dependents Above 65
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: policy_holder_number_of_dependents_below_65
+      label: Policy Holder Number of Dependents Below 65
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: policy_holder_policy_holder_type
+      label: Policy Holder Policy Holder Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 41
+      name: policy_holder_policy_holder_type_2
+      label: Policy Holder Policy Holder Type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 42
+      name: policy_holder_employment_status_2
+      label: Policy Holder Employment Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 43
+      name: policy_holder_employment_status_3
+      label: Policy Holder Employment Status 3
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

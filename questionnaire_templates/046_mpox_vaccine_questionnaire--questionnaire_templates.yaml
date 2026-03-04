@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Vaccine Questionnaire
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccine_status
+      label: vaccine_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Eligible''}'
+      - '{''id'': 2, ''label'': ''Eligible''}'
+      - '{''id'': 3, ''label'': ''Partially Eligible''}'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_status
+      label: Medical Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 10
+      name: other
+      label: other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_appointment
+      label: Follow-up Appointment
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stereochemistry Knowledge Assessment
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Chemistry
+      - Physics
+      - Biology
+      required: false
+    - id: 4
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

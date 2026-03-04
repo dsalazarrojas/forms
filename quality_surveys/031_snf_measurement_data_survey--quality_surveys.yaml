@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: SNF Measurement Data Survey
+    pages:
+    - id: 1
+      name: what_is_your_name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: how_old_are_you
+      label: How old are you
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: what_is_your_email
+      label: What is your email
+      hint: 'format: abc@example.com'
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: what_is_your_phone
+      label: What is your phone
+      hint: 'format: (123) 456-1234'
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: snf
+      label: SNF
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: snf
+      label: SNF
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: what_is_your_address
+      label: What is your address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: how_often_do_you_visit
+      label: How often do you visit
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: what_is_your_age
+      label: What is your age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: how_do_you_feel_about_this_form
+      label: How do you feel about this form
+      hint: null
+      type: select_one
+      options:
+      - Like
+      - Dislike
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: more_comments
+      label: More comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Project Management Feedback Questionnaire
+    pages:
+    - id: 1
+      name: section_project_ident
+      label: -- Project and Client Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name_ident
+      label: Client Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_ident
+      label: Contact Person and Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name_ident
+      label: Name of Consulting Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_completion_date
+      label: Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_delivery_satisfaction
+      label: -- Delivery and Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction with Consulting Delivery (1-10)
+      hint: 1 - Very Dissatisfied, 10 - Very Satisfied
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: scope_fulfillment_rating
+      label: To what extent did we fulfill the original project scope?
+      hint: 1 - Not at All, 5 - Fully Fulfilled
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: objective_achievement_rating
+      label: To what extent were the project's primary objectives met?
+      hint: 1 - Not at All, 5 - Fully Achieved
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: primary_deliverable_satisfaction
+      label: Satisfaction with the Quality of Final Deliverables
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_project_management
+      label: -- Project Management Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: communication_rating
+      label: Communication and Responsiveness During Project
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: schedule_adherence_rating
+      label: Adherence to Project Milestones and Schedule
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: expertise_demonstration_rating
+      label: Demonstration of Subject Matter Expertise
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: problem_solving_effectiveness
+      label: Effectiveness in Addressing Challenges and Risks
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_improvement_referral
+      label: -- Improvement and Referrals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_strength_ident
+      label: What was the strongest aspect of our consulting delivery?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: primary_improvement_suggestion
+      label: One area where we could improve our project management
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: likelihood_to_rehire
+      label: How likely are you to hire our consultancy again?
+      hint: 1 - Not Likely, 5 - Very Likely
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: refer_to_others_likelihood
+      label: How likely are you to refer us to a colleague?
+      hint: 1 - Not Likely, 5 - Very Likely
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_final_comments
+      label: -- Additional Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments_desc
+      label: Any additional comments or observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: permission_to_use_testimonial
+      label: May we use your feedback as a professional testimonial?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Include my name/company
+      - Yes - Keep it anonymous
+      - No - Internal use only
+      required: true
+    - id: 24
+      name: submission_date
+      label: Date of Questionnaire Completion
+      hint: null
+      type: date
+      options: []
+      required: true

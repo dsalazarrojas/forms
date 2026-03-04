@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: trace_element_impact_assessment_quiz
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: trace_elements
+      label: Trace Elements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: public_health
+      label: Public Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessment
+      label: Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: results
+      label: Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quiz_completed
+      label: Quiz Completed
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: false
+    - id: 10
+      name: comments2
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: score2
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false

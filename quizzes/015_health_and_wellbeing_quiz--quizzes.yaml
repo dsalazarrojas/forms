@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health And Wellbeing Quiz
+    pages:
+    - id: 1
+      name: wellbeing_quiz_questions
+      label: wellbeing_quiz_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: wellbeing_score
+      label: wellbeing_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wellbeing_score_category
+      label: wellbeing_score_category
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: wellbeing_question_1
+      label: wellbeing_question_1
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      required: false
+    - id: 7
+      name: wellbeing_question_2
+      label: wellbeing_question_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: wellbeing_question_3
+      label: wellbeing_question_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: wellbeing_question_4
+      label: wellbeing_question_4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: wellbeing_question_5
+      label: wellbeing_question_5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

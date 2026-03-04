@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: lifestyle_survey
+    pages:
+    - id: 1
+      name: intro_section
+      label: What is your background information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: what_is_your_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: your_gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 4
+      name: occupation
+      label: your_occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: your_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: your_phone
+      hint: null
+      type: text
+      options: []
+      required: false

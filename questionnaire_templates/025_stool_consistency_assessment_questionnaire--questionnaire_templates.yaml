@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stool Consistency Assessment Questionnaire
+    pages:
+    - id: 1
+      name: intake_page
+      label: Intake Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bowel_habits
+      label: Bowel Habits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very loose''}'
+      - '{''label'': ''Loose''}'
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Loose''}'
+      - '{''label'': ''Very firm''}'
+      - '{''label'': ''Firm''}'
+      required: false
+    - id: 3
+      name: stool_consistency
+      label: Stool Consistency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Type 1''}'
+      - '{''label'': ''Type 2''}'
+      - '{''label'': ''Type 3''}'
+      - '{''label'': ''Type 4''}'
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any additional comments or concerns
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_questions
+      label: Follow-up Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''How often do you have bowel movements?''}'
+      - '{''label'': ''How long do you spend in the bathroom?''}'
+      - '{''label'': ''Are you satisfied with your bowel movements?''}'
+      required: false
+    - id: 6
+      name: research_questions
+      label: Research Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''How often do you experience abdominal pain?''}'
+      - '{''label'': ''How often do you experience bloating?''}'
+      - '{''label'': ''How often do you experience bowel irregularity?''}'
+      required: false
+    - id: 7
+      name: intake_frequency
+      label: Intake Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Every other day''}'
+      - '{''label'': ''3-4 times a week''}'
+      - '{''label'': ''Less than 3 times a week''}'
+      required: false
+    - id: 8
+      name: intake_duration
+      label: Intake Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-2 months''}'
+      - '{''label'': ''Every 3-6 months''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 10
+      name: follow_up_duration
+      label: Follow-up Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: research_frequency
+      label: Research Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Every other day''}'
+      - '{''label'': ''Weekly''}'
+      required: false
+    - id: 12
+      name: research_duration
+      label: Research Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: bowel_movement_frequency
+      label: Bowel Movement Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Every other day''}'
+      - '{''label'': ''3-4 times a week''}'
+      - '{''label'': ''Less than 3 times a week''}'
+      required: false
+    - id: 14
+      name: bowel_movement_duration
+      label: Bowel Movement Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Diarrhea''}'
+      - '{''label'': ''Abdominal pain''}'
+      - '{''label'': ''Nausea''}'
+      - '{''label'': ''Vomiting''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: bowel_movement_frequency_per_week
+      label: Bowel Movement Frequency per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: bowel_movement_duration_per_week
+      label: Bowel Movement Duration per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: additional_symptoms
+      label: Additional Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Abdominal pain''}'
+      - '{''label'': ''Bloating''}'
+      - '{''label'': ''Diarrhea''}'
+      - '{''label'': ''Nausea''}'
+      - '{''label'': ''Vomiting''}'
+      required: false
+    - id: 19
+      name: bowel_movement_frequency_24h
+      label: Bowel Movement Frequency 24h
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: bowel_movement_duration_24h
+      label: Bowel Movement Duration 24h
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: bowel_movement_frequency_12h
+      label: Bowel Movement Frequency 12h
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: bowel_movement_duration_12h
+      label: Bowel Movement Duration 12h
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: research_notes
+      label: Research Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,540 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amends Form
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Amends Form --
+      hint: This form helps you prepare for making amends as part of your 12-step
+        recovery journey. Take your time and be honest.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: sponsor_name
+      label: Sponsor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_step_work
+      label: -- Step Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_step
+      label: Which Step Are You Working
+      hint: null
+      type: select_one
+      options:
+      - Step 8 - Made a list of persons we had harmed
+      - Step 9 - Made direct amends to such people
+      - Working on both Steps 8 and 9
+      required: true
+    - id: 8
+      name: inventory_completed
+      label: Have You Completed Your Moral Inventory
+      hint: Steps 4 and 5
+      type: select_one
+      options:
+      - Yes - Completed
+      - In progress
+      - No - Not yet
+      required: false
+    - id: 9
+      name: section_person_amends
+      label: -- Person to Whom Amends Are Being Made --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: person_name
+      label: Name of Person
+      hint: Who you are making amends to
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: relationship
+      label: Relationship to You
+      hint: null
+      type: select_one
+      options:
+      - Family member
+      - Friend
+      - Spouse/Partner
+      - Colleague/Coworker
+      - Neighbor
+      - Acquaintance
+      - Stranger
+      - Self
+      - Higher Power
+      - Other
+      required: true
+    - id: 12
+      name: relationship_detail
+      label: Describe Relationship
+      hint: More details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_information
+      label: Contact Information
+      hint: If you have it
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_harm_done
+      label: -- Harm Done --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: harm_description
+      label: Describe the Harm You Caused
+      hint: Be specific and honest
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: harm_type
+      label: Type of Harm
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial
+      - Emotional
+      - Physical
+      - Verbal
+      - Betrayal of trust
+      - Neglect
+      - Dishonesty
+      - Theft
+      - Property damage
+      - Reputation damage
+      - Other
+      required: true
+    - id: 17
+      name: harm_date
+      label: Approximately When Did This Occur
+      hint: Date or time period
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: harm_location
+      label: Where Did This Occur
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_circumstances
+      label: -- Circumstances --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: circumstances_detail
+      label: Describe the Circumstances
+      hint: What was happening at the time
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: your_state_of_mind
+      label: What Was Your State of Mind
+      hint: How were you feeling
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: substance_involved
+      label: Were You Under the Influence
+      hint: null
+      type: select_one
+      options:
+      - Yes - Alcohol
+      - Yes - Drugs
+      - Yes - Both
+      - false
+      - Do not remember
+      required: false
+    - id: 23
+      name: section_role
+      label: -- Your Role --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: your_part
+      label: What Was Your Part in This
+      hint: Take responsibility
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: character_defects
+      label: What Character Defects Were Displayed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Selfishness
+      - Dishonesty
+      - Pride
+      - Fear
+      - Anger
+      - Resentment
+      - Jealousy
+      - Impatience
+      - Greed
+      - Arrogance
+      - Other
+      required: false
+    - id: 26
+      name: section_impact
+      label: -- Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: impact_on_person
+      label: How Did Your Actions Affect This Person
+      hint: Consider their perspective
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: impact_on_family
+      label: How Did This Affect Their Family
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: impact_on_others
+      label: How Did This Affect Others
+      hint: Friends, coworkers, etc.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_feelings
+      label: -- Your Feelings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: current_feelings
+      label: How Do You Feel About This Now
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: guilt_shame
+      label: Do You Feel Guilt or Shame
+      hint: null
+      type: select_one
+      options:
+      - Yes - Guilt
+      - Yes - Shame
+      - Yes - Both
+      - false
+      - Other emotions
+      required: false
+    - id: 33
+      name: section_sponsor_discussion
+      label: -- Sponsor Discussion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: discussed_with_sponsor
+      label: Have You Discussed This With Your Sponsor
+      hint: null
+      type: select_one
+      options:
+      - Yes - Discussed thoroughly
+      - Yes - Briefly
+      - No - Plan to discuss
+      - No sponsor
+      required: false
+    - id: 35
+      name: sponsor_guidance
+      label: What Guidance Did Your Sponsor Provide
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: ready_to_make_amends
+      label: Do You Feel Ready to Make Amends
+      hint: null
+      type: select_one
+      options:
+      - Yes - Fully ready
+      - Mostly ready
+      - Need more preparation
+      - Not ready
+      required: true
+    - id: 37
+      name: section_amends_plan
+      label: -- Amends Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: amends_type
+      label: Type of Amends You Plan to Make
+      hint: null
+      type: select_one
+      options:
+      - Direct - In person
+      - Direct - Phone call
+      - Direct - Video call
+      - Letter/Email
+      - Through third party
+      - Living amends
+      - Other
+      required: true
+    - id: 39
+      name: amends_plan_detail
+      label: Describe Your Plan
+      hint: Be specific
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: what_you_will_say
+      label: What Do You Plan to Say
+      hint: Key points
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: section_living_amends
+      label: -- Living Amends --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: living_amends_commitment
+      label: How Will You Make Living Amends
+      hint: Changed behavior
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: behavior_changes
+      label: What Behavior Changes Will You Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: section_outcomes
+      label: -- Possible Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: expected_outcome
+      label: What Outcome Do You Expect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: prepared_for_rejection
+      label: Are You Prepared for Possible Rejection
+      hint: null
+      type: select_one
+      options:
+      - Yes - Fully prepared
+      - Somewhat prepared
+      - No - Not prepared
+      required: true
+    - id: 47
+      name: if_rejected
+      label: How Will You Handle Rejection
+      hint: Your plan
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: section_restitution
+      label: -- Restitution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: financial_restitution
+      label: Is Financial Restitution Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes - Can pay now
+      - Yes - Will pay later
+      - No - Not applicable
+      - No - Already paid
+      required: false
+    - id: 50
+      name: restitution_amount
+      label: Restitution Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 51
+      name: restitution_plan
+      label: Restitution Plan
+      hint: How will you pay
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: section_prayer_meditation
+      label: -- Prayer and Meditation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 53
+      name: prayed_about_amends
+      label: Have You Prayed About This Amends
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 54
+      name: prayer_guidance
+      label: What Guidance Did You Receive
+      hint: Through prayer or meditation
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: section_completion
+      label: -- Completion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 56
+      name: amends_made_date
+      label: Date Amends Were Made
+      hint: If completed
+      type: date
+      options: []
+      required: false
+    - id: 57
+      name: amends_outcome
+      label: What Was the Outcome
+      hint: How did it go
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: person_response
+      label: How Did the Person Respond
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: section_reflection
+      label: -- Reflection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 60
+      name: what_did_you_learn
+      label: What Did You Learn From This
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 61
+      name: how_have_you_grown
+      label: How Have You Grown
+      hint: Personal growth
+      type: text
+      options: []
+      required: false
+    - id: 62
+      name: additional_notes
+      label: Additional Notes
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 63
+      name: section_witness
+      label: -- Witness (Optional) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 64
+      name: witness_name
+      label: Witness Name
+      hint: Sponsor or trusted person
+      type: text
+      options: []
+      required: false
+    - id: 65
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 66
+      name: witness_date
+      label: Witness Date
+      hint: null
+      type: date
+      options: []
+      required: false

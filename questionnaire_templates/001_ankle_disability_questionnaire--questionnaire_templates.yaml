@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ankle Disability Questionnaire
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient full name
+      hint: Provide the name used in medical records if applicable
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Optional for follow up if you choose to provide it
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pain_level_rest
+      label: Pain level at rest 0 to 10
+      hint: 0 means no pain and 10 means worst pain imaginable
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: pain_level_activity
+      label: Pain level during activity 0 to 10
+      hint: Rate pain while walking or exercising
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: mobility_limitations
+      label: Mobility limitations experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Walking on level ground
+      - Stairs or steps
+      - Running or jumping
+      - Standing for long periods
+      - None of the above
+      required: true
+    - id: 9
+      name: swelling_or_inflammation
+      label: Observed swelling or inflammation
+      hint: Choose the option that best describes current condition
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 10
+      name: current_treatment
+      label: Current treatments or therapies
+      hint: Include medications, braces, physical therapy or recent procedures
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional notes or concerns
+      hint: Any other information useful for clinical assessment
+      type: text
+      options: []
+      required: false

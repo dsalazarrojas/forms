@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Client Preference Information Collection Form
+    pages:
+    - id: 1
+      name: wedding_client_preference_information_collection_form_1
+      label: wedding_client_preference_information_collection_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor
+      label: vendor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: wedding_client_name
+      label: wedding client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wedding_client_email
+      label: wedding client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: wedding_client_phone
+      label: wedding client phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: planner
+      label: planner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

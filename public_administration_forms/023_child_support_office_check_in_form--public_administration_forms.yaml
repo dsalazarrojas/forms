@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Support Office Check In Form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check-In Date
+      hint: Date of office visit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check-In Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: visitor_first_name
+      label: Visitor First Name
+      hint: Legal first name of visitor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visitor_last_name
+      label: Visitor Last Name
+      hint: Legal last name of visitor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visitor_email
+      label: Visitor Email
+      hint: Email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: visitor_phone
+      label: Visitor Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: visitor_address
+      label: Visitor Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: case_number
+      label: Case Number
+      hint: Your child support case number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: visit_type
+      label: Visit Type
+      hint: What type of visit is this?
+      type: select_one
+      options:
+      - Scheduled appointment
+      - Walk-in
+      - Drop-off documents
+      - Payment inquiry
+      - Case review
+      - Hearing
+      - Other
+      required: true
+    - id: 10
+      name: appointment_time
+      label: Appointment Time
+      hint: If scheduled, what time is your appointment?
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Primary reason for your visit today
+      type: select_one
+      options:
+      - Modify support order
+      - Payment inquiry
+      - Establish paternity
+      - Establish support order
+      - Enforcement inquiry
+      - Case closure
+      - Address change
+      - Employment change
+      - Other
+      required: true
+    - id: 12
+      name: visit_details
+      label: Visit Details
+      hint: Provide more details about your visit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: children_involved_count
+      label: Number of Children Involved
+      hint: How many children are involved in this case?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: other_parent_cooperation
+      label: Other Parent Cooperation
+      hint: Is the other parent cooperating with the process?
+      type: select_one
+      options:
+      - Yes, fully cooperating
+      - Somewhat cooperating
+      - Not cooperating
+      - Unable to locate
+      - Unsure
+      required: false
+    - id: 15
+      name: documents_brought
+      label: Documents Brought
+      hint: Did you bring any documents today?
+      type: select_one
+      options:
+      - Yes, all requested documents
+      - Yes, some documents
+      - No documents
+      - Not applicable
+      required: true
+    - id: 16
+      name: documents_list
+      label: Documents List
+      hint: List the documents you are submitting
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: interpreter_needed
+      label: Interpreter Needed
+      hint: Do you need an interpreter for today's visit?
+      type: select_one
+      options:
+      - Yes, Spanish
+      - Yes, other language
+      - false
+      required: true
+    - id: 18
+      name: interpreter_language
+      label: Interpreter Language
+      hint: What language do you need interpretation for?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_accommodations
+      label: Accessibility Accommodations
+      hint: Do you need any accessibility accommodations?
+      type: select_one
+      options:
+      - Yes, wheelchair access
+      - Yes, sign language interpreter
+      - Yes, other accommodation
+      - false
+      required: true
+    - id: 20
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you prefer to be contacted about your case?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Mail
+      - Any method
+      required: true
+    - id: 21
+      name: best_contact_time
+      label: Best Contact Time
+      hint: What is the best time to contact you?
+      type: select_one
+      options:
+      - Morning (8 AM to 12 PM)
+      - Afternoon (12 PM to 5 PM)
+      - Evening (5 PM to 8 PM)
+      - Any time
+      required: true
+    - id: 22
+      name: previous_visits_this_month
+      label: Previous Visits This Month
+      hint: How many times have you visited this month?
+      type: select_one
+      options:
+      - This is my first visit
+      - One previous visit
+      - Two previous visits
+      - Three or more visits
+      required: true
+    - id: 23
+      name: satisfaction_with_services
+      label: Satisfaction with Services
+      hint: How satisfied are you with the services received so far?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or questions
+      type: text
+      options: []
+      required: false

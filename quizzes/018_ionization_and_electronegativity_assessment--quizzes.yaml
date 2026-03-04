@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: ionization_and_electronegativity_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: periodic_table
+      label: Periodic Table
+      hint: Please enter the periodic table number of the element
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ionization_energy
+      label: Ionization Energy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: electronegativity
+      label: Electronegativity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: electron_configuration
+      label: Electron Configuration
+      hint: null
+      type: select_multiple
+      options:
+      - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹
+      - 1s¹ 2s² 2p⁶ 3s² 3p⁶ 4s² 3d² 4p¹
+      required: false
+    - id: 6
+      name: chemical_formula
+      label: Chemical Formula
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: element
+      label: Element
+      hint: The symbol of the element (e.g. H or C)
+      type: select_one
+      options:
+      - H
+      - C
+      - O
+      - N
+      - S
+      - P
+      - Cl
+      - Br
+      - F
+      - Si
+      - Ar
+      - I
+      required: false
+    - id: 8
+      name: ionization_energy_units
+      label: Ionization Energy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: electronegativity_units
+      label: Electronegativity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional information about the element
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: false

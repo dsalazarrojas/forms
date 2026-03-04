@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_app_workout_program_effectiveness_questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_satisfaction
+      label: program_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 3
+      name: program_outcomes
+      label: program_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: training_plan_satisfaction
+      label: training_plan_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_outcome_1
+      label: program_outcome_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_outcome_2
+      label: program_outcome_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: program_outcome_3
+      label: program_outcome_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: program_outcome_4
+      label: program_outcome_4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: program_outcome_5
+      label: program_outcome_5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: program_outcome_6
+      label: program_outcome_6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

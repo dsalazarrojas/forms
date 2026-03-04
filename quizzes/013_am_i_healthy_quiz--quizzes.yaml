@@ -1,0 +1,435 @@
+inputSchema:
+  type: object
+  properties:
+    title: Am I Healthy Quiz
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Am I Healthy Quiz --
+      hint: Answer these questions to get a general assessment of your health status.
+        This is not a medical diagnosis.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_demographics
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: In inches
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_lifestyle
+      label: -- Lifestyle Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exercise_frequency
+      label: How often do you exercise
+      hint: At least 30 minutes of moderate activity
+      type: select_one
+      options:
+      - Daily
+      - 4-5 times per week
+      - 2-3 times per week
+      - Once a week
+      - Rarely or never
+      required: true
+    - id: 9
+      name: exercise_type
+      label: Types of Exercise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Walking
+      - Running/Jogging
+      - Cycling
+      - Swimming
+      - Weight Training
+      - Yoga/Pilates
+      - Team Sports
+      - Dance
+      - Other
+      required: false
+    - id: 10
+      name: sleep_hours
+      label: How many hours of sleep do you get per night
+      hint: Average per night
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: sleep_quality
+      label: How would you rate your sleep quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: water_intake
+      label: How many glasses of water do you drink daily
+      hint: 8 oz glasses
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_nutrition
+      label: -- Nutrition Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: fruit_servings
+      label: How many servings of fruit do you eat daily
+      hint: One serving equals one medium fruit or 1/2 cup
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vegetable_servings
+      label: How many servings of vegetables do you eat daily
+      hint: One serving equals 1 cup raw or 1/2 cup cooked
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: fast_food_frequency
+      label: How often do you eat fast food
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - 1-2 times per month
+      - 1-2 times per week
+      - 3-4 times per week
+      - Daily or almost daily
+      required: true
+    - id: 17
+      name: processed_food_consumption
+      label: How often do you eat processed foods
+      hint: Packaged snacks, frozen meals, etc.
+      type: select_one
+      options:
+      - Rarely or never
+      - Occasionally
+      - Sometimes
+      - Often
+      - Very often
+      required: true
+    - id: 18
+      name: section_substances
+      label: -- Substance Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker (quit over 1 year ago)
+      - Former smoker (quit within last year)
+      - Current smoker (occasional)
+      - Current smoker (daily)
+      required: true
+    - id: 20
+      name: cigarettes_per_day
+      label: Cigarettes per Day
+      hint: If you currently smoke
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: alcohol_consumption
+      label: How often do you consume alcohol
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Special occasions only
+      - 1-2 times per month
+      - 1-2 times per week
+      - 3 or more times per week
+      required: true
+    - id: 22
+      name: drinks_per_week
+      label: Average Number of Drinks per Week
+      hint: If you drink alcohol
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: recreational_drugs
+      label: Do you use recreational drugs
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Formerly
+      - Currently (occasionally)
+      - Currently (regularly)
+      - Prefer not to answer
+      required: true
+    - id: 24
+      name: section_mental_health
+      label: -- Mental and Emotional Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: stress_level
+      label: How would you rate your current stress level
+      hint: 1 being no stress and 10 being extreme stress
+      type: select_one
+      options:
+      - 1-3 (Low stress)
+      - 4-5 (Moderate stress)
+      - 6-7 (High stress)
+      - 8-10 (Very high stress)
+      required: true
+    - id: 26
+      name: stress_management
+      label: How do you manage stress
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Exercise
+      - Meditation
+      - Talking to friends/family
+      - Hobbies
+      - Professional counseling
+      - Medication
+      - I do not manage stress
+      - Other
+      required: false
+    - id: 27
+      name: mood_rating
+      label: How would you describe your overall mood
+      hint: null
+      type: select_one
+      options:
+      - Very positive and optimistic
+      - Generally positive
+      - Neutral
+      - Often negative or down
+      - Very negative or depressed
+      required: true
+    - id: 28
+      name: social_connections
+      label: How satisfied are you with your social relationships
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 29
+      name: section_medical
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: chronic_conditions
+      label: Do you have any chronic health conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - High blood pressure
+      - High cholesterol
+      - Diabetes
+      - Heart disease
+      - Asthma
+      - Arthritis
+      - Depression/Anxiety
+      - Thyroid condition
+      - Other
+      required: true
+    - id: 31
+      name: medications
+      label: Do you take prescription medications regularly
+      hint: null
+      type: select_one
+      options:
+      - No medications
+      - 1-2 medications
+      - 3-5 medications
+      - More than 5 medications
+      required: true
+    - id: 32
+      name: last_checkup
+      label: When was your last medical checkup
+      hint: null
+      type: select_one
+      options:
+      - Within the last 6 months
+      - 6 months to 1 year ago
+      - 1-2 years ago
+      - More than 2 years ago
+      - Never
+      required: true
+    - id: 33
+      name: family_history
+      label: Family History of Major Diseases
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None known
+      - Heart disease
+      - Cancer
+      - Diabetes
+      - Stroke
+      - Alzheimer's disease
+      - Other
+      required: false
+    - id: 34
+      name: section_symptoms
+      label: -- Current Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: current_symptoms
+      label: Are you experiencing any current symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Fatigue
+      - Headaches
+      - Digestive issues
+      - Joint or muscle pain
+      - Shortness of breath
+      - Chest pain
+      - Dizziness
+      - Sleep problems
+      - Mood changes
+      - Other
+      required: true
+    - id: 36
+      name: symptom_severity
+      label: How would you rate the severity of your symptoms
+      hint: If experiencing symptoms
+      type: select_one
+      options:
+      - Not applicable
+      - Mild
+      - Moderate
+      - Severe
+      - Very severe
+      required: false
+    - id: 37
+      name: section_wellness
+      label: -- Wellness Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: preventive_care
+      label: Do you stay up to date with preventive care
+      hint: Vaccinations, screenings, etc.
+      type: select_one
+      options:
+      - Yes - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 39
+      name: health_goals
+      label: Do you have current health or fitness goals
+      hint: null
+      type: select_one
+      options:
+      - Yes - Actively working on them
+      - Yes - Planning to start
+      - No specific goals
+      required: true
+    - id: 40
+      name: section_result
+      label: -- Quiz Completion --
+      hint: Thank you for completing the quiz
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: overall_health_rating
+      label: How would you rate your overall health
+      hint: Your personal assessment
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 42
+      name: health_improvement_interest
+      label: Are you interested in making health improvements
+      hint: null
+      type: select_one
+      options:
+      - Yes - Very interested
+      - Somewhat interested
+      - Not interested at this time
+      required: true
+    - id: 43
+      name: email_results
+      label: Email Address for Results
+      hint: Optional - receive personalized recommendations
+      type: email
+      options: []
+      required: false

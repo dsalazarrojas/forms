@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Takaful Career Guidance Survey
+    pages:
+    - id: 1
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: sector_of_interest
+      label: Sector of interest
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Finance
+      - Marketing
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: career_level
+      label: Career Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Diploma
+      - Master
+      - Associate
+      - Bachelor
+      - Phd
+      required: false
+    - id: 9
+      name: readiness_for_takaful
+      label: Readiness for Takaful
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: interests_in_takaful
+      label: Interests in Takaful
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: name_of_program
+      label: Name of Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Online
+      - Hybrid
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Remote
+      - On-site
+      - Both
+      required: false

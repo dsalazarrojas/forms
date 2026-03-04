@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Initial Project Questionnaire
+    pages:
+    - id: 1
+      name: section_talent
+      label: -- Talent Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: talent_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voice_classification
+      label: Voice Classification
+      hint: null
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Baritone
+      - Bass
+      required: true
+    - id: 4
+      name: primary_languages
+      label: Primary Languages
+      hint: Include dialects if relevant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_years
+      label: Years of Audio/Voice Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_studio
+      label: -- Technical Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: home_studio_availability
+      label: Do you have a professional home studio?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Professional Grade
+      - Yes - Semi-Pro/Home office
+      - No - Studio access only
+      required: true
+    - id: 8
+      name: microphone_model
+      label: Primary Microphone Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: audio_interface
+      label: Audio Interface Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: daw_used
+      label: Digital Audio Workstation (DAW)
+      hint: e.g., Pro Tools, Audition, Logic
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_work_pref
+      label: -- Project Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_interest
+      label: Types of Projects interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Commercial/Advertising
+      - Audiobook Narration
+      - Video Game Character
+      - Corporate E-Learning
+      - Animation/Dubbing
+      - Documentary/Medical
+      required: true
+    - id: 13
+      name: demo_portfolio_link
+      label: Link to Demo or Portfolio
+      hint: URL to website or SoundCloud
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: live_direction_ready
+      label: Are you available for live directed sessions?
+      hint: e.g., SourceConnect, Zoom, Riverside
+      type: select_one
+      options:
+      - Yes, via SourceConnect
+      - Yes, via Zoom/IPDTL
+      - false
+      required: true
+    - id: 15
+      name: availability_notes
+      label: Typical Weekly Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true

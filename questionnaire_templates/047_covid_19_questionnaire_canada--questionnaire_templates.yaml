@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Questionnaire Canada
+    pages:
+    - id: 1
+      name: section_patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: health_card_number
+      label: Provincial Health Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: province
+      label: Province or Territory
+      hint: null
+      type: select_one
+      options:
+      - Alberta
+      - British Columbia
+      - Manitoba
+      - New Brunswick
+      - Newfoundland and Labrador
+      - Nova Scotia
+      - Ontario
+      - Prince Edward Island
+      - Quebec
+      - Saskatchewan
+      - Northwest Territories
+      - Nunavut
+      - Yukon
+      required: true
+    - id: 8
+      name: section_vaccination_eligibility
+      label: -- Vaccination Eligibility Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: priority_group
+      label: Are you in a priority group for vaccination?
+      hint: null
+      type: select_one
+      options:
+      - Healthcare worker
+      - Long-term care resident
+      - Indigenous community member
+      - Immunocompromised
+      - Essential worker
+      - 65 years or older
+      - false
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Do you have any underlying medical conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - Lung disease
+      - Cancer
+      - Immunocompromised
+      - Chronic kidney disease
+      - None
+      - Other
+      required: true
+    - id: 12
+      name: section_vaccine_history
+      label: -- Vaccine History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: previous_covid_vaccine
+      label: Have you received a COVID-19 vaccine?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, one dose
+      - Yes, two doses
+      - Yes, three or more doses
+      required: true
+    - id: 14
+      name: vaccine_type
+      label: Type of COVID-19 vaccine received
+      hint: null
+      type: select_multiple
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - AstraZeneca
+      - Janssen
+      - Other
+      - Not applicable
+      required: false
+    - id: 15
+      name: last_dose_date
+      label: Date of Last Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: section_health_screening
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Any severe allergies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vaccine_reaction
+      label: History of severe vaccine reactions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: current_illness
+      label: Do you currently have any illness?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 20
+      name: illness_description
+      label: Describe current illness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: confirm_accurate
+      label: I confirm the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: consent_vaccination
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: questionnaire_date
+      label: Questionnaire Date
+      hint: null
+      type: date
+      options: []
+      required: true

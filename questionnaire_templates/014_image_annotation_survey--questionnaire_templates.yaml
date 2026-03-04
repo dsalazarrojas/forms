@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image Annotation Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_images
+      label: Upload Images
+      hint: null
+      type: select_multiple
+      options:
+      - Image 1
+      - Image 2
+      - Image 3
+      required: false
+    - id: 3
+      name: annotation_details
+      label: Annotation Details
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: uploaded_image
+      label: Uploaded Image
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: file_uploaded
+      label: File Uploaded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: survey_conclusion
+      label: Survey Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_image_2
+      label: Another Image
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: another_uploaded_image
+      label: Another Uploaded Image
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: uploaded_image_3
+      label: Yet Another Image
+      hint: null
+      type: number
+      options: []
+      required: false

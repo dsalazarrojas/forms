@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Addiction And Eating Disorders Survey
+    pages:
+    - id: 1
+      name: page1
+      label: what_is_internet_addiction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: internet_use
+      label: internet_use
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost always
+      required: false
+    - id: 3
+      name: eating_disorder
+      label: do_you_have_eating_disorder
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: demographic
+      label: demographic_data
+      hint: Provide any demographic data about yourself
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: email_address
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: page2
+      label: page_2
+      hint: null
+      type: select_one
+      options:
+      - Page 2
+      - Page 3
+      required: false
+    - id: 11
+      name: page3
+      label: page_3
+      hint: null
+      type: select_multiple
+      options:
+      - Page 3
+      - Page 4
+      required: false

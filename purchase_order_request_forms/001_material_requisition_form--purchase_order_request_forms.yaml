@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Requisition Form
+    pages:
+    - id: 1
+      name: material_requisition_form_page_1
+      label: Material Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_ordered
+      label: Equipment Ordered
+      hint: null
+      type: select_one
+      options:
+      - Printer
+      - Computer
+      - Headphones
+      required: true
+    - id: 3
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: material_requisition_date
+      label: Material Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: false

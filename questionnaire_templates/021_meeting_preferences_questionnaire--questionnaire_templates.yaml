@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Preferences Questionnaire
+    pages:
+    - id: 1
+      name: meeting_preferences_questionnaire
+      label: meeting_preferences_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_member
+      label: team_member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: availability
+      label: availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_date
+      label: meeting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: meeting_note
+      label: meeting_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meeting_preferences
+      label: meeting_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: meeting_preferences_0
+      label: virtual_meeting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: meeting_preferences_1
+      label: in_person_meeting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

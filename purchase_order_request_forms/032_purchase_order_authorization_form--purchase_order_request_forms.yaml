@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: purchase_order_authorization_form
+    pages:
+    - id: 1
+      name: purchase_order_form
+      label: Purchase Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_order_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: authorization_level
+      label: Authorization Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorized_amount
+      label: Authorized Amount
+      hint: null
+      type: number
+      options: []
+      required: false

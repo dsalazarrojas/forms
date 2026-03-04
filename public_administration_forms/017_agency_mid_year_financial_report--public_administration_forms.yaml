@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agency Mid Year Financial Report
+    pages:
+    - id: 1
+      name: agency_name
+      label: Agency Name
+      hint: Enter the full name of the agency
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_period
+      label: Reporting Period
+      hint: Enter the fiscal year and period being reported
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: prepared_by_name
+      label: Prepared By Name
+      hint: Enter the name of the person preparing this report
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: prepared_by_title
+      label: Prepared By Title
+      hint: Enter the title of the person preparing this report
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: Enter the date this report is being submitted
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: revenue_section_header
+      label: -- Revenue Section --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: budgeted_revenue
+      label: Budgeted Revenue (Year to Date)
+      hint: Enter the total budgeted revenue for the year to date
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: actual_revenue
+      label: Actual Revenue (Year to Date)
+      hint: Enter the actual revenue received for the year to date
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: revenue_variance
+      label: Revenue Variance
+      hint: Enter the variance between budgeted and actual revenue
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: revenue_variance_percentage
+      label: Revenue Variance Percentage
+      hint: Enter the variance as a percentage of budgeted revenue
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: expense_section_header
+      label: -- Expense Section --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: budgeted_expenses
+      label: Budgeted Expenses (Year to Date)
+      hint: Enter the total budgeted expenses for the year to date
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: actual_expenses
+      label: Actual Expenses (Year to Date)
+      hint: Enter the actual expenses incurred for the year to date
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: expense_variance
+      label: Expense Variance
+      hint: Enter the variance between budgeted and actual expenses
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: expense_variance_percentage
+      label: Expense Variance Percentage
+      hint: Enter the variance as a percentage of budgeted expenses
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: budget_adjustments
+      label: Budget Adjustments Made
+      hint: Have any budget adjustments been made during the year?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: budget_adjustment_details
+      label: Budget Adjustment Details
+      hint: If yes, provide details about the budget adjustments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: financial_outlook
+      label: Financial Outlook
+      hint: Provide a brief outlook for the remainder of the fiscal year
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendations
+      label: Recommendations
+      hint: Provide any recommendations for improving financial performance
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Digital signature of the authorized official
+      type: text
+      options: []
+      required: true

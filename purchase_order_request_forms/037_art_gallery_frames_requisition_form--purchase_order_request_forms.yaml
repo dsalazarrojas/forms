@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frames Requisition Form
+    pages:
+    - id: 1
+      name: internal_requisition_header
+      label: -- Internal Requisition Details --
+      hint: Use this form for exhibition and installation framing needs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: exhibition_project_name
+      label: Exhibition or Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Curatorial
+      - Preparation - Installation
+      - Operations
+      - Special Events
+      required: true
+    - id: 5
+      name: frame_requirements_header
+      label: -- Frame Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: quantity_required
+      label: Total Number of Frames Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: standard_size_selection
+      label: Select Standard Sizes (If applicable)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 8x10 inch
+      - 11x14 inch
+      - 16x20 inch
+      - 18x24 inch
+      - 24x36 inch
+      - Custom Sizes Needed
+      required: true
+    - id: 8
+      name: custom_size_details
+      label: Custom Size Details
+      hint: Specify dimensions for custom frames
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: frame_style_standard
+      label: Standard Gallery Frame Style
+      hint: null
+      type: select_one
+      options:
+      - Black Modern Wood
+      - White Modern Wood
+      - Natural Maple
+      - Dark Walnut
+      required: true
+    - id: 10
+      name: glazing_requirement
+      label: Glazing Requirement
+      hint: null
+      type: select_one
+      options:
+      - Standard Glass
+      - Plexiglass - Acrylic
+      - UV Protected Acrylic
+      - No Glazing (Canvas stretch only)
+      required: true
+    - id: 11
+      name: project_timeline_header
+      label: -- Project Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_location
+      label: Delivery - Pickup Location
+      hint: e.g., Gallery 1, Storage B, Workshop
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: deadline_date
+      label: Hard Deadline for Completion
+      hint: Must be before installation start date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: budget_code
+      label: Budget - Account Code for Allocation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: estimated_cost_allocation
+      label: Estimated Cost Allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: approval_flow_header
+      label: -- Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_approval_name
+      label: Supervisor - Curator Approval Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: requisition_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Project Specific Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: internal_ref_id
+      label: Internal Reference ID (Office Use)
+      hint: null
+      type: text
+      options: []
+      required: false

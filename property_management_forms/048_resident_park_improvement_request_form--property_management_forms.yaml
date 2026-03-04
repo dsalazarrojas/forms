@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resident Park Improvement Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: resident_park_improvement_request_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: park_location
+      label: park_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: park_features
+      label: park_features
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 4
+      name: maintenance_request
+      label: maintenance_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

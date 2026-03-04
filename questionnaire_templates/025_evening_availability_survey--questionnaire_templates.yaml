@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evening Availability Survey
+    pages:
+    - id: 1
+      name: survey_day
+      label: Morning Evening Availability
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Evening
+      - Other
+      required: false
+    - id: 2
+      name: start_time
+      label: What time do you usually start your day?
+      hint: null
+      type: select_one
+      options:
+      - 8am
+      - 9am
+      - 10am
+      - 11am
+      - 12pm
+      - 1pm
+      - 2pm
+      - 3pm
+      - 4pm
+      - 5pm
+      - 6pm
+      required: false
+    - id: 3
+      name: end_time
+      label: What time do you usually end your day?
+      hint: null
+      type: select_one
+      options:
+      - 9am
+      - 10am
+      - 11am
+      - 12pm
+      - 1pm
+      - 2pm
+      - 3pm
+      - 4pm
+      - 5pm
+      - 6pm
+      - 7pm
+      - 8pm
+      - 9pm
+      - 10pm
+      - 11pm
+      required: false
+    - id: 4
+      name: available_time
+      label: What time are you usually available in the evening?
+      hint: null
+      type: select_multiple
+      options:
+      - 8-9pm
+      - 9-10pm
+      - 10-11pm
+      - 11-12pm
+      - 12-1am
+      required: false
+    - id: 5
+      name: schedule
+      label: Schedule a recurring meeting or activity?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Contact information (e.g., email or phone number)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Contact information (e.g., email or phone number)
+      hint: null
+      type: text
+      options: []
+      required: false

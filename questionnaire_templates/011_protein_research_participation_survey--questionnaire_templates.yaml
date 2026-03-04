@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Protein Research Participation Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_background
+      label: Research Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: collaboration_interest
+      label: Collaboration Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_focus_areas
+      label: Research Focus Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: background_info
+      label: Background Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_areas
+      label: Research Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Computational Biology
+      - Structural Biology
+      - Bioinformatics
+      required: false
+    - id: 8
+      name: research_focus_areas
+      label: Focus Areas
+      hint: null
+      type: select_one
+      options:
+      - Biochemistry
+      - Molecular Biology
+      - Chemical Biology
+      required: false
+    - id: 9
+      name: research_focus_area_2
+      label: Focus Area
+      hint: null
+      type: select_one
+      options:
+      - Protein Structure
+      - Protein Function
+      - Protein Interactions
+      required: false
+    - id: 10
+      name: research_focus_area_3
+      label: Focus Area
+      hint: null
+      type: select_one
+      options:
+      - Protein Engineering
+      - Synthetic Biology
+      - Protein-based therapeutics
+      required: false
+    - id: 11
+      name: research_focus_area_4
+      label: Focus Area
+      hint: null
+      type: select_one
+      options:
+      - Biochemistry
+      - Other
+      required: false

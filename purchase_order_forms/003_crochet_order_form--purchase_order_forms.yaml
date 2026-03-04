@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crochet Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Crochet
+      - Other
+      required: true
+    - id: 4
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_description
+      label: Item Description
+      hint: Enter a brief description of the item you are ordering.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: custom_request
+      label: Custom Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 10
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false

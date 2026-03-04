@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Young Schema Assessment
+    pages:
+    - id: 1
+      name: page_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: feelings
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: page_4
+      label: relationships
+      hint: Describe your relationships with family members
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 5
+      name: page_5
+      label: stress
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: emotions
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: thoughts
+      hint: Tell me about your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: self_concept
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

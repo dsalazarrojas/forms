@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Journal Writing Prompts
+    pages:
+    - id: 1
+      name: entry_1
+      label: Journal Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entry_2
+      label: Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: select_1
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Category 1''}'
+      - '{''value'': ''Category 2''}'
+      - '{''value'': ''Category 3''}'
+      required: false
+    - id: 6
+      name: select_2
+      label: Sub-Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: select_3
+      label: Select 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: select_4
+      label: Select 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

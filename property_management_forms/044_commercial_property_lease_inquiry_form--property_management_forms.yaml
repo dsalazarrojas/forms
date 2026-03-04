@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Property Lease Inquiry Form
+    pages:
+    - id: 1
+      name: section_prospect_info
+      label: -- Prospective Tenant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: prospect_name
+      label: Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: prospect_business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_website
+      label: Business Website (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_space_requirements
+      label: -- Space and Lease Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_interest_type
+      label: Preferred Property Type
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Office Space
+      - Industrial / Warehouse
+      - Medical / Professional
+      - Restaurant / Food Service
+      required: true
+    - id: 7
+      name: min_square_footage
+      label: Minimum Square Footage Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: preferred_location_area
+      label: Preferred Location or Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: monthly_budget_range
+      label: Monthly Lease Budget Range
+      hint: null
+      type: select_one
+      options:
+      - $1,000 - $2,500
+      - $2,501 - $5,000
+      - $5,001 - $10,000
+      - $10,000+
+      required: true
+    - id: 10
+      name: lease_term_interest
+      label: Desired Lease Term
+      hint: null
+      type: select_one
+      options:
+      - 1 - 2 Years
+      - 3 - 5 Years
+      - 5+ Years
+      required: true
+    - id: 11
+      name: target_move_in_date
+      label: Target Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_inquiry_contact
+      label: -- Contact and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: prospect_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: prospect_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: inquiry_message
+      label: Please describe your specific needs or questions
+      hint: null
+      type: text
+      options: []
+      required: false

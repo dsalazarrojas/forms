@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Care Literacy Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: question1
+      label: What is the best way to prevent heart disease?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: question2
+      label: Do you understand what is meant by a healthy diet?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: question3
+      label: How do you usually get your health information?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: question4
+      label: What is the purpose of the Preventive Care Literacy Survey?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question5
+      label: How do you rate your current level of knowledge about heart disease prevention?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 10
+      name: question6
+      label: What is the primary source of your health information?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: question7
+      label: What is the best way to prevent stroke?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: question8
+      label: Do you understand what is meant by a healthy weight?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: question9
+      label: What is the best way to prevent diabetes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: question10
+      label: Do you have any other health concerns?
+      hint: null
+      type: text
+      options: []
+      required: false

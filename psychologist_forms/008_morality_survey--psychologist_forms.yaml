@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Morality Survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feelings
+      label: feelings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: opinion_1
+      label: opinion1
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: moral_1
+      label: moral1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feelings_2
+      label: feelings2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: opinion_2
+      label: opinion2
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: moral_2
+      label: moral2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: intro_note
+      label: intro_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: feelings_note
+      label: feelings_note
+      hint: null
+      type: note
+      options: []
+      required: false

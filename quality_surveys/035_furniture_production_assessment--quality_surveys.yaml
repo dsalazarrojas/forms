@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Production Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: production_process
+      label: Production Process
+      hint: null
+      type: select_multiple
+      options:
+      - Production
+      - Manufacturing
+      - Assembly
+      required: false
+    - id: 4
+      name: quality_standards
+      label: Quality Standards
+      hint: null
+      type: select_multiple
+      options:
+      - ISO 9001
+      - ISO 14001
+      - ASME
+      required: false
+    - id: 5
+      name: quality_measures
+      label: Quality Measures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: production_capacity
+      label: Production Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false
+    - id: 8
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

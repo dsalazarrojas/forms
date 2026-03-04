@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childhood Celebration Survey
+    pages:
+    - id: 1
+      name: intro_note
+      label: -- Childhood Celebration Memories Survey --
+      hint: Help us gather ideas and memories about childhood events
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: favorite_childhood_event
+      label: What was your favorite childhood celebration or event?
+      hint: e.g. Birthday, Holiday, School Fair
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_of_memory
+      label: Approximately what age were you during this event?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: what_made_it_special
+      label: What made this celebration particularly special or memorable?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: favorite_food
+      label: What was your favorite food or treat at childhood parties?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: typical_activities
+      label: Which activities do you associate most with childhood celebrations?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Games and Competitions
+      - Arts and Crafts
+      - Storytelling
+      - Music and Dancing
+      - Outdoor Play
+      - Watching Movies
+      required: true
+    - id: 7
+      name: celebration_frequency
+      label: How often did your family host or attend these types of celebrations?
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - A few times a year
+      - Once a year
+      - Rarely
+      required: true
+    - id: 8
+      name: organizer_role
+      label: Who was typically the main organizer of these events?
+      hint: null
+      type: select_one
+      options:
+      - Parents
+      - School
+      - Community Center
+      - Extended Family
+      - Other
+      required: false
+    - id: 9
+      name: gift_traditions
+      label: Describe any specific gift-giving traditions from your childhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: venue_preference
+      label: Where were these celebrations usually held?
+      hint: null
+      type: select_multiple
+      options:
+      - At Home
+      - Local Park
+      - Restaurant
+      - School
+      - Community Hall
+      required: false
+    - id: 11
+      name: modern_celebration_ideas
+      label: What ideas from your childhood would you like to see in modern celebrations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: respondent_name
+      label: Name - Optional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

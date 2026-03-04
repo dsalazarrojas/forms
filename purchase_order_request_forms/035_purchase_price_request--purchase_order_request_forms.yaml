@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Price Request
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: items_purchased
+      label: Items Purchased
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 5
+      name: price_request
+      label: Price Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_terms
+      label: Purchase Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Immediate Payment
+      - Payment Upon Receipt
+      - Payment Plan
+      required: false
+    - id: 7
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: quote_delivery
+      label: Quote Delivery
+      hint: null
+      type: select_one
+      options:
+      - Autoresponder Email
+      - Thank You Page
+      required: false
+    - id: 9
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false

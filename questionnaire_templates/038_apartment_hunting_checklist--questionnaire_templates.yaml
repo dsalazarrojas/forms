@@ -1,0 +1,352 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Hunting Checklist
+    pages:
+    - id: 1
+      name: renter_name
+      label: Your Name
+      hint: Person looking for apartment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: search_start_date
+      label: Search Start Date
+      hint: When did you start looking
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: target_move_date
+      label: Target Move-in Date
+      hint: When do you want to move
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: budget_monthly
+      label: Maximum Monthly Budget
+      hint: Including rent and utilities
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: budget_deposit
+      label: Available for Deposit
+      hint: Maximum deposit amount
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: desired_location
+      label: Desired Location
+      hint: Neighborhoods or areas
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: commute_destination
+      label: Commute Destination
+      hint: Work or school location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: max_commute_time
+      label: Maximum Commute Time
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: bedroom_requirement
+      label: Bedroom Requirement
+      hint: Number needed
+      type: select_one
+      options:
+      - Studio
+      - 1 bedroom
+      - 2 bedrooms
+      - 3 bedrooms
+      - 4 or more
+      required: true
+    - id: 10
+      name: bathroom_requirement
+      label: Bathroom Requirement
+      hint: Number needed
+      type: select_one
+      options:
+      - 1 bathroom
+      - 1.5 bathrooms
+      - 2 bathrooms
+      - 2.5 or more
+      required: true
+    - id: 11
+      name: must_have_amenities
+      label: Must-Have Amenities
+      hint: Select all that are required
+      type: select_multiple
+      options:
+      - In-unit laundry
+      - Dishwasher
+      - Air conditioning
+      - Heating
+      - Balcony or patio
+      - Parking
+      - Elevator
+      - Storage
+      - None
+      required: true
+    - id: 12
+      name: nice_to_have_amenities
+      label: Nice-to-Have Amenities
+      hint: Select all that are preferred
+      type: select_multiple
+      options:
+      - Fitness center
+      - Pool
+      - Concierge
+      - Package service
+      - Bike storage
+      - Rooftop access
+      - Business center
+      - Guest parking
+      - None
+      required: true
+    - id: 13
+      name: pet_ownership
+      label: Do you have pets
+      hint: Pet ownership status
+      type: select_one
+      options:
+      - No pets
+      - Cat(s)
+      - Dog(s)
+      - Multiple pets
+      - Other pets
+      required: true
+    - id: 14
+      name: pet_details
+      label: Pet Details
+      hint: Type, size, breed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: smoking_preference
+      label: Smoking Preference
+      hint: Smoking policy
+      type: select_one
+      options:
+      - Non-smoking only
+      - Smoking allowed outside
+      - Smoking allowed
+      - No preference
+      required: true
+    - id: 16
+      name: floor_preference
+      label: Floor Preference
+      hint: Which floor
+      type: select_one
+      options:
+      - Ground floor
+      - 2nd to 4th floor
+      - 5th floor or higher
+      - No preference
+      - No stairs preferred
+      required: true
+    - id: 17
+      name: laundry_preference
+      label: Laundry Preference
+      hint: Laundry setup
+      type: select_one
+      options:
+      - In-unit required
+      - In-building acceptable
+      - Laundromat nearby ok
+      - No preference
+      required: true
+    - id: 18
+      name: parking_needs
+      label: Parking Needs
+      hint: Do you need parking
+      type: select_one
+      options:
+      - Yes, covered
+      - Yes, uncovered
+      - Yes, garage
+      - Street parking ok
+      - No car
+      required: true
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any requirements
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair accessible
+      - Elevator required
+      - Wide doorways
+      - Accessible bathroom
+      - Ground floor
+      - Other
+      required: true
+    - id: 20
+      name: lease_term_preference
+      label: Preferred Lease Term
+      hint: Length of lease
+      type: select_one
+      options:
+      - Month-to-month
+      - 6 months
+      - 12 months
+      - 18 months or longer
+      - Flexible
+      required: true
+    - id: 21
+      name: utilities_budget
+      label: Monthly Utilities Budget
+      hint: Estimated utilities cost
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: preferred_utilities_included
+      label: Preferred Utilities Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Water
+      - Sewer
+      - Trash
+      - Electricity
+      - Gas
+      - Internet
+      - Cable TV
+      - None
+      required: true
+    - id: 23
+      name: neighborhood_priorities
+      label: Neighborhood Priorities
+      hint: What matters most
+      type: select_multiple
+      options:
+      - Safety
+      - Walkability
+      - Public transit
+      - Restaurants and shops
+      - Parks and recreation
+      - Schools
+      - Nightlife
+      - Quiet area
+      - Other
+      required: true
+    - id: 24
+      name: property_viewing_schedule
+      label: Property Viewing Availability
+      hint: When can you view
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Weekend evenings
+      - Flexible
+      required: true
+    - id: 25
+      name: application_readiness
+      label: Application Readiness
+      hint: Do you have documents ready
+      type: select_one
+      options:
+      - Yes, all ready
+      - Some documents ready
+      - Need to gather documents
+      - Not sure what is needed
+      required: true
+    - id: 26
+      name: documents_available
+      label: Documents Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Photo ID
+      - Proof of income
+      - Bank statements
+      - Tax returns
+      - Employment letter
+      - References
+      - Credit report
+      - None yet
+      required: true
+    - id: 27
+      name: guarantor_needed
+      label: Will you need a guarantor
+      hint: Co-signer requirement
+      type: select_one
+      options:
+      - false
+      - true
+      - Maybe
+      required: true
+    - id: 28
+      name: current_housing
+      label: Current Housing Situation
+      hint: Where do you live now
+      type: select_one
+      options:
+      - Renting
+      - Living with family
+      - Living with roommates
+      - Owning
+      - Other
+      required: true
+    - id: 29
+      name: reason_for_moving
+      label: Reason for Moving
+      hint: Why are you moving
+      type: select_one
+      options:
+      - Lease ending
+      - Relocating for work
+      - Need more space
+      - Need less space
+      - Better location
+      - Cost
+      - Other
+      required: true
+    - id: 30
+      name: real_estate_agent
+      label: Are you working with an agent
+      hint: Real estate agent
+      type: select_one
+      options:
+      - true
+      - false
+      - Considering it
+      required: true
+    - id: 31
+      name: agent_contact
+      label: Agent Contact Information
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Anything else important
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: notes
+      label: Additional Notes
+      hint: Other thoughts or preferences
+      type: text
+      options: []
+      required: false

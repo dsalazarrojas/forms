@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Book Collection Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: book_count
+      label: Book Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: year_read
+      label: Year Read
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: genre
+      label: Genre
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fiction''}'
+      - '{''label'': ''Non-Fiction''}'
+      - '{''label'': ''Romance''}'
+      - '{''label'': ''Science Fiction''}'
+      - '{''label'': ''Fantasy''}'
+      required: false
+    - id: 8
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: publisher
+      label: Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: publication_year
+      label: Publication Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: favorite_book
+      label: Favorite Book
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fiction''}'
+      - '{''label'': ''Non-Fiction''}'
+      - '{''label'': ''Romance''}'
+      - '{''label'': ''Science Fiction''}'
+      - '{''label'': ''Fantasy''}'
+      required: false
+    - id: 13
+      name: favorite_genre
+      label: Favorite Genre
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fiction''}'
+      - '{''label'': ''Non-Fiction''}'
+      - '{''label'': ''Romance''}'
+      - '{''label'': ''Science Fiction''}'
+      - '{''label'': ''Fantasy''}'
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

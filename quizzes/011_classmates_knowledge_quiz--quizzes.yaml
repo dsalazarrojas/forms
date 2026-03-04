@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classmates Knowledge Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Your student identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: class_period
+      label: Class Period
+      hint: Which class period are you in?
+      type: select_one
+      options:
+      - Period 1
+      - Period 2
+      - Period 3
+      - Period 4
+      - Period 5
+      - Period 6
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_header_instructions
+      label: -- Instructions --
+      hint: Answer all questions to the best of your knowledge
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_1
+      label: Question 1 - What year was the United States founded?
+      hint: Enter the year
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: question_2
+      label: Question 2 - Who was the first President of the United States?
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_3
+      label: Question 3 - Which continent is the largest by area?
+      hint: null
+      type: select_one
+      options:
+      - Asia
+      - Africa
+      - North America
+      - South America
+      - Europe
+      - Australia
+      required: true
+    - id: 9
+      name: question_4
+      label: Question 4 - What is the chemical symbol for gold?
+      hint: Two letter symbol
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_5
+      label: Question 5 - In what year did World War II end?
+      hint: Enter the year
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: question_6
+      label: Question 6 - How many bones are in the adult human body?
+      hint: Approximate number
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: question_7
+      label: Question 7 - Which planet is closest to the sun?
+      hint: null
+      type: select_one
+      options:
+      - Mercury
+      - Venus
+      - Earth
+      - Mars
+      - Jupiter
+      required: true
+    - id: 13
+      name: question_8
+      label: Question 8 - What is the capital of France?
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: question_9
+      label: Question 9 - Who wrote Romeo and Juliet?
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: question_10
+      label: Question 10 - What is the smallest prime number?
+      hint: Enter the number
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: question_11
+      label: Question 11 - Which ocean is the largest?
+      hint: null
+      type: select_one
+      options:
+      - Atlantic Ocean
+      - Indian Ocean
+      - Arctic Ocean
+      - Pacific Ocean
+      - Southern Ocean
+      required: true
+    - id: 17
+      name: question_12
+      label: Question 12 - In what year did the Titanic sink?
+      hint: Enter the year
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: question_13
+      label: Question 13 - What is the speed of light?
+      hint: In meters per second (approximately)
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: question_14
+      label: Question 14 - Which country is home to the Great Wall?
+      hint: Country name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: question_15
+      label: Question 15 - How many continents are there?
+      hint: Enter the number
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: confidence_level
+      label: How confident are you in your answers?
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident
+      required: false
+    - id: 22
+      name: quiz_difficulty
+      label: How difficult was this quiz?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Just Right
+      - Difficult
+      - Very Difficult
+      required: false

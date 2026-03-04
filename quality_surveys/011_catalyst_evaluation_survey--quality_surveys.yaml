@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catalyst Evaluation Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Research and Development
+      - Quality Control
+      - Process Engineering
+      - Production
+      - Management
+      - Other
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: catalyst_id
+      label: Catalyst ID or Batch Number
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: catalyst_type
+      label: Catalyst Type
+      hint: Type of catalyst evaluated
+      type: select_one
+      options:
+      - Homogeneous
+      - Heterogeneous
+      - Enzymatic
+      - Photocatalyst
+      - Electrocatalyst
+      - Other
+      required: true
+    - id: 7
+      name: application_area
+      label: Application Area
+      hint: Where is the catalyst used
+      type: select_one
+      options:
+      - Petrochemical
+      - Pharmaceutical
+      - Environmental
+      - Energy Production
+      - Food Processing
+      - Other
+      required: true
+    - id: 8
+      name: reaction_temperature
+      label: Reaction Temperature
+      hint: Temperature in Celsius
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: reaction_pressure
+      label: Reaction Pressure
+      hint: Pressure in bar or atm
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: conversion_rate
+      label: Conversion Rate
+      hint: Percentage conversion achieved
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: selectivity
+      label: Selectivity
+      hint: Product selectivity percentage
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: yield
+      label: Yield
+      hint: Overall yield percentage
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: activity_rating
+      label: Catalytic Activity Rating
+      hint: Rate the catalyst activity
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: stability_rating
+      label: Stability Rating
+      hint: Rate the catalyst stability
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: deactivation_observed
+      label: Deactivation Observed
+      hint: Was catalyst deactivation noticed
+      type: select_one
+      options:
+      - true
+      - false
+      - Uncertain
+      required: true
+    - id: 16
+      name: regeneration_possible
+      label: Regeneration Possible
+      hint: Can the catalyst be regenerated
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Tested
+      required: false
+    - id: 17
+      name: cycles_completed
+      label: Number of Cycles Completed
+      hint: How many reaction cycles
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: cost_effectiveness
+      label: Cost Effectiveness
+      hint: Rate the cost effectiveness
+      type: select_one
+      options:
+      - Very Cost Effective
+      - Cost Effective
+      - Neutral
+      - Expensive
+      - Very Expensive
+      required: true
+    - id: 19
+      name: safety_concerns
+      label: Safety Concerns
+      hint: Any safety issues observed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: environmental_impact
+      label: Environmental Impact
+      hint: Any environmental considerations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recommendation
+      label: Would You Recommend This Catalyst
+      hint: For similar applications
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

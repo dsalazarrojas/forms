@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heath Challenge Feedback Form
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: challenge_id
+      label: Challenge ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Challenge
+      - Program
+      - Initiative
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: challenge_feedback
+      label: Challenge Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_feedback
+      label: Program Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: initiative_feedback
+      label: Initiative Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_feedback
+      label: Other Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: challenge_name
+      label: Challenge Name
+      hint: null
+      type: text
+      options: []
+      required: false

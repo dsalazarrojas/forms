@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Class Quiz
+    pages:
+    - id: 1
+      name: in_class_quiz
+      label: class_quiz
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: in_class_quiz_questions
+      label: quiz_questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: in_class_quiz_score
+      label: student_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: in_class_quiz_submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: in_class_quiz_submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

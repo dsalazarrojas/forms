@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawsuit Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plaintiff_email
+      label: Plaintiff Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: defendant_name
+      label: Defendant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: defendant_email
+      label: Defendant Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_injury
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_filing
+      label: Date of Filing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: plaintiff_phone
+      label: Plaintiff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: defendant_phone
+      label: Defendant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      required: false
+    - id: 12
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_address
+      label: Doctor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - General Practice
+      - Specialist
+      - Other
+      required: false
+    - id: 21
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_date
+      label: Medical Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: medical_time
+      label: Medical Time
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Football Activity Questionnaire
+    pages:
+    - id: 1
+      name: footballer_name
+      label: footballer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: height_in_inches
+      label: height in inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: select_multiple
+      options:
+      - 17-18
+      - 19-20
+      - 21-22
+      - 23-24
+      - 25-30
+      - 31-35
+      - 36-40
+      - 41-45
+      required: false
+    - id: 4
+      name: weight_in_kg
+      label: weight in kg
+      hint: null
+      type: select_one
+      options:
+      - 40-45
+      - 46-50
+      - 51-55
+      - 56-60
+      - 61-65
+      - 66-70
+      - 71-75
+      - 76-80
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: condition1
+      label: medical condition 1
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 8
+      name: activity1
+      label: exercise activity 1
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 9
+      name: date
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time of injury
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: condition2
+      label: medical condition 2
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 12
+      name: activity2
+      label: exercise activity 2
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 13
+      name: condition3
+      label: medical condition 3
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 14
+      name: activity3
+      label: exercise activity 3
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 15
+      name: condition4
+      label: medical condition 4
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 16
+      name: activity4
+      label: exercise activity 4
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 17
+      name: condition5
+      label: medical condition 5
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 18
+      name: activity5
+      label: exercise activity 5
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 19
+      name: time_in_hours
+      label: time of injury in hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: date_of_last_injury
+      label: date of last injury
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 23
+      name: email_sent
+      label: email sent
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 24
+      name: phone_sent
+      label: phone sent
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 25
+      name: finished
+      label: finished
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false

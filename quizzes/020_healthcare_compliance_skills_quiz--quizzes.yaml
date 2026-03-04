@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Compliance Skills Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quiz
+      label: quiz
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: submission
+      label: Submission
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

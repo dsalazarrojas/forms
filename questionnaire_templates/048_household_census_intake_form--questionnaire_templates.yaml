@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Census Intake Form
+    pages:
+    - id: 1
+      name: household_head
+      label: Household Head
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: household_size
+      label: Household size
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 3
+      name: household_income
+      label: Household income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: household_location
+      label: Household location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: household_income_source
+      label: Household income source
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: household_employed
+      label: Household employed
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 7
+      name: household_education
+      label: Household education
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - College
+      - University
+      - Master's
+      required: false
+    - id: 8
+      name: household_employment
+      label: Household employment
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Non-working
+      required: false
+    - id: 9
+      name: household_rent
+      label: Household rent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: household_rent_frequency
+      label: Household rent frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 11
+      name: household_utilities
+      label: Household utilities
+      hint: null
+      type: select_one
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Sewage
+      - Internet
+      required: false
+    - id: 12
+      name: household_services
+      label: Household services
+      hint: null
+      type: select_one
+      options:
+      - Cable
+      - Phone
+      - Gas
+      - Electricity
+      - Internet
+      - Water
+      required: false
+    - id: 13
+      name: household_language
+      label: Household language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 14
+      name: household_vehicle
+      label: Household vehicle
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: household_income_frequency
+      label: Household income frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 16
+      name: household_other_income
+      label: Household other income
+      hint: null
+      type: select_multiple
+      options:
+      - Income 1
+      - Income 2
+      - Income 3
+      required: false
+    - id: 17
+      name: household_other_expense
+      label: Household other expense
+      hint: null
+      type: select_multiple
+      options:
+      - Expense 1
+      - Expense 2
+      - Expense 3
+      required: false
+    - id: 18
+      name: household_other_employment
+      label: Household other employment
+      hint: null
+      type: select_multiple
+      options:
+      - Employment 1
+      - Employment 2
+      - Employment 3
+      required: false
+    - id: 19
+      name: household_other_services
+      label: Household other services
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false

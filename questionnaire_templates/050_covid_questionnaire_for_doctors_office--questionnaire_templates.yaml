@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Questionnaire For Doctors Office
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fever''}'
+      - '{''value'': ''Coughing''}'
+      - '{''value'': ''Sore Throat''}'
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_notes
+      label: Doctor Notes
+      hint: Optional HIPAA compliance.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

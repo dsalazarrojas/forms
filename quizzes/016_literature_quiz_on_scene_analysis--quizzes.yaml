@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literature Quiz On Scene Analysis
+    pages:
+    - id: 1
+      name: scene_description
+      label: The Scene
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: character_name
+      label: Character Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scene_number
+      label: scene-number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: scene_location
+      label: scene-location
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': None, ''label'': ''''}'
+      - '{''option'': ''''}'
+      - '{''option'': ''''}'
+      - '{''option'': ''''}'
+      - '{''option'': ''''}'
+      - '{''option'': ''''}'
+      required: false
+    - id: 5
+      name: scene_era
+      label: scene-era
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''option-1'', ''label'': ''option-1''}'
+      - '{''option'': ''option-2'', ''label'': ''option-2''}'
+      - '{''option'': ''option-3'', ''label'': ''option-3''}'
+      - '{''option'': ''option-4'', ''label'': ''option-4''}'
+      - '{''option'': ''option-5'', ''label'': ''option-5''}'
+      required: false
+    - id: 6
+      name: scene_actors
+      label: scene-actors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''option-1'', ''label'': ''option-1''}'
+      - '{''option'': ''option-2'', ''label'': ''option-2''}'
+      - '{''option'': ''option-3'', ''label'': ''option-3''}'
+      - '{''option'': ''option-4'', ''label'': ''option-4''}'
+      - '{''option'': ''option-5'', ''label'': ''option-5''}'
+      - '{''option'': ''option-6'', ''label'': ''option-6''}'
+      - '{''option'': ''option-7'', ''label'': ''option-7''}'
+      - '{''option'': ''option-8'', ''label'': ''option-8''}'
+      - '{''option'': ''option-9'', ''label'': ''option-9''}'
+      required: false
+    - id: 7
+      name: date_of_scene
+      label: date-of-scene
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_day
+      label: time-of-day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Order History Report Request Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Purchase Order History Report Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: Please provide the customer information.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_order_id
+      label: Purchase Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: report_start_date
+      label: Report Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: report_end_date
+      label: Report End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: Please enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: Please enter the customer contact number.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: purchase_order_date
+      label: Purchase Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: purchase_order_amount
+      label: Purchase Order Amount
+      hint: Please enter the purchase order amount.
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stylist Match Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: What is a good stylist?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stylist_type
+      label: Which type of stylist are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''colorist''}'
+      required: true
+    - id: 3
+      name: hair_type
+      label: What type of hair do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''dry''}'
+      - '{''value'': ''curly''}'
+      - '{''value'': ''straight''}'
+      required: true
+    - id: 4
+      name: preferred_stylist
+      label: Which stylist type do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''balayage''}'
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''balayage''}'
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''balayage''}'
+      - '{''value'': ''colorist''}'
+      - '{''value'': ''balayage''}'
+      required: true
+    - id: 5
+      name: preferred_haircut
+      label: What style would you like your hair cut?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''fade''}'
+      - '{''value'': ''fade''}'
+      - '{''value'': ''fade''}'
+      - '{''value'': ''fade''}'
+      - '{''value'': ''fade''}'
+      required: true
+    - id: 6
+      name: schedule
+      label: When do you usually get your hair cut?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: stylist_name
+      label: What is your stylist name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stylist_email
+      label: What is your stylist email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: stylist_phone
+      label: What is your stylist phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stylist_bio
+      label: What is your bio?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: stylist_image
+      label: Profile image?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: stylist_services
+      label: What services do you offer?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''haircut''}'
+      - '{''value'': ''haircut''}'
+      - '{''value'': ''haircut''}'
+      - '{''value'': ''haircut''}'
+      - '{''value'': ''haircut''}'
+      - '{''value'': ''balayage''}'
+      - '{''value'': ''balayage''}'
+      required: true
+    - id: 13
+      name: client_name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: client_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_bio
+      label: What is your bio?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: client_image
+      label: Profile image?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: stylist_price
+      label: What is your price range?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: stylist_location
+      label: What is your location?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: stylist_rating
+      label: What is your rating?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stylist_experience
+      label: How long have you been a stylist?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: stylist_hours
+      label: When are you available?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: stylist_description
+      label: Description?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_confirmation
+      label: Are you a real person?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 25
+      name: terms
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

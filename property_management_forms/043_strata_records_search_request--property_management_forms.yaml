@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strata Records Search Request
+    pages:
+    - id: 1
+      name: strata_records_search_request
+      label: Strata Records Search Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_details
+      label: manager_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''strata_manager''}'
+      - '{''id'': 2, ''label'': ''property_manager''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: true
+    - id: 3
+      name: manager_title
+      label: manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_number
+      label: building_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: street_number
+      label: street_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: unit_number
+      label: unit_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_number
+      label: property_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''house''}'
+      - '{''id'': 2, ''label'': ''unit''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: true
+    - id: 12
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''active''}'
+      - '{''id'': 2, ''label'': ''inactive''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: false
+    - id: 13
+      name: property_status_other
+      label: property_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_status_note
+      label: property_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: strata_scheme
+      label: strata_scheme
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: strata_scheme_number
+      label: strata_scheme_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_scheme
+      label: manager_scheme
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_scheme_number
+      label: manager_scheme_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''strata_rollup''}'
+      - '{''id'': 2, ''label'': ''other''}'
+      - '{''id'': 3, ''label'': ''strata_certificate''}'
+      required: true
+    - id: 20
+      name: document_type_other
+      label: document_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: document_date
+      label: document_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: strata_date
+      label: strata_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: document_time
+      label: document_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: manager_time
+      label: manager_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: document_note
+      label: document_note
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Open Education Resource Usage Survey
+    pages:
+    - id: 1
+      name: school_type
+      label: school_type
+      hint: null
+      type: select_one
+      options:
+      - Schools
+      - Universities
+      - Training providers
+      - Other
+      required: false
+    - id: 2
+      name: awareness
+      label: Do you have awareness of open education resources?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Somewhat
+      required: false
+    - id: 3
+      name: use_frequency
+      label: What is your frequency of using OER?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Seldom
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with OER?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Not satisfied
+      - Very dissatisfied
+      required: false
+    - id: 5
+      name: benefits
+      label: What benefits have you realized from using OER?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: challenges
+      label: What are the challenges you face when using OER?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: open_awareness
+      label: Do you agree with the following about open education?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Somewhat
+      required: false
+    - id: 8
+      name: oer_impact
+      label: To what extent do you think OER has impacted your institution?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - None
+      - No impact
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Rooms Quiz
+    pages:
+    - id: 1
+      name: house_rooms_quiz_questions
+      label: house_rooms_quiz_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: house_rooms_quiz_answers
+      label: house_rooms_quiz_answers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: house_rooms_quiz_score
+      label: house_rooms_quiz_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: house_rooms_quiz_time
+      label: house_rooms_quiz_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: house_rooms_quiz_date
+      label: house_rooms_quiz_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: house_rooms_quiz_note
+      label: house_rooms_quiz_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: house_rooms_quiz_email
+      label: house_rooms_quiz_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: house_rooms_quiz_phone
+      label: house_rooms_quiz_phone
+      hint: null
+      type: text
+      options: []
+      required: false

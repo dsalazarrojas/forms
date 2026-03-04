@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Relations Office Contact Form
+    pages:
+    - id: 1
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_relations_office_form_2
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tenant_relations_office_form_3
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenant_relations_office_form_4
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tenant_relations_office_form_5
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

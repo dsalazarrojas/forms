@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drumming Skills Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: drumming_experience
+      label: drumming_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: technique
+      label: technique
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: practice_time
+      label: practice_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: music_theory
+      label: music_theory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: music_notation
+      label: music_notation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: performance_pressure
+      label: performance_pressure
+      hint: null
+      type: time
+      options: []
+      required: false

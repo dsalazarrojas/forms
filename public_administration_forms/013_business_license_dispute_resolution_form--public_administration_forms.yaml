@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business License Dispute Resolution Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: license_number
+      label: Business License Number
+      hint: Your business license number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_name
+      label: Business Owner Name
+      hint: Full name of business owner
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dispute_type
+      label: Type of Dispute
+      hint: Select the type of dispute
+      type: select_one
+      options:
+      - License denial
+      - License suspension
+      - License revocation
+      - Fine or penalty dispute
+      - Renewal rejection
+      - Processing delay
+      - Incorrect information
+      - Other
+      required: true
+    - id: 8
+      name: dispute_date
+      label: Date of Dispute Action
+      hint: When did the disputed action occur
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agency_involved
+      label: Agency Involved
+      hint: Which agency issued the action
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dispute_description
+      label: Dispute Description
+      hint: Describe the dispute in detail
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: grounds_for_dispute
+      label: Grounds for Dispute
+      hint: Why do you believe the action is incorrect
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: Select all documents you will submit
+      type: select_multiple
+      options:
+      - Business license copy
+      - Correspondence letters
+      - Financial records
+      - Photographs
+      - Witness statements
+      - Expert opinions
+      - Legal documents
+      - Other evidence
+      required: true
+    - id: 13
+      name: previous_communications
+      label: Previous Communications
+      hint: Have you communicated about this issue before
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once
+      - No - first communication
+      required: true
+    - id: 14
+      name: communication_details
+      label: Communication Details
+      hint: Describe previous communications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What resolution are you seeking
+      type: select_one
+      options:
+      - License reinstatement
+      - License approval
+      - Fine reduction
+      - Fine dismissal
+      - Processing expedite
+      - Record correction
+      - Other
+      required: true
+    - id: 16
+      name: outcome_description
+      label: Outcome Description
+      hint: Describe your desired resolution in detail
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: timeline_urgency
+      label: Timeline Urgency
+      hint: How urgently do you need resolution
+      type: select_one
+      options:
+      - Critical - business cannot operate
+      - Urgent - significant impact
+      - Important - moderate impact
+      - Standard - minimal impact
+      required: true
+    - id: 18
+      name: business_impact
+      label: Business Impact
+      hint: How has this issue impacted your business
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: legal_representation
+      label: Legal Representation
+      hint: Do you have legal representation for this matter
+      type: select_one
+      options:
+      - Yes - attorney representing
+      - Yes - attorney consulting
+      - No - self-represented
+      - Considering legal counsel
+      required: true
+    - id: 20
+      name: hearing_preference
+      label: Hearing Preference
+      hint: How would you prefer to attend any hearing
+      type: select_one
+      options:
+      - In-person
+      - Video conference
+      - Phone conference
+      - Written submission only
+      required: false
+    - id: 21
+      name: availability_dates
+      label: Availability Dates
+      hint: List your available dates for meetings or hearings
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Low Text Communication Preference Form
+    pages:
+    - id: 1
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: Select one
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      - '{''id'': 3, ''name'': ''Text Message''}'
+      - '{''id'': 4, ''name'': ''In Person''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: true
+    - id: 3
+      name: best_contact_time
+      label: Best Contact Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_alternate_phone_number
+      label: Alternate Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication_frequency
+      label: Communication Frequency
+      hint: Number of times per week
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Once''}'
+      - '{''id'': 2, ''name'': ''Twice''}'
+      - '{''id'': 3, ''name'': ''Daily''}'
+      - '{''id'': 4, ''name'': ''As Needed''}'
+      required: true
+    - id: 8
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: text
+      options: []
+      required: false

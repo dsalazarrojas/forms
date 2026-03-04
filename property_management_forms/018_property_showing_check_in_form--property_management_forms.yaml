@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Showing Check In Form
+    pages:
+    - id: 1
+      name: show_date
+      label: Show Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Show Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: property_id
+      label: Property ID
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      - '11111'
+      - '22222'
+      - '33333'
+      - '44444'
+      - '55555'
+      - '66666'
+      - '77777'
+      - '88888'
+      - '99999'
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

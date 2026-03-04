@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: memorial_planning_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is a memorial planning survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Funeral home name
+      hint: Enter your funeral home name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: funeral_director_name
+      label: Funeral director name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 10
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: burial_grounds
+      label: Burial grounds
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 12
+      name: casket_selection
+      label: Casket selection
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 13
+      name: flowers
+      label: Flowers
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 14
+      name: music_selection
+      label: Music selection
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 15
+      name: readings
+      label: Readings
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 16
+      name: eulogies
+      label: Eulogies
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: final_comments
+      label: Final comments
+      hint: null
+      type: note
+      options: []
+      required: false

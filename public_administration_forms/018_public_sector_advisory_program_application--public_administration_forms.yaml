@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_sector_advisory_program_application
+    pages:
+    - id: 1
+      name: candidate_details
+      label: candidate_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: availability
+      label: availability
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: false

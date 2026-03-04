@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Segmentation Questionnaire
+    pages:
+    - id: 1
+      name: segment_the_market
+      label: Who would you like to segment the market for?
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Customer
+      - Product
+      - Service
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: segment_based_on_variable
+      label: Based on what variable would you like to segment the market?
+      hint: null
+      type: select_one
+      options:
+      - Demographics
+      - Behavioral
+      - Geographic
+      required: false
+    - id: 3
+      name: market_segment
+      label: Which market segment are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 4
+      name: target_audience
+      label: Who is the target audience for your market segment?
+      hint: null
+      type: select_multiple
+      options:
+      - Men
+      - Women
+      - Both
+      required: false
+    - id: 5
+      name: preferred_interaction_channels
+      label: What is your preferred interaction channel?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-app
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: preferred_interaction_channel_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: market_segment_size
+      label: Estimated market segment size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: market_segment_percentage
+      label: Estimated percentage of the market
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: market_segment_description
+      label: Market segment description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_segment
+      label: Customer segment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: target_customers
+      label: Who are the target customers?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: target_customers_description
+      label: Description of target customers
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Lighting Quality Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: home_type
+      label: home_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''House''}'
+      - '{''value'': ''Condo''}'
+      - '{''value'': ''Townhouse''}'
+      required: false
+    - id: 3
+      name: lighting_type
+      label: lighting_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''LED''}'
+      - '{''value'': ''Incandescent''}'
+      - '{''value'': ''Halogen''}'
+      - '{''value'': ''Fluorescent''}'
+      required: false
+    - id: 4
+      name: brightness_level
+      label: brightness_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: energy_usage
+      label: energy_usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_wanted
+      label: time_wanted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: energy_savings
+      label: energy_savings
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 8
+      name: energy_efficiency
+      label: energy_efficiency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Energy Star''}'
+      - '{''value'': ''Non-Energy Star''}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Viral Video Creators Quiz
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Quiz Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: What is your role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Marketer''}'
+      - '{''id'': 2, ''label'': ''Creator''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Social Media''}'
+      - '{''id'': 2, ''label'': ''Google Search''}'
+      - '{''id'': 3, ''label'': ''Referral''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: how_would_you_rate_your_knowledge
+      label: How would you rate your knowledge about viral video creators?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: what_does_viral_mean_to_you
+      label: What does 'viral' mean to you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: what_is_the_most_important
+      label: What is the most important thing when it comes to going viral on social
+        media?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engagement''}'
+      - '{''id'': 2, ''label'': ''Views''}'
+      - '{''id'': 3, ''label'': ''Clicks''}'
+      - '{''id'': 4, ''label'': ''Comments''}'
+      required: false
+    - id: 13
+      name: what_makes_viral_content_trend
+      label: What makes a video trend on social media?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: what_is_the_best_social_media_channel
+      label: What is the best social media channel for viral content?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''TikTok''}'
+      - '{''id'': 2, ''label'': ''Instagram''}'
+      - '{''id'': 3, ''label'': ''YouTube''}'
+      - '{''id'': 4, ''label'': ''Facebook''}'
+      required: false
+    - id: 15
+      name: have_you_ever_made_a_viral_video
+      label: Have you ever made a viral video?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 16
+      name: what_is_the_best_platform_to_promote_viral_video
+      label: What is the best platform to promote a viral video?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''YouTube''}'
+      - '{''id'': 2, ''label'': ''TikTok''}'
+      - '{''id'': 3, ''label'': ''Instagram''}'
+      - '{''id'': 4, ''label'': ''Facebook''}'
+      required: false
+    - id: 17
+      name: what_is_the_most_popular_type_of_content
+      label: What is the most popular type of content on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Videos''}'
+      - '{''id'': 2, ''label'': ''Posts''}'
+      - '{''id'': 3, ''label'': ''Stories''}'
+      - '{''id'': 4, ''label'': ''Live Streams''}'
+      required: false
+    - id: 18
+      name: how_do_you_measure_succcess
+      label: How do you measure success on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engagement''}'
+      - '{''id'': 2, ''label'': ''Views''}'
+      - '{''id'': 3, ''label'': ''Engagement + Views''}'
+      required: false
+    - id: 19
+      name: have_you_ever_used_a_paid_service
+      label: Have you ever used a paid service to promote a video?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 20
+      name: what_is_the_most_important_metric_to_monitor
+      label: What is the most important metric to monitor when promoting a viral video?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engagement''}'
+      - '{''id'': 2, ''label'': ''Views''}'
+      - '{''id'': 3, ''label'': ''Reach''}'
+      required: false
+    - id: 21
+      name: have_you_ever_made_a_video_that_gone_viral_on_facebook
+      label: Have you ever made a video that gone viral on Facebook?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 22
+      name: what_is_the_most_popular_platform_for_viral_video_creators
+      label: What is the most popular platform for viral video creators?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''YouTube''}'
+      - '{''id'': 2, ''label'': ''TikTok''}'
+      - '{''id'': 3, ''label'': ''Instagram''}'
+      - '{''id'': 4, ''label'': ''Facebook''}'
+      required: false
+    - id: 23
+      name: what_is_the_best_way_to_reach_a_large_audience
+      label: What is the best way to reach a large audience on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Paid Advertising''}'
+      - '{''id'': 2, ''label'': ''Organic Reach''}'
+      - '{''id'': 3, ''label'': ''Influencer Marketing''}'
+      required: false
+    - id: 24
+      name: have_you_ever_used_instagram_ads
+      label: Have you ever used Instagram ads?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 25
+      name: do_you_agree_that_content_is_key_to_growth
+      label: Do you agree that content is key to growth on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false

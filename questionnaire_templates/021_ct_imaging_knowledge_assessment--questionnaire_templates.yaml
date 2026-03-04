@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: CT Imaging Knowledge Assessment
+    pages:
+    - id: 1
+      name: staff_info_header
+      label: -- Participant Information --
+      hint: Assessment for CT Imaging Professionals
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: profession_role
+      label: Current Role
+      hint: null
+      type: select_one
+      options:
+      - CT Technologist
+      - Radiology Resident
+      - Nursing Staff
+      - Imaging Assistant
+      - Student
+      required: true
+    - id: 4
+      name: years_experience
+      label: Years of Experience in CT
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: physics_section_header
+      label: -- CT Physics and Instrumentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: hounsfield_units
+      label: What does a Hounsfield Unit represent in CT imaging
+      hint: select the most accurate description
+      type: select_one
+      options:
+      - Electron Density
+      - Radiodensity
+      - Physical Density
+      - Attenuation Coefficient relative to water
+      required: true
+    - id: 7
+      name: artifact_recognition
+      label: Common Artifact Identification
+      hint: which artifact is caused by metallic implants
+      type: select_one
+      options:
+      - Beam Hardening
+      - Partial Volume
+      - Motion Blur
+      - Ring Artifact
+      required: true
+    - id: 8
+      name: dose_modulation
+      label: Understanding Dose Modulation
+      hint: explain the purpose of tube current modulation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: protocols_header
+      label: -- Clinical Protocols and Contrast --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contrast_contraindications
+      label: Major Contraindications for Iodinated Contrast
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Severe Renal Impairment
+      - History of Anaphylaxis
+      - Seafood Allergy
+      - Recent Barium Study
+      required: true
+    - id: 11
+      name: gfr_threshold
+      label: Minimum GFR for standard contrast administration
+      hint: according to current ACR guidelines
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: scan_delay_timing
+      label: Scan Delay for Portal Venous Phase
+      hint: in seconds post-injection
+      type: select_one
+      options:
+      - 15-20
+      - 25-35
+      - 60-70
+      - 90-120
+      required: true
+    - id: 13
+      name: safety_header
+      label: -- Radiation Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: alara_principle
+      label: Describe the ALARA principle in daily practice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shielding_effectiveness
+      label: Effectiveness of lead shielding in modern CT
+      hint: null
+      type: select_one
+      options:
+      - Highly Effective
+      - Minimally Effective
+      - No longer recommended for routine scans
+      required: true
+    - id: 16
+      name: completion_date
+      label: Assessment Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submission_acknowledgment
+      label: I certify that I completed this assessment without assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

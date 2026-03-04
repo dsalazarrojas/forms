@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Loan Assistance Intake Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Student Loan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_loan_borrower
+      label: Student Loan Borrower
+      hint: Enter Student Loan Borrower Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_one
+      options:
+      - Delinquent
+      - Deferment
+      - Deferment Forgiveness
+      - Default
+      required: false
+    - id: 6
+      name: current_employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Not Employed
+      required: false
+    - id: 7
+      name: income_level
+      label: Income Level
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 20,000
+      - 20,000 - 40,000
+      - 40,000 - 60,000
+      - Greater than 60,000
+      required: false
+    - id: 8
+      name: monthly_net_income
+      label: Monthly Net Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: annual_family_income
+      label: Annual Family Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: monthly_family_income
+      label: Monthly Family Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_loan_borrower_1_phone
+      label: Borrower 1 Phone
+      hint: Borrower 1 Phone
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_loan_borrower_2_phone
+      label: Borrower 2 Phone
+      hint: Borrower 2 Phone
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_loan_borrower_3_phone
+      label: Borrower 3 Phone
+      hint: Borrower 3 Phone
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_loan_borrower_4_phone
+      label: Borrower 4 Phone
+      hint: Borrower 4 Phone
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_loan_borrower_5_phone
+      label: Borrower 5 Phone
+      hint: Borrower 5 Phone
+      type: text
+      options: []
+      required: false

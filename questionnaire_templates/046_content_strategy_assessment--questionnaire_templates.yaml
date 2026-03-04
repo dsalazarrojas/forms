@@ -1,0 +1,291 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Strategy Assessment
+    pages:
+      - id: 1
+        name: company_name
+        label: Company Name
+        hint: Name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_role
+        label: Respondent Role
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this assessment
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: industry
+        label: Industry
+        hint: What industry are you in?
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Retail
+          - Education
+          - Manufacturing
+          - Professional Services
+          - Nonprofit
+          - Other
+        required: true
+      - id: 6
+        name: company_size
+        label: Company Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - 1-10 employees
+          - 11-50 employees
+          - 51-200 employees
+          - 201-500 employees
+          - 500+ employees
+        required: true
+      - id: 7
+        name: current_content_team_size
+        label: Current Content Team Size
+        hint: How many people create content?
+        type: select_one
+        options:
+          - 1 person
+          - 2-5 people
+          - 6-10 people
+          - 11-20 people
+          - 20+ people
+        required: true
+      - id: 8
+        name: content_goals
+        label: Primary Content Goals
+        hint: What are your main content objectives?
+        type: select_multiple
+        options:
+          - Brand Awareness
+          - Lead Generation
+          - Customer Education
+          - Thought Leadership
+          - SEO Improvement
+          - Customer Retention
+          - Sales Support
+          - Community Building
+        required: true
+      - id: 9
+        name: content_planning_process
+        label: Content Planning Process
+        hint: How do you plan content?
+        type: select_one
+        options:
+          - Formal documented process
+          - Informal but consistent
+          - Ad-hoc, no formal process
+          - No planning done
+        required: true
+      - id: 10
+        name: content_calendar_used
+        label: Content Calendar Used
+        hint: Do you use a content calendar?
+        type: select_one
+        options:
+          - Yes, always
+          - Sometimes
+          - No, but planning to
+          - No, not needed
+        required: true
+      - id: 11
+        name: publishing_frequency
+        label: Publishing Frequency
+        hint: How often do you publish content?
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Irregularly
+        required: true
+      - id: 12
+        name: content_types_produced
+        label: Content Types Produced
+        hint: What types of content do you create?
+        type: select_multiple
+        options:
+          - Blog Posts
+          - Social Media Posts
+          - Videos
+          - Podcasts
+          - Infographics
+          - E-books
+          - White Papers
+          - Case Studies
+          - Email Newsletters
+        required: true
+      - id: 13
+        name: content_distribution_channels
+        label: Distribution Channels
+        hint: Where do you publish content?
+        type: select_multiple
+        options:
+          - Company Website
+          - Blog
+          - Facebook
+          - Instagram
+          - LinkedIn
+          - Twitter
+          - YouTube
+          - Email
+          - Third-Party Sites
+        required: true
+      - id: 14
+        name: content_budget
+        label: Content Marketing Budget
+        hint: What is your annual content budget?
+        type: select_one
+        options:
+          - Under $10,000
+          - $10,000-$50,000
+          - $50,000-$100,000
+          - $100,000-$250,000
+          - Over $250,000
+        required: true
+      - id: 15
+        name: content_tools_used
+        label: Content Tools Used
+        hint: What tools do you use for content?
+        type: select_multiple
+        options:
+          - Content Management System
+          - Social Media Scheduler
+          - Analytics Platform
+          - Design Tools
+          - Video Editing Software
+          - SEO Tools
+          - Project Management
+          - None
+        required: true
+      - id: 16
+        name: measurement_practices
+        label: Measurement Practices
+        hint: How do you measure content success?
+        type: select_one
+        options:
+          - Comprehensive analytics and reporting
+          - Basic metrics tracking
+          - Occasional review
+          - No measurement done
+        required: true
+      - id: 17
+        name: kpis_tracked
+        label: KPIs Tracked
+        hint: Which metrics do you track?
+        type: select_multiple
+        options:
+          - Website Traffic
+          - Engagement Rates
+          - Lead Generation
+          - Conversion Rates
+          - Social Shares
+          - SEO Rankings
+          - Email Open Rates
+          - Revenue Attribution
+        required: false
+      - id: 18
+        name: biggest_challenges
+        label: Biggest Challenges
+        hint: What are your main content challenges?
+        type: select_multiple
+        options:
+          - Limited Budget
+          - Limited Staff
+          - Lack of Strategy
+          - Inconsistent Publishing
+          - Poor Quality Content
+          - Low Engagement
+          - Measuring ROI
+          - Content Distribution
+        required: true
+      - id: 19
+        name: content_quality_rating
+        label: Content Quality Rating
+        hint: How would you rate your content quality?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: content_consistency_rating
+        label: Content Consistency Rating
+        hint: How consistent is your publishing?
+        type: select_one
+        options:
+          - Very Consistent
+          - Consistent
+          - Somewhat Consistent
+          - Inconsistent
+          - Very Inconsistent
+        required: true
+      - id: 21
+        name: audience_understanding
+        label: Audience Understanding
+        hint: How well do you know your audience?
+        type: select_one
+        options:
+          - Very Well - Detailed personas
+          - Well - Basic personas
+          - Somewhat - General idea
+          - Not Well - Limited knowledge
+          - Not at All
+        required: true
+      - id: 22
+        name: content_gaps
+        label: Content Gaps
+        hint: Where do you see gaps in your content?
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: improvement_priorities
+        label: Improvement Priorities
+        hint: What do you most want to improve?
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information about your content strategy
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Mechanization Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Optional for anonymous quizzes
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization or school
+      hint: Institution or employer
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_level
+      label: Mechanization experience level
+      hint: Self assessed experience with machinery
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 4
+      name: question_1
+      label: Best practice for tractor maintenance
+      hint: Choose the most appropriate answer
+      type: select_one
+      options:
+      - Regular lubrication
+      - Ignore minor noises
+      - Delay maintenance
+      - Only replace parts annually
+      required: true
+    - id: 5
+      name: question_2
+      label: Proper tyre pressure importance
+      hint: Select the best explanation
+      type: select_one
+      options:
+      - Improves fuel efficiency
+      - Has no effect
+      - Only affects speed
+      - Affects pesticide application
+      required: true
+    - id: 6
+      name: question_3
+      label: Safe procedure before repair
+      hint: Choose the correct safety step
+      type: select_one
+      options:
+      - Disconnect power and chock wheels
+      - Start engine
+      - Remove guards while running
+      - None of the above
+      required: true
+    - id: 7
+      name: question_4
+      label: Fuel storage best practice
+      hint: Choose the correct storage practice
+      type: select_one
+      options:
+      - Store in labelled containers
+      - Keep any container
+      - Store near ignition sources
+      - Mix fuels
+      required: false
+    - id: 8
+      name: score_estimate
+      label: Estimated score
+      hint: Optional self estimate of quiz score
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_interest
+      label: Interest in further training
+      hint: Would participant like more training on mechanization
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

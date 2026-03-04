@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Security Assessment Questionnaire
+    pages:
+    - id: 1
+      name: housing_security_form_1
+      label: Housing Security Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1_1
+      label: Section 1
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Option 1''}'
+      - '{''option_2'': ''Option 2''}'
+      - '{''option_3'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: section_1_2
+      label: Section 1.2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_2_1
+      label: Section 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Option 4''}'
+      - '{''option_2'': ''Option 5''}'
+      required: false
+    - id: 5
+      name: section_2_2
+      label: Section 2.2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_3_1
+      label: Section 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: section_4_1
+      label: Section 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: housing_security_rating_1
+      label: Housing Security Rating 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: housing_security_rating_2
+      label: Housing Security Rating 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: housing_security_rating_3
+      label: Housing Security Rating 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Option 15''}'
+      - '{''option_2'': ''Option 16''}'
+      required: true

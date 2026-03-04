@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: crime novel writing survey
+    pages:
+    - id: 1
+      name: crime_novel_writing_survey_form
+      label: How often do you write?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: writing_experience
+      label: writing experience
+      hint: Select one option
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 3
+      name: writing_goals
+      label: What are your writing goals?
+      hint: null
+      type: select_multiple
+      options:
+      - Complete a novel
+      - Finish a few short stories
+      - Develop a writing habit
+      - Publish a book
+      required: true
+    - id: 4
+      name: favorite_genre
+      label: favorite_genre
+      hint: null
+      type: select_one
+      options:
+      - Crime
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Horror
+      - Mystery
+      - Thriller
+      - Historical
+      required: true
+    - id: 5
+      name: writing_inspirations
+      label: What inspires your writing?
+      hint: null
+      type: select_multiple
+      options:
+      - Real-life events
+      - Dreams
+      - Research
+      - Conversations
+      - Travel
+      - Reading
+      - Other
+      required: false
+    - id: 6
+      name: writing_challenges
+      label: What challenges do you face while writing?
+      hint: null
+      type: select_multiple
+      options:
+      - Finding time
+      - Lack of confidence
+      - Self-doubt
+      - Rejection
+      - Writer's block
+      - Other
+      required: false
+    - id: 7
+      name: writing_habits
+      label: What are your writing habits?
+      hint: null
+      type: select_multiple
+      options:
+      - Write regularly
+      - Write at any time
+      - Write when inspired
+      - Write for a specific project
+      - Write for a specific genre
+      required: false
+    - id: 8
+      name: crime_fiction
+      label: What do you like most about crime fiction?
+      hint: null
+      type: select_multiple
+      options:
+      - The thrill of the chase
+      - The complexity of plot
+      - The moral ambiguity
+      - The character development
+      - The setting
+      - The plot twist
+      required: false
+    - id: 9
+      name: writing_group
+      label: writing group
+      hint: Do you belong to a writing group?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 10
+      name: published
+      label: Have you published anything?
+      hint: null
+      type: select_multiple
+      options:
+      - Novel
+      - Short story
+      - Essay
+      - Article
+      - Other
+      required: false

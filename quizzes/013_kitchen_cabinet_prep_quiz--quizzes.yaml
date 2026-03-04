@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Cabinet Prep Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: client_info
+      hint: Please enter client information as you would in your own work order
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_precautions
+      label: safety_precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cabinet_prep
+      label: cabinet_prep
+      hint: What type of cabinet prep do you need help with? Select all that apply.
+      type: select_multiple
+      options:
+      - Standard Prep
+      - Full Prep
+      - Partial Prep
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: safety_equipment
+      label: safety_equipment
+      hint: What safety equipment do you have access to?
+      type: select_one
+      options:
+      - Full-face respirator
+      - Safety glasses
+      - Steel-toed boots
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: client_readiness
+      label: client_readiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: client_confidence
+      label: client_confidence
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Education Assessment Questionnaire
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Current Grade Level
+      hint: Your current grade
+      type: select_one
+      options:
+      - Elementary (K-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      - College/University
+      - Graduate School
+      - Adult Learner
+      - Other
+      required: true
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: Current institution
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If student is a minor
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: If student is a minor
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: If student is a minor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: subject_areas
+      label: Subject Areas of Interest
+      hint: What do you need help with?
+      type: select_multiple
+      options:
+      - Mathematics
+      - Science
+      - English Language Arts
+      - History or Social Studies
+      - Foreign Language
+      - Computer Science
+      - Test Preparation
+      - Study Skills
+      - Other
+      required: true
+    - id: 12
+      name: specific_topics
+      label: Specific Topics or Concepts
+      hint: What exactly do you need help with?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_grades
+      label: Current Grades in Subject
+      hint: Your current performance
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: learning_goals
+      label: Learning Goals
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: learning_challenges
+      label: Learning Challenges
+      hint: Any difficulties you face
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: learning_disabilities
+      label: Do You Have Any Learning Disabilities?
+      hint: For accommodation purposes
+      type: select_one
+      options:
+      - false
+      - Yes, Dyslexia
+      - Yes, ADHD
+      - Yes, Dyscalculia
+      - Yes, Other
+      - Prefer Not to Say
+      required: false
+    - id: 17
+      name: learning_style
+      label: Preferred Learning Style
+      hint: How do you learn best?
+      type: select_one
+      options:
+      - Visual (Seeing)
+      - Auditory (Hearing)
+      - Kinesthetic (Doing)
+      - Reading and Writing
+      - Not Sure
+      - Combination
+      required: true
+    - id: 18
+      name: previous_tutoring
+      label: Have You Had Tutoring Before?
+      hint: Previous experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: previous_tutoring_effective
+      label: Was Previous Tutoring Helpful?
+      hint: If applicable
+      type: select_one
+      options:
+      - Very Helpful
+      - Somewhat Helpful
+      - Not Helpful
+      - Not Applicable
+      required: false
+    - id: 20
+      name: study_habits
+      label: Current Study Habits
+      hint: How often do you study?
+      type: select_one
+      options:
+      - Daily
+      - Several Times Per Week
+      - Once Per Week
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: available_study_time
+      label: Available Study Time
+      hint: When can you study?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: motivation_level
+      label: Motivation Level
+      hint: How motivated are you?
+      type: select_one
+      options:
+      - Very Motivated
+      - Motivated
+      - Neutral
+      - Somewhat Unmotivated
+      - Unmotivated
+      required: true
+    - id: 23
+      name: session_frequency
+      label: Preferred Session Frequency
+      hint: How often do you want to meet?
+      type: select_one
+      options:
+      - Daily
+      - 2-3 Times Per Week
+      - Once Per Week
+      - Bi-Weekly
+      - As Needed
+      required: true
+    - id: 24
+      name: session_duration
+      label: Preferred Session Duration
+      hint: How long per session?
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 1 Hour
+      - 1.5 Hours
+      - 2 Hours
+      required: true
+    - id: 25
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true

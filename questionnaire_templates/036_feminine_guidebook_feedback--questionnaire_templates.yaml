@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feminine Guidebook Feedback
+    pages:
+    - id: 1
+      name: feedback_text
+      label: Feedback text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: feedback_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: feedback_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: feedback_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foundation Assessment Survey
+    pages:
+    - id: 1
+      name: foundation_assessment
+      label: Foundation Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - Commercial
+      - Residential
+      - Industrial
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_map_url
+      label: Location Map URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: foundation_type
+      label: Foundation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Slab-on-grade
+      - Full Basement
+      - Crawlspace
+      required: false
+    - id: 6
+      name: foundation_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: foundation_width
+      label: Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: foundation_condition
+      label: Foundation Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: foundation_condition_comment
+      label: Foundation Condition Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: foundation_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: building_age
+      label: Building Age
+      hint: null
+      type: select_multiple
+      options:
+      - 0-5 Years
+      - 5-10 Years
+      - 10-20 Years
+      - 20-30 Years
+      required: false
+    - id: 13
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_email
+      label: Inspector Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspector_license
+      label: Inspector License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: inspector_company
+      label: Inspector Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: inspector_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

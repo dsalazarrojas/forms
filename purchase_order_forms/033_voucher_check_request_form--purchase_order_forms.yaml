@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voucher Check Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Voucher Check Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Voucher Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: form_description
+      label: Voucher Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: form_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: form_currency_symbol
+      label: Currency Symbol
+      hint: null
+      type: text
+      options: []
+      required: false

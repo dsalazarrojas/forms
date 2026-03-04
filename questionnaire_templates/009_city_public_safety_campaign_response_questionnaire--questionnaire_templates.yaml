@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Public Safety Campaign Response Questionnaire
+    pages:
+    - id: 1
+      name: campaign_intro
+      label: -- Public Safety Campaign Feedback --
+      hint: Help us improve our community outreach
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_neighborhood
+      label: Your Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: campaign_awareness
+      label: Have you seen or heard our recent Public Safety Campaign?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - No, not at all
+      required: true
+    - id: 4
+      name: media_source
+      label: Where did you encounter the campaign?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media
+      - Radio
+      - Television
+      - Billboards/Outdoor Signs
+      - Community Meeting
+      - Local Newspaper
+      required: false
+    - id: 5
+      name: message_clarity
+      label: Was the campaign message clear and easy to understand?
+      hint: 1 = Very Unclear, 5 = Very Clear
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: campaign_relevance
+      label: Did you find the information relevant to your daily life?
+      hint: null
+      type: select_one
+      options:
+      - Very Relevant
+      - Somewhat Relevant
+      - Neutral
+      - Irrelevant
+      required: true
+    - id: 7
+      name: behavioral_impact
+      label: Has the campaign caused you to change any safety-related behaviors?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, slightly
+      - No changes made
+      required: true
+    - id: 8
+      name: specific_behavior_changes
+      label: If yes, what changes did you make?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: perceived_safety_change
+      label: Do you feel safer in your neighborhood as a result of this campaign?
+      hint: null
+      type: select_one
+      options:
+      - Much Safer
+      - Slightly Safer
+      - No Change
+      - Less Safe
+      required: true
+    - id: 10
+      name: communication_style_preference
+      label: What is your preferred way to receive safety updates from the city?
+      hint: null
+      type: select_one
+      options:
+      - Text Message
+      - Email
+      - Social Media
+      - Door Hangers
+      required: false
+    - id: 11
+      name: campaign_strengths
+      label: What did you like most about the campaign?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: campaign_improvements
+      label: What could we do better in future campaigns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: interest_in_volunteering
+      label: Would you be interested in being a Neighborhood Safety Captain?
+      hint: null
+      type: select_one
+      options:
+      - Yes, send me info
+      - No thanks
+      required: false
+    - id: 14
+      name: response_date
+      label: Date of Response
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Missouri Tax Form Request
+    pages:
+    - id: 1
+      name: form_request
+      label: Form Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Tax Return
+      - W-2
+      - Other
+      required: false
+    - id: 7
+      name: fiscal_year
+      label: Fiscal Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_mailed
+      label: Date Mailed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

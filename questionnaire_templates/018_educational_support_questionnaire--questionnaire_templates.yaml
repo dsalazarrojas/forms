@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Support Questionnaire
+    pages:
+    - id: 1
+      name: educational_support_questionnaire
+      label: What are the trainees goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: educational_support_trainees
+      label: Select trainee(s)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: educational_support_needs
+      label: What are the educational support needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: educational_support_instructors
+      label: Select instructor(s)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: educational_support_tools
+      label: What tools are needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: educational_support_tutoring_hours
+      label: Tutoring hours requested
+      hint: null
+      type: number
+      options: []
+      required: false

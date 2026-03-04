@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Processes
+    pages:
+    - id: 1
+      name: property_management_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_management_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_management_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Residential''}'
+      - '{''id'': 2, ''name'': ''Commercial''}'
+      - '{''id'': 3, ''name'': ''Industrial''}'
+      required: true
+    - id: 4
+      name: property_management_date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: property_management_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      required: true

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Of Inaction Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: delay_time
+      label: How long do you expect to delay the project?
+      hint: Enter a number of months
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: expected_cost
+      label: Expected cost of delaying the project
+      hint: Enter a number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: risk_factors
+      label: Risk factors
+      hint: null
+      type: select_multiple
+      options:
+      - Financial loss
+      - Time loss
+      - Resource loss
+      required: true
+    - id: 5
+      name: impact_on_project
+      label: Impact on project outcomes
+      hint: null
+      type: select_one
+      options:
+      - Financially impactful
+      - Not financially impactful
+      required: true
+    - id: 6
+      name: cost_of_delaying
+      label: What is the cost of delaying the project?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: impact_on_team
+      label: Impact on team morale
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - High
+      required: true
+    - id: 8
+      name: risk_level
+      label: Risk level of the project
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 9
+      name: mitigation_strategies
+      label: Mitigation strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Identify and assess
+      - Develop and implement
+      - Monitor and adjust
+      required: true
+    - id: 10
+      name: next_steps
+      label: Next steps
+      hint: null
+      type: select_one
+      options:
+      - Implement mitigation strategies
+      - Continue planning
+      - Delay the project
+      required: true
+    - id: 11
+      name: project_status
+      label: Project status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In progress
+      - Completed
+      required: true
+    - id: 12
+      name: delay_date
+      label: Expected delay date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: delay_time
+      label: Delay time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

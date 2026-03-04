@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Criminal Defense Mistakes Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_mistakes
+      label: Mistakes
+      hint: Please select all mistakes that apply
+      type: select_one
+      options:
+      - Arbitration mistakes
+      - Discovery mistakes
+      - Witness interview mistakes
+      - Jury trial mistakes
+      - Prosecutorial mistakes
+      - Defensive mistakes
+      - Judicial mistakes
+      - Plea bargain mistakes
+      required: false
+    - id: 3
+      name: mistake_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mistake_impact
+      label: Impact
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_stakeholders
+      label: Who are the stakeholders?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Client
+      - Prosecutor
+      - Judge
+      - Defense Attorney
+      - Lawyer
+      - Expert Witness
+      required: false

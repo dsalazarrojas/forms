@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Advisory Council Petition Form
+    pages:
+    - id: 1
+      name: petitioner_name
+      label: Petitioner name
+      hint: Full name of the person submitting the petition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Provide an email address for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional phone number including country code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization or affiliation
+      hint: Organization name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: petition_title
+      label: Petition title
+      hint: Short descriptive title of the petition
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: petition_summary
+      label: Petition summary
+      hint: Brief summary of the request or concern
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: petition_details
+      label: Petition details
+      hint: Provide detailed information, facts, and requested actions
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: affected_areas
+      label: Affected areas or communities
+      hint: List locations affected by the issue
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_documents
+      label: Supporting documents available
+      hint: Indicate whether attachments are available and describe them
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_consent
+      label: Signature and consent acknowledgement
+      hint: Acknowledge that submitted information is accurate
+      type: note
+      options: []
+      required: true

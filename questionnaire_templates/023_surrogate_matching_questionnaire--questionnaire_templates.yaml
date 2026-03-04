@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surrogate Matching Questionnaire
+    pages:
+    - id: 1
+      name: background_information
+      label: Background Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: surrogate_details
+      label: Surrogate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: surrogate_preferences
+      label: Surrogate Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: intended_parent_details
+      label: Intended Parent Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: background_check
+      label: Background Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: surrogate_support_system
+      label: Surrogate Support System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: surrogate_expenses
+      label: Surrogate Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surrogate_matching_criterias
+      label: Surrogate Matching Criteria
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Disturbance Report Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sleep_patterns
+      label: sleep_patterns
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sleep_durations
+      label: sleep_durations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: sleep_onset
+      label: sleep_onset
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: bedtime
+      label: bedtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: wake_up_time
+      label: wake_up_time
+      hint: null
+      type: time
+      options: []
+      required: false

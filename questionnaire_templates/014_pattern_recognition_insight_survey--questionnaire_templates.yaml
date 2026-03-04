@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pattern Recognition Insight Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Educator Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Pattern Recognition Habits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Confidence
+      hint: Confidence level on a scale 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Consistency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: pattern_recognition_insight
+      hint: null
+      type: text
+      options: []
+      required: false

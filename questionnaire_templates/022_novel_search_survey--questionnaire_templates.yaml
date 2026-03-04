@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Novel Search Survey
+    pages:
+    - id: 1
+      name: novel_discovery
+      label: How did you discover this novel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: favorite_genre
+      label: Favorite genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: challenge_level
+      label: Challenge level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: discover_challenges
+      label: What challenges do you face when discovering new novels?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

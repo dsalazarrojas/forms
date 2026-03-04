@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enterprise Financinq Questionnaire
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: loan_officer
+      label: Loan Officer
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: loan_interest
+      label: Loan Interest
+      hint: null
+      type: number
+      options: []
+      required: false

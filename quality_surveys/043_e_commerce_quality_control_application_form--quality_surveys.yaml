@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_quality_control_application_form
+    pages:
+    - id: 1
+      name: general_information
+      label: general_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_details
+      label: product_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_data
+      label: inspection_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: compliance_info
+      label: compliance_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Credit Card''}'
+      required: false
+    - id: 9
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: product_condition
+      label: product_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''New''}'
+      - '{''label'': ''Used''}'
+      - '{''label'': ''Refurbished''}'
+      required: false
+    - id: 11
+      name: shipping_status
+      label: shipping_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Shipped''}'
+      - '{''label'': ''Not Shipped''}'
+      required: false
+    - id: 12
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Store''}'
+      - '{''label'': ''Warehouse''}'
+      - '{''label'': ''Office''}'
+      required: false
+    - id: 13
+      name: product_weight
+      label: product_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: packaging_details
+      label: packaging_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_carrier
+      label: shipping_carrier
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''UPS''}'
+      - '{''label'': ''FedEx''}'
+      - '{''label'': ''USPS''}'
+      required: false

@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Committee Meeting Scheduling Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your name
+        hint: Optional for anonymous responses
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: availability_weekdays
+        label: Availability weekdays
+        hint: Select all days you are available
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+        required: true
+      - id: 3
+        name: availability_evenings
+        label: Availability for evening meetings
+        hint: Choose availability for evenings
+        type: select_one
+        options:
+          - Yes available
+          - No not available
+        required: true
+      - id: 4
+        name: preferred_meeting_length
+        label: Preferred meeting length
+        hint: Typical meeting duration preference
+        type: select_one
+        options:
+          - 30 minutes
+          - 60 minutes
+          - 90 minutes
+          - 2 hours
+        required: true
+      - id: 5
+        name: meeting_frequency
+        label: Preferred meeting frequency
+        hint: How often the committee should meet
+        type: select_one
+        options:
+          - Weekly
+          - Biweekly
+          - Monthly
+          - Quarterly
+        required: true
+      - id: 6
+        name: virtual_preference
+        label: Virtual meeting preference
+        hint: Virtual participation options
+        type: select_one
+        options:
+          - Prefer virtual
+          - Prefer in person
+          - No preference
+        required: true
+      - id: 7
+        name: additional_comments
+        label: Additional comments or constraints
+        hint: Any special considerations to note
+        type: text
+        options: []
+        required: false

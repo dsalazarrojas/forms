@@ -1,0 +1,196 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Education Availability Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Name (Optional)
+        hint: Your name if you wish to share
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For program updates
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: zip_code
+        label: ZIP Code
+        hint: Your ZIP code
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or Older
+        required: true
+      - id: 5
+        name: education_level
+        label: Current Education Level
+        hint: Highest level completed
+        type: select_one
+        options:
+          - Less than High School
+          - High School Diploma
+          - Some College
+          - Associate Degree
+          - Bachelor's Degree
+          - Graduate Degree
+        required: true
+      - id: 6
+        name: employment_status
+        label: Employment Status
+        hint: Current employment situation
+        type: select_one
+        options:
+          - Employed Full-Time
+          - Employed Part-Time
+          - Self-Employed
+          - Unemployed, Looking
+          - Unemployed, Not Looking
+          - Student
+          - Retired
+          - Homemaker
+        required: true
+      - id: 7
+        name: learning_interests
+        label: Learning Interests
+        hint: What subjects interest you?
+        type: select_multiple
+        options:
+          - Language Learning
+          - Technology and Computers
+          - Business and Finance
+          - Arts and Crafts
+          - Health and Wellness
+          - Vocational Training
+          - Academic Subjects
+          - Personal Development
+        required: true
+      - id: 8
+        name: preferred_format
+        label: Preferred Learning Format
+        hint: How do you prefer to learn?
+        type: select_multiple
+        options:
+          - In-Person Classes
+          - Online Live Classes
+          - Self-Paced Online
+          - Hybrid
+          - Workshops
+          - One-on-One Tutoring
+        required: true
+      - id: 9
+        name: schedule_preference
+        label: Preferred Schedule
+        hint: When can you attend?
+        type: select_multiple
+        options:
+          - Weekday Mornings
+          - Weekday Afternoons
+          - Weekday Evenings
+          - Saturday Mornings
+          - Saturday Afternoons
+          - Sunday Mornings
+          - Sunday Afternoons
+        required: true
+      - id: 10
+        name: time_commitment
+        label: Time Commitment Available
+        hint: Hours per week for learning
+        type: select_one
+        options:
+          - 1-2 Hours
+          - 3-5 Hours
+          - 6-10 Hours
+          - More than 10 Hours
+        required: true
+      - id: 11
+        name: childcare_needs
+        label: Childcare Needs
+        hint: Do you need childcare during classes?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: transportation_needs
+        label: Transportation Needs
+        hint: Do you need transportation assistance?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 13
+        name: cost_range
+        label: Affordable Cost Range
+        hint: What can you afford per course?
+        type: select_one
+        options:
+          - Free Only
+          - $1-$50
+          - $51-$100
+          - $101-$200
+          - More than $200
+        required: true
+      - id: 14
+        name: financial_aid
+        label: Would You Need Financial Aid
+        hint: Do you need assistance with costs?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: true
+      - id: 15
+        name: prior_experience
+        label: Previous Adult Education Experience
+        hint: Have you taken adult education classes?
+        type: select_one
+        options:
+          - Yes, Multiple Courses
+          - Yes, One Course
+          - No
+        required: true
+      - id: 16
+        name: goals
+        label: Learning Goals
+        hint: What are your educational goals?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information to share
+        type: text
+        options: []
+        required: false

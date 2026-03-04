@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Relationship Survey
+    pages:
+    - id: 1
+      name: government_relationship_survey_form_title
+      label: Government Relationship Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: government_relationship_survey_services
+      label: What services have you interacted with in the past 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: government_relationship_survey_satisfaction
+      label: How satisfied are you with the services?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: government_relationship_survey_services_accessibility
+      label: How accessible were these services?
+      hint: null
+      type: select_one
+      options:
+      - Very Accessible
+      - Neutral
+      - Not Accessible
+      required: false
+    - id: 5
+      name: government_relationship_survey_transparency
+      label: How transparent were the services?
+      hint: null
+      type: select_one
+      options:
+      - Very Transparent
+      - Neutral
+      - Not Transparent
+      required: false
+    - id: 6
+      name: government_relationship_survey_frequency
+      label: How often do you interact with government services?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 7
+      name: government_relationship_survey_frequency_reason
+      label: If you interact frequently, what drives this frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - Convenience
+      - Necessity
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: government_relationship_survey_frequency_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: government_relationship_survey_suggestions
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: government_relationship_survey_contact_info
+      label: How would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 11
+      name: government_relationship_survey_comment
+      label: Any comments?
+      hint: null
+      type: text
+      options: []
+      required: false

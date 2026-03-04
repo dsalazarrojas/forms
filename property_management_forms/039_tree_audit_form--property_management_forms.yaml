@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Audit Form
+    pages:
+    - id: 1
+      name: tree_audit_form_properties
+      label: Property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tree_audit_form_tree_type
+      label: Tree Type
+      hint: null
+      type: select_one
+      options:
+      - Spruce
+      - Pine
+      - Oak
+      required: false
+    - id: 3
+      name: tree_audit_form_tree_age
+      label: Tree Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tree_audit_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

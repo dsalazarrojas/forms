@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unclaimed Property Verification Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Intensity and track claim reviews
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer
+      label: customer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Real''}'
+      - '{''id'': 2, ''label'': ''Personal''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: property_description
+      label: property description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_value
+      label: property value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: uploaded_documents
+      label: upload documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: review date
+      hint: YYYY-MM-dd
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: review time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: verification_team
+      label: verification team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team 1''}'
+      - '{''id'': 2, ''label'': ''Team 2''}'
+      - '{''id'': 3, ''label'': ''Team 3''}'
+      required: false

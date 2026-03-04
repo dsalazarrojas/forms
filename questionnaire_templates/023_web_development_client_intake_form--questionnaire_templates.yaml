@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_development_client_intake_form
+    pages:
+    - id: 1
+      name: web_development_client_intake_form
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: development_stack
+      label: Development Stack
+      hint: null
+      type: select_multiple
+      options:
+      - python
+      - java
+      - javascript
+      - ruby
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - cancelled
+      required: false
+    - id: 5
+      name: expected_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_end_date
+      label: Expected End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: Client email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false

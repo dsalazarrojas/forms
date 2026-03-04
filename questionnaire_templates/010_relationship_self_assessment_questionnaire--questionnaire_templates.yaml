@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relationship Self Assessment Questionnaire
+    pages:
+    - id: 1
+      name: relationship_status
+      label: How would you describe your current relationship status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_1_status
+      label: What is your current relationship status with this person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_length
+      label: How long have you been in a relationship with this person
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: partner_2_status
+      label: What is your current relationship status with this person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship_type
+      label: What type of relationship do you currently have with this person
+      hint: null
+      type: select_one
+      options:
+      - I am in a romantic relationship
+      - I am in a platonic relationship
+      - I am in a family relationship
+      - Other
+      required: true
+    - id: 6
+      name: relationship_goals
+      label: What are your relationship goals with this person
+      hint: null
+      type: select_multiple
+      options:
+      - Build trust
+      - Improve communication
+      - Increase emotional intimacy
+      - Increase financial intimacy
+      - Other
+      required: true
+    - id: 7
+      name: relationship_conflict
+      label: What are some common conflicts in your relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_1_conflict
+      label: What are some common conflicts with this person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: relationship_progress
+      label: How would you rate your relationship progress
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: partner_2_conflict
+      label: What are some common conflicts with this person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relationship_expectations
+      label: What are your expectations from the relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: partner_1_expectations
+      label: What are your expectations from this person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: relationship_support
+      label: Do you feel supported in the relationship
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: partner_2_support
+      label: Do you feel supported by this person
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: relationship_dynamics
+      label: How would you describe the dynamics in your relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: partner_1_dynamics
+      label: How would you describe the dynamics with this person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: relationship_progress_comments
+      label: Is there anything else youd like to add about the relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: partner_2_progress_comments
+      label: Is there anything else youd like to add about this relationship
+      hint: null
+      type: text
+      options: []
+      required: false

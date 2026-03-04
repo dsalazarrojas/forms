@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Occupant Feedback Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Feedback and Survey Consent --
+      hint: Permission for building occupant feedback participation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: occupant_name
+      label: Your Full Name
+      hint: Complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: occupant_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: occupant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_name
+      label: Building or Property Name
+      hint: Which building do you occupy
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: unit_apartment
+      label: Unit or Apartment Number
+      hint: Your location
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: occupancy_type
+      label: Occupancy Type
+      hint: How do you occupy this space
+      type: select_one
+      options:
+      - Tenant
+      - Owner
+      - Employee
+      - Contractor
+      - Visitor
+      required: true
+    - id: 8
+      name: occupancy_duration
+      label: Duration of Occupancy
+      hint: How long have you occupied
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months - 1 year
+      - 1-2 years
+      - 2-5 years
+      - Over 5 years
+      required: false
+    - id: 9
+      name: survey_participation
+      label: I Consent to Participate in Surveys
+      hint: Do you agree to take surveys
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 10
+      name: survey_frequency
+      label: Preferred Survey Frequency
+      hint: How often are you willing to participate
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - As Needed Only
+      - No Surveys
+      required: false
+    - id: 11
+      name: feedback_types
+      label: Types of Feedback You Are Willing to Provide
+      hint: Which feedback topics interest you
+      type: select_multiple
+      options:
+      - Maintenance Issues
+      - Safety Concerns
+      - Amenities
+      - Management Services
+      - Neighbor Relations
+      - Building Conditions
+      - All Topics
+      required: false
+    - id: 12
+      name: follow_up_contact
+      label: Allow Follow-Up Contact About Your Feedback
+      hint: Can we contact you for clarification
+      type: select_one
+      options:
+      - true
+      - false
+      - Only Email
+      - Only Phone
+      required: true
+    - id: 13
+      name: contact_frequency
+      label: How Often Can We Contact You
+      hint: Acceptable contact frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - As Needed Only
+      required: false
+    - id: 14
+      name: data_privacy
+      label: I Understand My Data Will Be Used for Improvement
+      hint: Acknowledge data use policy
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Have Questions
+      required: true
+    - id: 15
+      name: anonymity_preference
+      label: Data Should Be Kept Confidential
+      hint: Your preference for anonymity
+      type: select_one
+      options:
+      - Completely Anonymous
+      - Identified But Confidential
+      - May Be Attributed to Me
+      - No Preference
+      required: false
+    - id: 16
+      name: third_party_sharing
+      label: Feedback Can Be Shared With Stakeholders
+      hint: Do you allow sharing with property management
+      type: select_one
+      options:
+      - Yes, May Share
+      - No, Keep Private
+      - Only Anonymized Data
+      required: true
+    - id: 17
+      name: withdraw_consent
+      label: I Understand I Can Withdraw Consent Anytime
+      hint: Awareness of withdrawal option
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, Need Clarification
+      required: true
+    - id: 18
+      name: additional_preferences
+      label: Additional Preferences or Restrictions
+      hint: Any special preferences
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: questions
+      label: Questions Before Consenting
+      hint: Any questions or concerns
+      type: text
+      options: []
+      required: false

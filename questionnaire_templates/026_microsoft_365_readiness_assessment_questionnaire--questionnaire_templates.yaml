@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microsoft 365 Readiness Assessment Questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_size
+      label: company-size
+      hint: null
+      type: select_one
+      options:
+      - Small Business
+      - Medium Enterprise
+      - Large Enterprise
+      - Other
+      required: false
+    - id: 4
+      name: industry_sector
+      label: industry-sector
+      hint: null
+      type: select_one
+      options:
+      - Agriculture
+      - Construction
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Technology
+      - Other
+      required: false
+    - id: 5
+      name: company_structure
+      label: company-structure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company_location
+      label: company-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: microsoft_apps
+      label: microsoft-apps
+      hint: null
+      type: select_multiple
+      options:
+      - Teams
+      - OneDrive
+      - Excel
+      - Outlook
+      - Other
+      required: false
+    - id: 8
+      name: it_department
+      label: it-department
+      hint: null
+      type: select_one
+      options:
+      - IT Manager
+      - HR Manager
+      - Finance Manager
+      - IT Department
+      - Other
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_employees
+      label: company-employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: microsoft_365_usage
+      label: microsoft-365-usage
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Never
+      - Other
+      required: false
+    - id: 14
+      name: security_and_compliance
+      label: security-and-compliance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Never
+      - Other
+      required: false
+    - id: 15
+      name: data_security
+      label: data-security
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Never
+      - Other
+      required: false
+    - id: 16
+      name: data_privacy
+      label: data-privacy
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Never
+      - Other
+      required: false
+    - id: 17
+      name: company_data_policy
+      label: company-data-policy
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Never
+      - Other
+      required: false
+    - id: 18
+      name: data_encryption
+      label: data-encryption
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Never
+      - Other
+      required: false
+    - id: 19
+      name: company_it_structure
+      label: company-it-structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company_it_challenge
+      label: company-it-challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company_it_priority
+      label: company-it-priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - High Priority
+      - Medium Priority
+      - Low Priority
+      required: false
+    - id: 22
+      name: company_it_plan
+      label: company-it-plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: company_it_impact
+      label: company-it-impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - High Impact
+      - Medium Impact
+      - Low Impact
+      required: false
+    - id: 24
+      name: company_it_costs
+      label: company-it-costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: company_it_conclusion
+      label: company-it-conclusion
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Package Preferences Inquiry Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Traveler Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_page_traveler_preferences
+      label: Travelers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: second_page
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: second_page_destination
+      label: Destination
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Beach''}'
+      - '{''name'': ''City''}'
+      - '{''name'': ''Mountain''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: second_page_accommodation
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Hotel''}'
+      - '{''name'': ''Hostel''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 6
+      name: third_page
+      label: Travel Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: third_page_travelers_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: third_page_return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: third_page_travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: fourth_page
+      label: Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fourth_page_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''Bank Transfer''}'
+      - '{''name'': ''PayPal''}'
+      required: false
+    - id: 12
+      name: fourth_page_traveler_email
+      label: Traveler Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: fourth_page_phone
+      label: Traveler Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: fourth_page_traveler_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: fourth_page_email
+      label: Traveler's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: fourth_page_phone
+      label: Traveler's Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: fourth_page_traveler_note
+      label: Traveler's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: fifth_page
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: fifth_page_additional_informations
+      label: Additional Information 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fifth_page_additional_informations_1
+      label: Additional Information 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: fifth_page_additional_informations_2
+      label: Additional Information 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fifth_page_additional_informations_3
+      label: Additional Information 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fifth_page_additional_informations_4
+      label: Additional Information 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fifth_page_additional_informations_5
+      label: Additional Information 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fifth_page_additional_informations_6
+      label: Additional Information 7
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permit Summary Log Form
+    pages:
+    - id: 1
+      name: permit_details
+      label: Permit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: permit_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Permit Approved
+      - Permit Denied
+      - Permit In Progress
+      - Permit Pending
+      - Permit Revoked
+      required: false
+    - id: 3
+      name: issued_date
+      label: Issued Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: permit_number
+      label: Permit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: permit_type
+      label: Permit Type
+      hint: null
+      type: select_one
+      options:
+      - Construction
+      - Facilities
+      - Property Management
+      - Other
+      required: false
+    - id: 9
+      name: permit_status
+      label: Permit Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - In Progress
+      - Pending
+      - Revoked
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

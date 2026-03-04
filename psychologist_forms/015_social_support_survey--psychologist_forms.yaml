@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_support_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: relationships_family
+      label: relationships_family
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: relationships_friends
+      label: relationships_friends
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: relationships_work
+      label: relationships_work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: relationships_community
+      label: relationships_community
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: relationships_neighborhood
+      label: relationships_neighborhood
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: relationships_school
+      label: relationships_school
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: relationships_workplace
+      label: relationships_workplace
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: relationships_online
+      label: relationships_online
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: satisfaction_with_social_support
+      label: satisfaction_with_social_support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction_with_social_support_scale
+      label: satisfaction_with_social_support_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: social_support
+      label: social_support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: social_support_scale
+      label: social_support_scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: satisfaction_with_social_interaction
+      label: satisfaction_with_social_interaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

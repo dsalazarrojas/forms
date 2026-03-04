@@ -1,0 +1,250 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Colorways Knowledge Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name - optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For survey results if desired
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: role
+        label: Your Role
+        hint: What best describes your profession
+        type: select_one
+        options:
+          - Designer
+          - Developer
+          - Educator
+          - Student
+          - Creative Professional
+          - Hobbyist
+          - Other
+        required: true
+      - id: 4
+        name: experience_level
+        label: Experience Level
+        hint: Years of experience with color theory
+        type: select_one
+        options:
+          - Beginner (0-1 years)
+          - Intermediate (2-5 years)
+          - Advanced (6-10 years)
+          - Expert (10+ years)
+        required: true
+      - id: 5
+        name: section_header_color_theory
+        label: -- Color Theory Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: color_wheel_understanding
+        label: Color Wheel Understanding
+        hint: Rate your understanding of the color wheel
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - No Knowledge
+        required: true
+      - id: 7
+        name: complementary_colors
+        label: Understanding of Complementary Colors
+        hint: How well do you understand complementary colors
+        type: select_one
+        options:
+          - Very Well
+          - Somewhat Well
+          - Neutral
+          - Not Very Well
+          - Not At All
+        required: true
+      - id: 8
+        name: analogous_colors
+        label: Understanding of Analogous Colors
+        hint: How well do you understand analogous color schemes
+        type: select_one
+        options:
+          - Very Well
+          - Somewhat Well
+          - Neutral
+          - Not Very Well
+          - Not At All
+        required: true
+      - id: 9
+        name: color_temperature
+        label: Understanding of Color Temperature
+        hint: Warm vs cool colors knowledge
+        type: select_one
+        options:
+          - Very Well
+          - Somewhat Well
+          - Neutral
+          - Not Very Well
+          - Not At All
+        required: true
+      - id: 10
+        name: section_header_practical_application
+        label: -- Practical Application --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: colorway_selection_frequency
+        label: How Often Do You Select Colorways
+        hint: Frequency of colorway selection in your work
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 12
+        name: primary_use_case
+        label: Primary Use Case
+        hint: What do you primarily use colorways for
+        type: select_one
+        options:
+          - Graphic Design
+          - Interior Design
+          - Fashion Design
+          - Product Design
+          - Digital Art
+          - Web Design
+          - Education
+          - Other
+        required: true
+      - id: 13
+        name: tools_used
+        label: Tools Used for Color Selection
+        hint: What tools do you use for colorway work
+        type: select_multiple
+        options:
+          - Adobe Color
+          - Coolors
+          - Color Hunt
+          - Pantone Guides
+          - Physical Swatches
+          - Custom Palettes
+          - None
+        required: true
+      - id: 14
+        name: confidence_level
+        label: Confidence in Color Selection
+        hint: How confident are you in your colorway choices
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Neutral
+          - Not Very Confident
+          - Not Confident At All
+        required: true
+      - id: 15
+        name: section_header_preferences
+        label: -- Color Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: favorite_color_family
+        label: Favorite Color Family
+        hint: Which color family do you prefer
+        type: select_one
+        options:
+          - Warm Colors (Red, Orange, Yellow)
+          - Cool Colors (Blue, Green, Purple)
+          - Neutral Colors (Black, White, Gray, Brown)
+          - Pastels
+          - Bold and Vibrant
+          - No Preference
+        required: true
+      - id: 17
+        name: color_combination_style
+        label: Color Combination Style
+        hint: What is your typical color combination approach
+        type: select_one
+        options:
+          - Monochromatic
+          - Complementary
+          - Analogous
+          - Triadic
+          - Random Selection
+          - Follow Trends
+        required: true
+      - id: 18
+        name: accessibility_consideration
+        label: Do You Consider Color Accessibility
+        hint: Do you account for color blindness and accessibility
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 19
+        name: section_header_learning
+        label: -- Learning and Development --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: learning_resources
+        label: Preferred Learning Resources
+        hint: How do you learn about colorways
+        type: select_multiple
+        options:
+          - Online Courses
+          - Books
+          - YouTube Tutorials
+          - Workshops
+          - Peer Collaboration
+          - Trial and Error
+          - Formal Education
+        required: false
+      - id: 21
+        name: topics_to_learn
+        label: Topics You Want to Learn
+        hint: What colorway topics interest you
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: survey_feedback
+        label: Additional Feedback
+        hint: Any other comments about this survey
+        type: text
+        options: []
+        required: false

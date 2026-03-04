@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coal Blending Input Form
+    pages:
+    - id: 1
+      name: section_batch_info
+      label: -- Batch Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: batch_id
+      label: Batch ID
+      hint: Unique identifier for this blend
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: blend_date
+      label: Blend Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: operator_name
+      label: Operator Name
+      hint: Person conducting the blend
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      required: true
+    - id: 6
+      name: section_source_coal
+      label: -- Source Coal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: coal_source_1
+      label: First Coal Source
+      hint: Origin or stockpile number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: coal_weight_1
+      label: Weight of First Coal Source
+      hint: In tons
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: coal_source_2
+      label: Second Coal Source
+      hint: Origin or stockpile number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coal_weight_2
+      label: Weight of Second Coal Source
+      hint: In tons
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: coal_source_3
+      label: Third Coal Source
+      hint: Origin or stockpile number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: coal_weight_3
+      label: Weight of Third Coal Source
+      hint: In tons
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_blend_weight
+      label: Total Blend Weight
+      hint: In tons
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_target_parameters
+      label: -- Target Parameters --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: target_ash_content
+      label: Target Ash Content
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: target_sulfur_content
+      label: Target Sulfur Content
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: target_moisture
+      label: Target Moisture Content
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: target_heating_value
+      label: Target Heating Value
+      hint: BTU per pound
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_measured_parameters
+      label: -- Measured Parameters --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: measured_ash_content
+      label: Measured Ash Content
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: measured_sulfur_content
+      label: Measured Sulfur Content
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: measured_moisture
+      label: Measured Moisture Content
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: measured_heating_value
+      label: Measured Heating Value
+      hint: BTU per pound
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: section_notes
+      label: -- Notes and Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: quality_issues
+      label: Quality Issues or Concerns
+      hint: Any problems encountered?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: operator_notes
+      label: Operator Notes
+      hint: Additional observations
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Care Product Order Form
+    pages:
+    - id: 1
+      name: product_selection
+      label: Product Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false

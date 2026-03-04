@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Journalism Participation Survey
+    pages:
+    - id: 1
+      name: respondent_type
+      label: What best describes your role
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Professional Journalist
+      - Citizen Journalist
+      - Blogger or Content Creator
+      - Media Student
+      - Community Activist
+      - General Public
+      - Academic or Researcher
+      required: true
+    - id: 2
+      name: years_experience
+      label: Years of Experience in Journalism or Media
+      hint: Enter 0 if you are new to this field
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: content_focus
+      label: What topics do you primarily cover
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Local Government
+      - Education
+      - Public Safety
+      - Environment
+      - Social Justice
+      - Health and Wellness
+      - Business and Economy
+      - Arts and Culture
+      - Sports
+      - General News
+      required: true
+    - id: 4
+      name: publishing_platforms
+      label: Where do you publish your work
+      hint: Select all platforms you use
+      type: select_multiple
+      options:
+      - Traditional Newspaper
+      - Online News Site
+      - Personal Blog
+      - Social Media
+      - Podcast
+      - Video Platform
+      - Community Newsletter
+      - Academic Journal
+      required: true
+    - id: 5
+      name: civic_engagement_level
+      label: How would you describe your civic engagement
+      hint: In your community
+      type: select_one
+      options:
+      - Very active
+      - Moderately active
+      - Somewhat active
+      - Not very active
+      - Not active at all
+      required: true
+    - id: 6
+      name: community_trust
+      label: How much trust does your community have in local media
+      hint: Rate the level of trust
+      type: select_one
+      options:
+      - Very high trust
+      - High trust
+      - Moderate trust
+      - Low trust
+      - Very low trust
+      - Unsure
+      required: true
+    - id: 7
+      name: barriers_faced
+      label: What barriers do you face in civic journalism
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of access to information
+      - Limited resources or funding
+      - Threats or intimidation
+      - Lack of training
+      - Time constraints
+      - Legal concerns
+      - Community distrust
+      - No significant barriers
+      required: false
+    - id: 8
+      name: government_transparency
+      label: How transparent is your local government
+      hint: Rate government transparency
+      type: select_one
+      options:
+      - Very transparent
+      - Somewhat transparent
+      - Neutral
+      - Somewhat opaque
+      - Very opaque
+      required: true
+    - id: 9
+      name: press_access
+      label: Do you have adequate access to government proceedings
+      hint: Meetings, records, and officials
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: training_interest
+      label: What training would benefit your civic journalism work
+      hint: Select all that interest you
+      type: select_multiple
+      options:
+      - Investigative Reporting
+      - Data Journalism
+      - Legal Rights for Journalists
+      - Digital Security
+      - Community Engagement
+      - Multimedia Storytelling
+      - Ethics in Journalism
+      - None needed
+      required: false
+    - id: 11
+      name: collaboration_interest
+      label: Would you collaborate with other civic journalists
+      hint: On stories or projects
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not very interested
+      - Not interested
+      required: true
+    - id: 12
+      name: impact_stories
+      label: Have your stories led to civic change
+      hint: Policy changes, investigations, or community action
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once or twice
+      - No, but hoping to
+      - No, not my goal
+      required: true
+    - id: 13
+      name: funding_sources
+      label: How is your journalism work funded
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Employed by News Organization
+      - Freelance Income
+      - Grants or Fellowships
+      - Donations or Crowdfunding
+      - Volunteer Work
+      - Self-funded
+      - Other
+      required: true
+    - id: 14
+      name: future_outlook
+      label: How optimistic are you about the future of civic journalism
+      hint: In your community
+      type: select_one
+      options:
+      - Very optimistic
+      - Somewhat optimistic
+      - Neutral
+      - Somewhat pessimistic
+      - Very pessimistic
+      required: true
+    - id: 15
+      name: contact_email
+      label: Email Address
+      hint: For survey results and networking opportunities
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: additional_feedback
+      label: Additional Comments or Suggestions
+      hint: Share your thoughts on improving civic journalism
+      type: text
+      options: []
+      required: false

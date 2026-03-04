@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare M&A Assessment Form
+    pages:
+    - id: 1
+      name: target_identification
+      label: Target Identification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: m_a_status
+      label: M&A Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Non-Active''}'
+      - '{''id'': 3, ''label'': ''No Longer Active''}'
+      required: true
+    - id: 3
+      name: target_size
+      label: Target Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: target_location
+      label: Target Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''North America''}'
+      - '{''id'': 2, ''label'': ''South America''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: acquisition_rationale
+      label: Acquisition Rationale
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Market Risk''}'
+      - '{''id'': 2, ''label'': ''Financial Risk''}'
+      - '{''id'': 3, ''label'': ''Legal Risk''}'
+      required: true
+    - id: 7
+      name: acquisition_plan
+      label: Acquisition Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: target_ownership
+      label: Target Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Private''}'
+      - '{''id'': 2, ''label'': ''Public''}'
+      - '{''id'': 3, ''label'': ''Consortium''}'
+      required: true
+    - id: 9
+      name: valuation_method
+      label: Valuation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Discounted Cash Flow''}'
+      - '{''id'': 2, ''label'': ''Net Present Value''}'
+      - '{''id'': 3, ''label'': ''Cost of Assets''}'
+      required: true
+    - id: 10
+      name: valuation_date
+      label: Valuation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: valuation_time
+      label: Valuation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: financials
+      label: Financials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: valuation_basis
+      label: Valuation Basis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: acquisition_cost
+      label: Acquisition Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: acquisition_multiple
+      label: Acquisition Multiple
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: target_value
+      label: Target Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: target_peg_value
+      label: Target PEG Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: valuation_purpose
+      label: Valuation Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Acquisition''}'
+      - '{''id'': 2, ''label'': ''Merger''}'
+      - '{''id'': 3, ''label'': ''Valuation''}'
+      required: true
+    - id: 19
+      name: valuation_scope
+      label: Valuation Scope
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: valuation_basis_value
+      label: Valuation Basis Value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: target_ownership_type
+      label: Target Ownership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Other''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 22
+      name: target_ownership_percentage
+      label: Target Ownership Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: target_ownership_value
+      label: Target Ownership Value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: target_ownership_basis
+      label: Target Ownership Basis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true

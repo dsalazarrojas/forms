@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operational Punctuality Audit Form
+    pages:
+    - id: 1
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: delay_reason
+      label: Delay Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delay_duration
+      label: Delay Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: operational_unit
+      label: Operational Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      - '{''id'': 4, ''label'': ''D''}'
+      - '{''id'': 5, ''label'': ''E''}'
+      required: false
+    - id: 5
+      name: delay_impact
+      label: Delay Impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Minor''}'
+      - '{''id'': 3, ''label'': ''Moderate''}'
+      - '{''id'': 4, ''label'': ''Major''}'
+      - '{''id'': 5, ''label'': ''Severe''}'
+      required: false
+    - id: 6
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: operational_status
+      label: Operational Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      - '{''id'': 4, ''label'': ''D''}'
+      - '{''id'': 5, ''label'': ''E''}'
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Reviewed''}'
+      - '{''id'': 2, ''label'': ''Approved''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: false
+    - id: 11
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false

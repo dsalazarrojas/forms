@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Socioeconomic Status Survey
+    pages:
+    - id: 1
+      name: household_income_1
+      label: Households Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_members_2
+      label: Household Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: household_size_3
+      label: Household Size
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7 or more
+      required: false
+    - id: 4
+      name: highest_education_level_4
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - Less than High School
+      - High School
+      - Trade Certificate
+      - Bachelor's Degree
+      - Postgraduate Degree
+      required: false
+    - id: 5
+      name: household_location_5
+      label: Household Location
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      required: false
+    - id: 6
+      name: household_income_6
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: household_employment_status_7
+      label: Household Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Not employed
+      - Part-time employed
+      - Self employed
+      - Student
+      - Other
+      required: false
+    - id: 8
+      name: highest_income_source_8
+      label: Highest Income Source
+      hint: null
+      type: select_one
+      options:
+      - Employment
+      - Investments
+      - Business
+      - Social security
+      - Rent
+      - Other
+      required: false
+    - id: 9
+      name: household_assets_9
+      label: Household Assets
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - House
+      - Land
+      - Other
+      required: false
+    - id: 10
+      name: household_debts_10
+      label: Household Debts
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Loan
+      - Credit card
+      - Mortgage
+      - Personal Loan
+      - Other
+      required: false
+    - id: 11
+      name: household_savings_11
+      label: Household Savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: years_in_residence_12
+      label: Years in Residence
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-5
+      - 6 or more
+      required: false
+    - id: 13
+      name: household_vehicles_13
+      label: Household Vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - One
+      - Two
+      - Three or more
+      required: false
+    - id: 14
+      name: household_type_14
+      label: Household Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Condo
+      - Duplex
+      required: false
+    - id: 15
+      name: household_tenure_15
+      label: Household Tenure
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Rented
+      required: false
+    - id: 16
+      name: household_utilities_16
+      label: Household Utilities
+      hint: null
+      type: select_multiple
+      options:
+      - Electricity
+      - Water
+      - Gas
+      - Internet
+      - Other
+      required: false
+    - id: 17
+      name: household_waste_disposal_17
+      label: Household Waste Disposal
+      hint: null
+      type: select_multiple
+      options:
+      - Recycle
+      - Compost
+      - Landfill
+      - Other
+      required: false
+    - id: 18
+      name: household_water_source_18
+      label: Household Water Source
+      hint: null
+      type: select_multiple
+      options:
+      - Municipal tap
+      - Well
+      - Hauled water
+      - Other
+      required: false
+    - id: 19
+      name: household_sewage_disposal_19
+      label: Household Sewage Disposal
+      hint: null
+      type: select_multiple
+      options:
+      - Public Sewer
+      - Septic
+      - Composting Toilets
+      - Other
+      required: false
+    - id: 20
+      name: household_heat_20
+      label: Household Heat
+      hint: null
+      type: select_multiple
+      options:
+      - Natural Gas
+      - Propane
+      - Electric
+      - Wood
+      - Other
+      required: false
+    - id: 21
+      name: household_lighting_21
+      label: Household Lighting
+      hint: null
+      type: select_multiple
+      options:
+      - Electric
+      - Gas
+      - Candles
+      - Solar
+      - Other
+      required: false
+    - id: 22
+      name: household_water_quality_22
+      label: Household Water Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 23
+      name: household_solid_waste_23
+      label: Household Solid Waste
+      hint: null
+      type: select_multiple
+      options:
+      - Daily pickup
+      - Weekly pickup
+      - Biweekly pickup
+      - Monthly pickup
+      - Other
+      required: false
+    - id: 24
+      name: household_waste_disposal_24
+      label: Household Waste Disposal
+      hint: null
+      type: select_multiple
+      options:
+      - Landfill
+      - Compost
+      - Recycle
+      - Other
+      required: false
+    - id: 25
+      name: household_other_25
+      label: Other
+      hint: null
+      type: note
+      options: []
+      required: false

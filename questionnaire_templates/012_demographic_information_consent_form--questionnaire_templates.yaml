@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: demographic_information_consent_form
+    pages:
+    - id: 1
+      name: participant_background
+      label: participant_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_to_participate
+      label: consent_to_participate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Non-binary
+      required: false
+    - id: 6
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - College
+      - University
+      required: false
+    - id: 8
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false

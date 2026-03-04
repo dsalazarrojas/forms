@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Story Ranking Survey
+    pages:
+    - id: 1
+      name: story_id
+      label: StoryId
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: author_id
+      label: AuthorId
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rank_story
+      label: RankStory
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: rate_story
+      label: RateStory
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: story_rating
+      label: StoryRating
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

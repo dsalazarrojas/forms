@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legitimate Interest Assessment Questionnaire
+    pages:
+    - id: 1
+      name: legal_basis
+      label: legal_basis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_category
+      label: data_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: data_subject
+      label: data_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_processing_purpose
+      label: data_processing_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_retention_period
+      label: data_retention_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: data_security_mechanisms
+      label: data_security_mechanisms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: legal_basis_for_lawful
+      label: legal_basis_for_lawful
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: data_breach_response
+      label: data_breach_response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: legal_basis_for_compliance
+      label: legal_basis_for_compliance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: data_subject_categories
+      label: data_subject_categories
+      hint: null
+      type: text
+      options: []
+      required: false

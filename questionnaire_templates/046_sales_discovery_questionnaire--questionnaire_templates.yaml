@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Discovery Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Please enter your contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 5
+      name: buying_context
+      label: Buying Context
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lead_details
+      label: Lead Details
+      hint: null
+      type: select_multiple
+      options:
+      - Details 1
+      - Details 2
+      - Details 3
+      required: true
+    - id: 7
+      name: first_call_details
+      label: First Call Details
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: second_call_details
+      label: Second Call Details
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: lead_priorities
+      label: Lead Priorities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: lead_context
+      label: Lead Context
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Source 1
+      - Source 2
+      required: true
+    - id: 14
+      name: lead_source_info
+      label: Lead Source Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lead_info
+      label: Lead Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_info
+      label: Follow Up Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: lead_priority
+      label: Lead Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 19
+      name: lead_type
+      label: Lead Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: true
+    - id: 20
+      name: lead_status_date
+      label: Lead Status Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: lead_status_time
+      label: Lead Status Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: lead_status_priority
+      label: Lead Status Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 23
+      name: first_call_date
+      label: First Call Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: first_call_time
+      label: First Call Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: second_call_date
+      label: Second Call Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

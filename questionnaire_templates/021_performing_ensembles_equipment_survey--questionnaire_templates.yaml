@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performing Ensembles Equipment Survey
+    pages:
+    - id: 1
+      name: instrument_type
+      label: Instrument Type
+      hint: null
+      type: select_one
+      options:
+      - Bass
+      - Drum Set
+      - Guitar
+      - Keyboard
+      - Percussion
+      - Piano
+      - Strings
+      - Vocal
+      - Wind
+      required: false
+    - id: 2
+      name: instrument_condition
+      label: Instrument Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Not Needed
+      required: true
+    - id: 3
+      name: maintenance_fund
+      label: Maintenance Fund
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: purchase_plan
+      label: Purchase Plan
+      hint: Describe the plan to replace or purchase the instrument
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_maintenance
+      label: Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: next_maintenance
+      label: Next Maintenance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: last_inspection
+      label: Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: next_inspection
+      label: Next Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: purchase_budget
+      label: Purchase Budget
+      hint: Estimated budget to replace or purchase the instrument
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: replacement_cost
+      label: Replacement Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: inspection_cost
+      label: Inspection Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: last_user
+      label: Last User
+      hint: Who last used the instrument?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Graduate Nurse Interview Questionnaire
+    pages:
+    - id: 1
+      name: job_posting_details
+      label: Job Posting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_contact_info
+      label: Candidate Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience_confidence_level
+      label: Experience Confidence Level
+      hint: How confident are you with the below experience?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: clinical_experience
+      label: Clinical Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education_level
+      label: Education Level
+      hint: What is your highest level of education?
+      type: select_one
+      options:
+      - '{''label'': ''High School'', ''value'': 1}'
+      - '{''label'': ''Diploma'', ''value'': 2}'
+      - '{''label'': "Associate''s", ''value'': 3}'
+      - '{''label'': "Bachelor''s", ''value'': 4}'
+      - '{''label'': "Master''s", ''value'': 5}'
+      - '{''label'': ''Doctorate'', ''value'': 6}'
+      required: false
+    - id: 7
+      name: years_of_education
+      label: Years of Education
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: nursing_license
+      label: Nursing License
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active and Current'', ''value'': 1}'
+      - '{''label'': ''Active and Expired'', ''value'': 2}'
+      - '{''label'': ''Inactive'', ''value'': 3}'
+      required: false
+    - id: 9
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''BLS (Basic Life Support)'', ''value'': 1}'
+      - '{''label'': ''ACLS (Advanced Life Support)'', ''value'': 2}'
+      - '{''label'': ''PALS (Pediatric Advanced Life Support)'', ''value'': 3}'
+      - '{''label'': ''None'', ''value'': 4}'
+      required: false
+    - id: 10
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident are you with the below areas?
+      type: select_multiple
+      options:
+      - '{''label'': ''Leadership'', ''value'': 1}'
+      - '{''label'': ''Communication'', ''value'': 2}'
+      - '{''label'': ''Time Management'', ''value'': 3}'
+      - '{''label'': ''None'', ''value'': 4}'
+      required: false
+    - id: 11
+      name: skills_confidence_level
+      label: Skills Confidence Level
+      hint: How confident are you with the below skills?
+      type: select_multiple
+      options:
+      - '{''label'': ''Basic Life Support'', ''value'': 1}'
+      - '{''label'': ''IV Therapy'', ''value'': 2}'
+      - '{''label'': ''Medication Management'', ''value'': 3}'
+      - '{''label'': ''None'', ''value'': 4}'
+      required: false
+    - id: 12
+      name: interview_topics
+      label: Interview Topics
+      hint: Which of the following topics would you like to be discussed during the
+        interview?
+      type: select_multiple
+      options:
+      - '{''label'': ''Communication'', ''value'': 1}'
+      - '{''label'': ''Time Management'', ''value'': 2}'
+      - '{''label'': ''Leadership'', ''value'': 3}'
+      - '{''label'': ''Problem Solving'', ''value'': 4}'
+      - '{''label'': ''None'', ''value'': 5}'
+      required: false

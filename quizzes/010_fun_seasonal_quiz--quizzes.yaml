@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: fun_seasonal_quiz
+    pages:
+    - id: 1
+      name: season
+      label: What season is this?
+      hint: null
+      type: select_one
+      options:
+      - Autumn
+      - Winter
+      - Spring
+      - Summer
+      required: true
+    - id: 2
+      name: month
+      label: Which month is this?
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 3
+      name: question_type
+      label: What type of question are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Multiple Choice
+      - True/False
+      - Essay
+      required: true
+    - id: 4
+      name: question
+      label: What's the question?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: answer
+      label: What's the correct answer?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: season_2
+      label: Which season is this?
+      hint: null
+      type: select_one
+      options:
+      - Autumn
+      - Winter
+      - Spring
+      - Summer
+      required: false
+    - id: 8
+      name: month_2
+      label: Which month is this?
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 9
+      name: question_2
+      label: What's the question?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: answer_2
+      label: What's the correct answer?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_2
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_type_2
+      label: What type of question are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Multiple Choice
+      - True/False
+      - Essay
+      required: false
+    - id: 13
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

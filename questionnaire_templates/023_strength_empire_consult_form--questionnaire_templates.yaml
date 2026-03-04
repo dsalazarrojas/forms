@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strength Empire Consult Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_work
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: goal_description
+      label: What's your goal?
+      hint: Tell us about a specific goal or objective you'd like to achieve.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: selected_goals
+      label: Which one of the following is your goal?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: other_goal
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: best_time
+      label: Best Time
+      hint: null
+      type: time
+      options: []
+      required: false

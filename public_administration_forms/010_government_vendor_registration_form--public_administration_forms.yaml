@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Vendor Registration Form
+    pages:
+    - id: 1
+      name: government_vendor_registration_form_page_1
+      label: supplier_details
+      hint: null
+      type: select_multiple
+      options:
+      - text
+      - select_one
+      - decimal
+      - time
+      - date
+      - note
+      - email
+      - phone
+      required: true
+    - id: 2
+      name: government_vendor_registration_form_page_2
+      label: vendor_qualifications
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '10'
+      - '15'
+      required: true
+    - id: 3
+      name: government_vendor_registration_form_page_3
+      label: vendor_contact
+      hint: null
+      type: text
+      options: []
+      required: true

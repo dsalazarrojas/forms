@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_preferences_questionnaire
+    pages:
+    - id: 1
+      name: general_travel_preferences
+      label: General Travel Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_destinations
+      label: Travel Destinations
+      hint: Where do you usually travel to?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: preferred_time_of_year
+      label: Preferred Time of Year
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: preferred_travel_style
+      label: Preferred Travel Style
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: travel_style
+      label: Travel Style
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: travel_frequency_2
+      label: Travel Frequency 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: budget_2
+      label: Budget 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: duration_2
+      label: Duration 2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

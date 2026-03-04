@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Syntactic Knowledge Assessment
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is the correct order of words in a sentence?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Correct'', ''value'': ''A''}'
+      - '{''label'': ''Incorrect'', ''value'': ''B''}'
+      - '{''label'': ''Unsure'', ''value'': ''C''}'
+      required: false
+    - id: 3
+      name: question_2
+      label: What is the correct use of verb tenses in the sentence?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Correct'', ''value'': ''A''}'
+      - '{''label'': ''Incorrect'', ''value'': ''B''}'
+      - '{''label'': ''Unsure'', ''value'': ''C''}'
+      required: false
+    - id: 4
+      name: user_answer_1
+      label: My answer 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_answer_2
+      label: My answer 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

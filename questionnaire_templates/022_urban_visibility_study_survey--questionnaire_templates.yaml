@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_visibility_study_survey
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: demographic_info
+      label: Demographic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: urban_visibility_info
+      label: Urban Visibility Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accessibility_info
+      label: Accessibility Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      required: false
+    - id: 7
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_of_week
+      label: Date of Week
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_month
+      label: Date of Month
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_week
+      label: Time of Week
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: visibility_rating
+      label: Visibility Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: accessibility_rating
+      label: Accessibility Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: overall_rated
+      label: Overall Rated
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

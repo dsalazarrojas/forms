@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Retail Expansion Interest Survey
+    pages:
+    - id: 1
+      name: pet_retail_expansion_interest_survey
+      label: pet_retail_expansion_interest_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''North''}'
+      - '{''value'': ''South''}'
+      - '{''value'': ''East''}'
+      - '{''value'': ''West''}'
+      required: false
+    - id: 3
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Cat''}'
+      - '{''value'': ''Dog''}'
+      - '{''value'': ''Bird''}'
+      - '{''value'': ''Fish''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: region_list
+      label: region_list
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: interest_level
+      label: interest_level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 7
+      name: expansion_regions
+      label: expansion_regions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feedback_details
+      label: feedback_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: expansion_channels
+      label: expansion_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: pet_retail_expansion_interest_survey_id
+      label: pet_retail_expansion_interest_survey_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 12
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

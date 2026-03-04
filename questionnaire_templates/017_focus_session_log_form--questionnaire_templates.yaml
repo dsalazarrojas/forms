@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Focus Session Log Form
+    pages:
+    - id: 1
+      name: focus_session_log_form
+      label: focused_work_sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: time_spent
+      label: time_spent_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: notes
+      label: notes_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false

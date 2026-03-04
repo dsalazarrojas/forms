@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Diabetes Health Questionnaire
+    pages:
+    - id: 1
+      name: diabetes_history
+      label: Diabetes History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: blood_glucose_levels
+      label: Blood Glucose Levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: medication_usage
+      label: Medication Usage
+      hint: null
+      type: select_one
+      options:
+      - Insulin
+      - Pills
+      - Injectable Medication
+      - Oral Medication
+      - Unknown
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complications
+      label: Complications
+      hint: null
+      type: select_multiple
+      options:
+      - Hypoglycemia
+      - Hypoglycemia
+      - Hyperglycemia
+      - Unknown
+      required: false
+    - id: 6
+      name: hypoglycemia_management
+      label: Hypoglycemia Management
+      hint: Management strategies for hypoglycemia.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hyperglycemia_management
+      label: Hyperglycemia Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insulin_adjustments
+      label: Insulin Adjustments
+      hint: null
+      type: time
+      options: []
+      required: false

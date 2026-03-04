@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Menu Preference Request Form
+    pages:
+    - id: 1
+      name: customer_menu_preference_request_form_page_1
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_menu_preference_form_page_2
+      label: Dietary Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Beef
+      - Chicken
+      - Fish
+      - Lamb
+      - Pork
+      - Seafood
+      - Vegan
+      - Vegetarian
+      - Other
+      required: false
+    - id: 3
+      name: event_host_name
+      label: Event Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_one
+      options:
+      - None
+      - No specific restrictions
+      - Food allergy
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Low-carb
+      - Low-calorie
+      required: true
+    - id: 7
+      name: preferred_menu
+      label: Preferred Menu
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snack
+      required: true
+    - id: 8
+      name: preferred_cuisine
+      label: Preferred Cuisine
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Italian
+      - Mexican
+      - Chinese
+      - Indian
+      - Japanese
+      - American
+      required: true
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,369 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chickenpox Case Investigation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Patient gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: investigation_date
+      label: Investigation Date
+      hint: Date of investigation
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: investigator_name
+      label: Investigator Name
+      hint: Name of health investigator
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: case_id
+      label: Case ID Number
+      hint: Unique case identifier
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: When did symptoms first appear
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: rash_onset_date
+      label: Rash Onset Date
+      hint: When did rash appear
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: symptoms
+      label: Symptoms
+      hint: Select all symptoms present
+      type: select_multiple
+      options:
+      - Fever
+      - Rash
+      - Headache
+      - Fatigue
+      - Loss of appetite
+      - Sore throat
+      - Cough
+      - Runny nose
+      - Muscle aches
+      required: true
+    - id: 14
+      name: rash_distribution
+      label: Rash Distribution
+      hint: Where is the rash located
+      type: select_multiple
+      options:
+      - Face
+      - Scalp
+      - Trunk
+      - Arms
+      - Legs
+      - Mouth
+      - Genital area
+      - Widespread
+      required: true
+    - id: 15
+      name: lesion_count
+      label: Approximate Lesion Count
+      hint: Number of lesions
+      type: select_one
+      options:
+      - Less than 50
+      - 50-100
+      - 101-300
+      - 301-500
+      - More than 500
+      required: true
+    - id: 16
+      name: lesion_stages
+      label: Lesion Stages Present
+      hint: Select all stages visible
+      type: select_multiple
+      options:
+      - Macules
+      - Papules
+      - Vesicles
+      - Pustules
+      - Crusts
+      required: true
+    - id: 17
+      name: fever_present
+      label: Fever Present
+      hint: Did patient have fever
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: highest_temperature
+      label: Highest Temperature
+      hint: Highest recorded temperature
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vaccination_status
+      label: Varicella Vaccination Status
+      hint: Has patient received chickenpox vaccine
+      type: select_one
+      options:
+      - Yes, 2 doses
+      - Yes, 1 dose
+      - No, never vaccinated
+      - Unknown
+      required: true
+    - id: 20
+      name: vaccination_dates
+      label: Vaccination Dates
+      hint: Dates of vaccinations if known
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_chickenpox
+      label: Previous Chickenpox Infection
+      hint: Has patient had chickenpox before
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Underlying Medical Conditions
+      hint: List any chronic conditions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: immunocompromised
+      label: Immunocompromised Status
+      hint: Is patient immunocompromised
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 24
+      name: medications
+      label: Current Medications
+      hint: List current medications
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Is patient pregnant
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      - Unknown
+      required: false
+    - id: 26
+      name: healthcare_visit
+      label: Healthcare Visit
+      hint: Did patient see a healthcare provider
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: visit_date
+      label: Healthcare Visit Date
+      hint: When did they see provider
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Name of provider
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: lab_testing
+      label: Lab Testing Performed
+      hint: Was lab testing done
+      type: select_one
+      options:
+      - Yes, PCR
+      - Yes, serology
+      - Yes, culture
+      - false
+      - Pending
+      required: true
+    - id: 30
+      name: lab_results
+      label: Lab Results
+      hint: Results of testing
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: exposure_source
+      label: Known Exposure Source
+      hint: Where did patient get exposed
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: exposure_date
+      label: Exposure Date
+      hint: When was patient exposed
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: contacts_identified
+      label: Number of Contacts Identified
+      hint: How many close contacts
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: high_risk_contacts
+      label: High-Risk Contacts
+      hint: Number of high-risk contacts
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: isolation_status
+      label: Isolation Status
+      hint: Is patient in isolation
+      type: select_one
+      options:
+      - Yes, at home
+      - Yes, hospital
+      - false
+      - Not compliant
+      required: true
+    - id: 36
+      name: work_school_status
+      label: Work or School Status
+      hint: Is patient missing work or school
+      type: select_one
+      options:
+      - Yes, excluded
+      - Yes, self-isolating
+      - No, still attending
+      - Not applicable
+      required: true
+    - id: 37
+      name: complications
+      label: Complications
+      hint: Any complications developed
+      type: select_multiple
+      options:
+      - None
+      - Bacterial superinfection
+      - Pneumonia
+      - Encephalitis
+      - Dehydration
+      - Other
+      required: true
+    - id: 38
+      name: outcome
+      label: Case Outcome
+      hint: Current status of case
+      type: select_one
+      options:
+      - Recovered
+      - Recovering
+      - Hospitalized
+      - Fatal
+      - Unknown
+      required: true
+    - id: 39
+      name: hospitalization_required
+      label: Hospitalization Required
+      hint: Was hospitalization needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 40
+      name: investigator_signature
+      label: Investigator Signature
+      hint: I confirm this investigation is complete
+      type: select_one
+      options:
+      - Yes, confirmed
+      - false
+      required: true
+    - id: 41
+      name: investigation_complete_date
+      label: Investigation Complete Date
+      hint: Date investigation was completed
+      type: date
+      options: []
+      required: true

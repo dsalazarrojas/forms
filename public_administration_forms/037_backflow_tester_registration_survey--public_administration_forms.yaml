@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backflow Tester Registration Survey
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: certification_type
+      label: Certification Type
+      hint: Select your certification
+      type: select_one
+      options:
+      - Certified Backflow Tester
+      - Certified Backflow Repair Technician
+      - Both Tester and Repair
+      - In Training
+      required: true
+    - id: 10
+      name: certification_number
+      label: Certification Number
+      hint: Your certification ID
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: certifying_organization
+      label: Certifying Organization
+      hint: Who issued your certification
+      type: select_one
+      options:
+      - State Agency
+      - American Water Works Association
+      - American Society of Sanitary Engineering
+      - Local Municipality
+      - Other
+      required: true
+    - id: 12
+      name: certification_date
+      label: Certification Date
+      hint: When were you certified
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: certification_expiry
+      label: Certification Expiry Date
+      hint: When does certification expire
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: years_experience
+      label: Years of Experience
+      hint: How long have you tested backflow
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - Over 10 years
+      required: true
+    - id: 15
+      name: tests_performed_annually
+      label: Tests Performed Annually
+      hint: Approximate number per year
+      type: select_one
+      options:
+      - Less than 50
+      - 50 to 100
+      - 100 to 250
+      - 250 to 500
+      - Over 500
+      required: true
+    - id: 16
+      name: service_areas
+      label: Service Areas
+      hint: Select areas you serve
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Municipal
+      - Irrigation systems
+      - Fire suppression
+      required: true
+    - id: 17
+      name: insurance_coverage
+      label: Liability Insurance Coverage
+      hint: Do you have liability insurance
+      type: select_one
+      options:
+      - Yes, fully insured
+      - Yes, partially insured
+      - No insurance
+      required: true
+    - id: 18
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_owned
+      label: Testing Equipment Owned
+      hint: Select equipment you own
+      type: select_multiple
+      options:
+      - Differential pressure gauge
+      - Test cocks and adapters
+      - Calibration equipment
+      - Repair tools
+      - Digital reporting system
+      required: true
+    - id: 20
+      name: calibration_current
+      label: Equipment Calibration Current
+      hint: Is your equipment calibrated
+      type: select_one
+      options:
+      - Yes, up to date
+      - Due for calibration
+      - Not calibrated
+      required: true
+    - id: 21
+      name: references
+      label: Professional References
+      hint: List names and contact info
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: background_check_consent
+      label: Background Check Consent
+      hint: I consent to background verification
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 23
+      name: terms_agreement
+      label: Agreement to Terms
+      hint: I agree to registration terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 24
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true

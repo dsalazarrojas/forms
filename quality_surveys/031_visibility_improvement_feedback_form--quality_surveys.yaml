@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visibility Improvement Feedback Form
+    pages:
+    - id: 1
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: before_result
+      label: before_result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''reported_as_completed'', ''label'': ''Reported as
+        completed''}'
+      - '{''id'': 2, ''name'': ''reported_as_partially_completed'', ''label'': ''Reported
+        as partially completed''}'
+      - '{''id'': 3, ''name'': ''reported_as_incompleted'', ''label'': ''Reported
+        as incompleted''}'
+      required: false
+    - id: 4
+      name: after_result
+      label: after_result
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''reported_as_completed'', ''label'': ''Reported as
+        completed''}'
+      - '{''id'': 2, ''name'': ''partially_reported_as_completed'', ''label'': ''Partially
+        reported as completed''}'
+      - '{''id'': 3, ''name'': ''not_reported_as_completed'', ''label'': ''Not reported
+        as completed''}'
+      required: false
+    - id: 5
+      name: result_differ
+      label: result_differ
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: facility_notes
+      label: facility_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_notes
+      label: safety_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: operations_notes
+      label: operations_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: jotform
+      label: jotform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_id_1
+      label: facility_id_1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facility 1'', ''label'': ''Facility 1''}'
+      - '{''id'': 2, ''name'': ''Facility 2'', ''label'': ''Facility 2''}'
+      - '{''id'': 3, ''name'': ''Facility 3'', ''label'': ''Facility 3''}'
+      required: false
+    - id: 13
+      name: facility_id_2
+      label: facility_id_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Facility 1'', ''label'': ''Facility 1''}'
+      - '{''id'': 2, ''name'': ''Facility 2'', ''label'': ''Facility 2''}'
+      - '{''id'': 4, ''name'': ''Facility 4'', ''label'': ''Facility 4''}'
+      required: false
+    - id: 14
+      name: facility_id_3
+      label: facility_id_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Facility 1'', ''label'': ''Facility 1''}'
+      - '{''id'': 2, ''name'': ''Facility 2'', ''label'': ''Facility 2''}'
+      - '{''id'': 3, ''name'': ''Facility 3'', ''label'': ''Facility 3''}'
+      - '{''id'': 5, ''name'': ''Facility 5'', ''label'': ''Facility 5''}'
+      required: false

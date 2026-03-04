@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radioactivity Quiz
+    pages:
+    - id: 1
+      name: radioactivity_quiz_page_1
+      label: Radioactivity Quiz 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: radioactivity_quiz_page_2
+      label: Radioactivity Quiz 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: radioactivity_quiz_page_3
+      label: Radioactivity Quiz 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

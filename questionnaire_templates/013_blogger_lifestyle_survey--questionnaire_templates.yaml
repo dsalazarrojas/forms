@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blogger Lifestyle Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Blogger Lifestyle Survey --
+      hint: Share insights about your blogging journey
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: blogger_name
+      label: Blogger Name or Pseudonym
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: blog_name
+      label: Blog Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: blog_url
+      label: Blog URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: primary_niche
+      label: Primary Blog Niche
+      hint: null
+      type: select_one
+      options:
+      - Lifestyle
+      - Fashion
+      - Travel
+      - Food
+      - Tech
+      - Business
+      - Health
+      - Parenting
+      - Beauty
+      - Other
+      required: true
+    - id: 6
+      name: blogging_experience
+      label: Years of Blogging Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 7
+      name: publishing_frequency
+      label: How often do you publish?
+      hint: null
+      type: select_one
+      options:
+      - Multiple times per week
+      - Once per week
+      - 2-3 times per month
+      - Once per month
+      - Less frequently
+      required: true
+    - id: 8
+      name: content_creation_time
+      label: Time spent on content creation weekly (hours)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: monthly_traffic
+      label: Estimated Monthly Blog Traffic
+      hint: null
+      type: select_one
+      options:
+      - < 1,000 visitors
+      - 1,000 - 10,000
+      - 10,000 - 50,000
+      - 50,000 - 100,000
+      - 100,000+
+      required: true
+    - id: 10
+      name: monetization_methods
+      label: Monetization methods used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ads (Google AdSense, etc.)
+      - Sponsored content
+      - Affiliate marketing
+      - Product sales
+      - Consulting/Services
+      - Not monetized
+      required: true
+    - id: 11
+      name: annual_blogging_income
+      label: Annual income from blogging
+      hint: null
+      type: select_one
+      options:
+      - $0
+      - $1 - $1,000
+      - $1,000 - $10,000
+      - $10,000 - $50,000
+      - $50,000+
+      required: false
+    - id: 12
+      name: biggest_challenge
+      label: Biggest challenge in blogging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: audience_engagement
+      label: Rate audience engagement on your blog
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - Good
+      - Very good
+      - Excellent
+      required: true
+    - id: 14
+      name: social_media_usage
+      label: Which social media platforms do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Twitter/X
+      - Pinterest
+      - TikTok
+      - YouTube
+      - Facebook
+      - LinkedIn
+      required: true
+    - id: 15
+      name: future_plans
+      label: What are your future blogging plans?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: survey_date
+      label: Survey Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

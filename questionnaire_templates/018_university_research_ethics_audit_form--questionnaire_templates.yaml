@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Research Ethics Audit Form
+    pages:
+    - id: 1
+      name: research_studies
+      label: Research Studies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_description
+      label: Study Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_ethics_committee
+      label: Research Ethics Committee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: committee_member
+      label: Committee Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reviewers_comments
+      label: Reviewers Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Traveler Preference Check In Form
+    pages:
+    - id: 1
+      name: traveler_name
+      label: Traveler Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booking_reference
+      label: Booking Reference (PNR)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: airline_name
+      label: Airline
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_checkin
+      label: -- Check-in Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: checkin_method
+      label: Preferred Check-in Method
+      hint: null
+      type: select_one
+      options:
+      - Mobile/Web (Auto check-in)
+      - Airport Kiosk
+      - Counter Check-in
+      required: true
+    - id: 7
+      name: boarding_pass_delivery
+      label: Boarding Pass Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email (PDF)
+      - SMS (Mobile Link)
+      - Printed at Airport
+      - Apple/Google Wallet
+      required: true
+    - id: 8
+      name: seat_preference
+      label: Seat Preference
+      hint: null
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Front of Aircraft
+      - Near Emergency Exit
+      - Extra Legroom (if available)
+      required: true
+    - id: 9
+      name: luggage_count
+      label: Number of Checked Bags
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_amenities
+      label: -- Onboard and Airport Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: meal_request
+      label: Special Meal Request
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Low Sodium
+      - Halal
+      - Kosher
+      required: true
+    - id: 12
+      name: assistance_requested
+      label: Airport Assistance Required?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Wheelchair to gate
+      - Wheelchair to seat
+      - Vision/Hearing support
+      required: true
+    - id: 13
+      name: frequent_flyer_number
+      label: Frequent Flyer Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_for_updates
+      label: Best phone number for flight updates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: traveler_consent
+      label: I confirm my preferences are correct for this trip
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true

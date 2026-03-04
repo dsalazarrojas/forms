@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motion For Return Of Property
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_return_received
+      label: Date Return Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: return_amount
+      label: Return Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Check''}'
+      - '{''label'': ''Wire Transfer''}'
+      - '{''label'': ''Bank Draft''}'
+      required: false
+    - id: 5
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Unpaid''}'
+      - '{''label'': ''Partially Paid''}'
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''Dismissed''}'
+      required: false
+    - id: 9
+      name: case_notes
+      label: Case Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: note
+      options: []
+      required: false

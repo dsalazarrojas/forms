@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Marriage Awareness Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_age
+      label: Respondent Age
+      hint: Your age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: respondent_gender
+      label: Respondent Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 4
+      name: education_level
+      label: Education Level
+      hint: What is your highest level of education completed?
+      type: select_one
+      options:
+      - Less than high school
+      - High school graduate
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Graduate degree
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: geographic_location
+      label: Geographic Location
+      hint: What type of area do you live in?
+      type: select_one
+      options:
+      - Urban
+      - Suburban
+      - Rural
+      - Remote
+      required: true
+    - id: 6
+      name: marital_status
+      label: Marital Status
+      hint: What is your current marital status?
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: has_children
+      label: Do You Have Children
+      hint: Do you have any children?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: heard_of_child_marriage
+      label: Awareness of Child Marriage
+      hint: Had you heard of child marriage before this survey?
+      type: select_one
+      options:
+      - Yes, I am very familiar
+      - Yes, I have heard of it
+      - No, this is new to me
+      required: true
+    - id: 9
+      name: child_marriage_prevalence
+      label: Perceived Prevalence
+      hint: How common do you think child marriage is in your community?
+      type: select_one
+      options:
+      - Very common
+      - Somewhat common
+      - Rare
+      - Does not occur
+      - Unsure
+      required: true
+    - id: 10
+      name: child_marriage_legal_age
+      label: Knowledge of Legal Marriage Age
+      hint: Do you know the legal minimum age for marriage in your country?
+      type: select_one
+      options:
+      - Yes, I know the exact age
+      - I have a general idea
+      - No, I do not know
+      required: true
+    - id: 11
+      name: child_marriage_causes
+      label: Perceived Causes of Child Marriage
+      hint: What do you think are the main causes of child marriage?
+      type: select_multiple
+      options:
+      - Poverty
+      - Cultural traditions
+      - Lack of education
+      - Gender inequality
+      - Family protection concerns
+      - Economic instability
+      - Limited opportunities for girls
+      - Other
+      required: true
+    - id: 12
+      name: child_marriage_consequences
+      label: Perceived Consequences
+      hint: What do you think are the main consequences of child marriage?
+      type: select_multiple
+      options:
+      - Interrupted education
+      - Health risks
+      - Limited economic opportunities
+      - Social isolation
+      - Increased risk of abuse
+      - Mental health issues
+      - Perpetuation of poverty cycle
+      - Other
+      required: true
+    - id: 13
+      name: support_ending_child_marriage
+      label: Support for Ending Child Marriage
+      hint: Do you support efforts to end child marriage?
+      type: select_one
+      options:
+      - Strongly support
+      - Somewhat support
+      - Neutral
+      - Somewhat oppose
+      - Strongly oppose
+      - Unsure
+      required: true
+    - id: 14
+      name: effective_interventions
+      label: Most Effective Interventions
+      hint: What do you think would be most effective in reducing child marriage?
+      type: select_multiple
+      options:
+      - Education programs for girls
+      - Economic support for families
+      - Community awareness campaigns
+      - Stricter law enforcement
+      - Engaging community leaders
+      - Providing vocational training
+      - Changing social norms
+      - Other
+      required: true
+    - id: 15
+      name: know_affected_individuals
+      label: Personal Knowledge of Affected Individuals
+      hint: Do you personally know anyone who was married as a child?
+      type: select_one
+      options:
+      - Yes, multiple people
+      - Yes, one person
+      - false
+      - Prefer not to answer
+      required: true
+    - id: 16
+      name: willing_to_advocate
+      label: Willingness to Advocate
+      hint: Would you be willing to advocate against child marriage?
+      type: select_one
+      options:
+      - Yes, actively
+      - Yes, in limited ways
+      - Maybe
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional thoughts or comments on child marriage
+      type: text
+      options: []
+      required: false

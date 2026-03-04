@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Quiz Template
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: To receive your quiz results.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: quiz_section_header
+      label: -- Advertising Knowledge Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: What does CTR stand for?
+      hint: Choose the correct acronym definition.
+      type: select_one
+      options:
+      - Click Through Rate
+      - Cost To Reach
+      - Customer Transaction Report
+      - Conversion Total Return
+      required: true
+    - id: 6
+      name: question_2
+      label: Which of the following is a form of paid media?
+      hint: null
+      type: select_one
+      options:
+      - A blog post on your own website
+      - A Facebook sponsored post
+      - Word of mouth
+      - Organic search results
+      required: true
+    - id: 7
+      name: question_3
+      label: What is A/B testing?
+      hint: null
+      type: select_one
+      options:
+      - Testing two different versions of an ad to see which performs better
+      - Testing ads on two different browsers
+      - Running ads only in the morning and evening
+      - Checking if the alphabet is used correctly
+      required: true
+    - id: 8
+      name: question_4
+      label: What metric best measures brand awareness?
+      hint: null
+      type: select_one
+      options:
+      - Clicks
+      - Impressions / Reach
+      - Conversions
+      - Bounce Rate
+      required: true
+    - id: 9
+      name: question_5
+      label: Which platform is best known for B2B advertising?
+      hint: null
+      type: select_one
+      options:
+      - TikTok
+      - Pinterest
+      - LinkedIn
+      - Snapchat
+      required: true
+    - id: 10
+      name: experience_level
+      label: How would you rate your advertising knowledge?
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Novice
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 11
+      name: learning_interests
+      label: What topics do you want to learn more about?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Social Media Ads
+      - Google Ads (SEM)
+      - Programmatic Advertising
+      - Copywriting
+      - Analytics & Reporting
+      required: false

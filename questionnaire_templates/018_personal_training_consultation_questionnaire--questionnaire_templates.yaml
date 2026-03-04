@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal-training-consultation-questionnaire
+    pages:
+    - id: 1
+      name: session_preference
+      label: Session Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Session 1: Minimalist workout'
+      - Session 2
+      - Session 3
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: goals
+      label: Goals
+      hint: What are your fitness goals
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exercise_areas_to_improve
+      label: Exercise Areas to Improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: injury_history
+      label: Injury History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please enter your emergency contact's name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree to the above terms and conditions
+      - Decline
+      required: false

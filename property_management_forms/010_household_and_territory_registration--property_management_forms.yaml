@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household And Territory Registration
+    pages:
+    - id: 1
+      name: household_and_territory_details
+      label: Household Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: household_type
+      label: household_type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Duplex
+      - House
+      - Other
+      required: true
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Multi
+      - Townhouse
+      required: true
+    - id: 4
+      name: number_of_units
+      label: number_of_units
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: resident_name
+      label: resident_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resident_email
+      label: resident_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: resident_address
+      label: resident_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: territory_area
+      label: territory_area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: territory_details
+      label: territory_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: property_notes
+      label: property_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: household_members
+      label: household_members
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1
+      - 1-2
+      - 2-5
+      - 5+
+      required: true
+    - id: 16
+      name: resident_type
+      label: resident_type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      required: true
+    - id: 17
+      name: resident_type_details
+      label: resident_type_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: household_id
+      label: household_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: property_id
+      label: property_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: territory_id
+      label: territory_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: true

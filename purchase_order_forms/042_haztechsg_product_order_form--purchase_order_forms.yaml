@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: haztechsg_product_order_form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tax_exempt
+      label: tax_exempt
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Credit Card
+      required: false
+    - id: 7
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false

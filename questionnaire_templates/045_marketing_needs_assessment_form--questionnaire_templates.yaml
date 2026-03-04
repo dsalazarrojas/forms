@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Needs Assessment Form
+    pages:
+    - id: 1
+      name: intro
+      label: MarketingNeedsAssessmentForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: target_audience
+      label: TargetAudience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: current_effort
+      label: CurrentEffort
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: marketing_channels
+      label: MarketingChannels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: target_channels
+      label: TargetChannels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: marketing_budget
+      label: MarketingBudget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_marketing_strategies
+      label: CurrentMarketingStrategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: marketing_objectives
+      label: MarketingObjectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: marketing_message
+      label: MarketingMessage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: NextSteps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: marketing_insights
+      label: MarketingInsights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: marketing_needs
+      label: MarketingNeeds
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: AdditionalComments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

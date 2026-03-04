@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Medical Needs Request Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Requesting Organization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact person name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: Request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: needed_by_date
+      label: Date needed by
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_header_3
+      label: -- Equipment Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_equipment_type
+      label: Type of medical equipment needed
+      hint: null
+      type: select_one
+      options:
+      - PPE - Masks
+      - PPE - Gloves
+      - PPE - Gowns
+      - Ventilators
+      - Oxygen Equipment
+      - Testing Kits
+      - Disinfectants
+      - Medications
+      - Other Equipment
+      required: true
+    - id: 12
+      name: specific_items
+      label: Specific items or brands needed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: quantity_needed
+      label: Quantity needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: unit_type
+      label: Unit of measurement
+      hint: null
+      type: select_one
+      options:
+      - Pieces
+      - Boxes
+      - Cases
+      - Pallets
+      - Doses
+      - Other
+      required: true
+    - id: 15
+      name: additional_items
+      label: Additional items needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Medical Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: patient_population
+      label: Patient population (approximate number)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: medical_urgency
+      label: Medical urgency level
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Urgent
+      - Routine
+      - Preventative
+      required: true
+    - id: 19
+      name: sterilization_requirements
+      label: Sterilization requirements
+      hint: null
+      type: select_one
+      options:
+      - Not Applicable
+      - Standard Sterilization
+      - High-Level Sterilization
+      - FDA Approved
+      required: false
+    - id: 20
+      name: section_header_5
+      label: -- Budget and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: estimated_cost
+      label: Estimated cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: budget_code
+      label: Budget code or cost center
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver_name
+      label: Manager/Approver name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_header_6
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: special_instructions
+      label: Special delivery or handling instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: justification
+      label: Justification for this request
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Confidence Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Self Confidence Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very Low''}'
+      - '{''value'': 2, ''label'': ''Low''}'
+      - '{''value'': 3, ''label'': ''Medium''}'
+      - '{''value'': 4, ''label'': ''High''}'
+      - '{''value'': 5, ''label'': ''Very High''}'
+      required: false
+    - id: 3
+      name: self_rating
+      label: Self Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: self_confidence
+      label: Self Confidence
+      hint: null
+      type: time
+      options: []
+      required: false

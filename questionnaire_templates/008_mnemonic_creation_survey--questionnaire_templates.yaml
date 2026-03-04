@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mnemonic Creation Survey
+    pages:
+    - id: 1
+      name: form_submission_details
+      label: Form Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mnemonic_type
+      label: Mnemonic Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 4
+      name: mnemonic_item
+      label: Mnemonic Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mnemonic_characteristics
+      label: Mnemonic Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: creation_process
+      label: Creation Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: memory_aids_used
+      label: Memory Aids Used
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: learning_process
+      label: Learning Process
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Quiz Template
+    pages:
+    - id: 1
+      name: movie_category
+      label: Movie Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: released_year
+      label: Released Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: director
+      label: Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: movie_title
+      label: Movie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: main_actor
+      label: Main Actor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: movie_genre
+      label: Movie Genre
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: awards_won
+      label: Awards Won
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: runtime_in_minutes
+      label: Runtime in Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: movie_release_date
+      label: Movie Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: movie_rating
+      label: Movie Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: user_rating
+      label: User Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

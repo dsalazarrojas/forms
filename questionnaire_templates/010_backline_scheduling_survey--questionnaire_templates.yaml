@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backline Scheduling Survey
+    pages:
+      - id: 1
+        name: section_performer_info
+        label: -- Performer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: performer_name
+        label: Performer/Crew Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: phone_number
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: role
+        label: Role
+        hint: Artist, Sound Engineer, Technician, etc.
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_availability
+        label: -- Event Availability --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: event_date
+        label: Event Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: arrival_time
+        label: Arrival Time
+        hint: What time can you arrive?
+        type: time
+        options: []
+        required: true
+      - id: 9
+        name: soundcheck_available
+        Label: Available for Soundcheck
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Only if scheduled after X time
+        required: true
+      - id: 10
+        name: soundcheck_preferred_time
+        label: Preferred Soundcheck Time
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 11
+        name: setup_assistance
+        Label: Can Provide Setup Assistance
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Limited Availability
+        required: false
+      - id: 12
+        name: breakdown_assistance
+        Label: Can Provide Breakdown Assistance
+        hint: After performance
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Limited Availability
+        required: false
+      - id: 13
+        name: section_equipment
+        label: -- Equipment Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: equipment_list
+        label: Required Equipment
+        hint: Microphones, cables, stands, monitors, etc.
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: equipment_provided
+        Label: Equipment Provided vs Needed
+        hint: What does the venue provide? What do you need?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: special_equipment
+        label: Specialized Equipment Requirements
+        hint: Specific gear, instruments, or technical needs
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: power_requirements
+        Label: Power Requirements
+        hint: Standard, 20 amp, 30 amp, other
+        type: select_one
+        options:
+          - Standard Outlet
+          - 20 Amp Circuit
+          - 30 Amp Circuit
+          - 50 Amp Circuit
+          - Not Sure
+        required: false
+      - id: 18
+        name: section_technical
+        label: -- Technical Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: technical_experience
+        Label: Technical Experience Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Expert
+        required: false
+      - id: 20
+        name: technical_contact_preference
+        label: Preferred Method for Technical Coordination
+        hint: null
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Text
+          - In-Person
+        required: false
+      - id: 21
+        name: section_questions
+        label: -- Questions and Notes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: questions_concerns
+        Label: Questions or Concerns
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: special_requests
+        label: Special Requests or Accommodations
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: accessibility_needs
+        label: Accessibility Needs
+        hint: Parking, wheelchair access, dietary, etc.
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: confirmation_submitted
+        Label: I Confirm This Information is Accurate
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

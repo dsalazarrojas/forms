@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Rental Extension Form
+    pages:
+    - id: 1
+      name: lease_extension_request
+      label: Lease Extension Request
+      hint: null
+      type: select_one
+      options:
+      - Tenant Requesting an extension of their current lease
+      - Landlord Approving the request of the tenant
+      - Manager Approving the request of the tenant
+      required: false
+    - id: 2
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_email
+      label: Tenant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: tenant_phone
+      label: Tenant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lease_term_length
+      label: Lease Term Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: extension_duration
+      label: Extension Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false

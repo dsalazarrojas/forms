@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wood Destroying Insect Inspection Form
+    pages:
+    - id: 1
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pest_inspector_number
+      label: Pest Inspector Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Commercial
+      required: true
+    - id: 7
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_units
+      label: Number of Units
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pest_sighting
+      label: Pest Sighting
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

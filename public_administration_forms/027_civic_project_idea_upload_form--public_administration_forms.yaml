@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Project Idea Upload Form
+    pages:
+    - id: 1
+      name: proposer_name
+      label: Proposer name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_title
+      label: Project title
+      hint: Short descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_summary
+      label: Project summary
+      hint: Brief description of idea and goals
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expected_impact
+      label: Expected impact
+      hint: Describe community benefits
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: estimated_budget
+      label: Estimated budget
+      hint: Provide rough cost estimate
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: implementation_timeline
+      label: Implementation timeline
+      hint: Key milestones and durations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partners_needed
+      label: Partners needed
+      hint: Organizations or stakeholders to involve
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_files_note
+      label: File upload instructions
+      hint: Use portal to attach supporting documents
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

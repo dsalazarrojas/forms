@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Perfume Purchase Order Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_one_product
+      label: Select one product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 8
+      name: select_multiple_products
+      label: Select multiple products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false

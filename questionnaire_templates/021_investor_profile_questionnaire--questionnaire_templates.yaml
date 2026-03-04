@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investor Profile Questionnaire
+    pages:
+    - id: 1
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: investment_preferences
+      label: investment_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: investment_profile
+      label: investment_profile
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: financial_status
+      label: financial_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: tax_status
+      label: tax_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: investment_experience
+      label: investment_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: portfolio
+      label: portfolio
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: investment_horizon
+      label: investment_horizon
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

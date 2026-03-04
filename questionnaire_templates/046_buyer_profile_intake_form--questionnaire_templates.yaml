@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Profile Intake Form
+    pages:
+    - id: 1
+      name: buyer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: buyer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: best_contact_method
+      label: Best Time and Method to Contact
+      hint: Your preferred communication
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: buying_timeline
+      label: When Do You Plan to Buy?
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Not sure
+      required: true
+    - id: 7
+      name: current_living_situation
+      label: Current Living Situation
+      hint: null
+      type: select_one
+      options:
+      - Renting
+      - Own current home
+      - Living with family
+      - Relocating
+      - Other
+      required: true
+    - id: 8
+      name: first_time_buyer
+      label: First-Time Home Buyer
+      hint: null
+      type: select_one
+      options:
+      - Yes, first time
+      - No, experienced buyer
+      - Investor
+      required: true
+    - id: 9
+      name: preapproval_status
+      label: Pre-Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pre-approved
+      - Pre-qualified
+      - Not yet approved
+      - Cash buyer
+      - Not determined
+      required: true
+    - id: 10
+      name: price_range
+      label: Price Range
+      hint: In USD or local currency
+      type: select_one
+      options:
+      - Under $200000
+      - $200000 - $400000
+      - $400000 - $600000
+      - $600000 - $800000
+      - $800000 - $1 million
+      - Over $1 million
+      - Not determined
+      required: true
+    - id: 11
+      name: down_payment
+      label: Down Payment Available
+      hint: Percentage or amount
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_type
+      label: Property Type Preference
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Single-family home
+      - Townhouse
+      - Condo
+      - Multi-family
+      - Land
+      - New construction
+      - Undecided
+      required: true
+    - id: 13
+      name: location_preference
+      label: Location Preferences
+      hint: Cities, neighborhoods, areas
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: bedrooms_wanted
+      label: Number of Bedrooms Desired
+      hint: null
+      type: select_one
+      options:
+      - 1 bedroom
+      - 2 bedrooms
+      - 3 bedrooms
+      - 4 bedrooms
+      - 5+ bedrooms
+      - No preference
+      required: false
+    - id: 15
+      name: must_have_features
+      label: Must-Have Features
+      hint: Pool, yard, garage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: deal_breakers
+      label: Deal-Breakers
+      hint: Features to definitely avoid
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lifestyle_priorities
+      label: Lifestyle Priorities
+      hint: Schools, nightlife, walkability, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: household_composition
+      label: Household Composition
+      hint: Number of people and ages
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: investment_property
+      label: Is This an Investment Property?
+      hint: null
+      type: select_one
+      options:
+      - No, primary residence
+      - Yes, investment property
+      - Yes, rental property
+      - Unsure
+      required: true
+    - id: 20
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

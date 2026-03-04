@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: government-financial-records-audit-form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: main_page_question_1
+      label: Financial Record Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: main_page_question_2
+      label: Auditing Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: main_page_question_3
+      label: Date of Audits
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: main_page_question_4
+      label: Time of Audits
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: main_page_question_5
+      label: Audit Finding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: main_page_question_6
+      label: Financial Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: main_page_question_7
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: main_page_question_8
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: main_page_question_9
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: main_page_question_10
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: main_page_question_11
+      label: Reviewer
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: main_page_question_12
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 14
+      name: main_page_question_13
+      label: Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: main_page_question_14
+      label: Financial Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: main_page_question_15
+      label: Financial Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: main_page_question_16
+      label: Reviewing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: main_page_question_17
+      label: Auditor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: main_page_question_18
+      label: Reviewer's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: main_page_question_19
+      label: Reviewer's Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: main_page_question_20
+      label: Reviewer's Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: main_page_question_21
+      label: Reviewer's Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: main_page_question_22
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: main_page_question_23
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: signature_page
+      label: Signature Page
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attachment Style Questionnaire
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Your age in years
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: false
+    - id: 6
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Dating
+      - Married
+      - Divorced
+      - Widowed
+      - Prefer Not to Say
+      required: false
+    - id: 7
+      name: introduction
+      label: -- Assessment Introduction --
+      hint: Please rate each statement based on your feelings and behaviors in close
+        relationships
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: statement_1
+      label: I find it difficult to depend on others
+      hint: How much do you agree?
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 9
+      name: statement_2
+      label: I worry about being abandoned by my partner
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 10
+      name: statement_3
+      label: I prefer not to show my partner how I feel
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 11
+      name: statement_4
+      label: I often worry that my partner does not really love me
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: statement_5
+      label: I am comfortable being intimate and close with my partner
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 13
+      name: statement_6
+      label: I feel anxious when my partner is away for long periods
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 14
+      name: statement_7
+      label: I am comfortable asking my partner for emotional support
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: statement_8
+      label: I often feel my partner does not understand me
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 16
+      name: statement_9
+      label: I am comfortable being independent
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 17
+      name: statement_10
+      label: I need constant reassurance from my partner
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 18
+      name: statement_11
+      label: I trust my partner completely
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 19
+      name: statement_12
+      label: I am uncomfortable when my partner wants to be very close
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 20
+      name: statement_13
+      label: I feel secure in my relationship
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 21
+      name: past_experiences
+      label: -- Past Relationships --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: attachment_childhood
+      label: How would you describe your childhood attachment?
+      hint: null
+      type: select_one
+      options:
+      - Secure
+      - Anxious
+      - Avoidant
+      - Disorganized
+      - Unsure
+      required: false
+    - id: 23
+      name: past_relationships_pattern
+      label: Do you notice patterns in your past relationships?
+      hint: Describe any patterns you have noticed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: growth_areas
+      label: Areas for Personal Growth
+      hint: What would you like to work on in relationships?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about your attachment style?
+      type: text
+      options: []
+      required: false

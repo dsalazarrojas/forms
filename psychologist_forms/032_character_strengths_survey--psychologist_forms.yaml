@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Character Strengths Survey
+    pages:
+      - id: 1
+        name: header
+        label: -- Strengths Survey --
+        hint: Identify character or individual strengths with structured prompts
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: respondent name
+        hint: optional for anonymity
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: strength_1
+        label: strength 1
+        hint: primary strength
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: strength_2
+        label: strength 2
+        hint: additional strength
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: strength_3
+        label: strength 3
+        hint: additional strength
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: frequency_of_use
+        label: frequency of use
+        hint: how often strengths are applied
+        type: select_one
+        options:
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: true
+      - id: 7
+        name: impact_on_functioning
+        label: impact on functioning
+        hint: how strengths support daily functioning
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: development_goal
+        label: development goal
+        hint: goal to further leverage strengths
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: support_needed
+        label: support needed
+        hint: supports that would help develop strengths
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: survey_date
+        label: survey date
+        hint: date of submission
+        type: date
+        options: []
+        required: false

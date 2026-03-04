@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Profile Questionnaire
+    pages:
+    - id: 1
+      name: personal_background_header
+      label: -- Personal Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_full_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_nickname
+      label: Preferred Name or Nickname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: place_of_birth
+      label: Place of Birth
+      hint: City and State/Province
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: athlete_nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: academic_sport_header
+      label: -- Academic and Sport Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: school_university
+      label: Current School or University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: graduation_year
+      label: Expected Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_gpa
+      label: Current Cumulative GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: secondary_sports
+      label: Secondary Sport(s)
+      hint: List any other sports you compete in
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_team
+      label: Current Team or Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: position_specialization
+      label: Position or Specialization
+      hint: e.g. Point Guard, Pitcher, Sprinter
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physical_profile_header
+      label: -- Physical Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: height_cm
+      label: Height - cm
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: weight_kg
+      label: Weight - kg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: dominant_side
+      label: Dominant Hand or Foot
+      hint: null
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Ambidextrous
+      required: true
+    - id: 19
+      name: contact_socials_header
+      label: -- Contact and Social Media --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: athlete_email
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: athlete_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: instagram_handle
+      label: Instagram Handle
+      hint: e.g. @athlete_name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: twitter_handle
+      label: Twitter / X Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parent_contact_info
+      label: Parent or Guardian Contact Information
+      hint: Name and Phone Number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: fun_facts_header
+      label: -- Additional Insights --
+      hint: Get to know the athlete
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: favorite_athlete
+      label: Who is your favorite professional athlete?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: favorite_pregame_meal
+      label: What is your favorite pre-game meal?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: career_goals
+      label: What are your long-term career goals?
+      hint: Both inside and outside of sports
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: questionnaire_date
+      label: Date of Profile Completion
+      hint: null
+      type: date
+      options: []
+      required: true

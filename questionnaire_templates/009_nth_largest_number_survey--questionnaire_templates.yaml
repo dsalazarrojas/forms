@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: nth_largest_number_survey
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: lists_of_numbers
+      label: Lists of numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nth_largest_answer
+      label: Nth largest answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: method_used
+      label: Method used
+      hint: null
+      type: select_one
+      options:
+      - Manual Counting
+      - Online Calculator
+      - Other
+      required: false
+    - id: 5
+      name: confidence_rating
+      label: Confidence rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_methods_used
+      label: Other methods used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_method_details
+      label: Other method details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accountability Interview Questionnaire
+    pages:
+    - id: 1
+      name: section_interview_info
+      label: -- Interview Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: interviewee_name
+      label: Interviewee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interviewee_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: review_period
+      label: Review Period
+      hint: null
+      type: select_one
+      options:
+        - Q1
+        - Q2
+        - Q3
+        - Q4
+        - Annual
+        - Mid-year
+      required: true
+    - id: 8
+      name: section_accountability
+      label: -- Accountability Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: goals_met
+      label: Were the Goals Set in the Previous Review Period Achieved
+      hint: null
+      type: select_one
+      options:
+        - All goals achieved
+        - Most goals achieved
+        - Some goals achieved
+        - Few goals achieved
+        - No goals achieved
+      required: true
+    - id: 10
+      name: goals_explanation
+      label: Provide Details About Goal Achievement or Obstacles
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: responsibility_rating
+      label: How Would You Rate the Interviewee Taking Responsibility for Their Work
+      hint: null
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Satisfactory
+        - Needs improvement
+        - Unsatisfactory
+      required: true
+    - id: 12
+      name: deadline_adherence
+      label: How Consistently Were Deadlines Met
+      hint: null
+      type: select_one
+      options:
+        - Always on time
+        - Usually on time
+        - Sometimes on time
+        - Frequently late
+        - Rarely on time
+      required: true
+    - id: 13
+      name: communication_effectiveness
+      label: How Effectively Does the Interviewee Communicate Progress and Issues
+      hint: null
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Satisfactory
+        - Needs improvement
+        - Unsatisfactory
+      required: true
+    - id: 14
+      name: problem_ownership
+      label: Does the Interviewee Take Ownership When Problems Arise
+      hint: null
+      type: select_one
+      options:
+        - Always
+        - Usually
+        - Sometimes
+        - Rarely
+        - Never
+      required: true
+    - id: 15
+      name: team_impact
+      label: How Does This Person Accountability Impact Their Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_development
+      label: -- Development and Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: strengths
+      label: Key Strengths Observed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: areas_for_growth
+      label: Areas for Growth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: action_items
+      label: Action Items and Goals for Next Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes or Observations
+      hint: null
+      type: text
+      options: []
+      required: false

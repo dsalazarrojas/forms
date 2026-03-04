@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Publishing Printing Error Incident Report Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_incident
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: impact_on_product
+      label: Impact on Product
+      hint: null
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: true
+    - id: 8
+      name: impact_on_project
+      label: Impact on Project
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: cause
+      label: Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: report_to
+      label: Report To
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Team Lead
+      required: true
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: issue_id
+      label: Issue ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - In Progress
+      required: true
+    - id: 23
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 24
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

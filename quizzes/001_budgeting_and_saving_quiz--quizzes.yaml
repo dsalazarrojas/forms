@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budgeting And Saving Quiz
+    pages:
+    - id: 1
+      name: assessment_section
+      label: -- Assessment Introduction --
+      hint: This quiz evaluates your current financial habits and knowledge
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monthly_budget_tracking
+      label: How often do you track your monthly budget?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 3
+      name: savings_rate_percentage
+      label: What percentage of your income do you typically save each month?
+      hint: Estimate as a whole number (0-100)
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: emergency_fund_status
+      label: Do you have an emergency fund with 3-6 months of expenses?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully funded
+      - Yes, partially funded
+      - No, not started
+      - Unsure
+      required: true
+    - id: 5
+      name: debt_management_approach
+      label: How do you manage your debt payments?
+      hint: null
+      type: select_one
+      options:
+      - Pay minimum only
+      - Pay more than minimum
+      - Debt consolidation plan
+      - No current debt
+      required: true
+    - id: 6
+      name: savings_goal_awareness
+      label: Do you have specific savings goals for the next 12 months?
+      hint: null
+      type: select_one
+      options:
+      - Yes, clearly defined
+      - Yes, general idea
+      - No, not yet
+      required: true
+    - id: 7
+      name: financial_confidence
+      label: Rate your confidence in achieving your financial goals
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Somewhat uncertain
+      - Very uncertain
+      required: true
+    - id: 8
+      name: budgeting_knowledge
+      label: How comfortable are you creating a personal budget?
+      hint: null
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Neutral
+      - Could use help
+      - Very unfamiliar
+      required: true
+    - id: 9
+      name: investment_experience
+      label: Have you invested in stocks, bonds, or retirement accounts?
+      hint: null
+      type: select_one
+      options:
+      - Extensive experience
+      - Some experience
+      - Minimal experience
+      - No experience
+      required: true
+    - id: 10
+      name: financial_education_interest
+      label: Interest areas for financial education
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Budgeting techniques
+      - Debt elimination
+      - Investment strategies
+      - Tax planning
+      - Retirement planning
+      - Saving for education
+      required: true
+    - id: 11
+      name: current_challenges
+      label: What are your biggest financial challenges?
+      hint: null
+      type: select_multiple
+      options:
+      - Overspending
+      - Low savings rate
+      - High debt
+      - Irregular income
+      - Lack of knowledge
+      - No clear goals
+      required: true
+    - id: 12
+      name: preferred_learning_method
+      label: How do you prefer to learn about finances?
+      hint: null
+      type: select_one
+      options:
+      - Online courses
+      - In-person workshops
+      - One-on-one coaching
+      - Books and articles
+      - Videos and webinars
+      required: true
+    - id: 13
+      name: action_steps_commitment
+      label: Will you implement at least one money-saving strategy this month?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - false
+      required: true
+    - id: 14
+      name: contact_follow_up
+      label: May we contact you with personalized financial guidance?
+      hint: null
+      type: select_one
+      options:
+      - Yes, email
+      - Yes, phone
+      - Yes, either
+      - No thanks
+      required: false
+    - id: 15
+      name: respondent_email
+      label: Your email address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Listening Quiz
+    pages:
+    - id: 1
+      name: quiz_settings
+      label: Quiz Settings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: add_question
+      label: Add Question
+      hint: null
+      type: select_one
+      options:
+      - add
+      - delete
+      - save
+      required: false
+    - id: 4
+      name: audio_file
+      label: Audio File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_audio
+      label: Question Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_text
+      label: Question Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - multiple_choice
+      - short_answer
+      - true_false
+      required: false
+    - id: 8
+      name: question_audio_duration
+      label: Question Audio Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question_audio_file
+      label: Question Audio File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - save_for_later
+      required: false
+    - id: 11
+      name: save_for_later
+      label: Save for Later
+      hint: null
+      type: select_one
+      options:
+      - save
+      - discard
+      required: false
+    - id: 12
+      name: save
+      label: Save
+      hint: null
+      type: select_one
+      options:
+      - save
+      - cancel
+      required: false
+    - id: 13
+      name: quiz_id
+      label: Quiz ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quiz_title
+      label: Quiz Title
+      hint: null
+      type: text
+      options: []
+      required: false

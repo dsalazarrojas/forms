@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonresident Alien Information Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: visa_status
+      label: Visa Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: country_of_origin
+      label: Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: purpose_of_stay
+      label: Purpose of Stay
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nonresident_category
+      label: Nonresident Category
+      hint: null
+      type: select_one
+      options:
+      - citizen
+      - non-citizen
+      required: true
+    - id: 12
+      name: nonresident_status
+      label: Nonresident Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: stay_length
+      label: Length of Stay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: citizenship_by_nation
+      label: Citizenship by Nation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

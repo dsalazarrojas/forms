@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motion And Chemistry Assessment
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: chemistry_background
+      label: Chemistry Background
+      hint: null
+      type: select_multiple
+      options:
+      - Chemistry 101
+      - Chemistry 202
+      - Chemistry 203
+      - Other
+      required: false
+    - id: 5
+      name: motion_background
+      label: Motion Background
+      hint: null
+      type: select_multiple
+      options:
+      - Motion 101
+      - Motion 202
+      - Motion 203
+      - Other
+      required: false
+    - id: 6
+      name: science_classroom
+      label: Science Classroom
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 7
+      name: motion_interests
+      label: Motion Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: chemistry_interests
+      label: Chemistry Interests
+      hint: null
+      type: text
+      options: []
+      required: false

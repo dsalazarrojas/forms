@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Budget Allocation Voting Form
+    pages:
+    - id: 1
+      name: section_header_instructions
+      label: -- City Budget Voting --
+      hint: Help us allocate the city budget to priorities that matter to you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: voter_address
+      label: City Address
+      hint: Verify you are a resident
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_status
+      label: Resident Status
+      hint: null
+      type: select_one
+      options:
+      - Current resident
+      - Long-term resident
+      - Business owner
+      - Property owner
+      - Frequent visitor
+      required: true
+    - id: 6
+      name: section_header_priorities
+      label: -- Budget Priorities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: education_priority
+      label: Education and Schools
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: infrastructure_priority
+      label: Infrastructure and Roads
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: public_safety_priority
+      label: Public Safety and Police
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: parks_recreation_priority
+      label: Parks and Recreation
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: public_health_priority
+      label: Public Health Services
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: public_transit_priority
+      label: Public Transportation
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: housing_priority
+      label: Housing and Community Development
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: environmental_priority
+      label: Environmental Initiatives
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: social_services_priority
+      label: Social Services
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: economic_development_priority
+      label: Economic Development
+      hint: Rank importance from 1-5
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_header_allocation
+      label: -- Budget Allocation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: total_budget
+      label: What is Your Recommended Total City Budget
+      hint: Based on current spending levels
+      type: select_one
+      options:
+      - Significantly decrease
+      - Slightly decrease
+      - Keep the same
+      - Slightly increase
+      - Significantly increase
+      required: true
+    - id: 19
+      name: tax_opinion
+      label: Opinion on Current Tax Levels
+      hint: null
+      type: select_one
+      options:
+      - Too high
+      - About right
+      - Too low
+      - No opinion
+      required: false
+    - id: 20
+      name: section_header_feedback
+      label: -- Feedback and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: top_concern
+      label: What is Your Top Budget Concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: missing_priority
+      label: What Priority is Missing from This List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_demographics
+      label: -- Optional Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer not to say
+      required: false
+    - id: 26
+      name: years_living_in_city
+      label: Years Living in This City
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-20 years
+      - 20+ years
+      required: false
+    - id: 27
+      name: household_size
+      label: Household Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: notification_preference
+      label: How Should We Follow Up With You
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No follow-up needed
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Counteroffer Submission
+    pages:
+    - id: 1
+      name: tenant_counteroffer_submission
+      label: Tenant Counteroffer Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_response
+      label: Landlord Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_counteroffer_date
+      label: Tenant Counteroffer Date
+      hint: Date of counteroffer
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tenant_counteroffer_time
+      label: Tenant Counteroffer Time
+      hint: Time of counteroffer
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: tenant_counteroffer_amount
+      label: Tenant Counteroffer Amount
+      hint: Counteroffer amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: landlord_counteroffer_amount
+      label: Landlord Counteroffer Amount
+      hint: Counteroffer amount
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: accepted_terms
+      label: Accepted Terms
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Declined
+      - Not Applicable
+      required: false
+    - id: 8
+      name: counteroffer_note
+      label: Counteroffer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: landlord_response_date
+      label: Landlord Response Date
+      hint: Date of landlord's response
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: tenant_counteroffer_phone
+      label: Tenant Counteroffer Phone
+      hint: Phone number of tenant for counteroffer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tenant_counteroffer_email
+      label: Tenant Counteroffer Email
+      hint: Email address of tenant for counteroffer
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: landlord_phone
+      label: Landlord Phone
+      hint: Phone number of landlord for response
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: landlord_email
+      label: Landlord Email
+      hint: Email address of landlord for response
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: counteroffer_status
+      label: Counteroffer Status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Declined
+      - In Progress
+      - Not Applicable
+      required: false
+    - id: 15
+      name: landlord_response_note
+      label: Landlord Response Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tenant_counteroffer_status_updated
+      label: Tenant Counteroffer Status Updated
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Declined
+      - In Progress
+      - Not Applicable
+      required: false
+    - id: 17
+      name: landlord_counteroffer_status_updated
+      label: Landlord Counteroffer Status Updated
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Declined
+      - In Progress
+      - Not Applicable
+      required: false
+    - id: 18
+      name: tenant_counteroffer_updated_by
+      label: Tenant Counteroffer Updated By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: false
+    - id: 19
+      name: landlord_counteroffer_updated_by
+      label: Landlord Counteroffer Updated By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: false
+    - id: 20
+      name: counteroffer_date_updated
+      label: Counteroffer Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: counteroffer_time_updated
+      label: Counteroffer Time Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: counteroffer_updated_by
+      label: Counteroffer Updated By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: false
+    - id: 23
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: false
+    - id: 24
+      name: landlord_form_submitted_by
+      label: Landlord Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: false
+    - id: 25
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

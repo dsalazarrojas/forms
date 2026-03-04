@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Detox Program Questionnaire Template
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: detox_program_rating
+      label: Detox Program Rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: detox_program_effectiveness
+      label: Detox Program Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: overall_health_status
+      label: Overall Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: health_issue
+      label: Health Issue
+      hint: Please enter your response
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: health_concern
+      label: Health Concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: health_issue_description
+      label: Health Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: Please enter a valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone_alternate
+      label: Alternate Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email_alternate
+      label: Alternate Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - NYC
+      - USA
+      - Other
+      - None
+      required: false
+    - id: 20
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: state_abbreviation
+      label: State Abbreviation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - CA
+      - NYC
+      - USA
+      - Other
+      - None
+      required: false
+    - id: 22
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: satisfaction_reasons
+      label: Reason For Unsatisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suggestions_for_improvement
+      label: Suggestions For Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_questions
+      label: Follow Up Questions
+      hint: null
+      type: text
+      options: []
+      required: false

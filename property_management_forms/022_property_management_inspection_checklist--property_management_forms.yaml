@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Inspection Checklist
+    pages:
+    - id: 1
+      name: property_management_inspection_checklist
+      label: Property Management Inspection Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Sold''}'
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: repair_issues
+      label: Repair Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false

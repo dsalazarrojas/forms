@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Receipt Acknowledgement Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: key_type
+      label: key_type
+      hint: null
+      type: select_one
+      options:
+      - key_type1
+      - key_type2
+      required: false
+    - id: 3
+      name: key_description
+      label: key_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: key_serial_number
+      label: key_serial_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: received_by
+      label: received_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_location
+      label: issue_location
+      hint: null
+      type: select_multiple
+      options:
+      - issue_location1
+      - issue_location2
+      required: false
+    - id: 8
+      name: issue_person
+      label: issue_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: key_condition
+      label: key_condition
+      hint: null
+      type: select_one
+      options:
+      - key_condition1
+      - key_condition2
+      required: false

@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: pcb_design_knowledge_quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: PCB design basics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: board_layout
+      label: Board layout
+      hint: null
+      type: select_one
+      options:
+      - 2D layout
+      - 3D layout
+      - Mixed signal processing
+      - RF and microwave engineering
+      - High-speed digital
+      - Analog and mixed signal
+      - High-speed digital and mixed signal
+      - Power and power integrity
+      - Other
+      required: false
+    - id: 3
+      name: design_rules
+      label: Design rules
+      hint: null
+      type: select_multiple
+      options:
+      - DFM (Design for Manufacturing)
+      - DFX (Design for X)
+      - DFT (Design for Testability)
+      - Other
+      - Design for Assembly
+      - Design for Reliability
+      - Design for Maintainability
+      - Design for Six Sigma
+      - Design for Testability
+      - DfX (Design for eXpanded Reliability)
+      - DfM (Design for Manufacturability)
+      - DfT (Design for Testability)
+      - Other
+      required: false
+    - id: 4
+      name: board_type
+      label: Board type
+      hint: null
+      type: select_multiple
+      options:
+      - Printed wiring boards
+      - Flexible boards
+      - Rigid boards
+      - Hybrid boards
+      required: false
+    - id: 5
+      name: materials
+      label: Materials
+      hint: null
+      type: select_multiple
+      options:
+      - FR4
+      - FR5
+      - FR6
+      - FR7
+      - FR8
+      - FR9
+      - FR10
+      - Other
+      required: false
+    - id: 6
+      name: layer_count
+      label: Layer count
+      hint: null
+      type: select_multiple
+      options:
+      - Single layer
+      - Double layer
+      - Multi-layer
+      - Other
+      required: false
+    - id: 7
+      name: design_tools
+      label: Design tools
+      hint: null
+      type: select_multiple
+      options:
+      - Kicad
+      - Eagle
+      - Altium
+      - KiCad
+      - Other
+      - Autodesk Eagle
+      - Altium
+      - Altium Designer
+      - Altium NEXUS
+      - Other
+      required: false
+    - id: 8
+      name: design_process
+      label: Design process
+      hint: null
+      type: select_multiple
+      options:
+      - Manual
+      - Automated
+      - Hybrid
+      - Top down
+      - Bottom up
+      - Other
+      required: false
+    - id: 9
+      name: design_methodology
+      label: Design methodology
+      hint: null
+      type: text
+      options: []
+      required: false

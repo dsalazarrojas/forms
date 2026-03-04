@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: physiology_lab_exam_study_questionnaire
+    pages:
+    - id: 1
+      name: physiology_lab_exam_preparation
+      label: What is your biggest challenge in preparing for the exam?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_section
+      label: Which course section are you taking?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: academic_year
+      label: Academic year of the course
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: What feedback do you have for our team on lab exam preparation?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date of exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time of exam
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: other_comments
+      label: Any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,374 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Closure Monthly Statistics Report Form
+    pages:
+    - id: 1
+      name: report_header
+      label: Case Closure Monthly Statistics Report
+      hint: Monthly performance metrics for case closures
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_id
+      label: Report ID Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_month
+      label: Reporting Month
+      hint: Month covered
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 4
+      name: report_year
+      label: Reporting Year
+      hint: Year covered
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: department_info
+      label: Department Information
+      hint: Organizational details
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: department_name
+      label: Department or Division Name
+      hint: Reporting unit
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agency_name
+      label: Agency Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporting_officer
+      label: Reporting Officer Name
+      hint: Person submitting report
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: officer_id
+      label: Officer ID Number
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Report Submission Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: overall_statistics
+      label: Overall Case Statistics
+      hint: Summary metrics
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cases_opened_start
+      label: Cases Open at Start of Month
+      hint: Beginning inventory
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: cases_opened_during
+      label: Cases Opened During Month
+      hint: New cases
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_cases
+      label: Total Cases to Work
+      hint: Open plus new
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: cases_closed
+      label: Cases Closed During Month
+      hint: Total closures
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: cases_closed_arrest
+      label: Cases Closed by Arrest
+      hint: Arrest closures
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: cases_closed_citation
+      label: Cases Closed by Citation
+      hint: Citation closures
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: cases_closed_other
+      label: Cases Closed by Other Means
+      hint: Other closures
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: cases_closed_unfounded
+      label: Cases Closed as Unfounded
+      hint: Unfounded reports
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: cases_closed_false
+      label: Cases Closed as False Report
+      hint: False reports
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: cases_remaining
+      label: Cases Remaining Open
+      hint: End inventory
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: clearance_rate
+      label: Clearance Rate Percentage
+      hint: Closed divided by total
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: case_type_breakdown
+      label: Case Type Breakdown
+      hint: By category
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: violent_crimes_closed
+      label: Violent Crimes Closed
+      hint: Homicide assault etc
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: property_crimes_closed
+      label: Property Crimes Closed
+      hint: Theft burglary etc
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: drug_crimes_closed
+      label: Drug Crimes Closed
+      hint: Narcotics cases
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: traffic_cases_closed
+      label: Traffic Cases Closed
+      hint: Traffic related
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: juvenile_cases_closed
+      label: Juvenile Cases Closed
+      hint: Minor involved
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: domestic_cases_closed
+      label: Domestic Cases Closed
+      hint: Domestic incidents
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: other_cases_closed
+      label: Other Cases Closed
+      hint: Miscellaneous
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: performance_metrics
+      label: Performance Metrics
+      hint: Efficiency measures
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: average_days_to_close
+      label: Average Days to Close Case
+      hint: Mean closure time
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: median_days_to_close
+      label: Median Days to Close Case
+      hint: Middle value
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: cases_under_7_days
+      label: Cases Closed Within 7 Days
+      hint: Quick closures
+      type: number
+      options: []
+      required: true
+    - id: 35
+      name: cases_7_to_30_days
+      label: Cases Closed in 7 to 30 Days
+      hint: Standard timeline
+      type: number
+      options: []
+      required: true
+    - id: 36
+      name: cases_30_to_90_days
+      label: Cases Closed in 30 to 90 Days
+      hint: Extended timeline
+      type: number
+      options: []
+      required: true
+    - id: 37
+      name: cases_over_90_days
+      label: Cases Closed Over 90 Days
+      hint: Long term
+      type: number
+      options: []
+      required: true
+    - id: 38
+      name: aged_cases
+      label: Aged Cases Review
+      hint: Old open cases
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: cases_over_1_year
+      label: Cases Open Over 1 Year
+      hint: Aged inventory
+      type: number
+      options: []
+      required: true
+    - id: 40
+      name: aged_cases_reviewed
+      label: Aged Cases Reviewed This Month
+      hint: Review count
+      type: number
+      options: []
+      required: true
+    - id: 41
+      name: aged_cases_closed
+      label: Aged Cases Closed This Month
+      hint: Old case closures
+      type: number
+      options: []
+      required: true
+    - id: 42
+      name: resource_allocation
+      label: Resource Allocation
+      hint: Staff metrics
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: officers_assigned
+      label: Number of Officers Assigned
+      hint: Staff count
+      type: number
+      options: []
+      required: true
+    - id: 44
+      name: cases_per_officer
+      label: Average Cases Per Officer
+      hint: Workload metric
+      type: number
+      options: []
+      required: true
+    - id: 45
+      name: overtime_hours
+      label: Overtime Hours Used
+      hint: OT for investigations
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: challenges
+      label: Challenges or Issues
+      hint: Obstacles faced
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: Suggestions
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Management approval
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: supervisor_name
+      label: Reviewing Supervisor
+      hint: Supervisor name
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: Review notes
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: supervisor_signature_date
+      label: Supervisor Signature Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true

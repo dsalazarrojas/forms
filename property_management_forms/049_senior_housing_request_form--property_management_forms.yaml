@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: senior_housing_request_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: false
+    - id: 7
+      name: housing_needs
+      label: Housing Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Housing
+      - Permanent Housing
+      - Transitional Housing
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: housing_location
+      label: Housing Location
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: follow_up_question
+      label: Follow up Question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_answer
+      label: Follow up Answer
+      hint: null
+      type: note
+      options: []
+      required: false

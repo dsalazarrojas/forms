@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Motors Knowledge Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: What is a motor?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: motor_types
+      label: Motor types
+      hint: null
+      type: select_one
+      options:
+      - Alternating current
+      - Direct current
+      - Synchronous
+      - Asynchronous
+      - Stepper
+      required: true
+    - id: 3
+      name: motor_parts
+      label: What are the basic motor parts?
+      hint: null
+      type: select_multiple
+      options:
+      - Stator
+      - Rotor
+      - Bearings
+      - Windings
+      required: true
+    - id: 4
+      name: motor_principles
+      label: What is the working principle of an electrical motor?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: motor_characteristics
+      label: Motor characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: electrical_circuits
+      label: What is an electrical circuit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: motor_speed
+      label: What is motor speed?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: motor_efficiency
+      label: What is motor efficiency?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: motor_reliability
+      label: What is motor reliability?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: motor_winding
+      label: What is motor winding?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: motor_connections
+      label: How are motor connections made?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: electrical_circuit_breaker
+      label: What is an electrical circuit breaker?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: motor_speed_range
+      label: What is motor speed range?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: electrical_systems
+      label: What are electrical systems?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: motor_protocols
+      label: What are motor protocols?
+      hint: null
+      type: text
+      options: []
+      required: false

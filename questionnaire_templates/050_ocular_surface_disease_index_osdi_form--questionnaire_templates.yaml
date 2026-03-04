@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ocular Surface Disease Index (OSDI) Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 4
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: eye_opening_pain
+      label: Eye Opening Pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: redness
+      label: Redness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stringiness
+      label: Stringiness
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 8
+      name: tear_distribution
+      label: Tear Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - Central
+      - Peripheral
+      - Both
+      required: false
+    - id: 9
+      name: tearing
+      label: Tearing
+      hint: null
+      type: select_one
+      options:
+      - Constant
+      - Variable
+      - None
+      required: false
+    - id: 10
+      name: fluctuation
+      label: Fluctuation
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less
+      - A little
+      - A moderate amount
+      required: false
+    - id: 11
+      name: foreign_body
+      label: Foreign Body
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 12
+      name: photophobia
+      label: Photophobia
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 13
+      name: photophobia_description
+      label: Photophobia Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: pain_with_puffing
+      label: Pain with Puffing
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 15
+      name: tearing_puffing
+      label: Tearing with Puffing
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 16
+      name: tearing_puffing_duration
+      label: Tearing with Puffing Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: photobobia
+      label: Photobobia
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 18
+      name: tearing
+      label: Tearing
+      hint: null
+      type: select_one
+      options:
+      - Constant
+      - Variable
+      - None
+      required: false
+    - id: 19
+      name: fluctuation_with_puffing
+      label: Fluctuation with Puffing
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - A little
+      - A moderate amount
+      required: false
+    - id: 20
+      name: fluctuation_with_puffing_duration
+      label: Fluctuation with Puffing Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: redness
+      label: Redness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tearing_with_fluctuation
+      label: Tearing with Fluctuation
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 23
+      name: pain_with_photophobia
+      label: Pain with Photophobia
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - A lot
+      required: false
+    - id: 24
+      name: photophobia_duration
+      label: Photophobia Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: photophobia_description
+      label: Photophobia Description
+      hint: null
+      type: note
+      options: []
+      required: false

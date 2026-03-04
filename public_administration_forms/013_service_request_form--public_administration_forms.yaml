@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Email
+      - Text
+      required: false
+    - id: 3
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 9
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false

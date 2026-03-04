@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: psychology_questionnaire
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: test_scores
+      label: Test Scores
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''score1''}'
+      - '{''value'': ''score2''}'
+      - '{''value'': ''score3''}'
+      required: true
+    - id: 5
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''unknown''}'
+      required: false
+    - id: 8
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: psychologist_notes
+      label: Psychologist Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

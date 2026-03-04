@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intervention Protocol Checklist
+    pages:
+    - id: 1
+      name: intervention_protocol_checklist_1
+      label: Intervention Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: intervention_protocol_checklist_2
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: intervention_protocol_checklist_3
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: intervention_protocol_checklist_4
+      label: Review Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: intervention_protocol_checklist_5
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: true
+    - id: 6
+      name: intervention_protocol_checklist_6
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: intervention_protocol_checklist_7
+      label: Review Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

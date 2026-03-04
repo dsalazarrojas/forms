@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sustainability Grant Registration
+    pages:
+    - id: 1
+      name: property_sustainability_grant_registration
+      label: property_sustainability_grant_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Green Property Upgrades
+      - Green Community Programs
+      - Green Economic Development
+      - Other
+      required: false
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Homes
+      - Multi Family Residences
+      - Commercial
+      - Other
+      required: false
+    - id: 4
+      name: municipality
+      label: municipality
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: funding_program
+      label: funding_program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Proposed
+      - Completed
+      - Cancelled
+      required: false
+    - id: 7
+      name: project_description
+      label: project_description
+      hint: Brief description of the project or upgrade.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_owner
+      label: property_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false

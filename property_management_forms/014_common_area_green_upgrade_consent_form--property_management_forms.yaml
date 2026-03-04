@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Common Area Green Upgrade Consent Form
+    pages:
+    - id: 1
+      name: consent_information
+      label: Consent Information
+      hint: Details about the green upgrade project
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: Property Name
+      hint: Name of the property or complex
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: Full address of the property
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resident_information
+      label: Resident Information
+      hint: Details about the consenting resident
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: resident_name
+      label: Resident Name
+      hint: Full name of the resident
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: unit_number
+      label: Unit Number
+      hint: Apartment or unit number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resident_email
+      label: Resident Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: resident_phone
+      label: Resident Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upgrade_details
+      label: Upgrade Details
+      hint: Information about the proposed upgrades
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: upgrade_type
+      label: Upgrade Type
+      hint: Type of green upgrade proposed
+      type: select_multiple
+      options:
+      - LED Lighting Installation
+      - Solar Panel Installation
+      - Energy-Efficient HVAC
+      - Smart Thermostats
+      - Water Conservation Systems
+      - EV Charging Stations
+      - Recycling Infrastructure
+      - Landscaping Improvements
+      required: true
+    - id: 11
+      name: upgrade_location
+      label: Upgrade Location
+      hint: Where will upgrades be installed
+      type: select_multiple
+      options:
+      - Lobby
+      - Hallways
+      - Parking Garage
+      - Outdoor Areas
+      - Fitness Center
+      - Community Room
+      - Laundry Facilities
+      - Rooftop
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Project Timeline
+      hint: Expected duration of the project
+      type: select_one
+      options:
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-2 months
+      - 2-3 months
+      - 3-6 months
+      required: true
+    - id: 13
+      name: expected_start_date
+      label: Expected Start Date
+      hint: When will work begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: financial_information
+      label: Financial Information
+      hint: Cost and funding details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: total_project_cost
+      label: Total Project Cost
+      hint: Total cost of the upgrade project in USD
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: resident_cost_share
+      label: Resident Cost Share
+      hint: Will residents share any costs
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: cost_amount
+      label: Cost Amount
+      hint: Resident share amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will costs be collected
+      type: select_one
+      options:
+      - One-Time Assessment
+      - Monthly Fee Increase
+      - Special Assessment
+      - HOA Reserve Funds
+      - Grant Funded
+      - No Cost to Residents
+      required: false
+    - id: 19
+      name: expected_savings
+      label: Expected Savings
+      hint: Estimated annual savings in USD
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: consent_declaration
+      label: Consent Declaration
+      hint: Do you consent to the green upgrades
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      - Abstain
+      required: true
+    - id: 21
+      name: concerns
+      label: Concerns
+      hint: Any concerns about the project
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: suggestions
+      label: Suggestions
+      hint: Any suggestions for the project
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent signature
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Property Conversion Application Form
+    pages:
+    - id: 1
+      name: residential_property_conversation_application
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Application
+      - Vacant
+      - Under construction
+      - For sale
+      - Other
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Commercial
+      - Industrial
+      - Other
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Other
+      required: false
+    - id: 10
+      name: application_details
+      label: Application Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Property Manager
+      - Developer
+      - Client
+      - Other
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_optimization_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_location
+      label: property_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: false
+    - id: 4
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: Question 1
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: question_2
+      label: Question 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: question_3
+      label: Question 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_4
+      label: Question 4
+      hint: null
+      type: number
+      options: []
+      required: false

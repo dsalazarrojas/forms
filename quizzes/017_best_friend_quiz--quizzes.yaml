@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Friend Quiz
+    pages:
+    - id: 1
+      name: quiz_intro_header
+      label: -- The Ultimate Friendship Test --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: taker_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: target_friend_name
+      label: Friend Name
+      hint: Who are you taking this quiz about
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: round_1_header
+      label: -- Round 1 - The Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: friend_birthday
+      label: When is your friend's birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: friend_middle_name
+      label: What is your friend's middle name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: friend_fav_color
+      label: What is your friend's favorite color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: friend_fav_food
+      label: What is your friend's favorite food
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: round_2_header
+      label: -- Round 2 - Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: beverage_preference
+      label: Coffee or Tea
+      hint: Which one does your friend drink more
+      type: select_one
+      options:
+      - Coffee
+      - Tea
+      - Both
+      - Neither - only water
+      required: true
+    - id: 11
+      name: pizza_topping_choice
+      label: Preferred Pizza Topping
+      hint: null
+      type: select_one
+      options:
+      - Classic Pepperoni
+      - Just Cheese
+      - Veggie Delight
+      - Controversial Pineapple
+      - Meat Lovers
+      - Other
+      required: true
+    - id: 12
+      name: pet_preference
+      label: Cats or Dogs
+      hint: null
+      type: select_one
+      options:
+      - Cats
+      - Dogs
+      - Both - all animals!
+      - Neither
+      required: true
+    - id: 13
+      name: round_3_header
+      label: -- Round 3 - Shared Memories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: meeting_place_desc
+      label: Where did you first meet
+      hint: Describe the location or event
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: first_impression_text
+      label: What was your first impression of each other
+      hint: Be honest!
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: funniest_memory_desc
+      label: What is the funniest memory you share
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: round_4_header
+      label: -- Round 4 - Deep Dives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: friend_biggest_fear
+      label: What is your friend's biggest fear
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: friend_dream_job
+      label: What is your friend's dream job
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: friend_proud_moment
+      label: What is one thing your friend is really proud of
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: results_header
+      label: -- Quiz Conclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: estimated_score
+      label: How many questions do you think you got right
+      hint: Out of the specific facts asked
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: quiz_date_stamp
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

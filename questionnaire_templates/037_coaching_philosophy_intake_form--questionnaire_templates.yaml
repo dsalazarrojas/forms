@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Philosophy Intake Form
+    pages:
+    - id: 1
+      name: coach_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sport_or_specialty
+      label: Sport or Coaching Specialty
+      hint: What do you coach
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: coaching_level
+      label: Current Coaching Level
+      hint: What level do you coach
+      type: select_one
+      options:
+      - Youth Recreational
+      - Youth Competitive
+      - High School
+      - College
+      - Professional
+      - Club
+      required: true
+    - id: 6
+      name: years_coaching
+      label: Years of Coaching Experience
+      hint: How long have you coached
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 7
+      name: coaching_philosophy_statement
+      label: Describe Your Coaching Philosophy
+      hint: What is your core coaching belief
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_coaching_goals
+      label: What Are Your Primary Coaching Goals
+      hint: What do you want athletes to achieve
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: definition_of_success
+      label: How Do You Define Success
+      hint: What does success look like to you
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: winning_vs_development
+      label: Winning vs Athlete Development
+      hint: What is more important
+      type: select_one
+      options:
+      - Winning Is Most Important
+      - Development Is Most Important
+      - Balanced Approach
+      - Depends on Level
+      required: true
+    - id: 11
+      name: coaching_style
+      label: Your Coaching Style
+      hint: How would you describe your approach
+      type: select_one
+      options:
+      - Authoritative
+      - Democratic
+      - Collaborative
+      - Laissez-Faire
+      - Adaptive
+      required: true
+    - id: 12
+      name: motivation_approach
+      label: How Do You Motivate Athletes
+      hint: Describe your motivation methods
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: handling_mistakes
+      label: How Do You Handle Athlete Mistakes
+      hint: What is your approach to errors
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: discipline_approach
+      label: Your Approach to Discipline
+      hint: How do you handle behavioral issues
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: communication_style
+      label: Your Communication Style
+      hint: How do you communicate with athletes
+      type: select_one
+      options:
+      - Direct and Clear
+      - Supportive and Encouraging
+      - Analytical and Detailed
+      - Inspirational
+      - Mixed Approach
+      required: true
+    - id: 16
+      name: parent_communication
+      label: How Do You Communicate With Parents
+      hint: Describe your parent interaction style
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: athlete_safety_priority
+      label: How Do You Prioritize Athlete Safety
+      hint: Describe your safety approach
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: inclusion_approach
+      label: Your Approach to Inclusion
+      hint: How do you ensure all athletes feel included
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: handling_diverse_abilities
+      label: How Do You Handle Diverse Skill Levels
+      hint: How do you coach mixed-ability groups
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: feedback_style
+      label: Your Feedback Style
+      hint: How do you give feedback
+      type: select_one
+      options:
+      - Immediate and Direct
+      - Delayed and Reflective
+      - Sandwich Method
+      - Question-Based
+      - Demonstration-Based
+      required: true
+    - id: 21
+      name: practice_structure
+      label: How Do You Structure Practices
+      hint: Describe your typical practice
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: skill_vs_fun
+      label: Skill Development vs Fun
+      hint: What is your balance
+      type: select_one
+      options:
+      - Skill Development Primary
+      - Fun Primary
+      - Equal Balance
+      - Depends on Age Group
+      required: true
+    - id: 23
+      name: role_model_beliefs
+      label: Your Role as a Role Model
+      hint: How do you view this responsibility
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: continuous_learning
+      label: How Do You Continue Learning
+      hint: Describe your professional development
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: coaching_influences
+      label: Who Are Your Coaching Influences
+      hint: What coaches or philosophies influence you
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: scenario_response
+      label: How Would You Handle a Losing Streak
+      hint: Describe your approach
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: team_culture
+      label: How Do You Build Team Culture
+      hint: Describe your culture-building approach
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: additional_philosophy_notes
+      label: Additional Philosophy Notes
+      hint: Anything else about your approach
+      type: text
+      options: []
+      required: false

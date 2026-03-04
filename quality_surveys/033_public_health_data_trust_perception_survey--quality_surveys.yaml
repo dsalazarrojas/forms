@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Data Trust Perception Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness_question
+      label: awareness_question
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trust_scale
+      label: trust_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: concerns_scale
+      label: concerns_scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: data_practices
+      label: data_practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_preferences
+      label: survey_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

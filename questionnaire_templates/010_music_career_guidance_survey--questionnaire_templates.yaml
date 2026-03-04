@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Career Guidance Survey
+    pages:
+    - id: 1
+      name: music_career_survey
+      label: music_career_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: musician_category
+      label: musician_category
+      hint: null
+      type: select_one
+      options:
+      - Musician
+      - Singer
+      - Songwriter
+      - Music Teacher
+      - Music Therapist
+      - Musician/Producer
+      - Musician/Composer
+      - Choreographer
+      - DJ
+      - Musician/Arranger
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: current_education_level
+      label: current_education_level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some college
+      - Associates Degree
+      - Bachelors Degree
+      - Postgraduate Degree
+      required: false
+    - id: 5
+      name: current_employment_status
+      label: current_employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      - Student
+      required: false
+    - id: 6
+      name: annual_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: expected_income_range
+      label: expected_income_range
+      hint: null
+      type: select_one
+      options:
+      - Less than $10,000
+      - $10,000 - $20,000
+      - $20,000 - $30,000
+      - $30,000 - $40,000
+      - $40,000 - $50,000
+      - More than $50,000
+      required: false
+    - id: 8
+      name: primary_instrument
+      label: primary_instrument
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Singing
+      - Drums
+      - Bass
+      - Violin
+      - Cello
+      - Harp
+      - Accordion
+      - Other
+      required: false
+    - id: 9
+      name: secondary_instrument
+      label: secondary_instrument
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Singing
+      - Drums
+      - Bass
+      - Violin
+      - Cello
+      - Harp
+      - Accordion
+      - Other
+      required: false
+    - id: 10
+      name: years_practiced_per_week
+      label: years_practiced_per_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: average_weekly_hours
+      label: average_weekly_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: primary_practice_location
+      label: primary_practice_location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - School
+      - Studio
+      - Local Park
+      - Online
+      required: false
+    - id: 13
+      name: average_monthly_performance
+      label: average_monthly_performance
+      hint: null
+      type: select_multiple
+      options:
+      - Local Gig
+      - School Performance
+      - Community Event
+      - Online Streaming
+      - Music Festival
+      - Music Contest
+      - Other
+      required: false
+    - id: 14
+      name: average_annual_income
+      label: average_annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: expected_annual_income
+      label: expected_annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: average_annual_expense
+      label: average_annual_expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: expected_annual_expense
+      label: expected_annual_expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: average_monthly_expense
+      label: average_monthly_expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: expected_monthly_expense
+      label: expected_monthly_expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: current_instrument_owned
+      label: current_instrument_owned
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Singing
+      - Drums
+      - Bass
+      - Violin
+      - Cello
+      - Harp
+      - Accordion
+      - Other
+      required: false
+    - id: 21
+      name: average_instrument_owned
+      label: average_instrument_owned
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Singing
+      - Drums
+      - Bass
+      - Violin
+      - Cello
+      - Harp
+      - Accordion
+      - Other
+      required: false
+    - id: 22
+      name: primary_instrument_wanted
+      label: primary_instrument_wanted
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Singing
+      - Drums
+      - Bass
+      - Violin
+      - Cello
+      - Harp
+      - Accordion
+      - Other
+      required: false
+    - id: 23
+      name: average_instrument_wanted
+      label: average_instrument_wanted
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Singing
+      - Drums
+      - Bass
+      - Violin
+      - Cello
+      - Harp
+      - Accordion
+      - Other
+      required: false
+    - id: 24
+      name: average_instrument_practice_location
+      label: average_instrument_practice_location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - School
+      - Studio
+      - Local Park
+      - Online
+      required: false
+    - id: 25
+      name: average_instrument_performance_location
+      label: average_instrument_performance_location
+      hint: null
+      type: select_multiple
+      options:
+      - Local Gig
+      - School Performance
+      - Community Event
+      - Online Streaming
+      - Music Festival
+      - Music Contest
+      - Other
+      required: false

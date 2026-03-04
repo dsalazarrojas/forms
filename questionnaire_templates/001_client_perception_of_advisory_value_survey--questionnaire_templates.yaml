@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Perception Of Advisory Value Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: What is your name?
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: What is your organization name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: advisory_relationship_duration
+      label: How long have you been working with our advisory team?
+      hint: In months or years
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 4
+      name: overall_value_satisfaction
+      label: Overall, how satisfied are you with the value provided by our advisory
+        services?
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 5
+      name: value_alignment_score
+      label: Rate how well our advice aligns with your business goals - 1 to 10
+      hint: 1 = Not at all aligned, 10 = Perfectly aligned
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: services_section
+      label: -- Services and Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: expertise_quality
+      label: How would you rate the quality of our advisory expertise?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 8
+      name: service_relevance
+      label: Our services are relevant to my current business challenges
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 9
+      name: communication_section
+      label: -- Communication and Responsiveness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: responsiveness_rating
+      label: How responsive has our team been to your inquiries?
+      hint: null
+      type: select_one
+      options:
+      - Very Unresponsive
+      - Unresponsive
+      - Adequate
+      - Responsive
+      - Very Responsive
+      required: true
+    - id: 11
+      name: communication_clarity
+      label: Our advisors communicate ideas clearly and concisely
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: impact_section
+      label: -- Business Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: actionable_recommendations
+      label: The recommendations provided have been actionable
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 14
+      name: business_impact_rating
+      label: Rate the measurable business impact of our advisory services - 1 to 10
+      hint: 1 = No impact, 10 = Transformational impact
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: implementation_support
+      label: How would you rate our support in helping you implement recommendations?
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Adequate
+      - Good
+      - Excellent
+      required: true
+    - id: 16
+      name: referral_section
+      label: -- Referral and Loyalty --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: net_promoter_score
+      label: How likely are you to refer our advisory services to a colleague? - 0
+        to 10
+      hint: 0 = Not likely, 10 = Very likely
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: recommend_services
+      label: I would recommend our advisory services to others in my industry
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 19
+      name: retention_likelihood
+      label: How likely are you to continue using our services in the next year?
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very Likely
+      required: true
+    - id: 20
+      name: improvement_feedback
+      label: What is the most important improvement we could make to better serve
+        you?
+      hint: Please be specific
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_email
+      label: Your email address
+      hint: For follow-up questions
+      type: email
+      options: []
+      required: false

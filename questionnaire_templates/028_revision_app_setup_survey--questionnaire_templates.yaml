@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Revision App Setup Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Revision App Setup Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subjects
+      label: Subjects
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Subject1''}'
+      - '{''id'': 2, ''name'': ''Subject2''}'
+      - '{''id'': 3, ''name'': ''Subject3''}'
+      required: false
+    - id: 3
+      name: device_preferences
+      label: Device Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      - '{''id'': 4, ''name'': ''Option 4''}'
+      required: false
+    - id: 4
+      name: reminder_frequency
+      label: Reminder Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      required: false
+    - id: 5
+      name: feature_requests
+      label: Feature Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reminder_time
+      label: Reminder Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 11
+      name: email_notification_frequency
+      label: Email Notification Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      required: false
+    - id: 12
+      name: device_notification
+      label: Device Notification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false

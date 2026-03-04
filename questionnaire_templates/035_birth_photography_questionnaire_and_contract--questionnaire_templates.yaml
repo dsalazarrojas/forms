@@ -1,0 +1,335 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Photography Questionnaire And Contract
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birth Photography Questionnaire and Contract --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Complete this to book your birth photography session
+      hint: This questionnaire and contract ensures clear expectations
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_birth_info
+      label: -- Birth Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: due_date
+      label: Due Date
+      hint: Expected birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: birth_facility
+      label: Birth Facility or Location
+      hint: Hospital, birth center, or home
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: Doctor or midwife name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_experience
+      label: -- Photography Experience and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: photographer_experience
+      label: Have You Worked with a Birth Photographer Before
+      hint: Previous experience
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 14
+      name: style_preferences
+      label: Photography Style Preferences
+      hint: What style appeals to you
+      type: select_multiple
+      options:
+      - Documentary and Natural
+      - Posed and Artistic
+      - Intimate and Minimal
+      - Detailed and Comprehensive
+      - Mix of Styles
+      required: true
+    - id: 15
+      name: must_capture
+      label: Must-Capture Moments
+      hint: What moments are most important
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: birth_vision
+      label: Vision for Birth Photography
+      hint: How you envision the photos
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_logistics
+      label: -- Service Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: service_coverage
+      label: Desired Service Coverage
+      hint: What hours or events
+      type: select_multiple
+      options:
+      - Labor
+      - Delivery
+      - Immediate Postpartum
+      - First Hour Bonding
+      - Hospital Photos
+      - Extended Coverage
+      required: true
+    - id: 19
+      name: facility_restrictions
+      label: Any Facility Restrictions or Special Considerations
+      hint: Hospital policies or requests
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: guest_allowances
+      label: Who Can Be in Photos
+      hint: Family, friends, medical staff
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: sensitive_moments
+      label: Sensitive Moments
+      hint: Any moments you prefer not photographed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_deliverables
+      label: -- Deliverables and Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: photo_count_preference
+      label: Preferred Number of Final Photos
+      hint: How many edited images
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: delivery_preference
+      label: How You Want to Receive Photos
+      hint: Digital, prints, album, etc.
+      type: select_multiple
+      options:
+      - Digital Files
+      - USB Drive
+      - Online Gallery
+      - Printed Album
+      - Individual Prints
+      - Canvas Prints
+      required: true
+    - id: 25
+      name: editing_style
+      label: Preferred Editing Style
+      hint: Natural or more enhanced
+      type: select_one
+      options:
+      - Minimal Natural Editing
+      - Moderate Enhancement
+      - Artistic Enhancement
+      - Film-Style Processing
+      required: true
+    - id: 26
+      name: timeline_for_delivery
+      label: Timeline for Photo Delivery
+      hint: How quickly you want photos
+      type: select_one
+      options:
+      - ASAP - Within 1 Week
+      - 2-3 Weeks
+      - 1 Month
+      - 6-8 Weeks
+      - Custom Timeline
+      required: true
+    - id: 27
+      name: section_fees_payment
+      label: -- Fees and Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: session_fee_understood
+      label: Session Fee
+      hint: Cost for photography service
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: additional_fees
+      label: Additional Fees Understood
+      hint: Travel, prints, albums, etc.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: total_cost
+      label: Total Service Cost
+      hint: Total amount due
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: booking_deposit
+      label: Booking Deposit
+      hint: Amount to secure date
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: deposit_date_due
+      label: Deposit Due Date
+      hint: When deposit required
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: balance_due_date
+      label: Final Balance Due Date
+      hint: When final payment due
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: accepted_payment
+      label: Accepted Payment Methods
+      hint: How you can pay
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: section_rights_usage
+      label: -- Photo Rights and Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: client_ownership
+      label: Client Ownership of Photos
+      hint: Who owns the images
+      type: select_one
+      options:
+      - Client Owns All Rights
+      - Shared Licensing
+      - Photographer Retains Copyright
+      required: true
+    - id: 37
+      name: commercial_use
+      label: Commercial Use of Photos
+      hint: Can photographer use for portfolio
+      type: select_one
+      options:
+      - Yes, With Permission Only
+      - Yes, Without Permission
+      - No Commercial Use
+      required: true
+    - id: 38
+      name: social_media_consent
+      label: Social Media Sharing Permission
+      hint: Can photos appear on social media
+      type: select_one
+      options:
+      - Yes, Full Permission
+      - Yes, With Watermark Only
+      - Yes, But No Names
+      - false
+      required: true
+    - id: 39
+      name: section_agreement
+      label: -- Contract Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: cancellation_understanding
+      label: I understand the cancellation and refund policy
+      hint: Check to confirm understanding
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 41
+      name: contract_acknowledgment
+      label: I agree to all terms in this questionnaire and contract
+      hint: Final acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

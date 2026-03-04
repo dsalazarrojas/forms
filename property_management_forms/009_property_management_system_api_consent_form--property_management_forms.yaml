@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management System API Consent Form
+    pages:
+    - id: 1
+      name: property_management_system_api_consent_form
+      label: API Connection Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: api_connection_details_1
+      label: Client Authorization
+      hint: Provide clear client authorization for API connections
+      type: select_one
+      options:
+      - '{''id'': 2, ''label'': ''Option 1''}'
+      - '{''id'': 3, ''label'': ''Option 2''}'
+      - '{''id'': 4, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: api_connection_details_2
+      label: Connection Permissions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5, ''label'': ''Option 1''}'
+      - '{''id'': 6, ''label'': ''Option 2''}'
+      - '{''id'': 7, ''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: api_connection_details_3
+      label: Security Settings
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8, ''label'': ''Option 1''}'
+      - '{''id'': 9, ''label'': ''Option 2''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: api_connection_details_4
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Connection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Connection Time
+      hint: null
+      type: time
+      options: []
+      required: false

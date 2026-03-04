@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Maintenance Request Form
+    pages:
+    - id: 1
+      name: estate_maintenance_request_form
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - Repairs
+      - Upgrades
+      required: false
+    - id: 5
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In Progress
+      - Done
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: schedule_access
+      label: Schedule Access
+      hint: null
+      type: date
+      options: []
+      required: false

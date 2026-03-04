@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: diversity_questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: Diversity Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Black or African American''}'
+      - '{''label'': ''Asian''}'
+      - '{''label'': ''American Indian or Alaskan Native''}'
+      - '{''label'': ''Native Hawaiian or Other Pacific Islander''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Prefer not to disclose''}'
+      - '{''label'': ''Prefer not to answer''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 3
+      name: opinion_info
+      label: opinions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: idea_info
+      label: ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: id
+      label: ID
+      hint: null
+      type: number
+      options: []
+      required: false

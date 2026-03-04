@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kissing Experience Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: frequency_of_kissing
+      label: How Often Do You Kiss
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: favorite_kissing_positions
+      label: Favorite Kissing Positions
+      hint: null
+      type: select_one
+      options:
+      - Top
+      - Side
+      - Chin
+      - Lips
+      - Cheek
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: comfort_level
+      label: What Is The Most Comfortable Kissing Position For You
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 5
+      name: preferred_kissing_frequency
+      label: What Is Your Preferred Frequency Of Kissing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: preferred_kissing_duration
+      label: How Long Do You Like To Kiss
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: note_to_researcher
+      label: Note To Researcher
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_email
+      label: Email (Optional)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: user_phone
+      label: Phone (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: researcher_email
+      label: Researcher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: researcher_phone
+      label: Researcher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true

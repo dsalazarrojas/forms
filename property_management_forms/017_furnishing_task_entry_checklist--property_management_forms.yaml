@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: furnishing_task_entry_checklist
+    pages:
+    - id: 1
+      name: task_entry
+      label: Task Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_select
+      label: room
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Kitchen''}'
+      - '{''id'': 2, ''name'': ''Bathroom''}'
+      - '{''id'': 3, ''name'': ''Bedroom''}'
+      required: false
+    - id: 3
+      name: status_select
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New Task''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Completed''}'
+      required: false
+    - id: 4
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Designer''}'
+      - '{''id'': 2, ''name'': ''Project Manager''}'
+      - '{''id'': 3, ''name'': ''Property Manager''}'
+      - '{''id'': 4, ''name'': ''Project Team''}'
+      required: false
+    - id: 5
+      name: task_comments
+      label: Task Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: task_status_comment
+      label: Task Status Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: task_due_date
+      label: Task Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: task_start_date
+      label: Task Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: room
+      label: Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: furnishing_type
+      label: Furnishing Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 13
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Completed''}'
+      - '{''id'': 4, ''name'': ''Cancelled''}'
+      required: false
+    - id: 14
+      name: task_notes
+      label: Task Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: room_notes
+      label: Room Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Designer''}'
+      - '{''id'': 2, ''name'': ''Project Manager''}'
+      - '{''id'': 3, ''name'': ''Property Manager''}'
+      - '{''id'': 4, ''name'': ''Project Team''}'
+      required: false
+    - id: 17
+      name: task_due_time
+      label: Task Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: task_start_time
+      label: Task Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: task_status_notes
+      label: Task Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_team_notes
+      label: Project Team Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: task_category
+      label: Task Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''Google Docs''}'
+      - '{''id'': 3, ''name'': ''MS Project''}'
+      - '{''id'': 4, ''name'': ''Trello''}'
+      required: false
+    - id: 24
+      name: task_tags
+      label: Task Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Designer''}'
+      - '{''id'': 2, ''name'': ''Project Manager''}'
+      - '{''id'': 3, ''name'': ''Property Manager''}'
+      - '{''id'': 4, ''name'': ''Project Team''}'
+      required: false

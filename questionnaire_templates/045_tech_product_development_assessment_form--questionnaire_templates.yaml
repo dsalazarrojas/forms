@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Product Development Assessment Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_status
+      label: project_status
+      hint: Select the status of the project.
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: project_readiness_score
+      label: Project Readiness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_manager
+      label: Project Manager
+      hint: Select the Project Manager.
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 5
+      name: project_team
+      label: Project Team
+      hint: Select the Project Team.
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 6
+      name: project_start_date
+      label: project_start_date
+      hint: Select the start date of the project.
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_completion_date
+      label: project_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_completion_percentage
+      label: Project Completion Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_completion_date
+      label: Project Completion Date
+      hint: Select the completion date of the project.
+      type: select_one
+      options:
+      - '2024-01-01'
+      - '2024-01-15'
+      - '2024-02-01'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: report_type
+      label: Report Type
+      hint: Select the type of report.
+      type: select_one
+      options:
+      - Report 1
+      - Report 2
+      - Report 3
+      required: false
+    - id: 16
+      name: report_details
+      label: Report Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: report_comments
+      label: Report Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: report_attachments
+      label: Report Attachments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_defectiveness_assessment_questionnaire
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: defect_info
+      label: defect_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: priority_info
+      label: priority_info
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 4
+      name: recurrence_info
+      label: recurrence_info
+      hint: null
+      type: select_multiple
+      options:
+      - Rare
+      - Occasional
+      - Frequent
+      required: true
+    - id: 5
+      name: defect_type
+      label: defect_type
+      hint: null
+      type: select_multiple
+      options:
+      - Hardware
+      - Software
+      - Other
+      required: true
+    - id: 6
+      name: defect_description
+      label: defect_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: defect_frequency
+      label: defect_frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-11
+      - 12-20
+      required: true
+    - id: 14
+      name: defect_category
+      label: defect_category
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Other
+      required: true
+    - id: 15
+      name: defect_subcategory
+      label: defect_subcategory
+      hint: null
+      type: select_one
+      options:
+      - Mechanical
+      - Electrical
+      - Software
+      - Other
+      required: true
+    - id: 16
+      name: defect_description_2
+      label: defect_description_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: support_team
+      label: support_team
+      hint: null
+      type: select_one
+      options:
+      - Support Team 1
+      - Support Team 2
+      - Support Team 3
+      required: true
+    - id: 18
+      name: follow_up_info
+      label: follow_up_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: next_follow_up_info
+      label: next_follow_up_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_follow_up_date
+      label: next_follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_follow_up_time
+      label: next_follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: customer_company
+      label: customer_company
+      hint: null
+      type: text
+      options: []
+      required: true

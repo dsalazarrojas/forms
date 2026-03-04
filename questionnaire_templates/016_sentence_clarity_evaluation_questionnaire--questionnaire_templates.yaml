@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: sentence_clarity_evaluation_questionnaire
+    pages:
+    - id: 1
+      name: form_group
+      label: This sentence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audience
+      label: audience
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''general_audience''}'
+      - '{''option'': ''specialized_audience''}'
+      - '{''option'': ''both''}'
+      required: false
+    - id: 3
+      name: clarity_level
+      label: clarity_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: relevance_level
+      label: relevance_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: readability
+      label: readability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sentence_group
+      label: sentence_group
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sentence_length
+      label: sentence_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sentence_clarity
+      label: sentence_clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sentence_clarity_meaning
+      label: sentence_clarity_meaning
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sentence_clarity_implication
+      label: sentence_clarity_implication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sentence_clarity_connotation
+      label: sentence_clarity_connotation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sentence_clarity_tone
+      label: sentence_clarity_tone
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: sentence_clarity_affect
+      label: sentence_clarity_affect
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sentence_clarity_emotional_impact
+      label: sentence_clarity_emotional_impact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: sentence_clarity_meaningful
+      label: sentence_clarity_meaningful
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''clear''}'
+      - '{''option'': ''not_clear''}'
+      required: false
+    - id: 16
+      name: form_group_meaning
+      label: form_group_meaning
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''clear''}'
+      - '{''option'': ''not_clear''}'
+      required: true
+    - id: 17
+      name: form_group_implication
+      label: form_group_implication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''clear''}'
+      - '{''option'': ''not_clear''}'
+      required: true
+    - id: 18
+      name: form_group_connotation
+      label: form_group_connotation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''clear''}'
+      - '{''option'': ''not_clear''}'
+      required: true
+    - id: 19
+      name: form_group_tone
+      label: form_group_tone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''clear''}'
+      - '{''option'': ''not_clear''}'
+      required: true
+    - id: 20
+      name: form_group_affect
+      label: form_group_affect
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''clear''}'
+      - '{''option'': ''not_clear''}'
+      required: true
+    - id: 21
+      name: form_group_emotional_impact
+      label: form_group_emotional_impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''clear''}'
+      - '{''option'': ''not_clear''}'
+      required: true
+    - id: 22
+      name: sentence_meaning
+      label: sentence_meaning
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: sentence_implication
+      label: sentence_implication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: sentence_connotation
+      label: sentence_connotation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: sentence_tone
+      label: sentence_tone
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: makeup_artist_client_questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: What do you do?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: how_do_you_prefer_to_be_contacted
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - None
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education
+      label: education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: availability_2
+      label: what_times_per_week
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: availability_3
+      label: what_days_per_week
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 12
+      name: rate
+      label: rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - makeup
+      - hair
+      - nails
+      - waxing
+      - tanning
+      - lash
+      - other
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

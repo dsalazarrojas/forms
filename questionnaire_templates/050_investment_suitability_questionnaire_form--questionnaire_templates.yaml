@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Suitability Questionnaire Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 3
+      name: risk_capacity
+      label: risk_capacity
+      hint: null
+      type: select_multiple
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      - Speculative
+      required: true
+    - id: 4
+      name: investment_objective
+      label: investment_objective
+      hint: null
+      type: select_one
+      options:
+      - Income
+      - Growth
+      - Capital preservation
+      required: true
+    - id: 5
+      name: investment_capacity
+      label: investment_capacity
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 6
+      name: time_frame
+      label: time_frame
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term
+      - Medium-term
+      - Long-term
+      required: true
+    - id: 7
+      name: investment_amount
+      label: investment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: investment_frequency
+      label: investment_frequency
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Irregular
+      required: true
+    - id: 9
+      name: investment_frequency_interval
+      label: investment_frequency_interval
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 10
+      name: risk_free_return
+      label: risk_free_return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: expected_return
+      label: expected_return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: risk_free_value
+      label: risk_free_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: risk_free_frequency
+      label: risk_free_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 14
+      name: risk_free_amount
+      label: risk_free_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: investment_return
+      label: investment_return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: investment_frequency_investment_return
+      label: investment_frequency_investment_return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: risk_free_return_investment_return
+      label: risk_free_return_investment_return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: risk_free_frequency_investment_return
+      label: risk_free_frequency_investment_return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: financial_independence
+      label: financial_independence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: retirement_age
+      label: retirement_age
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: investment_horizon
+      label: investment_horizon
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term
+      - Medium-term
+      - Long-term
+      required: true
+    - id: 22
+      name: investment_period
+      label: investment_period
+      hint: null
+      type: select_multiple
+      options:
+      - Years
+      - Months
+      - Days
+      required: true
+    - id: 23
+      name: investment_amount_frequency
+      label: investment_amount_frequency
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Irregular
+      required: true
+    - id: 24
+      name: financial_status
+      label: financial_status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Retired
+      - Unemployed
+      - Self-employed
+      - Student
+      required: true
+    - id: 25
+      name: income_level
+      label: income_level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true

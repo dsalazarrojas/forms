@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cyber Security Risk Assessment Questionnaire
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_areas
+      label: Risk Areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mitigation
+      label: Mitigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: risk_assessment_id
+      label: Risk Assessment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_assessment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

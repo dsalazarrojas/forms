@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_land_management_application
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: land_owner
+      label: Land Owner
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Landowner1''}'
+      - '{''value'': ''Landowner2''}'
+      required: false
+    - id: 3
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: land_use_details
+      label: Land Use Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: uploaded_files
+      label: Uploaded Files
+      hint: Upload files related to the land use proposal
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: proposal_status
+      label: Proposal Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''approved''}'
+      - '{''value'': ''rejected''}'
+      required: false
+    - id: 8
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: application_time
+      label: Application Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: application_files
+      label: Application Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: municipality
+      label: Municipality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mun1''}'
+      - '{''value'': ''Mun2''}'
+      required: false
+    - id: 13
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''urban''}'
+      - '{''value'': ''recreational''}'
+      - '{''value'': ''residential''}'
+      required: false
+    - id: 14
+      name: land_use_category
+      label: Land Use Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''commercial''}'
+      - '{''value'': ''residential''}'
+      - '{''value'': ''industrial''}'
+      required: false
+    - id: 15
+      name: land_area
+      label: Land Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: proposal_location
+      label: Proposal Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: proposal_description
+      label: Proposal Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: application_comments
+      label: Application Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_comments2
+      label: Review Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: file_upload2
+      label: File Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_comments3
+      label: Review Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Limit Efficiency Quiz
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_photos
+      label: User Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_limit
+      label: How would you rate the quality of the photo?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 4
+      name: storage_efficiency
+      label: How do you balance photo quality and storage efficiency in your work?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Very High''}'
+      - '{''option'': ''High''}'
+      - '{''option'': ''Medium''}'
+      - '{''option'': ''Low''}'
+      - '{''option'': ''Very Low''}'
+      required: false
+    - id: 5
+      name: education_field
+      label: What field of study or subject area do you teach or support?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Art''}'
+      - '{''option'': ''Biology''}'
+      - '{''option'': ''Business''}'
+      - '{''option'': ''Engineering''}'
+      - '{''option'': ''History''}'
+      - '{''option'': ''Math''}'
+      - '{''option'': ''Music''}'
+      - '{''option'': ''Physical Sciences''}'
+      - '{''option'': ''Technology''}'
+      required: false
+    - id: 6
+      name: storage_capacity
+      label: What is your average monthly storage capacity?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''10 GB''}'
+      - '{''option'': ''100 GB''}'
+      - '{''option'': ''1 TB''}'
+      - '{''option'': ''10 TB''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 7
+      name: average_file_size
+      label: What is the average file size of your photos?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''100 KB''}'
+      - '{''option'': ''1000 KB''}'
+      - '{''option'': ''1000 MB''}'
+      - '{''option'': ''1000 MB''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 8
+      name: storage_budget
+      label: What is your average monthly storage budget for photos?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''$0-$10''}'
+      - '{''option'': ''$10-$50''}'
+      - '{''option'': ''$50-$100''}'
+      - '{''option'': ''$100-$500''}'
+      - '{''option'': ''$500 or more''}'
+      required: false
+    - id: 9
+      name: storage_savings
+      label: What is the average storage cost savings per month?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''$0''}'
+      - '{''option'': ''$1-$10''}'
+      - '{''option'': ''$10-$50''}'
+      - '{''option'': ''$50-$100''}'
+      - '{''option'': ''$100 or more''}'
+      required: false
+    - id: 10
+      name: photo_savings
+      label: How would you rate the importance of photo quality over storage?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Very High''}'
+      - '{''option'': ''High''}'
+      - '{''option'': ''Medium''}'
+      - '{''option'': ''Low''}'
+      - '{''option'': ''Very Low''}'
+      required: false
+    - id: 11
+      name: time_savings
+      label: How would you rate the time savings of storing fewer photos?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Very High''}'
+      - '{''option'': ''High''}'
+      - '{''option'': ''Medium''}'
+      - '{''option'': ''Low''}'
+      - '{''option'': ''Very Low''}'
+      required: false
+    - id: 12
+      name: user_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: upload_files
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

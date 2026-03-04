@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Client Security Inquiry Form
+    pages:
+    - id: 1
+      name: client_security_inquiry
+      label: Client Security Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: security_inquiry
+      label: Security Inquiry
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: security_risks
+      label: Security Risks
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Perform a risk assessment
+      - Implement security measures
+      - Review and adjust
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: other_actions
+      label: Other Actions
+      hint: null
+      type: text
+      options: []
+      required: false

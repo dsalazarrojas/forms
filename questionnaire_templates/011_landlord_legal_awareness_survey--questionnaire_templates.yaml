@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Legal Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: landlord_type
+      label: landlord_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Individual''}'
+      - '{''id'': 2, ''label'': ''Group''}'
+      - '{''id'': 3, ''label'': ''Organization''}'
+      required: false
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Residential''}'
+      - '{''id'': 2, ''label'': ''Commercial''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: years_living
+      label: how_long_have_you_been_leasing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_count
+      label: how_many_properties_do_you_own
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: what_is_the_location_of_your_properties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_size
+      label: what_is_the_size_of_your_properties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: legal_issues
+      label: legal_issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Landlord-Tenant Law''}'
+      - '{''id'': 2, ''label'': ''Leasing Agreements''}'
+      - '{''id'': 3, ''label'': ''Rent Control''}'
+      - '{''id'': 4, ''label'': ''Security Deposits''}'
+      - '{''id'': 5, ''label'': ''Evictions''}'
+      required: false
+    - id: 9
+      name: training_history
+      label: have_you_ever_received
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: training_need
+      label: need_training
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 11
+      name: survey_complete
+      label: survey_complete
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: landlord_awareness_survey
+      label: landlord_awareness_survey
+      hint: null
+      type: text
+      options: []
+      required: false

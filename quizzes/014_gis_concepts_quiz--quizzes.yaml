@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: GIS Concepts Quiz
+    pages:
+    - id: 1
+      name: general_concept
+      label: General Concept
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: spatial_scale
+      label: Spatial Scale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: data_type
+      label: Data Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_source
+      label: Data Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: data_format
+      label: Data Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: map_type
+      label: Map Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: spatial_reference_system
+      label: Spatial Reference System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: data_resolution
+      label: Data Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: data_date
+      label: Data Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: data_time
+      label: Data Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: general_note
+      label: General Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Molecular Chaperones Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: protein_folding_type
+      label: protein_folding_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''1D''}'
+      - '{''value'': 2, ''text'': ''2D''}'
+      - '{''value'': 3, ''text'': ''3D''}'
+      required: true
+    - id: 3
+      name: quiz_question_1
+      label: quiz_question_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''text'': ''1A''}'
+      - '{''value'': 2, ''text'': ''2A''}'
+      - '{''value'': 3, ''text'': ''3A''}'
+      required: true
+    - id: 4
+      name: quiz_question_2
+      label: quiz_question_2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''text'': ''1B''}'
+      - '{''value'': 2, ''text'': ''2B''}'
+      - '{''value'': 3, ''text'': ''3B''}'
+      required: false
+    - id: 5
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

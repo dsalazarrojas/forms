@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Book Foundations Agreement Survey
+    pages:
+      - id: 1
+        name: survey_header
+        label: -- Agreement Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional for anonymous feedback
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: clarity_rating
+        label: Clarity rating
+        hint: How clear are the foundational concepts
+        type: select_one
+        options:
+          - Very unclear
+          - Unclear
+          - Neutral
+          - Clear
+          - Very clear
+        required: true
+      - id: 4
+        name: agreement_with_principles
+        label: Agreement with principles
+        hint: Level of agreement with core principles
+        type: select_one
+        options:
+          - Strongly disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly agree
+        required: true
+      - id: 5
+        name: suggested_improvements
+        label: Suggested improvements
+        hint: Areas to improve foundational clarity
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: overall_comments
+        label: Overall comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

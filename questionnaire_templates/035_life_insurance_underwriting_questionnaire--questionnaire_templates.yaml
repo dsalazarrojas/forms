@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Underwriting Questionnaire
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_holder
+      label: policy_holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: insurance_type
+      label: insurance_type
+      hint: null
+      type: select_one
+      options:
+      - Health
+      - Term
+      - Whole
+      required: false
+    - id: 4
+      name: policy_term
+      label: policy_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: policy_amount
+      label: policy_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: policy_start_date
+      label: policy_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: policy_end_date
+      label: policy_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_multiple
+      options:
+      - Smoking
+      - Non-smoking
+      - Medical
+      required: false
+    - id: 10
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_agencies
+      label: insurance_agencies
+      hint: null
+      type: select_multiple
+      options:
+      - Agency
+      - Broker
+      - Agent
+      - Insurance company
+      required: true
+    - id: 12
+      name: underwriter_name
+      label: underwriter_name
+      hint: null
+      type: text
+      options: []
+      required: false

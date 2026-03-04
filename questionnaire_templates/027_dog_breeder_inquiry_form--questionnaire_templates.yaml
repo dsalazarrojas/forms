@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_info
+      label: inquiry_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dog_breed
+      label: dog_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: puppy_type
+      label: puppy_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_reason
+      label: inquiry_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_info
+      label: submission_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment_upload
+      label: attachment_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: attachments
+      label: attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

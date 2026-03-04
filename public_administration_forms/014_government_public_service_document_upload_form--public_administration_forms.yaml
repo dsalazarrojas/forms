@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Public Service Document Upload Form
+    pages:
+    - id: 1
+      name: government_public_service_document_upload_form
+      label: document_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - Document A
+      - Document B
+      - Document C
+      required: false
+    - id: 3
+      name: document_upload
+      label: upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirm_upload
+      label: confirm_upload
+      hint: We have received your upload.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: document_date
+      label: document_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: document_time
+      label: document_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: document_note
+      label: document_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: document_email
+      label: document_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: document_phone
+      label: document_phone
+      hint: null
+      type: text
+      options: []
+      required: false

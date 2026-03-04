@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Interest In New Library Programs Questionnaire
+    pages:
+    - id: 1
+      name: header
+      label: -- Library Program Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional for follow up
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: For notifications about new programs
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: preferred_program_types
+      label: Preferred program types
+      hint: Select all that interest you
+      type: select_multiple
+      options:
+      - Story time for children
+      - Adult education
+      - Technology workshops
+      - Arts and crafts
+      - Book clubs
+      required: true
+    - id: 5
+      name: preferred_times
+      label: Preferred times for programs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      required: false
+    - id: 6
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Indicate any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: willingness_to_volunteer
+      label: Willing to volunteer
+      hint: Help run or support programs
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 8
+      name: program_suggestions
+      label: Program suggestions
+      hint: Open ended suggestions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: number_of_household_members
+      label: Number of household members
+      hint: For family oriented programs
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_contact
+      label: Consent to contact about programs
+      hint: Agree to receive program announcements
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

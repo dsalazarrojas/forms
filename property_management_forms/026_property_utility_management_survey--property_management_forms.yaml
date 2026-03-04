@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_utility_management_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Property Utility Management Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 3
+      name: utility_types
+      label: Types of Utilities
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Electricity
+      - Gas
+      - Internet
+      - Cable
+      required: false
+    - id: 4
+      name: usage_periods
+      label: How Often
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 5
+      name: usage_amounts
+      label: Usage Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: usage_frequency
+      label: Usage Frequency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: usage_units
+      label: Usage Units
+      hint: null
+      type: select_one
+      options:
+      - m3
+      - m2
+      - m3
+      - m3
+      - kWh
+      required: false
+    - id: 8
+      name: billing_cycles
+      label: Billing Cycle
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 10
+      name: billing_amounts
+      label: Billing Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_methods
+      label: Payment Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Bank Transfer
+      - Cheque
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Herbal Remedies Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: How many years experience with herbal remedies do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: knowledge_area
+      label: What knowledge area do you have experience in?
+      hint: null
+      type: select_one
+      options:
+      - Herbal remedies for digestive problems
+      - Herbal remedies for emotional wellness
+      - Herbal remedies for pain
+      - Herbal remedies for stress
+      required: false
+    - id: 3
+      name: knowledge_type
+      label: What type of knowledge about herbal remedies do you possess?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: knowledge_self_assessment
+      label: How would you rate your level of knowledge about herbal remedies?
+      hint: 'Scale: 1 = beginner, 5 = advanced'
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: experience_frequency
+      label: How often do you take herbal remedies?
+      hint: Never to Daily
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: education_background
+      label: What level of education do you have in herbal medicine or related fields?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: experience_level
+      label: What level of experience in using herbal remedies do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: knowledge_source
+      label: Where do you get your knowledge about herbal remedies from?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up
+      label: Do you follow up on results after using herbal remedies?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: self_assessment
+      label: How often do you self-assess your own knowledge about herbal remedies?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_resources
+      label: Other resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: quiz_complete
+      label: Quiz Complete
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Template | Fitness Program Application Form
+    pages:
+    - id: 1
+      name: fitness_program_application
+      label: What is your current fitness level?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_interest
+      label: What type of program are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: program_goals
+      label: What are your fitness goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: available_days
+      label: How many days a week can you dedicate to fitness?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: available_hours
+      label: How many hours can you dedicate to fitness per day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: available_months
+      label: How many months can you commit to a program?
+      hint: null
+      type: number
+      options: []
+      required: true

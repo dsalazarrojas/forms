@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damage Report For Common Areas
+    pages:
+    - id: 1
+      name: damage_report_common_areas_form
+      label: Damage Report for Common Areas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: common_area
+      label: common_area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: damage_description
+      label: Damage Description
+      hint: Briefly describe the damage
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: damage_date
+      label: Date
+      hint: Date of damage
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: damage_time
+      label: Time of damage
+      hint: Time of damage
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: damage_location
+      label: Location
+      hint: Location of damage
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: damage_photo
+      label: Damage Photo
+      hint: Attach a photo of the damage
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted by
+      hint: Who submitted this report
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: Submitted Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: false

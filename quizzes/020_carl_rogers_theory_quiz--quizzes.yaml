@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carl Rogers Theory Quiz
+    pages:
+    - id: 1
+      name: section_participant_id
+      label: -- Participant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: optional for non-students
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: academic_level
+      label: Academic Level
+      hint: Choose your current level of study
+      type: select_one
+      options:
+      - Undergraduate
+      - Graduate
+      - Doctorate
+      - Professional
+      - Self-study
+      required: true
+    - id: 5
+      name: section_core_concepts
+      label: -- Core Concepts - Person-Centered Theory --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: quiz_q1
+      label: Which of the following is NOT one of the core conditions for therapy
+        according to Rogers?
+      hint: identify the outlier
+      type: select_one
+      options:
+      - Empathy
+      - Congruence
+      - Interpretative Analysis
+      - Unconditional Positive Regard
+      required: true
+    - id: 7
+      name: quiz_q2
+      label: Define Congruence in the context of Rogers' theory
+      hint: focus on the relationship between self-concept and experience
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quiz_q3
+      label: Rogers' theory is primarily categorized as what type of psychology?
+      hint: null
+      type: select_one
+      options:
+      - Behavioral
+      - Humanistic
+      - Psychodynamic
+      - Cognitive
+      required: true
+    - id: 9
+      name: quiz_q4
+      label: What term did Rogers use for a person whose self-concept and experience
+        are consistent?
+      hint: the goal of personal development
+      type: select_one
+      options:
+      - Fully Functioning Person
+      - Integrated Ego
+      - Self-Actualized
+      - Balanced Individuation
+      required: true
+    - id: 10
+      name: section_therapeutic_relationship
+      label: -- The Therapeutic Relationship --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: quiz_q5
+      label: According to Rogers, who is the expert in the therapeutic relationship?
+      hint: null
+      type: select_one
+      options:
+      - The Therapist
+      - The Client
+      - Both Equally
+      - Neither
+      required: true
+    - id: 12
+      name: quiz_q6
+      label: True or False - Rogers believed that unconditional positive regard means
+        the therapist must agree with everything the client does
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: quiz_q7
+      label: What is the primary role of the therapist in Person-Centered Therapy?
+      hint: null
+      type: select_one
+      options:
+      - Diagnose and Treat
+      - Direct the Session
+      - Facilitate Growth
+      - Analyze the Unconscious
+      required: true
+    - id: 14
+      name: section_human_potential
+      label: -- Human Potential and Self-Actualization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: quiz_q8
+      label: Rogers believed everyone has an inherent tendency to develop all their
+        capacities
+      hint: identify the specific term
+      type: select_one
+      options:
+      - Self-Actualization Tendency
+      - Actualizing Tendency
+      - Growth Potential
+      - Organismic Valuing Process
+      required: true
+    - id: 16
+      name: quiz_q9
+      label: Explain the Organismic Valuing Process
+      hint: how does an individual evaluate experiences?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_feedback
+      label: -- Quiz Feedback --
+      hint: help us improve
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: quiz_difficulty
+      label: How would you rate the difficulty of this quiz?
+      hint: 1 being easy, 5 being very difficult
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: clarity_of_questions
+      label: Were the questions clear and understandable?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 20
+      name: section_final
+      label: -- Final Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: participant_declaration
+      label: I certify that I completed this quiz without external assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: submission_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

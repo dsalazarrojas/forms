@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Vehicle Policy Petition
+    pages:
+    - id: 1
+      name: petitioner_name
+      label: Petitioner Full Name
+      hint: Name of the person leading this petition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: petitioner_email
+      label: Petitioner Email Address
+      hint: Contact email for petition updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: petitioner_phone
+      label: Petitioner Phone Number
+      hint: Phone number for follow-up questions
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: University student identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization or Group Name
+      hint: Name of student organization or group submitting petition
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: petition_title
+      label: Petition Title
+      hint: Brief title for your vehicle policy petition
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: policy_area
+      label: Policy Area Affected
+      hint: Which area of vehicle policy does this address
+      type: select_one
+      options:
+      - Parking allocation
+      - Electric vehicle charging
+      - Bicycle infrastructure
+      - Shuttle services
+      - Delivery vehicle access
+      - Visitor parking
+      - Disabled parking
+      - Other
+      required: true
+    - id: 8
+      name: petition_description
+      label: Petition Description
+      hint: Detailed description of the proposed policy change
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_issue
+      label: Current Issue or Problem
+      hint: Explain the problem this petition aims to solve
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: proposed_solution
+      label: Proposed Solution
+      hint: Describe your recommended policy change
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expected_benefits
+      label: Expected Benefits
+      hint: How will this change benefit the campus community
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: affected_groups
+      label: Groups Affected by This Change
+      hint: Select all groups that would be impacted
+      type: select_multiple
+      options:
+      - Undergraduate students
+      - Graduate students
+      - Faculty members
+      - Staff members
+      - Campus visitors
+      - Local residents
+      - Business owners
+      - Disabled community members
+      required: true
+    - id: 13
+      name: implementation_timeline
+      label: Suggested Implementation Timeline
+      hint: When should this policy take effect
+      type: select_one
+      options:
+      - Immediate
+      - Next semester
+      - Next academic year
+      - Phased rollout
+      - To be determined
+      required: false
+    - id: 14
+      name: budget_impact
+      label: Estimated Budget Impact
+      hint: Will this policy require funding
+      type: select_one
+      options:
+      - No cost
+      - Minimal cost under $1000
+      - Moderate cost $1000-$10000
+      - Significant cost over $10000
+      - Unknown at this time
+      required: true
+    - id: 15
+      name: supporting_documents
+      label: Supporting Documents Available
+      hint: Do you have documents to support this petition
+      type: select_one
+      options:
+      - Yes - will attach
+      - No - none available
+      - Requesting assistance
+      required: false
+    - id: 16
+      name: faculty_sponsor
+      label: Faculty Sponsor Name
+      hint: Optional faculty advisor or sponsor
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Petition Submission Date
+      hint: Date of petition submission
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to support your petition
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior On Site Property Manager Application Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Mail''}'
+      required: true
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: job_preferences
+      label: Job Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''High School''}'
+      - '{''value'': ''Some College''}'
+      - '{''value'': "Bachelor''s Degree"}'
+      - '{''value'': "Master''s Degree"}'
+      required: true
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1-3 months''}'
+      - '{''value'': ''6-12 months''}'
+      - '{''value'': ''1-2 years''}'
+      - '{''value'': ''2-3 years''}'
+      - '{''value'': ''3-4 years''}'
+      - '{''value'': ''4-5 years''}'
+      - '{''value'': ''More than 5 years''}'
+      required: true
+    - id: 8
+      name: job_titles
+      label: Job Titles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''On-site Property Manager''}'
+      - '{''value'': ''Assistant Property Manager''}'
+      - '{''value'': ''Property Manager''}'
+      required: true
+    - id: 9
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: job_types
+      label: Job Types
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''On-site''}'
+      - '{''value'': ''Off-site''}'
+      - '{''value'': ''Office''}'
+      required: true
+    - id: 11
+      name: work_days
+      label: Work Days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monday''}'
+      - '{''value'': ''Tuesday''}'
+      - '{''value'': ''Wednesday''}'
+      - '{''value'': ''Thursday''}'
+      - '{''value'': ''Friday''}'
+      - '{''value'': ''Saturday''}'
+      - '{''value'': ''Sunday''}'
+      required: true
+    - id: 12
+      name: job_schedule
+      label: Job Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Full-time''}'
+      - '{''value'': ''Part-time''}'
+      required: true
+    - id: 13
+      name: availability_1
+      label: Availability 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: availability_2
+      label: Availability 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: availability_3
+      label: Availability 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: availability_4
+      label: Availability 4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: availability_5
+      label: Availability 5
+      hint: null
+      type: date
+      options: []
+      required: false

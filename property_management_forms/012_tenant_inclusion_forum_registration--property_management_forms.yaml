@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Inclusion Forum Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: accessibility_comments
+      label: Accessibility Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: tcf
+      label: Tenant Contact Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: tcf_comments
+      label: Tenant Contact Form Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: attendee_attendance
+      label: Attendee Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_notes_attendee
+      label: Event Notes Attendee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

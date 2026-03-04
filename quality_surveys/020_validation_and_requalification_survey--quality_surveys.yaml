@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Validation And Requalification Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: organization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Value 2''}'
+      required: false
+    - id: 3
+      name: qual
+      label: qualification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: changes_d
+      label: changes
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Value 2''}'
+      required: false
+    - id: 5
+      name: review
+      label: review
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Value 2''}'
+      required: false
+    - id: 6
+      name: qual_date
+      label: qualification period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: requali_date
+      label: requalification period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: quali
+      label: Qualification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Value 2''}'
+      required: false
+    - id: 11
+      name: sta
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Value 2''}'
+      required: false
+    - id: 12
+      name: quali_date
+      label: qualification date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: requali_date
+      label: requalification date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: qual_report
+      label: qualification time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: requali_report
+      label: requalification time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: cha
+      label: changes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Value 1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Value 2''}'
+      required: false

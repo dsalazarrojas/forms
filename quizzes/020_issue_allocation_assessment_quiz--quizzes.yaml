@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: issue-allocation-assessment-quiz
+    pages:
+    - id: 1
+      name: team_members
+      label: team-members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: issue_type
+      label: issue-type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: confidence_score
+      label: confidence-score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confidence_level
+      label: confidence-level
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: allocation_scenario
+      label: allocation-scenario
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: correct_allocation
+      label: correct-allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: actual_allocation
+      label: actual-allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: confidence_score_again
+      label: confidence-score-again
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: correct_allocation_again
+      label: correct-allocation-again
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: correct_allocation_again_comments
+      label: correct-allocation-again-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false

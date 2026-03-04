@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neuropathy Symptom Score Questionnaire
+    pages:
+    - id: 1
+      name: neuropathy_symptom_score_questionnaire
+      label: neuropathy_symptom_score_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: select_one
+      options:
+      - 0 - None
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: false
+    - id: 3
+      name: numbness_score_1_2_3
+      label: numbness_score_1_2_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: numbness_score_4_5_6
+      label: numbness_score_4_5_6
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pain_score_1_2_3
+      label: pain_score_1_2_3
+      hint: null
+      type: select_one
+      options:
+      - 0 - None
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: false
+    - id: 6
+      name: pain_score_4_5_6
+      label: pain_score_4_5_6
+      hint: null
+      type: select_one
+      options:
+      - 0 - None
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: false
+    - id: 7
+      name: weakness_score_1_2_3
+      label: weakness_score_1_2_3
+      hint: null
+      type: select_one
+      options:
+      - 0 - None
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: false
+    - id: 8
+      name: weakness_score_4_5_6
+      label: weakness_score_4_5_6
+      hint: null
+      type: select_one
+      options:
+      - 0 - None
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: false

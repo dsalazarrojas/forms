@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Aspirations Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dreams_and_goals
+      label: What are your long-term dreams or goals?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_projects
+      label: What are you currently working on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: support_network
+      label: Who do you turn to for support?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: aspirations_score
+      label: What score would you give your current aspirations?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: current_projects_score
+      label: What score would you give your current projects?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: support_score
+      label: How supportive do you feel your network is?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: aspirations_type
+      label: What type of aspirations do you have?
+      hint: null
+      type: select_one
+      options:
+      - Career aspirations
+      - Personal aspirations
+      - Financial aspirations
+      - Social aspirations
+      - Recreational aspirations
+      - Spiritual aspirations
+      required: false
+    - id: 9
+      name: current_projects_type
+      label: What type of projects do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Career projects
+      - Personal projects
+      - Financial projects
+      - Social projects
+      - Recreational projects
+      - Spiritual projects
+      required: false

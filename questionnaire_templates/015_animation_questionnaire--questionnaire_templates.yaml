@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Questionnaire
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Your name or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_header
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_title
+      label: Project Title
+      hint: What is your animation project called
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Detailed description of your project
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_purpose
+      label: Purpose of This Animation
+      hint: What is the goal of this project
+      type: select_one
+      options:
+      - Marketing or Advertisement
+      - Educational Content
+      - Entertainment
+      - Corporate Training
+      - Social Media Content
+      - Product Demo
+      - Brand Awareness
+      - Other
+      required: true
+    - id: 10
+      name: target_audience_header
+      label: -- Target Audience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: target_audience
+      label: Who is the target audience
+      hint: Describe your intended viewers
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: audience_age_range
+      label: Age Range of Target Audience
+      hint: Primary age group
+      type: select_one
+      options:
+      - Children (0-12)
+      - Teens (13-18)
+      - Young Adults (19-30)
+      - Adults (31-50)
+      - Seniors (50+)
+      - All Ages
+      - Mixed
+      required: false
+    - id: 13
+      name: animation_style_header
+      label: -- Animation Style and Approach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: animation_style
+      label: Preferred Animation Style
+      hint: What type of animation do you want
+      type: select_one
+      options:
+      - 2D Traditional Animation
+      - 3D CGI Animation
+      - Stop-Motion
+      - Motion Capture
+      - Whiteboard Animation
+      - Explainer Video Style
+      - Cel Animation
+      - Hybrid Approach
+      required: true
+    - id: 15
+      name: visual_style_notes
+      label: Visual Style and Tone
+      hint: Describe the look and feel you want
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reference_materials
+      label: Reference Materials or Inspiration
+      hint: Links or descriptions of visual references
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: technical_specs_header
+      label: -- Technical Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: video_length
+      label: Desired Video Length
+      hint: Duration of final animation
+      type: select_one
+      options:
+      - 15-30 seconds
+      - 30 seconds - 1 minute
+      - 1-2 minutes
+      - 2-5 minutes
+      - 5-10 minutes
+      - 10+ minutes
+      - To be determined
+      required: true
+    - id: 19
+      name: video_resolution
+      label: Required Video Resolution
+      hint: What resolution do you need
+      type: select_one
+      options:
+      - HD (1920x1080)
+      - 4K (3840x2160)
+      - Mobile Optimized
+      - Social Media Format
+      - No preference
+      required: false
+    - id: 20
+      name: frame_rate
+      label: Desired Frame Rate
+      hint: Frames per second
+      type: select_one
+      options:
+      - 24 FPS
+      - 30 FPS
+      - 60 FPS
+      - No preference
+      required: false
+    - id: 21
+      name: timeline_header
+      label: -- Project Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: project_deadline
+      label: Desired Project Completion Date
+      hint: When do you need this finished
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for the project
+      type: select_one
+      options:
+      - Under 5000
+      - 5000-10000
+      - 10000-25000
+      - 25000-50000
+      - 50000+
+      - Budget flexible
+      - To be discussed
+      required: false
+    - id: 24
+      name: specific_requests
+      label: Specific Requests or Requirements
+      hint: Any special needs or constraints
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

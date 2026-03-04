@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Government Purchase Request Form
+    pages:
+    - id: 1
+      name: student_government_purchase_request_form
+      label: Purchase Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_date
+      label: Purchase Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false

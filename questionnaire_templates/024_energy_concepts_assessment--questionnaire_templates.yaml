@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Concepts Assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: energy_questions
+      label: Energy Questions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: energy_knowledge
+      label: Energy Knowledge
+      hint: What do you know about energy concepts?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: energy_answers
+      label: Energy Answers
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: energy_answers_labels
+      label: Energy Answers Labels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: energy_concepts_questions
+      label: Energy Concepts Questions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

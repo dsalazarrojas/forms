@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infection Control And Isolation Assessment Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Please enter the patient's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_service
+      label: Date Of Service
+      hint: Date of service
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: Please enter the patient's symptoms
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exposure_risk
+      label: Exposure Risk
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 7
+      name: exposure_risk_other
+      label: Exposure Risk Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_trace_location
+      label: Contact Trace Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_trace_duration
+      label: Contact Trace Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_trace_method
+      label: Contact Trace Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: symptoms_date
+      label: Symptoms Date
+      hint: Symptoms date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: Symptoms duration
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: isolation_location
+      label: Isolation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: isolation_date
+      label: Isolation Start Date
+      hint: Isolation Start Date
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: isolation_end_date
+      label: Isolation End Date
+      hint: Isolation End Date
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: isolation_dose
+      label: Isolation Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: exposure_risk_other_details
+      label: Exposure Risk Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_trace_location_other
+      label: Contact Trace Location Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_trace_duration_other
+      label: Contact Trace Duration Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_trace_method_other
+      label: Contact Trace Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_transfer
+      label: Patient Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_trace_transfer
+      label: Contact Trace Transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: symptoms_other
+      label: Symptoms Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: symptoms_other_details
+      label: Symptoms Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_trace_status
+      label: Contact Trace Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

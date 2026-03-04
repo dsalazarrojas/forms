@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Story And Chapter Creation Form
+    pages:
+    - id: 1
+      name: story_title
+      label: Story Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story_author
+      label: Story Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: story_genre
+      label: Story Genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: story_character
+      label: Story Character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: chapter_number
+      label: Chapter Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: chapter_content
+      label: Chapter Content
+      hint: Enter the text of the chapter here.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: story_tags
+      label: Story Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

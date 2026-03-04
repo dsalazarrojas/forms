@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional Styles Assessment
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emotional_styles
+      label: Emotional Styles
+      hint: null
+      type: select_multiple
+      options:
+      - Emotional Style 1
+      - Emotional Style 2
+      - Emotional Style 3
+      - Emotional Style 4
+      required: false
+    - id: 3
+      name: emotional_pattern
+      label: Emotional Pattern
+      hint: null
+      type: select_one
+      options:
+      - Dominant
+      - Balanced
+      - Deficient
+      required: false
+    - id: 4
+      name: emotional_level
+      label: Emotional Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emotional_mood
+      label: Emotional Mood
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Calm
+      - Angry
+      required: false
+    - id: 6
+      name: dominant_mood
+      label: Dominant Mood
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Calm
+      - Angry
+      required: false
+    - id: 7
+      name: balanced_mood
+      label: Balanced Mood
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Calm
+      - Angry
+      required: false
+    - id: 8
+      name: deficient_mood
+      label: Deficient Mood
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Calm
+      - Angry
+      required: false
+    - id: 9
+      name: total_emotional_level
+      label: Total Emotional Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emotional_style_score
+      label: Emotional Style Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: emotional_pattern_score
+      label: Emotional Pattern Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: emotional_level_score
+      label: Emotional Level Score
+      hint: null
+      type: number
+      options: []
+      required: false

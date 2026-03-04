@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earnings Improvement Quiz
+    pages:
+    - id: 1
+      name: income_goals
+      label: Income Goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: financial_readiness
+      label: Financial Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      required: false
+    - id: 3
+      name: income_level
+      label: Income Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: income_growth
+      label: Income Growth
+      hint: null
+      type: select_one
+      options:
+      - Less than 10% per year
+      - 10-20%
+      - 21-30%
+      - More than 30%
+      required: false
+    - id: 5
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - 6 months
+      - Yearly
+      required: false
+    - id: 6
+      name: income_stable
+      label: Income Stable
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Somewhat stable
+      - Not stable at all
+      required: false
+    - id: 7
+      name: income_savings
+      label: Income Savings
+      hint: null
+      type: select_one
+      options:
+      - Savings
+      - Spending
+      - Both
+      required: false
+    - id: 8
+      name: income_guaranteed
+      label: Income Guaranteed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: income_investments
+      label: Income Investments
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: income_education
+      label: Income Education
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: income_family_support
+      label: Income Family Support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: income_other
+      label: Income Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: income_other_details
+      label: Income Other Details
+      hint: null
+      type: text
+      options: []
+      required: false

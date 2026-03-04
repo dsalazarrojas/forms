@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: word_and_phrase_generation_survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: page_2
+      label: Page 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Language Ideas and Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page_5
+      label: Contact Information 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: Time of Completion 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: Time of Completion 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: Page 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: false

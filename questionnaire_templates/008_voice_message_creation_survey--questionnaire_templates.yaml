@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: voice-message-creation-survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voice_message_satisfaction
+      label: Voice Message Satisfaction
+      hint: How satisfied are you with our voice messages?
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: voice_message_habits
+      label: Voice Message Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: message_satisfaction_ratings
+      label: Message Satisfaction Ratings
+      hint: Rate your satisfaction with the following messages
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: average_message_satisfaction
+      label: Average Message Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: voice_message_preference
+      label: Voice Message Preference
+      hint: What type of voice message do you prefer?
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      - '{''label'': ''Option 4''}'
+      required: false
+    - id: 7
+      name: message_sentiment
+      label: Message Sentiment
+      hint: What is the sentiment of your last message?
+      type: select_one
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      - '{''label'': ''Neutral''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Your email address (if you want to be contacted)
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Your phone number (if you want to be contacted)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

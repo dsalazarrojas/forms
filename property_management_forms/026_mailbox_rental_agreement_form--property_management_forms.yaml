@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mailbox Rental Agreement Form
+    pages:
+    - id: 1
+      name: mailbox_rental_agreement_form
+      label: Mailbox Rental Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''customer_name'', ''label'': ''Name''}'
+      - '{''id'': 2, ''name'': ''customer_email'', ''label'': ''Email''}'
+      - '{''id'': 3, ''name'': ''customer_phone'', ''label'': ''Phone''}'
+      required: false
+    - id: 3
+      name: mailbox_details
+      label: Mailbox Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''mailbox_number'', ''label'': ''Mailbox Number''}'
+      - '{''id'': 2, ''name'': ''mailbox_size'', ''label'': ''Mailbox Size''}'
+      - '{''id'': 3, ''name'': ''mailbox_type'', ''label'': ''Mailbox Type''}'
+      required: false
+    - id: 4
+      name: rental_agreement
+      label: Rental Agreement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit'', ''label'': ''Submit''}'
+      - Other
+      required: false

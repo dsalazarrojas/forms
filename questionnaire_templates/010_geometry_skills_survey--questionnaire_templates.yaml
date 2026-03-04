@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geometry Skills Survey
+    pages:
+    - id: 1
+      name: geometry_level
+      label: geometry_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: topic_challenges
+      label: topic_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Geometry'': ''Geometry''}'
+      - Measurement
+      - Graphs
+      - Transformations
+      - Angles
+      - Shapes
+      required: false
+    - id: 3
+      name: training_needs
+      label: training_needs
+      hint: null
+      type: select_one
+      options:
+      - '{''Geometry'': ''Confidence''}'
+      - '{''Geometry'': ''Understanding''}'
+      - '{''Geometry'': ''Applying''}'
+      - '{''Geometry'': ''None''}'
+      - '{''Geometry'': ''Other''}'
+      required: true
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: geometry_level_2
+      label: geometry_level_2
+      hint: null
+      type: number
+      options: []
+      required: false

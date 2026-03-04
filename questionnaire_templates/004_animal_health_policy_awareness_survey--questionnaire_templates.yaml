@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Health Policy Awareness Survey
+    pages:
+    - id: 1
+      name: respondent_role
+      label: Respondent role
+      hint: Select the role that best describes you
+      type: select_one
+      options:
+        - Veterinarian
+        - Shelter staff
+        - Volunteer
+        - Pet owner
+        - Researcher
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: familiarity_level
+      label: Familiarity with current animal health policies
+      hint: Rate your familiarity with existing policies
+      type: select_one
+      options:
+        - Very familiar
+        - Somewhat familiar
+        - Not very familiar
+        - Not familiar at all
+      required: true
+    - id: 4
+      name: training_received
+      label: Have you received formal training on policies
+      hint: Indicate if formal training was completed
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 5
+      name: policy_clarity_rating
+      label: Policy clarity rating
+      hint: Rate how clear the written policies are
+      type: select_one
+      options:
+        - Very clear
+        - Clear
+        - Somewhat unclear
+        - Very unclear
+      required: false
+    - id: 6
+      name: policy_applicability_examples
+      label: Examples where policy applicability was challenging
+      hint: Describe any situations where guidance was unclear
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggested_improvements
+      label: Suggested improvements to policy or training
+      hint: Provide concrete suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_for_follow_up
+      label: Contact for follow up
+      hint: Provide an email if you are open to follow up
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: consent_to_share_responses
+      label: Consent to share anonymized responses
+      hint: Responses may be aggregated and shared
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: eating_disorder_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: What is an eating disorder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: demographic_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: eating_habits
+      label: eating_habits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: emotional_stressors
+      label: emotional_stressors
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: eating_patterns
+      label: eating_patterns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: eating_disorder_history
+      label: eating_disorder_history
+      hint: null
+      type: date
+      options: []
+      required: false

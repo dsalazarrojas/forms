@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Energy Interview Questions
+    pages:
+    - id: 1
+      name: interviewee_name
+      label: Name (Optional)
+      hint: Your name if you wish to share
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_date
+      label: Interview Date
+      hint: Date of interview
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: homeowner_status
+      label: Do You Own Your Home
+      hint: Homeownership status
+      type: select_one
+      options:
+      - Yes, Own
+      - No, Rent
+      - Other
+      required: true
+    - id: 5
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: current_energy_source
+      label: Primary Energy Source
+      hint: What is your main energy source?
+      type: select_one
+      options:
+      - Electric
+      - Natural Gas
+      - Propane
+      - Oil
+      - Solar
+      - Other
+      required: true
+    - id: 7
+      name: monthly_energy_cost
+      label: Average Monthly Energy Bill
+      hint: Approximate monthly cost
+      type: select_one
+      options:
+      - Less than $50
+      - $50-$100
+      - $101-$150
+      - $151-$200
+      - $201-$300
+      - More than $300
+      required: true
+    - id: 8
+      name: energy_concerns
+      label: Energy Concerns
+      hint: What are your main concerns?
+      type: select_multiple
+      options:
+      - High Costs
+      - Environmental Impact
+      - Reliability
+      - Power Outages
+      - Lack of Options
+      - None
+      required: true
+    - id: 9
+      name: renewable_interest
+      label: Interest in Renewable Energy
+      hint: Are you interested in renewables?
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Neutral
+      - Not Interested
+      required: true
+    - id: 10
+      name: solar_interest
+      label: Interest in Solar Installation
+      hint: Would you consider solar panels?
+      type: select_one
+      options:
+      - Yes, Already Have
+      - Yes, Planning To
+      - Interested, But Not Ready
+      - Not Interested
+      required: true
+    - id: 11
+      name: solar_barriers
+      label: Barriers to Solar Adoption
+      hint: What prevents you from going solar?
+      type: select_multiple
+      options:
+      - High Upfront Cost
+      - Renting Home
+      - Roof Not Suitable
+      - Lack of Information
+      - HOA Restrictions
+      - Not a Barrier
+      required: false
+    - id: 12
+      name: energy_efficiency_upgrades
+      label: Energy Efficiency Upgrades Made
+      hint: Have you made any upgrades?
+      type: select_multiple
+      options:
+      - LED Lighting
+      - Smart Thermostat
+      - Energy Efficient Appliances
+      - Improved Insulation
+      - New Windows
+      - None
+      required: true
+    - id: 13
+      name: ev_ownership
+      label: Do You Own an Electric Vehicle
+      hint: EV ownership status
+      type: select_one
+      options:
+      - true
+      - No, But Considering
+      - false
+      required: true
+    - id: 14
+      name: ev_charging_needs
+      label: EV Charging Needs
+      hint: Do you need charging infrastructure?
+      type: select_one
+      options:
+      - Yes, Home Charging
+      - Yes, Public Charging
+      - false
+      - Not Applicable
+      required: true
+    - id: 15
+      name: community_program_interest
+      label: Interest in Community Energy Programs
+      hint: Would you participate in local programs?
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: true
+    - id: 16
+      name: program_types
+      label: Programs of Interest
+      hint: What types of programs interest you?
+      type: select_multiple
+      options:
+      - Bulk Solar Purchase
+      - Energy Efficiency Rebates
+      - Community Solar
+      - Educational Workshops
+      - Low-Income Assistance
+      - EV Charging Stations
+      required: false
+    - id: 17
+      name: willingness_to_pay
+      label: Willingness to Pay for Clean Energy
+      hint: Would you pay more for clean energy?
+      type: select_one
+      options:
+      - Yes, Up to 5% More
+      - Yes, Up to 10% More
+      - Yes, Up to 20% More
+      - false
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts on energy?
+      type: text
+      options: []
+      required: false

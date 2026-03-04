@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preference Verification Form
+    pages:
+    - id: 1
+      name: preference_verification_form_1
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preference_1
+      label: Contact Preference 1
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      required: false
+    - id: 7
+      name: preference_2
+      label: Contact Preference 2
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 8
+      name: contact_type_1
+      label: Contact Type 1
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 9
+      name: contact_type_2
+      label: Contact Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 10
+      name: service_selection_1
+      label: Service 1
+      hint: null
+      type: select_one
+      options:
+      - Membership
+      - Membership and Services
+      - Services
+      required: false
+    - id: 11
+      name: service_selection_2
+      label: Service 2
+      hint: null
+      type: select_multiple
+      options:
+      - Membership
+      - Services
+      required: false
+    - id: 12
+      name: service_selection_3
+      label: Service 3
+      hint: null
+      type: select_multiple
+      options:
+      - Membership
+      - Services
+      required: false

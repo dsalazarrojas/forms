@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Questionnaire
+    pages:
+    - id: 1
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hair_type
+      label: Hair Type
+      hint: Swept back, curly, straight, etc.
+      type: select_one
+      options:
+      - Curly
+      - Straight
+      - Wavy
+      - Other
+      required: false
+    - id: 4
+      name: hair_condition
+      label: Hair Condition
+      hint: Dry, damaged, oily, etc.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hair_dryness
+      label: Dryness
+      hint: Dry, normal, oily
+      type: select_multiple
+      options:
+      - Dry
+      - Normal
+      - Oily
+      required: false
+    - id: 6
+      name: hair_damage
+      label: Hair Damage
+      hint: null
+      type: select_one
+      options:
+      - Damaged
+      - Not Damaged
+      required: false
+    - id: 7
+      name: scalp_condition
+      label: Scalp Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_interest
+      label: Product Interest
+      hint: What product are you interested in?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_interest
+      label: Treatment Interest
+      hint: What treatment are you interested in?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_visit
+      label: Previous Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: hair_service
+      label: Hair Service
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut
+      - Coloring
+      - Chemical Treatment
+      - Other
+      required: false

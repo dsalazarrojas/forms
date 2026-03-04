@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bylaw Complaint Form
+    pages:
+    - id: 1
+      name: complaint_date
+      label: Date of Complaint
+      hint: When are you filing this complaint
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: complainant_name
+      label: Complainant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complainant_address
+      label: Your Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complainant_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: complainant_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: can_be_public
+      label: Can Your Name Be Public
+      hint: May complaint be made public
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: true
+    - id: 7
+      name: violation_location
+      label: Location of Violation
+      hint: Address of the violation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: violation_type
+      label: Type of Bylaw Violation
+      hint: Select the violation category
+      type: select_one
+      options:
+      - Property Maintenance
+      - Noise Disturbance
+      - Parking Violation
+      - Zoning Violation
+      - Building Code
+      - Dangerous Condition
+      - Animal Control
+      - Overgrown Property
+      - Other
+      required: true
+    - id: 9
+      name: violation_description
+      label: Description of Violation
+      hint: Detailed explanation of the issue
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: violation_first_noticed
+      label: When Was Violation First Noticed
+      hint: Date first observed
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: violation_ongoing
+      label: Is Violation Ongoing
+      hint: Is this a recurring issue
+      type: select_one
+      options:
+      - Yes, ongoing
+      - No, isolated incident
+      - Intermittent
+      required: true
+    - id: 12
+      name: previous_complaint
+      label: Have You Complained Before
+      hint: Any prior complaints about this
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 13
+      name: property_owner
+      label: Property Owner Name
+      hint: If you know who owns the property
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: documented_evidence
+      label: Documented Evidence Available
+      hint: Photos, videos, or recordings
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will provide
+      - No evidence
+      required: true
+    - id: 15
+      name: witnesses
+      label: Witnesses to Violation
+      hint: Names of people who can verify
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: prior_contact_owner
+      label: Have You Contacted Property Owner
+      hint: Did you try to resolve directly
+      type: select_one
+      options:
+      - Yes, no response
+      - Yes, they refused to fix
+      - No, did not attempt
+      - Do not know owner
+      required: true
+    - id: 17
+      name: requested_action
+      label: Requested Action
+      hint: What would resolve this
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_status
+      label: Is This an Emergency
+      hint: Immediate danger or health hazard
+      type: select_one
+      options:
+      - Yes, emergency
+      - No, not urgent
+      - Somewhat urgent
+      required: true
+    - id: 19
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

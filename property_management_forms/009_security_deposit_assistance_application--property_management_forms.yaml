@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Deposit Assistance Application
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: Applicant First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_last_name
+      label: Applicant Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: property_street
+      label: Property Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_city
+      label: Property City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_state
+      label: Property State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_zip
+      label: Property Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_country
+      label: Property Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: security_deposit_type
+      label: Security Deposit Type
+      hint: null
+      type: select_one
+      options:
+      - Landlord
+      - Property Manager
+      - Other
+      required: false
+    - id: 13
+      name: security_deposit_amount
+      label: Security Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: security_deposit_status
+      label: Security Deposit Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Applied
+      - Approved
+      - Denied
+      - Exempt
+      - Other
+      required: false
+    - id: 15
+      name: applicant_income
+      label: Applicant Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: applicant_employment_status
+      label: Applicant Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Disabled
+      required: false
+    - id: 17
+      name: applicant_lease_start_date
+      label: Applicant Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: applicant_lease_end_date
+      label: Applicant Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: applicant_move_in_date
+      label: Applicant Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: move_in_support_needed
+      label: Move In Support Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Utilities
+      - Deposit
+      - Other
+      required: false
+    - id: 21
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submit_button_label
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submit_button
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false

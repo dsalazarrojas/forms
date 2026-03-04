@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Researcher Type Identification Survey
+    pages:
+    - id: 1
+      name: researcher_type
+      label: Researcher Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: research_habits
+      label: Research Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: research_motivations
+      label: Research Motivations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: outreach_programs
+      label: Outreach Programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: support_programs
+      label: Support Programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: research_team
+      label: Research Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_location
+      label: Research Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_focus_area
+      label: Research Focus Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

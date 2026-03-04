@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pituitary Adenoma Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pituitary_adenoma_symptoms
+      label: pituitary_adenoma_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pituitary_adenoma_risk_factors
+      label: pituitary_adenoma_risk_factors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment
+      label: treatment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false

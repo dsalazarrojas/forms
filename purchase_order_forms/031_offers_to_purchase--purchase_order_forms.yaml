@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: offers_to_purchase
+    pages:
+    - id: 1
+      name: offer_submission
+      label: Offer Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_info
+      label: buyer_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: property_info
+      label: property_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Other
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: offer_date
+      label: Offer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: offer_time
+      label: Offer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: offer_price
+      label: Offer Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: offer_terms
+      label: Offer Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: offer_terms_other
+      label: Other terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: offer_terms_other_text
+      label: Other terms
+      hint: null
+      type: text
+      options: []
+      required: false

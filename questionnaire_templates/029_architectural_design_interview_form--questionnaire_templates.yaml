@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Design Interview Form
+    pages:
+    - id: 1
+      name: section_candidate_info
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_applying
+      label: Position Applying For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_background
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_experience
+      label: Years of Design Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: specializations
+      label: Areas of Specialization
+      hint: null
+      type: select_multiple
+      options:
+      - Residential design
+      - Commercial design
+      - Interior design
+      - Landscape design
+      - Urban design
+      - Sustainable design
+      - Digital design
+      required: true
+    - id: 10
+      name: previous_projects
+      label: Previous Notable Projects
+      hint: List 3-5 key projects
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_technical_skills
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: software_proficiency
+      label: Design Software Proficiency
+      hint: List CAD, BIM, 3D modeling tools, etc
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: bim_experience
+      label: BIM (Building Information Modeling) Experience
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Basic
+      - No experience
+      required: false
+    - id: 14
+      name: section_design_philosophy
+      label: -- Design Philosophy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: design_approach
+      label: Describe Your Design Approach
+      hint: How do you approach design problems?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: inspiration_sources
+      label: What Inspires Your Design Work?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: design_trends
+      label: Current Design Trends You Follow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_collaboration
+      label: -- Collaboration and Teamwork --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: team_preference
+      label: Team Size Preference
+      hint: null
+      type: select_one
+      options:
+      - Solo projects
+      - Small team (2-5)
+      - Medium team (6-15)
+      - Large team (15+)
+      required: false
+    - id: 20
+      name: collaboration_experience
+      label: Experience Working with Architects and Engineers
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: false
+    - id: 21
+      name: conflict_resolution
+      label: How do you handle design disagreements?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: portfolio_url
+      label: Portfolio or Website URL
+      hint: null
+      type: text
+      options: []
+      required: false

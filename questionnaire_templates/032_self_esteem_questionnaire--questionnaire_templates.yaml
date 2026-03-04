@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Esteem Questionnaire
+    pages:
+    - id: 1
+      name: self_esteem_questionnaire_page_1
+      label: self_esteem_questionnaire_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: self_esteem_confidence_levels
+      label: self_estem_confidence_levels
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: self_esteem_progress_tracking
+      label: self_estem_progress_tracking
+      hint: null
+      type: text
+      options: []
+      required: false

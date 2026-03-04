@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrolysis Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_date
+      label: treatment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: treatment_type
+      label: treatment_type
+      hint: null
+      type: select_one
+      options:
+      - Electrolysis
+      - Chemical
+      - Facial
+      - Other
+      - Microdermabrasion
+      required: false
+    - id: 4
+      name: skin_condition
+      label: skin_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Fine lines and wrinkles
+      - Rosacea
+      - Hyper-pigmentation
+      - Age spots
+      - Skin tags
+      - Blemishes
+      required: false
+    - id: 5
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: medical_supervision
+      label: medical_supervision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: medical_supervision_reason
+      label: medical_supervision_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_supervision_note
+      label: medical_supervision_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_contact
+      label: medical_contact
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Dentist
+      - Other
+      required: false
+    - id: 14
+      name: medical_contact_phone
+      label: medical_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renter Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_status
+      label: Renter Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Non-Active
+      - Pending
+      required: true
+    - id: 6
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Apartment
+      - House
+      - Condo
+      - Duplex
+      - Single Family Home
+      required: true
+    - id: 11
+      name: renter_type
+      label: Renter Type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Family
+      - Organization
+      required: true
+    - id: 12
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lease_length
+      label: Lease Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: move_in_date2
+      label: Move In Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: move_out_date2
+      label: Move Out Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: bedrooms
+      label: Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: bathrooms
+      label: Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: parking
+      label: Parking
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Yes - Parking Lot
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jeans Style Awareness Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Quiz Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: jeans_facts
+      label: What is denim?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: styles
+      label: What are the different styles of jeans?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fabrics
+      label: What are the key fabric components of denim?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: zippers
+      label: What are the common zipper types for jeans?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: washing
+      label: How do I wash my jeans?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fading
+      label: How do I maintain the color of my jeans?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: alterations
+      label: Can I alter my jeans?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: repair
+      label: How do I repair my jeans?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

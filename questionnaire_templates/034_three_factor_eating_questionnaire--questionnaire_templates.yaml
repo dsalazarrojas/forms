@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Three Factor Eating Questionnaire
+    pages:
+    - id: 1
+      name: eating_habits
+      label: How do you usually eat?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: false
+    - id: 2
+      name: hunger_level
+      label: Hunger level when eating
+      hint: null
+      type: select_one
+      options:
+      - Not Hungry
+      - A little hungry
+      - Hungry
+      - Very hungry
+      required: false
+    - id: 3
+      name: portion_size
+      label: What is your usual portion size?
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Very Large
+      required: false
+    - id: 4
+      name: meal_frequency
+      label: How many meals do you usually eat per day?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - 4+
+      required: false
+    - id: 5
+      name: water_intake
+      label: How much water do you drink daily?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exercise_level
+      label: What level of physical activity do you perform on a daily basis?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: stress_level
+      label: How would you rate your stress level?
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: eating_frequency
+      label: Eating frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Snack
+      - Lunch
+      - Dinner
+      required: false
+    - id: 9
+      name: eating_patterns
+      label: Do you have any eating patterns or habits?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: food_preferences
+      label: Do you have any food preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: food_aversion
+      label: Are there any foods you are not willing to eat?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Do you have any medical conditions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: What medications are you taking?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Do you have any food allergies?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 15
+      name: sleep_quality
+      label: What is your sleep quality?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 16
+      name: sleep_duration
+      label: How many hours of sleep do you get per night?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1
+      - 1-2
+      - 3-4
+      - 5 or more
+      required: false
+    - id: 17
+      name: wake_up_time
+      label: What is your wake-up time?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 18
+      name: wake_up_time_specific
+      label: At what specific time do you usually wake up?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: wake_up_time_custom
+      label: If other, specify wake up time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: bedtime
+      label: At what time do you usually go to bed?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: sleep_schedule
+      label: Do you have a set sleep schedule?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: false
+    - id: 22
+      name: meal_planning
+      label: Do you plan your meals?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: meal_planning_foods
+      label: Which foods do you usually plan?
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 24
+      name: meal_planning_frequency
+      label: How often do you plan your meals?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      required: false
+    - id: 25
+      name: comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

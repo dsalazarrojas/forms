@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Tax Questionnaire
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn_last_four
+      label: Last Four Digits of SSN
+      hint: For verification purposes
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tax_year
+      label: Tax Year for This Return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: filing_status
+      label: Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married filing jointly
+      - Married filing separately
+      - Head of household
+      - Qualifying widow(er)
+      required: true
+    - id: 6
+      name: dependents_count
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: income_header
+      label: -- Income Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: w2_income
+      label: W2 or Salary Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: self_employment_income
+      label: Self-Employment Income
+      hint: Gross income from business
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rental_income
+      label: Rental Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: investment_income
+      label: Investment Income (Interest, Dividends)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: capital_gains
+      label: Capital Gains or Losses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: other_income
+      label: Other Income Sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: deduction_header
+      label: -- Potential Deductions --
+      hint: Mark items you purchased or paid for
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: has_business_expenses
+      label: Did You Have Business Expenses?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: medical_expenses
+      label: Did You Pay Significant Medical Expenses?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: charitable_contributions
+      label: Did You Make Charitable Contributions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: mortgage_interest
+      label: Paid Mortgage Interest?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: property_taxes
+      label: Paid Property Taxes?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: student_loan_interest
+      label: Paid Student Loan Interest?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: education_expenses
+      label: Paid Education Expenses?
+      hint: Tuition, books, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: home_office
+      label: Do You Have a Home Office?
+      hint: Qualifying business use
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: vehicle_mileage
+      label: Business Vehicle Mileage
+      hint: Estimated miles driven for business
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: credits_header
+      label: -- Tax Credits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: child_tax_credit
+      label: Do You Have Qualifying Children?
+      hint: For child tax credit
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: dependent_care
+      label: Did You Pay for Dependent Care?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 27
+      name: additional_questions
+      label: Any Other Tax Situations or Questions?
+      hint: null
+      type: text
+      options: []
+      required: false

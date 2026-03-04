@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Learning Outcome Feedback Questionnaire
+    pages:
+    - id: 1
+      name: workshop_learning_outcome_feedback_questionnaire
+      label: workshop_feedback_questionnaire
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: workshop_effectiveness
+      label: workshop_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: learning_outcome_measures
+      label: learning_outcome_measures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participants_feedback
+      label: participants_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: trainers_feedback
+      label: trainers_feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: facilitators_feedback
+      label: facilitators_feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_id
+      label: session_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: workshop_name
+      label: workshop_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: workshop_id
+      label: workshop_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: participants
+      label: participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: session_location
+      label: session_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: session_length
+      label: session_length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: session_start_time
+      label: session_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: session_end_time
+      label: session_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: session_end_session
+      label: end_session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: session_start_session
+      label: start_session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_completion_status
+      label: form_completion_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

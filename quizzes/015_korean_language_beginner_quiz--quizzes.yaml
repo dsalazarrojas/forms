@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Korean Language Beginner Quiz
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: level
+      label: Level
+      hint: Beginner, intermediate or advanced
+      type: select_one
+      options:
+      - '{''value'': ''Beginner''}'
+      - '{''value'': ''Intermediate''}'
+      - '{''value'': ''Advanced''}'
+      required: false
+    - id: 6
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quiz_type
+      label: Quiz Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Multiple Choice''}'
+      - '{''value'': ''True/False''}'
+      - '{''value'': ''Short Answer''}'
+      required: false
+    - id: 8
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Grammar''}'
+      - '{''value'': ''Vocabulary''}'
+      - '{''value'': ''Reading''}'
+      required: false
+    - id: 9
+      name: score_range
+      label: Score Range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1-5''}'
+      - '{''value'': ''6-10''}'
+      - '{''value'': ''11-15''}'
+      - '{''value'': ''16-20''}'
+      - '{''value'': ''21-25''}'
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: note
+      options: []
+      required: false

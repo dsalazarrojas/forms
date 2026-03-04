@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editing Tools Assessment
+    pages:
+    - id: 1
+      name: tool_usage
+      label: Tool usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_satisfaction
+      label: Team satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: feature_needs
+      label: Feature needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: software_usage
+      label: Software usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_needs
+      label: Training needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tool_selection
+      label: Tool selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_contact
+      label: Email Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_contact
+      label: Phone Contact
+      hint: null
+      type: text
+      options: []
+      required: false

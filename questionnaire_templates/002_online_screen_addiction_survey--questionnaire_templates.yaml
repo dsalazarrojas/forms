@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Screen Addiction Survey
+    pages:
+    - id: 1
+      name: intro_questionnaire
+      label: Intro Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: screen_use
+      label: Screen Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: screen_addiction_scale
+      label: Screen Addiction Scale
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not at all
+      - 2 - Moderately
+      - 3 - A lot
+      - 4 - Extremely
+      required: false
+    - id: 4
+      name: screen_addiction_behaviors
+      label: Screen Addiction Behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - Excessive social media use
+      - Excessive gaming
+      - Compulsive shopping
+      - Excessive internet use for work
+      - Compulsive watching videos
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

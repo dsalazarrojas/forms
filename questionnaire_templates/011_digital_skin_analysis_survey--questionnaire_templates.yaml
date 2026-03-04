@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Skin Analysis Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Normal''}'
+      - '{''value'': ''Dry''}'
+      - '{''value'': ''Sensitive''}'
+      - '{''value'': ''Oily''}'
+      - '{''value'': ''Combination''}'
+      required: true
+    - id: 7
+      name: skin
+      label: Skin
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: skin_analysis_method
+      label: Skin Analysis Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Visual''}'
+      - '{''value'': ''Manual''}'
+      - '{''value'': ''Digital''}'
+      required: false
+    - id: 11
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''French''}'
+      - '{''value'': ''Deutsch''}'
+      required: true
+    - id: 12
+      name: skin_color
+      label: Skin Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: salonguest
+      label: Salon Guest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: salons
+      label: Salon
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 16
+      name: skincare_products
+      label: Skincare Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 18
+      name: follow_up_frequency
+      label: Follow up Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 19
+      name: follow_up_method
+      label: Follow up Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: skin_treatment_pros
+      label: Skin Treatment Pros
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_pros
+      label: Follow up Pros
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: salons
+      label: Salon
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 24
+      name: skincare_products_pros
+      label: Skincare Products Pros
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: salonguest
+      label: Salon Guest
+      hint: null
+      type: text
+      options: []
+      required: false

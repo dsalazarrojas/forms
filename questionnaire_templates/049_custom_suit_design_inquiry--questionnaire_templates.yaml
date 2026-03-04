@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Suit Design Inquiry
+    pages:
+    - id: 1
+      name: custom_suit_design_inquiry_form
+      label: Custom Suit Design Inquiry Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: design_preferences
+      label: Custom Suit Design Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''color'', ''label'': ''What color would you prefer?'',
+        ''value'': ''Black''}'
+      - '{''id'': 20, ''name'': ''color'', ''label'': ''White''}'
+      - '{''id'': 30, ''name'': ''color'', ''label'': ''Red''}'
+      required: true
+    - id: 3
+      name: measurement_details
+      label: Measurement Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: body_type
+      label: What is your body type?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 40, ''name'': ''slim_fit'', ''label'': ''Slim Fit''}'
+      - '{''id'': 50, ''name'': ''regular_fit'', ''label'': ''Regular Fit''}'
+      - '{''id'': 60, ''name'': ''athletic_fit'', ''label'': ''Athletic Fit''}'
+      required: true
+    - id: 5
+      name: jacket_length
+      label: What is your preferred jacket length?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''name'': ''short_jacket'', ''label'': ''Short''}'
+      - '{''id'': 110, ''name'': ''long_jacket'', ''label'': ''Long''}'
+      - '{''id'': 120, ''name'': ''three_quarter_length'', ''label'': ''Three-quarter
+        length''}'
+      required: true
+    - id: 6
+      name: sleeves_length
+      label: What is your preferred sleeve length?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 140, ''name'': ''short_sleeves'', ''label'': ''Short''}'
+      - '{''id'': 150, ''name'': ''long_sleeves'', ''label'': ''Long''}'
+      - '{''id'': 160, ''name'': ''three_quarter_sleeves'', ''label'': ''Three-quarter
+        sleeves''}'
+      required: false
+    - id: 7
+      name: pants_length
+      label: What is your preferred pant length?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 180, ''name'': ''short_pants'', ''label'': ''Short''}'
+      - '{''id'': 190, ''name'': ''long_pants'', ''label'': ''Long''}'
+      - '{''id'': 200, ''name'': ''three_quarter_pants'', ''label'': ''Three-quarter
+        pants''}'
+      required: false
+    - id: 8
+      name: pants_style
+      label: What style of pants would you prefer?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 220, ''name'': ''formal_pants'', ''label'': ''Formal''}'
+      - '{''id'': 230, ''name'': ''casual_pants'', ''label'': ''Casual''}'
+      - '{''id'': 240, ''name'': ''athletic_pants'', ''label'': ''Athletic''}'
+      required: false
+    - id: 9
+      name: fabric_type
+      label: What fabric type would you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 260, ''name'': ''cotton'', ''label'': ''Cotton''}'
+      - '{''id'': 270, ''name'': ''wool'', ''label'': ''Wool''}'
+      - '{''id'': 280, ''name'': ''linen'', ''label'': ''Linen''}'
+      required: false
+    - id: 10
+      name: pants_color
+      label: What color of pants would you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 300, ''name'': ''black'', ''label'': ''Black''}'
+      - '{''id'': 310, ''name'': ''gray'', ''label'': ''Gray''}'
+      - '{''id'': 320, ''name'': ''beige'', ''label'': ''Beige''}'
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: custom_suit_message
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: shirt_size
+      label: What is your shirt size?
+      hint: null
+      type: number
+      options: []
+      required: true

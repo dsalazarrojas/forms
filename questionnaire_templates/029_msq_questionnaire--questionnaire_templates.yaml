@@ -1,0 +1,387 @@
+inputSchema:
+  type: object
+  properties:
+    title: MSQ Questionnaire
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: pain_frequency
+      label: Pain frequency
+      hint: How often do you experience a migraine?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 3
+      name: pain_severity
+      label: Pain severity
+      hint: null
+      type: select_one
+      options:
+      - mild
+      - moderate
+      - severe
+      required: false
+    - id: 4
+      name: pain_characteristics
+      label: Pain characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - Aura duration
+      - Sphenoid pain
+      - Visual aura
+      - Auditory symptoms
+      required: false
+    - id: 5
+      name: disability_days
+      label: Disability days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 7
+      name: workdays
+      label: Workdays
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 8
+      name: social_activities
+      label: Social activities
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 9
+      name: sleep_quality
+      label: Sleep quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: workdays_missed
+      label: Workdays missed
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 11
+      name: disability_work
+      label: Disability work
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 12
+      name: disability_social
+      label: Disability social
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 13
+      name: disability_family
+      label: Disability family
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 14
+      name: disability_personal
+      label: Disability personal
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 15
+      name: disability_recreational
+      label: Disability recrea
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 16
+      name: disability_leisure
+      label: Disability leisure
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 17
+      name: disability_hobbies
+      label: Disability hobbies
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 18
+      name: disability_home
+      label: Disability home
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 19
+      name: disability_travel
+      label: Disability travel
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 20
+      name: disability_relationships
+      label: Disability relationships
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 21
+      name: disability_school
+      label: Disability school
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 22
+      name: disability_work
+      label: Disability work
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 23
+      name: disability_leisure
+      label: Disability leisure
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 24
+      name: disability_social
+      label: Disability social
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false
+    - id: 25
+      name: disability_home
+      label: Disability home
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      required: false

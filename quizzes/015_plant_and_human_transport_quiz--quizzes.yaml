@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: plant_and_human_transport_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: plant_transport
+      label: plant_transport
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: human_transport
+      label: human_transport
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: transport_in_plant_and_human
+      label: transport_in_plant_and_human
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: science_classes_tutoring_and_homeschool_evaluation
+      label: science_classes_tutoring_and_homeschool_evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: fast_online_data_collection
+      label: fast_online_data_collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

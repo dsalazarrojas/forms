@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transcript Formatting Preference Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_categories
+      label: Form Categories
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: form_requirements
+      label: Transcript Requirements
+      hint: Please specify the transcript requirement.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: delivery_format
+      label: Delivery Format
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: delivery_timeframe
+      label: Time Frame
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_language
+      label: Form Language
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: form_timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: form_timezone_aware
+      label: Time Zone Aware
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_file_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

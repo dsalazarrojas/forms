@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Supplies Purchase Request Form
+    pages:
+    - id: 1
+      name: purchase_request
+      label: Purchase Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Sales''}'
+      - '{''value'': ''Support''}'
+      required: true
+    - id: 4
+      name: items_requested
+      label: Items Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

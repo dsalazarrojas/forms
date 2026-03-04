@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Diagnosis Questionnaire
+    pages:
+    - id: 1
+      name: section_diagnosis_questionnaire_intro
+      label: -- Community Diagnosis Questionnaire --
+      hint: Your feedback helps us diagnose and address our community's needs!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_full_name_dia
+      label: Full Name of Resident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_email_dia
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resident_phone_dia
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_address_dia
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_diagnosis_needs_assess_dia
+      label: -- Diagnosis and Needs Assessment --
+      hint: Assess the areas and issues that matter most to you.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: community_needs_priority_dia
+      label: Which area in our community needs the most attention or development
+      hint: Select your top priority
+      type: select_one
+      options:
+      - Public Health and Safety
+      - Economic Development
+      - Education and Schools
+      - Housing and Real Estate
+      - Parks and Recreation
+      - Social Services and Support
+      required: true
+    - id: 8
+      name: top_community_issues_dia
+      label: What are the biggest issues you see in our community
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of Affordable Housing
+      - High Crime/Safety Concerns
+      - Poor Public Transit
+      - Declining Infrastructure
+      - Lack of Community Programs
+      - Unsafe Environment/Pollution
+      required: true
+    - id: 9
+      name: section_diagnosis_satisfaction_dia
+      label: -- Community Satisfaction and Engagement --
+      hint: Tell us about your satisfaction and engagement.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_community_satisfaction_dia
+      label: Rate your overall satisfaction with our community's conditions
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: service_satisfaction_dia
+      label: Rate your satisfaction with current community services
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: community_engagement_opinion_dia
+      label: How well do you feel engaged in community decision-making
+      hint: null
+      type: select_one
+      options:
+      - Very well engaged
+      - Somewhat engaged
+      - Unengaged
+      required: true
+    - id: 13
+      name: improvement_ideas_diagnosis_dia
+      label: What are your ideas for diagnosing and improving our community
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_final_submission_dia
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: resident_signature_digital_dia
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date_final_dia
+      label: Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: newsletter_opt_in_dia
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 18
+      name: referral_source_dia
+      label: How did you hear about this diagnosis questionnaire
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 19
+      name: emergency_contact_full_name_dia
+      label: Emergency Contact Person
+      hint: Someone not living with the resident
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone_dia
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

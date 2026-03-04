@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resource Development Assessment
+    pages:
+    - id: 1
+      name: internal_feedback
+      label: Feedback From Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: resource_adequacy
+      label: Resource Adequacy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: resource_challenges
+      label: Challenges
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: priority_areas
+      label: Priority Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: internal_communication
+      label: Internal Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: manager_responses
+      label: Manager Responses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: hr_responses
+      label: HR Responses
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: external_feedback
+      label: External Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

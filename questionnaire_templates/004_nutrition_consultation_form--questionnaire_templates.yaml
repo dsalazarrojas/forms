@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Consultation Form
+    pages:
+    - id: 1
+      name: consultation_details
+      label: consultation details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consultation_notes
+      label: consultation notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_nutritional_status
+      label: patient nutritional status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: nutritional_goals
+      label: nutritional goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider
+      label: healthcare provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: date_visited
+      label: date visited
+      hint: null
+      type: date
+      options: []
+      required: false

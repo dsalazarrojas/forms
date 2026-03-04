@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Creation Roadmap
+    pages:
+    - id: 1
+      name: founder_information
+      label: -- Founder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: founder_name
+      label: Founder Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: founder_email
+      label: Email Address
+      hint: Your business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: founder_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_experience
+      label: Years of Business Experience
+      hint: How many years?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: business_idea
+      label: -- Business Idea --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: What will you call it?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_description
+      label: Business Description
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industry_type
+      label: Industry Type
+      hint: What industry?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_market
+      label: Target Market
+      hint: Who are your customers?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: problem_solved
+      label: Problem You Solve
+      hint: What problem does your business solve?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: unique_value
+      label: Unique Value Proposition
+      hint: What makes you different?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_structure
+      label: -- Business Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: business_type
+      label: Business Structure
+      hint: Select your structure
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - S-Corp
+      - Non-Profit
+      - Cooperative
+      required: true
+    - id: 15
+      name: co_founders
+      label: Number of Co-Founders
+      hint: How many founders?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: financial_planning
+      label: -- Financial Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: startup_cost
+      label: Estimated Startup Costs
+      hint: Total estimated investment
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: funding_sources
+      label: Funding Sources
+      hint: Where will money come from?
+      type: select_multiple
+      options:
+      - Personal Savings
+      - Small Business Loan
+      - Venture Capital
+      - Angel Investment
+      - Crowdfunding
+      - Grants
+      - Friends and Family
+      required: true
+    - id: 19
+      name: funding_needed
+      label: Total Funding Needed
+      hint: Amount needed in currency
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: projected_revenue
+      label: Year 1 Projected Revenue
+      hint: Expected first year revenue
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: launch_milestones
+      label: -- Launch Milestones --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: business_registration
+      label: Business Registration Target Date
+      hint: When will you register?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: product_launch
+      label: Product or Service Launch Date
+      hint: When will you launch?
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: break_even_timeline
+      label: Expected Break-Even Timeline
+      hint: How many months to break even?
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

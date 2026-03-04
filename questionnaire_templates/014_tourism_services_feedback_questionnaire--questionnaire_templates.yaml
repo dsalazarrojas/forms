@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourism Services Feedback Questionnaire
+    pages:
+    - id: 1
+      name: intro_question
+      label: Intro Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_question
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      required: false
+    - id: 4
+      name: tour_guide
+      label: Tour Guide
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

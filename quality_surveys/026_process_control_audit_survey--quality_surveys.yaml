@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Control Audit Survey
+    pages:
+    - id: 1
+      name: process_control_form
+      label: Process Controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: process_steps
+      label: Process Steps
+      hint: List all process steps in the following list.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: control_evaluation
+      label: Control Evaluation
+      hint: Evaluate process controls using the checklist.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: corrective_actions
+      label: Corrective Actions
+      hint: List all corrective actions taken.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: continuous_improvement
+      label: Continuous Improvement
+      hint: Describe continuous improvement opportunities.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: process_outputs
+      label: Process Outputs
+      hint: List all process outputs or products.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: control_outputs
+      label: Control Outputs
+      hint: List all control outputs or results.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Validation And Requalification Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What is your current status?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: qualification_status
+      label: What is your current qualification status?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: changes_documented
+      label: Have you documented any changes?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: review_processes
+      label: What are your review processes like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: What feedback do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: changes_frequency
+      label: How often do you document changes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback_frequency
+      label: How often do you give feedback?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: review_frequency
+      label: How often do you review processes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

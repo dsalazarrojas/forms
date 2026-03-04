@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Quality Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_meta_header
+      label: -- Quality Evaluation Metadata --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: batch_id_number
+      label: Batch ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: visual_inspection_header
+      label: -- Visual and Physical Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: appearance_check
+      label: Product Appearance Consistency
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Minor Defect
+      - Major Defect (Fail)
+      required: true
+    - id: 8
+      name: packaging_integrity
+      label: Packaging Integrity Check
+      hint: Are seals and labels correct?
+      type: select_one
+      options:
+      - Excellent
+      - Acceptable
+      - Unacceptable
+      required: true
+    - id: 9
+      name: testing_header
+      label: -- Functional and Laboratory Testing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lab_test_result_ph
+      label: Lab Test Result - pH Value
+      hint: Target Range 5.5 - 6.5
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: lab_test_result_moisture
+      label: Lab Test Result - Moisture Content (%)
+      hint: Target < 5.0%
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: functional_compliance
+      label: Does the batch meet all functional specifications?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: overall_quality_rating
+      label: Overall Batch Quality Rating
+      hint: 5 being highest quality
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: disposition_recommendation
+      label: Final Disposition Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Release to Inventory
+      - Quarantine for Re-testing
+      - Rework Required
+      - Scrap/Reject
+      required: true
+    - id: 15
+      name: comments_section
+      label: Evaluation Comments and Observations
+      hint: null
+      type: text
+      options: []
+      required: false

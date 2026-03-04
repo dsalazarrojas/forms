@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessory Dwelling Unit Survey
+    pages:
+    - id: 1
+      name: section_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Full street address where the ADU is located
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Primary Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single-family home
+      - Duplex
+      - Townhouse
+      - Multi-family property
+      - Other
+      required: true
+    - id: 7
+      name: section_adu_details
+      label: -- ADU Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: adu_type
+      label: Type of Accessory Dwelling Unit
+      hint: null
+      type: select_one
+      options:
+      - Detached (separate structure)
+      - Attached (addition to main home)
+      - Converted garage
+      - Basement conversion
+      - Above-garage unit
+      - Internal conversion
+      required: true
+    - id: 9
+      name: adu_square_footage
+      label: Approximate Square Footage of ADU
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_bedrooms
+      label: Number of Bedrooms in ADU
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: year_built_or_converted
+      label: Year ADU Was Built or Converted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: adu_current_use
+      label: Current Use of ADU
+      hint: null
+      type: select_one
+      options:
+      - Long-term rental
+      - Short-term rental (Airbnb, VRBO, etc.)
+      - Family member housing
+      - Home office or studio
+      - Vacant or unused
+      - Other
+      required: true
+    - id: 13
+      name: monthly_rental_income
+      label: Monthly Rental Income (if applicable)
+      hint: Enter 0 if not rented
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_challenges
+      label: -- Challenges and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: permitting_difficulty
+      label: How Difficult Was the Permitting Process
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      - Did not go through permitting
+      required: true
+    - id: 16
+      name: challenges_faced
+      label: Challenges Faced During ADU Development
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Zoning restrictions
+      - High construction costs
+      - Financing difficulties
+      - Permitting delays
+      - Neighbor opposition
+      - Utility connection issues
+      - None
+      required: true
+    - id: 17
+      name: total_construction_cost
+      label: Approximate Total Construction or Conversion Cost
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: would_build_again
+      label: Would You Build or Convert an ADU Again
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments About Your ADU Experience
+      hint: null
+      type: text
+      options: []
+      required: false

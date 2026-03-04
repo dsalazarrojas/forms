@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pretrial Release Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_release
+      label: Reason For Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attorney_name
+      label: Attorney Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attorney_phone
+      label: Attorney Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: release_status
+      label: Release Status
+      hint: null
+      type: select_one
+      options:
+      - Released
+      - Not Released
+      - Pending
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pretrial_release_request_id
+      label: Pretrial Release Request ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: court_case_number
+      label: Court Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pretrial_release_form_id
+      label: Pretrial Release Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: release_agreement_signed
+      label: Release Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true

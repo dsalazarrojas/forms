@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scoliosis Quality Of Life Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_first_scoliosis_diagnosis
+      label: date_first_scoliosis_diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: scoliosis_surgery
+      label: scoliosis_surgery
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 4
+      name: scoliosis_type
+      label: scoliosis_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cervical''}'
+      - '{''id'': 2, ''label'': ''Lumbar''}'
+      - '{''id'': 3, ''label'': ''Thoracic''}'
+      - '{''id'': 4, ''label'': ''Thoracocervical''}'
+      - '{''id'': 5, ''label'': ''Double''}'
+      required: true
+    - id: 5
+      name: pain_average_score
+      label: pain_average_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pain_location
+      label: pain_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pain_description
+      label: pain_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: functional_limitations
+      label: functional_limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pain_frequency
+      label: pain_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scoliosis_bracing
+      label: scoliosis_bracing
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 11
+      name: scoliosis_back_surgery
+      label: scoliosis_back_surgery
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 12
+      name: scoliosis_kyphosis
+      label: scoliosis_kyphosis
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 13
+      name: scoliosis_scoliosis
+      label: scoliosis_scoliosis
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 14
+      name: scoliosis_fatigue
+      label: scoliosis_fatigue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 15
+      name: scoliosis_breathing_difficulty
+      label: scoliosis_breathing_difficulty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 16
+      name: scoliosis_sleep_difficulty
+      label: scoliosis_sleep_difficulty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 17
+      name: scoliosis_pain_interference
+      label: scoliosis_pain_interference
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 18
+      name: scoliosis_physical_activity
+      label: scoliosis_physical_activity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 19
+      name: scoliosis_scoliosis_clinic_visits
+      label: scoliosis_scoliosis_clinic_visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: scoliosis_scoliosis_clinic_frequency
+      label: scoliosis_scoliosis_clinic_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: scoliosis_scoliosis_clinician_visits
+      label: scoliosis_scoliosis_clinician_visits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: scoliosis_scoliosis_clinician_frequency
+      label: scoliosis_scoliosis_clinician_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: scoliosis_scoliosis_clinician_other_visits
+      label: scoliosis_scoliosis_clinician_other_visits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: scoliosis_scoliosis_clinician_other_visit_frequency
+      label: scoliosis_scoliosis_clinician_other_visit_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: scoliosis_notes
+      label: scoliosis_notes
+      hint: null
+      type: text
+      options: []
+      required: false

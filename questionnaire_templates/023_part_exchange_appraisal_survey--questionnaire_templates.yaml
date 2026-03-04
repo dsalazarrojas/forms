@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Part Exchange Appraisal Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_contact_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone_number
+      label: customer-phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: vehicle-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_make
+      label: vehicle-make
+      hint: null
+      type: select_one
+      options:
+      - Value A
+      - Value B
+      - Value C
+      required: false
+    - id: 6
+      name: vehicle_model
+      label: vehicle-model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_vehicle_identification_number_vin
+      label: vehicle-vin
+      hint: null
+      type: text
+      options: []
+      required: false

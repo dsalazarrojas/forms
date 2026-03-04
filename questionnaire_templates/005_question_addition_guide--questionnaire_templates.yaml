@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Question Addition Guide
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Quiz''}'
+      - '{''id'': 2, ''label'': ''Assessment''}'
+      - '{''id'': 3, ''label'': ''Survey''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ChatJot''}'
+      - '{''id'': 2, ''label'': ''FormJot''}'
+      required: false
+    - id: 6
+      name: form_id_2
+      label: form_id_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by_2
+      label: submitted_by_2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitted_at_2
+      label: submitted_at_2
+      hint: null
+      type: time
+      options: []
+      required: false

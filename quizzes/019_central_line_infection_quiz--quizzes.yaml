@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Central Line Infection Quiz
+    pages:
+    - id: 1
+      name: quiz_taker_info_header
+      label: -- Quiz Taker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quiz_taker_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_taker_email
+      label: Email Address
+      hint: To receive your quiz results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: quiz_taker_role
+      label: Job Role
+      hint: Select your current position
+      type: select_one
+      options:
+      - Registered Nurse
+      - Physician
+      - Medical Student
+      - Nursing Student
+      - Other Healthcare Professional
+      required: true
+    - id: 5
+      name: prevention_knowledge_header
+      label: -- Knowledge Check - Prevention --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: common_infection_cause
+      label: Most Common Cause of Central Line Infections
+      hint: Select the most frequent pathogen
+      type: select_one
+      options:
+      - Staphylococcus aureus
+      - Pseudomonas aeruginosa
+      - Escherichia coli
+      - Klebsiella pneumoniae
+      required: true
+    - id: 7
+      name: recommended_hand_hygiene
+      label: Recommended Hand Hygiene for Line Insertion
+      hint: Select the best practice for hand cleaning
+      type: select_multiple
+      options:
+      - Soap and Water
+      - Alcohol-based Hand Rub
+      - Chlorhexidine Hand Wash
+      required: true
+    - id: 8
+      name: insertion_maintenance_header
+      label: -- Insertion and Maintenance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_insertion_site
+      label: Preferred Site for Adult Central Line Placement
+      hint: Which site has the lowest infection risk
+      type: select_one
+      options:
+      - Subclavian Vein
+      - Internal Jugular Vein
+      - Femoral Vein
+      required: true
+    - id: 10
+      name: central_line_bundle_components
+      label: Components of the Central Line Bundle
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hand Hygiene
+      - Maximal Barrier Precautions
+      - Chlorhexidine Skin Antisepsis
+      - Optimal Site Selection
+      - Daily Review of Necessity
+      required: true
+    - id: 11
+      name: troubleshooting_symptoms_header
+      label: -- Troubleshooting and Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: crbsi_symptom_indicator
+      label: Most Indicative Symptom of CRBSI
+      hint: Catheter-Related Bloodstream Infection indicator
+      type: select_one
+      options:
+      - Fever and Chills
+      - Redness at the Insertion Site
+      - Localized Swelling
+      - High Blood Pressure
+      required: true
+    - id: 13
+      name: policy_compliance_header
+      label: -- Policy and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: dressing_change_frequency
+      label: Dressing Change Frequency (Not Soiled)
+      hint: Frequency for transparent dressings
+      type: select_one
+      options:
+      - Daily
+      - Every 48 Hours
+      - Every 7 Days
+      - Every 14 Days
+      required: true
+    - id: 15
+      name: quiz_certification_header
+      label: -- Final Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: independence_certification
+      label: Independence Certification
+      hint: I certify that I have completed this quiz independently
+      type: select_one
+      options:
+      - Yes - I Certify
+      - Other
+      required: true
+    - id: 17
+      name: quiz_completion_date
+      label: Date of Quiz
+      hint: null
+      type: date
+      options: []
+      required: true

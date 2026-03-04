@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_day_survey
+    pages:
+    - id: 1
+      name: reported_date
+      label: Reported date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: wedding_day
+      label: Wedding day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: wedding_day_holiday
+      label: Wedding day holiday
+      hint: null
+      type: select_multiple
+      options:
+      - Christmas
+      - Valentine's Day
+      required: false
+    - id: 4
+      name: reported_time
+      label: Reported time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: wedding_venue
+      label: Wedding Venue
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Restaurant
+      - Park
+      - Garden
+      - Beach
+      - Hotel
+      - Resort
+      - Other
+      - Venue
+      required: false
+    - id: 6
+      name: wedding_time
+      label: Wedding time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wedding_venue_details
+      label: Wedding venue details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wedding_dress_code
+      label: Wedding dress code
+      hint: null
+      type: select_one
+      options:
+      - Black Tie
+      - Semi-formal
+      - Formal
+      - Casual
+      - Beachwear
+      - Other
+      required: false
+    - id: 9
+      name: number_of_guests
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: number_of_children
+      label: Number of children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_gifts
+      label: Number of gifts
+      hint: null
+      type: number
+      options: []
+      required: false

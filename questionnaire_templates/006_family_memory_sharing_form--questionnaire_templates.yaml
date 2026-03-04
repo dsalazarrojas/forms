@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Memory Sharing Form
+    pages:
+    - id: 1
+      name: family_member_name
+      label: Family Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_to_head_of_household
+      label: Relationship To Head Of Household
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Other
+      required: true
+    - id: 3
+      name: name_of_head_of_household
+      label: Name Of Head Of Household
+      hint: Full legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: story
+      label: Story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: media_files
+      label: Media Files
+      hint: null
+      type: select_multiple
+      options:
+      - Photo
+      - Video
+      - Audio
+      required: true
+    - id: 6
+      name: family_member_email
+      label: Family Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: family_member_phone
+      label: Family Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: head_of_household_phone
+      label: Head Of Household Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_member_dob
+      label: Family Member DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: head_of_household_dob
+      label: Head Of Household DOB
+      hint: null
+      type: date
+      options: []
+      required: false

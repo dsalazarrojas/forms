@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Diagnosis Questionnaire
+    pages:
+    - id: 1
+      name: business_overview
+      label: -- Business Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: What type of business do you operate
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_operating
+      label: Years in Operation
+      hint: How long has business existed
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Current annual revenue
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: employee_count
+      label: Number of Employees
+      hint: Current staff size
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: financial_health
+      label: -- Financial Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: revenue_trend
+      label: Revenue Trend
+      hint: Is revenue going up or down
+      type: select_one
+      options:
+      - Increasing
+      - Stable
+      - Declining
+      - Volatile
+      required: true
+    - id: 9
+      name: profit_margin
+      label: Profit Margin
+      hint: Current profit margin percentage
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cash_flow_status
+      label: Cash Flow Status
+      hint: How is your cash position
+      type: select_one
+      options:
+      - Strong positive
+      - Adequate
+      - Tight
+      - Struggling
+      - Crisis
+      required: true
+    - id: 11
+      name: debt_level
+      label: Debt Level
+      hint: Amount of outstanding debt
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cost_control
+      label: Cost Control Status
+      hint: Are you controlling costs well
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: operational_issues
+      label: -- Operational Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: major_problems
+      label: Major Problems Facing Business
+      hint: Most significant issues
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: productivity
+      label: Employee Productivity
+      hint: How productive is your team
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: quality_issues
+      label: Quality Issues
+      hint: Product or service quality problems
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: process_efficiency
+      label: Process Efficiency
+      hint: How efficient are operations
+      type: select_one
+      options:
+      - Very Efficient
+      - Efficient
+      - Average
+      - Inefficient
+      - Very Inefficient
+      required: true
+    - id: 18
+      name: market_performance
+      label: -- Market Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: market_share
+      label: Market Share Position
+      hint: Your position in the market
+      type: select_one
+      options:
+      - Market Leader
+      - Strong Competitor
+      - Stable Player
+      - Struggling
+      - New/Emerging
+      required: true
+    - id: 20
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: How satisfied are customers
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Average
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 21
+      name: competition_threat
+      label: Competition Threat Level
+      hint: How threatened by competition
+      type: select_one
+      options:
+      - Low Threat
+      - Moderate Threat
+      - High Threat
+      - Critical Threat
+      required: true
+    - id: 22
+      name: growth_strategy
+      label: -- Growth and Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: growth_rate
+      label: Current Growth Rate
+      hint: Percentage growth year-over-year
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: strategic_focus
+      label: Current Strategic Focus
+      hint: What are you focusing on
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: future_outlook
+      label: Future Outlook
+      hint: Your perspective on future
+      type: select_one
+      options:
+      - Very Optimistic
+      - Optimistic
+      - Uncertain
+      - Pessimistic
+      - Very Pessimistic
+      required: true

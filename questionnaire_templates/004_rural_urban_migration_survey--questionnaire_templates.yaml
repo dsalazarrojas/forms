@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: rural_urban_migration_survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: reason_mig
+      label: reason_for_migrating
+      hint: null
+      type: select_one
+      options:
+      - Reason 1
+      - Reason 2
+      required: true
+    - id: 3
+      name: age
+      label: current_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: income_source
+      label: current_income_source
+      hint: Income source of the household
+      type: select_multiple
+      options:
+      - Agriculture
+      - Employment
+      - Remittances
+      required: true
+    - id: 5
+      name: urban_residence_duration
+      label: how_long_resided_in_urban_area
+      hint: null
+      type: select_one
+      options:
+      - 0-5 Years
+      - 5-10 Years
+      - '> 10 Years'
+      required: true
+    - id: 6
+      name: reason_urban
+      label: reason_for_residing_urban
+      hint: null
+      type: select_multiple
+      options:
+      - Reason 1
+      - Reason 2
+      required: true
+    - id: 7
+      name: challenges_in_urban
+      label: challenges_facing_while_migrating
+      hint: null
+      type: select_multiple
+      options:
+      - Challenge 1
+      - Challenge 2
+      required: true
+    - id: 8
+      name: settlement_plan
+      label: what_is_your_settlement_plan
+      hint: null
+      type: select_one
+      options:
+      - Plan 1
+      - Plan 2
+      required: true
+    - id: 9
+      name: field_9
+      label: Field 9
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: field_10
+      label: Field 10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: field_11
+      label: Field 11
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: field_12
+      label: Field 12
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: field_13
+      label: Field 13
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: field_14
+      label: Field 14
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: field_15
+      label: Field 15
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: field_16
+      label: Field 16
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: field_17
+      label: Field 17
+      hint: null
+      type: number
+      options: []
+      required: true

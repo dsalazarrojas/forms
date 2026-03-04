@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sale Authorization Form
+    pages:
+    - id: 1
+      name: property_sale_authorization_form
+      label: Property Sale Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_contact_email
+      label: Owner Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agent_contact_number
+      label: Agent Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sale_status
+      label: Sale Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sale_date_time
+      label: Sale Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: sale_confirmation_date
+      label: Sale Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: sale_confirmation_time
+      label: Sale Confirmation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: property_sale_confirmation
+      label: Property Sale Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Pending
+      - Denied
+      required: false
+    - id: 15
+      name: sale_confirmation_method
+      label: Sale Confirmation Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - In-Person Meeting
+      required: false
+    - id: 16
+      name: sales_contact_person
+      label: Sales Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

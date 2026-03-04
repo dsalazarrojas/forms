@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Search And Filter Form
+    pages:
+    - id: 1
+      name: section_search_criteria
+      label: -- Search and Filter Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: search_by_name_keyword
+      label: Search by Character Name or Keyword
+      hint: Enter the name or a part of the character's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: filter_by_role_type
+      label: Filter by Character Role
+      hint: Select the role(s) you are looking for
+      type: select_multiple
+      options:
+      - Protagonist
+      - Antagonist
+      - Supporting Character
+      - Mentor
+      - Foil
+      - Narrative Device
+      required: false
+    - id: 4
+      name: filter_by_current_status
+      label: Filter by Current Status
+      hint: Select the character's status in the story
+      type: select_one
+      options:
+      - Active (Alive and Participating)
+      - Inactive (Off-screen or Retired)
+      - Deceased
+      - Unknown
+      required: false
+    - id: 5
+      name: section_alignment_and_traits
+      label: -- Alignment and Traits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: filter_by_moral_alignment
+      label: Filter by Moral Alignment
+      hint: Select the character's moral stance
+      type: select_one
+      options:
+      - Lawful Good
+      - Neutral Good
+      - Chaotic Good
+      - Lawful Neutral
+      - True Neutral
+      - Chaotic Neutral
+      - Lawful Evil
+      - Neutral Evil
+      - Chaotic Evil
+      required: false
+    - id: 7
+      name: filter_by_primary_trait
+      label: Filter by Primary Character Trait
+      hint: Select a core characteristic to filter by
+      type: select_one
+      options:
+      - Brave and Courageous
+      - Intelligent and Analytical
+      - Rebellious and Independent
+      - Empathetic and Caring
+      - Ambitious and Driven
+      - Reserved and Stoic
+      required: false
+    - id: 8
+      name: filter_by_power_level_range
+      label: Filter by Power Level Range
+      hint: Select the approximate power level
+      type: select_one
+      options:
+      - Low (Entry Level)
+      - Medium (Experienced)
+      - High (Expert)
+      - God-Like (Supreme)
+      required: false
+    - id: 9
+      name: section_story_and_world
+      label: -- Story and World Filters --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: filter_by_origin_homeland
+      label: Filter by Place of Origin or Homeland
+      hint: Where is the character from?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: filter_by_story_arc_appearance
+      label: Filter by Story Arc Appearance
+      hint: Select the arc(s) where the character appears
+      type: select_multiple
+      options:
+      - Arc 1 - The Beginning
+      - Arc 2 - The Conflict
+      - Arc 3 - The Climax
+      - Arc 4 - The Resolution
+      required: false
+    - id: 12
+      name: section_search_finalization
+      label: -- Search Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: results_sorting_preference
+      label: Results Sorting Preference
+      hint: How would you like the results to be ordered?
+      type: select_one
+      options:
+      - Alphabetical (A-Z)
+      - Most Recent Update
+      - By Power Level (High to Low)
+      - By Role Importance
+      required: true
+    - id: 14
+      name: accuracy_confirmation_search_user
+      label: Confirmation of Search Criteria
+      hint: I confirm that I want to search based on these filters
+      type: select_one
+      options:
+      - I Confirm and Search
+      - Other
+      required: true
+    - id: 15
+      name: date_of_search_log_entry
+      label: Date of Search
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_search_comments
+      label: Additional Search Comments
+      hint: Any other specific requirements for your search
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notification_request_new_matches
+      label: Would you like to be notified of new matching characters?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please notify me
+      - No, thank you
+      required: false

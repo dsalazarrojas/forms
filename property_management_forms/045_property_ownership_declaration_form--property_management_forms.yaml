@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Ownership Declaration Form
+    pages:
+    - id: 1
+      name: property_ownership_declaration_form
+      label: property_ownership_declaration_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_country
+      label: owner_country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''United States''}'
+      - '{''id'': 2, ''name'': ''Canada''}'
+      - '{''id'': 3, ''name'': ''Australia''}'
+      required: true
+    - id: 6
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Residential'', ''label'': ''Residential''}'
+      - '{''id'': 2, ''name'': ''Commercial'', ''label'': ''Commercial''}'
+      - '{''id'': 3, ''name'': ''Agricultural'', ''label'': ''Agricultural''}'
+      - '{''id'': 4, ''name'': ''Recreational'', ''label'': ''Recreational''}'
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_of_acquisition
+      label: date_of_acquisition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: date_of_death
+      label: date_of_death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_of_last_update
+      label: date_of_last_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: owner_status
+      label: owner_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Retired''}'
+      - '{''id'': 3, ''name'': ''Inactive''}'
+      - '{''id'': 4, ''name'': ''Deceased''}'
+      - '{''id'': 5, ''name'': ''Unknown''}'
+      required: true
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_document
+      label: property_document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: witness_signature
+      label: witness_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: witness_name
+      label: witness_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: witness_address
+      label: witness_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_country
+      label: witness_country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''United States''}'
+      - '{''id'': 2, ''name'': ''Canada''}'
+      - '{''id'': 3, ''name'': ''Australia''}'
+      required: true
+    - id: 20
+      name: witness_phone
+      label: witness_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: witness_email
+      label: witness_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: witness_status
+      label: witness_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Retired''}'
+      - '{''id'': 3, ''name'': ''Inactive''}'
+      - '{''id'': 4, ''name'': ''Deceased''}'
+      - '{''id'': 5, ''name'': ''Unknown''}'
+      required: false
+    - id: 23
+      name: date_of_witness_signature
+      label: date_of_witness_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: date_of_witness_last_update
+      label: date_of_witness_last_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: declaration_signed_by
+      label: declaration_signed_by
+      hint: null
+      type: text
+      options: []
+      required: true

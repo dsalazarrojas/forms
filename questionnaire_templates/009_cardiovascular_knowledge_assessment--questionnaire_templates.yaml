@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular Knowledge Assessment
+    pages:
+      - id: 1
+        name: participant_details
+        label: -- Participant Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Full name of participant
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email
+        hint: Optional contact email
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: q_heart_attack_signs
+        label: Recognize heart attack signs
+        hint: Which of the following are common signs
+        type: select_multiple
+        options:
+          - Chest discomfort
+          - Shortness of breath
+          - Nausea or lightheadedness
+          - Back or jaw pain
+        required: true
+      - id: 5
+        name: q_heart_risk_factors
+        label: Major heart disease risk factors
+        hint: Select known major risk factors
+        type: select_multiple
+        options:
+          - High blood pressure
+          - Smoking
+          - High cholesterol
+          - Diabetes
+        required: true
+      - id: 6
+        name: q_preventive_measures
+        label: Effective preventive measures
+        hint: Choose all that apply
+        type: select_multiple
+        options:
+          - Regular exercise
+          - Healthy diet
+          - Smoking cessation
+          - Regular screening
+        required: true
+      - id: 7
+        name: self_rated_knowledge
+        label: Self rated heart health knowledge
+        hint: How confident are you about heart health topics
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Neutral
+          - Not confident
+        required: false
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Practices Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Enter your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Your work email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - Operations
+          - Human Resources
+          - Finance
+          - Marketing
+          - Sales
+          - IT
+          - Customer Service
+          - Research and Development
+          - Quality Assurance
+          - Management
+          - Other
+        required: true
+      - id: 4
+        name: role
+        label: Your Role
+        hint: What is your job title or role
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: tenure
+        label: How Long Have You Worked Here
+        hint: Duration of employment
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - 5 to 10 years
+          - Over 10 years
+        required: true
+      - id: 6
+        name: process_documentation
+        label: How Well Are Processes Documented
+        hint: Rate the quality of process documentation
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: process_adoption
+        label: How Well Are Best Practices Adopted
+        hint: Rate the adoption level in your team
+        type: select_one
+        options:
+          - Fully Adopted
+          - Mostly Adopted
+          - Partially Adopted
+          - Rarely Adopted
+          - Not Adopted
+        required: true
+      - id: 8
+        name: training_effectiveness
+        label: How Effective Is Training on Best Practices
+        hint: Rate the training you have received
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Not Very Effective
+          - No Training Received
+        required: true
+      - id: 9
+        name: barriers_to_adoption
+        label: Barriers to Best Practice Adoption
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Lack of Time
+          - Lack of Resources
+          - Insufficient Training
+          - Unclear Guidelines
+          - Resistance to Change
+          - Outdated Technology
+          - Lack of Management Support
+          - Competing Priorities
+          - None
+          - Other
+        required: true
+      - id: 10
+        name: communication_quality
+        label: Quality of Communication About Best Practices
+        hint: How well are updates communicated
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: management_support
+        label: Level of Management Support
+        hint: How supportive is management of best practices
+        type: select_one
+        options:
+          - Very Supportive
+          - Supportive
+          - Neutral
+          - Somewhat Unsupportive
+          - Unsupportive
+        required: true
+      - id: 12
+        name: resource_availability
+        label: Availability of Resources
+        hint: Do you have the resources needed to follow best practices
+        type: select_one
+        options:
+          - Always Available
+          - Mostly Available
+          - Sometimes Available
+          - Rarely Available
+          - Never Available
+        required: true
+      - id: 13
+        name: compliance_rate
+        label: Estimated Compliance Rate in Your Team
+        hint: What percentage of team members follow best practices
+        type: select_one
+        options:
+          - 90 to 100 percent
+          - 75 to 89 percent
+          - 50 to 74 percent
+          - 25 to 49 percent
+          - Less than 25 percent
+        required: true
+      - id: 14
+        name: most_effective_practices
+        label: Most Effective Best Practices in Your Area
+        hint: Which practices have been most beneficial
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: improvement_opportunities
+        label: Areas for Improvement
+        hint: What best practices need improvement
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: suggested_changes
+        label: Suggested Changes or Additions
+        hint: What new practices would you recommend
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: success_stories
+        label: Share a Success Story
+        hint: Describe a time when following best practices led to success
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments about best practices in your organization
+        type: text
+        options: []
+        required: false

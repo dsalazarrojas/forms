@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: frostbite-awareness-and-prevention-quiz
+    pages:
+    - id: 1
+      name: frostbite_knowledge
+      label: frostbite-knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: frostbite_prevention
+      label: frostbite-prevention
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: frostbite_risk
+      label: frostbite-risk
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frostbite_training_needs
+      label: frostbite-training-needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: frostbite_knowledge_confidence
+      label: frostbite-knowledge-confidence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: frostbite_training_needs_2
+      label: frostbite-training-needs-2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: frostbite_prevention_methods
+      label: frostbite-prevention-methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: frostbite_quiz_complete
+      label: frostbite-quiz-complete
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: frostbite_comments
+      label: frostbite-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: frostbite_email
+      label: frostbite-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: frostbite_phone
+      label: frostbite-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: frostbite_name
+      label: frostbite-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: frostbite_age
+      label: frostbite-age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: frostbite_location
+      label: frostbite-location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: frostbite_organization
+      label: frostbite-organization
+      hint: null
+      type: text
+      options: []
+      required: true

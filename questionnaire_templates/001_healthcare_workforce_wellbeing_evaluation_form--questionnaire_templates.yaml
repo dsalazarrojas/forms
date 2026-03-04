@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Workforce Wellbeing Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wellbeing_scale
+      label: How do you rate your overall wellbeing?
+      hint: Scale from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: physical_health
+      label: How do you rate your physical health?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mental_health
+      label: How do you rate your mental health?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emotional_wellbeing
+      label: How do you rate your prophets emotional wellbeing?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: social_health
+      label: How do you rate your social health?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_life_balance
+      label: What do you think is the most important thing you can do to improve your
+        work life balance?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_enviroment
+      label: What kind of work environment do youประก
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_support
+      label: How would you rate your team support?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: work_life_balance_2
+      label: Do you feel you have a good balance between work and personal life?
+      hint: null
+      type: select_one
+      options:
+      - Work life balance is not important
+      - Somewhat important
+      - Very important
+      - Extremely important
+      required: false
+    - id: 11
+      name: burnout
+      label: Burnout
+      hint: null
+      type: select_multiple
+      options:
+      - Physical demands of the job
+      - Emotional demands of the job
+      - Work environment
+      - Lack of work life balance
+      - Lack of recognition
+      - Lack of control
+      - Poor leadership
+      - Poor communication
+      - Lack of autonomy
+      - Conflict with colleagues
+      - Other (please describe)
+      required: false

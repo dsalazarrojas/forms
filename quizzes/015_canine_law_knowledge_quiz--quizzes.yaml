@@ -1,0 +1,257 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Canine Law Knowledge Quiz
+    pages:
+      - id: 1
+        name: intro_header
+        label: -- Canine Law Knowledge Quiz --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: intro_text
+        label: Test your knowledge of canine-related laws and regulations. This quiz helps us assess community awareness about dog ownership and responsibility.
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: participant_info_header
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: email_address
+        label: Email Address
+        hint: Optional - to receive results
+        type: email
+        options: []
+        required: false
+      - id: 6
+        name: dog_owner
+        label: Are you a dog owner?
+        hint: Select one
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Former owner"
+          - "Considering owning"
+        required: true
+      - id: 7
+        name: professional_background
+        label: Professional Background
+        hint: Select one
+        type: select_one
+        options:
+          - Dog owner or enthusiast
+          - Veterinary professional
+          - Dog trainer or behaviorist
+          - Law enforcement
+          - Legal professional
+          - Community member
+          - Other
+        required: false
+      - id: 8
+        name: quiz_section_1
+        label: "-- Section 1: Liability and Responsibility --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: question_1
+        label: Question 1 - In most jurisdictions, who is liable for injuries caused by a dog?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - The dog
+          - The dog owner
+          - The property owner where the incident occurred
+          - The insurance company
+          - All of the above
+        required: true
+      - id: 10
+        name: question_2
+        label: Question 2 - What is a "one bite rule"?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - The dog is allowed one bite before legal action
+          - Dogs must bite only once
+          - It means owners are not liable for first incidents
+          - It limits dog breeding to one litter
+          - It is a feeding guideline
+        required: true
+      - id: 11
+        name: question_3
+        label: Question 3 - What type of dog insurance protects against liability?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Health insurance
+          - Liability insurance
+          - Life insurance
+          - Car insurance
+          - All insurance types cover this
+        required: true
+      - id: 12
+        name: quiz_section_2
+        label: "-- Section 2: Licensing and Registration --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: question_4
+        label: Question 4 - In most places, is dog licensing mandatory?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - "Yes, it is required by law"
+          - "No, it is voluntary"
+          - "Yes, but only for certain breeds"
+          - "Only in urban areas"
+          - "It varies by jurisdiction"
+        required: true
+      - id: 14
+        name: question_5
+        label: Question 5 - What is the primary purpose of dog licensing?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Revenue generation
+          - Rabies tracking and public safety
+          - Dog breeding control
+          - Insurance requirements
+          - It has no specific purpose
+        required: true
+      - id: 15
+        name: quiz_section_3
+        label: "-- Section 3: Dangerous and Vicious Dogs --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: question_6
+        label: Question 6 - What defines a "dangerous dog" in most jurisdictions?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - A dog that is aggressive in appearance
+          - A dog that has injured or killed an animal or person
+          - Any large breed dog
+          - A dog that barks frequently
+          - A dog without vaccination
+        required: true
+      - id: 17
+        name: question_7
+        label: Question 7 - What is breed-specific legislation?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Laws that promote specific breeds
+          - Laws targeting specific breeds for restriction or banning
+          - Laws about dog breeding requirements
+          - Laws about dog food and nutrition
+          - Laws about dog training
+        required: true
+      - id: 18
+        name: quiz_section_4
+        label: "-- Section 4: Animal Welfare Laws --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: question_8
+        label: Question 8 - What constitutes animal abuse?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Failure to provide adequate food and water
+          - Failure to provide shelter
+          - Physical beatings or torture
+          - Neglect of medical care
+          - All of the above
+          - None of the above
+        required: true
+      - id: 20
+        name: question_9
+        label: Question 9 - Who can report suspected animal abuse?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - Only police officers
+          - Only veterinarians
+          - Only animal control officers
+          - Any concerned citizen
+          - Only elected officials
+        required: true
+      - id: 21
+        name: quiz_section_5
+        label: "-- Section 5: Leash and Restraint Laws --"
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: question_10
+        label: Question 10 - In most areas, are dogs required to be leashed in public?
+        hint: Select the best answer
+        type: select_one
+        options:
+          - "Yes, always"
+          - "No, never"
+          - "Only in certain areas"
+          - "Only during certain hours"
+          - "It varies by location and circumstance"
+        required: true
+      - id: 23
+        name: final_section
+        label: -- Final Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: difficulty_rating
+        label: How difficult was this quiz?
+        hint: Rate the difficulty
+        type: select_one
+        options:
+          - Too Easy
+          - Appropriate Difficulty
+          - Challenging
+          - Very Difficult
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Any additional comments?
+        hint: Optional feedback
+        type: text
+        options: []
+        required: false

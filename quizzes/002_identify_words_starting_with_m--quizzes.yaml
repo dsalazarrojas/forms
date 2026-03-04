@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identify Words Starting With M
+    pages:
+    - id: 1
+      name: page_one
+      label: word_list
+      hint: null
+      type: select_multiple
+      options:
+      - apple
+      - mouse
+      - mat
+      required: false
+    - id: 2
+      name: page_two
+      label: answer_sheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_three
+      label: student_answers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_four
+      label: results_table
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page_five
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false

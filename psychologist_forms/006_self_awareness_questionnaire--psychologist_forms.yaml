@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Awareness Questionnaire
+    pages:
+    - id: 1
+      name: self_awareness_questionnaire
+      label: How would you rate your self-awareness level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: self_awareness_feelings
+      label: How would you feel about your feelings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: self_awareness_person
+      label: Who is the person you are
+      hint: null
+      type: select_one
+      options:
+      - I'm an introvert
+      - I'm extrovert
+      - I'm a mix
+      required: true
+    - id: 4
+      name: self_awareness_emotions
+      label: How do you express your emotions
+      hint: null
+      type: select_multiple
+      options:
+      - Anger
+      - Fear
+      - Sadness
+      - Joy
+      - '{''Other - Specify'': None}'
+      required: true
+    - id: 5
+      name: self_awareness_thinking
+      label: How would you describe your thinking style
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Optimistic
+      - Pessimistic
+      - '{''Other - Specify'': None}'
+      required: true
+    - id: 6
+      name: self_awareness_behaviors
+      label: Describe a behavior that shows self-awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: self_awareness_values
+      label: What is important to you in life
+      hint: null
+      type: select_multiple
+      options:
+      - Love
+      - Respect
+      - Honesty
+      - '{''Other - Specify'': None}'
+      required: true
+    - id: 8
+      name: self_awareness_goals
+      label: What are your short term goals
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term goals
+      - Long-term goals
+      - '{''Other - Specify'': None}'
+      required: true
+    - id: 9
+      name: self_awareness_values_important
+      label: What is most important to you
+      hint: null
+      type: select_multiple
+      options:
+      - Love
+      - Respect
+      - Honesty
+      - '{''Other - Specify'': None}'
+      required: true
+    - id: 10
+      name: self_awareness_goals_important
+      label: Why are your goals important
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: self_awareness_conclusion
+      label: What did you learn about yourself
+      hint: null
+      type: select_multiple
+      options:
+      - Self-awareness
+      - Mindfulness
+      - '{''Other - Specify'': None}'
+      required: true
+    - id: 12
+      name: self_awareness_reflection
+      label: What did you do to become more self-aware
+      hint: null
+      type: text
+      options: []
+      required: false

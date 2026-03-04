@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: knowledge_transfer_between_faculties_survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: survey_question_1
+      label: What are the barriers to knowledge sharing between faculties?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: survey_question_2
+      label: What methods have been used to share knowledge between faculties?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: survey_question_3
+      label: What are the methods that would be effective for knowledge sharing between
+        faculties?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: conclusion_page
+      label: Conclusion Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: thank_you_page
+      label: Thank You Page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

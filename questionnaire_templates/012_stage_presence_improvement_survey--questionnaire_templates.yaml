@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Presence Improvement Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: self_assessment
+      label: Self-Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coaching_feedback
+      label: Coaching Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performer_satisfaction
+      label: Performer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: student_satisfaction
+      label: Student Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: speaker_satisfaction
+      label: Speaker Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: performer_coaching
+      label: Performer Coaching
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: performance_coaching
+      label: Performance Coaching
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: performer_coaching_feedback
+      label: Performer Coaching Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: speaker_coaching_feedback
+      label: Speaker Coaching Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

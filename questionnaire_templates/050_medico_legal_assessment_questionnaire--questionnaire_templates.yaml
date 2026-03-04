@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: medico_legal_assessment_questionnaire
+    pages:
+    - id: 1
+      name: medico_legal_details
+      label: Medico legal details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_capture
+      label: Consent capture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: assessment_time
+      label: Assessment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_phone
+      label: Patient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinic_name
+      label: Clinic name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessor_name
+      label: Assessor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assessment_reason
+      label: Assessment reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_status
+      label: Consent status
+      hint: null
+      type: select_one
+      options:
+      - Not Obtained
+      - Obtained
+      - Unknown
+      required: false
+    - id: 11
+      name: assessment_outcome
+      label: Assessment outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Negative
+      - Positive
+      - Neutral
+      - Unknown
+      required: false
+    - id: 12
+      name: assessment_outcome_comments
+      label: Assessment outcome comments
+      hint: null
+      type: text
+      options: []
+      required: false

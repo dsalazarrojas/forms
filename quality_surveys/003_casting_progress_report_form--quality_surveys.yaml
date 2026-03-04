@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Progress Report Form
+    pages:
+    - id: 1
+      name: section_report_header
+      label: -- Report Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: production_name
+      label: Production Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporting_officer
+      label: Reporting Officer
+      hint: Name of casting director or production manager
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_casting_status
+      label: -- Casting Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_roles_to_cast
+      label: Total Roles to Cast
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: roles_filled
+      label: Roles Filled
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: overall_progress_percentage
+      label: Overall Progress Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: casting_status
+      label: Casting Status
+      hint: null
+      type: select_one
+      options:
+      - On Schedule
+      - Behind Schedule
+      - Ahead of Schedule
+      - On Hold
+      required: true
+    - id: 10
+      name: section_activity_summary
+      label: -- Activity Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: auditions_held
+      label: Auditions Held This Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: callbacks_scheduled
+      label: Callbacks Scheduled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: offers_made
+      label: Offers Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: offers_accepted
+      label: Offers Accepted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_key_updates
+      label: -- Key Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: major_milestones
+      label: Major Milestones Achieved
+      hint: Key roles filled, breakthrough discoveries
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: outstanding_challenges
+      label: Outstanding Challenges
+      hint: Difficult roles, scheduling conflicts
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quality_assessment
+      label: Quality Assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      required: true
+    - id: 19
+      name: section_issues_actions
+      label: -- Issues & Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: open_issues
+      label: Open Issues or Concerns
+      hint: Any problems encountered during casting
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: action_items
+      label: Follow-up Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: timeline_adjustments
+      label: Timeline Adjustments Needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: next_steps
+      label: Next Steps
+      hint: Planned activities for next reporting period
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: approval_name
+      label: Approved By
+      hint: Supervisor or producer name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false

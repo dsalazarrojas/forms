@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Money Conversion Quiz
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: conversion_type
+      label: conversion_type
+      hint: null
+      type: select_one
+      options:
+      - Euro
+      - USD
+      - AUD
+      - JPY
+      - CNY
+      required: false
+    - id: 3
+      name: base_currency
+      label: base_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 4
+      name: conversion_rate
+      label: conversion_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: result
+      label: result
+      hint: null
+      type: select_multiple
+      options:
+      - correct
+      - incorrect
+      required: false
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_comments
+      label: user_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: timestamp
+      label: timestamp
+      hint: null
+      type: date
+      options: []
+      required: false

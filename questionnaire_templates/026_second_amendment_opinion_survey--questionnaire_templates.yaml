@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Second Amendment Opinion Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: second_amendment_rights
+      label: Gun rights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: safety_concerns
+      label: Safety concerns
+      hint: Scale from 1-10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gun_laws
+      label: Gun laws
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: gun_safety_measures
+      label: Gun safety measures
+      hint: null
+      type: select_multiple
+      options:
+      - Mandatory background checks
+      - Red flag laws
+      - Gun safety education
+      required: false
+    - id: 6
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: false
+    - id: 7
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Suburban
+      - Rural
+      required: false
+    - id: 8
+      name: gun_ownership
+      label: Gun ownership
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: safety_policies
+      label: Safety policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: gun_safety_education
+      label: Gun safety education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: opinion
+      label: Opinion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: final_comments
+      label: Final comments
+      hint: null
+      type: note
+      options: []
+      required: false

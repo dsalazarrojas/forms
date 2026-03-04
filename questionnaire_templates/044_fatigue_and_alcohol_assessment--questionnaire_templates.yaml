@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fatigue And Alcohol Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fatigue_scale
+      label: Fatigue Scale
+      hint: On a scale of 1-10, how would you rate your level of fatigue?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than 1 time
+      - 1 time
+      - More than 1 time
+      required: false
+    - id: 4
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_multiple
+      options:
+      - No medication
+      - Morning medication
+      - Afternoon medication
+      - Evening medication
+      - Nighttime medication
+      required: false
+    - id: 5
+      name: shift_durations
+      label: Shift Durations
+      hint: null
+      type: select_multiple
+      options:
+      - 8 hours or less
+      - 8-12 hours
+      - More than 12 hours
+      required: false
+    - id: 6
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

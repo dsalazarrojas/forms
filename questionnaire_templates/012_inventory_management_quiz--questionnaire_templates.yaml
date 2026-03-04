@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Management Quiz
+    pages:
+    - id: 1
+      name: company_use
+      label: company_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inventory_type
+      label: inventory_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: current_inventory_level
+      label: current_inventory_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: inventory_reorder_point
+      label: inventory_reorder_point
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reorder_quantity
+      label: reorder_quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_time
+      label: lead_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reorder_lead_time
+      label: reorder_lead_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: inventory_manager_role
+      label: inventory_manager_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: inventory_manager_name
+      label: inventory_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inventory_manager_email
+      label: inventory_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: inventory_manager_phone
+      label: inventory_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inventory_manager_notes
+      label: inventory_manager_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: inventory_manager_comments
+      label: inventory_manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false

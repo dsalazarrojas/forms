@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Cleaning Quality Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Facility Cleaning Quality Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: Rate the overall cleanliness of the area
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cleanliness_comment
+      label: Comments on Cleanliness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cleanliness_frequency
+      label: Cleaning Frequency
+      hint: How often do you think the cleaning staff cleans the area?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 6
+      name: cleanliness_quality
+      label: Cleanliness Quality
+      hint: Rate the quality of the cleaning
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cleanliness_standards
+      label: Cleanliness Standards
+      hint: Rate the cleanliness standards in the area
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: cleanliness_issues
+      label: Cleanliness Issues
+      hint: What issues would you like to report about the area?
+      type: select_multiple
+      options:
+      - Dirty floors
+      - Dirty restrooms
+      - Dirty trash
+      - Dirty break room
+      - Other
+      required: false
+    - id: 9
+      name: cleanliness_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cleanliness_rating_score
+      label: Cleanliness Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: facility_inspector
+      label: Facility Inspector
+      hint: Who inspected the facility?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: cleanliness_frequency_inspector
+      label: Facility Inspector Frequency
+      hint: How often do facility inspectors visit?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 13
+      name: facility_inspector_comments
+      label: Facility Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cleanliness_inspection
+      label: Cleanliness Inspection
+      hint: When was the last cleanliness inspection?
+      type: date
+      options: []
+      required: false

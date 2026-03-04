@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tea Making Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: brewing_tea
+      label: Brewing Tea
+      hint: null
+      type: select_one
+      options:
+      - Loose leaf
+      - Tea balls
+      - Tea bags
+      required: false
+    - id: 3
+      name: steeping_time
+      label: Steeping Time
+      hint: null
+      type: select_multiple
+      options:
+      - 15-20 seconds
+      - 20-25 seconds
+      - 30-35 seconds
+      required: false
+    - id: 4
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: select_multiple
+      options:
+      - 80-90°F (27-32°C)
+      - 90-100°F (32-38°C)
+      - 140-150°F (60-66°C)
+      required: false
+    - id: 5
+      name: tea_brewing_method
+      label: Tea Brewing Method
+      hint: null
+      type: select_one
+      options:
+      - Infusion
+      - Cold-brew
+      - French press
+      required: false
+    - id: 6
+      name: tea_serving_size
+      label: Tea Serving Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tea_frequently_served
+      label: Tea Frequently Served
+      hint: null
+      type: select_multiple
+      options:
+      - Loose-leaf
+      - Tea balls
+      - Tea bags
+      required: false
+    - id: 8
+      name: tea_frequency_brewed
+      label: Tea Frequency Brewed
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Activity Readiness Questionnaire
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_level
+      label: Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Walking
+      - Running
+      - Swimming
+      required: false
+    - id: 3
+      name: available_days
+      label: Available Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: available_time
+      label: Available Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 6
+      name: available_days_per_week
+      label: Available Days Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: preferred_day
+      label: Preferred Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - In Person
+      required: false
+    - id: 9
+      name: contact_frequency
+      label: Contact Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

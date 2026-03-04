@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Lines Insurance Questionnaire
+    pages:
+    - id: 1
+      name: policy_type
+      label: policy_type
+      hint: null
+      type: select_one
+      options:
+      - Auto,Home,Other
+      - Other
+      required: false
+    - id: 2
+      name: insurance_type
+      label: insurance_type
+      hint: null
+      type: select_multiple
+      options:
+      - Liability,Bodily Injury,Property
+      - Other
+      required: false
+    - id: 3
+      name: coverage
+      label: coverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: policy_start_date
+      label: policy_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: policy_end_date
+      label: policy_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: policy_annual_premium
+      label: policy_annual_premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_location
+      label: policy_location
+      hint: null
+      type: text
+      options: []
+      required: false

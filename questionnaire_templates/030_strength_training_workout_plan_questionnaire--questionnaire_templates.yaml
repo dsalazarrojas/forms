@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: strength_training_workout_plan_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: client_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: client_exercise_experience
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 5
+      name: goals
+      label: client_fitness_goals
+      hint: null
+      type: select_multiple
+      options:
+      - weight_loss
+      - muscle_gain
+      - endurance
+      - strength_gain
+      - flexibility
+      required: false
+    - id: 6
+      name: schedule
+      label: training_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: trainer
+      label: trainer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

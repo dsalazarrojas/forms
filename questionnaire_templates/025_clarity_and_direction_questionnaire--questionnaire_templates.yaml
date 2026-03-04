@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clarity And Direction Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: occupation
+      label: Occupation or Profession
+      hint: What do you do
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_clarity_level
+      label: How Clear Are You About Your Current Goals
+      hint: Rate your clarity level
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Neutral
+      - Somewhat unclear
+      - Very unclear
+      required: true
+    - id: 6
+      name: primary_challenge
+      label: What Is Your Primary Challenge Right Now
+      hint: Select the main challenge
+      type: select_one
+      options:
+      - Lack of direction
+      - Too many competing priorities
+      - Uncertain about next steps
+      - Lack of motivation
+      - Fear of making wrong choice
+      - External obstacles
+      - Other
+      required: true
+    - id: 7
+      name: challenge_description
+      label: Describe Your Challenge in Detail
+      hint: Provide more context
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: goal_timeframe
+      label: What Is Your Desired Timeframe for Goals
+      hint: When do you want results
+      type: select_one
+      options:
+      - Immediate (within 1 month)
+      - Short-term (1-3 months)
+      - Medium-term (3-6 months)
+      - Long-term (6-12 months)
+      - No specific timeframe
+      required: true
+    - id: 9
+      name: life_areas
+      label: Which Life Areas Need Clarity
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Career and work
+      - Relationships
+      - Health and wellness
+      - Finances
+      - Personal growth
+      - Work-life balance
+      - Purpose and meaning
+      - Location and living situation
+      required: true
+    - id: 10
+      name: past_attempts
+      label: Have You Tried to Address This Before
+      hint: Previous efforts
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once or twice
+      - No, this is my first time
+      required: true
+    - id: 11
+      name: past_attempts_description
+      label: What Did You Try Before
+      hint: Describe previous attempts
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: support_system
+      label: Do You Have a Support System
+      hint: Friends, family, mentors
+      type: select_one
+      options:
+      - Strong support system
+      - Some support
+      - Limited support
+      - No support system
+      required: true
+    - id: 13
+      name: decision_making_style
+      label: How Do You Typically Make Decisions
+      hint: Your decision style
+      type: select_one
+      options:
+      - Carefully analyze all options
+      - Go with gut instinct
+      - Seek advice from others
+      - Procrastinate and delay
+      - Impulsively
+      required: true
+    - id: 14
+      name: strengths
+      label: What Are Your Key Strengths
+      hint: Personal strengths
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: weaknesses
+      label: What Areas Do You Want to Improve
+      hint: Areas for growth
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: values
+      label: What Values Are Most Important to You
+      hint: Core values
+      type: select_multiple
+      options:
+      - Integrity
+      - Family
+      - Success
+      - Freedom
+      - Creativity
+      - Security
+      - Growth
+      - Service to others
+      - Adventure
+      - Health
+      required: true
+    - id: 17
+      name: ideal_outcome
+      label: What Would Success Look Like
+      hint: Your ideal outcome
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: obstacles
+      label: What Obstacles Do You Anticipate
+      hint: Potential barriers
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: commitment_level
+      label: How Committed Are You to Making Changes
+      hint: On a scale
+      type: select_one
+      options:
+      - Fully committed
+      - Very committed
+      - Moderately committed
+      - Somewhat committed
+      - Just exploring
+      required: true
+    - id: 20
+      name: preferred_guidance
+      label: What Type of Guidance Do You Prefer
+      hint: Select your preference
+      type: select_multiple
+      options:
+      - Structured action plans
+      - Regular check-ins
+      - Accountability partner
+      - Self-directed resources
+      - Group support
+      - One-on-one coaching
+      required: true
+    - id: 21
+      name: availability
+      label: How Much Time Can You Dedicate Weekly
+      hint: To working on your goals
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-3 hours
+      - 3-5 hours
+      - 5-10 hours
+      - 10+ hours
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Energy Flow Assessment
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_info
+      label: Site Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''site_name'', ''label'': ''Site Name'', ''type'':
+        ''text''}'
+      - '{''id'': 2, ''name'': ''site_id'', ''label'': ''Site ID'', ''type'': ''text''}'
+      - '{''id'': 3, ''name'': ''site_location'', ''label'': ''Site Location'', ''type'':
+        ''text''}'
+      - '{''id'': 4, ''name'': ''site_capacity'', ''label'': ''Site Capacity'', ''type'':
+        ''integer''}'
+      required: false
+    - id: 3
+      name: energy_flow
+      label: Energy Flow
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''site_inflow'', ''label'': ''Site Inflow'', ''type'':
+        ''text''}'
+      - '{''id'': 2, ''name'': ''process_inflow'', ''label'': ''Process Inflow'',
+        ''type'': ''text''}'
+      - '{''id'': 3, ''name'': ''transmission_inflow'', ''label'': ''Transmission
+        Inflow'', ''type'': ''text''}'
+      - '{''id'': 4, ''name'': ''distribution_inflow'', ''label'': ''Distribution
+        Inflow'', ''type'': ''text''}'
+      - '{''id'': 5, ''name'': ''site_outflow'', ''label'': ''Site Outflow'', ''type'':
+        ''text''}'
+      - '{''id'': 6, ''name'': ''process_outflow'', ''label'': ''Process Outflow'',
+        ''type'': ''text''}'
+      - '{''id'': 7, ''name'': ''transmission_outflow'', ''label'': ''Transmission
+        Outflow'', ''type'': ''text''}'
+      - '{''id'': 8, ''name'': ''distribution_outflow'', ''label'': ''Distribution
+        Outflow'', ''type'': ''text''}'
+      required: false
+    - id: 4
+      name: loss_areas
+      label: Loss Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''site_equip_loss'', ''label'': ''Site Equipment Loss'',
+        ''type'': ''text''}'
+      - '{''id'': 2, ''name'': ''pipe_leakage'', ''label'': ''Pipe Leakage'', ''type'':
+        ''text''}'
+      - '{''id'': 3, ''name'': ''heat_gain_loss'', ''label'': ''Heat Gain Loss'',
+        ''type'': ''text''}'
+      - '{''id'': 4, ''name'': ''transmission_loss'', ''label'': ''Transmission Loss'',
+        ''type'': ''text''}'
+      - '{''id'': 5, ''name'': ''distribution_loss'', ''label'': ''Distribution Loss'',
+        ''type'': ''text''}'
+      required: false
+    - id: 5
+      name: efficiency_planning
+      label: Efficiency Planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_data
+      label: Site Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: site_comments
+      label: Site Comments
+      hint: null
+      type: text
+      options: []
+      required: false

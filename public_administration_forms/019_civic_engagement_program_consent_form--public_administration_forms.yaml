@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Engagement Program Consent Form
+    pages:
+    - id: 1
+      name: program_consent_header
+      label: -- Program Consent and Liability Waiver --
+      hint: Required for participation in civic engagement activities
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Name of Civic Program/Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent or Guardian Name (if under 18)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_info_note
+      label: Please list any allergies or medical conditions we should be aware of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: liability_waiver_agreement
+      label: I release the organization from liability for injury during the program
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 12
+      name: photo_release_opt
+      label: I grant permission for photos of me/my child to be used for program promotion
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 13
+      name: digital_signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Knowledge Assessment Quiz
+    pages:
+    - id: 1
+      name: instructions
+      label: -- Quiz Instructions --
+      hint: Complete all questions to assess AI knowledge
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Participant email
+      hint: Optional for results
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: q1_understanding
+      label: What is machine learning
+      hint: Short answer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: q2_supervised
+      label: Which scenario is supervised learning
+      hint: Choose the best option
+      type: select_one
+      options: [Labeled data training,Unlabeled data clustering,Reinforcement agent learning]
+      required: true
+    - id: 6
+      name: q3_model_eval
+      label: Best metric for imbalanced classification
+      hint: Choose the best metric
+      type: select_one
+      options: [Accuracy,Precision recall,AUC ROC]
+      required: true
+    - id: 7
+      name: q4_bias
+      label: How to mitigate dataset bias
+      hint: Short answer
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: q5_regulations
+      label: Key compliance consideration
+      hint: Short answer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_score
+      label: Self assessment of AI knowledge
+      hint: 1 low to 5 high
+      type: select_one
+      options: [1,2,3,4,5]
+      required: true

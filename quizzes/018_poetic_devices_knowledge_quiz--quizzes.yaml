@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poetic Devices Knowledge Quiz
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: poetic_devices_1
+      label: Poetic Devices 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: poetic_devices_2
+      label: Poetic Devices 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: poetic_devices_3
+      label: Poetic Devices 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: poetic_devices_4
+      label: Poetic Devices 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: poetic_devices_5
+      label: Poetic Devices 5
+      hint: Please provide a sentence describing the poetic device(s) you are using
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_end
+      label: Form End
+      hint: null
+      type: note
+      options: []
+      required: false

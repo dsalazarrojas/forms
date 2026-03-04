@@ -1,0 +1,272 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concept Of Human And Education Survey
+    pages:
+      - id: 1
+        name: survey_id
+        label: Survey ID
+        hint: Unique survey identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email Address
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: respondent_type
+        label: Respondent Type
+        hint: Select your role
+        type: select_one
+        options:
+          - Student
+          - Educator
+          - Parent
+          - Administrator
+          - Researcher
+          - Policy Maker
+          - Community Member
+          - Other
+        required: true
+      - id: 6
+        name: education_level
+        label: Education Level
+        hint: Select your education level
+        type: select_one
+        options:
+          - High School or Less
+          - Some College
+          - Bachelor Degree
+          - Master Degree
+          - Doctorate
+          - Other
+        required: true
+      - id: 7
+        name: years_in_education
+        label: Years in Education
+        hint: How many years in education field
+        type: select_one
+        options:
+          - Less than 1 Year
+          - 1 to 5 Years
+          - 5 to 10 Years
+          - 10 to 20 Years
+          - More than 20 Years
+          - Not Applicable
+        required: true
+      - id: 8
+        name: education_purpose
+        label: Primary Purpose of Education
+        hint: What is the primary purpose of education
+        type: select_one
+        options:
+          - Personal Development
+          - Career Preparation
+          - Social Responsibility
+          - Knowledge Acquisition
+          - Critical Thinking Skills
+          - Cultural Preservation
+          - Economic Growth
+          - All of the Above
+        required: true
+      - id: 9
+        name: human_development_role
+        label: Role of Education in Human Development
+        hint: How important is education for human development
+        type: select_one
+        options:
+          - 5 - Extremely Important
+          - 4 - Very Important
+          - 3 - Moderately Important
+          - 2 - Slightly Important
+          - 1 - Not Important
+        required: true
+      - id: 10
+        name: key_development_areas
+        label: Key Development Areas
+        hint: Select areas education should focus on
+        type: select_multiple
+        options:
+          - Intellectual Growth
+          - Emotional Intelligence
+          - Social Skills
+          - Physical Health
+          - Moral Development
+          - Creative Expression
+          - Technical Skills
+          - Civic Responsibility
+        required: true
+      - id: 11
+        name: learning_approach
+        label: Most Effective Learning Approach
+        hint: Select the most effective approach
+        type: select_one
+        options:
+          - Traditional Classroom
+          - Experiential Learning
+          - Online Learning
+          - Collaborative Learning
+          - Self-Directed Learning
+          - Project-Based Learning
+          - Blended Learning
+        required: true
+      - id: 12
+        name: education_access
+        label: Access to Education
+        hint: Rate access to quality education
+        type: select_one
+        options:
+          - 5 - Very Accessible
+          - 4 - Accessible
+          - 3 - Moderately Accessible
+          - 2 - Limited Access
+          - 1 - Very Limited Access
+        required: true
+      - id: 13
+        name: education_equity
+        label: Education Equity
+        hint: Rate equity in education
+        type: select_one
+        options:
+          - 5 - Very Equitable
+          - 4 - Equitable
+          - 3 - Moderately Equitable
+          - 2 - Inequitable
+          - 1 - Very Inequitable
+        required: true
+      - id: 14
+        name: technology_role
+        label: Role of Technology in Education
+        hint: How important is technology
+        type: select_one
+        options:
+          - 5 - Extremely Important
+          - 4 - Very Important
+          - 3 - Moderately Important
+          - 2 - Slightly Important
+          - 1 - Not Important
+        required: true
+      - id: 15
+        name: teacher_role
+        label: Role of Teacher
+        hint: How would you describe the teacher role
+        type: select_one
+        options:
+          - Knowledge Provider
+          - Learning Facilitator
+          - Mentor and Guide
+          - Skills Trainer
+          - Character Builder
+          - All of the Above
+        required: true
+      - id: 16
+        name: assessment_method
+        label: Best Assessment Method
+        hint: Select the best assessment approach
+        type: select_one
+        options:
+          - Standardized Tests
+          - Project-Based Assessment
+          - Portfolio Assessment
+          - Performance Assessment
+          - Peer Assessment
+          - Self Assessment
+          - Continuous Evaluation
+        required: true
+      - id: 17
+        name: education_challenges
+        label: Biggest Challenges in Education
+        hint: Select the biggest challenges
+        type: select_multiple
+        options:
+          - Funding
+          - Teacher Shortage
+          - Technology Gap
+          - Curriculum Relevance
+          - Student Engagement
+          - Assessment Methods
+          - Equity and Access
+          - Parent Involvement
+        required: true
+      - id: 18
+        name: future_skills
+        label: Essential Future Skills
+        hint: Select skills education should prioritize
+        type: select_multiple
+        options:
+          - Critical Thinking
+          - Creativity
+          - Collaboration
+          - Communication
+          - Digital Literacy
+          - Emotional Intelligence
+          - Adaptability
+          - Problem Solving
+        required: true
+      - id: 19
+        name: lifelong_learning
+        label: Importance of Lifelong Learning
+        hint: Rate the importance
+        type: select_one
+        options:
+          - 5 - Extremely Important
+          - 4 - Very Important
+          - 3 - Moderately Important
+          - 2 - Slightly Important
+          - 1 - Not Important
+        required: true
+      - id: 20
+        name: education_reform_needed
+        label: Education Reform Needed
+        hint: How much reform is needed
+        type: select_one
+        options:
+          - Major Reform Needed
+          - Moderate Reform Needed
+          - Minor Adjustments
+          - No Reform Needed
+          - Unsure
+        required: true
+      - id: 21
+        name: reform_priorities
+        label: Reform Priorities
+        hint: What should be prioritized
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts on education
+        type: text
+        options: []
+        required: false

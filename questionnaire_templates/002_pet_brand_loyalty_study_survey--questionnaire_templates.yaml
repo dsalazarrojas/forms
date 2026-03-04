@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Brand Loyalty Study Survey
+    pages:
+    - id: 1
+      name: pet_brand_loyalty_study_survey
+      label: Pet Brand Loyalty Study Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_owners
+      label: pet_owners
+      hint: null
+      type: select_multiple
+      options:
+      - Pet Owner 1
+      - Pet Owner 2
+      required: true
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: purchase_frequency
+      label: purchase_frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 5
+      name: loyalty_drivers
+      label: loyalty_drivers
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfaction with Product
+      - Price
+      - Recommendation
+      - Store Experience
+      required: true
+    - id: 6
+      name: open_ended_question
+      label: open-ended-question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_input
+      label: email_input
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_input
+      label: phone_input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_input
+      label: date_input
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_input
+      label: time_input
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: date_time_input
+      label: date_time_input
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_input
+      label: time_input
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: note_input
+      label: note_input
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Recommendation Quiz
+    pages:
+    - id: 1
+      name: header
+      label: -- Lens Recommendation Quiz --
+      hint: Answer a few quick questions so we can recommend lenses
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Optional to receive personalized recommendations
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: Useful for recommending appropriate lens types
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: prescription_strength
+      label: Current prescription strength
+      hint: Enter spherical or cyl values if known
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vision_needs
+      label: Primary vision needs
+      hint: Choose the main reason for lenses
+      type: select_one
+      options:
+      - Distance correction
+      - Near correction
+      - Astigmatism
+      - Cosmetic color
+      - Multifocal
+      required: true
+    - id: 6
+      name: wear_frequency
+      label: How often do you plan to wear lenses
+      hint: Select typical usage
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Occasionally
+      required: true
+    - id: 7
+      name: comfort_priority
+      label: Comfort or appearance priority
+      hint: Which matters more to you
+      type: select_one
+      options:
+      - Comfort
+      - Appearance
+      - Both equally
+      required: true
+    - id: 8
+      name: eye_sensitivity
+      label: Eye sensitivity level
+      hint: Any known sensitivities or allergies
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 9
+      name: preferred_material
+      label: Preferred lens material
+      hint: If you have a preference
+      type: select_one
+      options:
+      - Soft hydrogel
+      - Silicone hydrogel
+      - Rigid gas permeable
+      - No preference
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information for recommendation
+      type: text
+      options: []
+      required: false

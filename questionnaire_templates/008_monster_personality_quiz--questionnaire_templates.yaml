@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monster Personality Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monster_name
+      label: monster_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: personality_traits
+      label: Personality Traits
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Brave''}'
+      - '{''id'': 2, ''label'': ''Fearless''}'
+      - '{''id'': 3, ''label'': ''Courageous''}'
+      required: false
+    - id: 4
+      name: favorite_food
+      label: Favorite Food
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Burger''}'
+      - '{''id'': 2, ''label'': ''Pizza''}'
+      - '{''id'': 3, ''label'': ''Salad''}'
+      required: false
+    - id: 5
+      name: personality_type
+      label: Personality Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      - '{''id'': 4, ''label'': ''D''}'
+      required: false
+    - id: 6
+      name: favorite_activity
+      label: Favorite Activity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Hiking''}'
+      - '{''id'': 2, ''label'': ''Reading''}'
+      - '{''id'': 3, ''label'': ''Gaming''}'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

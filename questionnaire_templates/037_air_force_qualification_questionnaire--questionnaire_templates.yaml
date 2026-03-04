@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Force Qualification Questionnaire
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full Legal Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Must be between 17 and 39
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: citizenship
+      label: Citizenship Status
+      hint: Proof required
+      type: select_one
+      options:
+      - U.S. Citizen
+      - Permanent Resident (Green Card)
+      - Non-Citizen
+      required: true
+    - id: 5
+      name: education_header
+      label: -- Education and Aptitude --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: education_level
+      label: Highest Education Level
+      hint: Completed or in progress
+      type: select_one
+      options:
+      - High School Diploma
+      - GED
+      - Some College
+      - Associate's Degree
+      - Bachelor's Degree
+      - Master's Degree or higher
+      required: true
+    - id: 7
+      name: asvab_score
+      label: ASVAB Score
+      hint: If taken previously (0-99)
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: physical_header
+      label: -- Physical Standards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: height
+      label: Height (inches)
+      hint: e.g. 70
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: weight
+      label: Weight (lbs)
+      hint: e.g. 175
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: medical_history
+      label: Medical Conditions
+      hint: Do you have any chronic issues (Asthma, Heart, etc.)?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: medical_explain
+      label: Medical Explanation
+      hint: If yes, please list
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tattoos
+      label: Tattoo Policy Compliance
+      hint: Do you have tattoos on face, neck, or hands?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: legal_header
+      label: -- Legal History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: criminal_history
+      label: Criminal Record
+      hint: Have you ever been arrested or charged?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: drug_use
+      label: Drug Use History
+      hint: Have you used illegal drugs in the past?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

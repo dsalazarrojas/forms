@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heel Pain Assessment Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: previous_injuries
+      label: Previous Injuries
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: surgeries
+      label: Surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pain_type
+      label: Pain Type
+      hint: null
+      type: select_one
+      options:
+      - Pain
+      - Pain
+      - Pain
+      required: true
+    - id: 8
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: severity
+      label: Severity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Right Heel
+      - Left Heel
+      - Both Heels
+      required: true
+    - id: 11
+      name: impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - Walking
+      - Running
+      - Standing
+      - Sleeping
+      required: true

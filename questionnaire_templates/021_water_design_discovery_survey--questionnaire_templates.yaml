@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Design Discovery Survey
+    pages:
+    - id: 1
+      name: residential_project
+      label: Residential Project
+      hint: null
+      type: select_one
+      options:
+      - '{''Project Type'': ''Residential''}'
+      - '{''Project Type'': ''Commercial''}'
+      - '{''Project Type'': ''Public''}'
+      required: false
+    - id: 2
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: water_use
+      label: Water Use
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - Planning
+      - Design
+      - Construction
+      required: false
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Public
+      required: false
+    - id: 6
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: stakeholders_involved
+      label: Stakeholders Involved
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Architect
+      - Engineer
+      required: false
+    - id: 9
+      name: water_sources
+      label: Water Sources
+      hint: null
+      type: select_multiple
+      options:
+      - Groundwater
+      - Well
+      - Surface
+      required: false
+    - id: 10
+      name: treatment_systems
+      label: Treatment Systems
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Treatment
+      - Storage
+      required: false
+    - id: 11
+      name: distribution_systems
+      label: Distribution Systems
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Distribution
+      - Collection
+      required: false
+    - id: 12
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: select_one
+      options:
+      - Cold
+      - Warm
+      - Hot
+      required: false
+    - id: 14
+      name: water_pressure
+      label: Water Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: water_flow
+      label: Water Flow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: priority_benefits
+      label: Priority Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - Cost Savings
+      - Sustainability
+      - Water Availability
+      required: false
+    - id: 19
+      name: design_considerations
+      label: Design Considerations
+      hint: null
+      type: select_multiple
+      options:
+      - Water Conservation
+      - Water Efficiency
+      - Sustainability
+      required: false
+    - id: 20
+      name: project_phases
+      label: Project Phases
+      hint: null
+      type: select_multiple
+      options:
+      - Planning
+      - Design
+      - Construction
+      required: false
+    - id: 21
+      name: project_location_details
+      label: Project Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_preferences_details
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_status_details
+      label: Project Status Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stakeholders_involved_details
+      label: Stakeholders Involved Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: water_sources_details
+      label: Water Sources Details
+      hint: null
+      type: text
+      options: []
+      required: false

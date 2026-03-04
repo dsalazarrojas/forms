@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Contribution Assessment
+    pages:
+    - id: 1
+      name: household_income
+      label: household_income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income_type
+      label: income_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      required: false
+    - id: 3
+      name: annual_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: monthly_income
+      label: monthly_income
+      hint: null
+      type: number
+      options: []
+      required: false

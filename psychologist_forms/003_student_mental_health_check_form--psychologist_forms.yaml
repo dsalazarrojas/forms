@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Mental Health Check Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_mental_health_page
+      label: student-mental-health-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_mental_status_page
+      label: student-mental-status-page
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''normal'', ''label'': ''Normal''}'
+      - '{''value'': ''anxious'', ''label'': ''Anxious''}'
+      - '{''value'': ''depressed'', ''label'': ''Depressed''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: student_mental_support_page
+      label: student-mental-support-page
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''parent'', ''label'': ''Parent''}'
+      - '{''value'': ''teacher'', ''label'': ''Teacher''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: student_mental_symptom_page
+      label: student-mental-symptom-page
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''sleep'', ''label'': ''Sleep Disturbances''}'
+      - '{''value'': ''appetite'', ''label'': ''Appetite Disturbances''}'
+      - '{''value'': ''concentration'', ''label'': ''Concentration Issues''}'
+      - '{''value'': ''social'', ''label'': ''Social Withdrawal''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: student_mental_status_date_page
+      label: student-mental-status-date-page
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_mental_status_time_page
+      label: student-mental-status-time-page
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: student_mental_status_note_page
+      label: student-mental-status-note-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_mental_status_action_page
+      label: student-mental-status-action-page
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''follow-up'', ''label'': ''Follow-up''}'
+      - '{''value'': ''counseling'', ''label'': ''Counseling''}'
+      - '{''value'': ''no-action'', ''label'': ''No Action''}'
+      required: false
+    - id: 10
+      name: student_mental_status_signature_page
+      label: student-mental-status-signature-page
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 11
+      name: student_mental_status_email_page
+      label: student-mental-status-email-page
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_mental_status_phone_page
+      label: student-mental-status-phone-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_mental_status_date_page
+      label: student-mental-status-date-page
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: student_mental_status_signature_2_page
+      label: student-mental-status-signature-2-page
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false

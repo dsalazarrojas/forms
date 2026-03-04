@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Cycle Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: false
+    - id: 3
+      name: product
+      label: Product
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: false
+    - id: 4
+      name: process
+      label: Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: material
+      label: Material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: hours
+      label: Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: minutes
+      label: Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false

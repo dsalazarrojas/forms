@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Service Program Efficiency Assessment
+    pages:
+    - id: 1
+      name: program_effectiveness
+      label: Program Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: How often do you give feedback?
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 3
+      name: response_time
+      label: Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: response_quality
+      label: Response Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 6
+      name: feedback_suggestions
+      label: Feedback Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_improvement
+      label: Program Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Timeliness
+      - Responsiveness
+      required: false
+    - id: 8
+      name: feedback_submission
+      label: Feedback Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: program_efficiency
+      label: Program Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_planning_community_development_needs_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: What is this form about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggest an Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: What area would you like to suggest an improvement for?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: priority_areas
+      label: What area is most in need of improvement?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''label'': ''A - Area 1''}'
+      - '{''id'': 5.2, ''label'': ''B - Area 2''}'
+      - '{''id'': 5.3, ''label'': ''C - Area 3''}'
+      required: false
+    - id: 8
+      name: specific_suggestions
+      label: Provide specific suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission
+      label: How did you submit your feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 7.1, ''label'': ''Option 1''}'
+      - '{''id'': 7.2, ''label'': ''Option 2''}'
+      - '{''id'': 7.3, ''label'': ''Option 3''}'
+      required: false

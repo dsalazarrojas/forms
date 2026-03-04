@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Design Questionnaire
+    pages:
+    - id: 1
+      name: submitter_contact_details
+      label: submitter_contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_information
+      label: background_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: brand_identity
+      label: brand_identity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: design_preferences
+      label: design_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: content_management_details
+      label: content_management_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_features_and_links
+      label: website_features_and_links
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: supporting_content
+      label: supporting_content
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitter_background
+      label: submitter_background
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submitter_education
+      label: submitter_education
+      hint: null
+      type: text
+      options: []
+      required: false

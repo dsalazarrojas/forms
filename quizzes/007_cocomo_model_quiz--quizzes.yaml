@@ -1,0 +1,162 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COCOMO Model Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: What does COCOMO stand for?
+      hint: null
+      type: select_one
+      options:
+      - Constructive Cost Model
+      - Computational Code Methodology
+      - Computer-based Configuration Model
+      - Combined Operational Cost Model
+      required: true
+    - id: 6
+      name: question_2
+      label: COCOMO was developed by which engineer?
+      hint: null
+      type: select_one
+      options:
+      - Barry Boehm
+      - Fred Brooks
+      - Grady Booch
+      - Ivar Jacobson
+      required: true
+    - id: 7
+      name: question_3
+      label: How many basic COCOMO models are there?
+      hint: null
+      type: select_one
+      options:
+      - One
+      - Two
+      - Three
+      - Four
+      required: true
+    - id: 8
+      name: question_4
+      label: What are the three main COCOMO models?
+      hint: Select all correct answers
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Detailed
+      - Advanced
+      required: true
+    - id: 9
+      name: question_5
+      label: Which COCOMO model is the simplest?
+      hint: null
+      type: select_one
+      options:
+      - Basic COCOMO
+      - Intermediate COCOMO
+      - Detailed COCOMO
+      - Semi-detailed COCOMO
+      required: true
+    - id: 10
+      name: question_6
+      label: What is the primary metric used in COCOMO?
+      hint: null
+      type: select_one
+      options:
+      - Lines of Code (LOC)
+      - Function Points (FP)
+      - Time Units
+      - Cost Factors
+      required: true
+    - id: 11
+      name: question_7
+      label: The effort formula in COCOMO is typically represented as --
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_8
+      label: What factors affect COCOMO estimates?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Project size
+      - Team experience
+      - Development tools
+      - Hardware constraints
+      required: true
+    - id: 13
+      name: question_9
+      label: COCOMO accounts for which development mode?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Organic mode
+      - Semi-detached mode
+      - Embedded mode
+      - Agile mode
+      required: true
+    - id: 14
+      name: question_10
+      label: How is effort typically measured in COCOMO?
+      hint: null
+      type: select_one
+      options:
+      - Person-Months
+      - Person-Hours
+      - Function Points
+      - Calenday Days
+      required: true
+    - id: 15
+      name: overall_confidence
+      label: How confident are you in your answers?
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Confident
+      - Very Uncertain
+      required: true

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Integrity Questionnaire
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Management
+      - Finance
+      - Marketing
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_hired
+      label: Date Hired
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_leaving
+      label: Reason For Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_terminated
+      label: Date Terminated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_termination
+      label: Reason For Termination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reference
+      label: Reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: integrity_issue
+      label: Integrity Issue
+      hint: null
+      type: select_multiple
+      options:
+      - Dishonesty
+      - Insubordination
+      - Theft
+      - Incompetence
+      - Negligence
+      required: true
+    - id: 11
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

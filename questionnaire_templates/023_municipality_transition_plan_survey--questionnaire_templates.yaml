@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipality Transition Plan Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: transition_status
+      label: transition status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: readiness_index
+      label: readiness index
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: concerns_list
+      label: concerns list
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: improvement ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: readiness_score
+      label: readiness score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: transition_plan_document
+      label: transition plan document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: contact information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: attachments
+      label: attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachments_list
+      label: attachments list
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 13
+      name: attachment_files
+      label: attachment files
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: transition_date
+      label: transition date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: transition_time
+      label: transition time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: transition_status_note
+      label: transition status note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: transition_status_comment
+      label: transition status comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transition_status_score
+      label: transition status score
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 19
+      name: attachment_status
+      label: attachment status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 20
+      name: attachments_uploaded
+      label: attachments uploaded
+      hint: null
+      type: text
+      options: []
+      required: false

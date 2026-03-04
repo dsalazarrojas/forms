@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Space Usage Survey Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: public_space_frequency
+      label: How often do you visit this public space?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: space_type
+      label: What type of public space is this?
+      hint: null
+      type: select_multiple
+      options:
+      - Parks
+      - Streets
+      - Plazas
+      - Public buildings
+      required: false
+    - id: 4
+      name: time_spent
+      label: Time spent in the public space
+      hint: null
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15 minutes to 1 hour
+      - 1 to 2 hours
+      - More than 2 hours
+      required: false
+    - id: 5
+      name: favorite_area
+      label: Favorite area within this public space?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

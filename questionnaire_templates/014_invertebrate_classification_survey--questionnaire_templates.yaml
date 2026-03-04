@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Invertebrate Classification Survey
+    pages:
+    - id: 1
+      name: invertebrate_type
+      label: Which of the following is the invertebrate type?
+      hint: null
+      type: select_one
+      options:
+      - Arthropoda
+      - Echinodermata
+      - Mollusca
+      - other
+      required: false
+    - id: 2
+      name: habitat
+      label: What is the invertebrate's typical habitat?
+      hint: null
+      type: select_multiple
+      options:
+      - terrestrial
+      - aquatic
+      - marine
+      required: false
+    - id: 3
+      name: habitat_detail
+      label: Please provide more details about the habitat
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: color
+      label: What is the primary color of the invertebrate?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: size
+      label: In what size is the invertebrate?
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      - other
+      required: false
+    - id: 6
+      name: characteristics
+      label: Please list any additional characteristics that help identify the invertebrate
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: habitat_note
+      label: Additional habitat information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: characteristics_note
+      label: Additional characteristic information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: common_name
+      label: Common name of the invertebrate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scientific_name
+      label: Scientific name of the invertebrate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: taxonomy
+      label: Taxonomy information for the invertebrate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: taxonomy_note
+      label: More taxonomy information
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: HIV Awareness Quiz
+    pages:
+    - id: 1
+      name: user_info
+      label: First Name
+      hint: First name of the respondent
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the respondent
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: Age of the respondent
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: gender
+      label: Gender
+      hint: Gender of the respondent
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 8
+      name: sexualorientation
+      label: Sexual Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Gay
+      - Lesbian
+      - Heterosexual
+      - Bisexual
+      - Asexual
+      - Other
+      required: false
+    - id: 9
+      name: hiv_status
+      label: HIV Status
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Testing
+      - Unknown
+      required: false
+    - id: 10
+      name: hiv_diagnosis
+      label: HIV Diagnose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: hiv_last_test_date
+      label: Last HIV Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: hiv_last_test_result
+      label: Last HIV Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Unknown
+      required: false
+    - id: 13
+      name: last_hiv_test_date
+      label: Last HIV Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: hiv_last_test_result
+      label: Last HIV Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Unknown
+      required: false
+    - id: 15
+      name: sexual_partner
+      label: Sexual Partner
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 16
+      name: sexual_risk_factors
+      label: Sexual Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 17
+      name: drug_use
+      label: Drug Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 18
+      name: alcohol_use
+      label: Alcholol Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 19
+      name: blood_sharing
+      label: Blood Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 20
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 21
+      name: medical_history_hiv
+      label: Medical History HIV
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 22
+      name: test_frequency
+      label: Test Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - More
+      required: false
+    - id: 23
+      name: test_method
+      label: Test Method
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Test
+      - Rapid Test
+      - Self Test
+      - Other
+      required: false
+    - id: 24
+      name: test_location
+      label: Test Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Unknown
+      required: false

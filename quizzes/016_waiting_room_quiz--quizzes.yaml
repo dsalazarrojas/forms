@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: waiting_room_quiz
+    pages:
+    - id: 1
+      name: first_question
+      label: How long do you usually wait in the waiting room?
+      hint: null
+      type: select_one
+      options:
+      - 0-10 minutes
+      - 11-20 minutes
+      - 21-30 minutes
+      - 31-40 minutes
+      - More than 40 minutes
+      required: false
+    - id: 2
+      name: what_were_you_doing_while_you_waited
+      label: What were you doing while you waited?
+      hint: null
+      type: select_multiple
+      options:
+      - Watching TV or playing games
+      - Looking at books or magazines
+      - Reading on phone/tablet
+      - Thinking about your visit
+      - Other
+      required: false
+    - id: 3
+      name: how_were_you_informed
+      label: How were you informed about your wait time?
+      hint: null
+      type: select_one
+      options:
+      - Through the receptionist or nurse
+      - On the digital display
+      - Through an app
+      - Through a staff member
+      - Other
+      required: false
+    - id: 4
+      name: waiting_room_experience
+      label: What did you think about your waiting room experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: visit_satisfaction
+      label: How satisfied were you with your visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 6
+      name: feedback
+      label: Any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: age
+      label: Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 14
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black or African American
+      - Asian
+      - Hispanic or Latino
+      - Other
+      required: false
+    - id: 15
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Separated
+      required: false
+    - id: 16
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Less than high school graduate
+      - High school graduate
+      - Some college
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree
+      required: false
+    - id: 17
+      name: income_range
+      label: Income Range
+      hint: null
+      type: select_one
+      options:
+      - Less than $25,000
+      - $25,000-$49,999
+      - $50,000-$74,999
+      - $75,000-$99,999
+      - $100,000 or more
+      required: false
+    - id: 18
+      name: insurance_status
+      label: Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - No insurance
+      - Private insurance
+      - Medicare
+      - Medicaid
+      - Other
+      required: false
+    - id: 19
+      name: visit_length_in_minutes
+      label: How long was your visit?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: number_of_visits
+      label: Number of visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 18 or younger
+      - 19-29
+      - 30-39
+      - 40-49
+      - 50 or older
+      required: false
+    - id: 22
+      name: patient_condition
+      label: What is your health condition?
+      hint: null
+      type: select_multiple
+      options:
+      - None of the above
+      - Allergies
+      - Arthritis
+      - Cancer
+      - Diabetes
+      - Heart condition
+      - High blood pressure
+      - Other
+      required: false
+    - id: 23
+      name: how_many_people_visited
+      label: How many people visited with you?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - More than 4
+      required: false
+    - id: 24
+      name: visit_type
+      label: What type of visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Routine Visit
+      - Specialist Visit
+      - Emergency
+      - New patient visit
+      - Other
+      required: false
+    - id: 25
+      name: how_many_times
+      label: How many times have you visited this provider?
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - 2-5 times
+      - 6-10 times
+      - 11-20 times
+      - 21 or more times
+      required: false

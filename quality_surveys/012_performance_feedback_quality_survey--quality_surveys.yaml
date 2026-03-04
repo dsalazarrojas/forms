@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_feedback_quality_survey
+    pages:
+    - id: 1
+      name: employee_rating
+      label: employee_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: overall_rating_scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Average
+      - Below average
+      - Poor
+      required: false
+    - id: 5
+      name: category_1
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not very effective
+      - Not at all effective
+      required: false
+    - id: 6
+      name: category_2
+      label: collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not very effective
+      - Not at all effective
+      required: false
+    - id: 7
+      name: category_3
+      label: time_management
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not very effective
+      - Not at all effective
+      required: false
+    - id: 8
+      name: category_4
+      label: leadership
+      hint: null
+      type: select_multiple
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not very effective
+      - Not at all effective
+      required: false

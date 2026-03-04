@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simmer Pot Purchase Order Form
+    pages:
+    - id: 1
+      name: simmer_pot_purchase_order_form_page_1
+      label: simmer_pot_purchase_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: simmer_pot_delivery_preferences
+      label: delivery_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Pot 1
+      - Pot 2
+      - Pot 3
+      - Pot 4
+      - Pot 5
+      required: false
+    - id: 3
+      name: simmer_pot_payment_details
+      label: payment_details
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - Credit Card
+      required: false
+    - id: 4
+      name: simmer_pot_payment_method
+      label: payment_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: simmer_pot_order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: simmer_pot_delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: simmer_pot_delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false

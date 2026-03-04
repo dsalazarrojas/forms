@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Census Intake Form
+    pages:
+    - id: 1
+      name: household_census_form
+      label: household_census_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: household_head_of_household
+      label: household_head_of_household
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: household_number_of_household_members
+      label: household_number_of_household_members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: household_gender
+      label: household_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: household_language
+      label: household_language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      - Other
+      required: false
+    - id: 7
+      name: household_ethnicity
+      label: household_ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Caucasian
+      - African
+      - Asian
+      - Other
+      required: false
+    - id: 8
+      name: household_race
+      label: household_race
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black or African American
+      - Asian
+      - Native American or Alaskan
+      - Pacific Islander
+      - Other
+      required: false
+    - id: 9
+      name: household_age
+      label: household_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: household_address
+      label: household_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: household_email
+      label: household_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: household_phone
+      label: household_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: household_comments
+      label: household_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: household_additional_information
+      label: household_additional_information
+      hint: null
+      type: text
+      options: []
+      required: false

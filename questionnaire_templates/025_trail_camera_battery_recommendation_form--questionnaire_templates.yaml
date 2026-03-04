@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trail Camera Battery Recommendation Form
+    pages:
+    - id: 1
+      name: usage_pattern
+      label: Usage Pattern
+      hint: null
+      type: select_one
+      options:
+      - Field
+      - Game
+      - Trail
+      - Security
+      - Monitoring
+      required: true
+    - id: 2
+      name: environment
+      label: Environment
+      hint: null
+      type: select_multiple
+      options:
+      - Cold
+      - Hot
+      - Humid
+      - Wet
+      - Dry
+      required: false
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: camera_frequency
+      label: Camera Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: battery_size
+      label: Battery Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: usage_duration
+      label: Usage Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 30 days
+      - 30-60 days
+      - 61-90 days
+      - 91-180 days
+      - More than 180 days
+      required: false
+    - id: 7
+      name: storage_type
+      label: Storage Type
+      hint: null
+      type: select_multiple
+      options:
+      - MicroSD
+      - SD
+      - CF
+      required: false
+    - id: 8
+      name: power_source
+      label: Power Source
+      hint: null
+      type: select_multiple
+      options:
+      - Lithium Ion
+      - Nickel-Cadmium
+      - Nickel-Iron
+      - Alkaline
+      required: false
+    - id: 9
+      name: battery_life
+      label: Battery Life
+      hint: null
+      type: select_one
+      options:
+      - More than 300 days
+      - 150-300 days
+      - 1-150 days
+      - Less than 1 day
+      required: false
+    - id: 10
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: select_one
+      options:
+      - -40°C to 40°C
+      - -20°C to 40°C
+      - 0°C to 40°C
+      - 0°C to 60°C
+      required: false
+    - id: 11
+      name: humidity_range
+      label: Humidity Range
+      hint: null
+      type: select_one
+      options:
+      - 0-60%
+      - 0-80%
+      - 0-90%
+      - 0-100%
+      required: false
+    - id: 12
+      name: shock_resistance
+      label: Shock Resistance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: water_resistance
+      label: Water Resistance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: vibration_resistance
+      label: Vibration Resistance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: crush_resistance
+      label: Crush Resistance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: temperature_rating
+      label: Temperature Rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: impact_resistance
+      label: Impact Resistance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 18
+      name: battery_type
+      label: Battery Type
+      hint: null
+      type: select_multiple
+      options:
+      - Alkaline
+      - Lithium Ion
+      - Nickel-Cadmium
+      - Nickel-Iron
+      required: false
+    - id: 19
+      name: storage_temperature
+      label: Storage Temperature
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: storage_humidity
+      label: Storage Humidity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: battery_weight
+      label: Battery Weight
+      hint: null
+      type: select_one
+      options:
+      - Heavy
+      - Medium
+      - Light
+      required: false
+    - id: 22
+      name: battery_shape
+      label: Battery Shape
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - D-shape
+      - Custom
+      required: false
+    - id: 23
+      name: battery_capacity
+      label: Battery Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: battery_size_width
+      label: Battery Size Width
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 25
+      name: battery_size_length
+      label: Battery Size Length
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false

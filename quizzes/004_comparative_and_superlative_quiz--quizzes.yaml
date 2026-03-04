@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comparative And Superlative Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Your student identification number
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: class_period
+      label: Class Period
+      hint: Which class period are you in
+      type: select_one
+      options:
+      - Period 1
+      - Period 2
+      - Period 3
+      - Period 4
+      - Period 5
+      - Period 6
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_a_intro
+      label: Section A - Choose the correct comparative form
+      hint: Select the grammatically correct option
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_comparative_big
+      label: Question 1 - What is the comparative form of big
+      hint: The elephant is ___ than the mouse
+      type: select_one
+      options:
+      - biger
+      - bigger
+      - more big
+      - biggest
+      required: true
+    - id: 7
+      name: q2_comparative_beautiful
+      label: Question 2 - What is the comparative form of beautiful
+      hint: This flower is ___ than that one
+      type: select_one
+      options:
+      - beautifuler
+      - more beautiful
+      - most beautiful
+      - beautifuller
+      required: true
+    - id: 8
+      name: q3_comparative_good
+      label: Question 3 - What is the comparative form of good
+      hint: Your score is ___ than mine
+      type: select_one
+      options:
+      - gooder
+      - more good
+      - better
+      - best
+      required: true
+    - id: 9
+      name: q4_comparative_fast
+      label: Question 4 - What is the comparative form of fast
+      hint: A car is ___ than a bicycle
+      type: select_one
+      options:
+      - faster
+      - more fast
+      - fastter
+      - fastest
+      required: true
+    - id: 10
+      name: q5_comparative_intelligent
+      label: Question 5 - What is the comparative form of intelligent
+      hint: Dolphins are ___ than fish
+      type: select_one
+      options:
+      - intelligenter
+      - more intelligent
+      - most intelligent
+      - intelligentest
+      required: true
+    - id: 11
+      name: section_b_intro
+      label: Section B - Choose the correct superlative form
+      hint: Select the grammatically correct option
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: q6_superlative_tall
+      label: Question 6 - What is the superlative form of tall
+      hint: John is the ___ boy in the class
+      type: select_one
+      options:
+      - taller
+      - more tall
+      - tallest
+      - most tall
+      required: true
+    - id: 13
+      name: q7_superlative_interesting
+      label: Question 7 - What is the superlative form of interesting
+      hint: This is the ___ book I have ever read
+      type: select_one
+      options:
+      - interestinger
+      - most interesting
+      - more interesting
+      - interestingest
+      required: true
+    - id: 14
+      name: q8_superlative_bad
+      label: Question 8 - What is the superlative form of bad
+      hint: That was the ___ movie ever
+      type: select_one
+      options:
+      - badder
+      - worse
+      - worst
+      - baddest
+      required: true
+    - id: 15
+      name: q9_superlative_expensive
+      label: Question 9 - What is the superlative form of expensive
+      hint: This is the ___ car in the showroom
+      type: select_one
+      options:
+      - expensiver
+      - most expensive
+      - more expensive
+      - expensivest
+      required: true
+    - id: 16
+      name: q10_superlative_far
+      label: Question 10 - What is the superlative form of far
+      hint: This is the ___ star from Earth
+      type: select_one
+      options:
+      - farer
+      - more far
+      - farthest
+      - farest
+      required: true
+    - id: 17
+      name: section_c_intro
+      label: Section C - Fill in the blank with correct form
+      hint: Type the correct word form
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: q11_fill_happy
+      label: Question 11 - Complete the sentence with comparative of happy
+      hint: She is ___ than her sister
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: q12_fill_careful
+      label: Question 12 - Complete the sentence with superlative of careful
+      hint: He is the ___ driver I know
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: q13_fill_little
+      label: Question 13 - Complete the sentence with comparative of little
+      hint: I have ___ money than you
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: q14_fill_many
+      label: Question 14 - Complete the sentence with comparative of many
+      hint: She has ___ friends than me
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: q15_fill_old
+      label: Question 15 - Complete the sentence with superlative of old
+      hint: This is the ___ building in the city
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: confidence_level
+      label: How confident are you in your answers
+      hint: Rate your confidence level
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Not confident at all
+      required: true
+    - id: 24
+      name: study_time
+      label: How long did you study for this quiz
+      hint: Approximate study time
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - More than 2 hours
+      - Did not study
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or feedback about the quiz
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Accessibility Standards Inspection Form
+    pages:
+    - id: 1
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_inspection
+      label: Date Of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspection_team
+      label: Inspection Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facilities_visited
+      label: Facilities Visited
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_areas_inspected
+      label: Total Areas Inspected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: areas_with_deficiencies
+      label: Areas With Deficiencies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: deficiencies_found
+      label: Deficiencies Found
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_of_next_inspection
+      label: Date Of Next Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_inspector_email
+      label: Assigned Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false

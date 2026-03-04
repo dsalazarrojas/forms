@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Calmness Coaching Survey
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Full name of the coaching client
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: session_date
+        label: Session Date
+        hint: Date of assessment or session
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: stress_level
+        label: Current Stress Level
+        hint: Rate your overall stress level today
+        type: select_one
+        options: [Very Low, Low, Moderate, High, Very High]
+        required: true
+      - id: 4
+        name: calmness_rating
+        label: Calmness Rating
+        hint: Rate your sense of calmness today
+        type: select_one
+        options: [Very Calm, Calm, Neutral, Uneasy, Very Uneasy]
+        required: true
+      - id: 5
+        name: primary_stressors
+        label: Primary Stressors
+        hint: What are the top contributors to stress this week
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: coping_strategies
+        label: Current Coping Strategies
+        hint: Techniques currently used to manage stress
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: sleep_quality
+        label: Sleep Quality
+        hint: How would you rate your sleep recently
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 8
+        name: goals_for_coaching
+        label: Goals for Coaching
+        hint: What changes would you like from coaching
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: readiness_to_change
+        label: Readiness to Change
+        hint: On a scale, how ready are you to make changes
+        type: select_one
+        options: [Very Ready, Ready, Unsure, Not Ready]
+        required: true
+      - id: 10
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else to share before the session
+        type: text
+        options: []
+        required: false

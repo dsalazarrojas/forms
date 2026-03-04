@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shareholder Rights Knowledge Quiz
+    pages:
+    - id: 1
+      name: company_ownership
+      label: What is a company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: board_meeting
+      label: Board meeting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shareholder_rights
+      label: What are the rights of a shareholder?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dividend_payout
+      label: Dividend payout
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shareholding_proportions
+      label: Shareholding Proportions
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 10}'
+      - '{''option'': 20}'
+      - '{''option'': 30}'
+      - '{''option'': 40}'
+      - '{''option'': 50}'
+      required: false
+    - id: 6
+      name: investor_info
+      label: Investor information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: voting_rights
+      label: Voting rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: stock_split
+      label: Stock split
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shareholder_meeting
+      label: Shareholder meeting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: financial_statements
+      label: Financial statements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

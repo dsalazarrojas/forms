@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Symmetry Concepts Quiz
+    pages:
+    - id: 1
+      name: line_symmetry_questions
+      label: Line Symmetry Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: rotational_symmetry
+      label: Rotational Symmetry
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: answer_line_symmetry
+      label: Answer Line Symmetry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: answer_rotational_symmetry
+      label: Answer Rotational
+      hint: null
+      type: text
+      options: []
+      required: false

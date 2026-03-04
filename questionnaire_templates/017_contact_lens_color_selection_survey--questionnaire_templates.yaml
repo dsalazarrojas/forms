@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Color Selection Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Color Contact Lens Preference Survey
+      hint: Help us improve our shade offerings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_wearer
+      label: Do you currently wear contact lenses?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Prescription
+      - Yes - Non-prescription
+      - false
+      required: true
+    - id: 3
+      name: natural_eye_color
+      label: Your Natural Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Brown
+      - Blue
+      - Green
+      - Hazel
+      - Grey
+      - Other
+      required: true
+    - id: 4
+      name: desired_color_effect
+      label: Desired Color Effect
+      hint: Choose what you prefer most
+      type: select_one
+      options:
+      - Natural Enhancement
+      - Subtle Change
+      - Dramatic Transformation
+      - Opaque Coverage
+      required: true
+    - id: 5
+      name: preferred_shades
+      label: Shades you are most interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emerald Green
+      - Sapphire Blue
+      - Honey Brown
+      - Sterling Grey
+      - Amethyst
+      - Brilliant Blue
+      required: true
+    - id: 6
+      name: wear_frequency
+      label: How often do you wear color lenses?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekends Only
+      - Special Occasions
+      - Never
+      required: true
+    - id: 7
+      name: priority_factor
+      label: Most important factor when choosing color lenses
+      hint: null
+      type: select_one
+      options:
+      - Comfort
+      - Realistic Appearance
+      - Color Intensity
+      - Price
+      - Brand
+      required: true
+    - id: 8
+      name: purchase_location
+      label: Where do you typically purchase lenses?
+      hint: null
+      type: select_one
+      options:
+      - Eye Clinic
+      - Online Retailer
+      - Department Store
+      - Specialty Shop
+      required: false
+    - id: 9
+      name: comfort_rating
+      label: Typical comfort rating of color lenses (1-10)
+      hint: 10 being most comfortable
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: new_shades_suggestions
+      label: Any shades you would like to see us add?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_for_results
+      label: Email Address
+      hint: If you would like to receive our color guide
+      type: email
+      options: []
+      required: false

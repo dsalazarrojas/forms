@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Exhibition Supplies Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of order submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: exhibitor_name
+      label: Exhibitor Name
+      hint: Name of exhibitor or artist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: gallery_name
+      label: Gallery Name
+      hint: Name of the gallery
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exhibition_name
+      label: Exhibition Name
+      hint: Name of the exhibition
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: exhibition_dates
+      label: Exhibition Dates
+      hint: Start and end dates of exhibition
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_date_needed
+      label: Delivery Date Needed
+      hint: When do supplies need to arrive
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: delivery_address
+      label: Delivery Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: wall_paint
+      label: Wall Paint
+      hint: Quantity of wall paint needed
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: paint_color
+      label: Paint Color
+      hint: Preferred paint color
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hanging_system
+      label: Hanging System
+      hint: Type of hanging system needed
+      type: select_one
+      options:
+      - Wire and Hooks
+      - Track System
+      - Standalone Pedestals
+      - Wall Mounts
+      - None Needed
+      required: true
+    - id: 13
+      name: display_cases
+      label: Display Cases
+      hint: Number of display cases needed
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pedestals
+      label: Pedestals
+      hint: Number of pedestals needed
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: pedestal_height
+      label: Pedestal Height
+      hint: Preferred pedestal height
+      type: select_one
+      options:
+      - Standard (30 inches)
+      - Low (20 inches)
+      - High (42 inches)
+      - Adjustable
+      - No Preference
+      required: false
+    - id: 16
+      name: lighting_equipment
+      label: Lighting Equipment
+      hint: Select lighting equipment needed
+      type: select_multiple
+      options:
+      - Track Lights
+      - Spotlights
+      - LED Panels
+      - Display Case Lighting
+      - Floor Lamps
+      - None Needed
+      required: true
+    - id: 17
+      name: signage_needed
+      label: Signage Needed
+      hint: Select signage items needed
+      type: select_multiple
+      options:
+      - Exhibition Title Sign
+      - Artist Name Plates
+      - Artwork Labels
+      - Directional Signs
+      - Price Tags
+      - None Needed
+      required: true
+    - id: 18
+      name: security_equipment
+      label: Security Equipment
+      hint: Select security equipment needed
+      type: select_multiple
+      options:
+      - Display Case Locks
+      - Alarm Sensors
+      - Security Cameras
+      - Rope Barriers
+      - Security Tags
+      - None Needed
+      required: true
+    - id: 19
+      name: packing_materials
+      label: Packing Materials
+      hint: Select packing materials needed
+      type: select_multiple
+      options:
+      - Bubble Wrap
+      - Foam Sheets
+      - Art Boxes
+      - Packing Tape
+      - Labels
+      - None Needed
+      required: true
+    - id: 20
+      name: installation_tools
+      label: Installation Tools
+      hint: Select installation tools needed
+      type: select_multiple
+      options:
+      - Drill
+      - Level
+      - Measuring Tape
+      - Screwdrivers
+      - Hammer
+      - Ladder
+      - None Needed
+      required: true
+    - id: 21
+      name: cleaning_supplies
+      label: Cleaning Supplies
+      hint: Select cleaning supplies needed
+      type: select_multiple
+      options:
+      - Glass Cleaner
+      - Microfiber Cloths
+      - Dusters
+      - Vacuum
+      - None Needed
+      required: true
+    - id: 22
+      name: quantity_description
+      label: Quantity Description
+      hint: Describe quantities for selected items
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements or custom needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: installation_help
+      label: Installation Help
+      hint: Do you need installation assistance
+      type: select_one
+      options:
+      - Yes - Full Installation
+      - Yes - Partial Installation
+      - No - Self Install
+      required: true
+    - id: 25
+      name: budget_estimate
+      label: Budget Estimate
+      hint: Estimated budget for supplies
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      required: false
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for this order
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - Purchase Order
+      - Check
+      - Other
+      required: true
+    - id: 27
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

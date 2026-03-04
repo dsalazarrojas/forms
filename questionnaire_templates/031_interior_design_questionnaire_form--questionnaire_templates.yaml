@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_design_questionnaire_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: color_scheme
+      label: color_scheme
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''scheme1''}'
+      - '{''id'': 2, ''name'': ''scheme2''}'
+      - '{''id'': 3, ''name'': ''scheme3''}'
+      required: true
+    - id: 6
+      name: preferred_room_size
+      label: preferred_room_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''small''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''large''}'
+      required: false
+    - id: 7
+      name: preferred_style
+      label: preferred_style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''modern''}'
+      - '{''id'': 2, ''name'': ''traditional''}'
+      required: true
+    - id: 8
+      name: design_budget
+      label: design_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preferred_color_palette
+      label: preferred_color_palette
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''scheme1''}'
+      - '{''id'': 2, ''name'': ''scheme2''}'
+      required: false
+    - id: 10
+      name: preferred_color_palette2
+      label: preferred_color_palette2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''scheme1''}'
+      - '{''id'': 2, ''name'': ''scheme2''}'
+      - '{''id'': 3, ''name'': ''scheme3''}'
+      - '{''id'': 4, ''name'': ''scheme4''}'
+      - '{''id'': 5, ''name'': ''scheme5''}'
+      required: false
+    - id: 11
+      name: preferred_color_palette3
+      label: preferred_color_palette3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''scheme1''}'
+      - '{''id'': 2, ''name'': ''scheme2''}'
+      - '{''id'': 3, ''name'': ''scheme3''}'
+      - '{''id'': 4, ''name'': ''scheme4''}'
+      - '{''id'': 5, ''name'': ''scheme5''}'
+      required: false
+    - id: 12
+      name: preferred_color_palette4
+      label: preferred_color_palette4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''scheme1''}'
+      - '{''id'': 2, ''name'': ''scheme2''}'
+      - '{''id'': 3, ''name'': ''scheme3''}'
+      - '{''id'': 4, ''name'': ''scheme4''}'
+      - '{''id'': 5, ''name'': ''scheme5''}'
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time_frame
+      label: time_frame
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: preferred_time_frame_1
+      label: preferred_time_frame_1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: preferred_time_frame_2
+      label: preferred_time_frame_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: preferred_time_frame_3
+      label: preferred_time_frame_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: preferred_room_features
+      label: preferred_room_features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''feature1''}'
+      - '{''id'': 2, ''name'': ''feature2''}'
+      - '{''id'': 3, ''name'': ''feature3''}'
+      - '{''id'': 4, ''name'': ''feature4''}'
+      required: false
+    - id: 23
+      name: preferred_room_features2
+      label: preferred_room_features2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''feature1''}'
+      - '{''id'': 2, ''name'': ''feature2''}'
+      - '{''id'': 3, ''name'': ''feature3''}'
+      required: false
+    - id: 24
+      name: preferred_room_features3
+      label: preferred_room_features3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''feature1''}'
+      - '{''id'': 2, ''name'': ''feature2''}'
+      - '{''id'': 3, ''name'': ''feature3''}'
+      required: false
+    - id: 25
+      name: preferred_room_features4
+      label: preferred_room_features4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''feature1''}'
+      - '{''id'': 2, ''name'': ''feature2''}'
+      - '{''id'': 3, ''name'': ''feature3''}'
+      required: false

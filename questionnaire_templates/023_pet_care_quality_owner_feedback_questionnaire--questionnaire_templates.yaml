@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Care Quality Owner Feedback Questionnaire
+    pages:
+    - id: 1
+      name: pet_care_quality_owner_feedback_questionnaire
+      label: pet_care_quality_owner_feedback_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Pet
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 3
+      name: pet_age
+      label: pet_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pet_gender
+      label: pet_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Undisclosed
+      required: false
+    - id: 5
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visit_date
+      label: visit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: visit_time
+      label: visit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: staff_attendant
+      label: staff_attendant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 10
+      name: specific_comments
+      label: specific_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: will_recommend
+      label: will_recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: will_recommend_to
+      label: will_recommend_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: will_recommend_who
+      label: will_recommend_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: will_recommend_why
+      label: will_recommend_why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: visit_purpose
+      label: visit_purpose
+      hint: null
+      type: select_one
+      options:
+      - Grooming
+      - Boarding
+      - Walking
+      - Clinic Visit
+      required: false
+    - id: 16
+      name: visit_duration
+      label: visit_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: visit_cost
+      label: visit_cost
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Paid
+      required: false
+    - id: 18
+      name: pet_owner_satisfaction
+      label: pet_owner_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Moderately Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 19
+      name: visit_frequency
+      label: visit_frequency
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Occasional
+      - Rare
+      required: false
+    - id: 20
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pet_care_service_rating
+      label: pet_care_service_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: rating_comments
+      label: rating_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: will_return
+      label: will_return
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: follow_up_visit
+      label: follow_up_visit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

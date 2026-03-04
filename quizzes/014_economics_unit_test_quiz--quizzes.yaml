@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economics Unit Test Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: Section 1
+      hint: null
+      type: select_one
+      options:
+      - Economics
+      - Business
+      - Finance
+      required: false
+    - id: 3
+      name: section_1_1
+      label: question1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: section_2
+      label: Section 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: section_2_1
+      label: question2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: section_3
+      label: Section 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: section_3_1
+      label: question3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false

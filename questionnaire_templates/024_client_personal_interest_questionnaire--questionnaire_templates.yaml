@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Personal Interest Questionnaire
+    pages:
+      - id: 1
+        name: full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: section_hobbies
+        label: -- Hobbies and Interests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: free_time_activities
+        label: What do you enjoy doing in your free time?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: favorite_cuisines
+        label: What are your favorite types of cuisine?
+        hint: Select all that apply
+        type: select_multiple
+        options: [Italian, Japanese, Mexican, French, Indian, Thai, Mediterranean]
+        required: false
+      - id: 6
+        name: dietary_restrictions
+        label: Any dietary restrictions or food allergies we should be aware of?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_goals
+        label: -- Professional and Personal Goals --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: professional_goal
+        label: What is your primary professional goal for this year?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: personal_milestone
+        label: What is a personal milestone you are currently working toward?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_lifestyle
+        label: -- Lifestyle and Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: communication_preference
+        label: Preferred way to receive updates or gifts
+        hint: null
+        type: select_one
+        options: [Email, Text, Phone Call, In-Person Meeting]
+        required: false
+      - id: 12
+        name: communication_timing
+        label: Best time of day for communication
+        hint: null
+        type: select_one
+        options: [Morning, Afternoon, Evening]
+        required: false
+      - id: 13
+        name: favorite_media
+        label: Any favorite books, podcasts, or influencers you follow?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: personalization_notes
+        label: Is there anything else we should know to personalize your experience with us?
+        hint: null
+        type: text
+        options: []
+        required: false

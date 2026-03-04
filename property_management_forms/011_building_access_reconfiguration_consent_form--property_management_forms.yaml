@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Access Reconfiguration Consent Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Building Access Reconfiguration Notification --
+      hint: Your consent is required for building access system changes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: occupant_name
+      label: Occupant or tenant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_number
+      label: Unit or suite number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reconfiguration_details
+      label: -- Reconfiguration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reconfiguration_type
+      label: Type of access reconfiguration
+      hint: null
+      type: select_one
+      options:
+      - Keycard system upgrade
+      - Biometric system implementation
+      - Door lock replacement
+      - Access point installation
+      - Security system upgrade
+      - Multiple changes
+      required: true
+    - id: 9
+      name: affected_areas
+      label: Areas affected by reconfiguration
+      hint: null
+      type: select_multiple
+      options:
+      - Main entrance
+      - Unit entrance
+      - Parking access
+      - Common areas
+      - Utility areas
+      - Emergency exits
+      - All building access
+      required: true
+    - id: 10
+      name: reconfiguration_scope
+      label: Scope of reconfiguration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: timeline_section
+      label: -- Timeline and Disruption --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: start_date
+      label: Projected start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: completion_date
+      label: Projected completion date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: disruption_expected
+      label: Expected disruption to occupants
+      hint: null
+      type: select_one
+      options:
+      - Minimal - Brief interruptions
+      - Moderate - Several hours disruption
+      - Extended - Multiple days
+      - Significant - Week or longer
+      required: true
+    - id: 15
+      name: access_during_work
+      label: Will emergency access be available during work?
+      hint: null
+      type: select_one
+      options:
+      - Yes, full access maintained
+      - Yes, limited access
+      - No, temporary restrictions
+      - Uncertain
+      required: true
+    - id: 16
+      name: work_hours
+      label: Work hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: benefits_section
+      label: -- Benefits and Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: expected_benefits
+      label: Expected benefits of reconfiguration
+      hint: null
+      type: select_multiple
+      options:
+      - Improved security
+      - Enhanced convenience
+      - Better monitoring
+      - Modern technology
+      - Cost savings
+      - Increased efficiency
+      - Better emergency response
+      required: true
+    - id: 19
+      name: new_system_features
+      label: New system features and capabilities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: occupant_responsibilities
+      label: -- Occupant Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: equipment_returned
+      label: Current access devices to be returned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: new_equipment
+      label: New equipment or cards to be issued
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: training_needed
+      label: Training required for new system
+      hint: null
+      type: select_one
+      options:
+      - Yes, mandatory training
+      - Yes, optional training available
+      - No training needed
+      - Self-service documentation
+      required: false
+    - id: 24
+      name: consent_section
+      label: -- Consent Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: consent_given
+      label: I consent to the access reconfiguration
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - I have concerns
+      required: true
+    - id: 26
+      name: concerns_comments
+      label: Comments or concerns
+      hint: Please specify any objections or questions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: alternative_access
+      label: Do you require alternative access arrangements?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please contact me
+      - No, not needed
+      - Uncertain
+      required: false
+    - id: 28
+      name: signature_confirmation
+      label: I confirm this information is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Trade Survey
+    pages:
+    - id: 1
+      name: market_served
+      label: market_served
+      hint: null
+      type: select_multiple
+      options:
+      - Australia
+      - Canada
+      - China
+      - Europe
+      - Germany
+      - India
+      - Japan
+      - South Korea
+      - United States
+      required: true
+    - id: 2
+      name: trade_volumes
+      label: trade_volumes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

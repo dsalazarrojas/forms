@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental System Questionnaire
+    pages:
+    - id: 1
+      name: introductory_note
+      label: -- Feedback Questionnaire --
+      hint: Your feedback helps us improve our car rental systems
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rental_frequency
+      label: How often do you rent vehicles?
+      hint: Weekly, Monthly, Yearly
+      type: select_one
+      options:
+      - label: Weekly
+        value: weekly
+      - label: Monthly
+        value: monthly
+      - label: Quarterly
+        value: quarterly
+      - label: Annually
+        value: annually
+      required: true
+    - id: 3
+      name: primary_purpose
+      label: Primary purpose for renting
+      hint: Select the one that applies most often
+      type: select_one
+      options:
+      - label: Business
+        value: business
+      - label: Leisure/Vacation
+        value: leisure
+      - label: Insurance Replacement
+        value: insurance
+      - label: Special Occasion
+        value: special
+      required: true
+    - id: 4
+      name: important_factors
+      label: Most important factor when renting
+      hint: What influences your choice?
+      type: select_multiple
+      options:
+      - label: Rental Price
+        value: price
+      - label: Vehicle Type Variety
+        value: vehicle
+      - label: Pickup/Dropoff Locations
+        value: location
+      - label: Customer Service Reputation
+        value: service
+      - label: Loyalty Program
+        value: loyalty
+      required: true
+    - id: 5
+      name: current_satisfaction_level
+      label: Satisfaction with current rental systems
+      hint: Rate from 1 to 5 (5 is Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: preferred_booking_method
+      label: Preferred booking method
+      hint: How do you usually book?
+      type: select_one
+      options:
+      - label: Online Website
+        value: website
+      - label: Mobile Application
+        value: app
+      - label: Telephone Hotline
+        value: phone
+      - label: In-Person/Walk-in
+        value: in_person
+      required: true
+    - id: 7
+      name: desired_features
+      label: Desired new system features
+      hint: What would make your experience better?
+      type: select_multiple
+      options:
+      - label: Contactless Pickup
+        value: contactless
+      - label: Real-time Vehicle Tracking
+        value: tracking
+      - label: Mobile Payment Integration
+        value: mobile_pay
+      - label: 24/7 Virtual Support
+        value: virtual_support
+      required: false
+    - id: 8
+      name: specific_feedback
+      label: Please provide any additional comments or feedback
+      hint: Tell us more about your experience
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_followup
+      label: May we contact you for further details?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, please
+        value: true
+      - label: No, thanks
+        value: false
+      required: true
+    - id: 10
+      name: email_for_followup
+      label: Email Address for follow-up
+      hint: Only if you selected yes above
+      type: email
+      options: []
+      required: false

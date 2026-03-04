@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roommate Agreement Form Template
+    pages:
+    - id: 1
+      name: roommates_information
+      label: Roommates Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: household_responsibilities
+      label: Household Responsibilities
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Address
+      - Move-Out
+      required: false
+    - id: 3
+      name: cleaning_schedule
+      label: Cleaning Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: utilities
+      label: Utilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rent_and_payments
+      label: Rent And Payments
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      required: false
+    - id: 6
+      name: guest_policies
+      label: Guest Policies
+      hint: null
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: false
+    - id: 7
+      name: move_in_and_move_out
+      label: Move In And Move Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: room_rent
+      label: Room Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: utilities_split
+      label: Utilities Split
+      hint: null
+      type: select_multiple
+      options:
+      - 50/50
+      - 60/40
+      - 70/30
+      required: false
+    - id: 10
+      name: household_chores
+      label: Household Chores
+      hint: null
+      type: select_one
+      options:
+      - Shared Chores
+      - Individual Chores
+      required: false

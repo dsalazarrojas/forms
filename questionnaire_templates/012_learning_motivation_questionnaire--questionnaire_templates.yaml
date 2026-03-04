@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_motivation_questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: questions_page
+      label: questions
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: motivation_level
+      label: motivation level
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: motivation_level2
+      label: motivation level 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: time_management
+      label: time_management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_management_scale
+      label: time management scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: submission date
+      hint: null
+      type: date
+      options: []
+      required: false

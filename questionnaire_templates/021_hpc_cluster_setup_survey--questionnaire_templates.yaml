@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: HPC Cluster Setup Survey
+    pages:
+    - id: 1
+      name: hpc_team_members
+      label: Hpc team members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: it_lead
+      label: IT lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: it_lead_email
+      label: IT lead email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: it_lead_phone
+      label: IT lead phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_lead
+      label: Research lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: research_lead_email
+      label: Research lead email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: research_lead_phone
+      label: Research lead phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: engineering_lead
+      label: Engineering lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: engineering_lead_phone
+      label: Engineering lead phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cluster_type
+      label: Cluster type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: cluster_name
+      label: Cluster name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cluster_description
+      label: Cluster description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cluster_location
+      label: Cluster location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: cluster_operating_system
+      label: Cluster operating system
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 15
+      name: cluster_storage
+      label: Cluster storage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: cluster_networking
+      label: Cluster networking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: cluster_software
+      label: Cluster software
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: cluster_security
+      label: Cluster security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: cluster_support
+      label: Cluster support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: support_team
+      label: Support team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: support_contact
+      label: Support contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: timelines
+      label: Timelines
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: cluster_purpose
+      label: Cluster purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: cluster_budget
+      label: Cluster budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: cluster_sustainability
+      label: Cluster sustainability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

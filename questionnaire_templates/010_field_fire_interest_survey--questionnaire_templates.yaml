@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Fire Interest Survey
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: skills
+      label: Skills
+      hint: Please enter all relevant skills
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interest_levels
+      label: Interest Levels
+      hint: null
+      type: select_one
+      options:
+      - Interest Level 1
+      - Interest Level 2
+      - Interest Level 3
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 9
+      name: sub_category
+      label: Sub Category
+      hint: null
+      type: select_multiple
+      options:
+      - Sub Category 1
+      - Sub Category 2
+      - Sub Category 3
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false

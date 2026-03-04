@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Survey
+    pages:
+    - id: 1
+      name: property_management_survey
+      label: property-management-survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: apartment_complex
+      label: apartment-complex
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false

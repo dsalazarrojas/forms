@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Series Analysis Evaluation Quiz
+    pages:
+    - id: 1
+      name: series_title
+      label: series_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: series_characters
+      label: series_characters
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: theme_development
+      label: theme_development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: plot_structure
+      label: plot_structure
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: characters_development
+      label: characters_development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: series_plot
+      label: series_plot
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: reflection
+      label: reflection
+      hint: null
+      type: text
+      options: []
+      required: false

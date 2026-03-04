@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Satisfaction Survey
+    pages:
+    - id: 1
+      name: project_satisfaction_survey
+      label: Project Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Project
+      - Project
+      - Project
+      required: false
+    - id: 3
+      name: question_3
+      label: What do you think about the project's objectives?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: question_4
+      label: How would you rate the communication between your team leader and you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_5
+      label: Rate your job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_6
+      label: How satisfied are you with your job overall?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question_7
+      label: What do you think about the company's resources?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: question_8
+      label: What would you recommend this company to a friend?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 9
+      name: question_9
+      label: Why didn't you like this experience?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: question_10
+      label: Do you have any suggestions or comments?
+      hint: null
+      type: note
+      options: []
+      required: false

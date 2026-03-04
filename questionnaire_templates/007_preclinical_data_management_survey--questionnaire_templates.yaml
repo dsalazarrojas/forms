@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preclinical Data Management Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tools
+      label: Data Management Tools
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronic Data Capture (EDC)
+      - Data Warehouse
+      - Collaboration Platform
+      required: true
+    - id: 3
+      name: workflows
+      label: Data Workflows
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clinical Data Management
+      - Data Management and Sharing
+      - Data Analysis and Reporting
+      required: true
+    - id: 4
+      name: tools_priority
+      label: What is your top priority for data management tools?
+      hint: null
+      type: select_one
+      options:
+      - Data Quality
+      - Data Security
+      - Data Usability
+      - Collaboration
+      required: true
+    - id: 5
+      name: tools_rating
+      label: How would you rate your current data management tools?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: collaboration_practices
+      label: How often do you collaborate with your team?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 7
+      name: improvement_priorities
+      label: What are your top priorities for improvement?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data Quality
+      - Data Security
+      - Data Usability
+      - Collaboration
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

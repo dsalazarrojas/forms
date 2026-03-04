@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fluid_signs
+      label: fluid_signs
+      hint: null
+      type: select_multiple
+      options:
+      - blood_type
+      - fluid_type
+      - other
+      required: false
+    - id: 3
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: blood_pressure_unit
+      label: blood_pressure_unit
+      hint: null
+      type: select_one
+      options:
+      - mm_hg
+      - cm_hg
+      - other
+      required: false
+    - id: 5
+      name: blood_temperature
+      label: blood_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: blood_temperature_unit
+      label: blood_temperature_unit
+      hint: null
+      type: select_one
+      options:
+      - celsius
+      - fahrenheit
+      - other
+      required: false
+    - id: 7
+      name: blood_glucose
+      label: blood_glucose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: blood_glucose_unit
+      label: blood_glucose_unit
+      hint: null
+      type: select_one
+      options:
+      - mg_dl
+      - mmol_l
+      - other
+      required: false
+    - id: 9
+      name: blood_cholesterol
+      label: blood_cholesterol
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: blood_cholesterol_unit
+      label: blood_cholesterol_unit
+      hint: null
+      type: select_one
+      options:
+      - mg_dl
+      - mmol_l
+      - other
+      required: false
+    - id: 11
+      name: blood_urea
+      label: blood_urea
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: blood_urea_unit
+      label: blood_urea_unit
+      hint: null
+      type: select_one
+      options:
+      - mmol_l
+      - mg_dl
+      - other
+      required: false
+    - id: 13
+      name: fluid_viscosity
+      label: fluid_viscosity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fluid_viscosity_unit
+      label: fluid_viscosity_unit
+      hint: null
+      type: select_one
+      options:
+      - cp
+      - cpo
+      - other
+      required: false
+    - id: 15
+      name: blood_o2_saturation
+      label: blood_o2_saturation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: blood_o2_saturation_unit
+      label: blood_o2_saturation_unit
+      hint: null
+      type: select_one
+      options:
+      - percent
+      - other
+      required: false
+    - id: 17
+      name: blood_ph
+      label: blood_ph
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: blood_ph_unit
+      label: blood_ph_unit
+      hint: null
+      type: select_one
+      options:
+      - pH
+      - other
+      required: false
+    - id: 19
+      name: blood_albumin
+      label: blood_albumin
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: blood_albumin_unit
+      label: blood_albumin_unit
+      hint: null
+      type: select_one
+      options:
+      - meq_l
+      - other
+      required: false
+    - id: 21
+      name: fluid_specific_gravty
+      label: fluid_specific_gravty
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: fluid_specific_gravty_unit
+      label: fluid_specific_gravty_unit
+      hint: null
+      type: select_one
+      options:
+      - g_ml
+      - other
+      required: false
+    - id: 23
+      name: fluid_color
+      label: fluid_color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - other
+      required: false
+    - id: 24
+      name: fluid_clarity
+      label: fluid_clarity
+      hint: null
+      type: select_one
+      options:
+      - clear
+      - cloudy
+      - other
+      required: false
+    - id: 25
+      name: fluid_flow
+      label: fluid_flow
+      hint: null
+      type: select_one
+      options:
+      - slow
+      - fast
+      - other
+      required: false

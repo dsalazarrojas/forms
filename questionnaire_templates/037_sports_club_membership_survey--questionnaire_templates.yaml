@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_club_membership_survey
+    pages:
+    - id: 1
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: sports_club_membership
+      label: Sports Club Membership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sports_club_name
+      label: Sports Club Name
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ACAC'', ''label'': ''ACAC''}'
+      - '{''value'': ''BCCC'', ''label'': ''BCCC''}'
+      - '{''value'': ''CCC'', ''label'': ''CCC''}'
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

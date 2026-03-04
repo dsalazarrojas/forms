@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gadget User Experience Questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: device_satisfaction
+      label: device_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: usage_habits
+      label: usage_habits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: improvement_opportunities
+      label: improvement_opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_version
+      label: product_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: device_type
+      label: device_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: usage_frequency
+      label: usage_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: usage_duration
+      label: usage_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: user_experience
+      label: user_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: device_model
+      label: device_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: device_serial_number
+      label: device_serial_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: product_category
+      label: product_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: user_title
+      label: user_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: device_manufacturer
+      label: device_manufacturer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

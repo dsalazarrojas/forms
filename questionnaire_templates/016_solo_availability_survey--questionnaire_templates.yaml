@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solo Availability Survey
+    pages:
+    - id: 1
+      name: days_available
+      label: Days Available
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: time_slots
+      label: Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: flexibility_details
+      label: Flexibility Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

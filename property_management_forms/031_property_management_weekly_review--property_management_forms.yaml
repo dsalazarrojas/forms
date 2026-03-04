@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Weekly Review
+    pages:
+    - id: 1
+      name: property_management_weekly_review
+      label: property_management_weekly_review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_inspection_date
+      label: property_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - HOA
+      - Rental
+      - Lease
+      required: false
+    - id: 4
+      name: property_location
+      label: property_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: property_inspection_notes
+      label: property_inspection_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issues_and_defects
+      label: issues_and_defects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_actions
+      label: next_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Follow up
+      - Done
+      - Pending
+      required: true
+    - id: 9
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human System Pressure Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_feel
+      label: How do you feel?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very good''}'
+      - '{''label'': ''Somewhat good''}'
+      - '{''label'': ''Not very good''}'
+      - '{''label'': ''Very bad''}'
+      required: false
+    - id: 3
+      name: workplace_pressure
+      label: Workplace Pressure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_hours
+      label: Work hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_experience
+      label: Work experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-5 years''}'
+      - '{''label'': ''5-10 years''}'
+      - '{''label'': ''10+ years''}'
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''CEO''}'
+      - '{''label'': ''Manager''}'
+      - '{''label'': ''Employee''}'
+      required: false
+    - id: 7
+      name: stress_symptoms
+      label: Stress Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stress_factors
+      label: Stress Factors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Lack of work-life balance''}'
+      - '{''label'': ''Lack of recognition''}'
+      - '{''label'': ''Conflict with colleagues''}'
+      - '{''label'': ''Poor communication''}'
+      required: false
+    - id: 9
+      name: support_services
+      label: Support Services
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mental health support''}'
+      - '{''label'': ''Financial support''}'
+      - '{''label'': ''Career development''}'
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

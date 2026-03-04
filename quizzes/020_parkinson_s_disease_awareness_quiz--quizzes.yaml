@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parkinsons Disease Awareness Quiz
+    pages:
+    - id: 1
+      name: first_question
+      label: What is Parkinsons disease
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_question_answer
+      label: Answer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: second_question
+      label: What are the symptoms of Parkinsons disease
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: second_question_answer
+      label: Answer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: third_question
+      label: How is parkinsons disease diagnosed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: third_question_answer
+      label: Answer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: fourth_question
+      label: What is the treatment for parkinsons disease
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fourth_question_answer
+      label: Answer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 9
+      name: fifth_question
+      label: How does parkinsons disease affect the brain
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: fifth_question_answer
+      label: Answer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 11
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: time_of_completion
+      label: Time of completion
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: date_of_submission
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time_of_submission
+      label: Time of submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: country_of_residence
+      label: Country of residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: zip_code
+      label: Zip/Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true

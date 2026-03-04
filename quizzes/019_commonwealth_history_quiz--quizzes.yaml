@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Commonwealth History Quiz
+    pages:
+      - id: 1
+        name: quiz_introduction
+        label: Quiz Introduction
+        hint: Test your knowledge of Commonwealth history
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Organization
+        hint: School or organization name
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: quiz_date
+        label: Quiz Date
+        hint: Date you are taking this quiz
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_1_early_history
+        label: Section 1 - Early History
+        hint: Questions about early Commonwealth history
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: q1_founding_year
+        label: Question 1 - In what year was the Commonwealth founded
+        type: select_one
+        options:
+          - 1649
+          - 1653
+          - 1660
+          - 1688
+        required: true
+      - id: 8
+        name: q2_first_leader
+        label: Question 2 - Who was the first leader of the Commonwealth
+        type: select_one
+        options:
+          - Charles I
+          - Oliver Cromwell
+          - John Bradshaw
+          - Henry Ireton
+        required: true
+      - id: 9
+        name: q3_government_type
+        label: Question 3 - What type of government was the Commonwealth
+        type: select_one
+        options:
+          - Monarchy
+          - Republic
+          - Constitutional Monarchy
+          - Dictatorship
+        required: true
+      - id: 10
+        name: section_2_political_structure
+        label: Section 2 - Political Structure
+        hint: Questions about Commonwealth governance
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: q4_parliament_name
+        label: Question 4 - What was the parliament called during the Commonwealth
+        type: select_one
+        options:
+          - Long Parliament
+          - Rump Parliament
+          - Barebones Parliament
+          - All of the Above
+        required: true
+      - id: 12
+        name: q5_council_of_state
+        label: Question 5 - How many members were on the Council of State
+        type: select_one
+        options:
+          - 21
+          - 31
+          - 41
+          - 51
+        required: true
+      - id: 13
+        name: q6_major_generals
+        label: Question 6 - During which period were Major-Generals used
+        type: select_one
+        options:
+          - 1649-1651
+          - 1655-1657
+          - 1658-1659
+          - 1660
+        required: true
+      - id: 14
+        name: section_3_military_conflicts
+        label: Section 3 - Military Conflicts
+        hint: Questions about Commonwealth wars and battles
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: q7_irish_campaign
+        label: Question 7 - In what year did Cromwells Irish campaign begin
+        type: select_one
+        options:
+          - 1647
+          - 1649
+          - 1651
+          - 1653
+        required: true
+      - id: 16
+        name: q8_scottish_battle
+        label: Question 8 - Which battle secured Commonwealth control over Scotland
+        type: select_one
+        options:
+          - Battle of Naseby
+          - Battle of Dunbar
+          - Battle of Worcester
+          - Battle of Edgehill
+        required: true
+      - id: 17
+        name: q9_anglo_dutch_war
+        label: Question 9 - How many Anglo-Dutch wars occurred during the Commonwealth
+        type: select_one
+        options:
+          - One
+          - Two
+          - Three
+          - Four
+        required: true
+      - id: 18
+        name: section_4_economy_society
+        label: Section 4 - Economy and Society
+        hint: Questions about economic and social aspects
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: q10_navigation_acts
+        label: Question 10 - What were the Navigation Acts designed to do
+        type: select_one
+        options:
+          - Regulate Trade
+          - Tax the Wealthy
+          - Support Agriculture
+          - Fund the Military
+        required: true
+      - id: 20
+        name: q11_religious_policy
+        label: Question 11 - What was the Commonwealths religious policy
+        type: select_one
+        options:
+          - Strict Anglicanism
+          - Religious Toleration
+          - Catholic Restoration
+          - Atheism
+        required: true
+      - id: 21
+        name: q12_end_of_commonwealth
+        label: Question 12 - What event marked the end of the Commonwealth
+        type: select_one
+        options:
+          - Cromwells Death
+          - The Restoration
+          - The Glorious Revolution
+          - The Civil War
+        required: true
+      - id: 22
+        name: section_5_bonus_questions
+        label: Section 5 - Bonus Questions
+        hint: Additional challenging questions
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: q13_instrument_of_government
+        label: Question 13 - What was the Instrument of Government
+        type: select_one
+        options:
+          - A Military Treaty
+          - A Written Constitution
+          - A Trade Agreement
+          - A Religious Document
+        required: false
+      - id: 24
+        name: q14_humble_petition
+        label: Question 14 - In what year was the Humble Petition and Advice adopted
+        type: select_one
+        options:
+          - 1655
+          - 1657
+          - 1659
+          - 1660
+        required: false
+      - id: 25
+        name: q15_commonwealth_duration
+        label: Question 15 - Approximately how long did the Commonwealth last
+        type: select_one
+        options:
+          - 5 years
+          - 11 years
+          - 20 years
+          - 50 years
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any comments about the quiz
+        type: text
+        options: []
+        required: false

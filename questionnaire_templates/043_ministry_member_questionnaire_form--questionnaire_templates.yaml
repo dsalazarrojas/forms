@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: ministry_member_questionnaire_form
+    pages:
+    - id: 1
+      name: contact_information
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_skills
+      label: communication skills
+      hint: 'What are your communication skills? Please choose from the following:
+
+        type: select_multiple'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: music_skills
+      label: music skills
+      hint: null
+      type: select_multiple
+      options:
+      - Singing
+      - Playing an Instrument
+      - Composing
+      required: false
+    - id: 4
+      name: hospitality_skills
+      label: hospitality skills
+      hint: 'What are your hospitality skills? Please choose from the following:'
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: water_line_material_survey
+    pages:
+    - id: 1
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - PVC pipes
+      - PEX tubing
+      - ductile iron pipes
+      - galvanized iron pipes
+      - lead pipes
+      - other
+      required: false
+    - id: 2
+      name: installation_year
+      label: installation_year
+      hint: null
+      type: select_one
+      options:
+      - '2018'
+      - '2017'
+      - '2016'
+      - '2015'
+      - '2014'
+      - '2013'
+      - '2012'
+      - '2011'
+      - '2010'
+      - '2009'
+      - '2008'
+      required: false
+    - id: 3
+      name: material_condition
+      label: material_condition
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      - very poor
+      required: false
+    - id: 4
+      name: material_size
+      label: material_size
+      hint: null
+      type: select_multiple
+      options:
+      - 3/4 inch
+      - 1 inch
+      - 2 inch
+      - other
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Interview Appearance Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_rating
+      label: Evaluator Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5}'
+      - '{''id'': 2, ''value'': 4}'
+      - '{''id'': 3, ''value'': 3}'
+      - '{''id'': 4, ''value'': 2}'
+      - '{''id'': 5, ''value'': 1}'
+      required: false
+    - id: 3
+      name: appearance
+      label: Appearance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Good''}'
+      - '{''id'': 2, ''value'': ''Average''}'
+      - '{''id'': 3, ''value'': ''Fair''}'
+      - '{''id'': 4, ''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: confidence
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: professionalism
+      label: Professionalism
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''High''}'
+      - '{''id'': 2, ''value'': ''Average''}'
+      - '{''id'': 3, ''value'': ''Low''}'
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 5}'
+      - '{''id'': 2, ''value'': 4}'
+      - '{''id'': 3, ''value'': 3}'
+      - '{''id'': 4, ''value'': 2}'
+      - '{''id'': 5, ''value'': 1}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      - '{''id'': 3, ''value'': ''Maybe''}'
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Done''}'
+      - '{''id'': 2, ''value'': ''In Progress''}'
+      - '{''id'': 3, ''value'': ''Not Started''}'
+      required: false
+    - id: 17
+      name: follow_up_next_call
+      label: Follow Up Next Call
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_next_call_time
+      label: Follow Up Next Call Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false

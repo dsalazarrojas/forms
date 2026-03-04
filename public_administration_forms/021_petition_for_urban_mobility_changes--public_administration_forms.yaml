@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition For Urban Mobility Changes
+    pages:
+    - id: 1
+      name: form_page_1
+      label: street-safety-concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: What is your primary concern?
+      hint: null
+      type: select_one
+      options:
+      - Safer roads
+      - Cleaner air
+      - Reduced traffic congestion
+      - Improved public transportation
+      required: false
+    - id: 8
+      name: select_multiple
+      label: What are your secondary concerns?
+      hint: null
+      type: select_multiple
+      options:
+      - Safer roads
+      - Cleaner air
+      - Reduced traffic congestion
+      - Improved public transportation
+      - More bike-lanes
+      - Better pedestrian paths
+      required: false

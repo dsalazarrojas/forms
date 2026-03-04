@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Communication Tools Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: employee_communication_tools_satisfaction_questionnaire_page_1
+      label: employee_communication_tools_satisfaction_questionnaire_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_communication_tools_satisfaction_questionnaire_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''category_1''}'
+      - '{''value'': ''category_2''}'
+      - '{''value'': ''category_3''}'
+      required: false
+    - id: 3
+      name: employee_communication_tools_satisfaction_questionnaire_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_communication_tools_satisfaction_questionnaire_tools_used
+      label: tools_used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''tool_1''}'
+      - '{''value'': ''tool_2''}'
+      - '{''value'': ''tool_3''}'
+      required: false
+    - id: 5
+      name: employee_communication_tools_satisfaction_questionnaire_satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_communication_tools_satisfaction_questionnaire_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_communication_tools_satisfaction_questionnaire_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

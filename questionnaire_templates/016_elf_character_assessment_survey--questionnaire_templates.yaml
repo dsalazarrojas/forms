@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elf Character Assessment Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appearance_preferences
+      label: What do you think an elf would look like?
+      hint: null
+      type: select_one
+      options:
+      - '{''Elf-like features'': ''pointy ears, tall and slender build, etc.''}'
+      - '{''Dwarfish features'': ''stout build, long beards, etc.''}'
+      - '{''Human-like features'': ''human skin, hair, etc.''}'
+      required: false
+    - id: 3
+      name: personality_traits
+      label: What personality traits does the elf have?
+      hint: null
+      type: select_multiple
+      options:
+      - Adventurous
+      - Brave
+      - Clever
+      - Curious
+      - Friendly
+      - Grumpy
+      - Helpful
+      - Kind
+      - Mischievous
+      required: false
+    - id: 4
+      name: story_involvement
+      label: How involved is the elf in the story?
+      hint: null
+      type: select_one
+      options:
+      - Main character
+      - Supporting character
+      - Background character
+      required: false
+    - id: 5
+      name: motivations
+      label: What drives the elf?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: elf_name
+      label: What is the elf's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: elf_age
+      label: How old is the elf?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: elf_location
+      label: Where does the elf live or travel to?
+      hint: null
+      type: select_multiple
+      options:
+      - Forests
+      - Mountains
+      - Cities
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: elf_relationships
+      label: Who is the elf related to?
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Sibling
+      - Spouse
+      - Friend
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: elf_skills
+      label: What skills does the elf have?
+      hint: null
+      type: select_multiple
+      options:
+      - Archery
+      - Archery (bows and arrows)
+      - Singing
+      - Sword fighting
+      - Magic
+      required: false
+    - id: 12
+      name: elf_languages
+      label: What languages does the elf speak?
+      hint: null
+      type: select_multiple
+      options:
+      - Elf-speak
+      - Common speech
+      - Singing
+      required: false
+    - id: 13
+      name: elf_background
+      label: What is the elf's background?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: elf_interests
+      label: What are the elf's interests?
+      hint: null
+      type: select_multiple
+      options:
+      - Music
+      - Dancing
+      - Art
+      - Reading
+      - Traveling
+      required: false
+    - id: 15
+      name: elf_habitat
+      label: What is the elf's environment or habitat?
+      hint: null
+      type: select_multiple
+      options:
+      - Woodland
+      - Mountain
+      - Forests
+      - Cities
+      required: false
+    - id: 16
+      name: elf_health
+      label: What is the elf's health status?
+      hint: null
+      type: select_multiple
+      options:
+      - Healthy
+      - Sick
+      - Injured
+      required: false
+    - id: 17
+      name: elf_diet
+      label: What is the elf's diet?
+      hint: null
+      type: select_multiple
+      options:
+      - Omnivorous
+      - Herbivorous
+      - Carnivorous
+      required: false
+    - id: 18
+      name: elf_religion
+      label: What is the elf's religion or spirituality?
+      hint: null
+      type: select_multiple
+      options:
+      - Spiritual
+      - Secular
+      - Agnostic
+      required: false
+    - id: 19
+      name: elf_ethnicity
+      label: What is the elf's ethnicity?
+      hint: null
+      type: select_multiple
+      options:
+      - Elf
+      - Human
+      - Dwarf
+      - Orc
+      - Other (please specify)
+      required: false
+    - id: 20
+      name: elf_occupation
+      label: What is the elf's occupation?
+      hint: null
+      type: select_multiple
+      options:
+      - Hunter
+      - Warrior
+      - Healer
+      - Bard
+      - Other (please specify)
+      required: false
+    - id: 21
+      name: elf_income
+      label: What is the elf's income?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: elf_family
+      label: What is the elf's family status?
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Partnered
+      - Married
+      required: false
+    - id: 23
+      name: elf_abilities
+      label: What are the elf's abilities?
+      hint: null
+      type: select_multiple
+      options:
+      - Flight
+      - Telekinesis
+      - Telepathy
+      - Shape shifting
+      required: false
+    - id: 24
+      name: elf_disabilities
+      label: What are the elf's disabilities?
+      hint: null
+      type: select_multiple
+      options:
+      - Blind
+      - Deaf
+      - Wheelchair
+      required: false
+    - id: 25
+      name: elf_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

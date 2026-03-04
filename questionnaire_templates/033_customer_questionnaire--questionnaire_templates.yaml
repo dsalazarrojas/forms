@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Questionnaire
+    pages:
+    - id: 1
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: packaging
+      label: packaging
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_experience
+      label: customer_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: product_quality
+      label: product_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: text
+      options: []
+      required: false

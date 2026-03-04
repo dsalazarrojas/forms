@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Router Configuration Quiz
+    pages:
+    - id: 1
+      name: router_configuration
+      label: Router Configuration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: router_model
+      label: router_model
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Router A''}'
+      - '{''id'': 2, ''label'': ''Router B''}'
+      - '{''id'': 3, ''label'': ''Router C''}'
+      required: false
+    - id: 3
+      name: router_type
+      label: router_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Static''}'
+      - '{''id'': 2, ''label'': ''Dynamic''}'
+      - '{''id'': 3, ''label'': ''Hybrid''}'
+      required: false
+    - id: 4
+      name: router_ip_address
+      label: Router IP Address
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: subnet_mask
+      label: Subnet Mask
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''192.168.0.0/24''}'
+      - '{''id'': 2, ''label'': ''10.0.0.0/8''}'
+      required: false
+    - id: 6
+      name: network_vlan
+      label: Network VLAN
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vlan_priority
+      label: VLAN Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: router_setup
+      label: Router Setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: router_setup_description
+      label: Router Setup Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: router_setup_type
+      label: Router Setup Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Simple''}'
+      - '{''id'': 2, ''label'': ''Advanced''}'
+      - '{''id'': 3, ''label'': ''Complex''}'
+      required: false
+    - id: 11
+      name: router_setup_priority
+      label: Router Setup Priority
+      hint: null
+      type: number
+      options: []
+      required: false

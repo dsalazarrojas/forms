@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meat Composition Knowledge Quiz
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - PhD
+      required: false
+    - id: 6
+      name: knowledge_area
+      label: knowledge_area
+      hint: null
+      type: select_one
+      options:
+      - meat_anatomy
+      - meat_science
+      - meat_production
+      required: false
+    - id: 7
+      name: participant_occupation
+      label: participant_occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Educator
+      - Trainer
+      - Researcher
+      required: false
+    - id: 8
+      name: participant_location
+      label: participant_location
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      - Coastal
+      required: false
+    - id: 9
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meat_nutrients
+      label: meat_nutrients
+      hint: null
+      type: select_one
+      options:
+      - Protein
+      - Fat
+      - Carbohydrates
+      - Energy
+      required: false
+    - id: 14
+      name: energy_content
+      label: energy_content
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: meat_products
+      label: meat_products
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Pork
+      - Poultry
+      - Game
+      - Fish
+      required: false
+    - id: 16
+      name: participant_rating
+      label: participant_rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

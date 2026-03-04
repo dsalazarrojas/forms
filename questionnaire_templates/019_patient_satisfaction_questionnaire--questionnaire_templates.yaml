@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: care_team
+      label: Care Team
+      hint: null
+      type: select_multiple
+      options:
+      - Nurse Practitioner
+      - Nurse
+      - Physician
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: wait_time
+      label: Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: staff_attitude
+      label: Staff Attitude
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: care_plan
+      label: Care Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_suggestion
+      label: Patient Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: staff_suggestion
+      label: Staff Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: care_provider
+      label: Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question_1
+      label: How did you feel about this experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: question_2
+      label: How likely are you to recommend this healthcare provider to others?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: question_3
+      label: What could be improved about this experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_4
+      label: Is there anything else you would like to share about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question_5
+      label: Do you have any other comments about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false

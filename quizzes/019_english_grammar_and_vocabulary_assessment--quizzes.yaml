@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: English Grammar And Vocabulary Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: test_part_1
+      label: Test Part 1
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 3
+      name: test_part_2
+      label: Test Part 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: answer_key
+      label: Answer Key
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - pending
+      - cancelled
+      required: false
+    - id: 6
+      name: learner_name
+      label: Learner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: school_id
+      label: School ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submission_status_notes
+      label: Submission Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false

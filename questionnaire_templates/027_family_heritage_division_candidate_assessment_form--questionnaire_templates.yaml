@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Heritage Division Candidate Assessment Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_phone
+      label: Candidates Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Candidate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Family Heritage Division Director
+      - Family Heritage Division Manager
+      - Family Heritage Division Assistant Manager
+      required: true
+    - id: 5
+      name: candidate_experience
+      label: Candidate Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Seniority 1
+      - Seniority 2
+      - Seniority 3
+      required: true
+    - id: 6
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - North
+      - East
+      - South
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: candidate_background
+      label: Candidate Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: candidate_education
+      label: Candidate Education
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: job_qualifications
+      label: Job Qualifications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 16
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Recommended
+      - Recommended
+      - Not Recommended
+      required: true
+    - id: 17
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: final_decision
+      label: Final Decision
+      hint: null
+      type: select_one
+      options:
+      - Hire
+      - Not Hire
+      required: true
+    - id: 21
+      name: candidate_references
+      label: Candidate References
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 22
+      name: final_comments
+      label: Final Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_references
+      label: Additional References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true

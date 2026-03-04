@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_equipment_resource_guide
+    pages:
+    - id: 1
+      name: user_goals
+      label: user_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: space_requirements
+      label: space_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: budget_details
+      label: budget_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferred_equipment
+      label: preferred_equipment
+      hint: null
+      type: select_one
+      options:
+      - Stationary Bike
+      - Treadmill
+      - Station prophets
+      required: false
+    - id: 5
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Strength Training
+      - Cardio
+      - Functional Training
+      required: false
+    - id: 6
+      name: equipment_location
+      label: equipment_location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Gym
+      - Commercial
+      required: false
+    - id: 7
+      name: equipment_purchase_method
+      label: purchase_method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Retail
+      - In-Store
+      required: false
+    - id: 8
+      name: additional_equipment_notes
+      label: additional_equipment_notes
+      hint: null
+      type: text
+      options: []
+      required: false

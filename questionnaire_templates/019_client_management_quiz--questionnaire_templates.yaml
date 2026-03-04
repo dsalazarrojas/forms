@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Management Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: section_communication
+        label: -- Quiz Section 1 - Communication --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: late_meeting_strategy
+        label: What is the most effective way to handle a client who is late for a meeting?
+        hint: null
+        type: select_one
+        options: [Reschedule immediately, Wait 15 mins then call, Send a polite reminder after 5 mins, Ignore it]
+        required: true
+      - id: 5
+        name: bad_news_delivery
+        label: How should you deliver bad news about a project delay?
+        hint: null
+        type: select_one
+        options: [Via email, Wait for next scheduled call, Immediate phone call with a solution, Let the manager handle it]
+        required: true
+      - id: 6
+        name: section_conflict
+        label: -- Quiz Section 2 - Conflict Handling --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: unhappy_client_first_step
+        label: A client is unhappy with a deliverable - what is the first step?
+        hint: null
+        type: select_one
+        options: [Explain why they are wrong, Listen and validate their concerns, Offer a full refund, Redo the work immediately]
+        required: true
+      - id: 8
+        name: scope_creep_handling
+        label: How do you handle a "scope creep" request?
+        hint: null
+        type: select_one
+        options: [Do it for free, Say no firmly, Discuss budget and timeline implications, Ignore the request]
+        required: true
+      - id: 9
+        name: section_onboarding
+        label: -- Quiz Section 3 - Onboarding --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: discovery_call_goal
+        label: What is the primary goal of the first discovery call?
+        hint: null
+        type: select_one
+        options: [Close the sale, Understand client needs, Showcase the team, Get the deposit]
+        required: true
+      - id: 11
+        name: update_frequency
+        label: How often should you provide project status updates?
+        hint: null
+        type: select_one
+        options: [Daily, Weekly, Only when asked, At project milestones]
+        required: true
+      - id: 12
+        name: section_reflection
+        label: -- Final Reflection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: challenging_area
+        label: What area of client management do you find most challenging?
+        hint: null
+        type: text
+        options: []
+        required: false

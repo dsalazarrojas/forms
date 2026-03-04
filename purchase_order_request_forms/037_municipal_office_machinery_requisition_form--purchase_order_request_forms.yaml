@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Office Machinery Requisition Form
+    pages:
+    - id: 1
+      name: municipal_office_machinery_requisition_form_1
+      label: ประก 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Department of Finance
+      - Department of Public Works
+      - Department of Administration
+      - Department of Police
+      required: false
+    - id: 3
+      name: requisition_date
+      label: requisition_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Office Equipment
+      - Machinery
+      - Vehicles
+      required: false
+    - id: 5
+      name: municipal_office_machinery_requisition_form_5
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: price_per_unit
+      label: price per unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false

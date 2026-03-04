@@ -1,0 +1,201 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Banking Operations Quiz
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Full name of quiz taker
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Your unique employee identifier
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department or branch
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: position
+        label: Position or Job Title
+        hint: Your current role
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: quiz_date
+        label: Quiz Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: question_1_check_clearing
+        label: Question 1 - How long does a standard check clearing process typically take?
+        hint: Select the correct timeframe
+        type: select_one
+        options:
+          - 1-2 business days
+          - 3-5 business days
+          - 7-10 business days
+          - 2-3 weeks
+        required: true
+      - id: 7
+        name: question_2_fed_wire
+        label: Question 2 - What is a Federal Wire Transfer?
+        hint: null
+        type: select_one
+        options:
+          - High-value electronic fund transfer system
+          - Paper check processing method
+          - Customer savings account type
+          - Internal bank memo system
+        required: true
+      - id: 8
+        name: question_3_ach_transfer
+        label: Question 3 - What does ACH stand for?
+        hint: null
+        type: select_one
+        options:
+          - Automated Clearing House
+          - Account Clearing Hub
+          - Automated Check Handler
+          - Advanced Customer Help
+        required: true
+      - id: 9
+        name: question_4_antimoney_laundering
+        label: Question 4 - What is the primary goal of AML compliance?
+        hint: Select the correct answer
+        type: select_one
+        options:
+          - Prevent illegal financial activities
+          - Increase bank profits
+          - Reduce customer fees
+          - Automate all processes
+        required: true
+      - id: 10
+        name: question_5_kyc_procedure
+        label: Question 5 - What does KYC stand for in banking?
+        hint: null
+        type: select_one
+        options:
+          - Know Your Customer
+          - Key Yield Calculation
+          - Keeper of Your Capital
+          - Knowledge Yielding Courses
+        required: true
+      - id: 11
+        name: question_6_wire_transfer_limit
+        label: Question 6 - What is a typical daily wire transfer limit?
+        hint: null
+        type: select_one
+        options:
+          - 10000 USD
+          - 25000 USD
+          - 50000 USD
+          - Depends on account type
+        required: true
+      - id: 12
+        name: question_7_float_time
+        label: Question 7 - What is float time in banking?
+        hint: Select the best definition
+        type: select_one
+        options:
+          - Time between check deposit and funds availability
+          - Interest calculation period
+          - Customer wait time at branch
+          - Annual adjustment schedule
+        required: true
+      - id: 13
+        name: question_8_nostro_vostro
+        label: Question 8 - What is a Nostro account?
+        hint: null
+        type: select_one
+        options:
+          - Bank account held in foreign currency abroad
+          - Customer deposit account type
+          - Internal operational account
+          - Historical transaction archive
+        required: true
+      - id: 14
+        name: question_9_correspondent_banking
+        label: Question 9 - What is correspondent banking?
+        hint: Select the correct description
+        type: select_one
+        options:
+          - Arrangement between banks to settle international transactions
+          - Customer service role
+          - Account reconciliation process
+          - Email communication system
+        required: true
+      - id: 15
+        name: question_10_settlement_risk
+        label: Question 10 - What is settlement risk?
+        hint: null
+        type: select_one
+        options:
+          - Risk that payment may not be received as expected
+          - Risk of account closure
+          - Risk of interest rate changes
+          - Risk of employee errors
+        required: true
+      - id: 16
+        name: question_11_overdraft
+        label: Question 11 - What is an overdraft?
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - Withdrawing more than available balance
+          - Excess interest earned
+          - Prepaid account balance
+          - Loan approval process
+        required: true
+      - id: 17
+        name: question_12_reconciliation
+        label: Question 12 - What is account reconciliation?
+        hint: null
+        type: select_one
+        options:
+          - Comparing bank records with customer records to ensure accuracy
+          - Closing a dormant account
+          - Updating customer information
+          - Processing loan applications
+        required: true
+      - id: 18
+        name: quiz_difficulty
+        label: How would you rate the difficulty of this quiz?
+        hint: null
+        type: select_one
+        options:
+          - Too Easy
+          - Appropriate
+          - Challenging
+          - Too Difficult
+        required: false
+      - id: 19
+        name: additional_training_needed
+        label: Do you feel you need additional training in any area?
+        hint: null
+        type: text
+        options: []
+        required: false

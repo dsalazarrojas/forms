@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyers Questionnaire
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: alternate_contact
+      label: Alternate Contact Name
+      hint: Second contact person
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: search_area
+      label: Search Area
+      hint: Where are you looking to buy
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: specific_neighborhoods
+      label: Specific Neighborhoods Interested In
+      hint: Particular areas you prefer
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchase_timeframe
+      label: Purchase Timeframe
+      hint: When do you plan to buy
+      type: select_one
+      options:
+      - Ready now
+      - 30 days
+      - 60 days
+      - 90 days
+      - 6 months
+      - 1 year
+      - Flexible
+      required: true
+    - id: 8
+      name: price_range
+      label: Price Range
+      hint: Your budget
+      type: select_one
+      options:
+      - 150000 - 250000
+      - 250000 - 400000
+      - 400000 - 500000
+      - 500000 - 750000
+      - 750000 - 1000000
+      - 1000000+
+      required: true
+    - id: 9
+      name: financing_ready
+      label: Financing Ready
+      hint: Pre-approval status
+      type: select_one
+      options:
+      - Pre-approved
+      - Pre-qualified
+      - Getting loan approval
+      - Not yet
+      - Paying cash
+      required: true
+    - id: 10
+      name: down_payment
+      label: Down Payment Available
+      hint: Amount or percentage ready
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_type
+      label: Preferred Property Type
+      hint: What type of home
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Multi-family
+      - Land
+      - New Construction
+      - Other
+      required: true
+    - id: 12
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: Bedroom requirements
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: Bathroom requirements
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: lot_size
+      label: Lot Size Preference
+      hint: Acres or square feet
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: essential_features
+      label: Essential Features
+      hint: Must-have amenities
+      type: select_multiple
+      options:
+      - Garage
+      - Backyard
+      - Pool
+      - Modern Kitchen
+      - Fireplace
+      - Hardwood Floors
+      - View
+      - Updated Bathroom
+      required: false
+    - id: 16
+      name: lifestyle_preferences
+      label: Lifestyle Preferences
+      hint: Walkable, urban, rural, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_district
+      label: School District Important
+      hint: Is education quality important
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      - Not Applicable
+      required: true
+    - id: 18
+      name: commute_consideration
+      label: Commute Consideration
+      hint: How important is commute distance
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Not Important
+      - Flexible
+      required: true
+    - id: 19
+      name: additional_needs
+      label: Additional Needs or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

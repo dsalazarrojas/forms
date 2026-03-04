@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Club Survey Form
+    pages:
+    - id: 1
+      name: preferred_food_selection
+      label: Preferred Food Selection
+      hint: null
+      type: select_one
+      options:
+      - Grilled Chicken
+      - Burgers
+      - Salads
+      - Fruits
+      - Veggies
+      required: false
+    - id: 2
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: preferred_beverage
+      label: Preferred Beverage
+      hint: null
+      type: select_one
+      options:
+      - Cola
+      - Tea
+      - Coffee
+      - Juice
+      required: false
+    - id: 4
+      name: ideas_for_improvement
+      label: Ideas For Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time_of_day
+      label: Preferred Time Of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Children Travel Experience Survey
+    pages:
+      - id: 1
+        name: child_name
+        label: Child Name
+        hint: Optional for younger children
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: trip_destination
+        label: Trip Destination
+        hint: City or location visited
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: travel_dates
+        label: Travel Dates
+        hint: Date range of the trip
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: favorite_activity
+        label: Favorite Activity on the Trip
+        hint: Describe what they enjoyed most
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: comfort_level
+        label: Comfort Level During Travel
+        hint: How comfortable was the child during travel
+        type: select_one
+        options:
+          - Very comfortable
+          - Comfortable
+          - Uncomfortable
+          - Very uncomfortable
+        required: true
+      - id: 6
+        name: food_experience
+        label: Experience with Food and Meals
+        hint: Any issues or favorite meals
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: behavior_notes
+        label: Behavior Notes
+        hint: Any behavioral observations during travel
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: overall_rating
+        label: Overall Trip Rating
+        hint: Select overall satisfaction
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true

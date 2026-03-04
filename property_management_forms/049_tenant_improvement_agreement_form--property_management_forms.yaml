@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Improvement Agreement Form
+    pages:
+    - id: 1
+      name: tenant_improvement_details
+      label: Tenant Improvement Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tenant_responsibilities
+      label: Tenant Responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: landlord_approvals
+      label: Landlord Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: property_details
+      label: Property Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: tenant_sign_off
+      label: Tenant Sign Off
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: landlord_sign_off
+      label: Landlord Sign Off
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false

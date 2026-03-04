@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parade Safety Assessment Form
+    pages:
+    - id: 1
+      name: organizer_info
+      label: parade_organizer_info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: event_details
+      label: event_details
+      hint: null
+      type: select_one
+      options:
+      - Parade Float
+      - Parade March
+      - Parade Float & March Combination
+      required: true
+    - id: 3
+      name: emergency
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: route
+      label: event_route
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: safety_risk
+      label: riskประก
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_plan
+      label: safety_plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: review
+      label: review
+      hint: null
+      type: text
+      options: []
+      required: false

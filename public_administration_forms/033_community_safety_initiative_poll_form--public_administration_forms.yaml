@@ -1,0 +1,288 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Safety Initiative Poll Form
+    pages:
+      - id: 1
+        name: resident_info
+        label: Resident Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: For poll results
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: zip_code
+        label: ZIP Code
+        hint: Verify residency
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+        - Under 18
+        - 18-24
+        - 25-34
+        - 35-44
+        - 45-54
+        - 55-64
+        - 65+
+        required: false
+      - id: 7
+        name: household_type
+        label: Household Type
+        hint: null
+        type: select_one
+        options:
+        - Single Person
+        - Family with Children
+        - Couple No Children
+        - Roommates
+        - Senior Household
+        required: false
+      - id: 8
+        name: safety_poll
+        label: Safety Initiative Poll
+        hint: Your opinions on safety
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: safety_priority
+        label: Is Community Safety a Priority for You
+        hint: null
+        type: select_one
+        options:
+        - Top Priority
+        - High Priority
+        - Moderate Priority
+        - Low Priority
+        - Not a Priority
+        required: true
+      - id: 10
+        name: current_safety
+        label: How Would You Rate Current Safety
+        hint: null
+        type: select_one
+        options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Very Poor
+        required: true
+      - id: 11
+        name: support_initiatives
+        label: Do You Support New Safety Initiatives
+        hint: null
+        type: select_one
+        options:
+        - Strongly Support
+        - Support
+        - Neutral
+        - Oppose
+        - Strongly Oppose
+        required: true
+      - id: 12
+        name: initiative_preferences
+        label: Which Safety Initiatives Do You Prefer
+        hint: Select up to 3
+        type: select_multiple
+        options:
+        - Increased Police Patrols
+        - Community Watch Programs
+        - Improved Street Lighting
+        - Security Camera Installation
+        - Youth Engagement Programs
+        - Mental Health Support
+        - Traffic Safety Measures
+        - Emergency Response Training
+        - Neighborhood Cleanup
+        - Business Security Grants
+        required: true
+      - id: 13
+        name: funding_support
+        label: Would You Support Funding for Safety Programs
+        hint: Through taxes or fees
+        type: select_one
+        options:
+        - Strongly Support
+        - Support
+        - Neutral
+        - Oppose
+        - Strongly Oppose
+        required: true
+      - id: 14
+        name: funding_amount
+        label: What Annual Amount Would You Support
+        hint: Per household
+        type: select_one
+        options:
+        - $0 - No Additional Funding
+        - $1-$50
+        - $51-$100
+        - $101-$200
+        - $201-$500
+        - Over $500
+        required: false
+      - id: 15
+        name: volunteer_interest
+        label: Would You Volunteer for Safety Programs
+        hint: null
+        type: select_one
+        options:
+        - Yes - Definitely
+        - Yes - Possibly
+        - No - Not Interested
+        required: true
+      - id: 16
+        name: volunteer_hours
+        label: How Many Hours Could You Volunteer Monthly
+        hint: If yes
+        type: select_one
+        options:
+        - 0 hours
+        - 1-5 hours
+        - 5-10 hours
+        - 10-20 hours
+        - 20+ hours
+        required: false
+      - id: 17
+        name: meeting_attendance
+        label: Would You Attend Safety Meetings
+        hint: Community meetings
+        type: select_one
+        options:
+        - Yes - Regularly
+        - Yes - Occasionally
+        - No - Not Interested
+        required: true
+      - id: 18
+        name: communication_preference
+        label: Preferred Communication Method
+        hint: For safety updates
+        type: select_one
+        options:
+        - Email
+        - Text Messages
+        - Phone Calls
+        - Social Media
+        - Mail
+        - Community App
+        required: true
+      - id: 19
+        name: trust_level
+        label: How Much Do You Trust Local Safety Officials
+        hint: null
+        type: select_one
+        options:
+        - Very Much
+        - Somewhat
+        - Neutral
+        - Not Much
+        - Not At All
+        required: true
+      - id: 20
+        name: collaboration
+        label: Should Safety Be a Collaborative Effort
+        hint: Residents and authorities
+        type: select_one
+        options:
+        - Definitely Yes
+        - Probably Yes
+        - Maybe
+        - Probably No
+        - Definitely No
+        required: true
+      - id: 21
+        name: technology_acceptance
+        label: Would You Support Security Technology
+        hint: Cameras, sensors, etc.
+        type: select_one
+        options:
+        - Strongly Support
+        - Support
+        - Neutral
+        - Oppose
+        - Strongly Oppose
+        required: true
+      - id: 22
+        name: privacy_concern
+        label: Do You Have Privacy Concerns
+        hint: About security measures
+        type: select_one
+        options:
+        - Very Concerned
+        - Somewhat Concerned
+        - Neutral
+        - Not Very Concerned
+        - Not Concerned
+        required: true
+      - id: 23
+        name: success_metrics
+        label: How Should Success Be Measured
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Reduced Crime Rates
+        - Increased Resident Satisfaction
+        - Faster Response Times
+        - More Community Engagement
+        - Better Lighting
+        - Fewer Accidents
+        - Other
+        required: true
+      - id: 24
+        name: timeline_preference
+        label: When Should Initiatives Begin
+        hint: null
+        type: select_one
+        options:
+        - Immediately
+        - Within 3 Months
+        - Within 6 Months
+        - Within 1 Year
+        - When Fully Planned
+        required: true
+      - id: 25
+        name: additional_input
+        label: Additional Input or Suggestions
+        hint: Share your ideas
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coastal Property Conservation Registration
+    pages:
+    - id: 1
+      name: section_owner_info
+      label: -- Property Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_address
+      label: Owner Mailing Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_type
+      label: Owner Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Corporation
+      - Non-profit
+      - Government
+      - Other
+      required: true
+    - id: 7
+      name: section_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Full address of coastal property
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_county
+      label: County
+      hint: County where property is located
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: total_acreage
+      label: Total Acreage
+      hint: Size of the property
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: coastal_acreage
+      label: Coastal Acreage
+      hint: Acreage along the coast
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: property_characteristics
+      label: Dominant Coastal Feature
+      hint: Main coastal characteristic
+      type: select_one
+      options:
+      - Beach
+      - Wetlands
+      - Bluffs
+      - Salt Marsh
+      - Mangroves
+      - Rocky Shore
+      - Other
+      required: true
+    - id: 14
+      name: section_conservation_goals
+      label: -- Conservation Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_conservation_goal
+      label: Primary Conservation Goal
+      hint: What you hope to achieve
+      type: select_one
+      options:
+      - Habitat restoration
+      - Erosion prevention
+      - Water quality improvement
+      - Public access preservation
+      - Species protection
+      - Carbon sequestration
+      - Multiple goals
+      required: true
+    - id: 16
+      name: conservation_details
+      label: Detailed Conservation Plan
+      hint: Describe your conservation goals and objectives
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: species_presence
+      label: Endangered or protected species present
+      hint: Known species on property
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_management
+      label: -- Current Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: current_use
+      label: Current Property Use
+      hint: How is property currently used
+      type: select_one
+      options:
+      - Residential
+      - Agricultural
+      - Commercial
+      - Recreation
+      - Natural habitat
+      - Mixed use
+      - Vacant
+      required: true
+    - id: 20
+      name: management_practices
+      label: Current Management Practices
+      hint: Existing conservation or management efforts
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_implementation
+      label: -- Implementation Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: implementation_start
+      label: Planned Start Date
+      hint: When conservation will begin
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: implementation_duration
+      label: Implementation Duration - years
+      hint: Expected timeframe for plan
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: funding_status
+      label: Funding Status
+      hint: Funding arrangement
+      type: select_one
+      options:
+      - Fully funded
+      - Partially funded
+      - Seeking funding
+      - Grant pending
+      - Other
+      required: false
+    - id: 25
+      name: section_contact
+      label: -- Project Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: project_coordinator
+      label: Project Coordinator Name
+      hint: Primary contact for project
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: coordinator_phone
+      label: Coordinator Phone
+      hint: null
+      type: text
+      options: []
+      required: false

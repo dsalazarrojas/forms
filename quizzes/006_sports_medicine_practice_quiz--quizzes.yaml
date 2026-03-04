@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Medicine Practice Quiz
+    pages:
+    - id: 1
+      name: practice_quiz
+      label: Sports Medicine Practice Quiz
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quiz_completed
+      label: Quiz Completed
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      - Partially Completed
+      required: true
+    - id: 9
+      name: quiz_completed_date
+      label: Quiz Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: quiz_completed_time
+      label: Quiz Completed Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: quiz_completed_location
+      label: Quiz Completed Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quiz_completed_comments
+      label: Quiz Completed Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: quiz_completed_score
+      label: Quiz Completed Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: quiz_completed_notes
+      label: Quiz Completed Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quiz_completed_additional_comments
+      label: Quiz Completed Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: quiz_completed_additional_notes
+      label: Quiz Completed Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: quiz_completed_additional_info
+      label: Quiz Completed Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quiz_completed_additional_comments
+      label: Quiz Completed Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quiz_completed_certification
+      label: Quiz Completed Certification
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      - Partially Certified
+      required: false
+    - id: 20
+      name: quiz_completed_termination_date
+      label: Quiz Completed Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: quiz_completed_termination_reason
+      label: Quiz Completed Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quiz_completed_termination_notes
+      label: Quiz Completed Termination Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: quiz_completed_reinstatement_date
+      label: Quiz Completed Reinstatement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: quiz_completed_reinstatement_reason
+      label: Quiz Completed Reinstatement Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quiz_completed_certification_status
+      label: Quiz Completed Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Suspended
+      - Expired
+      required: false

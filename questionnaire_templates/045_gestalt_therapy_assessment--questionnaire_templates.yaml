@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gestalt Therapy Assessment
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_details
+      label: Session Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: client_reflections
+      label: Client Reflections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_goals
+      label: Session Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: client_relationships
+      label: Client Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emotional_stability
+      label: Emotional Stability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: self_care_activities
+      label: Self-Care Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coping_skills
+      label: Coping Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: stressors
+      label: Stressors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: goals_and_objectives
+      label: Goals and Objectives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: session_outcomes
+      label: Session Outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_plan
+      label: Follow-Up Plan
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_session_date
+      label: Next Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: therapist_notes
+      label: Therapist Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: false

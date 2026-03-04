@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Personal Analysis Questionnaire
+    pages:
+    - id: 1
+      name: section_self
+      label: -- Self-Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: social_engagement_level
+      label: Social Engagement Level
+      hint: How do you typically recharge?
+      type: select_one
+      options:
+      - Highly Extroverted
+      - Mostly Extroverted
+      - Balanced
+      - Mostly Introverted
+      - Highly Introverted
+      required: true
+    - id: 3
+      name: stress_management_style
+      label: Stress Management Style
+      hint: Your primary reaction to difficult situations
+      type: select_one
+      options:
+      - Task-oriented
+      - Emotion-oriented
+      - Avoidance-oriented
+      - Collaborative
+      required: true
+    - id: 4
+      name: decision_making_preference
+      label: Decision Making Preference
+      hint: null
+      type: select_one
+      options:
+      - Logic-based
+      - Value-based
+      - Intuition-based
+      - Group-consensus
+      required: true
+    - id: 5
+      name: openness_to_new_experiences
+      label: Openness to New Experiences
+      hint: Willingness to try unfamiliar things
+      type: select_one
+      options:
+      - Very Open
+      - Somewhat Open
+      - Neutral
+      - Resistant
+      required: true
+    - id: 6
+      name: section_contrast
+      label: -- Contrast with Others --
+      hint: How do you perceive yourself relative to your peers?
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: compared_to_peers_i_am
+      label: Compared to Peers I am
+      hint: Ambition levels
+      type: select_one
+      options:
+      - More ambitious
+      - Similarly ambitious
+      - Less ambitious
+      required: true
+    - id: 8
+      name: compared_to_peers_i_am_emotional
+      label: Compared to Peers I am Emotional
+      hint: null
+      type: select_one
+      options:
+      - More emotional
+      - Similarly emotional
+      - Less emotional
+      required: true
+    - id: 9
+      name: perception_of_work_ethic
+      label: Perception of Work Ethic
+      hint: null
+      type: select_one
+      options:
+      - Hard worker
+      - Average
+      - Easy-going
+      required: true
+    - id: 10
+      name: section_patterns
+      label: -- Behavioral Patterns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: core_values
+      label: Core Values
+      hint: Select up to 3 values that define you
+      type: select_multiple
+      options:
+      - Integrity
+      - Innovation
+      - Compassion
+      - Stability
+      - Achievement
+      required: false
+    - id: 12
+      name: description_of_ideal_environment
+      label: Description of Ideal Environment
+      hint: Where do you feel most productive and comfortable?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: areas_of_personal_growth_interest
+      label: Areas of Personal Growth Interest
+      hint: What would you like to improve about yourself?
+      type: text
+      options: []
+      required: false

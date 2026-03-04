@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Student Quiz Feedback Survey
+    pages:
+    - id: 1
+      name: student_quiz_feedback_survey_1
+      label: feedback_for_which_quiz
+      hint: null
+      type: select_multiple
+      options:
+      - Quiz 1
+      - Quiz 2
+      - Quiz 3
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - very_satisfactory
+      - somewhat_satisfactory
+      - neither
+      - not_satisfactory
+      required: true
+    - id: 3
+      name: quiz_questions
+      label: quiz_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technical_problems
+      label: technical_problems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_quiz_feedback_survey_6
+      label: how_do_you_like_the_quiz
+      hint: null
+      type: select_one
+      options:
+      - very_good
+      - good
+      - neither
+      - bad
+      - very_bad
+      required: true
+    - id: 7
+      name: student_quiz_feedback_survey_7
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_quiz_feedback_survey_8
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Showing Checklist
+    pages:
+    - id: 1
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Residential
+      - Commercial
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Joe Doe
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_details
+      label: Property Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: showing_date
+      label: Showing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: viewing_time
+      label: Viewing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Parking
+      - Pool
+      - View
+      required: false
+    - id: 10
+      name: agents_notes
+      label: Agents Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agent_notes
+      label: Agent Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_action
+      label: Follow Up Action
+      hint: null
+      type: select_one
+      options:
+      - Send Email
+      - Send Text Message
+      - Call
+      required: true
+    - id: 14
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false

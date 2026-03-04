@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Quality Feedback Form
+    pages:
+    - id: 1
+      name: service_quality_feedback_form
+      label: service-quality-feedback-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: quality-surveys
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 3
+      name: description
+      label: service-quality-feedback-form-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: pain_point_1
+      label: pain-point-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pain_point_2
+      label: pain-point-2
+      hint: null
+      type: text
+      options: []
+      required: false

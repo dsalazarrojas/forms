@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Information Security Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: security_question
+      label: Security Question
+      hint: Answer the security question in the provided field
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question
+      label: Question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Mid-level
+      - Senior
+      required: false
+    - id: 10
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Engineering
+      - Marketing
+      - IT
+      - Sales
+      - Customer Support
+      required: false

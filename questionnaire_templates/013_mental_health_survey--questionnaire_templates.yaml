@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_survey
+    pages:
+    - id: 1
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your mental health like today?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_2
+      label: How would you rate your mood today?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_3
+      label: What is your anxiety level?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: question_4
+      label: How would you rate your energy levels?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: question_5
+      label: Have you seen a mental health professional?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 7
+      name: question_6
+      label: What is the main reason you would like to see a mental health professional?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Depression''}'
+      - '{''option_2'': ''Anxiety''}'
+      - '{''option_3'': ''Other''}'
+      - '{''option_4'': ''None of the above''}'
+      required: true
+    - id: 8
+      name: question_7
+      label: How often do you exercise?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Daily''}'
+      - '{''option_2'': ''Weekly''}'
+      - '{''option_3'': ''Monthly''}'
+      - '{''option_4'': ''Never''}'
+      required: true
+    - id: 9
+      name: question_8
+      label: How would you rate your self-esteem?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_9
+      label: Do you take any medication for mental health related issues?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 11
+      name: question_10
+      label: Do you have any physical health issues that affect your mental health?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 12
+      name: question_11
+      label: How do you rate your overall health?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: question_12
+      label: Have you been diagnosed with a mental health condition?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 14
+      name: question_13
+      label: How would you rate the quality of care you received from your healthcare
+        provider?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Excellent''}'
+      - '{''option_2'': ''Good''}'
+      - '{''option_3'': ''Fair''}'
+      - '{''option_4'': ''Poor''}'
+      required: true
+    - id: 15
+      name: question_14
+      label: How many times have you been in contact with your healthcare provider
+        in the past 30 days?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: question_15
+      label: Do you have any mental health related issues with your employment?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 17
+      name: question_16
+      label: What is your work environment like?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: question_17
+      label: Do you have any mental health issues related to your work environment?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 19
+      name: question_18
+      label: What kind of support do you receive from your family and friends?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: question_19
+      label: Do you have mental health related issues with your family and friends?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 21
+      name: question_20
+      label: Do you have any mental health related issues with your relationships?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 22
+      name: question_21
+      label: How would you rate your relationship quality with your family and friends?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Excellent''}'
+      - '{''option_2'': ''Good''}'
+      - '{''option_3'': ''Fair''}'
+      - '{''option_4'': ''Poor''}'
+      required: true
+    - id: 23
+      name: question_22
+      label: Do you have any mental health related issues with your social life?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 24
+      name: question_23
+      label: How would you rate the quality of your social life?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Excellent''}'
+      - '{''option_2'': ''Good''}'
+      - '{''option_3'': ''Fair''}'
+      - '{''option_4'': ''Poor''}'
+      required: true
+    - id: 25
+      name: question_24
+      label: Do you have any other mental health related issues not already mentioned?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': True}'
+      - '{''option_2'': False}'
+      required: true
+    - id: 26
+      name: question_25
+      label: What would you like to do with the information you got from this survey?
+      hint: null
+      type: text
+      options: []
+      required: true

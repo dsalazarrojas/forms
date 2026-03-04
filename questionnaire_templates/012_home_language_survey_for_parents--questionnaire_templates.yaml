@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_language_survey_for_parents
+    pages:
+    - id: 1
+      name: survey_details
+      label: Survey Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language_survey
+      label: What_is_the_child_s_language_survey_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: listening_skills
+      label: What_is_the_child_s_listening_skills_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: speaking_skills
+      label: What_is_the_child_s_speaking_skills_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: reading_skills
+      label: What_is_the_child_s_reading_skills_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: writing_skills
+      label: What_is_the_child_s_writing_skills_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: communication_skills
+      label: What_is_the_child_s_communication_skills_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: math_skills
+      label: What_is_the_child_s_math_skills_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: problem_solving
+      label: What_is_the_child_s_problem_solving_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: overall_language_level
+      label: Overall_language_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

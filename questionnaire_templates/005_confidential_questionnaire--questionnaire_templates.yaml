@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Questionnaire
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Purpose of Questionnaire --
+      hint: This questionnaire is designed to gather sensitive information for professional
+        assessment.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID Code
+      hint: If provided to you
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_personal_background
+      label: -- Personal Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Current Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - Over 65
+      required: true
+    - id: 6
+      name: educational_attainment
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 7
+      name: section_behavioral_assessment
+      label: -- Behavioral Assessment --
+      hint: Please answer honestly
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: stress_level_rating
+      label: On a scale of 1 to 10, rate your current stress level
+      hint: 1 is low, 10 is high
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: lifestyle_habits
+      label: Which of the following lifestyle habits apply to you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Regular Exercise
+      - Balanced Diet
+      - Sufficient Sleep (7+ hours)
+      - High Caffeine Intake
+      - Frequent Travel
+      required: false
+    - id: 10
+      name: primary_motivation
+      label: What is your primary motivation for this assessment?
+      hint: null
+      type: select_one
+      options:
+      - Personal Growth
+      - Professional Requirement
+      - Health Improvement
+      - Curiosity
+      - Other
+      required: true
+    - id: 11
+      name: motivation_detail
+      label: Please provide more detail on your motivation
+      hint: optional
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_confidentiality
+      label: -- Confidentiality Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: data_usage_consent
+      label: I consent to my data being used for anonymous statistical analysis
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: information_disclosure_agreement
+      label: I understand that my information will not be shared with third parties
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 15
+      name: electronic_signature
+      label: Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true

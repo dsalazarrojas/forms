@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Organizations Quiz
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Business Organizations Assessment --
+        type: note
+        required: false
+      - id: 2
+        name: student_name
+        label: Your Name
+        hint: For record keeping
+        type: text
+        required: true
+      - id: 3
+        name: student_id
+        label: Student ID
+        hint: Your unique identifier
+        type: text
+        required: false
+      - id: 4
+        name: course_section
+        label: Course Section
+        hint: Which class section are you in
+        type: text
+        required: false
+      - id: 5
+        name: quiz_question_1
+        label: What is a sole proprietorship
+        hint: Select the best definition
+        type: select_one
+        options:
+          - A business owned by one person
+          - A business partnership with two owners
+          - A business with multiple shareholders
+          - A government-run organization
+        required: true
+      - id: 6
+        name: quiz_question_2
+        label: Which type of business structure has limited liability protection
+        hint: Choose the correct answer
+        type: select_one
+        options:
+          - Sole Proprietorship
+          - Partnership
+          - Limited Liability Company
+          - General Partnership
+        required: true
+      - id: 7
+        name: quiz_question_3
+        label: In a corporation, shareholders are owners who
+        hint: Select the best response
+        type: select_one
+        options:
+          - Have unlimited personal liability
+          - Have limited liability
+          - Must manage day-to-day operations
+          - Cannot sell their shares
+        required: true
+      - id: 8
+        name: quiz_question_4
+        label: A non-profit organization primarily focuses on
+        hint: Choose the main purpose
+        type: select_one
+        options:
+          - Maximizing profit for shareholders
+          - Serving a public or charitable mission
+          - Employing the most people
+          - Operating without any income
+        required: true
+      - id: 9
+        name: quiz_question_5
+        label: What is a major disadvantage of a partnership
+        hint: Identify the key drawback
+        type: select_one
+        options:
+          - Unlimited personal liability for partners
+          - Cannot have more than two partners
+          - Requires a formal business license
+          - Must file separate tax returns
+        required: true
+      - id: 10
+        name: quiz_question_6
+        label: A franchise is best described as
+        hint: Select the accurate description
+        type: select_one
+        options:
+          - A brand-new business startup
+          - A licensed business model using an established brand
+          - A non-profit organization
+          - A government-owned enterprise
+        required: true
+      - id: 11
+        name: quiz_question_7
+        label: Which organizational structure is most suitable for a small family business
+        hint: Choose the best option
+        type: select_one
+        options:
+          - Corporation
+          - Sole Proprietorship
+          - Partnership
+          - Non-Profit
+        required: true
+      - id: 12
+        name: quiz_question_8
+        label: What differentiates an S-Corporation from a C-Corporation
+        hint: Select the key difference
+        type: select_one
+        options:
+          - Number of shareholders allowed
+          - Tax treatment
+          - Liability protection
+          - Both A and B are correct
+        required: true
+      - id: 13
+        name: comments
+        label: Additional Comments or Questions
+        hint: Any topics you found confusing
+        type: text
+        required: false

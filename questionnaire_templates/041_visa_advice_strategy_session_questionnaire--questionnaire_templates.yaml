@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visa Advice Strategy Session Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: country_of_application
+      label: Country of Application
+      hint: null
+      type: select_one
+      options:
+      - Canada
+      - United States
+      - Australia
+      - United Kingdom
+      - Germany
+      - France
+      - prophets
+      required: false
+    - id: 5
+      name: purpose_of_travel
+      label: Purpose of Travel
+      hint: null
+      type: select_multiple
+      options:
+      - Work
+      - Study
+      - Business
+      - Tourist
+      required: false
+    - id: 6
+      name: preferred_travel_date
+      label: Preferred Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triple
+      - Family
+      required: false
+    - id: 8
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Hostel
+      - Airbnb
+      - Other
+      required: false
+    - id: 9
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Passport
+      - ID Card
+      - Birth Certificate
+      - Other
+      required: false
+    - id: 10
+      name: travel_documents_list
+      label: List of Travel Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: immigration_consultant
+      label: Immigration Consultant
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Joe Doe
+      required: false
+    - id: 13
+      name: consultant_experience
+      label: Consultant Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: false

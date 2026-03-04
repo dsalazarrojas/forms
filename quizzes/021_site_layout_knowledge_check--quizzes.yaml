@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Layout Knowledge Check
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: Second Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: layout_elements
+      label: Layout Elements
+      hint: null
+      type: select_multiple
+      options:
+      - Header
+      - Footer
+      - Side Navigation
+      - Content Area
+      - Hero Image
+      required: false
+    - id: 4
+      name: navigation
+      label: Navigation
+      hint: null
+      type: select_one
+      options:
+      - Top Navigation
+      - Left Navigation
+      - Right Navigation
+      - Bottom Navigation
+      required: false
+    - id: 5
+      name: layout_types
+      label: Layout Types
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed
+      - Fluid
+      - Responsive
+      - Grid
+      required: false
+    - id: 6
+      name: page_size
+      label: Page Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: content_width
+      label: Content Width
+      hint: null
+      type: number
+      options: []
+      required: false

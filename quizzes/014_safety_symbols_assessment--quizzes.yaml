@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Symbols Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confidence_level
+      label: confidence level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: hazard_icons
+      label: hazard icons
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

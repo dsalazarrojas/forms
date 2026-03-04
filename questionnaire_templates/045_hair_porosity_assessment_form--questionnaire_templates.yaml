@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Porosity Assessment Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Hair Porosity Assessment
+      hint: Enter your assessment details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_porosity
+      label: Porosity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: hair_porosity_level
+      label: Porosity Level
+      hint: null
+      type: select_one
+      options:
+      - Very fine
+      - Fine
+      - Medium
+      - Coarse
+      - Very course
+      required: true
+    - id: 4
+      name: hair_length
+      label: Length
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Medium
+      - Long
+      required: true
+    - id: 5
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scalp_condition
+      label: Scalp Condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Itchy
+      - Acne-prone
+      required: true
+    - id: 7
+      name: conservative_condition
+      label: Conservative Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Itchy
+      - Acne-prone
+      required: true
+    - id: 8
+      name: scalp_condition_duration
+      label: Scalp Condition Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: hair_porosity_insights
+      label: Hair Porosity Insights
+      hint: null
+      type: select_multiple
+      options:
+      - Hair porosity affects my scalp comfort
+      - Has an impact on overall scalp health
+      - Is influenced by my scalp type
+      - Is affected by styling products
+      - Other
+      required: true
+    - id: 10
+      name: hair_porosity_recommendations
+      label: Hair Porosity Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Use sulfate-free products
+      - Use a gentle scalp massager
+      - Keep hair out of the face
+      - Other
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: hair_porosity_consultant
+      label: Hair Porosity Consultant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: hair_porosity_consultant_phone
+      label: Hair Porosity Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: hair_porosity_consultant_address
+      label: Hair Porosity Consultant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: scalp_images
+      label: Scalp Images
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: scalp_images_description
+      label: Scalp Images Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: product_guidance
+      label: Product Guidance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: scalp_images_link
+      label: Scalp Images Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: video_consultation
+      label: Video Consultation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: video_consultation_link
+      label: Video Consultation Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: product_guidance_link
+      label: Product Guidance Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: hair_porosity_service
+      label: Hair Porosity Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 24
+      name: hair_porosity_service_link
+      label: Hair Porosity Service Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: video_record
+      label: Video Record
+      hint: null
+      type: time
+      options: []
+      required: true

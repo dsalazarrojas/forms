@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: municipal_sludge_disposal_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: municipal_sludge_management_programs
+      label: municipal_sludge_management_programs
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: sludge_disposal_practices
+      label: sludge_disposal_practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sludge_disposal_capacity
+      label: sludge_disposal_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sludge_disposal_frequency
+      label: sludge_disposal_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sludge_disposal_treatment
+      label: sludge_disposal_treatment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: sludge_disposal_costs
+      label: sludge_disposal_costs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sludge_disposal_regulations
+      label: sludge_disposal_regulations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission
+      label: submission
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

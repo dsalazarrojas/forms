@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Checkout Form
+    pages:
+    - id: 1
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_city
+      label: shipping city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_state
+      label: shipping state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_country
+      label: shipping country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_zip
+      label: shipping zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipping_phone
+      label: shipping phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_city
+      label: billing city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_state
+      label: billing state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_country
+      label: billing country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_zip
+      label: billing zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: billing_phone
+      label: billing phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 18
+      name: payment_card_number
+      label: Card Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_expiration
+      label: Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: payment_cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_comments
+      label: Shipping Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: order_date
+      label: Order Date
+      hint: null
+      type: time
+      options: []
+      required: false

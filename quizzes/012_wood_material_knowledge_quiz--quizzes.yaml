@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wood Material Knowledge Quiz
+    pages:
+    - id: 1
+      name: general_knowledge
+      label: General Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wood_types
+      label: Wood Types
+      hint: null
+      type: select_one
+      options:
+      - Oak
+      - Pine
+      - Fir
+      - Poplar
+      required: false
+    - id: 3
+      name: wood_weights
+      label: Wood Weights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: construction_methods
+      label: Construction Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Hammering
+      - Gluing
+      - Screwing
+      - Nailing
+      required: false
+    - id: 5
+      name: wood_grain
+      label: Wood Grain
+      hint: null
+      type: select_one
+      options:
+      - Coarse
+      - Medium
+      - Fine
+      required: false
+    - id: 6
+      name: material_cost
+      label: Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: construction_time
+      label: Construction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: safety_procedures
+      label: Safety Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Glasses
+      - Hearing Protection
+      - Face Shield
+      - Gloves
+      required: false
+    - id: 9
+      name: construction_techniques
+      label: Construction Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - Hammer
+      - Saw
+      - Drill
+      - Tape Measure
+      required: false
+    - id: 10
+      name: wood_material_cost
+      label: Wood Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: construction_tools
+      label: Construction Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Hammer
+      - Tape Measure
+      - Safety Glasses
+      - Level
+      required: false
+    - id: 12
+      name: material_properties
+      label: Material Properties
+      hint: null
+      type: select_multiple
+      options:
+      - Moisture Content
+      - Moisture Absorption
+      - Compressive Strength
+      - Electrical Conductivity
+      required: false
+    - id: 13
+      name: construction_site_conditions
+      label: Site Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Weather
+      - Temperature
+      - Humidity
+      - Wind Direction
+      required: false

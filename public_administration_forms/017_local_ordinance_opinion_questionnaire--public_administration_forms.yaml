@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Ordinance Opinion Questionnaire
+    pages:
+    - id: 1
+      name: community_feedback
+      label: How familiar are you with the local ordinances?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 2
+      name: ordinance_name
+      label: Ordinance name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe the ordinance.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 9
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: question_id
+      label: Question ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 16
+      name: comments_other
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment
+      label: File Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment_note
+      label: Attachment note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: back_button
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_button
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: prev_button
+      label: Prev
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

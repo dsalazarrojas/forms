@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tiny Home Purchase Order
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pricing
+      label: Pricing
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: buyer_info
+      label: Buyer Info
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_terms
+      label: Order Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: buyer_comments
+      label: Buyer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: seller_comments
+      label: Seller Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms_details
+      label: Payment Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_terms_details
+      label: Order Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: buyer_contact_number
+      label: Buyer Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: seller_contact_number
+      label: Seller Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: payment_terms_date
+      label: Payment Terms Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: order_terms_date
+      label: Order Terms Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: order_terms_time
+      label: Order Terms Time
+      hint: null
+      type: time
+      options: []
+      required: false

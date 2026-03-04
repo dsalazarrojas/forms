@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child And Youth Questionnaire
+    pages:
+    - id: 1
+      name: questionnaire_intro
+      label: -- Child and Youth Questionnaire --
+      hint: Share your thoughts and experiences with us
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: young_person_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: grade_or_school
+      label: Grade or school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to answer differently
+      - Prefer not to answer
+      required: false
+    - id: 6
+      name: program_or_activity
+      label: Program or activity you are in
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program_duration
+      label: How long have you been in this program?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 8
+      name: overall_experience
+      label: How would you rate your overall experience?
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Above average
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: favorite_aspect
+      label: What do you like most about the program?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: improvement_area
+      label: What could be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: staff_support
+      label: Do the staff make you feel supported and valued?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very much
+      - Yes, somewhat
+      - Neutral
+      - Not really
+      - No, not at all
+      required: true
+    - id: 12
+      name: friends_made
+      label: Have you made new friends through this program?
+      hint: null
+      type: select_one
+      options:
+      - Yes, many friends
+      - Yes, some friends
+      - A few acquaintances
+      - false
+      - Prefer not to answer
+      required: false
+    - id: 13
+      name: learned_new_things
+      label: Have you learned new skills or knowledge?
+      hint: null
+      type: select_one
+      options:
+      - Yes, a lot
+      - Yes, some
+      - A little
+      - Not really
+      required: true
+    - id: 14
+      name: confidence_growth
+      label: Has this program helped you gain confidence?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, somewhat
+      - Neutral
+      - false
+      required: true
+    - id: 15
+      name: feel_safe
+      label: Do you feel safe in this program?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very safe
+      - Yes, mostly safe
+      - Sometimes safe
+      - Not usually safe
+      - No, unsafe
+      required: true
+    - id: 16
+      name: welcome_feeling
+      label: Do you feel welcomed and included?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very much
+      - Yes, somewhat
+      - Neutral
+      - Not really
+      - false
+      required: true
+    - id: 17
+      name: future_participation
+      label: Would you like to continue with this program?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Unsure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 18
+      name: recommend_program
+      label: Would you recommend this program to other young people?
+      hint: null
+      type: select_one
+      options:
+      - Yes, strongly
+      - true
+      - Maybe
+      - Probably not
+      - false
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Any additional comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

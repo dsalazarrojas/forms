@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Public Safety Campaign Response Questionnaire
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: neighborhood
+      label: Neighborhood or area
+      hint: Where you live or work
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: awareness_level
+      label: Awareness of campaign
+      hint: 1 not aware to 5 very aware
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: message_clarity
+      label: Clarity of campaign messages
+      hint: Rate clarity
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: behavior_change_intent
+      label: Likelihood of behavior change
+      hint: Would you change behavior due to campaign
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Unlikely
+      required: true
+    - id: 6
+      name: preferred_channels
+      label: Preferred communication channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Local radio
+      - Flyers
+      - Community meetings
+      required: false
+    - id: 7
+      name: campaign_improvement_suggestions
+      label: Suggestions to improve campaign
+      hint: Open ended feedback
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trust_in_authorities
+      label: Trust in public safety authorities
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_consent
+      label: Consent for follow up
+      hint: Allow organizers to contact you
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Annual Living Condition Check In
+    pages:
+    - id: 1
+      name: tenant_annual_living_condition_check_in
+      label: Tenant Annual Living Condition Check In
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_priority
+      label: maintenance_priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 3
+      name: tenant_status
+      label: tenant_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Non-Active''}'
+      required: false
+    - id: 4
+      name: priority_date
+      label: priority_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: priority_time
+      label: priority_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: true
+    - id: 7
+      name: property_damage
+      label: property_damage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Minor''}'
+      - '{''value'': ''Major''}'
+      required: false
+    - id: 8
+      name: priority
+      label: priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tenant_contact
+      label: tenant_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_manager_comment
+      label: property_manager_comment
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leishmaniasis Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leishmaniasis_knowledge
+      label: Leishmaniasis Knowledge
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: quiz_time
+      label: Quiz Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: quiz_location
+      label: Quiz Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false

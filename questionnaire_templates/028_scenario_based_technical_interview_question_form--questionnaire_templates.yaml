@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scenario Based Technical Interview Question Form
+    pages:
+    - id: 1
+      name: scenario_based_interview_question
+      label: Scenario Based Technical Interview Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scenario_rating
+      label: Scenario Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: candidate_response
+      label: Candidate Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interviewer_rating
+      label: Interviewer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: technical_skill
+      label: Technical Skill
+      hint: null
+      type: select_one
+      options:
+      - Technical Skill 1
+      - Technical Skill 2
+      - Technical Skill 3
+      required: false
+    - id: 6
+      name: non_technical_skill
+      label: Non Technical Skill
+      hint: null
+      type: select_multiple
+      options:
+      - Non Technical Skill 1
+      - Non Technical Skill 2
+      - Non Technical Skill 3
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

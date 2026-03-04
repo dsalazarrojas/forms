@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Transition Support Survey
+    pages:
+    - id: 1
+      name: intro
+      label: gender_transition_support_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: what_is_your_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: gender_identity
+      label: how_do_you_identify
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Non-Binary''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Trans Female''}'
+      - '{''label'': ''Trans Male''}'
+      required: false
+    - id: 4
+      name: gender_identity_transition
+      label: when_did_you_begin_your_gender_transition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: gender_identity_plan
+      label: do_you_have_a_plan_for_transition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''unsure''}'
+      - '{''label'': ''not_applicable''}'
+      required: false
+    - id: 6
+      name: gender_identity_plan_other
+      label: gender_identity_plan_other
+      hint: please_explain
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transition
+      label: Transition
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: gender_identity_feelings
+      label: how_did_you_feel_about_your_transition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: gender_identity_support_services
+      label: what_type_of_support_services_do_you_find
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Counseling/Therapy''}'
+      - '{''label'': ''Medical''}'
+      - '{''label'': ''Support Groups''}'
+      - '{''label'': ''Online''}'
+      required: false
+    - id: 10
+      name: gender_identity_support_services_other
+      label: gender_identity_support_services_other
+      hint: please_explain
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gender_identity_support_services_frequency
+      label: how_often_do_you_attend_support_services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 12
+      name: gender_identity_support_services_frequency_other
+      label: gender_identity_support_services_frequency_other
+      hint: please_explain
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gender_identity_support_services_satisfaction
+      label: prophets_satisfaction_with_support_services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Unsatisfactory''}'
+      - '{''label'': ''Unsatisfactory''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Very Satisfactory''}'
+      required: false
+    - id: 14
+      name: gender_identity_support_services_satisfaction_other
+      label: feedback_on_support_services
+      hint: please_explain
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gender_identity_support_services_satisfaction
+      label: Gender Identity Support Services Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: gender_identity_support_services_satisfaction_reasons
+      label: reasons_for_satisfaction_or_unsatisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gender_identity_support_services_satisfaction_comments
+      label: additional_comments_on_satisfaction_with_support_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: gender_identity_support_services_satisfaction_providers
+      label: gender_identity_support_services_satisfaction_providers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: gender_identity_support_services_satisfaction_providers_suggestions
+      label: suggestions_for_improving_support_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: gender_identity_support_services_satisfaction_providers
+      label: Gender Identity Support Services Satisfaction Providers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Applicable''}'
+      - '{''label'': ''Unsatisfactory''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Very Satisfactory''}'
+      required: false

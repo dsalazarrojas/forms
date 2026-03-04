@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: workforce_capability_index_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workforces
+      label: Workforces
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Accounting and Finance'', ''label'': ''Accounting and Finance''}'
+      - '{''value'': ''Engineering'', ''label'': ''Engineering''}'
+      - '{''value'': ''IT'', ''label'': ''IT''}'
+      - '{''value'': ''Management'', ''label'': ''Management''}'
+      - '{''value'': ''Research'', ''label'': ''Research''}'
+      required: false
+    - id: 3
+      name: categories
+      label: Categories
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Analytical'', ''label'': ''Analytical''}'
+      - '{''value'': ''Communication'', ''label'': ''Communication''}'
+      - '{''value'': ''Leadership'', ''label'': ''Leadership''}'
+      - '{''value'': ''Problem Solving'', ''label'': ''Problem Solving''}'
+      - '{''value'': ''Technical'', ''label'': ''Technical''}'
+      - '{''value'': ''Time Management'', ''label'': ''Time Management''}'
+      - '{''value'': ''Workforce Development'', ''label'': ''Workforce Development''}'
+      required: true
+    - id: 4
+      name: categories_score
+      label: Category Score (0-4)
+      hint: Enter score for each category
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: scores
+      label: Scores
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 0, ''label'': 0}'
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      required: false
+    - id: 6
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Please enter any other feedback or comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

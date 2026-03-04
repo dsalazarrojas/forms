@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Installation Questionnaire
+    pages:
+    - id: 1
+      name: installation_site
+      label: installation_site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: required_equipment
+      label: required_equipment
+      hint: List any required equipment or tools.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: installation_date
+      label: installation_date
+      hint: Enter the date of the installation in the format 2015-01-01.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: installation_time
+      label: installation_time
+      hint: "Enter the start and end times of the installation in 24 hour format (HH:MM)."
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: client_preferred_language
+      label: client_preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 8
+      name: installation_contact
+      label: installation_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_requirements
+      label: special_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: client_email
+      hint: Enter the client's email.
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: client_phone
+      label: client_phone
+      hint: Enter the client's phone number.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_contact
+      label: assigned_contact
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - John Doe
+      - Jane Doe
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: municipal_business_tax_filing_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: tax_type
+      label: Tax Type
+      hint: null
+      type: select_one
+      options:
+      - Business Tax
+      - Income Tax
+      - Sales Tax
+      required: false
+    - id: 7
+      name: tax_period
+      label: Tax Period
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

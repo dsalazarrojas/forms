@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Government Services Feedback Questionnaire
+    pages:
+    - id: 1
+      name: service_quality
+      label: How would you rate the quality of our services?
+      hint: Rate from 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: service_availability
+      label: How often do you visit our services?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: issues
+      label: Which of the following issues have you experienced with our services?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: improvement_priorities
+      label: What are your top three priorities for improvement in our services?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: neighborhood
+      label: Which neighborhood do you reside in?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: feedback
+      label: Any additional comments or feedback?
+      hint: null
+      type: note
+      options: []
+      required: true

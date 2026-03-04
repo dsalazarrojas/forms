@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Compression Knowledge Quiz
+    pages:
+    - id: 1
+      name: lossless_compression
+      label: Lossless Compression
+      hint: null
+      type: select_one
+      options:
+      - Lossless compression
+      - Lossy compression
+      required: true
+    - id: 2
+      name: lossy_compression
+      label: Lossy Compression
+      hint: null
+      type: select_one
+      options:
+      - Lossless compression
+      - Lossy compression
+      required: true
+    - id: 3
+      name: data_compression_techniques
+      label: Data Compression Techniques
+      hint: Lossless and lossy compression techniques such as Huffman coding and run-length
+        encoding
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: run_length_encoding
+      label: Run-Length Encoding
+      hint: null
+      type: select_multiple
+      options:
+      - Run-Length Encoding (RLE)
+      - Lossy compression
+      required: true
+    - id: 5
+      name: huffman_compression
+      label: Huffman Coding
+      hint: null
+      type: select_one
+      options:
+      - Lossless compression
+      - Lossy compression
+      required: true
+    - id: 6
+      name: delta_encoding
+      label: Delta Encoding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: arithmetic_encoding
+      label: Arithmetic Encoding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dictionary_encoding
+      label: Dictionary Encoding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lossless_compression_techniques
+      label: Lossless Compression Techniques
+      hint: Null, lossless compression techniques such as run-length and Huffman coding
+      type: select_multiple
+      options:
+      - Run-Length Encoding (RLE)
+      - Huffman Coding
+      required: true
+    - id: 10
+      name: compression_ratio
+      label: Compression Ratio
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: data_compression_time
+      label: Data Compression Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: compression_technique_difficulties
+      label: Compression Technique Difficulties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: difficulty_in_understanding_compression
+      label: Difficulty in Understanding Compression
+      hint: null
+      type: select_one
+      options:
+      - Lossy compression
+      - Lossless compression
+      required: false
+    - id: 14
+      name: compressing_data_in_memory
+      label: Compressing Data in Memory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: memory_compression
+      label: Memory Compression
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: data_compression_techniques_in_real_life
+      label: Data Compression Techniques in Real Life
+      hint: null
+      type: select_multiple
+      options:
+      - Run-Length Encoding (RLE)
+      - Lossy compression
+      required: false
+    - id: 17
+      name: compressing_data_with_lossy_compression
+      label: Compressing Data with Lossy Compression
+      hint: null
+      type: select_multiple
+      options:
+      - Lossy compression
+      - Other
+      required: false
+    - id: 18
+      name: compressing_data_with_lossless_compression
+      label: Compressing Data with Lossless Compression
+      hint: null
+      type: select_multiple
+      options:
+      - Lossless compression
+      - Other
+      required: false
+    - id: 19
+      name: compressing_data_with_lossy_compression
+      label: Compressing Data with Lossy Compression
+      hint: null
+      type: select_multiple
+      options:
+      - Lossy compression
+      - Other
+      required: false
+    - id: 20
+      name: data_type
+      label: Data Type
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Image
+      - Audio
+      - Video
+      required: true
+    - id: 21
+      name: compression_type
+      label: Compression Type
+      hint: null
+      type: select_one
+      options:
+      - Lossy
+      - Lossless
+      required: true
+    - id: 22
+      name: bit_rate
+      label: Bit Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: compression_level
+      label: Compression Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 24
+      name: compressing_data_in_real_life
+      label: Compressing Data in Real Life
+      hint: null
+      type: select_multiple
+      options:
+      - Compressing images
+      - Compressing videos
+      - Compressing audios
+      - Compressing text files
+      required: true
+    - id: 25
+      name: data_compression
+      label: Data Compression
+      hint: null
+      type: text
+      options: []
+      required: false

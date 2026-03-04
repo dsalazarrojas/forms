@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Asset Monitoring Registration Form
+    pages:
+    - id: 1
+      name: property_asset_name
+      label: Property Asset Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: asset_type
+      label: asset type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''asset_type_1''}'
+      - '{''id'': 2, ''name'': ''asset_type_2''}'
+      required: false
+    - id: 3
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: asset_model
+      label: Asset Model
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''asset_model_1''}'
+      - '{''id'': 2, ''name'': ''asset_model_2''}'
+      - '{''id'': 3, ''name'': ''asset_model_3''}'
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In Service''}'
+      - '{''id'': 2, ''name'': ''Out of Service''}'
+      - '{''id'': 3, ''name'': ''Maintenance''}'
+      required: false
+    - id: 8
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Poor''}'
+      required: false
+    - id: 9
+      name: asset_notes
+      label: Asset Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: asset_email
+      label: Asset Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: asset_phone
+      label: Asset Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: asset_category
+      label: Asset Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''Category 2''}'
+      - '{''id'': 3, ''name'': ''Category 3''}'
+      required: false
+    - id: 13
+      name: asset_category_id
+      label: Asset Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: asset_serial_number
+      label: Asset Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: asset_tag_number
+      label: Asset Tag Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: asset_model_number
+      label: Asset Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_manufacturer
+      label: Asset Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: asset_model_year
+      label: Asset Model Year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: asset_purchase_date
+      label: Asset Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: asset_cost
+      label: Asset Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: asset_image
+      label: Asset Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_contact
+      label: Property Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: text
+      options: []
+      required: false

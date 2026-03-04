@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Quality Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Product Quality Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: How would you rate the product?
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 3
+      name: quality_characteristics
+      label: quality_characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - quality1
+      - quality2
+      - quality3
+      required: false
+    - id: 4
+      name: experience
+      label: How would you rate your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 5
+      name: product_features
+      label: Which of the following features are you using?
+      hint: null
+      type: select_multiple
+      options:
+      - feature1
+      - feature2
+      - feature3
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: How would you rate the product?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Cat A
+      - Cat B
+      - Cat C
+      required: false
+    - id: 11
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Sub A
+      - Sub B
+      - Sub C
+      required: false

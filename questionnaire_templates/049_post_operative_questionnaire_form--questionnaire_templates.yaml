@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Operative Questionnaire Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_surgery
+      label: Date of Surgery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_questionnaire
+      label: Date of Questionnaire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pain_level_1_to_10
+      label: Pain level 1-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pain_location_1_to_10
+      label: Pain location 1-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: emotional_state_1_to_10
+      label: Emotional state 1-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction_1_to_10
+      label: Overall satisfaction 1-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: nausea
+      label: Nausea
+      hint: null
+      type: select_one
+      options:
+      - Nausea
+      - No Nausea
+      - Unable to assess
+      required: false
+    - id: 9
+      name: vomiting
+      label: Vomiting
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unable to assess
+      required: false
+    - id: 10
+      name: fever
+      label: Fever
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unable to assess
+      required: false
+    - id: 11
+      name: pain
+      label: Pain
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unable to assess
+      required: false
+    - id: 12
+      name: difficulty_breathing
+      label: Difficulty breathing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unable to assess
+      required: false
+    - id: 13
+      name: nausea_vomiting
+      label: Nausea/Vomiting
+      hint: null
+      type: select_multiple
+      options:
+      - Nausea
+      - Vomiting
+      - Unable to assess
+      required: false
+    - id: 14
+      name: pain_location
+      label: Pain location
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Chest
+      - Abdomen
+      - Back
+      - Extremities
+      - Unable to assess
+      required: false
+    - id: 15
+      name: emotional_state
+      label: Emotional state
+      hint: null
+      type: select_multiple
+      options:
+      - Anxious
+      - Angry
+      - Sad
+      - Calm
+      - Unable to assess
+      required: false
+    - id: 16
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 17
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_time
+      label: Follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_location
+      label: Follow up location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: medical_notes
+      label: Medical notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medication
+      label: Medications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: discharge_date
+      label: Discharge date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: physician_name
+      label: Physician name
+      hint: null
+      type: text
+      options: []
+      required: false

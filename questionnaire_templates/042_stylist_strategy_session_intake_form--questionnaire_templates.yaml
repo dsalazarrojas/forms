@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stylist Strategy Session Intake Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_data
+      label: Client data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferences
+      label: Session preferences
+      hint: null
+      type: select_one
+      options:
+      - Early Morning
+      - Late Morning
+      - Lunch
+      - Afternoon
+      - Evening
+      required: false
+    - id: 4
+      name: goals
+      label: Session goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: context
+      label: Session context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pre_session_checklist
+      label: Pre-session Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm Session Time
+      - Confirm Session Location
+      - Confirm Session Goals
+      required: false
+    - id: 7
+      name: stylist_notes
+      label: Stylist notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

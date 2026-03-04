@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toulouse Olfactory Assessment Questionnaire
+    pages:
+    - id: 1
+      name: first_page
+      label: What is your name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: visit_date
+      label: visit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: visit_time
+      label: visit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: olfactory_ability
+      label: olfactory_ability
+      hint: null
+      type: select_one
+      options:
+      - Olfactory Ability 1
+      - Olfactory Ability 2
+      - Olfactory Ability 3
+      - Olfactory Ability 4
+      - Olfactory Ability 5
+      - Olfactory Ability 6
+      - Olfactory Ability 7
+      - Olfactory Ability 8
+      - Olfactory Ability 9
+      - Olfactory Ability 10
+      required: false
+    - id: 6
+      name: nasal_discharge
+      label: nasal_discharge
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Yellow-green
+      - White-yellow
+      - Yellow-green-white
+      - Yellow
+      - White
+      - Green-yellow
+      - Green
+      - Green-white
+      required: false
+    - id: 7
+      name: nasal_smell
+      label: nasal_smell
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Weak
+      - Moderate
+      - None
+      - Pungent
+      - Musty
+      - Sweet
+      - Sour
+      required: false
+    - id: 8
+      name: anosmia
+      label: anosmia
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown/other (please specify)
+      required: false
+    - id: 9
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 11
+      name: race
+      label: race
+      hint: null
+      type: select_one
+      options:
+      - White
+      - African or African American
+      - Asian
+      - Latino/Hispanic
+      - Native American
+      required: false
+    - id: 12
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: visit_note
+      label: visit_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: olfactory_habit
+      label: olfactory_habit
+      hint: null
+      type: select_multiple
+      options:
+      - Frequent
+      - Occasional
+      - Rare
+      - Never
+      - Always
+      required: false
+    - id: 16
+      name: olfactory_pain
+      label: olfactory_pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: other_olfactory_condition
+      label: other_olfactory_condition
+      hint: null
+      type: select_one
+      options:
+      - Sinusitis
+      - Allergies
+      - Other (please specify)
+      required: false
+    - id: 18
+      name: other_condition_description
+      label: other_condition_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown/other (please specify)
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_note
+      label: follow_up_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: drug_delivery_research_intake_form
+    pages:
+    - id: 1
+      name: intro
+      label: Drug delivery research intake
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: research_question
+      label: research_question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research_area_of_interest
+      label: research_area_of_interest
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''drug_delivery''}'
+      - '{''label'': ''drug_discovery''}'
+      - '{''label'': ''drug_development''}'
+      required: true
+    - id: 8
+      name: research_location
+      label: research_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''lab''}'
+      - '{''label'': ''university''}'
+      required: true
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: true

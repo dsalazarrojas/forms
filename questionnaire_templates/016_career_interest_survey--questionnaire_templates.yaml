@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Interest Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_range
+        label: Age Range
+        hint: null
+        type: select_one
+        options:
+          - Under 18
+          - "18-25"
+          - "26-35"
+          - "36-45"
+          - "46-55"
+          - "56+"
+        required: true
+      - id: 4
+        name: current_student
+        label: Are You Currently a Student?
+        hint: null
+        type: select_one
+        options:
+          - "Yes - high school"
+          - "Yes - college"
+          - "Yes - graduate program"
+          - "No - but finished education"
+          - "No - still exploring education options"
+        required: true
+      - id: 5
+        name: current_grade_major
+        label: Current Grade Level or Major
+        hint: If student
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: academic_interests
+        label: Academic Interests
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Science and Mathematics
+          - Language and Literature
+          - Social Sciences
+          - Arts and Design
+          - Technology and Computing
+          - Engineering
+          - Business and Economics
+          - Health Sciences
+          - Agriculture and Environmental Science
+          - Trades and Vocational Studies
+        required: true
+      - id: 7
+        name: strongest_subjects
+        label: Strongest Subjects or Areas
+        hint: What do you do best in?
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: challenging_subjects
+        label: Most Challenging Subjects
+        hint: What subjects do you find difficult?
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: career_preference
+        label: Career Preference
+        hint: What type of work interests you?
+        type: select_one
+        options:
+          - Working with people
+          - Working with ideas and concepts
+          - Working with things and hands-on work
+          - Working with data and information
+          - Creative work
+          - Problem-solving
+          - Teaching or mentoring
+          - Leadership and management
+          - Entrepreneurship
+          - Undecided
+        required: true
+      - id: 10
+        name: industry_interests
+        label: Industries of Interest
+        hint: Select up to 5 industries
+        type: select_multiple
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Manufacturing
+          - Agriculture
+          - Energy
+          - Education
+          - Government
+          - Entertainment
+          - Retail
+          - Hospitality
+          - Construction
+          - Transportation
+          - Non-profit
+          - Other
+        required: true
+      - id: 11
+        name: job_satisfaction_factors
+        label: Most Important Job Satisfaction Factors
+        hint: Select your top 3
+        type: select_multiple
+        options:
+          - Good salary and benefits
+          - Job security
+          - Work-life balance
+          - Meaningful work
+          - Helping people
+          - Learning and growth
+          - Creativity and innovation
+          - Stability
+          - Flexible schedule
+          - Leadership opportunities
+          - Team environment
+        required: true
+      - id: 12
+        name: work_style
+        label: Preferred Work Style
+        hint: null
+        type: select_one
+        options:
+          - Independent work
+          - Team-based work
+          - A mix of both
+          - No preference
+        required: true
+      - id: 13
+        name: work_location
+        label: Preferred Work Location
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Office
+          - Remote or home-based
+          - Outdoor
+          - Travel
+          - Multiple locations
+          - No strong preference
+        required: true
+      - id: 14
+        name: salary_importance
+        label: How Important Is Salary?
+        hint: null
+        type: select_one
+        options:
+          - Very important - top priority
+          - Important - significant factor
+          - Somewhat important
+          - Not very important
+          - Not important
+        required: false
+      - id: 15
+        name: advanced_education
+        label: Plans for Advanced Education
+        hint: Certifications, degrees, training?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: extracurricular_activities
+        label: Extracurricular Activities or Hobbies
+        hint: Clubs, sports, hobbies, volunteer work
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: special_talents
+        label: Special Talents or Abilities
+        hint: Unique skills or gifts you have
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: role_models
+        label: Career Role Models or Mentors
+        hint: People who inspire your career choices
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: career_concerns
+        label: Career Concerns or Uncertainties
+        hint: What worries you about the future?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: support_needs
+        label: Support Needed for Career Planning
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Guidance and counseling
+          - Career information
+          - Mentoring
+          - Internship or work-study opportunities
+          - Skill development training
+          - Financial planning advice
+          - Family conversations
+          - Other support
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments About Your Career Interests
+        hint: Any other information?
+        type: text
+        options: []
+        required: false

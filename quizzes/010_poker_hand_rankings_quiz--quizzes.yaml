@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poker Hand Rankings Quiz
+    pages:
+    - id: 1
+      name: form_1
+      label: poker_hand_ranking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hand_ranking
+      label: poker_hand_ranking
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: royal_flush
+      label: royal_flush
+      hint: null
+      type: select_one
+      options:
+      - Royal Flush
+      - Straight Flush
+      - Four of a Kind
+      - Full House
+      - Three of a Kind
+      - Two Pairs
+      - One Pair
+      - No Hand
+      required: false
+    - id: 4
+      name: straight_flush
+      label: straight_flush
+      hint: null
+      type: select_one
+      options:
+      - Four of a Kind
+      - Full House
+      - Three of a Kind
+      - Two Pairs
+      - One Pair
+      - No Hand
+      required: false
+    - id: 5
+      name: four_of_a_kind
+      label: four_of_a_kind
+      hint: null
+      type: select_one
+      options:
+      - Full House
+      - Three of a Kind
+      - Two Pairs
+      - One Pair
+      - No Hand
+      required: false
+    - id: 6
+      name: full_house
+      label: full_house
+      hint: null
+      type: select_one
+      options:
+      - Three of a Kind
+      - Two Pairs
+      - One Pair
+      - No Hand
+      required: false
+    - id: 7
+      name: three_of_a_kind
+      label: three_of_a_kind
+      hint: null
+      type: select_one
+      options:
+      - Two Pairs
+      - One Pair
+      - No Hand
+      required: false
+    - id: 8
+      name: two_pairs
+      label: two_pairs
+      hint: null
+      type: select_one
+      options:
+      - One Pair
+      - No Hand
+      required: false
+    - id: 9
+      name: one_pair
+      label: one_pair
+      hint: null
+      type: select_one
+      options:
+      - No Hand
+      - Other
+      required: false
+    - id: 10
+      name: no_hand
+      label: no_hand
+      hint: null
+      type: select_one
+      options:
+      - No Hand
+      - Other
+      required: false

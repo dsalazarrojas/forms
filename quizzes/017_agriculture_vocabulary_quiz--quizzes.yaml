@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Vocabulary Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Course or class name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: q1_agronomy
+      label: Question 1 - What is agronomy
+      hint: Select the best definition
+      type: select_one
+      options:
+      - The science of soil management and crop production
+      - The study of farm animals
+      - The practice of irrigation
+      - The marketing of agricultural products
+      required: true
+    - id: 6
+      name: q2_fallow
+      label: Question 2 - What does fallow mean
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Land plowed but left unseeded for a season
+      - A type of livestock
+      - A harvesting technique
+      - A farm building
+      required: true
+    - id: 7
+      name: q3_intercropping
+      label: Question 3 - What is intercropping
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Growing two or more crops in proximity
+      - Rotating crops annually
+      - Planting in rows
+      - Using cover crops
+      required: true
+    - id: 8
+      name: q4_nitrogen_fixation
+      label: Question 4 - What is nitrogen fixation
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Converting atmospheric nitrogen into usable forms
+      - Removing nitrogen from soil
+      - Adding fertilizer to crops
+      - Measuring nitrogen levels
+      required: true
+    - id: 9
+      name: q5_ph_level
+      label: Question 5 - What pH level indicates acidic soil
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Below 7
+      - Exactly 7
+      - Above 7
+      - pH is not related to acidity
+      required: true
+    - id: 10
+      name: q6_monoculture
+      label: Question 6 - What is monoculture
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Growing a single crop species in an area
+      - Growing multiple crops together
+      - Organic farming practice
+      - Raising only one type of livestock
+      required: true
+    - id: 11
+      name: q7_vermicomposting
+      label: Question 7 - What is vermicomposting
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Composting using worms
+      - Composting with chemicals
+      - Burning organic waste
+      - Burying waste deep underground
+      required: true
+    - id: 12
+      name: q8_hydroponics
+      label: Question 8 - What is hydroponics
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Growing plants without soil using nutrient solutions
+      - Growing plants in sandy soil
+      - Underwater farming
+      - Irrigation farming
+      required: true
+    - id: 13
+      name: q9_cover_crop
+      label: Question 9 - What is the primary purpose of a cover crop
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To protect and improve soil between main crops
+      - To harvest for profit
+      - To provide shade for workers
+      - To attract pests away from main crops
+      required: true
+    - id: 14
+      name: q10_ipm
+      label: Question 10 - What does IPM stand for
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Integrated Pest Management
+      - International Plant Monitoring
+      - Internal Production Method
+      - Irrigation Planning Module
+      required: true
+    - id: 15
+      name: q11_loam
+      label: Question 11 - What is loam soil
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Soil with balanced sand, silt, and clay
+      - Pure clay soil
+      - Sandy soil only
+      - Rocky soil
+      required: true
+    - id: 16
+      name: q12_girdling
+      label: Question 12 - What is girdling in plants
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Removing a ring of bark around a tree trunk
+      - Pruning branches
+      - Watering at the base
+      - Fertilizing roots
+      required: true
+    - id: 17
+      name: q13_polyculture
+      label: Question 13 - What is polyculture
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Growing multiple crop species together
+      - Growing a single crop
+      - Raising multiple livestock types
+      - Using multiple fertilizers
+      required: true
+    - id: 18
+      name: q14_transpiration
+      label: Question 14 - What is transpiration
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Water movement through plants and evaporation from leaves
+      - Water absorption by roots
+      - Photosynthesis process
+      - Nutrient uptake
+      required: true
+    - id: 19
+      name: q15_chlorosis
+      label: Question 15 - What is chlorosis
+      hint: Select the best definition
+      type: select_one
+      options:
+      - Yellowing of plant leaves due to lack of chlorophyll
+      - Green growth on leaves
+      - Rapid plant growth
+      - Flower blooming
+      required: true
+    - id: 20
+      name: q16_bonus_terms
+      label: Bonus - Define These Terms
+      hint: Briefly define tillage, mulching, and leaching
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: completion_time
+      label: Completion Time (minutes)
+      hint: Time taken to complete quiz
+      type: number
+      options: []
+      required: false

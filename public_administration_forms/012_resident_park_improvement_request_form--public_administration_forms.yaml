@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resident Park Improvement Request Form
+    pages:
+    - id: 1
+      name: park_name
+      label: park_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_description
+      label: request_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_details
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: park_type
+      label: park_type
+      hint: null
+      type: select_one
+      options:
+      - Park
+      - Recreational
+      - Sports
+      required: true
+    - id: 8
+      name: priority_level
+      label: priority_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: true

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Profile Form
+    pages:
+    - id: 1
+      name: creator_name
+      label: Creator Name
+      hint: Author or developer name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: Book game or project name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: character_full_name
+      label: Character Full Name
+      hint: Complete name including middle names
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: character_nickname
+      label: Character Nickname or Alias
+      hint: Any alternate names
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: character_age
+      label: Character Age
+      hint: Current age in the story
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: character_gender
+      label: Character Gender
+      hint: Gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Genderfluid
+      - Agender
+      - Other
+      required: true
+    - id: 7
+      name: character_occupation
+      label: Character Occupation
+      hint: Current job or role
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: physical_appearance
+      label: Physical Appearance Description
+      hint: Height build hair eyes and distinguishing features
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: personality_traits
+      label: Key Personality Traits
+      hint: Top 5 traits separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: character_strengths
+      label: Character Strengths
+      hint: What they excel at
+      type: select_multiple
+      options:
+      - Intelligence
+      - Physical strength
+      - Emotional resilience
+      - Leadership
+      - Creativity
+      - Empathy
+      - Determination
+      - Loyalty
+      required: true
+    - id: 11
+      name: character_weaknesses
+      label: Character Weaknesses
+      hint: Areas of vulnerability
+      type: select_multiple
+      options:
+      - Impulsiveness
+      - Self-doubt
+      - Trust issues
+      - Fear of failure
+      - Stubbornness
+      - Perfectionism
+      - Social anxiety
+      - Anger issues
+      required: true
+    - id: 12
+      name: backstory_summary
+      label: Backstory Summary
+      hint: Key life events that shaped them
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: character_motivation
+      label: Primary Motivation
+      hint: What drives this character
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: character_goals
+      label: Character Goals
+      hint: Short and long term objectives
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: character_fears
+      label: Character Fears
+      hint: Phobias or deep fears
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: relationships
+      label: Key Relationships
+      hint: Important people in their life
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: character_arc
+      label: Expected Character Arc
+      hint: How they will change throughout the story
+      type: select_one
+      options:
+      - Positive growth
+      - Negative decline
+      - Redemption
+      - Corruption
+      - Self-discovery
+      - Minimal change
+      required: true
+    - id: 18
+      name: dialogue_style
+      label: Dialogue Style
+      hint: How they speak
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

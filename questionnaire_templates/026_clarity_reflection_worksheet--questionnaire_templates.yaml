@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clarity Reflection Worksheet
+    pages:
+      - id: 1
+        name: participant_name
+        label: Full Name
+        hint: Enter your first and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For worksheet records
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: reflection_date
+        label: Date of Reflection
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: reflection_period
+        label: What Period Are You Reflecting On
+        hint: Select the timeframe
+        type: select_one
+        options:
+          - Today
+          - This week
+          - This month
+          - This quarter
+          - This year
+          - Specific event or situation
+        required: true
+      - id: 5
+        name: current_state
+        label: How Would You Describe Your Current State
+        hint: Select your current state
+        type: select_one
+        options:
+          - Clear and focused
+          - Mostly clear
+          - Somewhat uncertain
+          - Confused or scattered
+          - Overwhelmed
+        required: true
+      - id: 6
+        name: wins_achievements
+        label: What Wins or Achievements Did You Have
+        hint: List your successes
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: challenges_faced
+        label: What Challenges Did You Face
+        hint: Describe obstacles encountered
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: lessons_learned
+        label: What Lessons Did You Learn
+        hint: Key takeaways from this period
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: emotions_experienced
+        label: What Emotions Did You Experience Most
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Joy
+          - Excitement
+          - Contentment
+          - Frustration
+          - Anxiety
+          - Sadness
+          - Anger
+          - Fear
+          - Hope
+          - Gratitude
+        required: true
+      - id: 10
+        name: values_alignment
+        label: How Aligned Were Your Actions With Your Values
+        hint: Rate your alignment
+        type: select_one
+        options:
+          - Completely aligned
+          - Mostly aligned
+          - Somewhat aligned
+          - Slightly aligned
+          - Not aligned at all
+        required: true
+      - id: 11
+        name: energy_sources
+        label: What Activities Gave You Energy
+        hint: What energized you
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: energy_drains
+        label: What Activities Drained Your Energy
+        hint: What depleted you
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: relationships_reflection
+        label: How Are Your Key Relationships
+        hint: Family, friends, colleagues
+        type: select_one
+        options:
+          - Thriving
+          - Good
+          - Stable
+          - Strained
+          - Needing attention
+        required: true
+      - id: 14
+        name: goals_progress
+        label: How Is Your Progress Toward Goals
+        hint: Rate your progress
+        type: select_one
+        options:
+          - Exceeding expectations
+          - On track
+          - Slightly behind
+          - Significantly behind
+          - No progress made
+        required: true
+      - id: 15
+        name: adjustments_needed
+        label: What Adjustments Do You Need to Make
+        hint: Changes for improvement
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: strengths_used
+        label: Which Strengths Did You Use
+        hint: Your personal strengths
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: growth_areas
+        label: What Areas Need Growth or Development
+        hint: Skills or habits to develop
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: gratitude_items
+        label: What Are You Grateful For
+        hint: List things you appreciate
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: action_steps
+        label: What Action Steps Will You Take Next
+        hint: Specific next steps
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: support_needed
+        label: What Support Do You Need
+        hint: Help from others
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: commitment_statement
+        label: What Is Your Commitment Moving Forward
+        hint: Your personal commitment
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: confidence_level
+        label: How Confident Are You in Your Plan
+        hint: Rate your confidence
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not very confident
+          - Uncertain
+        required: true
+      - id: 23
+        name: additional_notes
+        label: Additional Notes or Thoughts
+        hint: Any other reflections
+        type: text
+        options: []
+        required: false

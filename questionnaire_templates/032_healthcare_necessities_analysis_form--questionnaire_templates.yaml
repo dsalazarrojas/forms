@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Necessities Analysis Form
+    pages:
+    - id: 1
+      name: patient_data
+      label: patient_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_context
+      label: healthcare_context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_challenges
+      label: access_challenges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: client_data
+      label: client_data
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: healthcare_necessities
+      label: healthcare_necessities
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_plans
+      label: follow_up_plans
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: clinic_review
+      label: clinic_review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: clinic_comments
+      label: clinic_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_provider
+      label: assigned_provider
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Symmetry Concepts Quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: quiz_start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1_line_symmetry
+      label: Question 1 Line Symmetry
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: question2_rotational_symmetry
+      label: Question 2 Rotational Symmetry
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: question3_line_symmetry
+      label: Question 3 Line Symmetry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question4_rotational_symmetry
+      label: Question 4 Rotational Symmetry
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question5_symmetry_concept
+      label: Question 5 Symmetry Concept
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''line''}'
+      - '{''id'': 2, ''label'': ''rotational''}'
+      required: false
+    - id: 7
+      name: question6_symmetry_type
+      label: Question 6 Symmetry Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''line''}'
+      - '{''id'': 2, ''label'': ''rotational''}'
+      required: false
+    - id: 8
+      name: question7_answer_type
+      label: Question 7 Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: question8_answer_type
+      label: Question 8 Answer Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question9_line_symmetry_type
+      label: Question 9 Line Symmetry Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''line type 1''}'
+      - '{''id'': 2, ''label'': ''line type 2''}'
+      - '{''id'': 3, ''label'': ''line type 3''}'
+      required: false
+    - id: 11
+      name: question10_rotational_symmetry_type
+      label: Question 10 Rotational Symmetry Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''rotational type 1''}'
+      - '{''id'': 2, ''label'': ''rotational type 2''}'
+      - '{''id'': 3, ''label'': ''rotational type 3''}'
+      required: false
+    - id: 12
+      name: question11_line_symmetry_answer_type
+      label: Question 11 Line Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      - '{''id'': 3, ''label'': ''answer type 3''}'
+      required: false
+    - id: 13
+      name: question12_rotational_symmetry_answer_type
+      label: Question 12 Rotational Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 14
+      name: question13_line_symmetry_answer_type
+      label: Question 13 Line Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 15
+      name: question14_rotational_symmetry_answer_type
+      label: Question 14 Rotational Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 16
+      name: question15_line_symmetry_answer_type
+      label: Question 15 Line Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 17
+      name: question17_line_answer_type
+      label: Question 17 Line Symmetry Answer Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: question18_rotational_answer_type
+      label: Question 18 Rotational Symmetry Answer Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: question19_line_answer_type
+      label: Question 19 Line Symmetry Answer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 20
+      name: question20_line_answer_type
+      label: Question 20 Line Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 21
+      name: question21_line_answer_type
+      label: Question 21 Line Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 22
+      name: question22_rotational_answer_type
+      label: Question 22 Rotational Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 23
+      name: question23_line_answer_type
+      label: Question 23 Line Symmetry Answer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 24
+      name: question24_rotational_answer_type
+      label: Question 24 Rotational Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false
+    - id: 25
+      name: question25_line_answer_type
+      label: Question 25 Line Symmetry Answer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''answer type 1''}'
+      - '{''id'': 2, ''label'': ''answer type 2''}'
+      required: false

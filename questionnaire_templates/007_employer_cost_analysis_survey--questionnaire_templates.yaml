@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employer Cost Analysis Survey
+    pages:
+    - id: 1
+      name: labor_cost_categories
+      label: Labor Cost Categories
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: labor_benefits
+      label: Labor Benefits
+      hint: null
+      type: select_one
+      options:
+      - Labor Union Fees
+      - Stock Options
+      - Pensions
+      required: false
+    - id: 3
+      name: employer_expenses
+      label: Employer Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: labor_expense_categories
+      label: Labor Expense Categories
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: benefits_incentives
+      label: Benefits and Incentives
+      hint: null
+      type: select_multiple
+      options:
+      - Stock Options
+      - Pensions
+      - Other Benefits
+      required: false
+    - id: 6
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_form_ids
+      label: Assigned Form Ids
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form Id
+      hint: null
+      type: text
+      options: []
+      required: false

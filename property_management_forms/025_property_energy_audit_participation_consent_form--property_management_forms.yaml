@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_energy_audit_participation_consent_form
+    pages:
+    - id: 1
+      name: property_energy_audit_participation_consent
+      label: Property Energy Audit Participation Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_energy_audit_participation_consent
+      label: property_energy_audit_participation_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: property_owner_details
+      label: property_owner_details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Service Efficiency Inquiry Form
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare
+      - Medical
+      - Other
+      required: false
+    - id: 3
+      name: wait_time
+      label: Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: efficiency_level
+      label: Efficiency Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

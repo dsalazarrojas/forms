@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_planning_questionnaire
+    pages:
+    - id: 1
+      name: destination_selection
+      label: destination_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_of_travel
+      label: date_of_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: duration_of_stay
+      label: duration_of_stay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: travel_budges
+      label: travel_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_frequency
+      label: travel_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - once
+      - twice
+      - thrice
+      required: false

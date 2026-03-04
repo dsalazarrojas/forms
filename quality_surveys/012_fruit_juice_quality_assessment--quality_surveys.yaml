@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fruit Juice Quality Assessment
+    pages:
+    - id: 1
+      name: fruit_juice_quality_assessment_page_1
+      label: Quality Assessments
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: quality_assessment_questions
+      label: Sensory Tests
+      hint: List the sensory attributes that you are evaluating
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: color_appearance
+      label: Color
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: flavor_profile
+      label: Flavor
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: aroma
+      label: Aroma
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: taste
+      label: Taste
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sweetness
+      label: Sweetness Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: acidity
+      label: Acidity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: flavor_intensity
+      label: Flavor Intensity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: texture
+      label: Texture
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: appearance
+      label: Appearance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: packaging
+      label: Packaging
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: storage_conditions
+      label: Storage Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: fruit_type
+      label: Fruit Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: juice_concentration
+      label: Juice Concentration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: production_process
+      label: Production Process
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: packaging_materials
+      label: Packaging Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: packaging_location
+      label: Packaging Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: quality_rating
+      label: Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: packaging_weight
+      label: Packaging Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

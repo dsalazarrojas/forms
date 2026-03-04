@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Estate Plan Client Questionnaire Template
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Client name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: spouse_name
+      label: Spouse Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: other_dependents
+      label: Other dependents
+      hint: List the names of any other dependents
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 7
+      name: client_employees
+      label: Client employees
+      hint: List the names of any employees
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      - Jane
+      required: true
+    - id: 8
+      name: client_children
+      label: Client children
+      hint: Number of children
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: spouse_children
+      label: Spouse children
+      hint: Number of children
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: other_dependent_income
+      label: Other dependents income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_dependent_assets
+      label: Other dependents assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: other_dependent_liabilities
+      label: Other dependents liabilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: client_net_worth
+      label: Client's net worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: spouse_net_worth
+      label: Spouse's net worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: estate_administration
+      label: Estate administration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: estate_administrator
+      label: Estate administrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: estate_distribution
+      label: Estate distribution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: estate_taxation
+      label: Estate taxation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_fees
+      label: Client fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_documents
+      label: Client documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: estate_executors
+      label: Estate executors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: estate_domicile
+      label: Estate domicile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: estate_domicile_city
+      label: Estate domicile city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: estate_domicile_state
+      label: Estate domicile state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: estate_domicile_zip
+      label: Estate domicile zip
+      hint: null
+      type: text
+      options: []
+      required: false

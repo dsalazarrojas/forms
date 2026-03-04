@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Anesthesia Complications Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: procedure_info
+      label: Procedure Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: complications_occurred
+      label: Complications Occurred
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: complications_description
+      label: Complications Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: anesthesia_type
+      label: Anesthesia Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: complication_type
+      label: Complication Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: reaction_description
+      label: Reaction Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_outcome
+      label: Treatment Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

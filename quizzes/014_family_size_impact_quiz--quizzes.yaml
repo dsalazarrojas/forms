@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Size Impact Quiz
+    pages:
+    - id: 1
+      name: house_size
+      label: How many people live in your household
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: living_arrangement
+      label: What type of living arrangement
+      hint: null
+      type: select_multiple
+      options:
+      - Apartment
+      - House
+      - Condo
+      - Townhouse
+      - Other
+      required: false
+    - id: 3
+      name: income_range
+      label: What is the household income
+      hint: null
+      type: select_one
+      options:
+      - Low income
+      - Medium income
+      - High income
+      - Very High income
+      required: false
+    - id: 4
+      name: financial_impact
+      label: What is the financial impact of your household size on the environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: energy_consumption
+      label: What is the average monthly energy consumption in your household
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transportation_method
+      label: What type of fuel is primarily used for transportation
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Other
+      required: false
+    - id: 7
+      name: household_size
+      label: How many people are in your household
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_support
+      label: Do you receive financial support from your household members?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: false
+    - id: 9
+      name: household_type
+      label: What type of household do you live in?
+      hint: null
+      type: select_one
+      options:
+      - Single-family house
+      - Multi-family house
+      - Townhouse
+      - Condo
+      - Other
+      required: false
+    - id: 10
+      name: family_status
+      label: What is your marital status?
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Separated
+      required: false
+    - id: 11
+      name: family_members
+      label: How many family members live with you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: family_age
+      label: What is the age of the youngest household member?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: family_education
+      label: What is the average education level of the household members?
+      hint: null
+      type: select_one
+      options:
+      - Elementary school
+      - High school
+      - Bachelor
+      - Master
+      - PhD
+      required: false
+    - id: 14
+      name: family_income
+      label: What is the average annual household income?
+      hint: null
+      type: select_one
+      options:
+      - Low income
+      - Medium income
+      - High income
+      - Very High income
+      required: false
+    - id: 15
+      name: family_environmental_footprint
+      label: What is the average environmental footprint of your household?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 16
+      name: family_financial_contribution
+      label: What is the average financial contribution of your household members?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: family_financial_support
+      label: Do you receive financial support from your household members?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: false
+    - id: 18
+      name: family_environmental_contribution
+      label: What is the average environmental footprint of your household members?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 19
+      name: family_transportation
+      label: What is the main mode of transportation used?
+      hint: null
+      type: select_one
+      options:
+      - Private vehicle
+      - Public transport
+      - Cycling
+      - Walking
+      required: false
+    - id: 20
+      name: family_financial_savings
+      label: How many months you have saved money in your household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: family_environmental_savings
+      label: How many months you have saved money for the environment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: family_housing_type
+      label: What type of housing do you live in?
+      hint: null
+      type: select_one
+      options:
+      - Single-family house
+      - Multi-unit residence
+      - Townhouse
+      - Other
+      required: false
+    - id: 23
+      name: family_housing_size
+      label: What size of house do you live in?
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Big
+      required: false
+    - id: 24
+      name: family_financial_security
+      label: How secure do you feel about your financial situation?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 25
+      name: family_financial_stress
+      label: How stressed do you feel about your financial situation?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Owner Preventive Care Habits Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_info
+      label: pet info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''2-1'', ''label'': ''Dog''}'
+      - '{''id'': ''2-2'', ''label'': ''Cat''}'
+      - '{''id'': ''2-3'', ''label'': ''Both''}'
+      required: false
+    - id: 3
+      name: vaccination
+      label: vaccination
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''3-1'', ''label'': ''Daily''}'
+      - '{''id'': ''3-2'', ''label'': ''Weekly''}'
+      - '{''id'': ''3-3'', ''label'': ''Monthly''}'
+      - '{''id'': ''3-4'', ''label'': ''Never''}'
+      required: false
+    - id: 4
+      name: parasite_prevention
+      label: parasite prevention
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: parasite_info
+      label: parasite info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: checkup
+      label: checkup
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: checkup_info
+      label: checkup info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''7-1'', ''label'': ''Regular''}'
+      - '{''id'': ''7-2'', ''label'': ''As needed''}'
+      - '{''id'': ''7-3'', ''label'': ''Never''}'
+      required: false
+    - id: 8
+      name: parasite_frequency
+      label: parasite frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''8-1'', ''label'': ''Rarely''}'
+      - '{''id'': ''8-2'', ''label'': ''Occasionally''}'
+      - '{''id'': ''8-3'', ''label'': ''Frequently''}'
+      - '{''id'': ''8-4'', ''label'': ''Always''}'
+      required: false
+    - id: 9
+      name: veterinary_visits
+      label: veterinary visits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''9-1'', ''label'': ''Every 6 months''}'
+      - '{''id'': ''9-2'', ''label'': ''Every 12 months''}'
+      - '{''id'': ''9-3'', ''label'': ''More than 6 months''}'
+      required: false
+    - id: 10
+      name: parasite_control
+      label: parasite control
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''10-1'', ''label'': True}'
+      - '{''id'': ''10-2'', ''label'': False}'
+      - '{''id'': ''10-3'', ''label'': ''Undecided''}'
+      required: false
+    - id: 11
+      name: pet_type
+      label: pet type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''11-1'', ''label'': ''Dog''}'
+      - '{''id'': ''11-2'', ''label'': ''Cat''}'
+      - '{''id'': ''11-3'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: breed
+      label: breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: veterinarian
+      label: veterinarian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vaccination_history
+      label: vaccination history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vaccination_schedules
+      label: vaccination schedules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parasite_history
+      label: parasite history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preventative_services
+      label: preventative services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

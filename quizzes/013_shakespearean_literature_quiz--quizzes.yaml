@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shakespearean Literature Quiz
+    pages:
+    - id: 1
+      name: main_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: character_page
+      label: what-is-your-favorite-shakespeare-character
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: work_page
+      label: favorite-shakespearean-work
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_page
+      label: what-is-your-favorite-shakespearean-date
+      hint: 2000-01-01
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_page
+      label: favorite-shakespearean-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email_page
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_page
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note_page
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_subs
+      label: email-subs
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_subs
+      label: phone-subs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note_subs
+      label: note-subs
+      hint: null
+      type: note
+      options: []
+      required: false

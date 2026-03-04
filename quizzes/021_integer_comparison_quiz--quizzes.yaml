@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Integer Comparison Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: instruction
+      label: Instructions
+      hint: Read and follow the instructions carefully.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: Which of the following numbers is larger?
+      hint: null
+      type: select_multiple
+      options:
+      - '10'
+      - '5'
+      - '20'
+      - '15'
+      required: true
+    - id: 4
+      name: question_1_answer
+      label: answer_1
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '5'
+      - '20'
+      - '15'
+      required: true
+    - id: 5
+      name: question_2
+      label: Which of the following numbers is smaller?
+      hint: null
+      type: select_multiple
+      options:
+      - '20'
+      - '5'
+      - '15'
+      - '10'
+      required: true
+    - id: 6
+      name: question_2_answer
+      label: answer_2
+      hint: null
+      type: select_one
+      options:
+      - '20'
+      - '5'
+      - '15'
+      - '10'
+      required: true
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: Review the answers before submitting.
+      type: note
+      options: []
+      required: false

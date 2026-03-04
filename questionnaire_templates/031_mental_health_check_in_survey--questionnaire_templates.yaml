@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Check In Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: feeling_today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: feeling_yesterday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question3
+      label: overall_feeling
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: mental_health_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: how_do_you_feel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: have_you_considered_self_harm
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      - '{''text'': ''Sometimes''}'
+      required: false
+    - id: 8
+      name: question7
+      label: have_you_talked_to_someone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      - '{''text'': ''Prefer not to say''}'
+      required: false
+    - id: 9
+      name: question8
+      label: how_much_support
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very much''}'
+      - '{''text'': ''Somewhat''}'
+      - '{''text'': ''Not at all''}'
+      required: false
+    - id: 10
+      name: question9
+      label: what_support
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Family/Friends''}'
+      - '{''text'': ''Professional''}'
+      - '{''text'': ''Other''}'
+      required: false
+    - id: 11
+      name: question10
+      label: what_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question11
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: scheduled_checkin
+      label: scheduled_checkin
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      - '{''text'': ''Prefer not to say''}'
+      required: false
+    - id: 15
+      name: next_checkin
+      label: next_checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: next_checkin_time
+      label: next_checkin_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question12
+      label: question12
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: question13
+      label: question13
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: question14
+      label: question14
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: question15
+      label: question15
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question16
+      label: question16
+      hint: null
+      type: text
+      options: []
+      required: false

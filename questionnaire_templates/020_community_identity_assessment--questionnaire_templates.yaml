@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Identity Assessment
+    pages:
+    - id: 1
+      name: neighborhood_name
+      label: Name of Your Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: residency_years
+      label: How many years have you lived in this community?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: residency_reason
+      label: Primary Reason for Choosing to Live Here
+      hint: null
+      type: select_one
+      options:
+      - Family and Heritage
+      - Proximity to Work
+      - Housing Affordability
+      - Lifestyle and Amenities
+      - Historical Significance
+      required: true
+    - id: 4
+      name: belonging_sense
+      label: How strong is your sense of belonging to this community?
+      hint: null
+      type: select_one
+      options:
+      - Very Strong
+      - Strong
+      - Neutral
+      - Weak
+      - Very Weak
+      required: true
+    - id: 5
+      name: valued_asset
+      label: Most Valued Community Asset
+      hint: What is the best part of this area?
+      type: select_one
+      options:
+      - Public Parks and Green Spaces
+      - Local Small Businesses
+      - Schools and Libraries
+      - Cultural and Ethnic Diversity
+      - Safety and Low Crime
+      required: true
+    - id: 6
+      name: change_perception
+      label: What is your perception of how the community is changing?
+      hint: over the last 5 years
+      type: select_one
+      options:
+      - Improving significantly
+      - Staying about the same
+      - Declining in quality
+      required: true
+    - id: 7
+      name: cultural_representation
+      label: Level of Cultural Heritage Representation in Public Spaces
+      hint: e.g., Murals, festivals, names
+      type: select_one
+      options:
+      - Excellent - Very visible
+      - Good - Some representation
+      - Fair - Minimal representation
+      - Poor - Not represented
+      required: true
+    - id: 8
+      name: neighbor_interaction
+      label: Frequency of Positive Interaction with Neighbors
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely or Never
+      required: true
+    - id: 9
+      name: top_challenge
+      label: What is the single biggest challenge facing this community today?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: identity_word
+      label: One word to describe this community identity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: strengthening_suggestions
+      label: Suggestions for strengthening the local community identity
+      hint: Ideas for events, projects, or improvements
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: interest_in_committee
+      label: Are you interested in joining a community identity committee?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Send more info
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Check In Eligibility Questionnaire
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: checkin_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: room_floor
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: true

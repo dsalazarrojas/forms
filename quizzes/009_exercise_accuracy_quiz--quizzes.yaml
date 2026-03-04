@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: exercise_accuracy_quiz
+    pages:
+    - id: 1
+      name: quiz_title
+      label: Exercise Accuracy Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category_id
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Quizzes''}'
+      - '{''id'': 2, ''label'': ''Training''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: quiz_description
+      label: Quiz Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''other''}'
+      required: false
+    - id: 7
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

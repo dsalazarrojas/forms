@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Facility Hand Sanitizer Supply Order Form
+    pages:
+    - id: 1
+      name: sports_facility_hand_sanitizer_supply_order_form_page_1
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sanitizer_type
+      label: Sanitizer Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: quantity_needed
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeless Youth Education Access Survey
+    pages:
+    - id: 1
+      name: barriers_to_education
+      label: Barriers to Education
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: education_support_needs
+      label: Education Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false

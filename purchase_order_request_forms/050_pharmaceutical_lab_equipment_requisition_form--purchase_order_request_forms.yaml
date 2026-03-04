@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Lab Equipment Requisition Form
+    pages:
+    - id: 1
+      name: required_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Second Page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Third Page
+      hint: null
+      type: date
+      options: []
+      required: false

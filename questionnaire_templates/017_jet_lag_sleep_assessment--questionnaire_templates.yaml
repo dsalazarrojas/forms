@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jet Lag Sleep Assessment
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Travel Symptom
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sleep_duration_pre_travel
+      label: Sleep Duration Pre Travel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sleep_duration_post_travel
+      label: Sleep Duration Post Travel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sleep_quality_pre_travel
+      label: Sleep Quality Pre Travel
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: sleep_quality_post_travel
+      label: Sleep Quality Post Travel
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: jet_lag
+      label: Jet Lag
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_time
+      label: Follow up time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

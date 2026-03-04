@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Rights Assessment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rights_awareness
+      label: Rights Awareness
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: rights_confidence
+      label: Rights Confidence
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: environment_info
+      label: Environment Info
+      hint: null
+      type: select_one
+      options:
+      - Educator
+      - Counselor
+      - Community Team
+      required: false
+    - id: 5
+      name: rights_environment
+      label: Rights Environment
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Elementary School
+      - College/University
+      required: false
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: educator_comments
+      label: Educator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: counselor_comments
+      label: Counselor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: community_team_comments
+      label: Community Team Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: skip
+      label: Skip
+      hint: null
+      type: text
+      options: []
+      required: false

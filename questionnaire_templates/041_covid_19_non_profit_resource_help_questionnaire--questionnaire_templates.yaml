@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Non Profit Resource Help Questionnaire
+    pages:
+    - id: 1
+      name: household_header
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Head of Household Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: household_size
+      label: Household Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: demographics_header
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: household_members
+      label: Household Member Ages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: children_under_18
+      label: Children under 18
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: elderly_members
+      label: Elderly members over 65
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vulnerable_members
+      label: Members with health vulnerabilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: impact_header
+      label: -- COVID-19 Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: job_loss
+      label: Job loss due to pandemic
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 14
+      name: income_reduction
+      label: Income reduction percentage
+      hint: Estimate
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: housing_help
+      label: Housing or rent assistance needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: food_help
+      label: Food assistance needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: utility_help
+      label: Utility bill assistance needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: healthcare_help
+      label: Healthcare or medical assistance needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: childcare_help
+      label: Childcare assistance needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: mental_health_help
+      label: Mental health support needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: resources_header
+      label: -- Resources and Programs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: aware_of_resources
+      label: Aware of available resources or programs
+      hint: null
+      type: select_one
+      options:
+      - Yes, Many Resources
+      - Some Resources
+      - Not Aware
+      required: true
+    - id: 23
+      name: access_barriers
+      label: Barriers to accessing resources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Language Barrier
+      - Technology Access
+      - Transportation
+      - Eligibility Concerns
+      - Trust Issues
+      - Other
+      required: false
+    - id: 24
+      name: priority_help
+      label: Top Priority for Assistance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Marketing Tools Requisition Form
+    pages:
+    - id: 1
+      name: marketing_tools_form
+      label: Marketing Tools Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tech_request_details
+      label: Tech Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: request_time
+      label: Request Time
+      hint: "HH:MM am/pm"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: cost
+      label: Cost
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: requester_title
+      label: Requester Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: department_request
+      label: Department Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_request
+      label: Manager Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: requester_manager
+      label: Requester Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: requester_team
+      label: Requester Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: reviewed
+      label: Reviewed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

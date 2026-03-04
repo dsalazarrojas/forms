@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personality Research Form
+    pages:
+    - id: 1
+      name: intro
+      label: Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: Demographic Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: personality_test
+      label: Personality Test
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: personality_scale
+      label: Personality Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: research_goals
+      label: Research Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_area
+      label: Research Area
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Personality''}'
+      - '{''value'': ''Cognitive''}'
+      - '{''value'': ''Emotional''}'
+      required: false
+    - id: 7
+      name: research_focus
+      label: Research Focus
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: research_sample_size
+      label: Research Sample Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: research_duration
+      label: Research Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: research_status
+      label: Research Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Pending''}'
+      required: false

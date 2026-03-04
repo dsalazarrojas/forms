@@ -1,0 +1,356 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Complex Security Service Request
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique request number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_time
+      label: Request Time
+      hint: Time of request
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: resident_name
+      label: Resident Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: resident_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: apartment_number
+      label: Apartment Number
+      hint: Unit number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_number
+      label: Building Number
+      hint: Building identifier
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_type
+      label: Type of Security Request
+      hint: Select the type
+      type: select_one
+      options:
+      - Emergency
+      - Urgent
+      - Routine
+      - Information only
+      required: true
+    - id: 10
+      name: incident_category
+      label: Incident Category
+      hint: What type of incident
+      type: select_one
+      options:
+      - Suspicious activity
+      - Noise complaint
+      - Unauthorized access
+      - Property damage
+      - Theft or vandalism
+      - Harassment
+      - Parking issue
+      - Lighting issue
+      - Gate or access problem
+      - Other
+      required: true
+    - id: 11
+      name: incident_description
+      label: Incident Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_location
+      label: Incident Location
+      hint: Where did it occur
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_date
+      label: Incident Date
+      hint: When did it happen
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: incident_time
+      label: Incident Time
+      hint: What time did it happen
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: ongoing_issue
+      label: Is this an ongoing issue
+      hint: Has this happened before
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once before
+      - No, first occurrence
+      required: true
+    - id: 16
+      name: previous_reports
+      label: Have you reported this before
+      hint: Previous reports
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: persons_involved
+      label: Number of Persons Involved
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: suspect_description
+      label: Suspect Description
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_description
+      label: Vehicle Description
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evidence_available
+      label: Evidence Available
+      hint: Do you have evidence
+      type: select_one
+      options:
+      - Yes, photos
+      - Yes, video
+      - Yes, audio
+      - Yes, witness statements
+      - No evidence
+      required: true
+    - id: 21
+      name: witnesses_present
+      label: Were there witnesses
+      hint: Other people who saw
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 22
+      name: witness_contact
+      label: Witness Contact Information
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: police_report_filed
+      label: Has a police report been filed
+      hint: Law enforcement involvement
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning to file
+      required: true
+    - id: 24
+      name: police_report_number
+      label: Police Report Number
+      hint: If filed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: immediate_action_needed
+      label: Is immediate action needed
+      hint: Urgency level
+      type: select_one
+      options:
+      - Yes, immediate response
+      - Yes, within 24 hours
+      - Yes, within 48 hours
+      - No, routine response
+      required: true
+    - id: 26
+      name: safety_concern
+      label: Do you feel safe
+      hint: Current safety level
+      type: select_one
+      options:
+      - Yes, I feel safe
+      - Somewhat concerned
+      - Very concerned
+      - I do not feel safe
+      required: true
+    - id: 27
+      name: requested_action
+      label: Requested Action
+      hint: What would you like done
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - In-person visit
+      required: true
+    - id: 29
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: true
+    - id: 30
+      name: additional_information
+      label: Additional Information
+      hint: Anything else relevant
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: resident_signature
+      label: Resident Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: assignment_section
+      label: -- For Security Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: assigned_to
+      label: Assigned To
+      hint: Security personnel
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: priority_level
+      label: Priority Level
+      hint: Assigned priority
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 35
+      name: status
+      label: Status
+      hint: Request status
+      type: select_one
+      options:
+      - Open
+      - In progress
+      - Pending investigation
+      - Resolved
+      - Closed
+      required: false
+    - id: 36
+      name: response_date
+      label: Response Date
+      hint: When was response made
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: actions_taken
+      label: Actions Taken
+      hint: Describe response
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: resolution_notes
+      label: Resolution Notes
+      hint: Final outcome
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional action needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 40
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to follow up
+      type: date
+      options: []
+      required: false
+    - id: 41
+      name: security_supervisor
+      label: Security Supervisor
+      hint: Supervisor name
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: completion_date
+      label: Completion Date
+      hint: Date closed
+      type: date
+      options: []
+      required: false

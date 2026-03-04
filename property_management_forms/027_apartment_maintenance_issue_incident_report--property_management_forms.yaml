@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Maintenance Issue Incident Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_time
+      label: Report time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: report_id
+      label: Maintenance request ID
+      hint: Auto-generated reference
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resident_name
+      label: Resident name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: apartment_number
+      label: Apartment or unit number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Resident phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Resident email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: issue_type
+      label: Type of maintenance issue
+      hint: Select primary category
+      type: select_one
+      options:
+      - Plumbing
+      - Electrical
+      - HVAC
+      - Appliance
+      - Structural
+      - Paint or flooring
+      - Door or window
+      - Safety hazard
+      - Other
+      required: true
+    - id: 9
+      name: location
+      label: Location of issue within apartment
+      hint: Kitchen, bathroom, bedroom, etc
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: detailed_description
+      label: Detailed description of the issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: issue_date
+      label: Date issue occurred or noticed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: issue_time
+      label: Time issue occurred
+      hint: If applicable
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: safety_hazard
+      label: Is this a safety hazard?
+      hint: null
+      type: select_one
+      options:
+      - Yes, urgent safety hazard
+      - Potential safety issue
+      - No safety concern
+      required: true
+    - id: 14
+      name: photos_attached
+      label: Photos or evidence attached
+      hint: null
+      type: select_one
+      options:
+      - Yes, attached
+      - Will provide
+      - false
+      required: true
+    - id: 15
+      name: damage_extent
+      label: Extent of damage
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      - Extensive
+      required: true
+    - id: 16
+      name: resident_caused
+      label: Was damage caused by resident negligence?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 17
+      name: previous_similar
+      label: Are there similar issues in this unit previously?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 18
+      name: previous_reports
+      label: If yes, previous report details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: urgency_level
+      label: Urgency level
+      hint: null
+      type: select_one
+      options:
+      - Critical - needs immediate attention
+      - High - within 24 hours
+      - Medium - within 3 days
+      - Low - within 7 days
+      - Routine - non-urgent
+      required: true
+    - id: 20
+      name: assigned_to
+      label: Assigned to
+      hint: Maintenance person or contractor
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: estimated_cost
+      label: Estimated repair cost
+      hint: In dollars if known
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: access_required
+      label: Special access requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Scheduled follow-up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional notes or instructions
+      hint: null
+      type: text
+      options: []
+      required: false

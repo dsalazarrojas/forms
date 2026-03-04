@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Intelligence Quiz
+    pages:
+    - id: 1
+      name: user_name
+      label: Enter your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: military_id
+      label: Military ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: rank
+      label: Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      required: true
+    - id: 7
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: military_branch
+      label: Military Branch
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      required: true
+    - id: 10
+      name: military_position
+      label: Military Position
+      hint: null
+      type: select_one
+      options:
+      - Officer
+      - NCO
+      - Enlisted
+      required: true
+    - id: 11
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Training
+      - Advanced Training
+      - Specialized Training
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,249 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Documentation Quality Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Internal Audit
+          - External Audit
+          - Quality Assurance
+          - Compliance
+          - Risk Management
+          - Other
+        required: true
+      - id: 4
+        name: role_in_audit
+        label: Role in Audit
+        hint: Your role in the audit process
+        type: select_one
+        options:
+          - Audit Partner
+          - Audit Manager
+          - Senior Auditor
+          - Staff Auditor
+          - Reviewer
+          - Client
+          - Other
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: audit_period
+        label: Audit Period
+        hint: Which audit period is being reviewed?
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: documentation_completeness
+        label: Documentation Completeness
+        hint: Rate the completeness of audit documentation
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: documentation_accuracy
+        label: Documentation Accuracy
+        hint: Rate the accuracy of audit documentation
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: documentation_clarity
+        label: Documentation Clarity
+        hint: Rate the clarity of audit documentation
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: documentation_organization
+        label: Documentation Organization
+        hint: Rate the organization of audit documentation
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: workpaper_quality
+        label: Workpaper Quality
+        hint: Rate the quality of workpapers
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: evidence_sufficiency
+        label: Evidence Sufficiency
+        hint: Rate the sufficiency of audit evidence
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: evidence_appropriateness
+        label: Evidence Appropriateness
+        hint: Rate the appropriateness of audit evidence
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: compliance_with_standards
+        label: Compliance with Standards
+        hint: Rate compliance with auditing standards
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: review_notes_resolution
+        label: Review Notes Resolution
+        hint: How well are review notes resolved?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 16
+        name: documentation_timeliness
+        label: Documentation Timeliness
+        hint: Is documentation completed on time?
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 17
+        name: template_effectiveness
+        label: Template Effectiveness
+        hint: Rate the effectiveness of documentation templates
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 18
+        name: software_tools_used
+        label: Software Tools Used
+        hint: Which tools are used for documentation?
+        type: select_multiple
+        options:
+          - Excel
+          - Word
+          - Audit-specific software
+          - Cloud-based tools
+          - Paper-based
+          - Other
+        required: true
+      - id: 19
+        name: areas_needing_improvement
+        label: Areas Needing Improvement
+        hint: What areas need improvement?
+        type: select_multiple
+        options:
+          - Completeness
+          - Accuracy
+          - Clarity
+          - Organization
+          - Timeliness
+          - Standardization
+          - Technology
+        required: true
+      - id: 20
+        name: improvement_recommendations
+        label: Improvement Recommendations
+        hint: Any recommendations for improvement
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: overall_quality_rating
+        label: Overall Quality Rating
+        hint: Rate overall documentation quality
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true

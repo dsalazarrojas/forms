@@ -1,0 +1,274 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Essential Course Pretest
+    pages:
+      - id: 1
+        name: participant_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: participant_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: course_name
+        label: Course Name
+        hint: Which caregiver course are you taking?
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: pretest_date
+        label: Pretest Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: caregiving_experience
+        label: Years of Caregiving Experience
+        hint: null
+        type: select_one
+        options:
+          - No experience - new caregiver
+          - Less than 1 year
+          - 1-2 years
+          - 3-5 years
+          - 5+ years
+        required: true
+      - id: 6
+        name: care_type_experience
+        label: Type of Caregiving Experience
+        hint: What type of care have you provided?
+        type: select_multiple
+        options:
+          - Personal hygiene and grooming
+          - Bathing and toileting
+          - Medication management
+          - Mobility and transfer assistance
+          - Wound care
+          - Dementia or Alzheimer's care
+          - Palliative or end-of-life care
+          - Physical or occupational therapy
+          - No prior experience
+        required: true
+      - id: 7
+        name: formal_training
+        label: Formal Caregiving Training
+        hint: Have you completed formal training?
+        type: select_one
+        options:
+          - "Yes - certified nursing assistant or similar"
+          - "Yes - other formal caregiving training"
+          - "No - only on-the-job learning"
+          - "No - no prior training"
+        required: true
+      - id: 8
+        name: cpr_certification
+        label: CPR or First Aid Certification
+        hint: Current certifications?
+        type: select_one
+        options:
+          - CPR certified - current
+          - CPR certified - expired
+          - First aid certified
+          - None - not certified
+        required: true
+      - id: 9
+        name: primary_motivation
+        label: Primary Motivation for Taking This Course
+        hint: Why are you taking this course?
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: confidence_personal_care
+        label: Confidence in Personal Care Skills
+        hint: Helping with hygiene, grooming, dressing
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Very uncertain
+        required: true
+      - id: 11
+        name: confidence_medication
+        label: Confidence in Medication Management
+        hint: Helping with medications and prescriptions
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Very uncertain
+        required: true
+      - id: 12
+        name: confidence_mobility
+        label: Confidence in Mobility and Transfers
+        hint: Helping with movement and transfers
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Very uncertain
+        required: true
+      - id: 13
+        name: confidence_communication
+        label: Confidence in Communication Skills
+        hint: Communicating with care recipients and family
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Very uncertain
+        required: true
+      - id: 14
+        name: confidence_emotional_support
+        label: Confidence in Providing Emotional Support
+        hint: Helping with emotional needs
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Very uncertain
+        required: true
+      - id: 15
+        name: knowledge_infection_control
+        label: Knowledge of Infection Control
+        hint: How well do you understand infection control?
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Knowledgeable
+          - Somewhat knowledgeable
+          - Limited knowledge
+          - No knowledge
+        required: true
+      - id: 16
+        name: knowledge_safety
+        label: Knowledge of Safety Procedures
+        hint: Understanding of safety practices
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Knowledgeable
+          - Somewhat knowledgeable
+          - Limited knowledge
+          - No knowledge
+        required: true
+      - id: 17
+        name: knowledge_dementia
+        label: Knowledge of Dementia or Cognitive Decline
+        hint: Understanding of memory loss and cognitive issues
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Knowledgeable
+          - Somewhat knowledgeable
+          - Limited knowledge
+          - No knowledge
+        required: true
+      - id: 18
+        name: knowledge_elder_abuse
+        label: Knowledge of Elder Abuse and Neglect
+        hint: Understanding of abuse prevention and reporting
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Knowledgeable
+          - Somewhat knowledgeable
+          - Limited knowledge
+          - No knowledge
+        required: true
+      - id: 19
+        name: learning_goals
+        label: Your Learning Goals for This Course
+        hint: What do you want to learn?
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: skills_improve
+        label: Skills You Want to Improve
+        hint: Select up to 3 skills
+        type: select_multiple
+        options:
+          - Personal care techniques
+          - Medication management
+          - Transfer and mobility assistance
+          - Communication skills
+          - Emotional support
+          - Infection control
+          - Safety procedures
+          - Dementia care strategies
+          - Recognizing abuse
+          - Time management
+        required: true
+      - id: 21
+        name: greatest_challenge
+        label: Your Greatest Challenge as a Caregiver
+        hint: What is most difficult?
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: support_needs
+        label: Support or Resources You Need
+        hint: What would help you most?
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: learning_style
+        label: Preferred Learning Style
+        hint: How do you learn best?
+        type: select_one
+        options:
+          - Hands-on demonstration and practice
+          - Visual aids and slides
+          - Listening to lectures
+          - Reading materials
+          - Interactive discussions
+          - Combination of methods
+        required: true
+      - id: 24
+        name: accessibility_needs
+        label: Accessibility or Accommodation Needs
+        hint: Any special accommodations?
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information we should know?
+        type: text
+        options: []
+        required: false

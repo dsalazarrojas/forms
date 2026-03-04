@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Powers Of Entry Assessment
+    pages:
+    - id: 1
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_entry_decision
+      label: Site Entry Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspector_id
+      label: Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_lead_id
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_entry
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_entry
+      label: Time of Entry
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: site_inspector_comments
+      label: Site Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_comments
+      label: Team Comments
+      hint: null
+      type: text
+      options: []
+      required: false

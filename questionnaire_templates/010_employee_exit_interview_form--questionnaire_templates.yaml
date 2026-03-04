@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_exit_interview_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leaving
+      label: Reason for leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Finance''}'
+      required: false
+    - id: 7
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notice_period
+      label: Notice period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Health insurance''}'
+      - '{''id'': 2, ''label'': ''Pension''}'
+      - '{''id'': 3, ''label'': ''Paid time off''}'
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

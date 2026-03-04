@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "AWV Questionnaire"
+    pages:
+    - id: 1
+      name: section_header_patient_info
+      label: "-- Patient Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: "Patient full name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: "Date of birth"
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: visit_date
+      label: "Date of visit"
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: primary_care_provider
+      label: "Name of primary care provider"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_health_history
+      label: "-- Health History --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_medications
+      label: "List all current medications, vitamins, and supplements"
+      hint: "Include dosage and frequency"
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: allergies
+      label: "List any known allergies"
+      hint: "Medications, food, environmental"
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: chronic_conditions
+      label: "Do you have any of the following conditions"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Diabetes"
+        - "High blood pressure"
+        - "Heart disease"
+        - "Arthritis"
+        - "Asthma or COPD"
+        - "Cancer"
+        - "None of the above"
+      required: true
+    - id: 10
+      name: surgeries_hospitalizations
+      label: "List any surgeries or hospitalizations in the past year"
+      hint: "Include approximate dates"
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_screenings
+      label: "-- Preventive Screenings --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: last_flu_vaccine_date
+      label: "Date of last flu vaccination"
+      hint: "Approximate date is acceptable"
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: last_pneumonia_vaccine
+      label: "Have you received a pneumonia vaccine"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+        - "Unsure"
+      required: true
+    - id: 14
+      name: last_colonoscopy_date
+      label: "Date of last colonoscopy"
+      hint: "Leave blank if never performed"
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: fall_risk
+      label: "Have you had any falls in the past 12 months"
+      hint: null
+      type: select_one
+      options:
+        - "No falls"
+        - "One fall"
+        - "Two or more falls"
+      required: true
+    - id: 16
+      name: section_header_mental_health
+      label: "-- Mental Health and Well-Being --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: feeling_depressed
+      label: "Over the past two weeks, have you felt down, depressed, or hopeless"
+      hint: null
+      type: select_one
+      options:
+        - "Not at all"
+        - "Several days"
+        - "More than half the days"
+        - "Nearly every day"
+      required: true
+    - id: 18
+      name: feeling_anxious
+      label: "Over the past two weeks, have you felt nervous, anxious, or on edge"
+      hint: null
+      type: select_one
+      options:
+        - "Not at all"
+        - "Several days"
+        - "More than half the days"
+        - "Nearly every day"
+      required: true
+    - id: 19
+      name: cognitive_concerns
+      label: "Have you or a family member noticed any changes in your memory or thinking"
+      hint: null
+      type: select_one
+      options:
+        - "No concerns"
+        - "Minor concerns"
+        - "Significant concerns"
+      required: true
+    - id: 20
+      name: section_header_lifestyle
+      label: "-- Lifestyle and Functional Status --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: exercise_frequency
+      label: "How often do you exercise per week"
+      hint: null
+      type: select_one
+      options:
+        - "None"
+        - "1 to 2 times"
+        - "3 to 4 times"
+        - "5 or more times"
+      required: true
+    - id: 22
+      name: tobacco_use
+      label: "Do you currently use tobacco products"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+        - "Former user"
+      required: true
+    - id: 23
+      name: alcohol_consumption
+      label: "How many alcoholic drinks do you consume per week"
+      hint: null
+      type: select_one
+      options:
+        - "None"
+        - "1 to 3"
+        - "4 to 7"
+        - "8 or more"
+      required: true
+    - id: 24
+      name: daily_activities_difficulty
+      label: "Do you have difficulty with any daily activities such as bathing, dressing, or eating"
+      hint: null
+      type: select_one
+      options:
+        - "No difficulty"
+        - "Some difficulty"
+        - "Significant difficulty"
+        - "Unable to perform without help"
+      required: true
+    - id: 25
+      name: health_goals
+      label: "What health goals would you like to discuss with your provider"
+      hint: null
+      type: text
+      options: []
+      required: false

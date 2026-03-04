@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: election_contexts_survey
+    pages:
+    - id: 1
+      name: election_participation
+      label: Election Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: information_sources
+      label: Information Sources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: perceived_election_fairness
+      label: Perceived Election Fairness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: voter_participation_barriers
+      label: Voter Participation Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: voter_participation_benefits
+      label: Voter Participation Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: election_administration
+      label: Election Administration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: civic_engagement
+      label: Civic Engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: civic_engagement_barriers
+      label: Civic Engagement Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: election_outcomes
+      label: Election Outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: civic_engagement_benefits
+      label: Civic Engagement Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: civic_outcomes
+      label: Civic Outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

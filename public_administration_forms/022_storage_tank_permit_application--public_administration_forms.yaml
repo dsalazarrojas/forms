@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Tank Permit Application
+    pages:
+    - id: 1
+      name: facility_info
+      label: facility_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tank_type
+      label: tank_type
+      hint: null
+      type: select_one
+      options:
+      - Tank Type 1
+      - Tank Type 2
+      - Tank Type 3
+      required: false
+    - id: 3
+      name: tank_capacity
+      label: tank_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tank_location
+      label: tank_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: tank_inspection
+      label: tank_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: safety_certifications
+      label: safety_certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Certification 1
+      - Safety Certification 2
+      - Safety Certification 3
+      required: false
+    - id: 8
+      name: permit_fee
+      label: permit_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false

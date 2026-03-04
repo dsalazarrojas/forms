@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Impact Of Isolation On Life Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: How Do You Feel
+      hint: null
+      type: select_multiple
+      options:
+      - Lonely
+      - Neutral
+      - Happy
+      required: true
+    - id: 2
+      name: isolation_scales
+      label: How Much Do You Feel
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: changes_in_life
+      label: What Changes
+      hint: null
+      type: select_one
+      options:
+      - Loss of a loved one
+      - Moving to a new city
+      - Job change
+      - Other (Specify)
+      required: true
+    - id: 4
+      name: coping_mechans
+      label: How Do You Cope
+      hint: null
+      type: select_multiple
+      options:
+      - Talk to a therapist
+      - Talk to friends
+      - Talk to a family member
+      - Call a support hotline
+      - Other (Specify)
+      required: true
+    - id: 5
+      name: wellbeing_scales
+      label: How Would You Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renewal Questionnaire Form
+    pages:
+    - id: 1
+      name: renewal_questionnaire_form
+      label: Renewal Questionnaire Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

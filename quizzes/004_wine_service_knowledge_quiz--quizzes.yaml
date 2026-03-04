@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Wine Service Knowledge Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How often do you clean and inspect the wine bottle before service?
+      hint: null
+      type: select_one
+      options:
+      - Clean and polish the bottle thoroughly before service
+      - Clean, but not polish
+      - Not often enough
+      - Rarely
+      required: true
+    - id: 3
+      name: question2
+      label: Do you know what wine to recommend to a customer based on their taste
+        preferences?
+      hint: This is a critical part of wine service
+      type: select_multiple
+      options:
+      - Fruity and sweet
+      - Fruity and dry
+      - Fruity and earthy
+      - Fruity and rich
+      required: true
+    - id: 4
+      name: question3
+      label: Do you know the different wine and food pairing options?
+      hint: null
+      type: select_multiple
+      options:
+      - Red wine and red meat
+      - Red wine and white meat
+      - White wine and red meat
+      - White wine and white meat
+      - Fruity wine and cheese
+      - Fruity wine and fish
+      - Dry wine and fruit
+      - Other
+      required: true
+    - id: 5
+      name: question4
+      label: How do you handle difficult customer requests?
+      hint: null
+      type: select_multiple
+      options:
+      - Politely
+      - Politely and explain
+      - Politely, but professionally
+      - Politely, but with a smile
+      - Not often
+      required: false
+    - id: 6
+      name: question5
+      label: How do you keep customers informed about wine service options?
+      hint: This helps them feel more in charge
+      type: select_one
+      options:
+      - Informing them of wine service options
+      - Informing them of wine options
+      - Not often
+      - Rarely
+      required: false
+    - id: 7
+      name: question6
+      label: Do you follow up with customers after service?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: question7
+      label: Are you able to handle wine service complaints?
+      hint: null
+      type: select_multiple
+      options:
+      - Handling complaints with the customer
+      - Handing complaints with the manager
+      - Not often
+      required: true
+    - id: 9
+      name: question8
+      label: Do you know what to do when the customer is dissatisfied with their wine?
+      hint: null
+      type: select_multiple
+      options:
+      - Apologize and offer alternatives
+      - Apologize and offer compensation
+      - Apologize but not offer alternatives or compensation
+      - Don't often
+      required: true
+    - id: 10
+      name: question9
+      label: Do you have a plan to increase wine service skills?
+      hint: null
+      type: select_one
+      options:
+      - Training
+      - Certification
+      - None
+      required: false
+    - id: 11
+      name: question10
+      label: How do you measure your wine service skills?
+      hint: null
+      type: select_multiple
+      options:
+      - Regular surveys and feedback
+      - Regular feedback only
+      - Regular surveys only
+      - No regular measures
+      required: false

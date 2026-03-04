@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Inspection Assessment Form
+    pages:
+    - id: 1
+      name: property_inspection_form
+      label: Property Inspection Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_details
+      label: property details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person_job_title
+      label: contact person job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - Land
+      - Other
+      required: false
+    - id: 7
+      name: property_condition
+      label: property condition
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 8
+      name: condition_description
+      label: condition description
+      hint: null
+      type: select_multiple
+      options:
+      - Water leak issue
+      - Electrical issue
+      - Foundation problems
+      - Other
+      required: false
+    - id: 9
+      name: date_inspected
+      label: date inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: inspected_by
+      label: inspected by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Other
+      required: false
+    - id: 13
+      name: contact_person_email
+      label: contact person email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_person_phone
+      label: contact person phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_inspector_note
+      label: property inspector note
+      hint: null
+      type: note
+      options: []
+      required: false

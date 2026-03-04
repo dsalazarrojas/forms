@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: itsm-platform-skills-assessment
+    pages:
+    - id: 1
+      name: itsm_platform_skills_assessment_1
+      label: itsm-platform-skills-assessment-form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: itsm_platform_skills_assessment_2
+      label: itsm-platform-proficiency
+      hint: Please evaluate your proficiency level in the ITSM platform.
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      required: true
+    - id: 3
+      name: itsm_platform_skills_assessment_3
+      label: itsm-platform-proficiency-training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''hiring''}'
+      - '{''label'': ''internal-benchmarking''}'
+      - '{''label'': ''training''}'
+      required: true
+    - id: 4
+      name: itsm_platform_skills_assessment_4
+      label: itsm-platform-skill
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: itsm_platform_skills_assessment_5
+      label: why-do-you-need-to-complete-this-form
+      hint: Use this space to provide a brief explanation for your evaluation.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: itsm_platform_skills_assessment_6
+      label: itsm-platform-evaluation-methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: itsm_platform_skills_assessment_7
+      label: itsm-platform-assessment-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: itsm_platform_skills_assessment_8
+      label: itsm-platform-assessment-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: itsm_platform_skills_assessment_9
+      label: itsm-platform-assessment-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: itsm_platform_skills_assessment_10
+      label: itsm-platform-skills-assessment-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: itsm_platform_skills_assessment_11
+      label: itsm-platform-skills-assessment-external-source
+      hint: Where did you find this ITSM Platform Skills Assessment form?
+      type: select_one
+      options:
+      - '{''label'': ''Google''}'
+      - '{''label'': ''Jotform''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: itsm_platform_skills_assessment_12
+      label: itsm-platform-skills-external-source-url
+      hint: If other was selected in 11, enter the external source URL.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: itsm_platform_skills_assessment_13
+      label: itsm-platform-skills-source-author
+      hint: If other was selected in 11, enter the author of the source.
+      type: text
+      options: []
+      required: false

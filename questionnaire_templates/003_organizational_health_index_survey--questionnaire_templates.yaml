@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Health Index Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: leadership
+      label: leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: culture
+      label: culture
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: engagement
+      label: engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: development
+      label: development
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 9
+      name: change_management
+      label: change management
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: collaboration
+      label: collaboration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 11
+      name: adaptability
+      label: adaptability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: innovation
+      label: innovation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 13
+      name: trust
+      label: trust
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 14
+      name: accountability
+      label: accountability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: results
+      label: results
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 17
+      name: learning
+      label: learning
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 18
+      name: employee_satisfaction
+      label: employee satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 19
+      name: organizational_satisfaction
+      label: organizational satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 20
+      name: engagement_score
+      label: engagement score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: development_score
+      label: development score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: collaboration_score
+      label: collaboration score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: adaptability_score
+      label: adaptability score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: innovation_score
+      label: innovation score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: trust_score
+      label: trust score
+      hint: null
+      type: number
+      options: []
+      required: true

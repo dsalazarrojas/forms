@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Greenhouse Management Agreement
+    pages:
+    - id: 1
+      name: greenhouse_ownership
+      label: Greenhouse Ownership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: greenhouse_details
+      label: Greenhouse Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: responsibilities
+      label: responsibilities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: greenhouse_manager
+      label: Greenhouse Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: rent_start_date
+      label: Rent Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rent_end_date
+      label: Rent End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: rent_period
+      label: Rent Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

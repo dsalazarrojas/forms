@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: values_alignment_reflection
+    pages:
+    - id: 1
+      name: intro
+      label: intro_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: self_assessment_scale
+      label: self_assessment_scale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reflection_questions
+      label: reflection_questions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: true
+    - id: 4
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: true
+    - id: 5
+      name: action_steps
+      label: action_steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: final_comments
+      label: final_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: date
+      options: []
+      required: true

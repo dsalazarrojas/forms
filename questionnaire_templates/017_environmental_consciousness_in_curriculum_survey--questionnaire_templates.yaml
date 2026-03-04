@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Consciousness In Curriculum Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: curriculum_coverage
+      label: curriculum coverage
+      hint: null
+      type: select_multiple
+      options:
+      - Earth sciences
+      - Life sciences
+      - Earth and life sciences
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: environmental_topics
+      label: environmental topics
+      hint: null
+      type: select_multiple
+      options:
+      - Climate change
+      - Biodiversity conservation
+      - Ecosystems and ecosystem services
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: staff_support
+      label: staff support
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: improvement ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: curriculum_coverage_ideas
+      label: curriculum coverage ideas
+      hint: null
+      type: select_multiple
+      options:
+      - Earth sciences
+      - Life sciences
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: environmental_awareness
+      label: environmental awareness
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: survey_completion
+      label: survey completion
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Partially completed
+      - Not completed
+      required: false
+    - id: 9
+      name: demographic_information
+      label: demographic information
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 10
+      name: staff_position
+      label: staff position
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Administrator
+      - Other
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

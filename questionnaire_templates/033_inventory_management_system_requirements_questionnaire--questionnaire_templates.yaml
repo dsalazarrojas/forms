@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Management System Requirements Questionnaire
+    pages:
+    - id: 1
+      name: required_fields
+      label: required_fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: business_requirements
+      label: business_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: technical_requirements
+      label: technical_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_criteria
+      label: evaluation_criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priorities
+      label: priorities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

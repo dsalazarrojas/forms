@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Maintenance Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Enter the property address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: schedule
+      label: Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Urgent
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: description
+      label: Description
+      hint: Enter a detailed description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - Property Manager
+      - Landlord
+      - Maintenance Team
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

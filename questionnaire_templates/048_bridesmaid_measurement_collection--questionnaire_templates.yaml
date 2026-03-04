@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridesmaid Measurement Collection
+    pages:
+    - id: 1
+      name: bridesmaid_name
+      label: Bridesmaid Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For dress delivery confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bride_name
+      label: Bride Name
+      hint: Which bride's wedding
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role_in_party
+      label: Role in Bridal Party
+      hint: Maid of honor or bridesmaid
+      type: select_one
+      options:
+      - Maid of honor
+      - Bridesmaid
+      - Junior bridesmaid
+      - Matron of honor
+      - Other
+      required: true
+    - id: 6
+      name: measurement_instructions
+      label: -- How to Take Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: dress_size
+      label: Standard Dress Size
+      hint: Your typical dress size
+      type: select_one
+      options:
+      - XS (0-2)
+      - S (4-6)
+      - M (8-10)
+      - L (12-14)
+      - XL (16-18)
+      - 1X
+      - 2X
+      - 3X+
+      required: true
+    - id: 8
+      name: bust_measurement
+      label: Bust Measurement
+      hint: In inches around bust
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: waist_measurement
+      label: Waist Measurement
+      hint: In inches around waist
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: hip_measurement
+      label: Hip Measurement
+      hint: In inches around hips
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: shoulder_width
+      label: Shoulder Width
+      hint: Shoulder to shoulder in inches
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sleeve_length
+      label: Sleeve Length
+      hint: From shoulder to wrist in inches
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: inseam_length
+      label: Inseam or Length
+      hint: Desired dress length in inches
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: height
+      label: Height
+      hint: Your height in feet and inches
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shoe_size
+      label: Shoe Size
+      hint: Your shoe size
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: arm_length
+      label: Arm Length (Shoulder to Fingertips)
+      hint: For sleeve fit
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: torso_length
+      label: Torso Length
+      hint: From shoulder to natural waist
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: dress_length_preference
+      label: Dress Length Preference
+      hint: How long should the dress be
+      type: select_one
+      options:
+      - Floor length
+      - Tea length
+      - Knee length
+      - Mini
+      - As designed
+      - Flexible
+      required: false
+    - id: 19
+      name: fit_preference
+      label: Fit Preference
+      hint: How fitted vs loose
+      type: select_one
+      options:
+      - Very fitted
+      - Fitted
+      - Semi-fitted
+      - Loose and comfortable
+      - Flexible based on design
+      required: false
+    - id: 20
+      name: recent_weight_changes
+      label: Recent Weight Changes
+      hint: Have you recently lost or gained weight
+      type: select_one
+      options:
+      - Weight stable
+      - Recently lost weight
+      - Recently gained weight
+      - Currently losing weight
+      - Currently gaining weight
+      required: false
+    - id: 21
+      name: expected_changes
+      label: Expected Weight Changes Before Wedding
+      hint: Anticipated changes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: alteration_notes
+      label: Alteration Notes
+      hint: Any fitting concerns
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: measurement_date
+      label: Date Measurements Taken
+      hint: When were these measurements taken
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: measured_by
+      label: Who Took Measurements
+      hint: Your name or person who measured
+      type: text
+      options: []
+      required: false

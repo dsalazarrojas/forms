@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair History Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hair_condition
+      label: Hair Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_treatments
+      label: Medical Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: hair_care
+      label: Hair Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hair_concerns
+      label: Hair Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_services
+      label: Previous Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

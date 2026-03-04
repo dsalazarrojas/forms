@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach Onboarding Quiz
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: When did you start or will start
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: coaching_specialty
+      label: Coaching Specialty
+      hint: What is your primary coaching focus
+      type: select_one
+      options:
+      - Health Coaching
+      - Wellness Coaching
+      - Life Coaching
+      - Career Coaching
+      - Executive Coaching
+      - Fitness Coaching
+      - Nutrition Coaching
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years of Coaching Experience
+      hint: How long have you been coaching
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 7
+      name: question_1
+      label: What Is the Primary Goal of Coaching
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To give clients advice
+      - To empower clients to reach their own solutions
+      - To fix client problems
+      - To tell clients what to do
+      required: true
+    - id: 8
+      name: question_2
+      label: Which Communication Technique Is Most Important in Coaching
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Giving advice
+      - Active listening
+      - Interrupting to clarify
+      - Talking more than the client
+      required: true
+    - id: 9
+      name: question_3
+      label: What Should You Do If a Client Discloses a Medical Emergency
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Continue the session
+      - Advise them to seek immediate medical attention
+      - Schedule a follow-up
+      - Ignore it
+      required: true
+    - id: 10
+      name: question_4
+      label: Confidentiality Can Be Broken When
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Client requests it
+      - There is imminent harm to self or others
+      - Coach feels like it
+      - Family member asks
+      required: true
+    - id: 11
+      name: question_5
+      label: What Is the GROW Model Used For
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Goal setting framework
+      - Nutrition planning
+      - Exercise routines
+      - Time management
+      required: true
+    - id: 12
+      name: question_6
+      label: A Coach Should Maintain Professional Boundaries By
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Becoming friends with clients
+      - Maintaining appropriate coach-client relationship
+      - Sharing personal problems
+      - Meeting outside scheduled sessions
+      required: true
+    - id: 13
+      name: question_7
+      label: What Is Motivational Interviewing
+      hint: Select the best answer
+      type: select_one
+      options:
+      - A sales technique
+      - A client-centered counseling approach
+      - A type of exercise
+      - A diet plan
+      required: true
+    - id: 14
+      name: question_8
+      label: When Should Documentation Be Completed
+      hint: Select the best answer
+      type: select_one
+      options:
+      - At the end of the week
+      - As soon as possible after each session
+      - Only when requested
+      - Never
+      required: true
+    - id: 15
+      name: question_9
+      label: What Does SMART Goals Stand For
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Simple Meaningful Achievable Relevant Timely
+      - Specific Measurable Achievable Relevant Time-bound
+      - Strategic Managed Actionable Realistic Tested
+      - None of the above
+      required: true
+    - id: 16
+      name: question_10
+      label: If a Client Is Not Making Progress You Should
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Blame the client
+      - Explore barriers and adjust the approach
+      - End the coaching relationship
+      - Ignore it
+      required: true
+    - id: 17
+      name: question_11
+      label: Cultural Competence in Coaching Means
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Only coaching people from your culture
+      - Understanding and respecting diverse backgrounds
+      - Ignoring cultural differences
+      - Assuming everyone is the same
+      required: true
+    - id: 18
+      name: question_12
+      label: What Is the Role of Accountability in Coaching
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To punish clients for mistakes
+      - To support clients in following through on commitments
+      - To make clients feel guilty
+      - To track every action
+      required: true
+    - id: 19
+      name: scenario_1
+      label: Scenario - A Client Wants to Skip Sessions Due to Cost What Do You Do
+      hint: Select the best response
+      type: select_one
+      options:
+      - Tell them they must continue
+      - Discuss options and possible adjustments
+      - End the relationship immediately
+      - Offer free sessions
+      required: true
+    - id: 20
+      name: scenario_2
+      label: Scenario - A Client Asks for Medical Advice You Should
+      hint: Select the best response
+      type: select_one
+      options:
+      - Provide the advice
+      - Refer them to a qualified healthcare provider
+      - Google the answer
+      - Tell them you do not know
+      required: true
+    - id: 21
+      name: scenario_3
+      label: Scenario - You Notice a Client Seems Depressed You Should
+      hint: Select the best response
+      type: select_one
+      options:
+      - Diagnose them
+      - Acknowledge and suggest professional support
+      - Ignore it
+      - Tell them to cheer up
+      required: true
+    - id: 22
+      name: company_policy_1
+      label: Our Company Requires Session Notes Within
+      hint: Select the correct timeframe
+      type: select_one
+      options:
+      - 24 hours
+      - 48 hours
+      - 1 week
+      - Not sure
+      required: true
+    - id: 23
+      name: company_policy_2
+      label: Client Cancellations Must Be Reported To
+      hint: Select the correct department
+      type: select_one
+      options:
+      - Billing department
+      - No one
+      - Your supervisor
+      - Not sure
+      required: true
+    - id: 24
+      name: self_assessment
+      label: How Confident Do You Feel About Company Policies
+      hint: Rate your confidence level
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: true
+    - id: 25
+      name: additional_training_needed
+      label: Areas Where You Need More Training
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Coaching Techniques
+      - Company Policies
+      - Documentation
+      - Crisis Management
+      - Cultural Competence
+      - Technology Platform
+      - None
+      required: false
+    - id: 26
+      name: quiz_comments
+      label: Additional Comments or Questions
+      hint: Anything you want to share
+      type: text
+      options: []
+      required: false

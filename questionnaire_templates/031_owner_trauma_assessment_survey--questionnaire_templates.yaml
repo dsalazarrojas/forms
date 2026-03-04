@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Owner Trauma Assessment Survey
+    pages:
+    - id: 1
+      name: owner_trauma_survey_1
+      label: owner_trauma_assessment_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trauma_assessment_survey
+      label: what_is_your_reason_for_seeking_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trauma_services_needed
+      label: what_services_do_you_need_help_with
+      hint: null
+      type: select_one
+      options:
+      - mental_health_counseling
+      - case_maintenance
+      - case_management
+      - crisis_intervention
+      - education_and_training
+      - financial_assistance
+      - housing_assistance
+      - medical_services
+      - peer_support
+      - practical_assistance
+      required: false
+    - id: 4
+      name: trauma_services_needed_2
+      label: which_services_do_you_need_help_with_2
+      hint: null
+      type: select_multiple
+      options:
+      - case_maintenance
+      - case_management
+      - crisis_intervention
+      - education_and_training
+      - financial_assistance
+      - housing_assistance
+      - medical_services
+      - peer_support
+      - practical_assistance
+      required: false

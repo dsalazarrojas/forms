@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: municipal_infrastructure_resident_feedback_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: infrastructure_condition
+      label: Infrastructure Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_accessibility
+      label: Services Accessibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: neighborhood_quality
+      label: Neighborhood Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: resident_satisfaction
+      label: Resident Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: services_quality
+      label: Services Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: neighborhood_safety
+      label: Neighborhood Safety
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: services_availability
+      label: Services Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: resident_satisfaction_awareness
+      label: Resident Satisfaction Awareness
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: infrastructure_services_priority
+      label: Infrastructure Services Priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: resident_satisfaction_impact
+      label: Resident Satisfaction Impact
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

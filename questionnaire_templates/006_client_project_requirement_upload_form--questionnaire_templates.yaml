@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Project Requirement Upload Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: Provide a detailed overview of the project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_scope
+      label: What is the scope of this project?
+      hint: Define the boundaries and deliverables
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: Who is the intended audience for this project?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget_allocated
+      label: Budget Allocated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_timeline
+      label: Project Timeline
+      hint: When do you need this project completed?
+      type: select_one
+      options:
+      - Urgent - 1-2 weeks
+      - Standard - 1-3 months
+      - Flexible - 3-6 months
+      - Long-term - 6+ months
+      required: true
+    - id: 9
+      name: start_date
+      label: Desired Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completion_date
+      label: Target Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: key_requirements
+      label: Key Project Requirements
+      hint: List the must-have features or deliverables
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_features
+      label: Nice-to-Have Features
+      hint: Optional features that would enhance the project
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reference_files
+      label: Upload Reference Files or Documents
+      hint: Attach any relevant documents, images, or specifications
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: brand_guidelines
+      label: Do you have brand guidelines to share?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: competitive_analysis
+      label: Competitor or Reference Examples
+      hint: Share links to projects similar to what you envision
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: success_metrics
+      label: How will you measure project success?
+      hint: Define success criteria or key performance indicators
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: Project Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

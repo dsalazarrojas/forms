@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: lawn_care_landscaping_new_client_questionnaire
+    pages:
+    - id: 1
+      name: lawn_care_service
+      label: Lawn Care Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lawn_size
+      label: Lawn Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: lawn_shape
+      label: Lawn Shape
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: grass_type
+      label: Grass Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: care_preferences
+      label: Care Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: landscaping_style
+      label: Landscaping Style
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

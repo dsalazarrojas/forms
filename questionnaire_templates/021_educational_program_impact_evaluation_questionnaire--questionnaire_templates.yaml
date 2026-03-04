@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Program Impact Evaluation Questionnaire
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Participant Information''}'
+      - '{''value'': ''Program Information''}'
+      required: true
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''January - March''}'
+      - '{''value'': ''April - June''}'
+      - '{''value'': ''July - September''}'
+      - '{''value'': ''October - December''}'
+      required: false
+    - id: 5
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Training''}'
+      - '{''value'': ''Workshop''}'
+      - '{''value'': ''Educational Session''}'
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_number
+      label: Participant Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: ADHD Consultation Form
+    pages:
+    - id: 1
+      name: intro
+      label: -- Consultation Intake --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: presenting_concerns
+      label: Presenting concerns and symptoms
+      hint: Describe main attention hyperactivity or impulsivity issues
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: duration_of_symptoms
+      label: Duration of symptoms
+      hint: Approximate months or years
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: functional_impairment
+      label: Areas of functional impairment
+      hint: School work relationships or daily living
+      type: select_multiple
+      options:
+      - Academic performance
+      - Work performance
+      - Social relationships
+      - Home routines
+      required: true
+    - id: 7
+      name: prior_assessments
+      label: Prior assessments or diagnoses
+      hint: List any previous evaluations or diagnoses
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications
+      label: Current medications
+      hint: Include dosage and prescribing clinician
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact phone number
+      hint: Provide name and phone
+      type: text
+      options: []
+      required: true

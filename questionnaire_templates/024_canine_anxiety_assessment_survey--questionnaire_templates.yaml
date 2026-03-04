@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canine Anxiety Assessment Survey
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dog_name
+      label: Dog Name
+      hint: Pet name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dog_breed
+      label: Dog Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dog_age
+      label: Dog Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: dog_gender
+      label: Dog Gender
+      hint: Male or female
+      type: select_one
+      options:
+      - Male - neutered
+      - Male - not neutered
+      - Female - spayed
+      - Female - not spayed
+      required: true
+    - id: 8
+      name: dog_weight
+      label: Dog Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: time_with_owner
+      label: How Long Have You Had Your Dog
+      hint: Duration of ownership
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - More than 5 years
+      required: true
+    - id: 10
+      name: anxiety_symptoms_observed
+      label: Anxiety Symptoms Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excessive barking
+      - Destructive behavior
+      - Pacing or restlessness
+      - Panting without exertion
+      - Trembling or shaking
+      - Hiding or cowering
+      - Excessive licking
+      - House soiling
+      - Loss of appetite
+      - Clinginess
+      required: true
+    - id: 11
+      name: symptom_frequency
+      label: How Often Do Symptoms Occur
+      hint: Frequency of anxiety signs
+      type: select_one
+      options:
+      - Multiple times daily
+      - Once daily
+      - Several times weekly
+      - Once weekly
+      - Rarely
+      required: true
+    - id: 12
+      name: symptom_severity
+      label: Severity of Symptoms
+      hint: How severe are symptoms
+      type: select_one
+      options:
+      - Mild - barely noticeable
+      - Moderate - noticeable but manageable
+      - Severe - disruptive to daily life
+      - Very severe - constant distress
+      required: true
+    - id: 13
+      name: anxiety_triggers
+      label: Known Anxiety Triggers
+      hint: What causes anxiety
+      type: select_multiple
+      options:
+      - Loud noises - thunderstorms - fireworks
+      - Being left alone
+      - Strangers or visitors
+      - Other dogs
+      - Car rides
+      - Vet visits
+      - New environments
+      - Changes in routine
+      - Separation from owner
+      - Unknown triggers
+      required: true
+    - id: 14
+      name: separation_anxiety
+      label: Does Your Dog Have Separation Anxiety
+      hint: When left alone
+      type: select_one
+      options:
+      - Yes - severe
+      - Yes - moderate
+      - Yes - mild
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: alone_time_tolerance
+      label: How Long Can Dog Be Alone
+      hint: Maximum time alone
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - More than 4 hours
+      required: true
+    - id: 16
+      name: noise_sensitivity
+      label: Noise Sensitivity Level
+      hint: Reaction to loud sounds
+      type: select_one
+      options:
+      - Very sensitive - panics
+      - Moderately sensitive
+      - Slightly sensitive
+      - Not sensitive
+      required: true
+    - id: 17
+      name: socialization_level
+      label: Socialization Level
+      hint: Comfort with people and dogs
+      type: select_one
+      options:
+      - Very social - loves everyone
+      - Selectively social
+      - Cautious with strangers
+      - Not social - prefers solitude
+      required: true
+    - id: 18
+      name: exercise_routine
+      label: Daily Exercise Routine
+      hint: Activity level
+      type: select_one
+      options:
+      - High - 2 or more hours
+      - Moderate - 1 to 2 hours
+      - Low - 30 minutes to 1 hour
+      - Minimal - less than 30 minutes
+      required: true
+    - id: 19
+      name: training_history
+      label: Training History
+      hint: Training received
+      type: select_one
+      options:
+      - Professional training completed
+      - Obedience classes attended
+      - Basic home training
+      - No formal training
+      required: true
+    - id: 20
+      name: previous_anxiety_treatment
+      label: Has Dog Received Anxiety Treatment
+      hint: Previous interventions
+      type: select_one
+      options:
+      - Yes - medication
+      - Yes - behavioral therapy
+      - Yes - natural remedies
+      - No - never treated
+      required: true
+    - id: 21
+      name: current_medications
+      label: Current Medications or Supplements
+      hint: What is dog taking
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vet_consultation
+      label: Have You Consulted a Vet About Anxiety
+      hint: Veterinary advice
+      type: select_one
+      options:
+      - Yes - recently
+      - Yes - in the past
+      - No - planning to
+      - No - not planning to
+      required: true
+    - id: 23
+      name: impact_on_household
+      label: How Does Anxiety Impact Your Household
+      hint: Effect on family
+      type: select_one
+      options:
+      - Significant disruption
+      - Moderate disruption
+      - Minor disruption
+      - Minimal impact
+      required: true
+    - id: 24
+      name: owner_stress_level
+      label: Your Stress Level Related to Dog Anxiety
+      hint: How it affects you
+      type: select_one
+      options:
+      - Very high stress
+      - Moderate stress
+      - Mild stress
+      - No stress
+      required: true
+    - id: 25
+      name: goals_for_treatment
+      label: What Are Your Goals for Treatment
+      hint: Desired outcomes
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: additional_information
+      label: Additional Information
+      hint: Other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: survey_date
+      label: Survey Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

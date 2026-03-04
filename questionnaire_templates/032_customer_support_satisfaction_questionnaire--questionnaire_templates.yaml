@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Support Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_interaction
+      label: Support Interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interaction_type
+      label: Interaction Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In-person''}'
+      required: false
+    - id: 4
+      name: rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: resolution
+      label: Was the issue resolved?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 7
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_level
+      label: Customer Service Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: resolution_time_satisfaction
+      label: How satisfied are you with resolution time?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 12
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: support_agent
+      label: Support Agent
+      hint: null
+      type: text
+      options: []
+      required: false

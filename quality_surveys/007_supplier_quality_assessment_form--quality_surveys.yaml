@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Quality Assessment Form
+    pages:
+    - id: 1
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_data
+      label: Product Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quality_score
+      label: Quality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      required: false
+    - id: 5
+      name: reliability
+      label: Reliability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quality_control
+      label: Quality Control
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_rating
+      label: Supplier Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Needs Improvement''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: quality_level
+      label: Quality Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 24
+      name: delivery_speed
+      label: Delivery Speed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Fast''}'
+      - '{''id'': 2, ''name'': ''Slow''}'
+      required: false
+    - id: 25
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Challenges Survey
+    pages:
+    - id: 1
+      name: user_id
+      label: user id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: historical_event
+      label: historical event
+      hint: null
+      type: select_one
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      - Event 4
+      - Event 5
+      required: false
+    - id: 4
+      name: historical_challenge
+      label: historical challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_area
+      label: research area
+      hint: null
+      type: select_one
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: false
+    - id: 6
+      name: study_method
+      label: study method
+      hint: null
+      type: select_multiple
+      options:
+      - Historical Analysis
+      - Historical Research
+      - Other
+      required: false
+    - id: 7
+      name: experience_frequency
+      label: experience frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: historical_event_participants
+      label: historical event participants
+      hint: null
+      type: select_multiple
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 9
+      name: historical_event_date
+      label: historical event date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: historical_event_duration
+      label: historical event duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: historical_event_frequency
+      label: historical event frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: historical_event_impact
+      label: historical event impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: historical_event_importance
+      label: historical event importance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: historical_event_interest
+      label: historical event interest
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: historical_event_significance
+      label: historical event significance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: historical_event_influenced
+      label: historical event influenced
+      hint: null
+      type: select_multiple
+      options:
+      - Highly
+      - Somewhat
+      - Not at all
+      required: false
+    - id: 17
+      name: cultural_event
+      label: cultural event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: personal_opinion
+      label: personal opinion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 22
+      name: historical_event_cultural_impact
+      label: historical event cultural impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 23
+      name: historical_event_cultural_importance
+      label: historical event cultural importance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: historical_event_cultural_interest
+      label: historical event cultural interest
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 25
+      name: historical_event_cultural_significance
+      label: historical event cultural significance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

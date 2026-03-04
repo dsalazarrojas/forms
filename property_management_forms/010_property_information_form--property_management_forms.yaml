@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Information Form
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location_id
+      label: Location ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location_name
+      label: Location Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: address_type
+      label: Address Type
+      hint: null
+      type: select_multiple
+      options:
+      - house
+      - apartment
+      - other
+      required: false
+    - id: 5
+      name: building_number
+      label: Building Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - rent
+      - sale
+      - lease
+      required: false
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - single_family
+      - multi_family
+      required: false
+    - id: 14
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: square_feet
+      label: Square Feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: property_description
+      label: Property Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: property_image
+      label: Property Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_video
+      label: Property Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

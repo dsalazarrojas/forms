@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: er_modeling_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_identification
+      label: Entity Identification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: attribute_definition
+      label: Attribute Definition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attribute_type
+      label: Attribute Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''string''}'
+      - '{''value'': ''integer''}'
+      - '{''value'': ''boolean''}'
+      - '{''value'': ''timestamp''}'
+      - '{''value'': ''list''}'
+      required: false
+    - id: 5
+      name: data_type
+      label: Data Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''varchar''}'
+      - '{''value'': ''date''}'
+      - '{''value'': ''double''}'
+      required: false
+    - id: 6
+      name: relationships
+      label: Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: foreign_key
+      label: Foreign Key
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: cardinality
+      label: Cardinality
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: cardinality_type
+      label: Cardinality Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: cardinality_options
+      label: Cardinality Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: cardinality_option
+      label: Cardinality Option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cardinality_option_type
+      label: Cardinality Option Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: question_answer
+      label: Question Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_answer_2
+      label: Question Answer 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question_answer_3
+      label: Question Answer 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: question_answer_4
+      label: Question Answer 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: question_answer_5
+      label: Question Answer 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: question_answer_6
+      label: Question Answer 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: question_answer_7
+      label: Question Answer 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: question_answer_8
+      label: Question Answer 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question_answer_9
+      label: Question Answer 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: question_answer_10
+      label: Question Answer 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: question_answer_11
+      label: Question Answer 11
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_answer_12
+      label: Question Answer 12
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question_answer_13
+      label: Question Answer 13
+      hint: null
+      type: text
+      options: []
+      required: false

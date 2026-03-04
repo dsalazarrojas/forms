@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Purpose Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: research_goals
+      label: Research Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_understanding
+      label: Participant Understanding
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: study_objectives
+      label: Study Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_purpose
+      label: Research Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: related_studies
+      label: Related Studies
+      hint: null
+      type: select_multiple
+      options:
+      - Study 1
+      - Study 2
+      - Study 3
+      required: true
+    - id: 7
+      name: research_team
+      label: Research Team
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: true
+    - id: 8
+      name: research_location
+      label: Research Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 9
+      name: research_funding
+      label: Research Funding
+      hint: null
+      type: select_one
+      options:
+      - Funding 1
+      - Funding 2
+      - Funding 3
+      required: false
+    - id: 10
+      name: research_duration
+      label: Research Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: research_status
+      label: Research Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 12
+      name: research_notes
+      label: Research Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_contact_info
+      label: Participant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: research_institutional_review
+      label: Institutional Review
+      hint: null
+      type: select_one
+      options:
+      - Review 1
+      - Review 2
+      - Review 3
+      required: false
+    - id: 17
+      name: research_institutional_approvals
+      label: Institutional Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Approval 1
+      - Approval 2
+      - Approval 3
+      required: false
+    - id: 18
+      name: research_conferences
+      label: Conferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_informed_consent
+      label: Participant Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - Consent 1
+      - Consent 2
+      - Consent 3
+      required: true
+    - id: 20
+      name: participant_informed_refusal
+      label: Participant Informed Refusal
+      hint: null
+      type: select_one
+      options:
+      - Refusal 1
+      - Refusal 2
+      - Refusal 3
+      required: true
+    - id: 21
+      name: participant_informed_withdrawal
+      label: Participant Informed Withdrawal
+      hint: null
+      type: select_one
+      options:
+      - Withdrawal 1
+      - Withdrawal 2
+      - Withdrawal 3
+      required: false
+    - id: 22
+      name: participant_informed_refusal_notes
+      label: Participant Informed Refusal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_informed_withdrawal_notes
+      label: Participant Informed Withdrawal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_informed_consent_notes
+      label: Participant Informed Consent Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_informed_refusal_termination_notes
+      label: Participant Informed Refusal Termination Notes
+      hint: null
+      type: text
+      options: []
+      required: false

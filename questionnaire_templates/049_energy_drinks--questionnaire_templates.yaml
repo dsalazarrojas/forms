@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Drinks
+    pages:
+    - id: 1
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drink_frequency
+      label: drink_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: drink_purpose
+      label: drink_purpose
+      hint: null
+      type: select_one
+      options:
+      - Energy Boost
+      - Relaxation
+      - Focus
+      required: true
+    - id: 4
+      name: drink_time
+      label: drink_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: drink_location
+      label: drink_location
+      hint: null
+      type: text
+      options: []
+      required: false

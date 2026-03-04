@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_rental_agreement_intake_form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: tenant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_info
+      label: address_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rent_details
+      label: rent_details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: rental_length
+      label: rental_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: lease_type
+      label: lease_type
+      hint: null
+      type: select_one
+      options:
+      - month_to_month
+      - month_to_month_with_option
+      - year_to_year
+      required: false
+    - id: 8
+      name: lease_term
+      label: lease_term
+      hint: null
+      type: select_multiple
+      options:
+      - 6_months
+      - 12_months
+      - 18_months
+      - 24_months
+      required: false
+    - id: 9
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guarantor_info
+      label: guarantor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - commercial
+      - other
+      required: false
+    - id: 14
+      name: property_features
+      label: property_features
+      hint: null
+      type: select_multiple
+      options:
+      - parking_available
+      - elevator
+      - other
+      required: false
+    - id: 15
+      name: landlord_info
+      label: landlord_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agent_info
+      label: agent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_owner
+      label: property_owner
+      hint: null
+      type: select_one
+      options:
+      - owner
+      - agent
+      required: false
+    - id: 18
+      name: rental_status
+      label: rental_status
+      hint: null
+      type: select_one
+      options:
+      - available
+      - rented
+      - leased
+      required: false
+    - id: 19
+      name: property_size
+      label: property_size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      - extra_large
+      required: false
+    - id: 20
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_image
+      label: property_image
+      hint: null
+      type: text
+      options: []
+      required: false

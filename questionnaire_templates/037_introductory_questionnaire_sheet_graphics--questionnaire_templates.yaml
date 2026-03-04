@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: introductory_questionnaire_sheet_graphics
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: web
+      label: web
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''web''}'
+      - '{''value'': ''Web''}'
+      - '{''value'': ''web''}'
+      required: true
+    - id: 3
+      name: print
+      label: print
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''print''}'
+      - '{''value'': ''Print''}'
+      - '{''value'': ''print''}'
+      required: true
+    - id: 4
+      name: video
+      label: video
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''video''}'
+      - '{''value'': ''Video''}'
+      - '{''value'': ''video''}'
+      required: true
+    - id: 5
+      name: work_type
+      label: what type of work
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''logo''}'
+      - '{''value'': ''logo''}'
+      - '{''value'': ''icon''}'
+      - '{''value'': ''banner''}'
+      - '{''value'': ''banner''}'
+      - '{''value'': ''brochure''}'
+      - '{''value'': ''business_cards''}'
+      required: true
+    - id: 6
+      name: size
+      label: size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: color_mode
+      label: color_mode
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''color''}'
+      - '{''value'': ''grayscale''}'
+      required: true
+    - id: 8
+      name: format
+      label: format
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''portrait''}'
+      - '{''value'': ''landscape''}'
+      - '{''value'': ''square''}'
+      required: true
+    - id: 9
+      name: resolution
+      label: resolution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: orientation
+      label: orientation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''portrait''}'
+      - '{''value'': ''landscape''}'
+      required: true
+    - id: 11
+      name: bleed
+      label: bleed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''bleed''}'
+      - '{''value'': ''no_bleed''}'
+      required: true
+    - id: 12
+      name: trim_type
+      label: trim_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''bleed''}'
+      - '{''value'': ''no_trim''}'
+      required: true
+    - id: 13
+      name: finish
+      label: finish
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''matte''}'
+      - '{''value'': ''glossy''}'
+      - '{''value'': ''matte''}'
+      required: true
+    - id: 14
+      name: paper_type
+      label: paper_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''card''}'
+      - '{''value'': ''card''}'
+      - '{''value'': ''8pt''}'
+      required: true
+    - id: 15
+      name: file_size
+      label: file_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: bleed_size
+      label: bleed_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: bleed_size_margin
+      label: bleed_size_margin
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: orientation_margin
+      label: orientation_margin
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: bleed_size_width
+      label: bleed_size_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: bleed_size_height
+      label: bleed_size_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: bleed_position
+      label: bleed_position
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''bleed''}'
+      - '{''value'': ''no_bleed''}'
+      required: true
+    - id: 22
+      name: trim_size
+      label: trim_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: trim_position
+      label: trim_position
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''trim''}'
+      - '{''value'': ''no_trim''}'
+      required: true
+    - id: 24
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pdf''}'
+      - '{''value'': ''pdf''}'
+      - '{''value'': ''eps''}'
+      required: true
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

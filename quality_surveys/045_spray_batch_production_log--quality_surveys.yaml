@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spray Batch Production Log
+    pages:
+    - id: 1
+      name: batch_id
+      label: Batch ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: operator_id
+      label: Operator ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_details
+      label: Production Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: batch_weight
+      label: Batch Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: batch_weight_uom
+      label: Batch Weight UOM
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_status
+      label: Production Status
+      hint: Production status of the batch
+      type: select_one
+      options:
+      - Running
+      - Completed
+      - Aborted
+      required: false
+    - id: 12
+      name: operator_comments
+      label: Operator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

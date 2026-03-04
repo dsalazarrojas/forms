@@ -1,0 +1,311 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Facility Selection Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Person completing survey
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship_to_resident
+      label: Relationship to Prospective Resident
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Spouse or Partner
+      - Adult Child
+      - Parent
+      - Sibling
+      - Other Family Member
+      - Friend
+      - Professional Care Coordinator
+      - Legal Guardian
+      required: true
+    - id: 3
+      name: prospective_resident_name
+      label: Prospective Resident Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: prospective_resident_age
+      label: Prospective Resident Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: care_level_needed
+      label: Level of Care Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Independent living
+      - Assistance with daily activities
+      - Memory care
+      - Skilled nursing care
+      - Rehabilitation services
+      - Hospice or palliative care
+      - Respite care
+      - Undecided
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Alzheimer's or dementia
+      - Parkinson's disease
+      - Diabetes
+      - Heart disease
+      - Mobility limitations
+      - Vision impairment
+      - Hearing impairment
+      - Incontinence
+      - Mental health conditions
+      - None
+      required: true
+    - id: 8
+      name: mobility_status
+      label: Mobility Status
+      hint: null
+      type: select_one
+      options:
+      - Fully mobile
+      - Uses cane
+      - Uses walker
+      - Uses wheelchair
+      - Bedbound
+      - Requires assistance
+      required: true
+    - id: 9
+      name: location_preference
+      label: Preferred Location
+      hint: City or area
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: distance_from_family
+      label: Maximum Distance From Family
+      hint: null
+      type: select_one
+      options:
+      - Within 5 miles
+      - Within 10 miles
+      - Within 25 miles
+      - Within 50 miles
+      - Distance not important
+      required: true
+    - id: 11
+      name: room_type_preference
+      label: Room Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Private room
+      - Semi-private room
+      - Shared room
+      - Suite
+      - Apartment style
+      - No preference
+      required: true
+    - id: 12
+      name: budget_range
+      label: Monthly Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $3,000
+      - $3,000 to $5,000
+      - $5,000 to $7,000
+      - $7,000 to $10,000
+      - Over $10,000
+      - Private pay not required
+      required: true
+    - id: 13
+      name: payment_source
+      label: Primary Payment Source
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Private pay
+      - Long-term care insurance
+      - Medicare
+      - Medicaid
+      - Veterans benefits
+      - Life insurance conversion
+      - Other
+      required: true
+    - id: 14
+      name: important_amenities
+      label: Important Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dining services
+      - Housekeeping
+      - Laundry services
+      - Transportation
+      - Fitness center
+      - Library
+      - Beauty or barber shop
+      - Chapel or worship space
+      - Garden or outdoor space
+      - Pet-friendly
+      required: true
+    - id: 15
+      name: activity_preferences
+      label: Activity Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Exercise classes
+      - Arts and crafts
+      - Music programs
+      - Educational lectures
+      - Religious services
+      - Social events
+      - Outdoor activities
+      - Game nights
+      - Movie screenings
+      - No specific preferences
+      required: true
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Regular diet
+      - Low sodium
+      - Diabetic
+      - Pureed or soft foods
+      - Religious dietary laws
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other allergies
+      required: true
+    - id: 17
+      name: pet_ownership
+      label: Does the Resident Have a Pet
+      hint: null
+      type: select_one
+      options:
+      - Yes - must accommodate pet
+      - Yes - but pet can be rehomed
+      - No pet
+      - Interested in facility pets
+      required: true
+    - id: 18
+      name: visitation_preferences
+      label: Visitation Importance
+      hint: null
+      type: select_one
+      options:
+      - Very important - frequent visitors expected
+      - Important - regular visitors
+      - Somewhat important
+      - Not a priority
+      required: true
+    - id: 19
+      name: timeline
+      label: Expected Move-in Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Just exploring options
+      required: true
+    - id: 20
+      name: current_living_situation
+      label: Current Living Situation
+      hint: null
+      type: select_one
+      options:
+      - Living alone at home
+      - Living with family
+      - Assisted living facility
+      - Nursing home
+      - Hospital
+      - Rehabilitation facility
+      - Other
+      required: true
+    - id: 21
+      name: decision_factors
+      label: Most Important Decision Factors
+      hint: Select top 3
+      type: select_multiple
+      options:
+      - Cost
+      - Location
+      - Quality of care
+      - Staff qualifications
+      - Facility cleanliness
+      - Activity programs
+      - Reputation
+      - Availability
+      - Medical services on-site
+      - Family recommendations
+      required: true
+    - id: 22
+      name: facility_visits_planned
+      label: How Many Facilities Have You Visited
+      hint: null
+      type: select_one
+      options:
+      - None yet
+      - 1-2
+      - 3-5
+      - 6-10
+      - More than 10
+      required: true
+    - id: 23
+      name: additional_requirements
+      label: Additional Requirements or Preferences
+      hint: Any other important considerations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assistance_needed
+      label: Do You Need Assistance With Facility Selection
+      hint: null
+      type: select_one
+      options:
+      - Yes - full assistance needed
+      - Yes - some guidance
+      - No - just gathering information
+      - No - decision already made
+      required: true
+    - id: 25
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - Text message
+      - Mail
+      - No contact needed
+      required: true

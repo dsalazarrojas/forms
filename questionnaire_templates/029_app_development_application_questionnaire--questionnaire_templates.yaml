@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Development Application Questionnaire
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: What is the working title of your app?
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: platform_preference
+      label: Targeted Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - iOS (iPhone/iPad)
+      - Android
+      - Web Application
+      - Desktop App
+      required: true
+    - id: 5
+      name: app_category
+      label: App Category
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - E-Commerce
+      - Education
+      - Healthcare
+      - Productivity
+      - Gaming
+      - Other
+      required: true
+    - id: 6
+      name: target_audience_desc
+      label: Describe Your Target Audience
+      hint: Who will use this app?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: core_functionality
+      label: Key Features and Functions
+      hint: List the main things the app must do
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: design_style
+      label: Preferred Design Aesthetic
+      hint: null
+      type: select_one
+      options:
+      - Minimalist and Clean
+      - Colorful and Vibrant
+      - Professional and Corporate
+      - Dark Theme Focus
+      required: false
+    - id: 9
+      name: third_party_integrations
+      label: Required Third-Party Integrations
+      hint: e.g. Stripe, Google Maps, Facebook Login
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: budget_estimate
+      label: Estimated Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $20,000
+      - $20,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 or more
+      required: true
+    - id: 11
+      name: deadline_date
+      label: Desired Launch Date or Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: competitor_analysis
+      label: Competitor Apps or Inspirations
+      hint: Any apps similar to what you want?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: monetization_plan
+      label: Monetization Strategy
+      hint: null
+      type: select_one
+      options:
+      - Free with Ads
+      - Paid Download
+      - Subscription Model
+      - In-App Purchases
+      - Internal Enterprise Use
+      required: true

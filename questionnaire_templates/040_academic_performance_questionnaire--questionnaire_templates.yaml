@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Performance Questionnaire
+    pages:
+    - id: 1
+      name: student_information
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: academic_year
+      label: Academic year
+      hint: Current study year or level
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gpa_or_performance_metric
+      label: GPA or performance metric
+      hint: Enter numeric value if applicable
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: strengths
+      label: Areas of strength
+      hint: Describe academic strengths
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: areas_for_improvement
+      label: Areas for improvement
+      hint: Identify skills or topics to develop
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: advisor_comments
+      label: Advisor comments
+      hint: Feedback from academic advisor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: development_actions
+      label: Recommended development actions
+      hint: Steps to support student progress
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_date
+      label: Review date
+      hint: Scheduled follow up review date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: Email for follow up or questions
+      type: email
+      options: []
+      required: false

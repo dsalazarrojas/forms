@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dynamic Content Code Survey
+    pages:
+    - id: 1
+      name: survey_usage
+      label: Survey usage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: improvement_priorities
+      label: Improvement priorities
+      hint: null
+      type: select_multiple
+      options:
+      - Usage frequency
+      - Content relevance
+      - Ease of use
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: Write your feedback here!
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: If you have any questions or concerns about our product, please let us
+        know at your preferred contact email.
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: If you have any questions or concerns about our product, please let us
+        know at your preferred contact phone number.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_time
+      label: Contact time
+      hint: If you have any questions or concerns about our product, please let us
+        know at your preferred contact time.
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_use
+      label: Date of last use
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_last_use
+      label: Time of last use
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: frequency_of_use
+      label: Frequency of use
+      hint: How often do you use our product?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Store Feedback Questionnaire
+    pages:
+    - id: 1
+      name: store_rating
+      label: What rating did you give us on the App Store?
+      hint: 1 to 5 stars
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: discovery_method
+      label: How did you find our app?
+      hint: null
+      type: select_one
+      options:
+      - App Store Search
+      - Social Media Ad
+      - Friend Referral
+      - Tech Blog/Review
+      - Other
+      required: true
+    - id: 3
+      name: search_keywords
+      label: If you searched, what keywords did you use?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: screenshot_clarity
+      label: Did the App Store screenshots clearly explain the app?
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Somewhat Clear
+      - Confusing
+      required: true
+    - id: 5
+      name: description_accuracy
+      label: Did the app description accurately represent the experience?
+      hint: null
+      type: select_one
+      options:
+      - Yes, perfectly
+      - Mostly accurate
+      - No, it was misleading
+      required: true
+    - id: 6
+      name: download_motivation
+      label: What was the primary reason you decided to download?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: listing_improvements
+      label: Suggestions to improve our App Store listing
+      hint: e.g. better video, clearer icons
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: device_info
+      label: What device are you using?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: region_info
+      label: Your Geographic Region
+      hint: null
+      type: select_one
+      options:
+      - North America
+      - Europe
+      - Asia
+      - South America
+      - Oceania
+      - Africa
+      required: true
+    - id: 10
+      name: future_feature_request
+      label: What feature would make you give us a 5-star rating?
+      hint: null
+      type: text
+      options: []
+      required: false

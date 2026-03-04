@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_practice_inventory_questionnaire
+    pages:
+    - id: 1
+      name: leadership_practice_inventory_questionnaire_page_1
+      label: leadership_practice_inventory_questionnaire_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practice_inventory_questions
+      label: practice_inventory_questions
+      hint: null
+      type: select_multiple
+      options:
+      - question1
+      - question2
+      - question3
+      required: false
+    - id: 3
+      name: question1_answer
+      label: question1_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question2_answer
+      label: question2_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question3_answer
+      label: question3_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_leadership_score
+      label: overall_leadership_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: leadership_practice_level
+      label: leadership_practice_level
+      hint: null
+      type: select_one
+      options:
+      - low
+      - moderate
+      - high
+      required: false
+    - id: 8
+      name: practice_inventory_comments
+      label: practice_inventory_comments
+      hint: null
+      type: note
+      options: []
+      required: false

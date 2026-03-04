@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oviparous Animals Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: species
+      label: Select Species
+      hint: null
+      type: select_one
+      options:
+      - Birds
+      - Reptiles
+      - Insects
+      required: false
+    - id: 3
+      name: species_other
+      label: Other Species
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: egg_laying_frequency
+      label: How often do you lay eggs?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: how_many_eggs
+      label: How many eggs do you lay at a time?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: lay_eggs_at
+      label: When do you lay eggs?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lay_eggs_at_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: lay_eggs_in
+      label: Where do you lay eggs?
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Land
+      - Both
+      required: false
+    - id: 9
+      name: lay_eggs_at
+      label: When
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

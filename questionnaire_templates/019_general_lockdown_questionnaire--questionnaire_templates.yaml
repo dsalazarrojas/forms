@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Lockdown Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lockdown_type
+      label: Lockdown Type
+      hint: null
+      type: select_one
+      options:
+      - Lockdown at school
+      - Lockdown in the neighborhood
+      - Lockdown at home
+      required: false
+    - id: 6
+      name: reaction_to_lockdown
+      label: Reaction to Lockdown
+      hint: How did you feel during the lockdown?
+      type: select_one
+      options:
+      - Very anxious
+      - Somewhat anxious
+      - Not anxious
+      - Don't know
+      - Other
+      required: true
+    - id: 7
+      name: reasons_for_reaction
+      label: Reasons for Reaction
+      hint: If you feel anxious, what do you think caused your anxiety?
+      type: select_multiple
+      options:
+      - The unknown
+      - The noise
+      - The confinement
+      - The darkness
+      - Other
+      required: false
+    - id: 8
+      name: support_system
+      label: Support System
+      hint: Did you have a support system during the lockdown?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 9
+      name: communication
+      label: Communication
+      hint: Could you contact your family or friends during the lockdown?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 10
+      name: physical_safety
+      label: Physical Safety
+      hint: Were you physically safe during the lockdown?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 11
+      name: emotional_safety
+      label: Emotional Safety
+      hint: Were you emotionally safe during the lockdown?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 12
+      name: psychological_safety
+      label: Psychological Safety
+      hint: Were you psychologically safe during the lockdown?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 13
+      name: post_lockdown_safety
+      label: Post-Lockdown Safety
+      hint: Are you safe after the lockdown?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 14
+      name: student_response
+      label: Student Response
+      hint: How did you feel about the lockdown?
+      type: select_one
+      options:
+      - Very positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: false
+    - id: 15
+      name: teacher_response
+      label: Teacher Response
+      hint: How would you rate your teacher's response during the lockdown?
+      type: select_one
+      options:
+      - Very positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: false
+    - id: 16
+      name: student_support
+      label: Student Support
+      hint: Did you feel supported by your classmates during the lockdown?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 17
+      name: teacher_support
+      label: Teacher Support
+      hint: Did you feel supported by your teacher during the lockdown?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 18
+      name: parent_response
+      label: Parent Response
+      hint: How did your parents respond to the lockdown?
+      type: select_one
+      options:
+      - Very positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: false
+    - id: 19
+      name: other
+      label: Other
+      hint: Is there anything else you would like to share?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_details
+      label: Other Details
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Do you have any additional comments?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_questions
+      label: Follow-up Questions
+      hint: Do you have any follow-up questions?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_response
+      label: School Response
+      hint: How did the school respond to the lockdown?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Who is your emergency contact?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: What is their phone number?
+      type: text
+      options: []
+      required: false

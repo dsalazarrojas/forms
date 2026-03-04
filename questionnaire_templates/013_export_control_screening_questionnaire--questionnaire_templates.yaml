@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Export Control Screening Questionnaire
+    pages:
+    - id: 1
+      name: screening_item_0
+      label: screening_item_0
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: screening_contact
+      label: screening_contact
+      hint: Enter contact information.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: screening_exporter_details
+      label: screening_exporter_details
+      hint: Provide export details.
+      type: select_multiple
+      options:
+      - Country of Origin
+      - Manufacturer
+      - Exporter
+      - End User
+      - Customs
+      - Other (Specify)
+      required: true
+    - id: 4
+      name: screening_licence_number
+      label: screening_licence_number
+      hint: null
+      type: number
+      options: []
+      required: false

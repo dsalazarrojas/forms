@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Service Performance Report Form
+    pages:
+    - id: 1
+      name: service_name
+      label: public_service_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_level
+      label: service_level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

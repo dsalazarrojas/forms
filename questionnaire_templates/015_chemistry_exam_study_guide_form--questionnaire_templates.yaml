@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemistry Exam Study Guide Form
+    pages:
+    - id: 1
+      name: study_guide_intro
+      label: -- Chemistry Exam Study Guide Form --
+      hint: Track your exam preparation and identify areas of focus
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exam_date
+      label: Exam date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: weeks_to_exam
+      label: How many weeks until your exam?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_readiness
+      label: Current exam readiness level
+      hint: Rate from 1 (Not ready) to 5 (Fully ready)
+      type: select_one
+      options:
+      - 1 - Not ready
+      - 2 - Somewhat unprepared
+      - 3 - Moderately prepared
+      - 4 - Well prepared
+      - 5 - Fully ready
+      required: true
+    - id: 9
+      name: topics_covered
+      label: Main topics covered in exam
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Atomic structure
+      - Chemical bonding
+      - Stoichiometry
+      - Equilibrium
+      - Acids and bases
+      - Thermodynamics
+      - Kinetics
+      - Redox reactions
+      - Organic chemistry
+      - Periodic table trends
+      required: true
+    - id: 10
+      name: strongest_topic
+      label: Your strongest topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: weakest_topic
+      label: Topic needing most review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: study_schedule
+      label: How many hours per week can you study?
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-5 hours
+      - 5-10 hours
+      - 10-15 hours
+      - More than 15 hours
+      required: true
+    - id: 13
+      name: study_methods
+      label: Your preferred study methods
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Textbook reading
+      - Practice problems
+      - Study groups
+      - Video tutorials
+      - Flashcards
+      - Past exams
+      - Class notes review
+      - Online resources
+      required: true
+    - id: 14
+      name: resources_available
+      label: Available study resources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Textbook
+      - Lecture notes
+      - Online practice
+      - Tutoring
+      - Study group
+      - Office hours
+      - Supplementary materials
+      required: true
+    - id: 15
+      name: practice_exams_taken
+      label: How many practice exams have you completed?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: average_practice_score
+      label: Average score on practice exams
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: exam_format
+      label: Exam format
+      hint: null
+      type: select_one
+      options:
+      - Multiple choice only
+      - Short answer only
+      - Mixed multiple choice and short answer
+      - Essay questions
+      - Problem-solving
+      - Lab practical
+      required: true
+    - id: 18
+      name: study_goals
+      label: What is your target grade for this exam?
+      hint: null
+      type: select_one
+      options:
+      - A (90-100)
+      - B (80-89)
+      - C (70-79)
+      - D (60-69)
+      - Just passing
+      required: true
+    - id: 19
+      name: major_challenges
+      label: Major challenges in studying for this exam
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_help_needed
+      label: What additional help do you need?
+      hint: null
+      type: text
+      options: []
+      required: false

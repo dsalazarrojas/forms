@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Development Initiative Poll
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Name (Optional)
+        hint: Your name if you wish to provide it
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: zip_code
+        label: ZIP Code
+        hint: Your ZIP code
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: residency_status
+        label: Residency Status
+        hint: Do you live in this community?
+        type: select_one
+        options:
+          - Resident
+          - Business Owner
+          - Property Owner
+          - Renter
+          - Regular Visitor
+        required: true
+      - id: 4
+        name: years_in_community
+        label: How Long Have You Been Here
+        hint: Duration in this community
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - More than 10 years
+        required: true
+      - id: 5
+        name: priority_initiative_1
+        label: Top Priority Initiative
+        hint: Select your highest priority
+        type: select_one
+        options:
+          - Affordable Housing
+          - Small Business Support
+          - Parks and Recreation
+          - Public Transportation
+          - Street Improvements
+          - Public Safety
+          - Youth Programs
+          - Senior Services
+        required: true
+      - id: 6
+        name: priority_initiative_2
+        label: Second Priority Initiative
+        hint: Select your second choice
+        type: select_one
+        options:
+          - Affordable Housing
+          - Small Business Support
+          - Parks and Recreation
+          - Public Transportation
+          - Street Improvements
+          - Public Safety
+          - Youth Programs
+          - Senior Services
+        required: true
+      - id: 7
+        name: priority_initiative_3
+        label: Third Priority Initiative
+        hint: Select your third choice
+        type: select_one
+        options:
+          - Affordable Housing
+          - Small Business Support
+          - Parks and Recreation
+          - Public Transportation
+          - Street Improvements
+          - Public Safety
+          - Youth Programs
+          - Senior Services
+        required: true
+      - id: 8
+        name: funding_support
+        label: Would You Support Tax Funding
+        hint: For community development projects
+        type: select_one
+        options:
+          - Yes, Definitely
+          - Maybe, Depends on Project
+          - No
+        required: true
+      - id: 9
+        name: volunteer_interest
+        label: Would You Volunteer Time
+        hint: For community initiatives
+        type: select_one
+        options:
+          - Yes, Definitely
+          - Maybe
+          - No
+        required: true
+      - id: 10
+        name: community_meetings
+        label: How Often Do You Attend Meetings
+        hint: Community meeting attendance
+        type: select_one
+        options:
+          - Regularly
+          - Occasionally
+          - Rarely
+          - Never
+        required: true
+      - id: 11
+        name: communication_method
+        label: Preferred Communication Method
+        hint: How should we reach you?
+        type: select_one
+        options:
+          - Email
+          - Text Message
+          - Phone Call
+          - Mail
+          - Social Media
+        required: true
+      - id: 12
+        name: additional_input
+        label: Additional Input or Ideas
+        hint: Any other suggestions?
+        type: text
+        options: []
+        required: false

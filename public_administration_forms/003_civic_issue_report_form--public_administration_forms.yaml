@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Issue Report Form
+    pages:
+    - id: 1
+      name: issue_category
+      label: Issue Category
+      hint: Select the type of issue you are reporting
+      type: select_one
+      options:
+      - Potholes and Road Damage
+      - Streetlight Outage
+      - Graffiti or Vandalism
+      - Trash or Debris
+      - Drainage Problems
+      - Sidewalk Damage
+      - Park Maintenance
+      - Noise Complaint
+      - Public Safety Concern
+      - Other
+      required: true
+    - id: 2
+      name: issue_location
+      label: Location of Issue
+      hint: Provide the address or nearest intersection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_type
+      label: Location Type
+      hint: Where is the issue located
+      type: select_one
+      options:
+      - Residential Street
+      - Main Road or Highway
+      - Public Park
+      - Sidewalk
+      - Public Building
+      - School Zone
+      - Commercial Area
+      - Other
+      required: true
+    - id: 4
+      name: issue_description
+      label: Detailed Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_severity
+      label: Severity Level
+      hint: How urgent is this issue
+      type: select_one
+      options:
+      - Critical - Immediate attention needed
+      - High - Should be addressed within 24 hours
+      - Medium - Should be addressed within a week
+      - Low - Can be addressed during regular maintenance
+      required: true
+    - id: 6
+      name: date_observed
+      label: Date Issue Was Observed
+      hint: When did you first notice this issue
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_observed
+      label: Time Observed
+      hint: Approximate time when noticed
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: recurring_issue
+      label: Is This a Recurring Issue
+      hint: Have you reported this before
+      type: select_one
+      options:
+      - Yes, previously reported
+      - Yes, but never reported
+      - No, first occurrence
+      required: true
+    - id: 9
+      name: previous_report_number
+      label: Previous Report Number
+      hint: If previously reported, enter the reference number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_hazard
+      label: Does This Pose a Safety Hazard
+      hint: Could this issue cause injury or damage
+      type: select_one
+      options:
+      - Yes, immediate danger
+      - Yes, potential danger
+      - No safety concern
+      required: true
+    - id: 11
+      name: affected_population
+      label: Who Is Affected by This Issue
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pedestrians
+      - Cyclists
+      - Motorists
+      - Children
+      - Elderly or Disabled
+      - Local Residents
+      - Business Owners
+      - General Public
+      required: false
+    - id: 12
+      name: reporter_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reporter_email
+      label: Your Email Address
+      hint: For status updates on your report
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: reporter_phone
+      label: Your Phone Number
+      hint: For follow-up questions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: anonymous_report
+      label: Would You Like to Remain Anonymous
+      hint: Your contact info will not be shared publicly
+      type: select_one
+      options:
+      - No, use my information
+      - Yes, keep me anonymous
+      required: true
+    - id: 16
+      name: photo_upload_note
+      label: Photo Upload Instructions
+      hint: Please email photos to civic-issues@city.gov with your report reference
+        number
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

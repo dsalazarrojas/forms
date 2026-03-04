@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regional Rural Banks Branding Quiz
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recognition_page
+      label: Recognition
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 3
+      name: familiarity_page
+      label: Familiarity
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - F
+      - G
+      - H
+      - I
+      - J
+      - K
+      - L
+      - M
+      - N
+      - O
+      - P
+      - Q
+      - R
+      - S
+      required: true
+    - id: 4
+      name: submission_page
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submit_page
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - Other
+      required: true
+    - id: 6
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_page
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submission_success
+      label: Submission Success
+      hint: null
+      type: note
+      options: []
+      required: false

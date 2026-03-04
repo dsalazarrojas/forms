@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Program Interest Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Marine Corps
+      required: false
+    - id: 3
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: interested_in
+      label: Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Training
+      - Advanced Training
+      - Officer Candidate School
+      - Commissioned Officer
+      required: false
+    - id: 9
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false

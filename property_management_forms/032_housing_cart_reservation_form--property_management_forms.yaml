@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: housing_cart_reservation_form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Cart 1
+      - Cart 2
+      - Cart 3
+      required: false
+    - id: 5
+      name: reservation_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Reserved
+      - Pending
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned
+      label: Assigned
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      - chatbob
+      required: false
+    - id: 10
+      name: reservation_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reservation_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reservation_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: reservation_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: reservation_note
+      label: Note
+      hint: Additional notes about the reservation
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cart_capacity
+      label: Cart Capacity
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '20'
+      - '30'
+      required: false
+    - id: 16
+      name: cart_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cart_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cart_equipment
+      label: Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cart_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Reserved
+      - Pending
+      required: false
+    - id: 20
+      name: cart_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      - chatbob
+      required: false
+    - id: 22
+      name: cart_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      - Medium
+      required: false
+    - id: 23
+      name: cart_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Cart 1
+      - Cart 2
+      - Cart 3
+      required: false
+    - id: 24
+      name: cart_capacity_note
+      label: Capacity Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: cart_location_note
+      label: Location Note
+      hint: null
+      type: note
+      options: []
+      required: false

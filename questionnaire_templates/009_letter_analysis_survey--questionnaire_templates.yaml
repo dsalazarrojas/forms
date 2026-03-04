@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Letter Analysis Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: letter_content
+      label: Letter Content
+      hint: Please describe the letter
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: clarity
+      label: Clarity
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: tone
+      label: Tone
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Informal
+      - Neutral
+      - Polite
+      - Assertive
+      - Objective
+      required: false
+    - id: 5
+      name: effectiveness
+      label: Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment
+      label: Attachment
+      hint: null
+      type: select_multiple
+      options:
+      - Document
+      - Email
+      - Image
+      - None
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Required
+      - N/A
+      required: false
+    - id: 11
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_suggestions
+      label: Reviewer Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments_from_reviewer
+      label: Additional Comments from Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: final_comments
+      label: Final Comments
+      hint: null
+      type: note
+      options: []
+      required: false

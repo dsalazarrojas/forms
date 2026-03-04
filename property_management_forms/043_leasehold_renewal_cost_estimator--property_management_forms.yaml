@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leasehold Renewal Cost Estimator
+    pages:
+    - id: 1
+      name: leasehold_renewal_cost_estimator_form
+      label: Leasehold Renewal Cost Estimator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Land
+      - House
+      - Flat/Apartment
+      - Other
+      required: false
+    - id: 3
+      name: property_size
+      label: Property Size
+      hint: null
+      type: select_one
+      options:
+      - Less than 50 sqm
+      - 50-100 sqm
+      - 100-200 sqm
+      - Greater than 200 sqm
+      required: false
+    - id: 4
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 5
+      name: lease_length
+      label: Lease Length
+      hint: null
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 5 Years
+      - 10 Years
+      required: false
+    - id: 6
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_professional_name
+      label: Property Professional Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow Up Required
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: renewal_cost
+      label: Renewal Cost
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_supplement_form
+    pages:
+    - id: 1
+      name: property_owners
+      label: property_owners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: property_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: property_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: benefit_details
+      label: benefit_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: income_verification_method
+      label: income_verification_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: income_verification_date
+      label: income_verification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: income_verification_reference
+      label: income_verification_reference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: income_verification_amount
+      label: income_verification_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: benefit_issuer
+      label: benefit_issuer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: benefit_name
+      label: benefit_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: benefit_type
+      label: benefit_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: relationship_to_primary
+      label: relationship_to_primary
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: household_members
+      label: household_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: household_member_names
+      label: household_member_names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: benefit_start_date
+      label: benefit_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: benefit_end_date
+      label: benefit_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: benefit_status
+      label: benefit_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Housing Planning Permission Application
+    pages:
+    - id: 1
+      name: application_details
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_multiple
+      options:
+      - Land Value 1
+      - Land Value 2
+      - Land Value 3
+      required: false
+    - id: 3
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

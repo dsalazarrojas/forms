@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog School Pre Consult Questionnaire Template
+    pages:
+    - id: 1
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dog_info
+      label: Dog Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dog_name
+      label: dog_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dog_birthday
+      label: dog_birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: dog_breed
+      label: dog_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dog_weight
+      label: dog_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: dog_height
+      label: dog_height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: owner_notes
+      label: owner_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: dog_vaccinations
+      label: dog_vaccinations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: dog_meds
+      label: dog_meds
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dog_training_goals
+      label: dog_training_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: dog_training_level
+      label: dog_training_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 20
+      name: owner_concerns
+      label: owner_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: dog_health
+      label: dog_health
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: training_schedule
+      label: training_schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: owner_consensus
+      label: owner_consensus
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

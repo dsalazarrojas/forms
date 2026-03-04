@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anchoring Bias Assessment
+    pages:
+    - id: 1
+      name: section_assessment_header
+      label: -- Anchoring Bias Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID / Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_scenario_1
+      label: -- Scenario 1 - Estimating Value --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: anchor_value_info
+      label: Consider the number 85. Now, please answer the following questions.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: your_estimated_value
+      label: What is your estimated market value for a vintage camera?
+      hint: Enter a numerical value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reasoning_for_estimate_1
+      label: Briefly describe your reasoning for this estimate.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_scenario_2
+      label: -- Scenario 2 - Negotiation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: initial_offer_info
+      label: An initial offer of $1,200 has been made for a freelance project.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: your_counter_offer
+      label: What would be your counter-offer?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: reasoning_for_estimate_2
+      label: Briefly describe your reasoning for this counter-offer.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_demographics
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: familiar_with_cognitive_biases
+      label: Are you familiar with cognitive biases?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Somewhat
+      required: true
+    - id: 13
+      name: professional_background
+      label: Your Professional Background
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Education
+      - Healthcare
+      - Tech
+      - Other
+      required: true
+    - id: 14
+      name: feedback_on_assessment_scenarios
+      label: Feedback on these assessment scenarios.
+      hint: null
+      type: text
+      options: []
+      required: false

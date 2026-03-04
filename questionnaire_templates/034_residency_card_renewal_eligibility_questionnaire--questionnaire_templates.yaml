@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residency Card Renewal Eligibility Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: has_dependent
+      label: Has Dependent
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 5
+      name: has_spouse
+      label: Has Spouse
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: prophets_letter
+      label: Letter of Verification
+      hint: null
+      type: text
+      options: []
+      required: true

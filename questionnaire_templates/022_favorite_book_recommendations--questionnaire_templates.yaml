@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Book Recommendations
+    pages:
+    - id: 1
+      name: favorite_book_1
+      label: favorite-book-1-label
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: genre_1
+      label: genre-1-label
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: true
+    - id: 3
+      name: reason_1
+      label: reason-1-label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating_1
+      label: rating-1-label
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_1
+      label: contact-1-label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: favorite_book_2
+      label: favorite-book-2-label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: genre_2
+      label: genre-2-label
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: true
+    - id: 8
+      name: reason_2
+      label: reason-2-label
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: true
+    - id: 9
+      name: rating_2
+      label: rating-2-label
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: contact_2
+      label: contact-2-label
+      hint: null
+      type: text
+      options: []
+      required: true

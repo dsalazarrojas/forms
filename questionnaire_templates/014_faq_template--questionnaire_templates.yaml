@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: FAQ Template
+    pages:
+    - id: 1
+      name: faq_1
+      label: Frequently asked questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: faq_2
+      label: What is this question?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: faq_4
+      label: Who is this question for?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: faq_5
+      label: What is the answer to this question?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: faq_6
+      label: When is this question relevant?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: faq_7
+      label: How to contact us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: faq_8
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: faq_9
+      label: What is the opening hours?
+      hint: null
+      type: time
+      options: []
+      required: false

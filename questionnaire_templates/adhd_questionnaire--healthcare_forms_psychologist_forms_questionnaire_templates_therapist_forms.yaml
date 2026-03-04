@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ADHD Questionnaire
+    pages:
+    - id: 1
+      name: section_header_demographics
+      label: '--- Patient Demographics ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: contact_information
+      label: '--- Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email address
+      hint: We may send follow-up information to this address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: visit_date
+      label: Date of assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: referral_source
+      label: How did you hear about this assessment?
+      hint: null
+      type: select_one
+      options:
+      - Self-referral
+      - Healthcare provider
+      - Family member
+      - Friend
+      - Online search
+      - Other
+      required: false
+    - id: 11
+      name: adhd_symptoms_section
+      label: '--- ADHD Symptom Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: difficulty_focusing
+      label: How often do you have trouble focusing on tasks or activities?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very often
+      required: true
+    - id: 13
+      name: hyperactive_behavior
+      label: Do you experience restlessness or fidgeting?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very often
+      required: true
+    - id: 14
+      name: impulsivity_scale
+      label: Rate your level of impulsivity (1-10)
+      hint: 1 = rarely impulsive, 10 = very impulsive
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: symptoms_present_since_childhood
+      label: Did these symptoms begin before age 12?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Uncertain
+      required: true
+    - id: 16
+      name: daily_impairment
+      label: How much do these symptoms interfere with your daily life?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Significantly
+      - Extremely
+      required: true
+    - id: 17
+      name: current_medications
+      label: Are you currently taking any medications?
+      hint: List all medications and dosages
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_diagnosis
+      label: Have you been previously diagnosed with ADHD or other mental health conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - ADHD
+      - Anxiety disorder
+      - Depression
+      - Bipolar disorder
+      - Autism spectrum disorder
+      - Learning disability
+      - None of the above
+      - Prefer not to disclose
+      required: false
+    - id: 19
+      name: family_history
+      label: Is there a family history of ADHD or other mental health conditions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or concerns
+      hint: Please share anything else relevant to your assessment
+      type: text
+      options: []
+      required: false

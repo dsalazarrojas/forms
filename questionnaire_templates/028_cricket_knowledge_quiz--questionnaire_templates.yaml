@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: cricket_knowledge_quiz
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_score
+      label: Participant Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_score_hint
+      label: What is the current season of the 2021-2022 ICL?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''2021-2022''}'
+      - '{''label'': ''2020-2021''}'
+      - '{''label'': ''2019-2020''}'
+      required: false
+    - id: 5
+      name: participant_score_hint
+      label: Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

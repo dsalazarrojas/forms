@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Line Inspection Form
+    pages:
+      - id: 1
+        name: inspector_name_line
+        label: Inspector Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: line_id_number
+        label: Assembly Line ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: production_shift
+        label: Current Shift
+        hint: null
+        type: select_one
+        options:
+          - First Shift - Morning
+          - Second Shift - Afternoon
+          - Third Shift - Night
+        required: true
+      - id: 4
+        name: inspection_timestamp
+        label: Time of Inspection
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: batch_serial_number
+        label: Component Batch or Serial Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: visual_check_pass
+        label: Visual Inspection Result
+        hint: Check for surface defects or contamination
+        type: select_one
+        options:
+          - Pass
+          - Fail
+        required: true
+      - id: 7
+        name: dimensional_accuracy_pass
+        label: Dimensional Accuracy Check
+        hint: Verification against specifications
+        type: select_one
+        options:
+          - Within Tolerance
+          - Out of Tolerance
+        required: true
+      - id: 8
+        name: torque_fastener_check
+        label: Fastener and Torque Verification
+        hint: null
+        type: select_one
+        options:
+          - Verified
+          - Correction Required
+          - Not Applicable
+        required: true
+      - id: 9
+        name: functional_test_result
+        label: Functional Test Performance
+        hint: null
+        type: select_one
+        options:
+          - Optimal
+          - Marginal
+          - Critical Failure
+        required: true
+      - id: 10
+        name: non_conformance_details
+        label: Details of Non-conformance
+        hint: Required if any check failed
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: corrective_action_line
+        label: Immediate Corrective Action Taken
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: line_status_post_insp
+        label: Post-inspection Line Status
+        hint: null
+        type: select_one
+        options:
+          - Resume Production
+          - Hold for Maintenance
+          - Quarantine Batch
+        required: true

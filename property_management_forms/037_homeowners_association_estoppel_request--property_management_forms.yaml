@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowners Association Estoppel Request
+    pages:
+    - id: 1
+      name: form_data_1
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: home_address
+      label: Home Address
+      hint: Please enter property address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hoa_name
+      label: HOA Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hoa_phone
+      label: HOA Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hoa_email
+      label: HOA Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Condo''}'
+      - '{''label'': ''Co-op''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Homeowner''}'
+      - '{''label'': ''Buyer''}'
+      - '{''label'': ''Property Manager''}'
+      required: false
+    - id: 9
+      name: signed_date
+      label: Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_option
+      label: Delivery Option
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Mail''}'
+      - '{''label'': ''Fax''}'
+      required: false
+    - id: 11
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: estoppel_signed
+      label: Estoppel Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

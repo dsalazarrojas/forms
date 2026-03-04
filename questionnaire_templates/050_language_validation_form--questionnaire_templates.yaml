@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Validation Form
+    pages:
+    - id: 1
+      name: root
+      label: Language Validation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 3
+      name: language_id
+      label: Language ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: translation_status
+      label: Translation Status
+      hint: null
+      type: select_one
+      options:
+      - Translated
+      - In Progress
+      - Not Translated
+      required: false
+    - id: 5
+      name: validation_comments
+      label: Validation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 8
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_reviewed
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: language_validation_form_comments
+      label: Language Validation Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - ChatB
+      - ChatC
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_dir
+      label: Output Dir
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 16
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 19
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: validated_by
+      label: Validated By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 22
+      name: validated_time
+      label: Validated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: validated_date
+      label: Validated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 25
+      name: reviewed_time
+      label: Reviewed Time
+      hint: null
+      type: time
+      options: []
+      required: false

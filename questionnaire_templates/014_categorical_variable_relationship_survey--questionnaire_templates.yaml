@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Categorical Variable Relationship Survey
+    pages:
+      - id: 1
+        name: respondent_id
+        label: Respondent ID
+        hint: Your identification number
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 to 64
+          - 65 or Older
+        required: true
+      - id: 3
+        name: gender
+        label: Gender
+        hint: Your gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer to Self-describe
+          - Prefer Not to Say
+        required: true
+      - id: 4
+        name: education_level
+        label: Education Level
+        hint: Highest level completed
+        type: select_one
+        options:
+          - Less than High School
+          - High School Graduate
+          - Some College
+          - Associate Degree
+          - Bachelor Degree
+          - Master Degree
+          - Doctorate or Higher
+        required: true
+      - id: 5
+        name: employment_status
+        label: Employment Status
+        hint: Current employment situation
+        type: select_one
+        options:
+          - Employed Full-time
+          - Employed Part-time
+          - Self-employed
+          - Unemployed - Looking
+          - Unemployed - Not Looking
+          - Student
+          - Retired
+        required: true
+      - id: 6
+        name: income_bracket
+        label: Income Bracket
+        hint: Annual household income
+        type: select_one
+        options:
+          - Under $25000
+          - $25000 to $49999
+          - $50000 to $74999
+          - $75000 to $99999
+          - $100000 to $149999
+          - $150000 or More
+          - Prefer Not to Say
+        required: false
+      - id: 7
+        name: location_type
+        label: Location Type
+        hint: Where do you live
+        type: select_one
+        options:
+          - Urban - City
+          - Suburban
+          - Rural - Countryside
+          - Small Town
+        required: true
+      - id: 8
+        name: region
+        label: Geographic Region
+        hint: Your region
+        type: select_one
+        options:
+          - Northeast
+          - Southeast
+          - Midwest
+          - Southwest
+          - West
+          - International
+        required: true
+      - id: 9
+        name: variable_a
+        label: Variable A Perception
+        hint: Your view on the first variable
+        type: select_one
+        options:
+          - Strongly Positive
+          - Positive
+          - Neutral
+          - Negative
+          - Strongly Negative
+          - No Opinion
+        required: true
+      - id: 10
+        name: variable_b
+        label: Variable B Perception
+        hint: Your view on the second variable
+        type: select_one
+        options:
+          - Strongly Positive
+          - Positive
+          - Neutral
+          - Negative
+          - Strongly Negative
+          - No Opinion
+        required: true
+      - id: 11
+        name: perceived_relationship
+        label: Perceived Relationship
+        hint: Do you see a relationship between variables
+        type: select_one
+        options:
+          - Strong Positive Relationship
+          - Moderate Positive Relationship
+          - No Relationship
+          - Moderate Negative Relationship
+          - Strong Negative Relationship
+          - Unsure
+        required: true
+      - id: 12
+        name: relationship_strength
+        label: Relationship Strength
+        hint: How strong is the relationship
+        type: select_one
+        options:
+          - Very Strong
+          - Strong
+          - Moderate
+          - Weak
+          - Very Weak
+          - None
+        required: false
+      - id: 13
+        name: confidence_level
+        label: Confidence Level
+        hint: How confident are you in your assessment
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident at All
+        required: true
+      - id: 14
+        name: prior_knowledge
+        label: Prior Knowledge of Topic
+        hint: How familiar are you with this topic
+        type: select_one
+        options:
+          - Expert Level
+          - Very Familiar
+          - Somewhat Familiar
+          - Slightly Familiar
+          - Not Familiar at All
+        required: true
+      - id: 15
+        name: factors_influencing
+        label: Factors Influencing Your View
+        hint: What influences your perception
+        type: select_multiple
+        options:
+          - Personal Experience
+          - Education
+          - Media
+          - Research Studies
+          - Peer Influence
+          - Cultural Background
+          - Other
+        required: false
+      - id: 16
+        name: explanation
+        label: Explanation of Your View
+        hint: Please explain your reasoning
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_variables
+        label: Other Variables to Consider
+        hint: What other factors might matter
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: survey_feedback
+        label: Survey Feedback
+        hint: Any comments on this survey
+        type: text
+        options: []
+        required: false

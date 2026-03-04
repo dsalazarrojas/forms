@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public School Parent/Student Questionnaire
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_details
+      label: student_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_grade_level
+      label: student_grade_level
+      hint: null
+      type: select_one
+      options:
+      - Pre-K
+      - Grade 1-2
+      - Grade 3-4
+      - Grade 5-6
+      - Grade 7-8
+      - High School
+      required: false
+    - id: 6
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_age
+      label: student_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_behavior
+      label: student_behavior
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: teacher_contact_method
+      label: teacher_contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false

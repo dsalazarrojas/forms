@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Botanical Energy Map Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent name
+        hint: Optional full name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: For follow up if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: location_of_space
+        label: Location of space
+        hint: Park or green space name and address
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: perceived_energy_level
+        label: Perceived energy level
+        hint: How vibrant does the space feel
+        type: select_one
+        options:
+          - High
+          - Moderate
+          - Low
+        required: true
+      - id: 5
+        name: activities_observed
+        label: Activities observed
+        hint: Common activities seen in the space
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: safety_perception
+        label: Safety perception
+        hint: How safe do you feel in this space
+        type: select_one
+        options:
+          - Very safe
+          - Somewhat safe
+          - Unsafe
+        required: false
+      - id: 7
+        name: amenities_needed
+        label: Amenities needed
+        hint: What would improve your experience
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: additional_notes
+        label: Additional notes
+        hint: Any other comments or suggestions
+        type: text
+        options: []
+        required: false

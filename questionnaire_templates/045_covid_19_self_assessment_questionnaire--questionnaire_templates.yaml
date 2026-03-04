@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Self Assessment Questionnaire
+    pages:
+    - id: 1
+      name: person_name_full
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: person_age_val
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: occupation_cat
+      label: Primary Occupation Category
+      hint: null
+      type: select_one
+      options:
+      - Healthcare
+      - Education
+      - Retail/Food
+      - Transportation
+      - Remote Worker
+      - Retired/Unemployed
+      required: true
+    - id: 4
+      name: medical_cond_list
+      label: Do you have any of the following medical conditions?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Asthma
+      - Diabetes
+      - Heart Disease
+      - Kidney Disease
+      - Immunocompromised
+      - None
+      required: true
+    - id: 5
+      name: vaccine_allergy_yn
+      label: Have you ever had a severe allergic reaction to a vaccine?
+      hint: e.g. Anaphylaxis
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 6
+      name: pregnancy_status_cat
+      label: Are you currently pregnant or breastfeeding?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 7
+      name: previous_covid_yn
+      label: Have you previously been infected with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: prev_infection_date
+      label: If yes, approximate date of infection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: immune_status_cat
+      label: How would you describe your immune system status?
+      hint: null
+      type: select_one
+      options:
+      - Strong/Healthy
+      - Average
+      - Weakened/Suppressed
+      required: true
+    - id: 10
+      name: eligibility_determination
+      label: Based on your self-assessment, do you believe you are eligible for the
+        vaccine?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Priority Group
+      - Yes - General Population
+      - No - Not currently eligible
+      required: true
+    - id: 11
+      name: booking_link_note
+      label: -- Next Steps --
+      hint: If eligible, please proceed to our booking portal to schedule your appointment
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: self_assess_auth_cert
+      label: I certify this self-assessment is for my own information and use
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

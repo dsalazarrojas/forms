@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Fundamentals Quiz
+    pages:
+    - id: 1
+      name: student_name_full
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: question_principles_count
+      label: How many principles of animation were defined by Disney?
+      hint: Enter a number
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: question_weight_illusion
+      label: Which principle creates the illusion of weight and volume?
+      hint: null
+      type: select_one
+      options:
+      - Squash and Stretch
+      - Anticipation
+      - Staging
+      - Appeal
+      required: true
+    - id: 4
+      name: question_film_fps
+      label: What is the standard frame rate for traditional film animation?
+      hint: Frames per second
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: question_anticipation_desc
+      label: Briefly describe the concept of Anticipation in animation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question_smoothness_principle
+      label: Which principle relates to the smoothness and organic feel of an action?
+      hint: null
+      type: select_one
+      options:
+      - Slow In and Slow Out
+      - Timing
+      - Arcs
+      - Secondary Action
+      required: true
+    - id: 7
+      name: question_onionskinning_def
+      label: What is the purpose of Onionskinning in animation software?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_keyframes_def
+      label: Define the term Keyframes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: self_principles_rating
+      label: Self-Assessment of Understanding of the 12 Principles
+      hint: Scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: instructor_feedback_notes
+      label: Instructor Feedback and Comments
+      hint: null
+      type: text
+      options: []
+      required: false

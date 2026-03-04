@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bride And Groom Questionnaire
+    pages:
+    - id: 1
+      name: bride_name
+      label: Bride Name
+      hint: Bride's full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: groom_name
+      label: Groom Name
+      hint: Groom's full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: couple_email
+      label: Email Address
+      hint: Best way to reach you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: couple_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: wedding_date
+      label: Wedding Date
+      hint: Date of your wedding
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: wedding_time
+      label: Ceremony Time
+      hint: What time will ceremony begin
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: ceremony_venue
+      label: Ceremony Venue
+      hint: Where will the ceremony be held
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reception_venue
+      label: Reception Venue
+      hint: Where will the reception be held
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guest_count
+      label: Expected Number of Guests
+      hint: Approximate guest count
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: wedding_style
+      label: Wedding Style and Theme
+      hint: Describe your wedding style
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: formality_level
+      label: Formality Level
+      hint: Select formality level
+      type: select_one
+      options:
+      - Very formal and black-tie
+      - Formal
+      - Semi-formal
+      - Casual
+      - Very casual
+      required: true
+    - id: 12
+      name: wedding_colors
+      label: Wedding Colors
+      hint: Your color scheme
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: religious_cultural
+      label: Religious or Cultural Elements
+      hint: Any special traditions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: bride_vision
+      label: Bride's Wedding Vision
+      hint: Bride's dream for the wedding
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: groom_vision
+      label: Groom's Wedding Vision
+      hint: Groom's dream for the wedding
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: must_haves
+      label: Must-Have Elements
+      hint: Non-negotiable elements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: must_avoid
+      label: Elements to Avoid
+      hint: Things not to include
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: bride_profession
+      label: Bride's Profession
+      hint: Your occupation
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: groom_profession
+      label: Groom's Profession
+      hint: Your occupation
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_met
+      label: How Did You Meet
+      hint: Your love story
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: engagement_story
+      label: Engagement Story
+      hint: How did he propose
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: relationship_length
+      label: How Long Have You Been Together
+      hint: Years together
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: budget_range
+      label: Overall Wedding Budget
+      hint: Total budget in USD
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: vendors_needed
+      label: Vendors You Need
+      hint: Select services needed
+      type: select_multiple
+      options:
+      - Photographer
+      - Videographer
+      - Catering
+      - Venue
+      - Florist
+      - Music or DJ
+      - Wedding planner
+      - Hair and makeup
+      - Rentals
+      - Invitations
+      required: false
+    - id: 25
+      name: planning_timeline
+      label: Planning Timeline
+      hint: How much time to plan
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 12-18 months
+      - 18+ months
+      required: true
+    - id: 26
+      name: honeymoon_plans
+      label: Honeymoon Plans
+      hint: Where are you going
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: final_comments
+      label: Final Comments or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

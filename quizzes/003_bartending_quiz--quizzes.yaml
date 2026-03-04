@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bartending Quiz
+    pages:
+    - id: 1
+      name: examinee_name
+      label: Examinee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quiz_header
+      label: -- Mixology and Bar Knowledge Quiz --
+      hint: Please answer the following questions to the best of your ability.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: q_base_spirit_margarita
+      label: What is the primary base spirit in a classic Margarita?
+      hint: null
+      type: select_one
+      options:
+      - Vodka
+      - Gin
+      - Tequila
+      - Rum
+      required: true
+    - id: 4
+      name: q_standard_pour
+      label: What is the standard volume of a single shot (jigger) in ounces?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: q_stirred_vs_shaken
+      label: Which of these cocktails should typically be stirred rather than shaken?
+      hint: null
+      type: select_one
+      options:
+      - Whiskey Sour
+      - Manhattan
+      - Daiquiri
+      - Cosmopolitan
+      required: true
+    - id: 6
+      name: q_garnishes
+      label: Select all common garnishes used for a Martini.
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Olive
+      - Lemon Twist
+      - Cherry
+      - Lime Wedge
+      - Onion (Gibson)
+      required: true
+    - id: 7
+      name: q_alcohol_content
+      label: Which of the following has the highest typical alcohol by volume (ABV)?
+      hint: null
+      type: select_one
+      options:
+      - Beer
+      - Wine
+      - Fortified Wine
+      - Distilled Spirits
+      required: true
+    - id: 8
+      name: q_legal_age
+      label: What is the legal drinking age in the United States?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: q_muddling_tool
+      label: What tool is used to crush fruit or herbs in the bottom of a glass?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: q_cleanliness_importance
+      label: On a scale of 1-10, how important is bar cleanliness for safety?
+      hint: 10 being most important
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: q_bitters_definition
+      label: Briefly define what bitters are in mixology.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: completion_date
+      label: Quiz Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

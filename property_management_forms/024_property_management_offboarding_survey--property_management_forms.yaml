@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: property-management-offboarding-survey
+    pages:
+    - id: 1
+      name: property_management_form
+      label: property-management-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_management_questions
+      label: property-management-questions
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 3
+      name: transition_date
+      label: transition-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transition_time
+      label: transition-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: email-address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone_alt
+      label: contact-phone-alt
+      hint: null
+      type: text
+      options: []
+      required: false

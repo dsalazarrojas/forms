@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Place Description Survey
+    pages:
+    - id: 1
+      name: favorite_place_description_survey_form
+      label: What is your favorite place?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: place_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Mountain
+      - City
+      - Other
+      required: false
+    - id: 3
+      name: place_name
+      label: Place Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: place_description
+      label: Description
+      hint: Write a short description of your favorite place.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: place_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - North America
+      - Europe
+      - Asia
+      - Africa
+      - Australia
+      - South America
+      - Antarctica
+      required: false
+    - id: 6
+      name: place_rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: favorite_memory
+      label: Favorite Memory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: favorite_memory_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: favorite_memory_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: favorite_memory_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

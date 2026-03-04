@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generational Diversity Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: generation_awareness
+      label: Generation Awareness
+      hint: null
+      type: select_one
+      options:
+      - Baby Boomer
+      - Gen X
+      - Gen Z
+      - Other
+      required: false
+    - id: 3
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - collaborative
+      - assertive
+      - passive
+      - aggressive
+      required: false
+    - id: 4
+      name: inclusion_policies
+      label: Inclusion Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_leadership
+      label: Manager Leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_dynamics
+      label: Team Dynamics
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 7
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Phone
+      - Email
+      - Video
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inclusion_initiatives
+      label: Inclusion Initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: generational_diversity_impact
+      label: Generational Diversity Impact
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 13
+      name: generational_diversity_score
+      label: Generational Diversity Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false

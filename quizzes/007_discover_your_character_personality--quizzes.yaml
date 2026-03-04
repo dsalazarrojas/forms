@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discover Your Character Personality
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: select_one_type
+      label: Select one type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: true
+    - id: 7
+      name: select_multiple_types
+      label: Select multiple types
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Multiple type 1''}'
+      - '{''id'': 2, ''label'': ''Multiple type 2''}'
+      - '{''id'': 3, ''label'': ''Multiple type 3''}'
+      required: true
+    - id: 8
+      name: time_of_day
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: height_unit
+      label: Height unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''cm''}'
+      - '{''id'': 2, ''label'': ''in''}'
+      - '{''id'': 3, ''label'': ''ft''}'
+      required: false
+    - id: 14
+      name: weight_unit
+      label: Weight unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''kg''}'
+      - '{''id'': 2, ''label'': ''lb''}'
+      required: false
+    - id: 15
+      name: time_of_birth
+      label: Time of birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: year_of_birth
+      label: Year of birth
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: month_of_birth
+      label: Month of birth
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''January''}'
+      - '{''id'': 2, ''label'': ''February''}'
+      - '{''id'': 3, ''label'': ''March''}'
+      required: true
+    - id: 18
+      name: day_of_birth
+      label: Day of birth
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1''}'
+      - '{''id'': 2, ''label'': ''2''}'
+      - '{''id'': 3, ''label'': ''3''}'
+      required: true
+    - id: 19
+      name: select_multiple_units
+      label: Select multiple units
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Unit 1''}'
+      - '{''id'': 2, ''label'': ''Unit 2''}'
+      - '{''id'': 3, ''label'': ''Unit 3''}'
+      required: true
+    - id: 20
+      name: select_one_unit
+      label: Select one unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Unit 1''}'
+      - '{''id'': 2, ''label'': ''Unit 2''}'
+      - '{''id'': 3, ''label'': ''Unit 3''}'
+      required: true
+    - id: 21
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_time
+      label: Date time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: select_one_time
+      label: Select one time
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Time 1''}'
+      - '{''id'': 2, ''label'': ''Time 2''}'
+      - '{''id'': 3, ''label'': ''Time 3''}'
+      required: true
+    - id: 25
+      name: select_multiple_time
+      label: Select multiple time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Time 1''}'
+      - '{''id'': 2, ''label'': ''Time 2''}'
+      - '{''id'': 3, ''label'': ''Time 3''}'
+      required: false

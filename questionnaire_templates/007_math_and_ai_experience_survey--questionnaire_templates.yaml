@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Math And AI Experience Survey
+    pages:
+    - id: 1
+      name: educator_role
+      label: Educator Role
+      hint: null
+      type: select_one
+      options:
+      - Educator
+      - Researcher
+      - Training Provider
+      required: true
+    - id: 2
+      name: math_proficiency
+      label: Math Proficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: ai_experience
+      label: AI Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 4
+      name: ai_tools_used
+      label: AI Tools Used
+      hint: null
+      type: select_multiple
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false
+    - id: 5
+      name: integrate_ai_in_math_tasks
+      label: Integrate AI in Math Tasks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: math_tasks_frequency
+      label: Math Tasks Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Tasks
+      - Assignments
+      - Exams
+      required: true
+    - id: 8
+      name: math_proficiency_level
+      label: Math Proficiency Level
+      hint: null
+      type: select_multiple
+      options:
+      - Elementary
+      - High School
+      - College
+      - University
+      required: true
+    - id: 9
+      name: ai_integration_frequency
+      label: AI Integration Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 10
+      name: ai_tools_importance
+      label: AI Tools Importance
+      hint: null
+      type: select_multiple
+      options:
+      - Important
+      - Somewhat Important
+      required: true
+    - id: 11
+      name: education_background
+      label: Education Background
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor's
+      - Master's
+      - Ph.D.
+      required: true
+    - id: 12
+      name: research_experience
+      label: Research Experience
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - Extensive
+      required: true
+    - id: 13
+      name: ai_usage_for_math
+      label: AI Usage for Math
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Occasional
+      - Frequent
+      required: true
+    - id: 14
+      name: math_ai_integration
+      label: Math AI Integration
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Occasional
+      - Frequent
+      required: true
+    - id: 15
+      name: math_ai_integration_method
+      label: Math AI Integration Method
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Manual
+      - Automated
+      required: true
+    - id: 16
+      name: data_source
+      label: Data Source
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Local
+      - Online
+      required: true
+    - id: 17
+      name: data_frequency
+      label: Data Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 18
+      name: data_quality
+      label: Data Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 19
+      name: data_security
+      label: Data Security
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 20
+      name: data_privacy
+      label: Data Privacy
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 21
+      name: data_storage
+      label: Data Storage
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 22
+      name: data_analytics
+      label: Data Analytics
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 23
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Occasional
+      - Frequent
+      required: false
+    - id: 24
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Local
+      - Online
+      required: false
+    - id: 25
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Owner Input Item Checklist
+    pages:
+    - id: 1
+      name: rent_period
+      label: Rental Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: rent_price
+      label: Rent Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - used
+      - new
+      required: false
+    - id: 4
+      name: item_notes
+      label: Item Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_confirmation
+      label: Owner Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: turnover
+      label: Turnover
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: handoff
+      label: Handoff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rent_start_date
+      label: Rent Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rent_end_date
+      label: Rent End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: item_value
+      label: Item Value
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Expert Interview Form
+    pages:
+    - id: 1
+      name: interview_header
+      label: -- Interview Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: interviewer_name
+      label: Interviewer name
+      hint: Name of the person conducting the interview
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: expert_name
+      label: Expert name
+      hint: Full name of the interviewee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: expert_affiliation
+      label: Expert affiliation
+      hint: Institution or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interview_date
+      label: Interview date
+      hint: Scheduled date of interview
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interview_time
+      label: Interview time
+      hint: Scheduled start time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: consent_to_record
+      label: Consent to record
+      hint: Permission to audio or video record interview
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 8
+      name: topics_to_cover
+      label: Topics to cover
+      hint: Key questions or themes for the interview
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_contact
+      label: Contact for follow up
+      hint: Email or phone for follow up
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: interviewer_notes
+      label: Interviewer notes
+      hint: Internal notes after the interview
+      type: text
+      options: []
+      required: false

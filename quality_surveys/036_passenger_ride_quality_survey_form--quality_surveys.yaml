@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Ride Quality Survey Form
+    pages:
+    - id: 1
+      name: passenger_ride_quality_survey_form
+      label: passenger_ride_quality_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category_1'', ''label'': ''category_1'', ''value'':
+        ''value_1''}'
+      - '{''id'': 2, ''name'': ''category_2'', ''label'': ''category_2'', ''value'':
+        ''value_2''}'
+      - '{''id'': 3, ''name'': ''category_3'', ''label'': ''category_3'', ''value'':
+        ''value_3''}'
+      required: false
+    - id: 3
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''trip_details_1'', ''label'': ''trip_details_1'',
+        ''value'': ''value_1''}'
+      - '{''id'': 2, ''name'': ''trip_details_2'', ''label'': ''trip_details_2'',
+        ''value'': ''value_2''}'
+      - '{''id'': 3, ''name'': ''trip_details_3'', ''label'': ''trip_details_3'',
+        ''value'': ''value_3''}'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

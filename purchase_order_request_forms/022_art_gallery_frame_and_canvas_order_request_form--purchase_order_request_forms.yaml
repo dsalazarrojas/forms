@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frame And Canvas Order Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of order request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of requester
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: gallery_department
+      label: Gallery Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: artist_name
+      label: Artist Name
+      hint: Name of artist for this order
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: artwork_title
+      label: Artwork Title
+      hint: Title of the artwork
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_type
+      label: Order Type
+      hint: Type of order
+      type: select_one
+      options:
+      - Frame Only
+      - Canvas Only
+      - Frame and Canvas
+      - Custom Order
+      required: true
+    - id: 9
+      name: frame_style
+      label: Frame Style
+      hint: Preferred frame style
+      type: select_one
+      options:
+      - Traditional Wood
+      - Modern Metal
+      - Ornate Gold
+      - Minimalist Black
+      - Natural Wood
+      - Custom
+      required: false
+    - id: 10
+      name: frame_color
+      label: Frame Color
+      hint: Preferred frame color or finish
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: frame_width
+      label: Frame Width
+      hint: Frame width in inches
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: matting_needed
+      label: Matting Needed
+      hint: Is matting required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: matting_color
+      label: Matting Color
+      hint: Preferred matting color
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: matting_layers
+      label: Matting Layers
+      hint: Number of matting layers
+      type: select_one
+      options:
+      - Single Mat
+      - Double Mat
+      - Triple Mat
+      - Not Applicable
+      required: false
+    - id: 15
+      name: canvas_type
+      label: Canvas Type
+      hint: Type of canvas needed
+      type: select_one
+      options:
+      - Stretched Canvas
+      - Canvas Panel
+      - Canvas Roll
+      - Gallery Wrap
+      - Museum Wrap
+      - Not Applicable
+      required: false
+    - id: 16
+      name: canvas_size_width
+      label: Canvas Size Width
+      hint: Width in inches
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: canvas_size_height
+      label: Canvas Size Height
+      hint: Height in inches
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: canvas_depth
+      label: Canvas Depth
+      hint: Depth in inches
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: glass_type
+      label: Glass Type
+      hint: Type of glass or glazing
+      type: select_one
+      options:
+      - Standard Glass
+      - UV Protection Glass
+      - Museum Glass
+      - Acrylic Plexiglass
+      - Non-Glare Glass
+      - No Glass Needed
+      required: true
+    - id: 20
+      name: backing_board
+      label: Backing Board
+      hint: Type of backing board
+      type: select_one
+      options:
+      - Standard Foam Core
+      - Acid-Free Foam Core
+      - Mat Board
+      - Aluminum Composite
+      - Not Applicable
+      required: false
+    - id: 21
+      name: hanging_hardware
+      label: Hanging Hardware
+      hint: Select hanging hardware needed
+      type: select_multiple
+      options:
+      - Wire and Hooks
+      - D-Rings
+      - Sawtooth Hanger
+      - French Cleat
+      - Standoff Mounts
+      - None Needed
+      required: true
+    - id: 22
+      name: quantity
+      label: Quantity
+      hint: Number of items to order
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Estimated cost per item
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_cost
+      label: Total Cost
+      hint: Total estimated cost
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: rush_order
+      label: Rush Order
+      hint: Is this a rush order
+      type: select_one
+      options:
+      - Yes - Rush
+      - No - Standard
+      required: true
+    - id: 26
+      name: needed_by_date
+      label: Needed By Date
+      hint: When is this order needed
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - Rejected
+      required: true
+    - id: 29
+      name: approving_manager
+      label: Approving Manager
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

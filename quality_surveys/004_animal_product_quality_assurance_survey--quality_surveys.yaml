@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Product Quality Assurance Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Optional - your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Your Role
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: product_category
+      label: Product Category Evaluated
+      hint: Select the type of animal product
+      type: select_one
+      options:
+      - Pet Food
+      - Animal Supplements
+      - Veterinary Pharmaceuticals
+      - Animal Care Equipment
+      - Grooming Products
+      - Housing and Containment
+      - Other
+      required: true
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: Specific product being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: batch_number
+      label: Batch or Lot Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: packaging_quality
+      label: Packaging Quality Rating
+      hint: Rate the packaging
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: true
+    - id: 10
+      name: product_appearance
+      label: Product Appearance
+      hint: Visual inspection results
+      type: select_one
+      options:
+      - Meets Standards
+      - Minor Issues
+      - Major Issues
+      - Unacceptable
+      required: true
+    - id: 11
+      name: product_consistency
+      label: Product Consistency
+      hint: Uniformity across samples
+      type: select_one
+      options:
+      - Very Consistent
+      - Consistent
+      - Somewhat Consistent
+      - Inconsistent
+      required: true
+    - id: 12
+      name: label_accuracy
+      label: Label Accuracy
+      hint: Information on label matches product
+      type: select_one
+      options:
+      - Completely Accurate
+      - Mostly Accurate
+      - Some Discrepancies
+      - Inaccurate
+      required: true
+    - id: 13
+      name: safety_compliance
+      label: Safety Compliance
+      hint: Meets safety standards
+      type: select_one
+      options:
+      - Fully Compliant
+      - Minor Non-Compliance
+      - Major Non-Compliance
+      - Not Evaluated
+      required: true
+    - id: 14
+      name: quality_score
+      label: Overall Quality Score
+      hint: Rate overall quality
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Good
+      - 3 - Average
+      - 2 - Below Average
+      - 1 - Poor
+      required: true
+    - id: 15
+      name: defects_found
+      label: Were Any Defects Found
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 16
+      name: defect_description
+      label: Defect Description
+      hint: Describe any defects found
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: corrective_action
+      label: Corrective Action Recommended
+      hint: Suggested actions
+      type: select_multiple
+      options:
+      - No Action Needed
+      - Minor Adjustments
+      - Process Review
+      - Batch Quarantine
+      - Product Recall
+      - Supplier Review
+      - Additional Testing
+      required: true
+    - id: 18
+      name: customer_impact
+      label: Potential Customer Impact
+      hint: How might this affect end users
+      type: select_one
+      options:
+      - No Impact
+      - Minor Inconvenience
+      - Moderate Concern
+      - Serious Concern
+      required: true
+    - id: 19
+      name: retest_required
+      label: Is Retesting Required
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_signature
+      label: Reviewer Name
+      hint: Type your name
+      type: text
+      options: []
+      required: true

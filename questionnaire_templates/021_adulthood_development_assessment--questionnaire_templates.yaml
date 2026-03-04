@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adulthood Development Assessment
+    pages:
+    - id: 1
+      name: assessment_header
+      label: -- Development Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: life_skills_competence
+      label: Life skills competence
+      hint: Rate competence across domains
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 4
+      name: financial_management
+      label: Financial management skills
+      hint: Self rating
+      type: select_one
+      options:
+      - Needs improvement
+      - Adequate
+      - Strong
+      required: true
+    - id: 5
+      name: employment_status
+      label: Employment status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed full time
+      - Employed part time
+      - Unemployed
+      - Student
+      - Retired
+      required: false
+    - id: 6
+      name: social_engagement
+      label: Social engagement level
+      hint: Frequency of social activities
+      type: select_one
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 7
+      name: development_goals
+      label: Development goals
+      hint: List top 3 goals
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supports_needed
+      label: Supports needed to reach goals
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Coaching
+      - Financial planning
+      - Mentoring
+      - Training programs
+      required: false
+    - id: 9
+      name: assessment_date
+      label: Assessment date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true

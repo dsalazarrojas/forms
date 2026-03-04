@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hair Quiz
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_condition
+      label: Hair condition
+      hint: null
+      type: select_one
+      options:
+      - Balding
+      - Dull
+      - Dry
+      - Fine
+      - Greying
+      - Thinning
+      - Thinning on top
+      - Volume loss
+      - Normal
+      required: false
+    - id: 3
+      name: client_concerns
+      label: Client concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Dullness
+      - Thinning
+      - Colour loss
+      - Greys
+      - Itchiness
+      - Dryness
+      - Frizziness
+      - Breakage
+      - Other
+      required: false
+    - id: 4
+      name: hair_length
+      label: Hair length
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 5
+      name: hair_dryness
+      label: How dry is your hair?
+      hint: null
+      type: select_one
+      options:
+      - Very dry
+      - Somewhat dry
+      - Not dry at all
+      required: false
+    - id: 6
+      name: hair_fringe
+      label: How much time do you spend on your hair fringe?
+      hint: null
+      type: select_one
+      options:
+      - 0-5 minutes
+      - 5-15 minutes
+      - 15-30 minutes
+      required: false
+    - id: 7
+      name: styling_product_use
+      label: Which of the products do you use on your hair?
+      hint: null
+      type: select_multiple
+      options:
+      - Conditioner
+      - Shampoo
+      - Serum
+      - Oil
+      - Mask
+      - Other
+      required: false
+    - id: 8
+      name: hair_coloring
+      label: Have you ever had hair coloring?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: hair_treatment
+      label: Have you had any hair treatment recently?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

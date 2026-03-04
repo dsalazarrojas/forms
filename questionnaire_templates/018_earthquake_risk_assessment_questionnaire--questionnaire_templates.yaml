@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earthquake Risk Assessment Questionnaire
+    pages:
+    - id: 1
+      name: property_location
+      label: What's the property location?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_type
+      label: building_type
+      hint: null
+      type: select_one
+      options:
+      - Earthquake-resistant
+      - Non-earthquake-resistant
+      - Not Applicable
+      required: false
+    - id: 3
+      name: building_age
+      label: building_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: building_height
+      label: building_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: building_designation
+      label: building_designation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 6
+      name: building_designation_2
+      label: building_designation_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 7
+      name: property_use
+      label: property_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: building_structure
+      label: building_structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: building_type_2
+      label: building_type_2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 10
+      name: building_height_2
+      label: building_height_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: building_designation_3
+      label: building_designation_3
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 12
+      name: building_designation_4
+      label: building_designation_4
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false

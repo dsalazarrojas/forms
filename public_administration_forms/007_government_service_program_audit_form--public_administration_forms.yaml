@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Service Program Audit Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: program_officer_name
+      label: Program Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_services
+      label: Program Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''A - Program A'', ''value'': ''A''}'
+      - '{''label'': ''B - Program B'', ''value'': ''B''}'
+      - '{''label'': ''C - Program C'', ''value'': ''C''}'
+      required: true
+    - id: 6
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A - Department A'', ''value'': ''A''}'
+      - '{''label'': ''B - Department B'', ''value'': ''B''}'
+      - '{''label'': ''C - Department C'', ''value'': ''C''}'
+      required: true
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A - In Progress'', ''value'': ''A''}'
+      - '{''label'': ''B - Complete'', ''value'': ''B''}'
+      - '{''label'': ''C - Cancelled'', ''value'': ''C''}'
+      required: true
+    - id: 13
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A - Department A'', ''value'': ''A''}'
+      - '{''label'': ''B - Department B'', ''value'': ''B''}'
+      - '{''label'': ''C - Department C'', ''value'': ''C''}'
+      required: true
+    - id: 18
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A - Completed'', ''value'': ''A''}'
+      - '{''label'': ''B - In Progress'', ''value'': ''B''}'
+      - '{''label'': ''C - Cancelled'', ''value'': ''C''}'
+      required: true
+    - id: 20
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: review_completed
+      label: Review Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_followed
+      label: Followed Up
+      hint: null
+      type: date
+      options: []
+      required: false

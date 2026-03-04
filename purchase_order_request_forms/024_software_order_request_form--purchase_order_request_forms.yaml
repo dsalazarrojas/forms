@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Order Request Form
+    pages:
+    - id: 1
+      name: software_order_request_form
+      label: Software Order Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: purchase_requester
+      label: Purchase Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Please enter the requester's email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: software_requester_phone
+      label: Requester Phone
+      hint: Please enter the requester's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_request_description
+      label: Purchase Description
+      hint: Please provide a brief description of the purchase
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: software_name
+      label: Software Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: software_version
+      label: Software Version
+      hint: If this is a version of software, please specify the version number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: software_cost
+      label: Software Cost
+      hint: Please enter the cost of the software
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: purchase_request_date
+      label: Purchase Request Date
+      hint: Please enter the date of the purchase request
+      type: date
+      options: []
+      required: false

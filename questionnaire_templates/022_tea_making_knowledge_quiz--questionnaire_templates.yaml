@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tea Making Knowledge Quiz
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preferred_tea
+      label: preferred_tea
+      hint: null
+      type: select_one
+      options:
+      - English Breakfast
+      - Green Tea
+      - Herbal Tea
+      - White Tea
+      - Yellow Tea
+      - Yellow Tea with Honey
+      required: true
+    - id: 3
+      name: brewing_method
+      label: Brewing Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: temperature
+      label: Temperature
+      hint: null
+      type: select_one
+      options:
+      - '80'
+      - '85'
+      - '90'
+      - '95'
+      required: true
+    - id: 5
+      name: steep_time
+      label: Steep Time
+      hint: null
+      type: select_one
+      options:
+      - '15'
+      - '30'
+      - '45'
+      - '60'
+      required: true
+    - id: 6
+      name: sweeteners
+      label: Sweeteners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: additives
+      label: Additives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: serving_size
+      label: Serving Size
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: tea_shop
+      label: Tea Shop
+      hint: null
+      type: select_one
+      options:
+      - Tea Shop A
+      - Tea Shop B
+      - Tea Shop C
+      required: true
+    - id: 10
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - Less than 2 times a week
+      - Never
+      required: true
+    - id: 11
+      name: tea_brewing_habits
+      label: Tea Brewing Habits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: general_comments
+      label: General Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: favorite_brand
+      label: Favorite Brand
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tea_brewing_skills
+      label: Tea Brewing Skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: tea_brewing_habits_score
+      label: Tea Brewing Habits Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: tea_type
+      label: Tea Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

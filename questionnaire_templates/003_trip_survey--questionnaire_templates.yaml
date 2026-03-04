@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: trip_survey
+    pages:
+    - id: 1
+      name: user_input_form
+      label: User Input Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: select_one
+      options:
+      - 01/01/2023
+      - 01/02/2023
+      - 01/03/2023
+      required: false
+    - id: 3
+      name: travel_locations
+      label: Travel Locations
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Chicago
+      - San Francisco
+      required: false
+    - id: 4
+      name: travel_modes
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - car
+      - train
+      - plane
+      required: false
+    - id: 5
+      name: travel_reasons
+      label: Travel Reasons
+      hint: null
+      type: select_one
+      options:
+      - personal
+      - business
+      - other
+      required: false
+    - id: 6
+      name: travel_destinations
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_costs
+      label: Travel Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false

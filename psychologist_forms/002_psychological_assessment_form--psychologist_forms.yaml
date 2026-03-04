@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Assessment Form
+    pages:
+    - id: 1
+      name: psychological_assessment_form_name
+      label: Psychological Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: psychologist_name
+      label: Psychologist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: psychological_health_concerns
+      label: Psychological Health Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: psychologist_assessment_form
+      label: Psychologist Assessment Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: psychological_assessment_form_instructions
+      label: Psychological Assessment Form Instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: mental_health_professional
+      label: Mental Health Professional
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: psychological_assessment_form_results
+      label: Psychological Assessment Form Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: psychological_assessment_form_comments
+      label: Psychological Assessment Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessment_form_completion_status
+      label: Assessment Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: in_progress
+      label: In Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: not_started
+      label: Not Started
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: cancelled
+      label: Cancelled
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: completed_and_submitted
+      label: Completed and Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

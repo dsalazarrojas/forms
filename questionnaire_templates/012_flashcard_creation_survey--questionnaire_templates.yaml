@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flashcard Creation Survey
+    pages:
+    - id: 1
+      name: platform_used
+      label: Platforms Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: how_prophets_used
+      label: How Often
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      required: false
+    - id: 3
+      name: content_types
+      label: Content Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: flashcards_frequency
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: flashcards_frequency_other
+      label: Otherประก
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than 1 month''}'
+      - '{''value'': ''1-3 months''}'
+      - '{''value'': ''4-6 months''}'
+      - '{''value'': ''More than 6 months''}'
+      required: false
+    - id: 6
+      name: how_flashcards_used
+      label: How Flashcards Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''prophets''}'
+      required: false
+    - id: 8
+      name: flashcard_content
+      label: Flashcard Content
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: platforms
+      label: Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: content_sources
+      label: Content Sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: flashcard_desired_features
+      label: Desired Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

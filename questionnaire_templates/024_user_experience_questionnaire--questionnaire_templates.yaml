@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: user_experience_questionnaire
+    pages:
+    - id: 1
+      name: user_experience_rating
+      label: User Experience Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_or_service
+      label: Product Or Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product'', ''label'': ''Product''}'
+      - '{''id'': 2, ''name'': ''Service'', ''label'': ''Service''}'
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: product_or_service_type
+      label: Product Or Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product'', ''label'': ''Product''}'
+      - '{''id'': 2, ''name'': ''Service'', ''label'': ''Service''}'
+      required: true
+    - id: 13
+      name: product_or_service_name
+      label: Product Or Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_experience_rating_scale
+      label: User Experience Rating Scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: overall_experience_rating
+      label: Overall Experience Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_experience_description
+      label: User Experience Description
+      hint: null
+      type: text
+      options: []
+      required: false

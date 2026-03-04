@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finder Qualification Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: welcome to the finder qualification survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_details
+      label: enter applicant details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: skills
+      label: what skills do you have
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: availability
+      label: what is your availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: qualification_process
+      label: qualification process
+      hint: null
+      type: select_multiple
+      options:
+      - Option 4
+      - Option 5
+      required: true
+    - id: 7
+      name: notes
+      label: additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true

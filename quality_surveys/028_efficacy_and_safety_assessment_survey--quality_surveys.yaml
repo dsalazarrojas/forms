@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Efficacy And Safety Assessment Survey
+    pages:
+    - id: 1
+      name: efficacy_and_safety_assessment_survey
+      label: How would you describe your overall experience with our product?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 2
+      name: efficacy_and_safety_assessment_survey_question_2
+      label: How likely are you to recommend our product to a friend or colleague?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 3
+      name: efficacy_and_safety_assessment_survey_question_3
+      label: What feature of our product would you like to see improved or added?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: efficacy_and_safety_assessment_survey_question_4
+      label: How would you rate the safety of our product?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: efficacy_and_safety_assessment_survey_question_5
+      label: Is there anything you'd like to report about your experience with our
+        product?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: efficacy_and_safety_assessment_survey_question_6
+      label: When did you experience the issue with our product?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: efficacy_and_safety_assessment_survey_question_7
+      label: How did you contact us regarding the issue with our product?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: efficacy_and_safety_assessment_survey_question_8
+      label: Did you contact us regarding the issue with our product?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: efficacy_and_safety_assessment_survey_question_9
+      label: How would you rate the overall quality of our product support?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: efficacy_and_safety_assessment_survey_question_10
+      label: Would you like to be contacted by us regarding any follow-up questions
+        or issues?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: efficacy_and_safety_assessment_survey_question_11
+      label: What time of day do you usually contact us?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: efficacy_and_safety_assessment_survey_question_12
+      label: Which channel did you contact us through (phone, email, or web chat)?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: efficacy_and_safety_assessment_survey_question_13
+      label: Is there anything else you'd like to share with us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: assigned_tool_user
+      label: Assigned tool user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: assigned_tool_id
+      label: Assigned tool ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: created_at
+      label: Created time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Updated time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: output_file
+      label: Output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: output_file_name
+      label: Output file name
+      hint: null
+      type: text
+      options: []
+      required: false

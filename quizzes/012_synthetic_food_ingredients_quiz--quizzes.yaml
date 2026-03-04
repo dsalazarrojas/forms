@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Synthetic Food Ingredients Quiz
+    pages:
+    - id: 1
+      name: general_knowledge
+      label: General Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: synthetic_additives
+      label: Synthetic Additives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: health_effects
+      label: Health Effects
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: regulatory_guidelines
+      label: Regulatory Guidelines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education_impact
+      label: Education Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_strategy
+      label: Assessment Strategy
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: evaluation_and_reporting
+      label: Evaluation and Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_questions
+      label: Additional Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_and_appeal
+      label: Review and Appeal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: feedback_and_comments
+      label: Feedback and Comments
+      hint: null
+      type: text
+      options: []
+      required: false

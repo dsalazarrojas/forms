@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Erasmus+ Consortium Interest Survey
+    pages:
+    - id: 1
+      name: survey_partners
+      label: Partner Organizations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: readiness_score
+      label: Readiness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: interests_score
+      label: Interests Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_affiliation
+      label: Submitter Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_institution
+      label: Submitter Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: partner_interests
+      label: Partner Interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: partner_comments
+      label: Partner Comments
+      hint: null
+      type: note
+      options: []
+      required: false

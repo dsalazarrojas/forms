@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Potato Knowledge Quiz
+    pages:
+    - id: 1
+      name: form_questions
+      label: Form Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What type of food do you like
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: answer_1
+      label: What's your favorite food type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: answer_2
+      label: What do you like about this food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: answer_3
+      label: How many times have you had the food
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: answer_4
+      label: Do you have any food allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: answer_5
+      label: When did you eat the food last time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: answer_6
+      label: How many people did you eat the food with
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: note
+      options: []
+      required: false

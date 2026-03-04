@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Health Equity Awareness Survey
+    pages:
+    - id: 1
+      name: global_health_equity_awareness_survey_page_1
+      label: What is your current role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Community Health Worker''}'
+      - '{''value'': ''Clinician''}'
+      - '{''value'': ''Health Manager''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 2
+      name: global_health_equity_awareness_survey_page_2
+      label: Have you ever experienced discrimination in the healthcare system
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 3
+      name: global_health_equity_awareness_survey_page_3
+      label: What kind of discrimination have you experienced
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Age''}'
+      - '{''value'': ''Disability''}'
+      - '{''value'': ''Ethnicity''}'
+      - '{''value'': ''Gender''}'
+      - '{''value'': ''Marital status''}'
+      - '{''value'': ''Race''}'
+      - '{''value'': ''Religion''}'
+      - '{''value'': ''Sexual orientation''}'
+      required: false
+    - id: 4
+      name: global_health_equity_awareness_survey_page_4
+      label: How long did you experience discrimination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: global_health_equity_awareness_survey_page_5
+      label: How long did you experience discrimination for
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: global_health_equity_awareness_survey_page_6
+      label: What happened as a result of discrimination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: global_health_equity_awareness_survey_page_7
+      label: Have you reported discrimination to anyone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: global_health_equity_awareness_survey_page_8
+      label: Have you been satisfied with the result
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 9
+      name: global_health_equity_awareness_survey_page_9
+      label: How long ago did you experience discrimination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: global_health_equity_awareness_survey_page_10
+      label: How long did you experience discrimination for
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: global_health_equity_awareness_survey_page_11
+      label: What was the most recent discrimination event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: global_health_equity_awareness_survey_page_12
+      label: Did you experience discrimination in the past 30 days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: global_health_equity_awareness_survey_page_13
+      label: Have you experienced discrimination more than 30 days ago
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: global_health_equity_awareness_survey_page_14
+      label: What do you think was the main reason for discrimination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: global_health_equity_awareness_survey_page_15
+      label: Have you experienced discrimination due to age
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 16
+      name: global_health_equity_awareness_survey_page_16
+      label: Have you experienced discrimination due to disability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 17
+      name: global_health_equity_awareness_survey_page_17
+      label: Have you experienced discrimination due to ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 18
+      name: global_health_equity_awareness_survey_page_18
+      label: Have you experienced discrimination due to gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 19
+      name: global_health_equity_awareness_survey_page_19
+      label: Have you experienced discrimination due to marital status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 20
+      name: global_health_equity_awareness_survey_page_20
+      label: Have you experienced discrimination due to race
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 21
+      name: global_health_equity_awareness_survey_page_21
+      label: Have you experienced discrimination due to religion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 22
+      name: global_health_equity_awareness_survey_page_22
+      label: Have you experienced discrimination due to sexual orientation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 23
+      name: global_health_equity_awareness_survey_page_23
+      label: Do you think you will experience discrimination in the future
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 24
+      name: global_health_equity_awareness_survey_page_24
+      label: Have you experienced other kind of discrimination
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 25
+      name: global_health_equity_awareness_survey_page_25
+      label: How many people have experienced discrimination
+      hint: null
+      type: text
+      options: []
+      required: false

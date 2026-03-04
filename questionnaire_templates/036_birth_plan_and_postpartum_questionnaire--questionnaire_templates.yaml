@@ -1,0 +1,340 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Plan And Postpartum Questionnaire
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birth Plan and Postpartum Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Create your personalized birth and postpartum plan
+      hint: Share your preferences and needs
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_parent_info
+      label: -- Parent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: partner_name
+      label: Birth Partner Name
+      hint: Your partner or support person
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: Expected birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: Doctor or midwife name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_birth_location
+      label: -- Birth Location Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: planned_location
+      label: Planned Birth Location
+      hint: Hospital, birth center, or home
+      type: select_one
+      options:
+      - Hospital
+      - Birth Center
+      - Home Birth
+      - Flexible
+      required: true
+    - id: 10
+      name: facility_choice
+      label: Facility Name
+      hint: Specific hospital or center
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_people
+      label: Who You Want Present at Birth
+      hint: Family, friends, partner
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: support_people_roles
+      label: Roles of Support People
+      hint: What you want each person to do
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_labor_preferences
+      label: -- Labor Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: labor_movement_preference
+      label: Preference for Movement During Labor
+      hint: Walking, position changes, etc.
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Important
+      - Unsure
+      required: true
+    - id: 15
+      name: birth_ball_tub_preference
+      label: Interest in Birth Ball or Water Birth
+      hint: Use of birth tools
+      type: select_one
+      options:
+      - Very Interested
+      - Interested
+      - Maybe
+      - Not Interested
+      required: true
+    - id: 16
+      name: continuous_support
+      label: Desire for Continuous Labor Support
+      hint: Doula, partner, or staff support
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 17
+      name: pain_management
+      label: Pain Management Preferences
+      hint: Natural techniques or medications
+      type: select_multiple
+      options:
+      - Natural Breathing Techniques
+      - Massage and Counter Pressure
+      - Continuous Support
+      - Nitrous Oxide
+      - Epidural
+      - IV Medications
+      - Undecided
+      required: true
+    - id: 18
+      name: environment_preferences
+      label: Birth Environment Preferences
+      hint: Lighting, music, temperature
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_delivery
+      label: -- Delivery Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: pushing_preferences
+      label: Preferences for Pushing
+      hint: Directed or natural pushing
+      type: select_one
+      options:
+      - Follow Body's Urges
+      - Directed Pushing
+      - No Preference
+      required: true
+    - id: 21
+      name: delivery_position
+      label: Preferred Delivery Positions
+      hint: Upright, lying down, squatting
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: perineal_care
+      label: Preferences for Perineal Support
+      hint: Tearing prevention
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: placenta_preferences
+      label: Placenta Delivery Preferences
+      hint: What happens after baby
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_interventions
+      label: -- Medical Interventions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: induction_preference
+      label: Preference Regarding Labor Induction
+      hint: If medically necessary
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: epidural_preference
+      label: Feelings About Epidural
+      hint: Open, prefer to avoid, etc.
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: episiotomy_preference
+      label: Preference Regarding Episiotomy
+      hint: Only if necessary, avoid, etc.
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: section_baby_preferences
+      label: -- Baby Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: immediate_skin_contact
+      label: Immediate Skin-to-Skin Contact
+      hint: With baby right after birth
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Important
+      - Undecided
+      required: true
+    - id: 30
+      name: delayed_cord_clamping
+      label: Preference for Delayed Cord Clamping
+      hint: Timing of cord clamping
+      type: select_one
+      options:
+      - Prefer Delayed (1-3 minutes)
+      - Prefer Immediate
+      - No Preference
+      required: true
+    - id: 31
+      name: vitamin_k_preference
+      label: Vitamin K and Eye Ointment Preference
+      hint: Standard newborn treatments
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: feeding_preference
+      label: Feeding Preference
+      hint: Breastfeeding, bottle, combination
+      type: select_one
+      options:
+      - Exclusively Breastfeeding
+      - Combination Feeding
+      - Bottle Feeding
+      - Undecided
+      required: true
+    - id: 33
+      name: rooming_in
+      label: Rooming-In Preference
+      hint: Baby staying with you
+      type: select_one
+      options:
+      - Yes, Want Rooming-In
+      - No, Prefer Nursery
+      - Flexible
+      required: false
+    - id: 34
+      name: section_postpartum
+      label: -- Postpartum Care Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: postpartum_support_needed
+      label: Postpartum Support Needed
+      hint: Help with feeding, rest, recovery
+      type: select_multiple
+      options:
+      - Breastfeeding Support
+      - Newborn Care Education
+      - Meal Preparation
+      - Household Help
+      - Emotional Support
+      - Recovery Assistance
+      required: true
+    - id: 36
+      name: postpartum_visitor_preferences
+      label: Visitor Preferences
+      hint: When family and friends can visit
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: postpartum_recovery_goals
+      label: Postpartum Recovery Goals
+      hint: What is important for your recovery
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: postpartum_mental_health
+      label: Postpartum Mental Health Awareness
+      hint: Want to discuss PPD screening
+      type: select_one
+      options:
+      - Yes, Important to Discuss
+      - false
+      - Prefer Not to Discuss
+      required: false
+    - id: 39
+      name: section_special
+      label: -- Special Circumstances --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: special_considerations
+      label: Any Special Circumstances or Requests
+      hint: Anything unique to your situation
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: birth_plan_copies
+      label: Number of Copies of Birth Plan Needed
+      hint: For providers, hospital, etc.
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landman Project Questionnaire
+    pages:
+    - id: 1
+      name: landman_project_questionnaire
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Oil''}'
+      - '{''id'': 2, ''label'': ''Gas''}'
+      - '{''id'': 3, ''label'': ''Mineral''}'
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: landman_name
+      label: Landman Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Crew''}'
+      - '{''id'': 3, ''label'': ''Staff''}'
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: manager_phone_number
+      label: Manager Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false

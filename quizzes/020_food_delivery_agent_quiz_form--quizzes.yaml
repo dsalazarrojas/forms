@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Delivery Agent Quiz Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: About the food delivery service
+      hint: Tell us about a good experience you had with our food delivery service.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: Have you ever had an issue with an order?
+      hint: Describe what happened if you had any issues with an order.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: How would you rate the quality of our food?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      required: false
+    - id: 5
+      name: question_4
+      label: How would you rate your experience with our customer service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: What is the most important factor for you when choosing a food delivery
+        service?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Price''}'
+      - '{''id'': 2, ''label'': ''Speed of delivery''}'
+      - '{''id'': 3, ''label'': ''Quality of food''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: question_6
+      label: Do you use our food delivery service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: question_7
+      label: How often do you use our food delivery service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Several times a week''}'
+      - '{''id'': 3, ''label'': ''Occasionally''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      required: false
+    - id: 9
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

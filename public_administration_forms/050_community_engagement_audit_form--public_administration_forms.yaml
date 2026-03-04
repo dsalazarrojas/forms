@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Engagement Audit
+    pages:
+      - id: 1
+        name: audit_date
+        label: Audit date
+        hint: Date of engagement audit
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: department
+        label: Department audited
+        hint: Name of department or program
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: engagement_methods
+        label: Engagement methods used
+        hint: List methods such as surveys meetings outreach
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: reach_and_participation
+        label: Reach and participation level
+        hint: Assess attendance and demographic reach
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: barriers_identified
+        label: Barriers to engagement identified
+        hint: Note obstacles limiting participation
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: recommendations
+        label: Recommendations to improve engagement
+        hint: Actionable steps and responsible teams
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: auditor_name
+        label: Auditor name
+        hint: Person completing the audit
+        type: text
+        options: []
+        required: true

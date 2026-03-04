@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instrument Content Validation Form
+    pages:
+    - id: 1
+      name: instrument_name
+      label: instrument_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_type
+      label: Rating Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Instrument Content Validation Form'': None}'
+      - Expert
+      - Researcher
+      - Other
+      required: false
+    - id: 3
+      name: instrument_type
+      label: instrument_type
+      hint: null
+      type: select_multiple
+      options:
+      - Survey
+      - Test
+      - Scale
+      required: false
+    - id: 4
+      name: scale_type
+      label: scale_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: instrument_name_other
+      label: instrument_name_other
+      hint: null
+      type: text
+      options: []
+      required: false

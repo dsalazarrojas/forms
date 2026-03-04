@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exempt Organization Purchase Certificate
+    pages:
+    - id: 1
+      name: vendor_info
+      label: Vendor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: exempt_status
+      label: Exempt Status
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      required: true
+    - id: 5
+      name: exempt_reason
+      label: Exempt Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false

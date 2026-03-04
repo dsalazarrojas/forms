@@ -1,0 +1,279 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culture Fit Interview Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: company
+      hint: Enter company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job title
+      hint: Enter job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: work_environment
+      label: work environment
+      hint: null
+      type: select_one
+      options:
+      - 9-to-5, Monday-to-Friday, 8-12 hours/day
+      - Flexible or remote work
+      - Flexible or part-time work
+      - Variable hours or project-based work
+      - Flexible or flexible hours (not 9-to-5)
+      required: true
+    - id: 5
+      name: work_style
+      label: work style
+      hint: null
+      type: select_multiple
+      options:
+      - Structured schedule
+      - Flexible schedule
+      required: true
+    - id: 6
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - Small team or 1-10 people
+      - Medium team or 11-50 people
+      - Large team or 51+ people
+      required: true
+    - id: 7
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - Face-to-face
+      - Email or instant messaging
+      - Phone calls or video calls
+      required: true
+    - id: 8
+      name: decision_making
+      label: decision-making
+      hint: null
+      type: select_multiple
+      options:
+      - Autonomous or individual decisions
+      - Collaborative or team decisions
+      - Manager or team lead decisions
+      - Some autonomy, but mostly manager decisions
+      required: true
+    - id: 9
+      name: work_life_balance
+      label: work-life balance
+      hint: null
+      type: select_one
+      options:
+      - Strong emphasis on work-life balance
+      - Some emphasis on work-life balance
+      - No emphasis on work-life balance
+      required: true
+    - id: 10
+      name: culture
+      label: culture
+      hint: null
+      type: select_multiple
+      options:
+      - Formal or structured
+      - Flexible or casual
+      required: true
+    - id: 11
+      name: growth_opportunities
+      label: growth-opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - Formal, regular training or mentorship programs
+      - Some opportunities for growth and development
+      - No formal growth or development opportunities
+      required: true
+    - id: 12
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Regular, constructive feedback
+      - Some feedback, informal
+      - Rare or little feedback
+      required: true
+    - id: 13
+      name: autonomy
+      label: autonomy
+      hint: null
+      type: select_multiple
+      options:
+      - Some autonomy and freedom
+      - Moderate or average autonomy
+      - High or almost full autonomy
+      required: true
+    - id: 14
+      name: creativity
+      label: creativity
+      hint: null
+      type: select_multiple
+      options:
+      - Emphasized or encouraged
+      - Moderate or average creativity freedom
+      - Little or no creativity encouraged
+      required: true
+    - id: 15
+      name: work_from_home
+      label: work-from-home
+      hint: null
+      type: select_multiple
+      options:
+      - Allowed, with flexibility
+      - Allowed, but only occasionally
+      - Not allowed or discouraged
+      required: true
+    - id: 16
+      name: work_from_office
+      label: work-from-office
+      hint: null
+      type: select_multiple
+      options:
+      - Required or expected
+      - Allowed or flexible
+      - Allowed, but not required
+      required: true
+    - id: 17
+      name: travel
+      label: travel
+      hint: null
+      type: select_multiple
+      options:
+      - Frequent or regular travel required
+      - Some or occasional travel required
+      - No or little travel required
+      required: true
+    - id: 18
+      name: work_hours
+      label: work-hours
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed or standard hours
+      - Flexible or flexible hours
+      required: true
+    - id: 19
+      name: compensation
+      label: compensation
+      hint: null
+      type: select_multiple
+      options:
+      - Competitive salary, bonus, or stock options
+      - Moderate or base salary
+      - Low or base salary only
+      required: true
+    - id: 20
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_multiple
+      options:
+      - Comprehensive benefits (health, retirement, etc.)
+      - Some or partial benefits
+      - No or limited benefits
+      required: true
+    - id: 21
+      name: job_security
+      label: job-security
+      hint: null
+      type: select_multiple
+      options:
+      - Job security, stability
+      - Moderate or average job security
+      - Low or little job security
+      required: true
+    - id: 22
+      name: company_size
+      label: company-size
+      hint: null
+      type: select_one
+      options:
+      - Small company or under 50 people
+      - Medium company or 50-100 people
+      - Large company or 100-1000 people
+      - Enterprise or 1000+ people
+      required: true
+    - id: 23
+      name: company_type
+      label: company-type
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietor or Individual
+      - Small Business or Partnership
+      - Public Company or Corporation
+      required: true
+    - id: 24
+      name: company_stage
+      label: company-stage
+      hint: null
+      type: select_one
+      options:
+      - Startup or Seed stage
+      - Scaling or Growth stage
+      - Established or Mature stage
+      required: true
+    - id: 25
+      name: submission
+      label: submission
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 26
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 28
+      name: job_title_2
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: company_2
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: work_hours_2
+      label: Work Hours
+      hint: null
+      type: text
+      options: []
+      required: false

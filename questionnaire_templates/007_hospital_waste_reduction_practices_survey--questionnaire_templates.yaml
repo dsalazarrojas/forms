@@ -1,0 +1,73 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Waste Reduction Practices Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waste_streams
+      label: Waste Streams
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Food Waste''}'
+      - '{''id'': 2, ''label'': ''Liquid Waste''}'
+      - '{''id'': 3, ''label'': ''Solids (non-food)''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: waste_reduction_targets
+      label: Waste Reduction Targets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reduction_strategies
+      label: Waste Reduction Strategies
+      hint: Select one or multiple from the list
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Reduce''}'
+      - '{''id'': 2, ''label'': ''Reuse''}'
+      - '{''id'': 3, ''label'': ''Recycle''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: barriers
+      label: Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_suggestions
+      label: Staff Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: responses
+      label: Responses
+      hint: null
+      type: text
+      options: []
+      required: false

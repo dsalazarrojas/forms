@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Workshop Quality Assessment
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facilitator_name
+      label: facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: overall_score
+      label: overall_score
+      hint: Rate your overall experience from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_length
+      label: session_length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: content
+      label: content
+      hint: Was the content of the workshop helpful?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: organization
+      label: organization
+      hint: Was the workshop organized?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: interaction
+      label: interaction
+      hint: Was there enough interaction between trainers and attendees?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: materials
+      label: materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: time_management
+      label: time_management
+      hint: Was time management good?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: communication
+      label: communication
+      hint: Was communication clear?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommendations
+      label: recommendations
+      hint: Do you have any recommendations for future sessions?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rating2
+      label: rating2
+      hint: Rate this session from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: Your Email
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: comments2
+      label: comments2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: session_duration
+      label: session_duration
+      hint: How long was the session?
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: session_start_time
+      label: session_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: session_end_time
+      label: session_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false

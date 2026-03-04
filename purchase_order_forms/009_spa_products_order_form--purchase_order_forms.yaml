@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: spa_products_order_form
+    pages:
+    - id: 1
+      name: spa_products_order_form_page_1
+      label: order_products
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: spa_products
+      label: spa_products
+      hint: null
+      type: select_multiple
+      options:
+      - Spas and Wellness
+      - Aesthetics
+      - Massage
+      required: false
+    - id: 4
+      name: products
+      label: products
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: spa_products_order_form_page_2
+      label: delivery_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Craving Questionnaire
+    pages:
+    - id: 1
+      name: section_assessment
+      label: -- Craving Assessment --
+      hint: Please rate your level of agreement with the following statements RIGHT
+        NOW
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_initials
+      label: Patient Initials or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_time_assessment
+      label: Date and Time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: craving_intensity_1
+      label: I have a desire for a drink right now
+      hint: 1 (Strongly Disagree) to 7 (Strongly Agree)
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: craving_intensity_2
+      label: Drinking would be very pleasant right now
+      hint: 1 to 7 scale
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: craving_intensity_3
+      label: If I had a drink in front of me, I would drink it
+      hint: 1 to 7 scale
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: craving_intensity_4
+      label: I feel I could easily limit my drinking if I started now
+      hint: 1 to 7 scale
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: craving_intensity_5
+      label: I would feel better if I could have a drink
+      hint: 1 to 7 scale
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_triggers
+      label: -- Triggers and Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_trigger
+      label: What triggered your current craving?
+      hint: null
+      type: select_one
+      options:
+      - Stress/Anxiety
+      - Boredom
+      - Social Situation/Sight of alcohol
+      - Physical discomfort/Withdrawal
+      - Habit/Routine
+      - Emotional Distress (Sadness/Anger)
+      - No obvious trigger
+      required: true
+    - id: 11
+      name: physical_symptoms
+      label: Are you experiencing physical symptoms of craving?
+      hint: null
+      type: select_multiple
+      options:
+      - Sweating
+      - Nausea
+      - Shaking/Tremors
+      - Irritability
+      - Headache
+      - Increased Heart Rate
+      - None
+      required: true
+    - id: 12
+      name: coping_strategies
+      label: Current Coping Strategies being used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: craving_duration
+      label: How long has the current craving lasted?
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 minutes
+      - 5-15 minutes
+      - 15-30 minutes
+      - 30+ minutes
+      - Constant
+      required: true
+    - id: 14
+      name: additional_observations_clinical
+      label: Clinical Observations (For Staff)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: affirmation_statement
+      label: I am committed to managing my cravings today
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Working on it
+      required: true

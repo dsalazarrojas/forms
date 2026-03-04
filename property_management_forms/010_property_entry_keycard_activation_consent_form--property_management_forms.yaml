@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Entry Keycard Activation Consent Form
+    pages:
+    - id: 1
+      name: property_entry_keycard_activation_consent_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Residential'', ''value'': ''residential''}'
+      - '{''label'': ''Commercial'', ''value'': ''commercial''}'
+      - '{''label'': ''Mixed-Use'', ''value'': ''mixed-use''}'
+      required: false
+    - id: 7
+      name: property_type
+      label: Activation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: activation_date
+      label: Activation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: activation_time
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

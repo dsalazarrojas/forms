@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Scheme Awareness Survey
+    pages:
+    - id: 1
+      name: survey_program
+      label: What is the government scheme?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: program_participation
+      label: How have you participated in the scheme?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: program_satisfaction
+      label: How satisfied are you with the government scheme?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: access_barriers
+      label: What barriers do you face in accessing the scheme?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: program_participation_frequency
+      label: How often do you participate in the scheme?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: program_access_satisfaction
+      label: How satisfied are you with the accessibility of the scheme?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: program_funding
+      label: Do you think the scheme is well funded?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: program_advertisement
+      label: How often do you see advertisements for the scheme?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: program_promotion
+      label: Do you think the scheme is well promoted?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: program_support
+      label: Do you think you are well supported in the scheme?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: citizen_feedback
+      label: What do you think can be done to improve the scheme?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: program_participation_frequency_frequency
+      label: How often do you participate in the scheme?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: program_satisfaction_satisfaction_level
+      label: How satisfied are you with the scheme?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: program_access_satisfaction_accessibility_level
+      label: How accessible is the scheme?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: program_funding_funding_level
+      label: How well funded do you think the scheme is?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: program_advertisement_advertisement_frequency
+      label: How often do you see advertisements for the scheme?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: program_promotion_promotion_frequency
+      label: How often do you see promotions for the scheme?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: program_support_support_level
+      label: How well supported do you feel in the scheme?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: date
+      label: When did you participate in the scheme?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: time
+      label: What time did you participate in the scheme?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: date
+      label: None
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: time
+      label: None
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: date
+      label: When do you expect to participate in the scheme again?
+      hint: null
+      type: date
+      options: []
+      required: true

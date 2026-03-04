@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Maintenance Log
+    pages:
+    - id: 1
+      name: main_page
+      label: Rental Property Maintenance Log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_item
+      label: Item description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-training-questionnaire
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: health_info
+      label: Health Info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: training_info
+      label: Training Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 4''}'
+      - '{''label'': ''Option 5''}'
+      - '{''label'': ''Option 6''}'
+      required: false
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exercise_frequencies
+      label: Exercise Frequencies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 7''}'
+      - '{''label'': ''Option 8''}'
+      - '{''label'': ''Option 9''}'
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 10''}'
+      - '{''label'': ''Option 11''}'
+      - '{''label'': ''Option 12''}'
+      required: false
+    - id: 8
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false

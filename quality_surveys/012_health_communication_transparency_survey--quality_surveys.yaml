@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Communication Transparency Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clarity
+      label: how clear are you about the health messaging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trust
+      label: how much you trust the messaging
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: perceived_transparency
+      label: how much transparency do you sense in the health messaging
+      hint:
+      - Please select all that apply
+      type: select_multiple
+      options:
+      - high
+      - low
+      - medium
+      - no opinion
+      required: true
+    - id: 5
+      name: healthcare_team
+      label: what kind of health team does this messaging apply to
+      hint:
+      - Select one option
+      type: select_one
+      options:
+      - healthcare
+      - research
+      - public health
+      required: false
+    - id: 6
+      name: messaging_source
+      label: where did you get the health messaging
+      hint:
+      - Please select all that apply
+      type: select_multiple
+      options:
+      - social media
+      - news
+      - print
+      - online
+      - other
+      - no response
+      required: true
+    - id: 7
+      name: messaging_format
+      label: what type of health messaging format do you prefer
+      hint:
+      - Please select all that apply
+      type: select_multiple
+      options:
+      - plain text
+      - visual aids
+      - video
+      - audio
+      - other
+      required: false
+    - id: 8
+      name: messaging_frequency
+      label: how often do you see health messaging like this
+      hint:
+      - Please select all that apply
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - yearly
+      - no response
+      required: true
+    - id: 9
+      name: survey_response
+      label: what do you think about this survey
+      hint: null
+      type: select_one
+      options:
+      - helpful
+      - not helpful
+      - neutral
+      required: false
+    - id: 10
+      name: overall_feedback
+      label: do you have any additional comments about the survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info
+      label: contact information for further feedback
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_phone_ext
+      label: ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email_ext
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_comments_ext
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_website_ext
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_other_ext
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: survey_response_frequency
+      label: how often you complete health communication surveys
+      hint: null
+      type: select_one
+      options:
+      - never
+      - rarely
+      - occasionally
+      - frequently
+      - always
+      required: false
+    - id: 24
+      name: survey_helpfulness
+      label: how helpful is this survey
+      hint: null
+      type: select_one
+      options:
+      - very helpful
+      - somewhat helpful
+      - not very helpful
+      - not helpful at all
+      required: false
+    - id: 25
+      name: survey_completion
+      label: how easy is it to complete
+      hint: null
+      type: select_one
+      options:
+      - very easy
+      - somewhat easy
+      - not very easy
+      - not easy at all
+      required: false

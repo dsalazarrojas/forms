@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Market Listing Questionnaire
+    pages:
+    - id: 1
+      name: seller_name
+      label: Seller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Condo
+      - House
+      - Townhouse
+      required: true
+    - id: 5
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Bank Owned
+      - Pre-Approval
+      - Short Sale
+      - Sold
+      required: false
+    - id: 6
+      name: listing_price
+      label: Listing Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: asking_price
+      label: Asking Price
+      hint: null
+      type: select_one
+      options:
+      - $200,000 - $300,000
+      - $300,000 - $400,000
+      - $400,000 - $500,000
+      - $500,000 - $600,000
+      - $600,000 - $1,000,000
+      - $1,000,000 - $1.5M
+      - $1.5M - $2M
+      required: false
+    - id: 8
+      name: property_features
+      label: Property Features
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: seller_agent
+      label: Seller Agent
+      hint: null
+      type: select_one
+      options:
+      - Agent A
+      - Agent B
+      - Agent C
+      - Agent D
+      required: true
+    - id: 11
+      name: buyer_agency
+      label: Buyer Agency
+      hint: null
+      type: select_one
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      - Agency D
+      required: false

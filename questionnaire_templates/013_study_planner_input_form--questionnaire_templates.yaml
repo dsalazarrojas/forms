@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Study Planner Input Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Welcome to Study Planner Input
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: schedule
+      label: Scheduling Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 3
+      name: goals
+      label: Study Goals
+      hint: Please specify your goals
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: study_time
+      label: How many hours do you study?
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - More than 6 hours
+      required: false
+    - id: 5
+      name: study_day
+      label: Which day do you want to study?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 6
+      name: study_time_slot
+      label: Study Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM
+      - 8:00 PM
+      - 9:00 AM
+      - 9:00 PM
+      - 10:00 AM
+      - 10:00 PM
+      - 11:00 AM
+      - 11:00 PM
+      - 12:00 AM
+      - 12:00 PM
+      - 1:00 AM
+      - 1:00 PM
+      - 2:00 AM
+      - 2:00 PM
+      - 3:00 AM
+      - 3:00 PM
+      - 4:00 AM
+      - 4:00 PM
+      - 5:00 AM
+      - 5:00 PM
+      - 6:00 AM
+      - 6:00 PM
+      - 7:00 AM
+      - 7:00 PM
+      required: false
+    - id: 7
+      name: follow_up
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - No follow-up
+      required: false

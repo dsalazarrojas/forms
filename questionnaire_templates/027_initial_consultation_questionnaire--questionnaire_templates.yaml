@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Initial Consultation Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: service_provider_name
+      label: service_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_provider_phone
+      label: service_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_provider_notes
+      label: service_provider_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: onboarding_date
+      label: onboarding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: meeting_length
+      label: meeting_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: meeting_type
+      label: meeting_type
+      hint: null
+      type: select_multiple
+      options:
+      - Onboarding
+      - Consultation
+      - Other
+      - Meeting
+      required: false
+    - id: 10
+      name: meeting_location
+      label: meeting_location
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Other
+      - Remote
+      required: false
+    - id: 11
+      name: meeting_time
+      label: meeting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: meeting_day
+      label: meeting_day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 13
+      name: meeting_start_time
+      label: meeting_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: meeting_start_date
+      label: meeting_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_call
+      label: follow_up_call
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: follow_up_call_time
+      label: follow_up_call_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_call_date
+      label: follow_up_call_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_call_method
+      label: follow_up_call_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 20
+      name: follow_up_call_notes
+      label: follow_up_call_notes
+      hint: null
+      type: note
+      options: []
+      required: false

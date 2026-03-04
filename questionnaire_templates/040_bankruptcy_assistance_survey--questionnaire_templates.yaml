@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bankruptcy Assistance Survey
+    pages:
+    - id: 1
+      name: respondent_full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bankruptcy_type
+      label: Bankruptcy Type Filed
+      hint: Which chapter
+      type: select_one
+      options:
+      - Chapter 7
+      - Chapter 11
+      - Chapter 13
+      - Considering Bankruptcy
+      - Not Sure
+      required: true
+    - id: 6
+      name: filing_status
+      label: Filing Status
+      hint: Where are you in the process
+      type: select_one
+      options:
+      - Considering
+      - Preparing to File
+      - Filed Recently
+      - In Progress
+      - Completed
+      required: true
+    - id: 7
+      name: primary_reason
+      label: Primary Reason for Bankruptcy
+      hint: Main cause
+      type: select_one
+      options:
+      - Medical Expenses
+      - Job Loss
+      - Divorce
+      - Business Failure
+      - Credit Card Debt
+      - Unexpected Expenses
+      - Other
+      required: true
+    - id: 8
+      name: total_debt_amount
+      label: Total Debt Amount
+      hint: Approximate total
+      type: select_one
+      options:
+      - Under $10000
+      - $10000-$25000
+      - $25000-$50000
+      - $50000-$100000
+      - $100000-$250000
+      - Over $250000
+      required: true
+    - id: 9
+      name: debt_types
+      label: Types of Debt
+      hint: What debts do you have
+      type: select_multiple
+      options:
+      - Credit Cards
+      - Medical Bills
+      - Personal Loans
+      - Auto Loans
+      - Mortgage
+      - Student Loans
+      - Tax Debt
+      - Business Debt
+      required: true
+    - id: 10
+      name: annual_income
+      label: Annual Income
+      hint: Gross yearly income
+      type: select_one
+      options:
+      - Under $25000
+      - $25000-$49999
+      - $50000-$74999
+      - $75000-$99999
+      - $100000-$149999
+      - $150000 or more
+      required: true
+    - id: 11
+      name: employment_status
+      label: Employment Status
+      hint: Current employment
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      required: true
+    - id: 12
+      name: home_ownership
+      label: Home Ownership
+      hint: Do you own a home
+      type: select_one
+      options:
+      - Own with Mortgage
+      - Own Free and Clear
+      - Renting
+      - Living with Family
+      required: true
+    - id: 13
+      name: vehicle_ownership
+      label: Vehicle Ownership
+      hint: Do you own vehicles
+      type: select_one
+      options:
+      - Own Multiple Vehicles
+      - Own One Vehicle
+      - Leasing
+      - None
+      required: true
+    - id: 14
+      name: legal_representation
+      label: Legal Representation
+      hint: Do you have an attorney
+      type: select_one
+      options:
+      - Yes, have attorney
+      - No, filing pro se
+      - Looking for attorney
+      - Cannot afford attorney
+      required: true
+    - id: 15
+      name: previous_bankruptcy
+      label: Previous Bankruptcy Filing
+      hint: Have you filed before
+      type: select_one
+      options:
+      - Yes, within 8 years
+      - Yes, over 8 years ago
+      - No, first time
+      required: true
+    - id: 16
+      name: financial_counseling
+      label: Financial Counseling Completed
+      hint: Have you completed counseling
+      type: select_one
+      options:
+      - Yes, completed
+      - No, not yet
+      - Not required
+      required: false
+    - id: 17
+      name: assistance_needed
+      label: Assistance Needed
+      hint: What help do you need
+      type: select_multiple
+      options:
+      - Legal Advice
+      - Document Preparation
+      - Credit Counseling
+      - Debt Management
+      - Financial Planning
+      - Post-Bankruptcy Support
+      required: true
+    - id: 18
+      name: satisfaction_level
+      label: Satisfaction with Process
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 19
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What difficulties
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_services_interest
+      label: Additional Services Interest
+      hint: What else would help
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Marketing source
+      type: select_one
+      options:
+      - Online Search
+      - Attorney Referral
+      - Friend or Family
+      - Advertisement
+      - Other
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

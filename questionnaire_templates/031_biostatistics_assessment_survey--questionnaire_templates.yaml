@@ -1,0 +1,338 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Biostatistics Assessment Survey
+    pages:
+      - id: 1
+        name: respondent_information
+        label: Respondent Information
+        hint: Enter your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Full Name
+        hint: Your first and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Organization
+        hint: Your institution or company
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: role
+        label: Role or Position
+        hint: Your position
+        type: select_one
+        options:
+          - Student
+          - Researcher
+          - Faculty Member
+          - Data Analyst
+          - Lab Technician
+          - Clinician
+          - Administrator
+          - Other
+        required: true
+      - id: 6
+        name: field_of_work
+        label: Field of Work
+        hint: Your primary field
+        type: select_one
+        options:
+          - Public Health
+          - Medicine
+          - Biology
+          - Epidemiology
+          - Pharmacology
+          - Genetics
+          - Environmental Science
+          - Other
+        required: true
+      - id: 7
+        name: biostatistics_experience
+        label: Biostatistics Experience
+        hint: Questions about your experience
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: years_using_biostatistics
+        label: Years Using Biostatistics
+        hint: How long have you used biostatistics
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - 10+ years
+        required: true
+      - id: 9
+        name: frequency_of_use
+        label: Frequency of Use
+        hint: How often do you use biostatistics
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Occasionally
+          - Rarely
+        required: true
+      - id: 10
+        name: confidence_level
+        label: Overall Confidence Level
+        hint: Rate your confidence in biostatistics
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident At All
+        required: true
+      - id: 11
+        name: statistical_methods_knowledge
+        label: Statistical Methods Knowledge
+        hint: Rate your knowledge of these methods
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: descriptive_statistics
+        label: Descriptive Statistics
+        hint: Mean, median, mode, standard deviation
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Knowledge
+        required: true
+      - id: 13
+        name: inferential_statistics
+        label: Inferential Statistics
+        hint: Hypothesis testing, confidence intervals
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Knowledge
+        required: true
+      - id: 14
+        name: regression_analysis
+        label: Regression Analysis
+        hint: Linear and logistic regression
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Knowledge
+        required: true
+      - id: 15
+        name: survival_analysis
+        label: Survival Analysis
+        hint: Kaplan-Meier, Cox regression
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Knowledge
+        required: true
+      - id: 16
+        name: bayesian_methods
+        label: Bayesian Methods
+        hint: Bayesian statistics and inference
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Knowledge
+        required: true
+      - id: 17
+        name: software_proficiency
+        label: Software Proficiency
+        hint: Rate your proficiency with these tools
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: r_proficiency
+        label: R Statistical Software
+        hint: Your R programming skill level
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Experience
+        required: true
+      - id: 19
+        name: spss_proficiency
+        label: SPSS
+        hint: Your SPSS skill level
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Experience
+        required: true
+      - id: 20
+        name: sas_proficiency
+        label: SAS
+        hint: Your SAS skill level
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Experience
+        required: true
+      - id: 21
+        name: python_proficiency
+        label: Python
+        hint: Your Python for statistics skill level
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Experience
+        required: true
+      - id: 22
+        name: stata_proficiency
+        label: Stata
+        hint: Your Stata skill level
+        type: select_one
+        options:
+          - Expert
+          - Proficient
+          - Intermediate
+          - Basic
+          - No Experience
+        required: true
+      - id: 23
+        name: training_needs
+        label: Training Needs
+        hint: Areas where you need more training
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: topics_of_interest
+        label: Topics of Interest
+        hint: Select topics you want training on
+        type: select_multiple
+        options:
+          - Basic Statistics Review
+          - Advanced Regression Methods
+          - Survival Analysis
+          - Longitudinal Data Analysis
+          - Bayesian Statistics
+          - Machine Learning Applications
+          - Data Visualization
+          - Study Design
+          - Sample Size Calculation
+          - None - Satisfied with Current Knowledge
+        required: true
+      - id: 25
+        name: preferred_training_format
+        label: Preferred Training Format
+        hint: How would you like to receive training
+        type: select_one
+        options:
+          - In-Person Workshop
+          - Online Live Webinar
+          - Self-Paced Online Course
+          - One-on-One Consultation
+          - Written Materials Only
+        required: true
+      - id: 26
+        name: training_frequency
+        label: Preferred Training Frequency
+        hint: How often would you attend training
+        type: select_one
+        options:
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Quarterly
+          - As Needed
+        required: true
+      - id: 27
+        name: challenges
+        label: Challenges Faced
+        hint: What challenges do you face with biostatistics
+        type: select_multiple
+        options:
+          - Understanding Complex Methods
+          - Choosing Appropriate Tests
+          - Software Usage
+          - Interpreting Results
+          - Communicating Findings
+          - Time Constraints
+          - Limited Resources
+          - No Significant Challenges
+        required: true
+      - id: 28
+        name: support_needed
+        label: Support Needed
+        hint: What type of support would help you
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: collaboration_interest
+        label: Interest in Statistical Collaboration
+        hint: Would you like access to statistical consulting
+        type: select_one
+        options:
+          - Yes - Very Interested
+          - Maybe - Depends on Availability
+          - No - Not Needed
+        required: true
+      - id: 30
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or suggestions
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hieroglyph Selection Survey
+    pages:
+    - id: 1
+      name: survey_page
+      label: Survey Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: egyptian_symbol
+      label: egyptian_symbol
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''The Ankh''}'
+      - '{''id'': 2, ''label'': ''The Djed''}'
+      - '{''id'': 3, ''label'': ''The Eye of Ra''}'
+      - '{''id'': 4, ''label'': ''The Scarab''}'
+      - '{''id'': 5, ''label'': ''The Was''}'
+      required: false
+    - id: 3
+      name: preferred_symbol
+      label: preferred_symbol
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''The Ankh''}'
+      - '{''id'': 2, ''label'': ''The Djed''}'
+      - '{''id'': 3, ''label'': ''The Eye of Ra''}'
+      - '{''id'': 4, ''label'': ''The Scarab''}'
+      - '{''id'': 5, ''label'': ''The Was''}'
+      required: true
+    - id: 4
+      name: survey_page_2
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: favorite_symbol
+      label: favorite_symbol
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''The Ankh''}'
+      - '{''id'': 2, ''label'': ''The Djed''}'
+      - '{''id'': 3, ''label'': ''The Eye of Ra''}'
+      - '{''id'': 4, ''label'': ''The Scarab''}'
+      - '{''id'': 5, ''label'': ''The Was''}'
+      required: false
+    - id: 6
+      name: survey_page_3
+      label: When did you visit Egypt?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: survey_page_4
+      label: What is your job title?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: survey_page_5
+      label: What is your income?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: survey_page_6
+      label: How often do you visit museums?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: survey_page_7
+      label: What is your native language?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''Chinese''}'
+      - '{''id'': 4, ''label'': ''French''}'
+      - '{''id'': 5, ''label'': ''Arabic''}'
+      required: false
+    - id: 13
+      name: survey_page_8
+      label: How long have you been working on Egyptian symbols?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: survey_page_9
+      label: Do you have any other questions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

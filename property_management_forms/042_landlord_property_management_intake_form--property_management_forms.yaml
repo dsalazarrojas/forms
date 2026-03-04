@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: landlord_property_management_intake_form
+    pages:
+    - id: 1
+      name: property_information
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_contact
+      label: Tenant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rent_details
+      label: Rent Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''available''}'
+      - '{''value'': ''rented''}'
+      - '{''value'': ''sold''}'
+      required: false
+    - id: 5
+      name: property_features
+      label: Property Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''parking''}'
+      - '{''value'': ''pool''}'
+      - '{''value'': ''gym''}'
+      required: false
+    - id: 6
+      name: property_image
+      label: Property Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_documents
+      label: Property Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''lease_agreement''}'
+      - '{''value'': ''property_insurance''}'
+      - '{''value'': ''property_warranty''}'
+      required: false
+    - id: 8
+      name: tenant_documents
+      label: Tenant Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''rental_agreement''}'
+      - '{''value'': ''proof_of_income''}'
+      - '{''value'': ''identification''}'
+      required: false

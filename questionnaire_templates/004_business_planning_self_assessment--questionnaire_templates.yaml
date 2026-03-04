@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Planning Self Assessment
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name of the person completing this assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this self-assessment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: business_age
+      label: How Long Has Your Business Existed
+      hint: Select the age range of your business
+      type: select_one
+      options:
+      - Pre-launch
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5+ years
+      required: true
+    - id: 5
+      name: objectives_clarity
+      label: Clarity of Business Objectives
+      hint: Rate how clear your business objectives are
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 6
+      name: market_analysis_confidence
+      label: Market Analysis Confidence
+      hint: How confident are you in your market analysis
+      type: select_one
+      options:
+      - Highly Confident
+      - Confident
+      - Moderately Confident
+      - Not Confident
+      - Very Uncertain
+      required: true
+    - id: 7
+      name: competitive_positioning
+      label: Competitive Positioning
+      hint: How well do you understand your competitive position
+      type: select_one
+      options:
+      - Excellent Understanding
+      - Good Understanding
+      - Fair Understanding
+      - Limited Understanding
+      - No Understanding
+      required: true
+    - id: 8
+      name: financial_projections
+      label: Financial Projections Confidence
+      hint: Rate your confidence in financial projections
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Moderately Confident
+      - Not Confident
+      - Uncertain
+      required: true
+    - id: 9
+      name: revenue_model_strength
+      label: Revenue Model Clarity
+      hint: How clear is your revenue model
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Not Defined
+      required: true
+    - id: 10
+      name: marketing_strategy
+      label: Marketing Strategy Readiness
+      hint: How ready is your marketing strategy
+      type: select_one
+      options:
+      - Fully Ready
+      - Mostly Ready
+      - Partially Ready
+      - Needs Work
+      - Not Developed
+      required: true
+    - id: 11
+      name: operational_readiness
+      label: Operational Readiness
+      hint: Rate your operational preparedness
+      type: select_one
+      options:
+      - Fully Ready
+      - Mostly Ready
+      - Partially Ready
+      - Needs Work
+      - Not Ready
+      required: true
+    - id: 12
+      name: key_strengths
+      label: Key Business Strengths
+      hint: Identify your main strengths
+      type: select_multiple
+      options:
+      - Strong Management Team
+      - Unique Product/Service
+      - Market Demand
+      - Financial Resources
+      - Strategic Location
+      - Brand Recognition
+      required: true
+    - id: 13
+      name: main_weaknesses
+      label: Main Business Weaknesses
+      hint: Identify areas needing improvement
+      type: select_multiple
+      options:
+      - Insufficient Capital
+      - Limited Experience
+      - Weak Brand Recognition
+      - Limited Market Access
+      - Operational Challenges
+      required: false
+    - id: 14
+      name: external_opportunities
+      label: External Opportunities
+      hint: List potential market opportunities
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: external_threats
+      label: External Threats
+      hint: Identify potential market threats
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: action_priorities
+      label: Top Action Priorities for Next Quarter
+      hint: List your top 3 priorities
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: funding_needs
+      label: Current Funding Needs
+      hint: What additional funding do you need
+      type: select_one
+      options:
+      - No additional funding needed
+      - Minor funding required
+      - Moderate funding required
+      - Significant funding required
+      - Critical funding needed
+      required: true
+    - id: 18
+      name: overall_readiness
+      label: Overall Business Readiness
+      hint: Overall assessment of readiness to execute plan
+      type: select_one
+      options:
+      - Fully Ready
+      - Mostly Ready
+      - Moderately Ready
+      - Needs More Preparation
+      - Not Ready
+      required: true

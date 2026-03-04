@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Usage Questionnaire
+    pages:
+    - id: 1
+      name: household_info
+      label: Household Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_use
+      label: Household Water Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: water_source
+      label: Water Source
+      hint: null
+      type: select_one
+      options:
+      - Water Meter
+      - Well
+      - Pond
+      - Lake/River
+      - Rainwater
+      - Other
+      required: false
+    - id: 4
+      name: household_size
+      label: Household Size
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5
+      - 6-10
+      - 11-20
+      - More than 20
+      required: false
+    - id: 5
+      name: water_usage
+      label: Water Usage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: water_bill
+      label: Water Bill
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: conservation_actions
+      label: Conservation Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Fixing Leaks
+      - Using Low-Flow Fixtures
+      - Using Water-Efficient Appliances
+      - Installing a Water-Efficient Washing Machine
+      - Other
+      required: false
+    - id: 8
+      name: follow_ups
+      label: Follow-ups
+      hint: null
+      type: select_multiple
+      options:
+      - Every 3 months
+      - Every 6 months
+      - Every 12 months
+      - Never
+      required: true
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false

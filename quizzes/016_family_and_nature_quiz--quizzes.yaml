@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family And Nature Quiz
+    pages:
+    - id: 1
+      name: family_background
+      label: family_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: family_size
+      label: family_size
+      hint: null
+      type: select_one
+      options:
+      - Family of 2
+      - Family of 3
+      - Family of 4
+      - Family of 5
+      - Family of 6 or more
+      required: false
+    - id: 3
+      name: family_type
+      label: family_type
+      hint: null
+      type: select_multiple
+      options:
+      - Joint family
+      - Nuclear family
+      - Extended family
+      - Single family unit
+      required: false
+    - id: 4
+      name: family_dynamics
+      label: family_dynamics
+      hint: null
+      type: select_multiple
+      options:
+      - Harmonious
+      - Conflicting
+      - Neutral
+      required: false
+    - id: 5
+      name: nature_interests
+      label: nature_interests
+      hint: null
+      type: select_multiple
+      options:
+      - Birds
+      - Flowers
+      - Insects
+      - Trees
+      - Fruits
+      required: false
+    - id: 6
+      name: nature_facts
+      label: nature_facts
+      hint: null
+      type: select_multiple
+      options:
+      - Biodiversity
+      - Conservation
+      - Ecosystems
+      - Weather
+      - Climate
+      required: false
+    - id: 7
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Bachelor
+      - Master
+      - Doctoral
+      required: false
+    - id: 8
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quiz_completion
+      label: quiz_completion
+      hint: null
+      type: select_one
+      options:
+      - Finished
+      - Partially complete
+      - Incomplete
+      required: false
+    - id: 10
+      name: tool_satisfaction
+      label: tool_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Somewhat satisfied
+      - Somewhat unsatisfied
+      - Unsatisfied
+      required: false

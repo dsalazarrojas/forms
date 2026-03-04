@@ -1,0 +1,267 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communication And Semiotics Survey
+    pages:
+      - id: 1
+        name: survey_introduction
+        label: Survey Introduction
+        hint: Help us understand communication and symbol interpretation
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Which age group do you belong to
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 5
+        name: education_level
+        label: Education Level
+        hint: Highest level of education completed
+        type: select_one
+        options:
+          - High School or Less
+          - Some College
+          - Bachelors Degree
+          - Masters Degree
+          - Doctorate
+          - Other
+        required: true
+      - id: 6
+        name: occupation
+        label: Occupation
+        hint: Your current occupation or field
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: communication_preferences
+        label: Communication Preferences
+        hint: How do you prefer to communicate
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: primary_communication_method
+        label: Primary Communication Method
+        hint: Your preferred method of communication
+        type: select_one
+        options:
+          - Face-to-Face
+          - Phone Calls
+          - Text Messaging
+          - Email
+          - Video Calls
+          - Social Media
+          - Written Documents
+        required: true
+      - id: 9
+        name: communication_frequency
+        label: Communication Frequency
+        hint: How often do you engage in formal communication
+        type: select_one
+        options:
+          - Multiple times daily
+          - Once daily
+          - Several times weekly
+          - Once weekly
+          - Rarely
+        required: true
+      - id: 10
+        name: symbol_interpretation
+        label: Symbol Interpretation
+        hint: Questions about symbol and sign interpretation
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: emoji_usage
+        label: Emoji Usage
+        hint: How often do you use emojis in communication
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 12
+        name: emoji_interpretation
+        label: Emoji Interpretation
+        hint: Do you find emojis help clarify meaning
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 13
+        name: color_meaning
+        label: Color Meaning
+        hint: Do you associate specific meanings with colors
+        type: select_one
+        options:
+          - Yes - Strong Associations
+          - Yes - Some Associations
+          - Neutral
+          - No - Minimal Associations
+          - No - No Associations
+        required: true
+      - id: 14
+        name: gesture_understanding
+        label: Gesture Understanding
+        hint: How well do you understand hand gestures
+        type: select_one
+        options:
+          - Very Well
+          - Well
+          - Adequately
+          - Poorly
+          - Very Poorly
+        required: true
+      - id: 15
+        name: cultural_context
+        label: Cultural Context
+        hint: Questions about cultural communication aspects
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: multicultural_exposure
+        label: Multicultural Exposure
+        hint: How much exposure do you have to other cultures
+        type: select_one
+        options:
+          - Extensive
+          - Moderate
+          - Limited
+          - Minimal
+          - None
+        required: true
+      - id: 17
+        name: cultural_misunderstanding
+        label: Cultural Misunderstanding
+        hint: Have you experienced cultural communication misunderstandings
+        type: select_one
+        options:
+          - Frequently
+          - Occasionally
+          - Rarely
+          - Never
+        required: true
+      - id: 18
+        name: nonverbal_communication
+        label: Nonverbal Communication
+        hint: How important is nonverbal communication to you
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Less Important
+          - Not Important
+        required: true
+      - id: 19
+        name: semiotic_awareness
+        label: Semiotic Awareness
+        hint: Questions about sign and symbol awareness
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: brand_recognition
+        label: Brand Recognition
+        hint: How well do you recognize brands by their logos
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very Poor
+        required: true
+      - id: 21
+        name: sign_clarity
+        label: Sign Clarity
+        hint: Are public signs and symbols clear to you
+        type: select_one
+        options:
+          - Always Clear
+          - Usually Clear
+          - Sometimes Clear
+          - Rarely Clear
+          - Never Clear
+        required: true
+      - id: 22
+        name: communication_challenges
+        label: Communication Challenges
+        hint: What challenges do you face in communication
+        type: select_multiple
+        options:
+          - Language Barriers
+          - Cultural Differences
+          - Technology Issues
+          - Misinterpreting Symbols
+          - Nonverbal Cues
+          - Context Understanding
+          - None
+        required: true
+      - id: 23
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: How can communication be improved
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts on communication and semiotics
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: survey_date
+        label: Survey Date
+        hint: Date you completed this survey
+        type: date
+        options: []
+        required: true

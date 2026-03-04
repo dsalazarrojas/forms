@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Publishing Accessibility Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role in publishing process
+      hint: Choose the option that best describes you
+      type: select_one
+      options:
+        - Author
+        - Editor
+        - Reviewer
+        - Librarian
+        - Other
+      required: true
+    - id: 3
+      name: accessibility_challenges
+      label: Accessibility challenges faced in publishing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Documents not accessible
+        - Platform limitations
+        - Lack of training
+        - Limited funding for accessibility
+      required: true
+    - id: 4
+      name: current_practices
+      label: Current accessibility practices in place
+      hint: Describe any accessibility steps taken
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priority_areas
+      label: Priority areas for accessibility improvement
+      hint: Choose key focus areas
+      type: select_multiple
+      options:
+        - Document formatting
+        - Alternative text for images
+        - Captioning for media
+        - Platform compatibility
+      required: false
+    - id: 6
+      name: training_needs
+      label: Training needs
+      hint: Indicate interest in accessibility training
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: true
+    - id: 7
+      name: recommendations
+      label: Recommendations to improve accessibility
+      hint: Practical suggestions for publishers and institutions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email for follow up
+      hint: Optional email if you agree to be contacted
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Re Qualification Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_size_current
+      label: Current Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: false
+    - id: 7
+      name: recent_changes
+      label: Have there been recent changes in your business?
+      hint: Personnel, structure, direction, product lines, etc.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: updated_goals
+      label: What are your current business goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_satisfaction
+      label: How satisfied are you with our services to date?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: value_received
+      label: Have our services delivered value to your business?
+      hint: null
+      type: select_one
+      options:
+      - Significant value
+      - Good value
+      - Some value
+      - Little value
+      - No value
+      required: true
+    - id: 11
+      name: new_service_needs
+      label: Do you have any new service needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_services_interest
+      label: Are you interested in additional services?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Possibly
+      required: false
+    - id: 13
+      name: service_areas_interest
+      label: Which service areas interest you most?
+      hint: null
+      type: select_multiple
+      options:
+      - Consulting
+      - Implementation
+      - Training
+      - Support
+      - Strategy
+      - Other
+      required: false
+    - id: 14
+      name: budget_changes
+      label: Has your budget for services changed?
+      hint: null
+      type: select_one
+      options:
+      - Increased
+      - Remains the same
+      - Decreased
+      - Uncertain
+      required: false
+    - id: 15
+      name: recommend_to_others
+      label: Would you recommend us to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Uncertain
+      - Probably not
+      - Definitely not
+      required: false
+    - id: 16
+      name: improvement_suggestions
+      label: Suggestions for improving our services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      - In-person meeting
+      required: false

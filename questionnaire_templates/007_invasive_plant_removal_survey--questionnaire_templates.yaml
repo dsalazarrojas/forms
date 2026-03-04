@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: invasive_plant_removal_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_details
+      label: Site Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: species_list
+      label: Species List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: removal_effort
+      label: Removal Effort
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: post_removal_outcomes
+      label: Post Removal Outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: photos
+      label: Photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photos_count
+      label: Photos Count
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: removal_team
+      label: Removal Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: removal_date
+      label: Removal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: removal_effort_duration
+      label: Removal Effort Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: removal_distance
+      label: Removal Distance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: species_count
+      label: Species Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: removal_area
+      label: Removal Area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: removed_species
+      label: Removed Species
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: removal_notes
+      label: Removal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: surveyor
+      label: Surveyor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true

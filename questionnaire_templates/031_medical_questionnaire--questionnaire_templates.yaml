@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: fill-in on any device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Client Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Healthy''}'
+      - '{''value'': ''Not Healthy''}'
+      - '{''value'': ''Unhealthy''}'
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Client Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication
+      label: Client Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_recommendation
+      label: Doctor Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Healthy''}'
+      - '{''value'': ''Unhealthy''}'
+      - '{''value'': ''Not Recommended''}'
+      required: false
+    - id: 7
+      name: medical_test_results
+      label: Medical Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Healthy''}'
+      - '{''value'': ''Unhealthy''}'
+      - '{''value'': ''Not Tested''}'
+      required: false
+    - id: 8
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 9
+      name: allergies
+      label: Client Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Client Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_test
+      label: Medical Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Healthy''}'
+      - '{''value'': ''Unhealthy''}'
+      - '{''value'': ''Not Tested''}'
+      required: false
+    - id: 13
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: doctor_facility
+      label: Doctor Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_address
+      label: Doctor Office Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_note
+      label: Doctor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: client_note
+      label: Client Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 22
+      name: medical_certificate_number
+      label: Medical Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_certificate_type
+      label: Medical Certificate Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': "Doctor''s Note"}'
+      - '{''value'': "Hospital''s Certificate"}'
+      - '{''value'': "Clinic''s Certificate"}'
+      required: false
+    - id: 25
+      name: upload_attachment
+      label: Upload Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

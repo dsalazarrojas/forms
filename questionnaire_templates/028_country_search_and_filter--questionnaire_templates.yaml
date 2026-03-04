@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Country Search And Filter
+    pages:
+    - id: 1
+      name: search_form
+      label: Search Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filter_form
+      label: Filter Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: result_view
+      label: Result View
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_country
+      label: Select Country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: select_language
+      label: Select Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: select_currency
+      label: Select Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: select_country_language
+      label: Country-Lanuage
+      hint: Select Country-Lanuage
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: select_currency_language
+      label: Currency Lanuage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: select_currency_country
+      label: Select Currency-Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: search_results
+      label: Search Results
+      hint: null
+      type: text
+      options: []
+      required: false

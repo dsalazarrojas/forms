@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: DUI Defense Competency Quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: start
+      hint: null
+      type: select_one
+      options:
+      - Answer A
+      - Answer B
+      - Answer C
+      required: true
+    - id: 2
+      name: dui_defense_facts
+      label: dui defense facts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: blood_alcohold_test
+      label: blood_alcohold test
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: dui_defense_skills
+      label: dui defense skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: dui_defense_procedures
+      label: dui defense procedures
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: dui_defense_laws
+      label: dui defense laws
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: dui_defense_technology
+      label: dui defense technology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dui_defense_evaluation
+      label: dui defense evaluation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: dui_defense_review
+      label: dui defense review
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: dui_defense_certificate
+      label: dui defense certificate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: quiz_end
+      label: end
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multilingual Family Needs Survey
+    pages:
+    - id: 1
+      name: first_language_spoken_home
+      label: languages_spoken_at_home
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: family_language_needs
+      label: support_needs
+      hint: null
+      type: select_one
+      options:
+      - Spanish
+      - English
+      - Other
+      required: false
+    - id: 3
+      name: languages_spoken
+      label: what_languages_are_spoken
+      hint: Please provide a list of languages spoken at home
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: languages_spoken_other
+      label: languages_spoken_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: language_needs_assistance
+      label: needs_assistance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: language_needs_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: first_language_spoken
+      label: first_language_spoken
+      hint: null
+      type: select_one
+      options:
+      - Spanish
+      - English
+      - Other
+      required: false
+    - id: 8
+      name: languages_spoken_other_other
+      label: languages_spoken_other_other
+      hint: null
+      type: text
+      options: []
+      required: false

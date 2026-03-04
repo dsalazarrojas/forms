@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Suspension Knowledge Quiz
+    pages:
+    - id: 1
+      name: vehicle_suspension_knowledge_quiz_form
+      label: vehicle_suspension_knowledge_quiz_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_suspension_knowledge_questions
+      label: vehicle_suspension_knowledge_questions
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: vehicle_suspension_system_components
+      label: vehicle_suspension_system_components
+      hint: null
+      type: select_one
+      options:
+      - Front Suspension
+      - Rear Suspension
+      - Steering
+      required: true
+    - id: 4
+      name: front_suspension_systems
+      label: front_suspension_systems
+      hint: null
+      type: select_multiple
+      options:
+      - MacPherson Strut Assembly
+      - Multi-link
+      - Double Wishbone
+      - Leaf Springs
+      - Coil Springs
+      required: false
+    - id: 5
+      name: rear_suspension_systems
+      label: rear_suspension_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Live Axles
+      - Independent Rear Suspension
+      - Rear Axle
+      - Leaf Springs
+      - Coil Springs
+      required: false
+    - id: 6
+      name: steering_systems
+      label: steering_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Power Steering
+      - Recirculating Ball Type
+      - Recirculating Ball Type Steering
+      - Hydraulic Power Steering
+      - Recirculating Ball
+      required: false
+    - id: 7
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incorrect_answers
+      label: incorrect_answers
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: submit_answers
+      label: submit_answers
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_suspension_system
+      label: vehicle_suspension_system
+      hint: null
+      type: select_one
+      options:
+      - Front Suspension
+      - Rear Suspension
+      - Steering
+      - Other
+      required: false
+    - id: 11
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Back
+      required: false

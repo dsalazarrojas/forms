@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: TPMS Compatibility Assessment
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_multiple
+      options:
+      - Automatic
+      - Manual
+      - CVT
+      - DCT
+      - HMT
+      - SDC
+      required: true
+    - id: 6
+      name: drive_type
+      label: Drive Type
+      hint: null
+      type: select_one
+      options:
+      - FWD
+      - RWD
+      - AWD
+      required: true
+    - id: 7
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wheelbase
+      label: Wheelbase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      required: true
+    - id: 10
+      name: drive_position
+      label: Drive Position
+      hint: null
+      type: select_one
+      options:
+      - Rear
+      - Front
+      - All
+      required: true
+    - id: 11
+      name: drive_wheel
+      label: Drive Wheel
+      hint: null
+      type: select_one
+      options:
+      - Left
+      - Right
+      required: true
+    - id: 12
+      name: transmission_ratio
+      label: Transmission Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: gear_ratio
+      label: Gear Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_height
+      label: Vehicle Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_width
+      label: Vehicle Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_length_units
+      label: Vehicle Length Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_width_units
+      label: Vehicle Width Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_height_units
+      label: Vehicle Height Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tpms_system
+      label: TPMS System
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Premium
+      - Luxury
+      - Sport
+      required: true
+    - id: 21
+      name: tpms_system_type
+      label: TPMS System Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tpms_version
+      label: TPMS Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: part_number
+      label: Part Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

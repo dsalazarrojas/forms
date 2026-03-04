@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group And Role Information Survey
+    pages:
+    - id: 1
+      name: member_details
+      label: member_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: responsibilities
+      label: responsibilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tenure
+      label: tenure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: roles_and_responsibilities
+      label: roles_and_responsibilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: member_status
+      label: member_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: member_role
+      label: member_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: member_tenure
+      label: member_tenure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

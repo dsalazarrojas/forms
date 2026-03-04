@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Research Study Information Collection Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Research Study Information Collection Form --
+      hint: Provide your contact details and research interests to help us match you
+        with relevant studies.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: education_level
+      label: Highest level of education completed
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Bachelors degree
+      - Masters degree
+      - Doctoral degree
+      - Professional degree
+      required: true
+    - id: 9
+      name: current_affiliation
+      label: Current university or organization affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: research_interests
+      label: Areas of research interest (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Psychology
+      - Biology and Life Sciences
+      - Social Sciences
+      - Health and Medicine
+      - Education
+      - Technology and Engineering
+      - Environmental Science
+      required: true
+    - id: 11
+      name: previous_research_experience
+      label: Have you previously participated in academic research studies
+      hint: null
+      type: select_one
+      options:
+      - Yes - multiple studies
+      - Yes - one study
+      - false
+      required: true
+    - id: 12
+      name: availability
+      label: When are you generally available to participate in studies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekends
+      required: true
+    - id: 13
+      name: participation_format
+      label: Preferred participation format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online or remote
+      - Either
+      required: true
+    - id: 14
+      name: health_conditions
+      label: Do you have any health conditions that may affect your participation
+      hint: This information will be kept confidential
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_consent
+      label: I consent to being contacted about future research study opportunities
+      hint: null
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 16
+      name: preferred_contact_method
+      label: Preferred method of contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      required: true

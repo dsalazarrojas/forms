@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_property_checklist_form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_photos
+      label: Property Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: tenant_info
+      label: Tenant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

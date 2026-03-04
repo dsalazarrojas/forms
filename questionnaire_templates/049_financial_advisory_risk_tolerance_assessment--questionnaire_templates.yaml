@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Advisory Risk Tolerance Assessment
+    pages:
+    - id: 1
+      name: risk_tolerance
+      label: Financial Risk
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 2
+      name: investment_objective
+      label: investment_objective
+      hint: null
+      type: select_one
+      options:
+      - Conservative
+      - Aggressive
+      - Balanced
+      required: false
+    - id: 3
+      name: investment_timeframe
+      label: timeframe
+      hint: null
+      type: select_one
+      options:
+      - Short term
+      - Medium term
+      - Long term
+      required: false
+    - id: 4
+      name: investment_horizon
+      label: investment_hozren
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: financial_status
+      label: financial_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      required: false
+    - id: 7
+      name: income_level
+      label: income_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: investment_experience
+      label: investment_experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 9
+      name: investment_frequency
+      label: investment_frequency
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Regularly
+      required: false
+    - id: 10
+      name: financial_independence
+      label: financial_independence
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: risk_attitude
+      label: risk_attitude
+      hint: null
+      type: select_one
+      options:
+      - Risk Averse
+      - Risk Neutral
+      - Risk Taker
+      required: false
+    - id: 12
+      name: time_preference
+      label: time_preference
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 13
+      name: financial_assets
+      label: financial_assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: investment_return
+      label: investment_return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: cash_flow
+      label: cash_flow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: financial_insights
+      label: financial_insights
+      hint: null
+      type: text
+      options: []
+      required: false

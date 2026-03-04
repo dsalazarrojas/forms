@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional AI Safety Inquiry Form
+    pages:
+    - id: 1
+      name: stakeholder
+      label: Stakeholder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_type
+      label: Risk Type
+      hint: null
+      type: select_one
+      options:
+      - AI
+      - Data
+      - User
+      required: false
+    - id: 3
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safeguard
+      label: Safeguard
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: benefit
+      label: Benefit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_review
+      label: Submission Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

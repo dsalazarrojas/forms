@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: scientific_writing_skills_quiz
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Quizes''}'
+      - '{''id'': 2, ''label'': ''Quizes 2''}'
+      - '{''id'': 3, ''label'': ''Quizes 3''}'
+      required: true
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''ChatJimmy''}'
+      - '{''id'': 3, ''label'': ''Chatjimmy''}'
+      required: true
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Quizes''}'
+      - '{''id'': 2, ''label'': ''Quizes 2''}'
+      - '{''id'': 3, ''label'': ''Quizes 3''}'
+      required: true

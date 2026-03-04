@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_favorites_questionnaire
+    pages:
+    - id: 1
+      name: favorite_subjects
+      label: Favorite subjects
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Math
+      - Science
+      required: true
+    - id: 2
+      name: favorite_activities
+      label: Favorite activities
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Music
+      - Dance
+      required: true
+    - id: 3
+      name: favorite_time
+      label: Favorite time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: favorite_location
+      label: Favorite location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_food
+      label: Favorite food
+      hint: null
+      type: select_one
+      options:
+      - Pizza
+      - Tacos
+      required: false
+    - id: 8
+      name: favorite_hobby
+      label: Favorite hobby
+      hint: null
+      type: select_one
+      options:
+      - Reading
+      - Gaming
+      required: false
+    - id: 9
+      name: favorite_color
+      label: Favorite color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 10
+      name: favorite_movie
+      label: Favorite movie
+      hint: null
+      type: select_one
+      options:
+      - Star Wars
+      - The Matrix
+      required: false
+    - id: 11
+      name: favorite_sport
+      label: Favorite sport
+      hint: null
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      required: false
+    - id: 12
+      name: favorite_book
+      label: Favorite book
+      hint: null
+      type: select_one
+      options:
+      - The Great Gatsby
+      - To Kill a Mockingbird
+      required: false
+    - id: 13
+      name: favorite_artist
+      label: Favorite artist
+      hint: null
+      type: select_one
+      options:
+      - Picasso
+      - Monet
+      required: false
+    - id: 14
+      name: favorite_place
+      label: Favorite place
+      hint: null
+      type: select_one
+      options:
+      - Paris
+      - New York
+      required: false
+    - id: 15
+      name: favorite_band
+      label: Favorite band
+      hint: null
+      type: select_one
+      options:
+      - The Beatles
+      - The Rolling Stones
+      required: false
+    - id: 16
+      name: favorite_song
+      label: Favorite song
+      hint: null
+      type: select_one
+      options:
+      - Imagine
+      - Stairway to Heaven
+      required: false
+    - id: 17
+      name: favorite_venue
+      label: Favorite venue
+      hint: null
+      type: select_one
+      options:
+      - The O2
+      - The Hollywood Bowl
+      required: false
+    - id: 18
+      name: favorite_game
+      label: Favorite game
+      hint: null
+      type: select_one
+      options:
+      - Chess
+      - Checkers
+      required: false
+    - id: 19
+      name: favorite_game_character
+      label: Favorite game character
+      hint: null
+      type: select_one
+      options:
+      - Mario
+      - Link
+      required: false
+    - id: 20
+      name: favorite_game_vehicle
+      label: Favorite game vehicle
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bike
+      required: false
+    - id: 21
+      name: favorite_game_location
+      label: Favorite game location
+      hint: null
+      type: select_one
+      options:
+      - Earth
+      - Mars
+      required: false
+    - id: 22
+      name: favorite_game_mode
+      label: Favorite game mode
+      hint: null
+      type: select_one
+      options:
+      - Story
+      - Survival
+      required: false
+    - id: 23
+      name: favorite_game_genre
+      label: Favorite game genre
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Strategy
+      required: false
+    - id: 24
+      name: favorite_game_platform
+      label: Favorite game platform
+      hint: null
+      type: select_one
+      options:
+      - Xbox
+      - PlayStation
+      required: false
+    - id: 25
+      name: favorite_game_publisher
+      label: Favorite game publisher
+      hint: null
+      type: select_one
+      options:
+      - Microsoft
+      - Rockstar
+      required: false

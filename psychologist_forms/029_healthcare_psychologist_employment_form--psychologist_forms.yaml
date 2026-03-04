@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Psychologist Employment Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: qualifications
+      label: Qualifications
+      hint: null
+      type: select_one
+      options:
+      - Doctor of Philosophy (Ph.D.)
+      - Doctor of Medicine (M.D.)
+      - Master of Science (M.Sc.)
+      - Bachelor of Science (B.Sc.)
+      required: false
+    - id: 8
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 9
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_one
+      options:
+      - 1-5 years
+      - 5-10 years
+      - 10-15 years
+      required: false
+    - id: 11
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notice_end_date
+      label: Notice End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: notice_start_date
+      label: Notice Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notice_reason
+      label: Notice Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notice_end_reason
+      label: Notice End Reason
+      hint: null
+      type: text
+      options: []
+      required: false

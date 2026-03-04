@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Partnership Success Factors Survey
+    pages:
+    - id: 1
+      name: section_partner_info
+      label: -- Partner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institution_name
+      label: Name of Partner Institution or Organization
+      hint: Enter the legal name of the collaborating entity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partnership_type
+      label: Type of Partnership
+      hint: Select the primary nature of the collaboration
+      type: select_one
+      options:
+      - Research Collaboration
+      - Student Internship Program
+      - Faculty Exchange
+      - Curriculum Development
+      - Community Outreach
+      required: true
+    - id: 4
+      name: primary_role
+      label: Your Primary Role in the Partnership
+      hint: Select your main responsibility
+      type: select_one
+      options:
+      - Lead Researcher
+      - Project Coordinator
+      - Administrative Staff
+      - Faculty Mentor
+      required: true
+    - id: 5
+      name: section_evaluation
+      label: -- Partnership Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: communication_effectiveness
+      label: How would you rate the effectiveness of communication between partners?
+      hint: Consider frequency and clarity
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 7
+      name: resource_sharing
+      label: Rate the efficiency of resource sharing between institutions
+      hint: Includes data, facilities, and personnel
+      type: select_one
+      options:
+      - Very Efficient
+      - Efficient
+      - Neutral
+      - Inefficient
+      - Very Inefficient
+      required: true
+    - id: 8
+      name: goal_alignment
+      label: To what extent are the partnership goals aligned with your institutions
+        objectives?
+      hint: Alignment with strategic mission
+      type: select_one
+      options:
+      - Fully Aligned
+      - Mostly Aligned
+      - Partially Aligned
+      - Not Aligned
+      required: true
+    - id: 9
+      name: success_factors
+      label: Identify the key factors contributing to the success of this partnership
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mutual Trust
+      - Clear Governance
+      - Shared Vision
+      - Adequate Funding
+      - Strong Leadership
+      - Effective Technology
+      required: false
+    - id: 10
+      name: partnership_duration
+      label: Duration of the partnership in years
+      hint: Total time of active collaboration
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_satisfaction
+      label: Overall satisfaction rating - 1.0 to 10.0
+      hint: Enter a value between 1 and 10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: improvement_areas
+      label: List specific areas for improvement in the collaboration
+      hint: Provide constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: likely_to_continue
+      label: How likely are you to recommend continuing this partnership?
+      hint: Future outlook
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Undecided
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 14
+      name: section_final
+      label: -- Final Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_feedback
+      label: Any additional comments or insights
+      hint: Optional thoughts you wish to share
+      type: text
+      options: []
+      required: false

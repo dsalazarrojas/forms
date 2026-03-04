@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Condition Report
+    pages:
+    - id: 1
+      name: section_condition_report_intro
+      label: -- Neighborhood Condition Report --
+      hint: Use this form to report issues or maintenance needs in our community.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporting_resident_full_name_con
+      label: Full Name of Reporting Resident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_email_con
+      label: Email Address
+      hint: For follow-up and status updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resident_phone_con
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_address_con
+      label: Residential Address (Reporting Resident)
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_neighborhood_issue_con
+      label: -- Neighborhood Issue and Condition --
+      hint: Describe the issue and its location.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: condition_category_con
+      label: Category of Issue or Condition
+      hint: Select the most relevant category
+      type: select_one
+      options:
+      - Infrastructure (Roads/Sidewalks)
+      - Public Safety (Lighting/Signage)
+      - Landscaping (Trees/Parks)
+      - Sanitation (Trash/Recycling)
+      - Nuisance/Compliance (Noise/Weeds)
+      - Property Damage/Vandalism
+      required: true
+    - id: 8
+      name: issue_location_exact_con
+      label: Exact Location of the Issue
+      hint: e.g., Near 123 Main St, Central Park Playground
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: detailed_issue_description_con
+      label: Detailed Description of the Issue or Condition
+      hint: What is the problem?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level_issue_con
+      label: Priority Level for Addressing this Issue
+      hint: Please select the impact of this issue
+      type: select_one
+      options:
+      - High (Immediate attention required)
+      - Medium (Within 24-48 hours)
+      - Low (Non-urgent/Routine)
+      required: true
+    - id: 11
+      name: previous_reports_on_issue_con
+      label: Have you reported this issue previously
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - I am not sure
+      required: true
+    - id: 12
+      name: previous_report_date_issue_con
+      label: If yes, approximately when was the last report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: section_final_acknowledgment_con
+      label: -- Final Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: resident_signature_digital_con
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_date_final_con
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: newsletter_opt_in_con
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 17
+      name: referral_source_con
+      label: How did you hear about this condition report form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 18
+      name: emergency_contact_full_name_con
+      label: Emergency Contact Person (In case of immediate danger)
+      hint: Someone not living with the resident
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone_con
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments_final_con
+      label: Any Additional Comments for the Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false

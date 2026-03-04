@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: politicalEventProtestIncidentReportForm
+    pages:
+    - id: 1
+      name: incident_date
+      label: Political Event Protest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: protest_event_name
+      label: Political Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Rally
+      - Demonstration
+      - March
+      - Protest
+      - Sit-in
+      - Strike
+      - Boycott
+      - Riot
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Event Description
+      hint: Please provide a detailed description of the event.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_evidence
+      label: Supporting Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: images_videos
+      label: Images/Videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reports
+      label: Reports
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law Enforcement Stress Leave Of Absence Form
+    pages:
+    - id: 1
+      name: main_form
+      label: Main Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: law_enforcement_stress_leave
+      label: Law Enforcement Stress Leave
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false
+    - id: 3
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Stress''}'
+      - '{''value'': ''Burnout''}'
+      - '{''value'': ''Trauma''}'
+      required: false
+    - id: 4
+      name: number_of_days_off
+      label: Number Of Days Off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

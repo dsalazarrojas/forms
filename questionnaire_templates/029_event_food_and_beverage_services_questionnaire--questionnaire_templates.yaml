@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Food And Beverage Services Questionnaire
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: beverage_quality
+      label: Bverage Quality
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: venue_experience
+      label: Venue Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: food_services
+      label: Food Services
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: catering_services
+      label: Catering Services
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: food_and_beverage_services
+      label: Food and Beverage Services
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: catering_cost
+      label: Catering Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: food_cost
+      label: Food Cost
+      hint: null
+      type: number
+      options: []
+      required: false

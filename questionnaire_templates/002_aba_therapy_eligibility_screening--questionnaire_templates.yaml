@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: ABA Therapy Eligibility Screening
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: '--- Patient Information ---'
+      hint: Basic details about the child
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_full_name
+      label: Child's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_date_of_birth
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_gender
+      label: Child's Gender
+      hint: null
+      type: select_one
+      options:
+      - label: Male
+        value: male
+      - label: Female
+        value: female
+      - label: Other/Prefer not to say
+        value: other
+      required: true
+    - id: 5
+      name: guardian_info_header
+      label: '--- Parent/Guardian Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guardian_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guardian_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guardian_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: clinical_history_header
+      label: '--- Clinical History ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: asd_diagnosis_status
+      label: Has the child received a formal diagnosis of Autism Spectrum Disorder
+        (ASD)?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      - label: Pending Evaluation
+        value: pending
+      required: true
+    - id: 11
+      name: diagnosing_provider
+      label: Diagnosing Provider/Clinic
+      hint: Who provided the formal diagnosis?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: diagnosis_date
+      label: Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: main_concerns
+      label: Primary Areas of Concern
+      hint: What specific behaviors or skills would you like to address?
+      type: select_multiple
+      options:
+      - label: Communication/Speech
+        value: communication
+      - label: Social Skills
+        value: social_skills
+      - label: Daily Living Skills
+        value: daily_living
+      - label: Aggression/Behavioral Issues
+        value: aggression
+      - label: Safety Concerns (Elopement)
+        value: safety
+      - label: School Readiness
+        value: school_readiness
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments or Specific Behaviors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: availability_header
+      label: '--- Availability and Logistics ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_therapy_location
+      label: Preferred Therapy Location
+      hint: null
+      type: select_one
+      options:
+      - label: In-Home
+        value: home
+      - label: Clinic-Based
+        value: clinic
+      - label: School-Based
+        value: school
+      - label: Telehealth
+        value: telehealth
+      required: true
+    - id: 17
+      name: time_of_day_availability
+      label: Preferred Time of Day
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Mornings (8am - 12pm)
+        value: morning
+      - label: Afternoons (12pm - 4pm)
+        value: afternoon
+      - label: Late Afternoons (4pm - 6pm)
+        value: late_afternoon
+      required: true
+    - id: 18
+      name: insurance_info_header
+      label: '--- Insurance Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: insurance_carrier
+      label: Primary Insurance Carrier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: member_id
+      label: Insurance Member ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - label: Pediatrician Referral
+        value: pediatrician
+      - label: School District
+        value: school
+      - label: Insurance Provider List
+        value: insurance
+      - label: Online Search/Social Media
+        value: online
+      - label: Friend/Family
+        value: friend_family
+      required: false

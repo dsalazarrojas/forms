@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_history_verification_form
+    pages:
+    - id: 1
+      name: rental_history_verification_form_rental_history
+      label: rental_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rental_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: property_owner
+      label: property_owner
+      hint: null
+      type: text
+      options: []
+      required: false
