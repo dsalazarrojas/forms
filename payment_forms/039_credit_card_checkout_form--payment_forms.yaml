@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_checkout_form
+    pages:
+    - id: 1
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_on_card
+      label: Name on Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expiration_date
+      label: Expiration Date
+      hint: MM / YY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expiration_year
+      label: Expiration Year
+      hint: null
+      type: select_one
+      options:
+      - '2024'
+      - '2025'
+      - '2026'
+      required: false
+    - id: 5
+      name: cvv
+      label: CVV
+      hint: null
+      type: select_multiple
+      options:
+      - '123'
+      - '456'
+      required: false
+    - id: 6
+      name: cvv_type
+      label: CVV Type
+      hint: null
+      type: select_one
+      options:
+      - visa
+      - mastercard
+      - amex
+      required: false
+    - id: 7
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_multiple
+      options:
+      - visa
+      - mastercard
+      - amex
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: card_holder
+      label: Card Holder
+      hint: null
+      type: text
+      options: []
+      required: false

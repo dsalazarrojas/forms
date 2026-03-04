@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cryptocurrency Trade Order Form
+    pages:
+    - id: 1
+      name: buy_or_sell
+      label: Buy or Sell
+      hint: null
+      type: select_one
+      options:
+      - Buy
+      - Sell
+      required: false
+    - id: 2
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - Bitcoin
+      - Ethereum
+      - Litecoin
+      - Other
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Market Order
+      - Limit Order
+      - Stop Order
+      required: false
+    - id: 6
+      name: stop_price
+      label: Stop Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stop_limit_price
+      label: Stop Limit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: take_profit
+      label: Take Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: risk_management
+      label: Risk Management
+      hint: null
+      type: select_one
+      options:
+      - Aggressive
+      - Conservative
+      required: false
+    - id: 10
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Cancelled
+      required: false
+    - id: 11
+      name: order_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_form
+      label: Confirm Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_comments
+      label: Confirm Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_preferences
+      label: Order Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Processing
+      required: true
+    - id: 18
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false

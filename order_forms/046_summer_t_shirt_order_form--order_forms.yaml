@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer T Shirt Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_image
+      label: product image
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: size_preference
+      label: size preference
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 5
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      - option6
+      required: true
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: select_multiple
+      options:
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 8
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: credit_card_type
+      label: credit card type
+      hint: null
+      type: select_one
+      options:
+      - option10
+      - option11
+      - option12
+      required: true
+    - id: 11
+      name: credit_card_number
+      label: credit card number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cvv
+      label: cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cvc
+      label: cvc
+      hint: null
+      type: text
+      options: []
+      required: false

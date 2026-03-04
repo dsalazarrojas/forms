@@ -1,0 +1,326 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biscuit Delivery Order Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Biscuit Delivery Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Order freshly made biscuits for delivery
+      hint: Complete this form to place your order
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_address
+      label: Delivery Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_state
+      label: State or Province
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: desired_delivery_date
+      label: Desired Delivery Date
+      hint: When do you want delivery
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: desired_delivery_time
+      label: Preferred Delivery Time
+      hint: Morning, afternoon, or evening
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Flexible
+      required: true
+    - id: 14
+      name: section_biscuit_selection
+      label: -- Biscuit Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: biscuit_variety_1
+      label: Biscuit Variety 1
+      hint: First variety you want
+      type: select_one
+      options:
+      - Buttermilk Biscuits
+      - Cheddar Biscuits
+      - Honey Biscuits
+      - Herb Biscuits
+      - Garlic Biscuits
+      - Cornbread Biscuits
+      - Sweet Potato Biscuits
+      - Wholewheat Biscuits
+      - Other
+      required: true
+    - id: 16
+      name: biscuit_quantity_1
+      label: Quantity of Variety 1
+      hint: How many dozen
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: biscuit_variety_2
+      label: Biscuit Variety 2
+      hint: Second variety
+      type: select_one
+      options:
+      - Buttermilk Biscuits
+      - Cheddar Biscuits
+      - Honey Biscuits
+      - Herb Biscuits
+      - Garlic Biscuits
+      - Cornbread Biscuits
+      - Sweet Potato Biscuits
+      - Wholewheat Biscuits
+      - None
+      - Other
+      required: false
+    - id: 18
+      name: biscuit_quantity_2
+      label: Quantity of Variety 2
+      hint: How many dozen
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: biscuit_variety_3
+      label: Biscuit Variety 3
+      hint: Third variety
+      type: select_one
+      options:
+      - Buttermilk Biscuits
+      - Cheddar Biscuits
+      - Honey Biscuits
+      - Herb Biscuits
+      - Garlic Biscuits
+      - Cornbread Biscuits
+      - Sweet Potato Biscuits
+      - Wholewheat Biscuits
+      - None
+      - Other
+      required: false
+    - id: 20
+      name: biscuit_quantity_3
+      label: Quantity of Variety 3
+      hint: How many dozen
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_dietary
+      label: Dietary Requirements
+      hint: Gluten-free, vegan, etc.
+      type: select_multiple
+      options:
+      - Gluten-Free
+      - Dairy-Free
+      - Vegan
+      - Nut-Free
+      - Low-Sodium
+      - Other
+      - None
+      required: false
+    - id: 23
+      name: baking_preferences
+      label: Baking Preferences
+      hint: How you like them baked
+      type: select_one
+      options:
+      - Lightly Baked
+      - Medium Baked
+      - Fully Baked
+      - Extra Crispy
+      required: false
+    - id: 24
+      name: packaging_preference
+      label: Packaging Preference
+      hint: How to package the order
+      type: select_one
+      options:
+      - Standard Packaging
+      - Premium Gift Box
+      - Bulk Bag
+      - Individual Packaging
+      - Other
+      required: false
+    - id: 25
+      name: special_instructions
+      label: Special Instructions
+      hint: Any other requests
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_pricing
+      label: -- Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: biscuit_price
+      label: Biscuit Price
+      hint: Cost of biscuits
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: delivery_fee
+      label: Delivery Fee
+      hint: Cost for delivery
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: packaging_fee
+      label: Packaging Fee
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: discount_code
+      label: Discount Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: total_amount
+      label: Total Amount Due
+      hint: Sum of all costs
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Delivery
+      - Check
+      - PayPal
+      - Online Transfer
+      required: true
+    - id: 34
+      name: payment_timing
+      label: When Will You Pay
+      hint: Payment schedule
+      type: select_one
+      options:
+      - Pay Now
+      - Pay at Delivery
+      - Pay Later
+      required: false
+    - id: 35
+      name: section_agreement
+      label: -- Order Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: order_confirmation
+      label: I confirm this order
+      hint: Check to place order
+      type: select_one
+      options:
+      - Confirm Order
+      - Cancel Order
+      required: true
+    - id: 37
+      name: contact_for_confirmation
+      label: Contact me to confirm delivery details
+      hint: We may call or email
+      type: select_one
+      options:
+      - Yes, Contact Me
+      - No Contact Needed
+      required: false

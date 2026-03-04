@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Contract Form
+    pages:
+    - id: 1
+      name: section_parties
+      label: -- Parties to the Contract --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: catering_company
+      label: Catering Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: catering_contact
+      label: Catering Company Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_services_offered
+      label: -- Services Offered --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Buffet
+      - Plated Service
+      - Family Style
+      - Cocktail Reception
+      - Combination
+      required: true
+    - id: 14
+      name: menu_description
+      label: Menu Description
+      hint: Entrees, sides, beverages, desserts
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: setup_service
+      label: Setup Service Included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 16
+      name: cleanup_service
+      label: Cleanup Service Included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 17
+      name: section_pricing
+      label: -- Pricing & Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: cost_per_person
+      label: Cost Per Person
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: total_estimated_cost
+      label: Total Estimated Cost
+      hint: Based on guest count
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Usually 25-50% of total
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: deposit_due_date
+      label: Deposit Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: final_payment_date
+      label: Final Payment Due Date
+      hint: Usually 1-2 weeks before event
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: section_special_requests
+      label: -- Special Requests & Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: special_dietary_needs
+      label: Special Dietary Needs or Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: I agree to the terms and conditions of this contract
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

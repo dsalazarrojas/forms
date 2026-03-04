@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chargeback Refund Request Form
+    pages:
+    - id: 1
+      name: section_customer_info_refund
+      label: -- Customer and Transaction Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name_identity_refund
+      label: Customer Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_or_transaction_id_refund
+      label: Order or Transaction ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_contact_email_refund
+      label: Customer Contact Email
+      hint: For refund status and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_refund_request_details
+      label: -- Refund Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_refund_request_refund
+      label: Reason for Refund Request
+      hint: Briefly describe the reason for your request
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: refund_amount_requested_refund
+      label: Refund Amount Requested
+      hint: Enter the total amount you are requesting
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: original_purchase_date_refund
+      label: Original Purchase Date
+      hint: When did you make the transaction?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_case_tracking_and_consent
+      label: -- Case Tracking and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: refund_case_tracking_number_refund
+      label: Refund Case Tracking Number
+      hint: Provided by our support team if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_consent_refund_refund
+      label: Customer Consent for Refund
+      hint: I consent to the refund process based on my request
+      type: select_one
+      options:
+      - I Consent and Agree
+      - I Decline at this Time
+      required: true
+    - id: 12
+      name: refund_request_submission_date_refund
+      label: Request Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: additional_refund_comments_refund
+      label: Additional Refund Comments
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_final_submission_confirmation_refund
+      label: -- Final Submission Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: final_submission_confirmation_check_refund
+      label: Final Submission Confirmation Check
+      hint: I confirm that I have reviewed my request and am ready to submit
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true
+    - id: 16
+      name: preferred_refund_method_refund
+      label: Preferred Refund Method
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Original Payment Method
+      - Bank Transfer
+      - Account Credit
+      - Check by Mail
+      required: true
+    - id: 17
+      name: support_contact_needed_refund
+      label: Would you like to be contacted by our support team?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please notify me
+      - No, thank you
+      required: false
+    - id: 18
+      name: transaction_dispute_status_refund
+      label: Transaction Dispute Status
+      hint: Is the transaction currently being disputed?
+      type: select_one
+      options:
+      - Yes - Dispute in Progress
+      - No - Dispute Not Yet Filed
+      required: true
+    - id: 19
+      name: refund_request_priority_refund
+      label: Refund Request Priority
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - High (Urgent)
+      - Medium (Standard)
+      - Low (Non-Urgent)
+      required: true
+    - id: 20
+      name: date_of_refund_request_log_refund
+      label: Date of Request Log
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_refund_case_notes_refund
+      label: Additional Refund Case Notes
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_final_approval_status_refund
+      label: -- Final Approval Status (Internal Use Only) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: final_approval_status_check_refund
+      label: Final Approval Status Check
+      hint: I confirm that I have reviewed the request and it is approved for processing
+      type: select_one
+      options:
+      - I Confirm and Approve
+      - Other
+      required: true

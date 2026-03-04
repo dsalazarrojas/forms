@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_pie_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pie_options
+      label: Pie Options
+      hint: null
+      type: select_multiple
+      options:
+      - Apple Pie
+      - Pumpkin Pie
+      - Cherry Pie
+      - Lemon Pie
+      - Pecan Pie
+      required: false
+    - id: 4
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_pies
+      label: Total Pies
+      hint: null
+      type: number
+      options: []
+      required: false

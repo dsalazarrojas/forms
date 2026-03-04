@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Event Souvenir Production Order Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: Name of the club event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: When the event is scheduled
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Order Contact Person
+      hint: Who is placing the order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_souvenir
+      label: -- Souvenir Specifications --
+      hint: Details about the souvenir items
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: souvenir_type
+      label: Souvenir Item Type
+      hint: null
+      type: select_one
+      options:
+      - T-shirt
+      - Hat or cap
+      - Mug
+      - Water bottle
+      - Bag
+      - Pin or badge
+      - Wristband
+      - Other
+      required: true
+    - id: 8
+      name: souvenir_description
+      label: Souvenir Description
+      hint: Design, color, details
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: design_details
+      label: Design or Logo Details
+      hint: What will be printed on souvenir
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_quantity
+      label: -- Quantity and Sizing --
+      hint: How many items and sizes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_quantity
+      label: Total Number of Items
+      hint: How many souvenirs needed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: size_breakdown
+      label: Size Breakdown
+      hint: Quantity for each size
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: color_options
+      label: Color Options
+      hint: Available colors
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_materials
+      label: -- Materials and Quality --
+      hint: Material and production quality
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: material_type
+      label: Material Type
+      hint: Fabric, plastic, ceramic, etc.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: quality_level
+      label: Quality Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Luxury
+      required: true
+    - id: 17
+      name: section_production
+      label: -- Production Timeline --
+      hint: When items need to be ready
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: production_deadline
+      label: Production Deadline
+      hint: When items must be finished
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Bulk delivery to venue
+      - Individual pickup
+      - Shipped
+      - Will arrange
+      required: true
+    - id: 20
+      name: delivery_date
+      label: Delivery or Pickup Date
+      hint: When to deliver/pickup items
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: section_pricing
+      label: -- Pricing and Payment --
+      hint: Cost information
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: unit_cost
+      label: Cost Per Unit
+      hint: Price for each souvenir
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: total_cost
+      label: Total Production Cost
+      hint: Total for all items
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Invoice
+      - Cash
+      - Check
+      - Credit card
+      - Bank transfer
+      - Other
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Additional notes for production
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bakery Products Order Form
+    pages:
+      - id: 1
+        name: section_customer_info
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: phone_number
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: delivery_address
+        label: Delivery Address
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_products
+        label: -- Product Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: bread_products
+        Label: Bread Products and Quantities
+        hint: Specify types and amounts
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: sweet_products
+        Label: Sweet Products and Quantities
+        hint: Cakes, pastries, cookies
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: specialty_items
+        Label: Specialty Items
+        hint: Custom orders or unique items
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: total_items
+        Label: Total Number of Items
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 11
+        name: section_preferences
+        label: -- Flavor and Design Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: flavor_selection
+        Label: Flavor Preferences
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: design_preference
+        Label: Design or Decoration Preference
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: section_dietary
+        label: -- Dietary Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: dietary_restrictions
+        Label: Dietary Restrictions or Allergies
+        hint: Nuts, dairy, gluten, vegan, etc.
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_timing
+        label: -- Order Timing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: order_placement_date
+        Label: Order Placement Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 18
+        name: desired_date
+        Label: Desired Pickup or Delivery Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 19
+        name: preferred_time
+        Label: Preferred Time
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 20
+        name: section_delivery
+        label: -- Delivery Method --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: delivery_option
+        Label: Delivery Option
+        hint: null
+        type: select_one
+        options:
+          - Store Pickup
+          - Home Delivery
+          - Custom Delivery Arrangement
+        required: true
+      - id: 22
+        name: section_special
+        label: -- Special Requests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: special_requests
+        Label: Special Requests or Notes
+        hint: Customization, packaging, gift wrapping
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: estimated_cost
+        Label: Estimated Total Cost
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 25
+        name: form_submission
+        Label: I Confirm and Submit This Order
+        hint: null
+        type: select_one
+        options:
+          - Confirm and Submit
+          - Save as Draft
+        required: true

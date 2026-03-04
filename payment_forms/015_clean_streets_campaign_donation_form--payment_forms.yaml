@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clean Streets Campaign Donation Form
+    pages:
+    - id: 1
+      name: campaign_intro
+      label: -- Support the Clean Streets Campaign --
+      hint: Help us keep our community clean and green.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For your donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount_type
+      label: -- Donation Amount --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: selected_amount
+      label: Select Amount
+      hint: null
+      type: select_one
+      options:
+      - $10 (Seed Level)
+      - $25 (Sprout Level)
+      - $50 (Bloom Level)
+      - $100 (Forest Level)
+      - Other Amount
+      required: true
+    - id: 7
+      name: custom_amount
+      label: Other Amount ($)
+      hint: If 'Other' selected above
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Annually
+      required: true
+    - id: 9
+      name: allocation_preference
+      label: How should we use your donation?
+      hint: null
+      type: select_one
+      options:
+      - General Campaign Fund
+      - Street Cleaning Supplies
+      - Community Education
+      - Tree Planting
+      - Trash Receptacles
+      required: true
+    - id: 10
+      name: tribute_donation
+      label: Is this donation in honor or memory of someone?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: tribute_name
+      label: In Honor/Memory of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: anonymous_donation
+      label: I wish to remain anonymous
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: volunteer_interest
+      label: Are you interested in volunteering for a cleanup event?
+      hint: null
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - Not at this time
+      required: false
+    - id: 14
+      name: payment_method_header
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_payment
+      label: Preferred Payment Method
+      hint: You will be redirected to our secure payment processor
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 16
+      name: campaign_footer
+      label: -- Together for a cleaner city --
+      hint: null
+      type: note
+      options: []
+      required: false

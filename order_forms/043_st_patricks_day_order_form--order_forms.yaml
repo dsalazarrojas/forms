@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: St. Patricks Day Order Form
+    pages:
+    - id: 1
+      name: st_patricks_day_order_form
+      label: st_patricks_day_order_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: irish_drink_choice
+      label: irish_drink_choice_label
+      hint: null
+      type: select_one
+      options:
+      - Irish Whiskey
+      - Guinness
+      - Harp Lager
+      - Harp
+      - Murphy’s
+      required: true
+    - id: 3
+      name: irish_food_choice
+      label: irish_food_choice_label
+      hint: null
+      type: select_multiple
+      options:
+      - Irish Sausages
+      - Soda Bread
+      - Shepherd’s Pie
+      - Fish & Chips
+      - Boxty
+      required: true
+    - id: 4
+      name: number_of_guests
+      label: number_of_guests_label
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: special_instructions
+      label: special_instructions_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submit_time
+      label: submit_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: submit_date_time
+      label: submit_date_time
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      - 24hr
+      required: true
+    - id: 11
+      name: order_comment
+      label: order_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_confirmation
+      label: order_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_reference
+      label: order_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: false
+    - id: 15
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_category
+      label: form_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_output_file
+      label: form_output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: output_filename
+      label: output_filename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: output_file_name
+      label: output_filename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dock Rental Payment Form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_date
+      label: rental_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rental_time
+      label: rental_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: rental_duration
+      label: rental_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rental_cost
+      label: rental_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Bank Transfer''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stripe''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: exp_date
+      label: Exp. Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flood Relief Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - One-time
+      required: false
+    - id: 4
+      name: donation_frequency_frequency
+      label: frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Month
+      - Quarter
+      - Year
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Other (Specify below)
+      required: false
+    - id: 6
+      name: payment_method_specify
+      label: specify_other_payment_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_option
+      label: gift_option
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gift_note
+      label: gift_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_type
+      label: donation_type
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Emergency
+      - Both
+      required: false
+    - id: 11
+      name: donation_amount_donated
+      label: donation_amount_donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: donation_frequency_donated
+      label: donation_frequency_donated
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - One-time
+      required: false
+    - id: 13
+      name: donation_method_donated
+      label: donation_method_donated
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Other (Specify below)
+      required: false
+    - id: 14
+      name: specify_donation_method_donated
+      label: specify_donation_method_donated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: donation_type_donated
+      label: donation_type_donated
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Emergency
+      - Both
+      required: false

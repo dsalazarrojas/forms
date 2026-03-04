@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lunch Menu Pre Order Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Select Your Order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: main_page_subpage
+      label: Select Your Side
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: main_page_subpage2
+      label: Select Your Drink
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: main_page_subpage3
+      label: Additional Comments
+      hint: Please let us know if you have any other requests
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: main_page_subpage4
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: main_page_subpage5
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: main_page_subpage6
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: main_page_subpage7
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: main_page_subpage8
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

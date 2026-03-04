@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Registration And Preorder Form
+    pages:
+    - id: 1
+      name: event_registration_and_preorder_form_page_1
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: product_quantity
+      label: Product Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: product_preorder_option
+      label: Product Preorder Option
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: true
+    - id: 16
+      name: event_organizer_message
+      label: Event Organizer Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: attendee_message
+      label: Attendee Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_registration_and_preorder_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_organizer_preorder_message
+      label: Preorder Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attendee_preorder_message
+      label: Preorder Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: product_preorder_status
+      label: Product Preorder Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''shipped''}'
+      - '{''value'': ''cancelled''}'
+      required: true
+    - id: 22
+      name: event_registration_and_preorder_form_cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_preorder_fulfillment_message
+      label: Product Preorder Fulfillment Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: product_preorder_payment_status
+      label: Product Preorder Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: event_registration_and_preorder_form_payment
+      label: Payment
+      hint: null
+      type: text
+      options: []
+      required: false

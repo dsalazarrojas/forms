@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Concepts Overview Form
+    pages:
+    - id: 1
+      name: first_page
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: concept_rating
+      label: rate_concept
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfied'', ''value'': ''not_satisfied''}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': ''somewhat_satisfied''}'
+      - '{''label'': ''Very Satisfied'', ''value'': ''very_satisfied''}'
+      required: true
+    - id: 3
+      name: comment
+      label: comment_on_concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_rating
+      label: rate_provider
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfied'', ''value'': ''not_satisfied''}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': ''somewhat_satisfied''}'
+      - '{''label'': ''Very Satisfied'', ''value'': ''very_satisfied''}'
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback_to_provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_next_action
+      label: follow_up_next_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_next_provider
+      label: follow_up_next_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: next_step
+      label: next_step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_step_type
+      label: next_step_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''none''}'
+      - '{''label'': ''Follow Up'', ''value'': ''follow_up''}'
+      - '{''label'': ''Dismiss'', ''value'': ''dismiss''}'
+      required: true
+    - id: 11
+      name: next_step_provider
+      label: next_step_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_step_datetime
+      label: next_step_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: next_follow_up_date
+      label: next_follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: next_follow_up_date_time
+      label: next_follow_up_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_location
+      label: follow_up_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_action
+      label: next_action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: next_action_frequency
+      label: next_action_frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Followed Up'', ''value'': ''not_followed_up''}'
+      - '{''label'': ''Followed Up'', ''value'': ''followed_up''}'
+      required: true
+    - id: 21
+      name: follow_up_status_note
+      label: follow_up_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_next_contact_method
+      label: follow_up_next_contact_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_next_contact_method_other
+      label: follow_up_next_contact_method_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_next_follow_up_provider
+      label: follow_up_next_follow_up_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_next_follow_up_provider_name
+      label: follow_up_next_follow_up_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false

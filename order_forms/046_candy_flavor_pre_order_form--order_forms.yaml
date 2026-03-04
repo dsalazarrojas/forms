@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Flavor Pre Order Form
+    pages:
+    - id: 1
+      name: customer_info_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pre_order_customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pre_order_customer_email
+      label: Email Address
+      hint: To notify you when your flavors are ready
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: pre_order_customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pre_order_contact_method_pref
+      label: Preferred Contact Method
+      hint: How should we reach out to you
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      required: true
+    - id: 6
+      name: limited_flavor_selection_section
+      label: -- Limited Edition Flavors --
+      hint: Choose our exclusive seasonal treats
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pre_order_flavor_selections
+      label: Select Your Flavor(s)
+      hint: Select all that you wish to pre-order
+      type: select_multiple
+      options:
+      - Salted Caramel Fudge
+      - Midnight Peppermint
+      - Champagne Truffle
+      - Sparkling Strawberry
+      - Dark Chili Chocolate
+      - Matcha Honey
+      required: true
+    - id: 8
+      name: flavor_quantity_description
+      label: Quantity per Flavor
+      hint: e.g. 2 boxes of Peppermint, 1 of Truffle
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: total_item_count
+      label: Total Number of Items
+      hint: Total count of all pre-order items
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pre_order_fulfillment_date
+      label: Expected Fulfillment Date
+      hint: Preferred date for your pre-order to be ready
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: delivery_collection_section
+      label: -- Delivery and Collection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: pre_order_type
+      label: Order Type
+      hint: How would you like to receive your items
+      type: select_one
+      options:
+      - Local Pickup
+      - Delivery (+$8)
+      - Shipping ($12)
+      - Store Collection
+      required: true
+    - id: 13
+      name: pre_order_address_field
+      label: Pickup or Shipping Address
+      hint: Required for delivery or shipping
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_notes_section
+      label: -- Special Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: gift_box_req
+      label: Gift Box Needed
+      hint: Would you like your order in a decorative box
+      type: select_one
+      options:
+      - Yes (+$3)
+      - false
+      required: true
+    - id: 16
+      name: allergen_concerns_text
+      label: Allergy Concerns
+      hint: Briefly describe any food allergies we should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fulfillment_instructions_special
+      label: Special Instructions for Fulfillment
+      hint: Any specific requests for your pre-order
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_confirmation_section
+      label: -- Payment Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pre_order_payment_status
+      label: Payment Status
+      hint: Choose your preferred payment stage
+      type: select_one
+      options:
+      - I have already paid via link
+      - I will pay upon pickup
+      - Pay via Credit Card now
+      required: true
+    - id: 20
+      name: pre_order_total_amount
+      label: Total Amount Due
+      hint: Total cost of products and fees
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: lead_time_understanding
+      label: I understand this is a pre-order and may have lead times
+      hint: Preparation may take up to 2 weeks
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 22
+      name: pre_order_submission_date_field
+      label: Pre-Order Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

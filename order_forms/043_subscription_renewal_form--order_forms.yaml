@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Renewal Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: subscription_status
+      label: subscription_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Trial
+      required: false
+    - id: 4
+      name: subscription_expiration_date
+      label: subscription_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: new_plan
+      label: new_plan
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Enterprise
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - PayPal
+      - Stripe
+      required: false
+    - id: 7
+      name: new_plan_price
+      label: new_plan_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: subscription_start_date
+      label: subscription_start_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reusable Shipping Tote Order Form
+    pages:
+    - id: 1
+      name: reusable_shipping_tote_order_form_1
+      label: Shipping Tote Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: return_preferences
+      label: Return Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false

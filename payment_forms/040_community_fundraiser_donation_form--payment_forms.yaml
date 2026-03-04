@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Fundraiser Donation Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your billing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: How much would you like to donate?
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1000
+      - Other Amount
+      required: true
+    - id: 8
+      name: custom_amount
+      label: Custom Donation Amount
+      hint: Enter your amount if other
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring?
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 10
+      name: donation_designation
+      label: Donation Designation
+      hint: Where should your donation go?
+      type: select_one
+      options:
+      - Where Most Needed
+      - General Fund
+      - Specific Program
+      - Capital Campaign
+      - Emergency Fund
+      required: true
+    - id: 11
+      name: specific_program
+      label: Specific Program
+      hint: If you selected a specific program
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: honor_memory
+      label: Is This in Honor or Memory
+      hint: Dedicate your donation
+      type: select_one
+      options:
+      - In Honor Of
+      - In Memory Of
+      - No Dedication
+      required: true
+    - id: 13
+      name: honoree_name
+      label: Honoree or Memorial Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expiration_date
+      label: Expiration Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cvv
+      label: CVV
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employer_match
+      label: Does Your Employer Match Donations
+      hint: Employer matching gift
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 19
+      name: anonymity
+      label: Anonymity Preference
+      hint: How should we list your donation?
+      type: select_one
+      options:
+      - List My Name Publicly
+      - Anonymous
+      - Initials Only
+      required: true
+    - id: 20
+      name: newsletter_signup
+      label: Sign Up for Newsletter
+      hint: Receive updates on impact
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

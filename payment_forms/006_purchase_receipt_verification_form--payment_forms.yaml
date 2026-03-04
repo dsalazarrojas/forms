@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Receipt Verification Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: receipt_image
+      label: Receipt Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: receipt_info
+      label: Receipt Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 7
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_signature
+      label: Business Signature
+      hint: null
+      type: text
+      options: []
+      required: false

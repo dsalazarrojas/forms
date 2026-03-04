@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_cancellation_refund_form
+    pages:
+    - id: 1
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: reason_details
+      label: Reason Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: refund_method
+      label: Refund Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Bank Transfer''}'
+      - '{''option'': ''Cheque''}'
+      - '{''option'': ''Online Transfer''}'
+      required: true
+    - id: 7
+      name: customer_service_agent
+      label: Customer Service Agent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''John''}'
+      - '{''option'': ''Jane''}'
+      - '{''option'': ''Jim''}'
+      required: false
+    - id: 8
+      name: order_reference
+      label: Order Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: refund_date
+      label: Refund Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Bank''}'
+      - '{''option'': ''Cash''}'
+      - '{''option'': ''Online''}'
+      required: false
+    - id: 11
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Confirmed''}'
+      - '{''option'': ''Declined''}'
+      - '{''option'': ''Pending''}'
+      required: false
+    - id: 12
+      name: customer_service_agent_comment
+      label: Customer Service Agent Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_cancellation_refund_form_comments
+      label: Service Cancellation Refund Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_service_agent_name
+      label: Customer Service Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_service_agent_email
+      label: Customer Service Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: customer_service_agent_phone
+      label: Customer Service Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_service_agent_designation
+      label: Customer Service Agent Designation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_service_agent_note
+      label: Customer Service Agent Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_service_agent_refund_amount
+      label: Customer Service Agent Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customer_service_agent_refund_method
+      label: Customer Service Agent Refund Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Bank''}'
+      - '{''option'': ''Cheque''}'
+      - '{''option'': ''Online''}'
+      required: false
+    - id: 22
+      name: customer_service_agent_refund_status
+      label: Customer Service Agent Refund Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Confirmed''}'
+      - '{''option'': ''Declined''}'
+      - '{''option'': ''Pending''}'
+      required: false
+    - id: 23
+      name: customer_service_agent_refund_date
+      label: Customer Service Agent Refund Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: service_cancellation
+      label: Service Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: refund_details
+      label: Refund Details
+      hint: null
+      type: text
+      options: []
+      required: false

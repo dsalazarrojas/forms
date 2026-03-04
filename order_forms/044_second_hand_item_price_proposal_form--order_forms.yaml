@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: second_hand_item_price_proposal_form
+    pages:
+    - id: 1
+      name: second_hand_item
+      label: Second Hand Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_condition
+      label: item_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''new''}'
+      - '{''value'': ''used''}'
+      - '{''value'': ''refurbished''}'
+      required: false
+    - id: 3
+      name: item_price
+      label: item_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: buyer_message
+      label: Buyer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seller_message
+      label: Seller Message
+      hint: null
+      type: text
+      options: []
+      required: false

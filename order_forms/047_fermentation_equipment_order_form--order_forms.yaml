@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fermentation Equipment Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - FerroTank
+      - FerroTank Pro
+      - FerroTank
+      required: false
+    - id: 7
+      name: equipment_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

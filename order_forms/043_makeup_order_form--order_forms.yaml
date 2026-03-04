@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Order Form
+    pages:
+    - id: 1
+      name: order_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: order_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_form_photo_front
+      label: Front photo
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_form_photo_back
+      label: Back photo
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: order_form_photo_side
+      label: Side profile photo
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: order_form_photo_top
+      label: Top profile photo
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: order_form_product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: true
+    - id: 10
+      name: order_form_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: order_form_color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      required: true
+    - id: 12
+      name: order_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

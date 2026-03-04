@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: simple_wine_order_form_template
+    pages:
+    - id: 1
+      name: form_data_1
+      label: Form Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: wine_selection_1
+      label: Select Wine 1
+      hint: null
+      type: select_one
+      options:
+      - Wine A
+      - Wine B
+      - Wine C
+      required: false
+    - id: 5
+      name: wine_selection_2
+      label: Select Wine 2
+      hint: null
+      type: select_one
+      options:
+      - Wine D
+      - Wine E
+      - Wine F
+      required: false
+    - id: 6
+      name: wine_selection_3
+      label: Select Wine 3
+      hint: null
+      type: select_one
+      options:
+      - Wine G
+      - Wine H
+      - Wine I
+      required: false
+    - id: 7
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

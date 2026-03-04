@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Fundraiser Merchandise Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: buyer_name
+      label: Buyer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_email
+      label: Buyer Email Address
+      hint: Order confirmation will be sent
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: buyer_phone
+      label: Buyer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fundraiser_event
+      label: Fundraiser Event Name
+      hint: Which fundraiser is this for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: merchandise_type
+      label: Merchandise Type
+      hint: Select items to purchase
+      type: select_multiple
+      options:
+      - T-Shirt
+      - Hoodie
+      - Hat
+      - Water Bottle
+      - Sticker Pack
+      - Mug
+      - Tote Bag
+      - Wristband
+      required: true
+    - id: 7
+      name: shirt_size
+      label: T-Shirt Size
+      hint: If ordering shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 8
+      name: shirt_color
+      label: T-Shirt Color Choice
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Navy
+      - Grey
+      - Red
+      - Green
+      - Other
+      required: false
+    - id: 9
+      name: shirt_quantity
+      label: T-Shirt Quantity
+      hint: How many shirts
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: hoodie_size
+      label: Hoodie Size
+      hint: If ordering hoodie
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 11
+      name: hoodie_quantity
+      label: Hoodie Quantity
+      hint: How many hoodies
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: other_items_details
+      label: Details for Other Items
+      hint: Specify quantities and preferences
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: subtotal
+      label: Order Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Venmo
+      - PayPal
+      - Credit Card
+      - Bank Transfer
+      required: true

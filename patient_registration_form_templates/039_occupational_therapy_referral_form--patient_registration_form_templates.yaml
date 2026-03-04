@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Occupational Therapy Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Family Member
+      required: false
+    - id: 7
+      name: therapy_goals
+      label: Therapy Goals
+      hint: Please describe the reasons for the referral.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: Please describe any medical history or conditions that may impact treatment.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_date
+      label: Referral Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Pending
+      - Completed
+      required: false
+    - id: 14
+      name: provider_note
+      label: Provider Note
+      hint: Please provide any additional comments or information about the patient.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false

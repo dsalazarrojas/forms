@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Space Booking Form
+    pages:
+    - id: 1
+      name: page1
+      label: Bookings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_arrival
+      label: Date Of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_arrival
+      label: Time Of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: space_type
+      label: Space Type
+      hint: null
+      type: select_one
+      options:
+      - Warehouse
+      - Storefront
+      - Parking
+      - Yard
+      - Office
+      required: false
+    - id: 7
+      name: space_size
+      label: Space Size
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      - Mini
+      required: false
+    - id: 8
+      name: space_status
+      label: Space Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - In Use
+      - Reserved
+      - Closed
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fantasy Sports Registration Payment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: league_name
+      label: League name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment method
+      hint: Credit card, PayPal, or bank transfer
+      type: select_one
+      options:
+      - Bank transfer
+      - Credit card
+      - PayPal
+      required: false
+    - id: 6
+      name: registration_type
+      label: Registration type
+      hint: null
+      type: select_multiple
+      options:
+      - League Registration
+      - Team Registration
+      - Individual Registration
+      required: false
+    - id: 7
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_size
+      label: Team size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_fee
+      label: Participant fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: registration_date
+      label: Registration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - Organizer
+      - Participant
+      - Referee
+      required: false
+    - id: 14
+      name: participant_address
+      label: Participant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_city
+      label: Participant city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_state
+      label: Participant state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_zip
+      label: Participant zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 19
+      name: payment_method_other
+      label: Payment method other
+      hint: null
+      type: text
+      options: []
+      required: false

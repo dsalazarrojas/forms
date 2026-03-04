@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Slime Ingredient Order Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ingredient
+      label: Ingredient
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      - Item 6
+      - Item 7
+      - Item 8
+      - Item 9
+      - Item 10
+      required: false
+    - id: 3
+      name: accessory
+      label: Accessory
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: payment
+      label: Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping
+      label: Shipping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false

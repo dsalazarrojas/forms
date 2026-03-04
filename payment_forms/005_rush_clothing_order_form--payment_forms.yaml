@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rush Clothing Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_info
+      label: Shipping
+      hint: null
+      type: select_one
+      options:
+      - 1 - Express
+      - 2 - Standard
+      - 3 - Local Pickup
+      required: false
+    - id: 3
+      name: item_details
+      label: Item Details
+      hint: null
+      type: select_multiple
+      options:
+      - T-Shirt
+      - Shirt
+      - Jacket
+      - Hat
+      required: false
+    - id: 4
+      name: order_items
+      label: Order Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Shoes: 1'
+      - 'Shoes: 2'
+      - 'Jacket: 1'
+      - 'Jacket: 2'
+      - 'Hat: 1'
+      - 'Hat: 2'
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 7
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: confirm_info
+      label: Confirm Order
+      hint: null
+      type: text
+      options: []
+      required: false

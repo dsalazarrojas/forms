@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ceramic Crown Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of crown order submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: dentist_name
+      label: Dentist Name
+      hint: Full name of ordering dentist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dental_practice
+      label: Dental Practice Name
+      hint: Name of dental clinic or practice
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: practice_address
+      label: Practice Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dentist_phone
+      label: Office Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dentist_email
+      label: Email Address
+      hint: Email for order confirmations
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: dentist_license
+      label: Dental License Number
+      hint: State dental license number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_initials
+      label: Patient Initials
+      hint: Patient first and last initials
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_gender
+      label: Patient Gender
+      hint: Patient gender for shade matching
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: tooth_number
+      label: Tooth Number
+      hint: Universal tooth numbering system
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: arch_location
+      label: Arch Location
+      hint: Upper or lower jaw
+      type: select_one
+      options:
+      - Upper arch
+      - Lower arch
+      required: true
+    - id: 13
+      name: crown_type
+      label: Crown Type
+      hint: Type of ceramic crown
+      type: select_one
+      options:
+      - Full ceramic crown
+      - Porcelain fused to metal
+      - Zirconia crown
+      - E-max lithium disilicate
+      - Layered zirconia
+      - Monolithic zirconia
+      required: true
+    - id: 14
+      name: shade_selection
+      label: Shade Selection
+      hint: VITA shade guide selection
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: stump_shade
+      label: Stump Shade
+      hint: Underlying tooth shade if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: margin_design
+      label: Margin Design
+      hint: Type of margin required
+      type: select_one
+      options:
+      - Chamfer
+      - Shoulder
+      - Knife edge
+      - Beveled
+      required: true
+    - id: 17
+      name: occlusion_type
+      label: Occlusion Type
+      hint: Patient bite classification
+      type: select_one
+      options:
+      - Normal occlusion
+      - Deep bite
+      - Open bite
+      - Cross bite
+      - Edge to edge
+      required: true
+    - id: 18
+      name: preparation_date
+      label: Preparation Date
+      hint: Date tooth was prepared
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: delivery_method
+      label: Delivery Method
+      hint: How should crown be delivered
+      type: select_one
+      options:
+      - Courier pickup
+      - Postal mail
+      - In-person pickup
+      - Rush delivery
+      required: true
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: impression_type
+      label: Impression Type
+      hint: Method used for impression
+      type: select_one
+      options:
+      - Digital scan
+      - PVS impression
+      - Polyether impression
+      - Alginate impression
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: Method of payment
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Practice account
+      - Insurance billing
+      - Patient direct pay
+      required: true
+    - id: 23
+      name: rush_order
+      label: Rush Order
+      hint: Is this a rush order
+      type: select_one
+      options:
+      - No - Standard turnaround
+      - Yes - 24 hour rush
+      - Yes - 48 hour rush
+      required: true
+    - id: 24
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Type dentist name as signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Manual Delivery Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_info
+      label: delivery-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_items
+      label: order-items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_notes
+      label: delivery-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_comments
+      label: customer-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: delivery-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_status
+      label: delivery-status
+      hint: null
+      type: select_one
+      options:
+      - Available for pickup
+      - In-transit
+      - Arrived
+      required: true
+    - id: 9
+      name: delivery_comments
+      label: delivery-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_terms
+      label: delivery-terms
+      hint: null
+      type: text
+      options: []
+      required: false

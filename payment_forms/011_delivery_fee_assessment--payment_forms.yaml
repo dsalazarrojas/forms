@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Fee Assessment
+    pages:
+    - id: 1
+      name: delivery_fee
+      label: delivery_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pricing_fairness
+      label: pricing_fairness
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: urgency
+      label: urgency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: scheduling
+      label: scheduling
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: estimated_delivery_charge
+      label: estimated_delivery_charge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pricing_urgency
+      label: pricing_urgency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: logistics_team
+      label: logistics_team
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 9
+      name: customer_contact
+      label: customer_contact
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false

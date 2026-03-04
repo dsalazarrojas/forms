@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Software Subscription Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal name of the company subscribing to the software
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Full name of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Business email for communication regarding the subscription
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for communication regarding the subscription
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Complete business address including street, city, state, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: software_plan
+      label: Software Plan Selected
+      hint: Choose the accounting software plan you wish to subscribe to
+      type: select_one
+      options:
+      - Starter - Up to 5 users
+      - Professional - Up to 25 users
+      - Business - Up to 50 users
+      - Enterprise - Unlimited users
+      - Custom Plan
+      required: true
+    - id: 7
+      name: billing_cycle
+      label: Billing Cycle
+      hint: How often do you want to be billed
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 8
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: When should the subscription begin
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: features_needed
+      label: Features Needed
+      hint: Select all features that are required for your business
+      type: select_multiple
+      options:
+      - General Ledger
+      - Accounts Payable
+      - Accounts Receivable
+      - Payroll
+      - Tax Calculations
+      - Inventory Management
+      - Reporting & Analytics
+      - Multi-currency Support
+      - Mobile Access
+      - API Integration
+      required: false
+    - id: 10
+      name: number_of_users
+      label: Number of Users
+      hint: How many users will need access to the software
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the subscription
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - ACH/Electronic Check
+      required: true
+    - id: 12
+      name: credit_card_number
+      label: Credit Card Number
+      hint: Enter your credit card number (if selected as payment method)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: card_expiration
+      label: Card Expiration Date
+      hint: Enter the expiration date of your card (MM/YY)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_zip_code
+      label: Billing Zip Code
+      hint: Zip code associated with your payment method
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to the terms and conditions of the subscription
+      type: select_one
+      options:
+      - Yes, I agree to the terms and conditions
+      - No, I do not agree to the terms and conditions
+      required: true

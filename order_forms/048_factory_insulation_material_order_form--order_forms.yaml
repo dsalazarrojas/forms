@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Insulation Material Order Form
+    pages:
+    - id: 1
+      name: material_to_order
+      label: Select Material to Order
+      hint: null
+      type: select_one
+      options:
+      - Insulation
+      - Other
+      - None
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: null
+      type: select_one
+      options:
+      - Square Feet
+      - Square Yards
+      - Cubic Feet
+      - Other
+      - None
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: Enter the name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_required
+      label: Time Required
+      hint: null
+      type: time
+      options: []
+      required: false

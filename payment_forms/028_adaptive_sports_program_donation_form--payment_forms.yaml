@@ -1,0 +1,148 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Sports Program Donation Form
+    pages:
+    - id: 1
+      name: donor_info_header
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name / Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For your donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Mailing Address
+      hint: Required for tax-deductible receipts
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donation_details_header
+      label: -- Support Inclusive Sports --
+      hint: Your contribution helps provide equipment and access for all athletes
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount ($)
+      hint: null
+      type: decimal
+      options: []
+      required: true
+    - id: 8
+      name: designation_fund
+      label: "Apply My Gift To:"
+      hint: null
+      type: select_one
+      options:
+      - General Operations Fund
+      - Adaptive Equipment Purchase
+      - Athlete Scholarship Program
+      - Facility Accessibility Upgrades
+      - Specific Sport (Please specify in comments)
+      required: true
+    - id: 9
+      name: frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Contribution
+      - Monthly Supporter
+      - Annual Pledge
+      required: true
+    - id: 10
+      name: tribute_header
+      label: -- Tribute Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: is_tribute
+      label: Is this gift in honor or memory of someone?
+      hint: null
+      type: select_one
+      options:
+      - No
+      - In Honor of
+      - In Memory of
+      required: false
+    - id: 12
+      name: tribute_name
+      label: Honoree Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recognition_preference
+      label: Recognition Preference
+      hint: null
+      type: select_one
+      options:
+      - Please list my name in the annual report
+      - I prefer to remain anonymous
+      required: true
+    - id: 14
+      name: payment_method_pref
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit / Debit Card
+      - Electronic Check / ACH
+      - PayPal / Digital Wallet
+      - I will mail a physical check
+      required: true
+    - id: 15
+      name: volunteer_interest
+      label: Are you interested in volunteering for adaptive sports events?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Please contact me
+      - Not at this time
+      required: false
+    - id: 16
+      name: acknowledgement_text
+      label: I understand that this donation is tax-deductible to the extent allowed by law
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      required: true

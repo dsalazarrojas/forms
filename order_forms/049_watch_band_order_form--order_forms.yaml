@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Watch Band Order Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_country
+      label: shipping_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_method
+      label: shipping_method
+      hint: Select shipping method
+      type: select_one
+      options:
+      - USPS
+      - UPS
+      - FedEx
+      required: false
+    - id: 11
+      name: watch_bands
+      label: watch_bands
+      hint: null
+      type: select_multiple
+      options:
+      - Sport
+      - Casual
+      - Luxury
+      required: false
+    - id: 12
+      name: watch_band_size
+      label: watch_band_size
+      hint: null
+      type: select_multiple
+      options:
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: false
+    - id: 13
+      name: band_color
+      label: band_color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      required: false
+    - id: 14
+      name: band_width
+      label: band_width
+      hint: null
+      type: select_one
+      options:
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 15
+      name: band_material
+      label: band_material
+      hint: null
+      type: select_one
+      options:
+      - Leather
+      - Nylon
+      - Rubber
+      required: false
+    - id: 16
+      name: band_type
+      label: band_type
+      hint: null
+      type: select_one
+      options:
+      - Analog
+      - Digital
+      - Automatic
+      required: false
+    - id: 17
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 19
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 20
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_method
+      label: delivery_method
+      hint: Select delivery method
+      type: select_one
+      options:
+      - Standard
+      - Express
+      - Priority
+      required: false
+    - id: 22
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bookstore Special Edition Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email for order
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: book_title
+      label: Book Title
+      hint: Special edition title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: book_author
+      label: Author Name
+      hint: Author or authors
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: edition_type
+      label: Edition Type
+      hint: What makes this special
+      type: select_one
+      options:
+      - Signed copy
+      - Limited edition
+      - Signed limited edition
+      - Leather bound
+      - Illustrated
+      - Hardcover first edition
+      - Other special
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity Ordered
+      hint: Number of copies
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unit_price
+      label: Unit Price
+      hint: Price per copy
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_price
+      label: Total Price
+      hint: Total for all copies
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_method
+      label: Shipping Method
+      hint: How to deliver
+      type: select_one
+      options:
+      - Standard shipping
+      - Expedited shipping
+      - Overnight delivery
+      - Local pickup
+      - International shipping
+      required: true
+    - id: 13
+      name: special_handling
+      label: Special Handling Required
+      hint: Any special care instructions
+      type: select_multiple
+      options:
+      - Fragile - handle with care
+      - Insured shipping
+      - Gift wrapping
+      - Personalization
+      - Heat-sensitive packaging
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check
+      - Other
+      required: true
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: Personalization or other notes
+      type: text
+      options: []
+      required: false

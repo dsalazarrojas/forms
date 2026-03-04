@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subscription_plan
+      label: subscription_plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: prints_ordered
+      label: prints_ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: subscription_start_date
+      label: subscription_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: subscription_end_date
+      label: subscription_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: subscription_status
+      label: subscription_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: subscription_notes
+      label: subscription_notes
+      hint: null
+      type: note
+      options: []
+      required: false

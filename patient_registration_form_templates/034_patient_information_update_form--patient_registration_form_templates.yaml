@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Information Update Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: Enter your medical record number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: Enter your emergency contact's first name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: Enter your emergency contact's last name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: medical_provider
+      label: Medical Provider
+      hint: Enter your medical provider
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: Enter your medical provider's address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_provider_contact_number
+      label: Medical Provider Contact Number
+      hint: Enter your medical provider's contact number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_record_status
+      label: Medical Record Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: medical_record_status_note
+      label: Medical Record Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication_allergies
+      label: Medications and Allergies
+      hint: List all medications and allergies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Ibuprofen
+      - Penicillin
+      required: false
+    - id: 19
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Friend
+      - Colleague
+      required: false
+    - id: 20
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Friend
+      - Colleague
+      required: false
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter emergency contact's phone number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: Enter emergency contact's email
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: Enter emergency contact's address
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_note
+      label: Emergency Contact Note
+      hint: Enter any note about emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature
+      label: Signature
+      hint: Patient's signature
+      type: text
+      options: []
+      required: true

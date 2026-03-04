@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parenting Strategies Implementation Guide
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Parent-Teacher''}'
+      - '{''value'': ''School''}'
+      - '{''value'': ''Community''}'
+      required: true
+    - id: 12
+      name: category_other
+      label: other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''School''}'
+      - '{''value'': ''Community''}'
+      required: false
+    - id: 13
+      name: approach
+      label: approach
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Positive Behavioral Support''}'
+      - '{''value'': ''Crisis Intervention''}'
+      required: false
+    - id: 14
+      name: goal
+      label: goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes_parent
+      label: notes parent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: notes_caregiver
+      label: notes caregiver
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: conference_date
+      label: conference date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: conference_time
+      label: conference time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: parent_attendance
+      label: parent attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

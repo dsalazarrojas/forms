@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freelancer Payment Invoice
+    pages:
+    - id: 1
+      name: freelancer_payment_invoice_form
+      label: Create and send professional invoices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Name of the client
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: invoice_date
+      label: Invoice date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment terms
+      hint: null
+      type: select_one
+      options:
+      - Net 30 days
+      - Net 7 days
+      - Net 14 days
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Bank transfer
+      - Online payment
+      required: false
+    - id: 7
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax_amount
+      label: Tax amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Pending
+      - Overdue
+      required: false
+    - id: 11
+      name: payment_terms_note
+      label: Payment terms note
+      hint: Optional note for payment terms
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: invoice_number
+      label: Invoice number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: client_address
+      label: Client address
+      hint: null
+      type: text
+      options: []
+      required: false

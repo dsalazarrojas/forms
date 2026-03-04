@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Order Form
+    pages:
+    - id: 1
+      name: product_order_form
+      label: Product Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_order_form_1
+      label: Product Order Form
+      hint: null
+      type: select_one
+      options:
+      - product1
+      - product2
+      - product3
+      required: false
+    - id: 3
+      name: product_order_form_1
+      label: Product Order Form
+      hint: null
+      type: select_multiple
+      options:
+      - product1
+      - product2
+      required: true
+    - id: 4
+      name: product_order_form_2
+      label: Product Order Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_order_form_2
+      label: Product Order Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_order_form_3
+      label: Product Order Form
+      hint: null
+      type: date
+      options: []
+      required: false

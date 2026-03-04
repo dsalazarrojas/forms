@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Park Restoration Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - PayPal
+      - Stripe
+      required: false
+    - id: 6
+      name: frequency_of_donations
+      label: Frequency of Donations
+      hint: null
+      type: select_multiple
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 7
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false

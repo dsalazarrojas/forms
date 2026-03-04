@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: purchase_tickets_form
+    pages:
+    - id: 1
+      name: purchase_tickets_form_page_1
+      label: select_tickets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: gift_registry
+      label: gift_registry_widget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: available_tickets
+      label: available_tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tickets_purchased
+      label: tickets_purchased
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_tickets
+      label: purchase_tickets
+      hint: null
+      type: number
+      options: []
+      required: false

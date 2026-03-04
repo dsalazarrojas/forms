@@ -1,0 +1,205 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Harvest Collection Order Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: '--- Customer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, for delivery updates
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order date
+      hint: Select the date you place the order
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_items_header
+      label: '--- Order Items ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_name
+      label: Item or product name
+      hint: e.g., "Pumpkin Spice Candle"
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: Enter number of items
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: unit_price
+      label: Unit price
+      hint: Price per item in USD
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: discount_code
+      label: Discount code
+      hint: Optional promo code
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_preferences_header
+      label: '--- Delivery Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Choose how you want the order delivered
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup
+      - Local delivery
+      required: true
+    - id: 13
+      name: delivery_address
+      label: Delivery address
+      hint: Required if shipping or local delivery
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_date
+      label: Requested delivery date
+      hint: We will try to meet this date
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: shipping_insurance
+      label: Shipping insurance
+      hint: Protect your items during transit
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: gift_wrap
+      label: Gift wrap
+      hint: Add a gift wrap for special occasions
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: Any extra details for your order
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_information_header
+      label: '--- Payment Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment method
+      hint: Select your preferred payment
+      type: select_one
+      options:
+      - Credit card
+      - Cash
+      - Bank transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 20
+      name: card_number
+      label: Credit card number
+      hint: 16-digit number without spaces
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_address
+      label: Billing address
+      hint: If different from delivery address
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: When we can reach you
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_and_conditions
+      label: Accept terms and conditions
+      hint: By submitting, you agree to our terms
+      type: select_one
+      options:
+      - I agree
+      required: true

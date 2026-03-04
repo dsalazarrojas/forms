@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law School Scholarship Fund Donation Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: Please enter a donation amount.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One-time
+      - Quarterly
+      - Semesterly
+      - Annually
+      required: false
+    - id: 4
+      name: frequency_other
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency_other_value
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recurring_donations
+      label: Recurring Donations
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - One-time
+      - Quarterly
+      - Semesterly
+      - Annually
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check/Cash
+      - Bank Transfer
+      required: false
+    - id: 13
+      name: payment_method_other
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_other_value
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: billing_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_terms_other
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: notes_other
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: confirmation_other
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corsage Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: corsage_type
+      label: Corsage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Bouquet
+      - Casket
+      - Combination
+      - Casket and Urn
+      - Urn and Corsage
+      - Casket and Urn and Corsage
+      required: true
+    - id: 6
+      name: flower_type
+      label: Flower
+      hint: null
+      type: select_one
+      options:
+      - Roses
+      - Lilies
+      - Tulips
+      - Orchids
+      - Mixed
+      required: true
+    - id: 7
+      name: corsage_size
+      label: Corsage Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 8
+      name: ribbon_color
+      label: Ribbon Color
+      hint: null
+      type: select_one
+      options:
+      - Pink
+      - Blue
+      - Red
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: corsage_description
+      label: Corsage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: flower_arrangement
+      label: Flower Arrangement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: corsage_message
+      label: Corsage Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: corsage_price
+      label: Corsage Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: total
+      label: Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: true
+    - id: 19
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: florist_signature
+      label: Florist Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: corsage_note
+      label: Corsage Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: corsage_status
+      label: Corsage Status
+      hint: null
+      type: select_one
+      options:
+      - Delivered
+      - Not Delivered
+      required: false

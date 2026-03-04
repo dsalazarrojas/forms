@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farmers Market Gift Hamper Order
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: recipient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recipient_email
+      label: recipient email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: recipient_phone
+      label: recipient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_hamper
+      label: Select Hamper
+      hint: null
+      type: select_multiple
+      options:
+      - Hamper1
+      - Hamper2
+      - Hamper3
+      required: true
+    - id: 6
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

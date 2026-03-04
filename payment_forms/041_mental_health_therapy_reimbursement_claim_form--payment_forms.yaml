@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_therapy_reimbursement_claim_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_claim
+      label: Date of claim
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: type_of_claim
+      label: Type of claim
+      hint: null
+      type: select_multiple
+      options:
+      - Mental health claim
+      - Other claim
+      - Reimbursement claim
+      required: false
+    - id: 6
+      name: claim_amount
+      label: Claim amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: insurance_provider_name
+      label: Insurance provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider_address
+      label: Insurance provider address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: therapist_name
+      label: Therapist name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claim_status
+      label: Claim status
+      hint: null
+      type: select_one
+      options:
+      - Claim submitted
+      - Claim pending
+      - Claim denied
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional comments or notes
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

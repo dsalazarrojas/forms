@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: freight_refund_form
+    pages:
+    - id: 1
+      name: order_id
+      label: order id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: reason
+      label: refund reason
+      hint: Service issue
+      type: select_one
+      options:
+      - Service issue
+      - Lost package
+      - Billing error
+      required: false
+    - id: 3
+      name: order_total_cost
+      label: order total cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: refund_amount
+      label: refund amount
+      hint: Amount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: shipping_cost
+      label: shipping cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_refund
+      label: reason for refund
+      hint: Please explain
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_service_provider
+      label: shipping service provider
+      hint: null
+      type: select_multiple
+      options:
+      - UPS
+      - FedEx
+      - USPS
+      - Other
+      required: false
+    - id: 8
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: refund_status
+      label: refund status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

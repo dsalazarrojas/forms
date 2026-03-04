@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Deposit Refund Form
+    pages:
+    - id: 1
+      name: form_data
+      label: hotel_deposit_refund_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: refund_amount
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: guest_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - Refund Requested Due to Overbooking
+      - Refund Requested Due to Personal/Professional Obligations
+      - Refund Requested Due to Other (please specify)
+      required: true

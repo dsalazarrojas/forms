@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Services Payment Form
+    pages:
+    - id: 1
+      name: payment_header
+      label: -- Payment details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payer_name
+      label: Payer name
+      hint: Name on the invoice or account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payer_email
+      label: Payer email
+      hint: Email to send the receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: invoice_number
+      label: Invoice number
+      hint: Reference invoice or billing ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: amount_due
+      label: Amount due
+      hint: Enter total amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: currency
+      label: Currency
+      hint: Currency for payment
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - Local
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will pay
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - PayPal
+      - Check
+      required: true
+    - id: 8
+      name: billing_address
+      label: Billing address
+      hint: Address for card or invoice
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment date
+      hint: Date payment is being made
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: payment_reference
+      label: Payment reference
+      hint: Transaction ID or bank reference
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: receipt_requested
+      label: Receipt requested
+      hint: Do you require an emailed receipt
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: authorizing_signature
+      label: Authorizing signature
+      hint: Type full name as electronic authorization
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Additional notes
+      hint: Any special billing instructions
+      type: text
+      options: []
+      required: false

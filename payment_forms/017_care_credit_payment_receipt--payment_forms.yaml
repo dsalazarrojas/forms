@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Credit Payment Receipt
+    pages:
+    - id: 1
+      name: receipt_header
+      label: -- Payment Receipt --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payer_name
+      label: Payer name
+      hint: Name on payment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payment_date
+      label: Payment date
+      hint: Date payment was received
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_amount
+      label: Payment amount
+      hint: Total amount paid
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment method
+      hint: Method used for payment
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Cash
+      required: true
+    - id: 6
+      name: transaction_id
+      label: Transaction id
+      hint: Internal transaction or reference number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_description
+      label: Service description
+      hint: Brief description of service paid for
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issued_by
+      label: Issued by
+      hint: Name of issuing organization or staff
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: For receipt questions
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional payment notes
+      type: text
+      options: []
+      required: false

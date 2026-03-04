@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Card Exchange Kit Order Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: card_specifications
+      label: -- Card Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: card_quantity
+      label: Number of Business Cards
+      hint: How many cards do you need?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: card_design_option
+      label: Card Design Option
+      hint: Select a design template
+      type: select_one
+      options:
+      - Standard Professional
+      - Modern Minimalist
+      - Executive Premium
+      - Creative Design
+      - Custom Design
+      required: true
+    - id: 10
+      name: card_color
+      label: Primary Card Color
+      hint: Choose your preferred color
+      type: select_one
+      options:
+      - White
+      - Cream
+      - Light Gray
+      - Custom Color
+      required: true
+    - id: 11
+      name: special_finishes
+      label: Special Finishes
+      hint: Select any finishes you want
+      type: select_multiple
+      options:
+      - Glossy
+      - Matte
+      - Embossing
+      - Foil Stamping
+      - Die Cut
+      - None
+      required: false
+    - id: 12
+      name: shipping_information
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: shipping_address
+      label: Shipping Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state_province
+      label: State or Province
+      hint: State or province code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_postal_code
+      label: Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: country
+      label: Country
+      hint: Country of delivery
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_method
+      label: Shipping Method
+      hint: Choose delivery speed
+      type: select_one
+      options:
+      - Standard Shipping
+      - Expedited Shipping
+      - Overnight Delivery
+      required: true
+    - id: 19
+      name: payment_information
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: order_total
+      label: Order Total
+      hint: Amount in currency
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Purchase Order
+      required: true

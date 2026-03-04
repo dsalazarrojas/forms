@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Class Ticket Booking Form
+    pages:
+    - id: 1
+      name: traveler_information
+      label: -- Traveler Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Valid email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Your company affiliation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: passport_number
+      label: Passport Number
+      hint: Required for international travel
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trip_details
+      label: -- Trip Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: departure_city
+      label: Departure City
+      hint: Where you are traveling from
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: arrival_city
+      label: Arrival City
+      hint: Where you are traveling to
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: departure_date
+      label: Departure Date
+      hint: Date of travel
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: return_date
+      label: Return Date
+      hint: Date returning or none for one-way
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: trip_type
+      label: Trip Type
+      hint: One-way or round-trip
+      type: select_one
+      options:
+      - One-way
+      - Round-trip
+      - Multi-city
+      required: true
+    - id: 14
+      name: passengers_count
+      label: Number of Passengers
+      hint: How many tickets needed
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: seat_preference
+      label: Seat Preference
+      hint: Your seating preferences
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Middle
+      - No Preference
+      required: false
+    - id: 16
+      name: airline_preference
+      label: Airline Preference
+      hint: Preferred airline if any
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: meal_preference
+      label: Meal Preference
+      hint: Dining preferences
+      type: select_one
+      options:
+      - Vegetarian
+      - Vegan
+      - Kosher
+      - Halal
+      - No Preference
+      - Standard
+      required: false
+    - id: 19
+      name: special_assistance
+      label: Special Assistance Needed
+      hint: Mobility or medical assistance
+      type: select_one
+      options:
+      - No Assistance Needed
+      - Mobility Assistance
+      - Hearing Assistance
+      - Vision Assistance
+      - Other
+      required: false
+    - id: 20
+      name: luggage_allowance
+      label: Luggage Allowance
+      hint: Standard or extra baggage
+      type: select_one
+      options:
+      - Standard (1 checked bag)
+      - Plus (2 checked bags)
+      - Extra Luggage
+      required: false
+    - id: 21
+      name: frequent_flyer
+      label: Frequent Flyer Program
+      hint: Airline loyalty program number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay for ticket
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Company Billing
+      required: true
+    - id: 24
+      name: billing_address
+      label: Billing Address
+      hint: Address for billing
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: total_cost
+      label: Total Ticket Cost
+      hint: Will be calculated based on selections
+      type: number
+      options: []
+      required: false

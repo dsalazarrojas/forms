@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Flower Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Bouquet
+      - Flowers only
+      - Gift basket
+      - Flowers and gifts
+      required: false
+    - id: 7
+      name: flower_color
+      label: Flower Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - White
+      required: false
+    - id: 8
+      name: flower_shape
+      label: Flower Shape
+      hint: null
+      type: select_multiple
+      options:
+      - Rose
+      - Lily
+      - Carnation
+      - Coral
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Cash
+      required: false
+    - id: 12
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_order
+      label: Confirm Order
+      hint: Confirm your order details
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: false

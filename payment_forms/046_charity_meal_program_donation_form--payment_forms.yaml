@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Meal Program Donation Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_name
+      label: Meal Program
+      hint: Which program
+      type: select_one
+      options:
+      - General meal program
+      - Senior meal delivery
+      - School lunch program
+      - Emergency food pantry
+      - Holiday meal drive
+      - Where most needed
+      required: true
+    - id: 7
+      name: donation_type
+      label: Donation Type
+      hint: What you are giving
+      type: select_one
+      options:
+      - Monetary donation
+      - Food items
+      - Volunteer time
+      - Equipment or supplies
+      - Corporate sponsorship
+      required: true
+    - id: 8
+      name: donation_amount
+      label: Donation Amount
+      hint: If monetary
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1000
+      - Other amount
+      - Not applicable
+      required: false
+    - id: 9
+      name: donation_frequency
+      label: Donation Frequency
+      hint: How often
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      - Not applicable
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: How to give
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check
+      - Cash
+      - Not applicable
+      required: false
+    - id: 11
+      name: food_items
+      label: Food Items Donating
+      hint: If donating food
+      type: select_multiple
+      options:
+      - Canned vegetables
+      - Canned protein
+      - Rice and pasta
+      - Cereal
+      - Baby food
+      - Snacks
+      - Fresh produce
+      - Dairy products
+      - Not applicable
+      required: false
+    - id: 12
+      name: delivery_method
+      label: Delivery Method
+      hint: How to deliver
+      type: select_one
+      options:
+      - I will drop off
+      - Please pick up
+      - Mailing check
+      - Online payment
+      required: true
+    - id: 13
+      name: drop_off_preference
+      label: Preferred Drop-off Time
+      hint: If dropping off
+      type: select_one
+      options:
+      - Weekday morning
+      - Weekday afternoon
+      - Weekday evening
+      - Weekend
+      - Flexible
+      required: false
+    - id: 14
+      name: tax_receipt
+      label: Tax Receipt Needed
+      hint: For tax purposes
+      type: select_one
+      options:
+      - Yes send receipt
+      - No receipt needed
+      required: true
+    - id: 15
+      name: recognition_preference
+      label: Recognition Preference
+      hint: Donor list
+      type: select_one
+      options:
+      - List my name
+      - List organization
+      - Keep anonymous
+      required: true
+    - id: 16
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Help serve meals
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe
+      - false
+      required: false
+    - id: 17
+      name: corporate_match
+      label: Does Your Employer Match Donations
+      hint: Corporate matching
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 18
+      name: dedication
+      label: Dedicate This Donation
+      hint: In honor or memory
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any notes
+      type: text
+      options: []
+      required: false

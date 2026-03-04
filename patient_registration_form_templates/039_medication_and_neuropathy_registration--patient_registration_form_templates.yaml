@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication And Neuropathy Registration
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medications
+      label: Medications
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Med A''}'
+      - '{''option2'': ''Med B''}'
+      - '{''option3'': ''Med C''}'
+      required: false
+    - id: 3
+      name: neuropathy_symptoms
+      label: Neuropathy Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Symptom A''}'
+      - '{''option2'': ''Symptom B''}'
+      - '{''option3'': ''Symptom C''}'
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: Provide detailed medical history
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_symptom_onset
+      label: Date of Symptom Onset
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_symptom_onset
+      label: Time of Symptom Onset
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

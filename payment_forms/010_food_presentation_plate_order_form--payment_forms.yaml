@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Presentation Plate Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: order_description
+      label: Order Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: food_type
+      label: Food Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fruits
+      - Vegetables
+      - Meat
+      required: false
+    - id: 7
+      name: presentation_style
+      label: Presentation Style
+      hint: null
+      type: select_one
+      options:
+      - Plate
+      - Bowl
+      - Container
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

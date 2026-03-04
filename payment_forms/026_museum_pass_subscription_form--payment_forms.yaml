@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Pass Subscription Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: Enter Subscriber Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Subscriber Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_plan
+      label: Payment Plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      required: true
+    - id: 6
+      name: pass_type
+      label: Pass Type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual Pass
+      - Family Pass
+      - Senior Pass
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: subscription_term
+      label: Subscription Term
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: subscription_term_start
+      label: Subscription Start
+      hint: Start Date (mm/dd/yy
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: subscription_term_end
+      label: Subscription End
+      hint: End Date (mm/dd/yy
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: shoe_service_appointment_booking
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preferences
+      label: Contact preferences
+      hint: Please select at least one contact method
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - SMS
+      required: false
+    - id: 3
+      name: schedule_details
+      label: Schedule details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_details
+      label: Service details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service type
+      hint: null
+      type: select_one
+      options:
+      - Repair
+      - Polish
+      - Resole
+      required: false
+    - id: 7
+      name: service_date
+      label: Service date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_time
+      label: Service time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: shoe_type
+      label: Shoe type
+      hint: null
+      type: select_one
+      options:
+      - Sneaker
+      - Sandal
+      - Boot
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: shoe_size
+      label: Size of shoe
+      hint: null
+      type: select_one
+      options:
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 12
+      name: appointment_id
+      label: Appointment ID
+      hint: null
+      type: number
+      options: []
+      required: false

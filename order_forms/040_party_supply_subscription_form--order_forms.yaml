@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: party_supply_subscription_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_supplies
+      label: Party Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - Balloons
+      - Streamers
+      - Confetti
+      - Hats
+      required: false
+    - id: 3
+      name: delivery_address
+      label: Delivery Address
+      hint: Address line 1
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_zip
+      label: ZIP
+      hint: ZIP
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_country
+      label: Country
+      hint: Country
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: party_frequency
+      label: Party Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 9
+      name: party_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: party_time
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: subscription_length
+      label: Subscription Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_name
+      label: Billing Name
+      hint: Billing name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_email
+      label: Billing Email
+      hint: Billing email
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: billing_phone
+      label: Billing Phone
+      hint: Billing phone
+      type: text
+      options: []
+      required: false

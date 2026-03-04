@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Deposit Refund Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: refund_date
+      label: Refund Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: landlord_info
+      label: Landlord Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

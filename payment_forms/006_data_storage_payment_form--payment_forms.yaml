@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Storage Payment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: true
+    - id: 7
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Pending
+      - Reimbursed
+      required: false
+    - id: 11
+      name: currency
+      label: Currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms_agreed
+      label: Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: true
+    - id: 16
+      name: payment_refund
+      label: Payment Refund
+      hint: null
+      type: select_one
+      options:
+      - Refundable
+      - Not Refundable
+      required: false
+    - id: 17
+      name: payment_refund_reason
+      label: Refund Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms_condition
+      label: Payment Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_terms_and_conditions_agreed
+      label: Agree to Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: true
+    - id: 21
+      name: payment_terms_and_conditions_version
+      label: Terms and Conditions Version
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: payment_terms_and_conditions_link
+      label: Terms and Conditions Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_terms_and_conditions_description
+      label: Terms and Conditions Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms_and_conditions_last_updated
+      label: Terms and Conditions Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

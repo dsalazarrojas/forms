@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Parent Handbook Acknowledgment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_contact_info
+      label: Parent Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature1
+      label: Parent Signature
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the Student Parent Handbook
+      - I have not read and do not understand the Student Parent Handbook
+      required: false
+    - id: 6
+      name: signature2
+      label: Student Signature
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the Student Parent Handbook
+      - I have not read and do not understand the Student Parent Handbook
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: teacher_info
+      label: Teacher Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: handbook_attach
+      label: Attach Student/Parent Handbook
+      hint: null
+      type: text
+      options: []
+      required: false

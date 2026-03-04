@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Concierge Service Survey
+    pages:
+    - id: 1
+      name: patient_feedback_form
+      label: Patient Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nursing_services
+      label: What nursing services were you provided with?
+      hint: null
+      type: select_multiple
+      options:
+      - Nursing Service 1
+      - Nursing Service 2
+      - Nursing Service 3
+      required: false
+    - id: 3
+      name: quality_of_service
+      label: On a scale of 1-5, how would you rate the quality of service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: helpfulness_of_caregiver
+      label: How would you rate the helpfulness of our care team?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: How can we best contact you?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_visited
+      label: What date did you visit?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_visited
+      label: What time did you visit?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: visit_frequency
+      label: How often do you visit us?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 11
+      name: staff_name
+      label: What's your care team member's name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staff_title
+      label: What's their role or position?
+      hint: null
+      type: text
+      options: []
+      required: false

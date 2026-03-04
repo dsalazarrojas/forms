@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_authorization_declaration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - credit-card
+      - debit-card
+      required: false
+    - id: 4
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pin
+      label: PIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: card_security_code
+      label: Card Security Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: card_issuer
+      label: Card Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: card_country
+      label: Card Country
+      hint: null
+      type: select_one
+      options:
+      - US
+      - CA
+      - MX
+      required: false

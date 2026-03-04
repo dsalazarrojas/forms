@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: iv_therapy_intake_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: Please enter medical condition
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_type
+      label: Treatment Type
+      hint: Please select type of treatment
+      type: select_one
+      options:
+      - IV Antibiotics
+      - IV Infusion
+      - IV Therapy
+      - IV Support
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: Please enter a contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

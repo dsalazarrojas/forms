@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Single Product W Single Choice Orders
+    pages:
+    - id: 1
+      name: single_product_w_single_choice_orders
+      label: Single Product W Single Choice Orders
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 3
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - product1
+      - product2
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: single_choice
+      label: Single Choice
+      hint: null
+      type: select_multiple
+      options:
+      - choice1
+      - choice2
+      required: false
+    - id: 6
+      name: single_choice_orders
+      label: Single Choice Orders
+      hint: null
+      type: select_multiple
+      options:
+      - order1
+      - order2
+      required: true
+    - id: 7
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer
+      label: Customer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_orders
+      label: Customer Orders
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 16
+      name: payment_method_orders
+      label: Payment Method Orders
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 17
+      name: payment_method_total
+      label: Payment Method Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_method_date
+      label: Payment Method Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: payment_method_time
+      label: Payment Method Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: payment_method_value
+      label: Payment Method Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: customer_name_orders
+      label: Customer Name Orders
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: customer_name_notes
+      label: Customer Name Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: customer_name_value
+      label: Customer Name Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: note
+      options: []
+      required: false

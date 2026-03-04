@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collision Repair Notification Form
+    pages:
+    - id: 1
+      name: repair_order_number
+      label: Repair Order Number
+      hint: Unique identifier for this repair job
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: repair_status
+      label: Repair Status Update
+      hint: Current status of the repair
+      type: select_one
+      options:
+      - Received and Inspected
+      - Parts on Order
+      - In Progress
+      - Awaiting Approval
+      - Waiting on Customer
+      - Ready for Pickup
+      - Completed
+      - On Hold
+      required: true
+    - id: 3
+      name: notification_date
+      label: Notification Date
+      hint: Date of this status update
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: notification_time
+      label: Notification Time
+      hint: When is this notification being sent
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: customer_first_name
+      label: Customer First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_last_name
+      label: Customer Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_email
+      label: Customer Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_make
+      label: Vehicle Make
+      hint: e.g. Ford, Toyota, Honda
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: license_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accident_date
+      label: Date of Accident or Damage
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: damage_description
+      label: Damage Description
+      hint: Type and extent of damage
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: damage_severity
+      label: Damage Severity
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      - Total Loss
+      required: true
+    - id: 17
+      name: repair_completion_estimate
+      label: Estimated Completion Date
+      hint: When will the repair be finished
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: parts_on_order
+      label: Parts on Order
+      hint: List any parts being ordered
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: insurance_claim_number
+      label: Insurance Claim Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Text Message
+      - No Contact Needed
+      required: true
+    - id: 22
+      name: notes_for_customer
+      label: Notes or Messages for Customer
+      hint: Additional information or updates
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: authorization_approval
+      label: Authorization Approval for Repairs
+      hint: Has customer approved the repair plan
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Changes Requested
+      - Declined
+      required: true
+    - id: 24
+      name: technician_name
+      label: Assigned Technician Name
+      hint: Who is working on this repair
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_required
+      label: Follow-Up Communication Required
+      hint: Does customer need to provide additional information
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

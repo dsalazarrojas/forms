@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient admission checklist form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_medical_history
+      label: medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_medication
+      label: medication
+      hint: null
+      type: select_one
+      options:
+      - medication1
+      - medication2
+      - medication3
+      required: false
+    - id: 9
+      name: patient_medical_conditions
+      label: medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - medical condition1
+      - medical condition2
+      - medical condition3
+      required: false
+    - id: 10
+      name: patient_vaccination_record
+      label: vaccination record
+      hint: null
+      type: select_one
+      options:
+      - vaccination record1
+      - vaccination record2
+      - vaccination record3
+      required: false
+    - id: 11
+      name: patient_surgical_history
+      label: surgical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_family_history
+      label: family history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_family_history_additional_info
+      label: family history additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: patient_social_history
+      label: social history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_caregiver_name
+      label: caregiver name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_caregiver_relationship
+      label: caregiver relationship
+      hint: null
+      type: select_one
+      options:
+      - relationship1
+      - relationship2
+      - relationship3
+      required: false
+    - id: 17
+      name: patient_language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - language1
+      - language2
+      - language3
+      required: false
+    - id: 18
+      name: patient_next_of_kin
+      label: next of kin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_domicile
+      label: domicile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_discharge_date
+      label: discharge date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: patient_discharge_status
+      label: discharge status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 22
+      name: patient_payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - method1
+      - method2
+      - method3
+      required: false
+    - id: 23
+      name: patient_additional_info
+      label: additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_referral_source
+      label: referral source
+      hint: null
+      type: select_multiple
+      options:
+      - source1
+      - source2
+      - source3
+      required: false
+    - id: 25
+      name: patient_referral_info
+      label: referral info
+      hint: null
+      type: text
+      options: []
+      required: false

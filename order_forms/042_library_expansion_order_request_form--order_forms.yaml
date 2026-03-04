@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Expansion Order Request Form
+    pages:
+    - id: 1
+      name: branch
+      label: branch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: estimated_delivery_date
+      label: estimated_delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: library_material_id
+      label: library_material_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: branch_manager_signature
+      label: branch_manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: branch_manager_name
+      label: branch_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false

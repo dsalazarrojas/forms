@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: energyMedicineTreatmentFeedbackForm
+    pages:
+    - id: 1
+      name: patientfeedback
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatmenttype
+      label: Which treatment did you receive?
+      hint: null
+      type: select_one
+      options:
+      - Healy Resonance
+      - Other
+      required: false
+    - id: 3
+      name: receivedtreatment
+      label: Have you received a treatment?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: feedback
+      label: What are your thoughts?
+      hint: Please let us know your impressions
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: receivedtreatmentdate
+      label: When did you receive the treatment?
+      hint: null
+      type: date
+      options: []
+      required: false

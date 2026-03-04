@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: subscription_service_licensing_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Subscription Service Licensing Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Payment Forms
+      - Subscription Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Payment Forms
+      - Subscription Forms
+      - Other Forms
+      required: false
+    - id: 5
+      name: form_description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other_tool
+      required: false
+    - id: 7
+      name: form_id
+      label: id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: output_format
+      label: output_format
+      hint: null
+      type: select_one
+      options:
+      - yaml
+      - json
+      - csv
+      - html
+      required: true
+    - id: 10
+      name: output_path
+      label: output_path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_extension
+      label: output_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_filename
+      label: output_filename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file_path
+      label: output_file_path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_version
+      label: form_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_ids
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool_id
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other_tool
+      required: false
+    - id: 17
+      name: input_schema_id
+      label: input_schema_id
+      hint: null
+      type: number
+      options: []
+      required: false

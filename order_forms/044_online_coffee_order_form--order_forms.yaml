@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Coffee Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: coffee_order
+      label: coffee_order
+      hint: null
+      type: select_multiple
+      options:
+      - Coffee
+      - Tea
+      - Juice
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_category
+      label: customer_category
+      hint: null
+      type: select_one
+      options:
+      - Online Form
+      - Offline Form
+      - Other
+      required: false
+    - id: 7
+      name: customer_location
+      label: customer_location
+      hint: null
+      type: select_one
+      options:
+      - Store 1
+      - Store 2
+      - Store 3
+      required: false
+    - id: 8
+      name: customer_preferences
+      label: customer_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_submission
+      label: form_submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

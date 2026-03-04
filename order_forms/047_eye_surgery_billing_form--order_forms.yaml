@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: eye_surgery_billing_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_insurance
+      label: medical_insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: surgery_date
+      label: surgery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: surgeon_name
+      label: surgeon_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_id
+      label: insurance_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false

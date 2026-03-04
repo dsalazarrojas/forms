@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Lending System Access Form
+    pages:
+    - id: 1
+      name: tool_lending_system_access_form
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tool_lending_agreement
+      label: Tool Lending Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Drill
+      - Hand Tools
+      - Power Tools
+      - Saws
+      - Other
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - In Transit
+      - In Use
+      - Lost
+      - Broken
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

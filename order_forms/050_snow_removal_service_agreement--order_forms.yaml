@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snow Removal Service Agreement
+    pages:
+    - id: 1
+      name: service_terms
+      label: Service Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_agreement
+      label: Service Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: snow_removal_services
+      label: Snow Removal Services
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 6
+      name: snow_removal_services_frequency
+      label: Snow Removal Services Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: additional_terms
+      label: Additional Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true

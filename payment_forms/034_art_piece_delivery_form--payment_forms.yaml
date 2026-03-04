@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Piece Delivery Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: Date of delivery
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: sender_name
+      label: Sender Name
+      hint: Name of sender or gallery
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_email
+      label: Sender Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sender_phone
+      label: Sender Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sender_address
+      label: Sender Address
+      hint: Pickup address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recipient_name
+      label: Recipient Name
+      hint: Name of recipient
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recipient_email
+      label: Recipient Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recipient_address
+      label: Recipient Address
+      hint: Delivery address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artwork_title
+      label: Artwork Title
+      hint: Title of artwork
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: artist_name
+      label: Artist Name
+      hint: Name of artist
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_type
+      label: Artwork Type
+      hint: Type of artwork
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Drawing
+      - Print
+      - Mixed Media
+      - Installation
+      - Other
+      required: true
+    - id: 13
+      name: dimensions
+      label: Dimensions
+      hint: Height x Width x Depth
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: weight
+      label: Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: framed
+      label: Framed
+      hint: Is the artwork framed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: crating_required
+      label: Crating Required
+      hint: Does artwork require crating
+      type: select_one
+      options:
+      - Yes - Custom Crate
+      - Yes - Standard Crate
+      - false
+      required: true
+    - id: 17
+      name: artwork_value
+      label: Artwork Value
+      hint: Declared value
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: insurance_required
+      label: Insurance Required
+      hint: Is insurance needed
+      type: select_one
+      options:
+      - Yes - Full Value
+      - Yes - Partial
+      - false
+      required: true
+    - id: 19
+      name: delivery_speed
+      label: Delivery Speed
+      hint: Delivery timeframe
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Express (2-3 days)
+      - Overnight
+      - Same Day
+      - Scheduled Date
+      required: true
+    - id: 20
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When should delivery occur
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: preferred_delivery_time
+      label: Preferred Delivery Time
+      hint: Preferred time window
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      - Any Time
+      required: false
+    - id: 22
+      name: white_glove_service
+      label: White Glove Service
+      hint: Premium handling service
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: installation_required
+      label: Installation Required
+      hint: Is installation needed at destination
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: special_handling
+      label: Special Handling
+      hint: Any special handling requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: climate_controlled
+      label: Climate Controlled
+      hint: Is climate control required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: signature_required
+      label: Signature Required
+      hint: Is signature required on delivery
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How will delivery be paid
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Invoice
+      - Prepaid
+      - Collect on Delivery
+      required: true
+    - id: 28
+      name: delivery_cost
+      label: Delivery Cost
+      hint: Cost of delivery
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: insurance_cost
+      label: Insurance Cost
+      hint: Cost of insurance
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: total_cost
+      label: Total Cost
+      hint: Total cost including all fees
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: tracking_number
+      label: Tracking Number
+      hint: Shipment tracking number
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: delivery_notes
+      label: Delivery Notes
+      hint: Additional delivery instructions
+      type: text
+      options: []
+      required: false

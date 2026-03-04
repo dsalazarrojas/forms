@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic T Shirt Order Form
+    pages:
+    - id: 1
+      name: order_form_page
+      label: Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: t_shirt_size
+      label: T Shirt Size
+      hint: Enter your T Shirt size
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      required: false
+    - id: 3
+      name: t_shirt_color
+      label: T Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Red
+      - Blue
+      required: false
+    - id: 4
+      name: t_shirt_design
+      label: T Shirt Design
+      hint: Select from our T Shirt designs
+      type: select_multiple
+      options:
+      - Graphic T Shirt
+      - Funny T Shirt
+      - T Shirt with a logo
+      required: false
+    - id: 5
+      name: t_shirt_quantity
+      label: T Shirt Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit Order
+      - Cancel
+      required: false

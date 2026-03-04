@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: qr_marketing_display_order_form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_selections
+      label: Product Selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: artwork
+      label: Artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_one
+      options:
+      - Delivery Option 1
+      - Delivery Option 2
+      - Delivery Option 3
+      required: false
+    - id: 5
+      name: customer_details_2
+      label: Customer Details 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Liability And Payment Form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - PayPal
+      - Mastercard
+      required: true
+    - id: 3
+      name: payment_terms
+      label: Payment Terms
+      hint: Please review and agree to our payment terms.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true

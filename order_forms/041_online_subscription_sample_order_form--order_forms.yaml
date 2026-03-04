@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Subscription Sample Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: subscription
+      label: Subscription Type
+      hint: null
+      type: select_multiple
+      options:
+      - 12-month
+      - 6-month
+      - 3-month
+      required: true
+    - id: 6
+      name: sample_request
+      label: Sample Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Shipping
+      - Pickup
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 10
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

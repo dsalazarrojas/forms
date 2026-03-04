@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Mat Customization Order Form
+    pages:
+    - id: 1
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: design_color
+      label: design_color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Purple
+      required: true
+    - id: 5
+      name: size
+      label: size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: shape
+      label: shape
+      hint: null
+      type: select_multiple
+      options:
+      - Square
+      - Circle
+      - Oval
+      required: true
+    - id: 7
+      name: material
+      label: material
+      hint: null
+      type: select_multiple
+      options:
+      - Eco-friendly
+      - Synthetic
+      - Hybrid
+      required: true
+    - id: 8
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 10
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Refused
+      required: true

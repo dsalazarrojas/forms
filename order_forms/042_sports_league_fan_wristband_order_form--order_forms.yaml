@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_league_fan_wristband_order_form
+    pages:
+    - id: 1
+      name: user
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - sports
+      - football
+      - baseball
+      - basketball
+      - hockey
+      - soccer
+      required: true
+    - id: 5
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - PayPal
+      - Stripe
+      required: true
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: order_confirmation
+      label: Order Confirmation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: shipping_confirmation
+      label: Shipping Confirmation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Processing
+      - Shipped
+      - Cancelled
+      - Completed
+      required: true
+    - id: 18
+      name: shipping_status
+      label: Shipping Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - Not Shipped
+      - Cancelled
+      - Completed
+      required: true
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Refunded
+      - Cancelled
+      - Completed
+      required: true
+    - id: 20
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_comments
+      label: Shipping Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: team_number
+      label: Team Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false

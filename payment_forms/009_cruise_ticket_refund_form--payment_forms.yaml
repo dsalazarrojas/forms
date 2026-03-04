@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: cruise_ticket_refund_form
+    pages:
+    - id: 1
+      name: passenger_details
+      label: Passenger Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: cruise_line
+      label: Cruise Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ticket_date
+      label: Ticket Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: ticket_time
+      label: Ticket Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: refund_request
+      label: Refund Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: refund_method
+      label: Refund Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit
+      required: false
+    - id: 11
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: confirm_refund
+      label: Confirm Refund
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: passenger_confirmation
+      label: Passenger Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: operator_confirmation
+      label: Operator Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: refund_date
+      label: Refund Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: operator_notes
+      label: Operator Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: passenger_notes
+      label: Passenger Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: refund_currency
+      label: Refund Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      required: false
+    - id: 22
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: passenger_signature
+      label: Passenger Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: operator_signature
+      label: Operator Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false

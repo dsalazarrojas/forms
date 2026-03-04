@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Document Authorization Form
+    pages:
+    - id: 1
+      name: shipping_document_authorization_form
+      label: Shipping Document Authorization Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: Name of the customer for whom the shipment is intended
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_date
+      label: shipping date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipping_time
+      label: shipping time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false

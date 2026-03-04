@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Craft Store Art Supplies Order Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: art_supplies
+      label: art_supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supply_type
+      label: supply_type
+      hint: null
+      type: select_one
+      options:
+      - Acrylic Paint
+      - Watercolor Paints
+      - Canvas
+      - Easel
+      - Drawing Pad
+      - Paper
+      - Markers
+      - Other
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: delivery_option
+      label: delivery_option
+      hint: null
+      type: select_multiple
+      options:
+      - Pickup
+      - Delivery
+      required: false
+    - id: 8
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false

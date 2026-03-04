@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Sports Equipment Order Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: university
+      label: university
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department1
+      - Department2
+      - Department3
+      required: false
+    - id: 5
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Racquetball Racket
+      - Tennis Ball
+      - Soccer Ball
+      required: false
+    - id: 6
+      name: order_date
+      label: Date of order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: return_location
+      label: return_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_condition
+      label: equipment_condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Fair
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

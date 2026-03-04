@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Delivery Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer and Delivery Details --
+      hint: YOU MUST BE OVER 21 (OR LEGAL AGE) TO ORDER
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: Must match your photo ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Contact Phone Number
+      hint: Needed for driver contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_order
+      label: -- Your Order --
+      hint: Select items to be delivered
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: beer_selection
+      label: Beer/Lager Selection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wine_selection
+      label: Wine/Spirits Selection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: total_order_quantity
+      label: Total Number of Items
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: delivery_time_slot
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - ASAP (Within 60 mins)
+      - Evening (6pm - 8pm)
+      - Late Night (8pm - 10pm)
+      - Scheduled (Specify in notes)
+      required: true
+    - id: 12
+      name: section_verification
+      label: -- Age Verification Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: id_confirmation
+      label: I confirm I will present a valid photo ID upon delivery
+      hint: Drivers will not leave alcohol without ID verification
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 14
+      name: sobriety_acknowledgment
+      label: I understand the driver cannot deliver to intoxicated persons
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 15
+      name: payment_method_order
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card (Online)
+      - Card on Delivery
+      - Cash on Delivery
+      required: true
+    - id: 16
+      name: order_comments
+      label: Delivery Instructions (Gate code, etc.)
+      hint: null
+      type: text
+      options: []
+      required: false

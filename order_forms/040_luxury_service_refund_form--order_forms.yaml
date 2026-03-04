@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Service Refund Form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service 1''}'
+      - '{''id'': 2, ''label'': ''Service 2''}'
+      - '{''id'': 3, ''label'': ''Service 3''}'
+      required: true
+    - id: 3
+      name: reason_for_refund
+      label: reason_for_refund
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_kfj
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false

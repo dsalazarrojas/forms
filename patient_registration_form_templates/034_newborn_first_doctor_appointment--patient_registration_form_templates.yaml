@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newborn First Doctor Appointment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: head_circumference
+      label: Head Circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: body_length
+      label: Body Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: physical_exam_results
+      label: Physical Exam Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: motor_function
+      label: Motor Function
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Normal''}'
+      - '{''value'': ''Abnormal''}'
+      required: false
+    - id: 10
+      name: reflexes
+      label: Reflexes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Normal''}'
+      - '{''value'': ''Abnormal''}'
+      - '{''value'': ''Not tested''}'
+      required: false
+    - id: 11
+      name: other_conditions
+      label: Other conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: blood_work
+      label: Blood work
+      hint: null
+      type: text
+      options: []
+      required: false

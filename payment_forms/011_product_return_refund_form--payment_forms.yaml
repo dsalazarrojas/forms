@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Return Refund Form
+    pages:
+    - id: 1
+      name: return_request
+      label: Submit return request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_return
+      label: Reason for return
+      hint: null
+      type: select_one
+      options:
+      - Defective product
+      - Incorrect product
+      - Not as described
+      - Other
+      required: false
+    - id: 3
+      name: customer_message
+      label: Customer message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_details
+      label: Product details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: received_date
+      label: Received date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipping_method
+      label: Shipping method
+      hint: null
+      type: select_multiple
+      options:
+      - Standard shipping
+      - Express shipping
+      - Other
+      required: false
+    - id: 9
+      name: shipping_tracking_number
+      label: Shipping tracking number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: amount_refunded
+      label: Amount refunded
+      hint: null
+      type: number
+      options: []
+      required: false

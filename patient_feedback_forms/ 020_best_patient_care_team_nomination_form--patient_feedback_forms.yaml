@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Patient Care Team Nomination Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Enter a valid email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Include country code if outside local region
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reference_date
+      label: Date
+      hint: Select the relevant date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: primary_selection
+      label: Primary selection
+      hint: Choose the option that best applies
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: quantity_or_rating
+      label: Quantity or rating
+      hint: Provide a whole number for quantity or rating
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_details
+      label: Additional details
+      hint: Provide any additional relevant information
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement
+      label: Please confirm agreement
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - I agree
+      - I need follow up
+      - Not applicable
+      required: true
+    - id: 10
+      name: estimated_value
+      label: Estimated value
+      hint: Use decimal format when applicable
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: preferred_time
+      label: Preferred time
+      hint: Enter a time if scheduling is required
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: final_comments
+      label: Final comments or notes
+      hint: Optional closing remarks
+      type: text
+      options: []
+      required: false

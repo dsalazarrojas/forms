@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Grooming Subscription Form
+    pages:
+    - id: 1
+      name: pet_info
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment
+      label: Appointment
+      hint: Select a time to schedule an appointment
+      type: select_multiple
+      options:
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      required: false
+    - id: 4
+      name: subscription
+      label: Subscription
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Weekly
+      - Bi-Weekly
+      required: false
+    - id: 5
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Bathing
+      - Nail Trimming
+      - Haircut
+      required: false
+    - id: 6
+      name: package_selection
+      label: Package Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Full Grooming
+      - Partial Grooming
+      - Quick Touch-up
+      required: false
+    - id: 7
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 10
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: package_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a month
+      - Twice a month
+      - Three times a month
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Revision Form
+    pages:
+    - id: 1
+      name: revision_date
+      label: Revisions Date
+      hint: Revision date of the order
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: Reason For Revising
+      hint: Reason for revising
+      type: select_one
+      options:
+      - Cancellation
+      - Revision Request
+      - Other
+      required: false
+    - id: 3
+      name: reason_other
+      label: Other
+      hint: If other, please specify
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_comment
+      label: Customer Comment
+      hint: Customer comment about this order revision
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_info
+      label: Product Info
+      hint: Product info for this order
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_cancelled
+      label: Cancelled Order
+      hint: Is order cancelled
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 7
+      name: cancelled_reason
+      label: Cancel Reason
+      hint: If order cancelled, reason for cancellation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_info
+      label: Customer Info
+      hint: Customer name, phone and email
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: Customer email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: Customer name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: Customer phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_number
+      label: Order Number
+      hint: Order number on the website
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: store_name
+      label: Store Name
+      hint: Store name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: store_email
+      label: Store Email
+      hint: Store email
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: store_phone
+      label: Store Phone
+      hint: Store phone number
+      type: text
+      options: []
+      required: false

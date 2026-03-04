@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Lei Order Form
+    pages:
+    - id: 1
+      name: graduation_lei_order_form
+      label: Graduation Lei Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pickup_delivery
+      label: pickup_delivery
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Invoice
+      required: false
+    - id: 6
+      name: pickup_date
+      label: pickup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_name
+      label: delivery_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_lei_size
+      label: graduation_lei_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 10
+      name: lei_color
+      label: lei_color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 11
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: school_address
+      label: school_address
+      hint: null
+      type: text
+      options: []
+      required: false

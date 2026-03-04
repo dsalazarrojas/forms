@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Processing Authorization Consent Form
+    pages:
+    - id: 1
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: Enter client details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: Enter payment terms
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: invoice_date
+      label: Invoice Date
+      hint: Select invoice date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_due_date
+      label: Payment Due Date
+      hint: Select payment due date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: authorized_by
+      label: Authorized By
+      hint: Enter authorized by
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Online Payment Form
+    pages:
+    - id: 1
+      name: policy_payment_header
+      label: -- Policy and Payment Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_name
+      label: Policyholder Name
+      hint: Full name on the policy
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: Enter your insurance policy ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: For payment receipt
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_selection_header
+      label: -- Payment Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_item
+      label: Payment Item
+      hint: What is this payment for?
+      type: select_one
+      options:
+      - Monthly Premium
+      - Policy Renewal
+      - Late Fee
+      - Reinstatement Fee
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: Select your preferred method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - ACH Transfer
+      required: true
+    - id: 10
+      name: card_details_header
+      label: -- Card Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: name_on_card
+      label: Name on Card
+      hint: As it appears on the card
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: card_number_last_4
+      label: Card Number (Last 4 Digits)
+      hint: Only enter the last 4 for security
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: billing_zip
+      label: Billing Zip Code
+      hint: Zip code for the card billing address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorization_header
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: authorize_payment
+      label: Authorize Payment
+      hint: I authorize the insurance agency to process this payment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: send_receipt
+      label: Send Receipt via Email
+      hint: Would you like a copy of this receipt?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

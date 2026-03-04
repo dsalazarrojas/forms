@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Primitive Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_payment
+      label: customer payment
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - PayPal
+      - American Express
+      - Discover
+      required: false
+    - id: 7
+      name: total_cost
+      label: total cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_message
+      label: customer message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 11
+      name: customer_city
+      label: customer city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_state
+      label: customer state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_postal_code
+      label: customer post code
+      hint: null
+      type: text
+      options: []
+      required: false

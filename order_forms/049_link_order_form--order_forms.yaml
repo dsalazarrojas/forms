@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: link_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select Customer'', ''value'': ''Customer 1''}'
+      - '{''id'': 2, ''label'': ''Select Another Customer'', ''value'': ''Customer
+        2''}'
+      required: false
+    - id: 3
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''id'': 2, ''label'': ''Complete'', ''value'': ''complete''}'
+      required: false
+    - id: 5
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash'', ''value'': ''cash''}'
+      - '{''id'': 2, ''label'': ''Card'', ''value'': ''card''}'
+      - '{''id'': 3, ''label'': ''Online Payment'', ''value'': ''online_payment''}'
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_id
+      label: Order ID
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select Order'', ''value'': ''select_order''}'
+      - Other
+      required: false
+    - id: 14
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_company
+      label: Customer Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_status_2
+      label: Order Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: order_status_3
+      label: Order Status 3
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: customer_order_status
+      label: Customer Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: order_total_2
+      label: Order Total 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: order_notes_2
+      label: Order Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

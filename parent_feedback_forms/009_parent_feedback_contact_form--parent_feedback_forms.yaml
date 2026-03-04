@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Parent Feedback Contact Form
+    pages:
+    - id: 1
+      name: parent_feedback_contact_form
+      label: parent_feedback_contact_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''positive'', ''label'': ''Positive''}'
+      - '{''id'': 2, ''name'': ''negative'', ''label'': ''Negative''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''label'': ''Neutral''}'
+      required: false
+    - id: 5
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Pacific Time (UTC-8)'', ''label'': ''Pacific Time
+        (UTC-8)''}'
+      - '{''id'': 2, ''name'': ''Central Time (UTC-6)'', ''label'': ''Central Time
+        (UTC-6)''}'
+      - '{''id'': 3, ''name'': ''Eastern Time (UTC-5)'', ''label'': ''Eastern Time
+        (UTC-5)''}'
+      - '{''id'': 4, ''name'': None}'
+      - '{''id'': 5, ''name'': None}'
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: parent_feedback
+      label: parent_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Highly Satisfied'', ''label'': ''Highly Satisfied''}'
+      - '{''id'': 2, ''name'': ''Somewhat Satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''name'': ''Dissatisfied'', ''label'': ''Dissatisfied''}'
+      - '{''id'': 4, ''name'': None}'
+      - '{''id'': 5, ''name'': None}'
+      required: false
+    - id: 11
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: note
+      options: []
+      required: false

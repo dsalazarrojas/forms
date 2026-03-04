@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_health_history_form
+    pages:
+    - id: 1
+      name: dental_health_history_form_page_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: dental_procedure
+      label: dental_procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history_date
+      label: medical_history_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_time
+      label: medical_history_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reusable Carton Program Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_options
+      label: Payment Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: carton_size
+      label: Carton Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: carton_type
+      label: Carton Type
+      hint: null
+      type: select_one
+      options:
+      - Carton A
+      - Carton B
+      - Carton C
+      required: false
+    - id: 8
+      name: carton_color
+      label: Carton Color
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Blue
+      required: false
+    - id: 9
+      name: carton_print_type
+      label: Carton Print Type
+      hint: null
+      type: select_multiple
+      options:
+      - Front and Back
+      - Front Only
+      - Back Only
+      required: false
+    - id: 10
+      name: custom_print
+      label: Custom Print
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: carton_quantity_type
+      label: Carton Quantity Type
+      hint: null
+      type: select_one
+      options:
+      - Per Unit
+      - Per Box
+      - Per Carton
+      required: false
+    - id: 13
+      name: carton_size_unit
+      label: Carton Size Unit
+      hint: null
+      type: select_one
+      options:
+      - inches
+      - centimeters
+      - feet
+      required: false
+    - id: 14
+      name: carton_width
+      label: Carton Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: carton_height
+      label: Carton Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: carton_depth
+      label: Carton Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: carton_length
+      label: Carton Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: carton_weight
+      label: Carton Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: carton_note
+      label: Carton Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: order_by
+      label: Order By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: carton_print_color
+      label: Carton Print Color
+      hint: null
+      type: select_one
+      options:
+      - None
+      - White
+      - Black
+      - Blue
+      required: false
+    - id: 25
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false

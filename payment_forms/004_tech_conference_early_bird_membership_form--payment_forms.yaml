@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_conference_early_bird_membership_form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_method_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method_other_details
+      label: Other Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: early_bird_discount
+      label: Early Bird Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: early_bird_discount_value
+      label: Early Bird Discount Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: early_bird_discount_type
+      label: Early Bird Discount Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: early_bird_discount_type_other
+      label: Other Early Bird Discount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: early_bird_discount_other_details
+      label: Other Early Bird Discount Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Engagement Survey
+    pages:
+    - id: 1
+      name: patient_engagement_survey_page
+      label: Patient Engagement Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_with_services
+      label: Satisfaction with Services
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: experience_with_care
+      label: Experience with Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_satisfaction
+      label: Patient Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

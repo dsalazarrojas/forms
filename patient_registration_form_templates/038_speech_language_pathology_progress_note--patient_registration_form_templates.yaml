@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech/Language Pathology Progress Note
+    pages:
+    - id: 1
+      name: speech_language_pathology_progress_note
+      label: Therapy Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: diagnosis
+      label: Diagnoses
+      hint: null
+      type: select_multiple
+      options:
+      - Idiopathic stuttering
+      - Fluency disorder
+      - Language disorder
+      - Phonological disorder
+      - Stammering
+      - Apraxia
+      - Cladication of speech
+      - Other (please specify)
+      - None
+      required: false
+    - id: 4
+      name: therapy_goals
+      label: Therapy Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: therapy_frequency
+      label: Therapy Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: next_session
+      label: Next Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assessment_notes
+      label: Assessment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: treatment_notes
+      label: Treatment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: speech_level
+      label: Speech Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: language_level
+      label: Language Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: fluency_level
+      label: Fluency Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: rate_level
+      label: Rate Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: voice_quality
+      label: Voice Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - None
+      required: false
+    - id: 18
+      name: speech_articulation
+      label: Speech Articulation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: prosody
+      label: Prosody
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: fluency
+      label: Fluency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: language_production
+      label: Language Production
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: speech_clarity
+      label: Speech Clarity
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Fair
+      - Poor
+      - None
+      required: false
+    - id: 23
+      name: voice_clarity
+      label: Voice Clarity
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Fair
+      - Poor
+      - None
+      required: false
+    - id: 24
+      name: prosody_clarity
+      label: Prosody Clarity
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Fair
+      - Poor
+      - None
+      required: false
+    - id: 25
+      name: speech_intensity
+      label: Speech Intensity
+      hint: null
+      type: number
+      options: []
+      required: false

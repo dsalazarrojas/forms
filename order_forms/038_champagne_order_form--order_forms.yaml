@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Champagne Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of order placement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name of customer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: If different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: champagne_selection
+      label: Champagne Selection
+      hint: Select champagne type
+      type: select_one
+      options:
+      - Brut Nature
+      - Extra Brut
+      - Brut
+      - Extra Dry
+      - Dry Sec
+      - Demi-Sec
+      - Doux
+      - Rose Champagne
+      - Vintage Champagne
+      - Prestige Cuvee
+      required: true
+    - id: 9
+      name: brand_preference
+      label: Brand Preference
+      hint: Preferred champagne brand
+      type: select_one
+      options:
+      - Moet and Chandon
+      - Veuve Clicquot
+      - Dom Perignon
+      - Krug
+      - Louis Roederer Cristal
+      - Perrier-Jouet
+      - Taittinger
+      - Laurent-Perrier
+      - Bollinger
+      - No preference
+      - Other
+      required: true
+    - id: 10
+      name: bottle_size
+      label: Bottle Size
+      hint: Size of bottles
+      type: select_one
+      options:
+      - Half bottle (375ml)
+      - Standard bottle (750ml)
+      - Magnum (1.5L)
+      - Jeroboam (3L)
+      - Rehoboam (4.5L)
+      - Methuselah (6L)
+      - Salmanazar (9L)
+      - Balthazar (12L)
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: Number of bottles
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: occasion
+      label: Occasion
+      hint: What is the occasion
+      type: select_one
+      options:
+      - Wedding
+      - Anniversary
+      - Birthday
+      - Corporate event
+      - Holiday celebration
+      - Graduation
+      - Business achievement
+      - Gift
+      - Personal enjoyment
+      - Other
+      required: true
+    - id: 13
+      name: gift_wrapping
+      label: Gift Wrapping
+      hint: Would you like gift wrapping
+      type: select_one
+      options:
+      - Yes - Gift box
+      - Yes - Gift basket
+      - No - Standard packaging
+      required: true
+    - id: 14
+      name: gift_message
+      label: Gift Message
+      hint: Message to include with gift
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_date_needed
+      label: Delivery Date Needed
+      hint: When do you need delivery
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: delivery_time_preference
+      label: Delivery Time Preference
+      hint: Preferred delivery time
+      type: select_one
+      options:
+      - Morning (8 AM-12 PM)
+      - Afternoon (12 PM-5 PM)
+      - Evening (5 PM-8 PM)
+      - No preference
+      required: false
+    - id: 17
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 21 years or older
+      type: select_one
+      options:
+      - Yes - I am 21 or older
+      - No - I am under 21
+      required: true
+    - id: 18
+      name: signature_required
+      label: Signature Required
+      hint: Is adult signature required
+      type: select_one
+      options:
+      - Yes - Signature required
+      - No - Leave at door
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Invoice (business accounts)
+      required: true
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_signature
+      label: Customer Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

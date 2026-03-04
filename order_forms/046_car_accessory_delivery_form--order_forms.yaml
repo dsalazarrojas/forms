@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Accessory Delivery Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Car Accessory Order and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Order car accessories for delivery. Provide your vehicle and delivery
+        details below.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year manufactured
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Brand name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Color
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: license_plate
+      label: License Plate Number
+      hint: Vehicle plate
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accessories_header
+      label: -- Accessories Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accessory_types
+      label: Accessory Types Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Exterior trim
+      - Interior trim
+      - Floor mats
+      - Seat covers
+      - Steering wheel cover
+      - Sun shades
+      - Lighting upgrades
+      - Door handles
+      - Chrome accessories
+      - Custom graphics
+      - Bumper guards
+      - Other
+      required: true
+    - id: 16
+      name: exterior_accessories
+      label: Specific Exterior Accessories
+      hint: List items
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: interior_accessories
+      label: Specific Interior Accessories
+      hint: List items
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: custom_specifications
+      label: Custom Specifications or Colors
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: installation_header
+      label: -- Installation Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: installation_needed
+      label: Do you need installation service?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, professional installation
+      - Yes, basic installation only
+      - No, self-installation
+      - Unsure
+      required: true
+    - id: 21
+      name: installation_location
+      label: Installation Location
+      hint: Select one
+      type: select_one
+      options:
+      - Our facility
+      - Your location
+      - Customer choice
+      required: false
+    - id: 22
+      name: delivery_info_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to deliver
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When to deliver
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: delivery_window
+      label: Preferred Delivery Time Window
+      hint: Select one
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      - Flexible
+      required: true
+    - id: 29
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: payment_info_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: payment_method
+      label: Preferred Payment Method
+      hint: Select one
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check
+      - Cash on delivery
+      required: true
+    - id: 32
+      name: order_confirmation
+      label: I confirm this order and agree to the terms
+      hint: Required
+      type: select_one
+      options:
+      - Yes, confirm order
+      - 'No'
+      required: true

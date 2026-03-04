@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Payment Record Consent Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: authorization
+      label: Authorization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_transaction
+      label: Date of Transaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_transaction
+      label: Time of Transaction
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: digital_payment_record_consent
+      label: Digital Payment Record Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

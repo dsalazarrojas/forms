@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screen Printing Request Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: design_type
+      label: Design Type
+      hint: null
+      type: select_one
+      options:
+      - T-shirt
+      - Hoodie
+      - Hat
+      - Other
+      required: false
+    - id: 5
+      name: artwork_type
+      label: Artwork Type
+      hint: null
+      type: select_multiple
+      options:
+      - vector
+      - raster
+      - hand-drawn
+      - digital
+      required: false
+    - id: 6
+      name: artwork_details
+      label: Artwork Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: production_method
+      label: Production Method
+      hint: null
+      type: select_one
+      options:
+      - Screen Printing
+      - Direct-to-Dye
+      - Emboss
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 11
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: false

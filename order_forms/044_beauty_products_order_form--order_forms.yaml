@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Products Order Form
+    pages:
+    - id: 1
+      name: customer_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: returning_customer
+      label: Are You a Returning Customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: customer_id
+      label: Customer ID (if Returning)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_header
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: billing_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: billing_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_header
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: same_as_billing
+      label: Same as Billing Address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: shipping_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: products_header
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: skincare_products
+      label: Skincare Products
+      hint: Enter product names and quantities
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: makeup_products
+      label: Makeup Products
+      hint: Enter product names and quantities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: haircare_products
+      label: Haircare Products
+      hint: Enter product names and quantities
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_products
+      label: Other Products
+      hint: Enter product names and quantities
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_header
+      label: -- Shipping Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard - 5-7 business days
+      - Express - 2-3 business days
+      - Overnight
+      - Local Pickup
+      required: true
+    - id: 25
+      name: payment_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 27
+      name: gift_message
+      label: Add Gift Message
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: gift_message_text
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: promo_code
+      label: Promo or Discount Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms
+      label: I Agree to Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

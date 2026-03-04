@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Transfer Authorization Form
+    pages:
+    - id: 1
+      name: account_holder_name
+      label: Account Holder Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_holder_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: account_holder_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_holder_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: source_account_number
+      label: Source Account Number
+      hint: Account to transfer from
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: source_account_type
+      label: Source Account Type
+      hint: Type of source account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Money Market
+      - Investment
+      - Business Checking
+      - Business Savings
+      required: true
+    - id: 7
+      name: transfer_type
+      label: Transfer Type
+      hint: Type of transfer
+      type: select_one
+      options:
+      - One-Time Transfer
+      - Recurring Transfer
+      - Wire Transfer
+      - ACH Transfer
+      - International Transfer
+      required: true
+    - id: 8
+      name: transfer_amount
+      label: Transfer Amount
+      hint: Amount to transfer
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: currency
+      label: Currency
+      hint: Transfer currency
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - JPY
+      - Other
+      required: true
+    - id: 10
+      name: transfer_date
+      label: Transfer Date
+      hint: When to process
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: recipient_name
+      label: Recipient Full Name
+      hint: Who will receive funds
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recipient_bank_name
+      label: Recipient Bank Name
+      hint: Destination bank
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: recipient_account_number
+      label: Recipient Account Number
+      hint: Destination account
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: recipient_routing_number
+      label: Recipient Routing Number
+      hint: ABA routing number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recipient_account_type
+      label: Recipient Account Type
+      hint: Type of recipient account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Business
+      - Other
+      required: true
+    - id: 16
+      name: recipient_address
+      label: Recipient Address
+      hint: Recipient location
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transfer_purpose
+      label: Transfer Purpose
+      hint: Reason for transfer
+      type: select_one
+      options:
+      - Personal Transfer
+      - Bill Payment
+      - Loan Payment
+      - Investment
+      - Gift
+      - Business Payment
+      - Other
+      required: true
+    - id: 18
+      name: recurring_frequency
+      label: Recurring Frequency
+      hint: If recurring, how often
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Not Applicable
+      required: false
+    - id: 19
+      name: recurring_end_date
+      label: Recurring End Date
+      hint: When should recurring stop
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: transfer_fee_acknowledgment
+      label: Transfer Fee Acknowledgment
+      hint: Are you aware of fees
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, please inform
+      required: true
+    - id: 21
+      name: exchange_rate_acknowledgment
+      label: Exchange Rate Acknowledgment
+      hint: For international transfers
+      type: select_one
+      options:
+      - Yes, I understand
+      - Not Applicable
+      required: false
+    - id: 22
+      name: authorization_signature
+      label: Authorization
+      hint: Do you authorize this transfer
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: additional_instructions
+      label: Additional Instructions
+      hint: Any special notes
+      type: text
+      options: []
+      required: false

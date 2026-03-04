@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: themed_wedding_supply_order_form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: theme
+      label: Theme
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Beach
+      - Rustic
+      - Formal
+      - Rustic Chic
+      - Coastal
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding
+      - Birthday Party
+      - Bridal Shower
+      - Baby Shower
+      required: false
+    - id: 6
+      name: guests_attending
+      label: Guests Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Venmo
+      required: false
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_color_scheme
+      label: Event Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Pastel Color
+      - Bright and Airy
+      - Neutral
+      - Dark
+      - Light Pastel
+      required: false
+    - id: 15
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vendor
+      label: Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - In Progress
+      - Complete
+      - Cancelled
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Unpaid
+      - Paid
+      - Partially Paid
+      - Overdue
+      required: false
+    - id: 21
+      name: total_items
+      label: Total Items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: itemized_items
+      label: Itemized Items
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

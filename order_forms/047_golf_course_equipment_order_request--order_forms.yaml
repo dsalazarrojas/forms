@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: golf_course_equipment_order_request
+    pages:
+    - id: 1
+      name: pickup_option
+      label: pickup_option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: delivery_option
+      label: delivery_option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_date
+      label: preferred_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: equipment_quantity
+      label: equipment_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: pro_shop_name
+      label: pro_shop_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pro_shop_contact
+      label: pro_shop_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pro_shop_phone
+      label: pro_shop_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pro_shop_email
+      label: pro_shop_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: equipment_model
+      label: equipment_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_brand
+      label: equipment_brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pro_shop_manager
+      label: pro_shop_manager
+      hint: null
+      type: text
+      options: []
+      required: false

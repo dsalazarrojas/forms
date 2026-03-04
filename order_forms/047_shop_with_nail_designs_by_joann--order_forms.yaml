@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: shop_with_nail_designs_by_joann
+    pages:
+    - id: 1
+      name: shop_with_nail_designs_by_joann_form
+      label: shop_with_nail_designs_by_joann
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: wish_list_form
+      label: wish_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: personal_shopper_form
+      label: personal_shopper
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: assigned_tool_form
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

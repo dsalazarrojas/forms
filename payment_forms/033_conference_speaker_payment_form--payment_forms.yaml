@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Speaker Payment Form
+    pages:
+    - id: 1
+      name: speaker_name
+      label: Speaker Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: title
+      label: Professional Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Mailing Address
+      hint: Full address for payment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: true
+    - id: 11
+      name: session_title
+      label: Session or Presentation Title
+      hint: Name of your talk
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: session_date
+      label: Session Date
+      hint: When you present
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: session_time
+      label: Session Time
+      hint: Your time slot
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: payment_type
+      label: Payment Type
+      hint: Type of compensation
+      type: select_one
+      options:
+      - Honorarium
+      - Speaking Fee
+      - Travel Reimbursement
+      - Per Diem
+      - Combination
+      required: true
+    - id: 15
+      name: payment_amount
+      label: Payment Amount
+      hint: Agreed amount
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: currency
+      label: Currency
+      hint: Payment currency
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - Other
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How to receive payment
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Wire Transfer
+      - PayPal
+      - Venmo
+      required: true
+    - id: 18
+      name: bank_name
+      label: Bank Name
+      hint: For direct deposit
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: account_number
+      label: Account Number
+      hint: Bank account
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: routing_number
+      label: Routing Number
+      hint: Bank routing
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: account_type
+      label: Account Type
+      hint: Checking or savings
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      required: false
+    - id: 22
+      name: tax_id_ssn
+      label: Tax ID or SSN
+      hint: For tax reporting
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: w9_submitted
+      label: W-9 Form Submitted
+      hint: Tax form
+      type: select_one
+      options:
+      - Yes Attached
+      - Will Submit Separately
+      - Not Required
+      required: true
+    - id: 24
+      name: invoice_required
+      label: Invoice Required
+      hint: Do you need to submit invoice
+      type: select_one
+      options:
+      - Yes Will Submit
+      - No Not Required
+      required: true
+    - id: 25
+      name: invoice_number
+      label: Invoice Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: travel_reimbursement
+      label: Travel Reimbursement Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: travel_receipts
+      label: Travel Receipts Submitted
+      hint: Documentation
+      type: select_one
+      options:
+      - Yes All Receipts Attached
+      - Partially
+      - Will Submit Later
+      - Not Applicable
+      required: false
+    - id: 28
+      name: payment_timeline
+      label: Expected Payment Timeline
+      hint: When do you expect payment
+      type: select_one
+      options:
+      - Within 30 Days
+      - Within 60 Days
+      - After Event
+      - As Per Contract
+      required: false
+    - id: 29
+      name: special_instructions
+      label: Special Payment Instructions
+      hint: Any notes
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: payment_confirmation
+      label: I Confirm Payment Details Are Accurate
+      hint: Verify information
+      type: select_one
+      options:
+      - I Confirm
+      - Need to Revise
+      required: true

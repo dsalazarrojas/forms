@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Point Of Sale System Quotation Form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quotation_date
+      label: quotation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: quotation_time
+      label: quotation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: quotation_note
+      label: quotation_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: quotation_total_price
+      label: quotation_total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: quotation_currency_id
+      label: quotation_currency_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''USD''}'
+      - '{''id'': 2, ''name'': ''EUR''}'
+      - '{''id'': 3, ''name'': ''GBP''}'
+      required: false
+    - id: 11
+      name: quotation_discount
+      label: quotation_discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Customer 1''}'
+      - '{''id'': 2, ''name'': ''Customer 2''}'
+      - '{''id'': 3, ''name'': ''Customer 3''}'
+      required: false
+    - id: 13
+      name: quotation_terms
+      label: quotation_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quotation_terms_and_conditions
+      label: quotation_terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quotation_terms_of_service
+      label: quotation_terms_of_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: quotation_payment_terms
+      label: quotation_payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: quotation_tax_id
+      label: quotation_tax_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''VAT 1''}'
+      - '{''id'': 2, ''name'': ''VAT 2''}'
+      - '{''id'': 3, ''name'': ''VAT 3''}'
+      required: false
+    - id: 18
+      name: quotation_payment_method
+      label: quotation_payment_method
+      hint: null
+      type: text
+      options: []
+      required: false

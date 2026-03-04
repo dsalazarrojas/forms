@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ballet Performance Booking Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer full name
+      hint: Enter the name for the booking confirmation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Email used to send tickets and receipts
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional phone for urgent day of event updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_date
+      label: Performance date
+      hint: Select desired performance date
+      type: select_one
+      options:
+      - Saturday matinee
+      - Saturday evening
+      - Sunday matinee
+      - Special gala night
+      required: true
+    - id: 5
+      name: seat_section
+      label: Seat section preference
+      hint: Choose preferred seating area
+      type: select_one
+      options:
+      - Orchestra
+      - Mezzanine
+      - Balcony
+      required: true
+    - id: 6
+      name: ticket_quantity
+      label: Number of tickets
+      hint: Enter how many tickets to reserve
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: accessibility_requirements
+      label: Accessibility requirements
+      hint: Let us know if special seating or assistance is needed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: promo_code
+      label: Promo code
+      hint: Optional discount code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will complete payment
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - PayPal
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special requests or notes
+      hint: Provide any additional instructions for the booking
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agree_terms
+      label: Booking terms agreement
+      hint: Confirm you accept the event booking terms and refund policy
+      type: select_one
+      options:
+      - I accept the terms and refund policy
+      - Other
+      required: true

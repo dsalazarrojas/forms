@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crawfish Preorder Form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: crawfish_order
+      label: crawfish_order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: crawfish_type
+      label: crawfish_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Crawfish'', ''value'': ''crawfish''}'
+      - '{''label'': ''Shrimp'', ''value'': ''shrimp''}'
+      required: false
+    - id: 6
+      name: date_preorder
+      label: date_preorder
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_preorder
+      label: time_preorder
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_accept
+      label: customer_accept
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: vendor_message
+      label: vendor_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vendor_accept
+      label: vendor_accept
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_submission
+      label: form_submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submission_success
+      label: submission_success
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submission_failure
+      label: submission_failure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: crawfish_availability
+      label: crawfish_availability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: crawfish_availability_status
+      label: crawfish_availability_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available'', ''value'': ''available''}'
+      - '{''label'': ''Not Available'', ''value'': ''not_available''}'
+      - '{''label'': ''Out of Stock'', ''value'': ''out_of_stock''}'
+      required: false
+    - id: 18
+      name: crawfish_availability_date
+      label: crawfish_availability_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: crawfish_availability_time
+      label: crawfish_availability_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: crawfish_status
+      label: crawfish_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available'', ''value'': ''available''}'
+      - '{''label'': ''Not Available'', ''value'': ''not_available''}'
+      - '{''label'': ''Out of Stock'', ''value'': ''out_of_stock''}'
+      required: false
+    - id: 21
+      name: crawfish_notes
+      label: crawfish_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: crawfish_availability_message
+      label: crawfish_availability_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: crawfish_availability_message_status
+      label: crawfish_availability_message_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Available'', ''value'': ''available''}'
+      - '{''label'': ''Not Available'', ''value'': ''not_available''}'
+      - '{''label'': ''No Response'', ''value'': ''no_response''}'
+      required: false
+    - id: 25
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''label'': ''Rejected'', ''value'': ''rejected''}'
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      required: false

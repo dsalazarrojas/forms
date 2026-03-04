@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stall Rental Agreement Form
+    pages:
+    - id: 1
+      name: rental_terms
+      label: rental_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_info
+      label: vendor_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: terms_accepted
+      label: terms_accepted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vendor_signature
+      label: vendor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_signature
+      label: event_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement_signed
+      label: agreement_signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

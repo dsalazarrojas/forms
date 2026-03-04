@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treat Package Order Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Treat Bundle Order
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: schedule_delivery
+      label: Delivery Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: customer_details
+      label: Customer Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: Enter order details
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: Enter customer phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: Enter order date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: delivery_date
+      label: Delivery Date
+      hint: Enter delivery date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: delivery_time
+      label: Delivery Time
+      hint: Enter delivery time
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: order_notes
+      label: Order Notes
+      hint: Enter order notes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: package_size
+      label: Package Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

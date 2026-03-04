@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Service Subscription Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will send subscription updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_address
+      label: Service Address
+      hint: Full address for beverage service
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City for service
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State for service
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: ZIP Code
+      hint: Postal code for service
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: subscription_type
+      label: Subscription Type
+      hint: Choose your subscription plan
+      type: select_one
+      options:
+      - Weekly Service
+      - Bi-Weekly Service
+      - Monthly Service
+      - Quarterly Service
+      - On-Demand Service
+      required: true
+    - id: 10
+      name: service_package
+      label: Service Package
+      hint: Select your preferred service package
+      type: select_one
+      options:
+      - Basic Service
+      - Standard Service
+      - Premium Service
+      - Enterprise Service
+      - Custom Package
+      required: true
+    - id: 11
+      name: beverage_selection
+      label: Beverage Selection
+      hint: What beverages would you like included
+      type: select_multiple
+      options:
+      - Coffee
+      - Tea
+      - Soft Drinks
+      - Juice
+      - Water
+      - Energy Drinks
+      - Sports Drinks
+      - Milk
+      - Plant-Based Milk
+      - Other
+      required: true
+    - id: 12
+      name: equipment_needed
+      label: Equipment Needed
+      hint: What equipment do you need
+      type: select_multiple
+      options:
+      - Coffee Machine
+      - Water Cooler
+      - Refrigerator
+      - Dispenser
+      - Ice Machine
+      - No Equipment Needed
+      required: true
+    - id: 13
+      name: serving_size
+      label: Number of People Served
+      hint: How many people will be served
+      type: select_one
+      options:
+      - 1 to 10 people
+      - 11 to 25 people
+      - 26 to 50 people
+      - 51 to 100 people
+      - Over 100 people
+      required: true
+    - id: 14
+      name: start_date
+      label: Service Start Date
+      hint: When should service begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: service_time
+      label: Preferred Service Time
+      hint: What time works best for delivery
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Invoice
+      - PayPal
+      required: true
+    - id: 17
+      name: billing_frequency
+      label: Billing Frequency
+      hint: How often would you like to be billed
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements for your service
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary requirements we should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_accepted
+      label: I Accept the Terms and Conditions
+      hint: Do you agree to the subscription terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your subscription
+      type: text
+      options: []
+      required: false

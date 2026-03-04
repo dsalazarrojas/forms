@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Services Inquiry Form
+    pages:
+    - id: 1
+      name: inquirer_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of inquiry
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Conference
+      - Private Party
+      - Holiday Party
+      - Fundraiser
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: guest_count
+      label: Estimated Guest Count
+      hint: Number of guests
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: venue_name
+      label: Venue Name
+      hint: Where is the event
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: venue_address
+      label: Venue Address
+      hint: Complete address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 to $3000
+      - $3000 to $5000
+      - $5000 to $10000
+      - $10000 to $20000
+      - Over $20000
+      required: false
+    - id: 13
+      name: service_interest
+      label: Services Interested In
+      hint: What do you need
+      type: select_multiple
+      options:
+      - Full Service Catering
+      - Drop-off Catering
+      - Buffet Service
+      - Plated Service
+      - Cocktail Reception
+      - Food Stations
+      - Beverage Service
+      - Equipment Rental
+      - Staff Only
+      required: true
+    - id: 14
+      name: cuisine_preferences
+      label: Cuisine Preferences
+      hint: What type of food
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any restrictions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Wedding Show
+      - Previous Customer
+      - Other
+      required: false
+    - id: 17
+      name: timeline
+      label: Decision Timeline
+      hint: When will you decide
+      type: select_one
+      options:
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - Still Exploring
+      required: false
+    - id: 18
+      name: other_caterers
+      label: Considering Other Caterers
+      hint: Are you comparing
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 19
+      name: tasting_requested
+      label: Interested in Tasting
+      hint: Do you want a tasting
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: questions
+      label: Your Questions
+      hint: What would you like to know
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When to reach you
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

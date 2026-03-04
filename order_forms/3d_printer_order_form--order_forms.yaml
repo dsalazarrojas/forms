@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Printer Order Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: '--- Customer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: For delivery coordination
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company or organization (optional)
+      hint: If ordering for business use
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_details_header
+      label: '--- Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: printer_model
+      label: 3D printer model
+      hint: Select from available models
+      type: select_one
+      options:
+      - FDM Basic
+      - FDM Advanced
+      - Resin Standard
+      - Resin Professional
+      - Industrial Grade
+      - Educational Kit
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: Number of units required
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: unit_price
+      label: Unit price (USD)
+      hint: Price per printer
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: filament_type
+      label: Preferred filament type (if applicable)
+      hint: Select compatible filament
+      type: select_one
+      options:
+      - PLA
+      - ABS
+      - PETG
+      - TPU
+      - Nylon
+      - None needed
+      required: false
+    - id: 11
+      name: filament_quantity
+      label: Filament quantity (kg)
+      hint: Amount of filament needed
+      type: decimal
+      options: []
+      required: false
+    - id: 12
+      name: accessories_required
+      label: Additional accessories (select all that apply)
+      hint: Choose any extras needed
+      type: select_multiple
+      options:
+      - Spool holder
+      - Calibration kit
+      - Extra nozzles
+      - Build surface
+      - Enclosure
+      - Air filtration
+      - Slicer software license
+      required: false
+    - id: 13
+      name: shipping_info_header
+      label: '--- Shipping Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Choose your preferred shipping option
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup from warehouse
+      - Local delivery
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery address
+      hint: Full address for shipping
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_date
+      label: Requested delivery date
+      hint: We'll try to meet this date
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special delivery instructions
+      hint: Access codes, delivery notes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_info_header
+      label: '--- Payment Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment method
+      hint: How will you pay for this order?
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Purchase order
+      - PayPal
+      - Company account
+      required: true
+    - id: 20
+      name: tax_exempt
+      label: Tax exemption status
+      hint: Check if applicable
+      type: select_one
+      options:
+      - Not exempt
+      - Educational institution
+      - Non-profit organization
+      - Government entity
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information about your order
+      type: text
+      options: []
+      required: false

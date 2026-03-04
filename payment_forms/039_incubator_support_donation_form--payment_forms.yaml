@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: incubator_support_donation_form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: recurring_payment
+      label: Recurring Payment?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''id'': 2.2, ''name'': ''one_time'', ''label'': ''One-time''}'
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3.1, ''name'': ''weekly'', ''label'': ''Weekly''}'
+      - '{''id'': 3.2, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''id'': 3.3, ''name'': ''quarterly'', ''label'': ''Quarterly''}'
+      - '{''id'': 3.4, ''name'': ''annually'', ''label'': ''Annually''}'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_note
+      label: Donation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

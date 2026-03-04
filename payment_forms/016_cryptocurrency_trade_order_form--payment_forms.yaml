@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: cryptocurrency_trade_order_form
+    pages:
+    - id: 1
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trade_details
+      label: trade_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_preferences
+      label: order_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: clear_instructions
+      label: clear_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_order
+      label: confirm_order
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''confirm''}'
+      - '{''value'': ''decline''}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructions
+      label: instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: confirm_phone
+      label: confirm_phone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 11
+      name: confirm_phone_number
+      label: confirm_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_email_number
+      label: confirm_email_number
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''completed''}'
+      - '{''value'': ''cancelled''}'
+      required: false

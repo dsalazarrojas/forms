@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Lunch Preorder Form
+    pages:
+    - id: 1
+      name: school_information
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_data
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian
+      label: Parent or Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: food_menu
+      label: Food Menu
+      hint: null
+      type: select_multiple
+      options:
+      - Chicken
+      - Beef
+      - Pork
+      - Fish
+      - Vegetarian Option
+      - Vegan Option
+      required: false
+    - id: 5
+      name: food_quantity
+      label: Food Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: food_price
+      label: Food Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: gift_registry
+      label: Gift Registry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true

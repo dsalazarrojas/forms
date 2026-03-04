@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Supplies Requisition Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Kitchen
+      - Front of House
+      - Bar
+      - Events
+      - Storage
+      - Other
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: For which event
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: How urgent
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 10
+      name: supply_category
+      label: Supply Category
+      hint: Type of supplies
+      type: select_one
+      options:
+      - Food Items
+      - Beverages
+      - Disposables
+      - Cleaning Supplies
+      - Kitchen Equipment
+      - Serving Supplies
+      - Other
+      required: true
+    - id: 11
+      name: item_1_name
+      label: Item 1 Name
+      hint: First item
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_1_description
+      label: Item 1 Description
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: item_1_unit
+      label: Item 1 Unit
+      hint: Unit of measure
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: item_2_name
+      label: Item 2 Name
+      hint: Second item
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_2_description
+      label: Item 2 Description
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_2_unit
+      label: Item 2 Unit
+      hint: Unit of measure
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: item_3_name
+      label: Item 3 Name
+      hint: Third item
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item_3_description
+      label: Item 3 Description
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: item_3_unit
+      label: Item 3 Unit
+      hint: Unit of measure
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: item_4_name
+      label: Item 4 Name
+      hint: Fourth item
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: item_4_description
+      label: Item 4 Description
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: item_4_quantity
+      label: Item 4 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: item_4_unit
+      label: Item 4 Unit
+      hint: Unit of measure
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: item_5_name
+      label: Item 5 Name
+      hint: Fifth item
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: item_5_description
+      label: Item 5 Description
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: item_5_quantity
+      label: Item 5 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: item_5_unit
+      label: Item 5 Unit
+      hint: Unit of measure
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: estimated_cost
+      label: Estimated Cost
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: budget_code
+      label: Budget Code
+      hint: Cost center
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: delivery_location
+      label: Delivery Location
+      hint: Where to deliver
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: manager_approval
+      label: Manager Approval
+      hint: Has manager approved
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 36
+      name: manager_name
+      label: Manager Name
+      hint: Approving manager
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

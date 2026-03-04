@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: multiple_product_order_form
+    pages:
+    - id: 1
+      name: product_1
+      label: product_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_2
+      label: product_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shipping
+      label: shipping
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false

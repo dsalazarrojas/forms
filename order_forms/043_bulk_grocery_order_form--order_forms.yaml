@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bulk Grocery Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: When placing this order
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business or Organization Name
+      hint: If ordering for business
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to ship
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_city
+      label: City
+      hint: Delivery city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_zip
+      label: Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: produce_items
+      label: Produce Items Ordered
+      hint: Vegetables and fruits
+      type: select_multiple
+      options:
+      - Apples
+      - Bananas
+      - Oranges
+      - Lettuce
+      - Tomatoes
+      - Carrots
+      - Potatoes
+      - Onions
+      - Other
+      required: false
+    - id: 11
+      name: dairy_items
+      label: Dairy Products Ordered
+      hint: Milk, cheese, yogurt, etc
+      type: select_multiple
+      options:
+      - Milk - 1 Gallon
+      - Milk - 2 Gallon
+      - Cheese - Cheddar
+      - Cheese - Mozzarella
+      - Yogurt
+      - Butter
+      - Eggs - Dozen
+      - Other
+      required: false
+    - id: 12
+      name: meat_items
+      label: Meat and Protein Items
+      hint: Chicken, beef, etc
+      type: select_multiple
+      options:
+      - Chicken Breast
+      - Ground Beef
+      - Pork Chops
+      - Ground Turkey
+      - Fish Fillets
+      - Bacon
+      - Sausage
+      - Other
+      required: false
+    - id: 13
+      name: frozen_items
+      label: Frozen Items Ordered
+      hint: Frozen vegetables, foods
+      type: select_multiple
+      options:
+      - Frozen Vegetables
+      - Frozen Fruits
+      - Frozen Pizzas
+      - Frozen Meals
+      - Ice Cream
+      - Other
+      required: false
+    - id: 14
+      name: pantry_items
+      label: Pantry and Dry Goods
+      hint: Canned goods, grains
+      type: select_multiple
+      options:
+      - Canned Vegetables
+      - Canned Fruits
+      - Rice
+      - Pasta
+      - Flour
+      - Sugar
+      - Oil
+      - Beans
+      - Other
+      required: false
+    - id: 15
+      name: beverage_items
+      label: Beverages Ordered
+      hint: Milk, juice, soda
+      type: select_multiple
+      options:
+      - Orange Juice
+      - Apple Juice
+      - Water - Gallon
+      - Soda - 12 pack
+      - Coffee
+      - Tea
+      - Sports Drinks
+      - Other
+      required: false
+    - id: 16
+      name: bakery_items
+      label: Bakery Items
+      hint: Bread, pastries, etc
+      type: select_multiple
+      options:
+      - Bread - White
+      - Bread - Wheat
+      - Bagels
+      - Croissants
+      - Muffins
+      - Donuts
+      - Cake
+      - Other
+      required: false
+    - id: 17
+      name: order_notes
+      label: Special Orders or Preferences
+      hint: Quantity, brand preferences, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: delivery_window
+      label: Preferred Delivery Time Window
+      hint: Morning, afternoon, evening
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-9pm
+      - Flexible
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Wire Transfer
+      - Check
+      - Cash on Delivery
+      required: true
+    - id: 21
+      name: estimated_total
+      label: Estimated Order Total
+      hint: Approximate cost
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Organic, gluten-free, etc
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special Instructions
+      hint: Delivery notes, preferences
+      type: text
+      options: []
+      required: false

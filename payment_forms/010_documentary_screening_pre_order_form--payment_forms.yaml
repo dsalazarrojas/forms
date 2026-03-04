@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Screening Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: ticket_quantity
+      label: ticket quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: screening_time
+      label: screening time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: ticket_price
+      label: ticket price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_cost
+      label: total cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - PayPal
+      required: true
+    - id: 10
+      name: payment_info
+      label: payment info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_time
+      label: payment time
+      hint: null
+      type: time
+      options: []
+      required: false

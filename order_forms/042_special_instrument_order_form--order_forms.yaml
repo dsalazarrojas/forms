@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Instrument Order Form
+    pages:
+    - id: 1
+      name: special_instrument_order_form_1
+      label: custom_instruments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_details
+      label: customer_details
+      hint: Please fill in your contact information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: special_instrument_order_form_file_uploads_1
+      label: custom_instrument_order_file_upload_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_instrument_order_form_file_uploads_2
+      label: custom_instrument_order_file_upload_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instrument_order_form_9
+      label: custom_instrument_order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: special_instrument_order_form_10
+      label: custom_instrument_order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_instrument_order_form_11
+      label: custom_instrument_order_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: special_instrument_order_form_12
+      label: custom_instrument_order_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_instrument_order_form_13
+      label: custom_instrument_order_time_delivery
+      hint: null
+      type: time
+      options: []
+      required: false

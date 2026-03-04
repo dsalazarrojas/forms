@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Card Renewal Application Fee Payment
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: green_card_renewal_application_fee_payment
+      label: Green Card Renewal Application Fee Payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_payment
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - PayPal
+      - Eft
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

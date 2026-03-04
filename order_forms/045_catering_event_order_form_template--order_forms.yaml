@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Event Order Form Template
+    pages:
+    - id: 1
+      name: event_basics_header
+      label: -- Event Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Name of Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_theme
+      label: Event Theme or Occasion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_schedule
+      label: -- Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: event_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: guest_count_final
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_venue
+      label: -- Venue Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: venue_location_details
+      label: Venue Name and Full Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: room_hall_name
+      label: Specific Room or Hall Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_menu_selection
+      label: -- Menu and Beverage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: selected_menu_items
+      label: Menu Selections
+      hint: Select all that apply to your package
+      type: select_multiple
+      options:
+      - Assorted Finger Sandwiches
+      - Hot Hors d oeuvres Platter
+      - Garden Salad with Vinaigrette
+      - Grilled Salmon with Asparagus
+      - Roasted Vegetable Medley
+      - Artisanal Cheese Board
+      - Miniature Dessert Trio
+      required: true
+    - id: 14
+      name: beverage_package_choice
+      label: Beverage Selection
+      hint: null
+      type: select_one
+      options:
+      - Tea and Coffee Service Only
+      - Non-Alcoholic Soft Drink Bar
+      - Standard Beer and Wine Package
+      - Premium Full Bar Service
+      required: true
+    - id: 15
+      name: section_financials
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: total_estimated_cost
+      label: Total Estimated Event Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_status_field
+      label: Current Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Full Payment Received
+      - Deposit Received - Balance Pending
+      - Awaiting Deposit
+      - Invoiced
+      required: true
+    - id: 18
+      name: billing_contact_header
+      label: -- Billing Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: billing_contact_name
+      label: Billing Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_contact_email
+      label: Billing Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Selection Form
+    pages:
+    - id: 1
+      name: uniform_selection_form_input_1
+      label: Uniform Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: uniform_selection_form_input_2
+      label: Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

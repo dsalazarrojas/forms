@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economy Class Ticket Booking Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ticket_date
+      label: Ticket Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: passenger_email
+      label: Passenger Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: passenger_phone
+      label: Passenger Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - PayPal
+      required: true
+    - id: 10
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: card_expiry
+      label: Card Expiry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: cvv
+      label: Cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cardholder_name
+      label: Cardholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - Company A
+      - Company B
+      - Company C
+      required: false
+    - id: 17
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - PayPal
+      required: true
+    - id: 22
+      name: card_number_2
+      label: Card Number 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: card_expiry_2
+      label: Card Expiry 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: cvv_2
+      label: Cvv 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cardholder_name_2
+      label: Cardholder Name 2
+      hint: null
+      type: text
+      options: []
+      required: false

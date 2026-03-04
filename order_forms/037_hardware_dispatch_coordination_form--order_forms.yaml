@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Dispatch Coordination Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dispatcher_email
+      label: dispatcher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: dispatcher_phone
+      label: dispatcher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_email
+      label: requester_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: requester_phone
+      label: requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dispatch_date
+      label: dispatch_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: dispatch_time
+      label: dispatch_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: dispatch_status
+      label: dispatch_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 11
+      name: requester_name
+      label: requester_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requester_department
+      label: requester_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dispatcher_name
+      label: dispatcher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dispatcher_department
+      label: dispatcher_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dispatch_location
+      label: dispatch_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dispatch_note
+      label: dispatch_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: request_note
+      label: request_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: equipment_serial
+      label: equipment_serial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: equipment_model
+      label: equipment_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: false
+    - id: 22
+      name: equipment_category
+      label: equipment_category
+      hint: null
+      type: select_multiple
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 23
+      name: equipment_brand
+      label: equipment_brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: dispatch_date_end
+      label: dispatch_date_end
+      hint: null
+      type: date
+      options: []
+      required: false

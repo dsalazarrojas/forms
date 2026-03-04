@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automatic Payment Authorization Consent Form
+    pages:
+    - id: 1
+      name: section_header_account
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: account_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_authorization
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_payment
+      label: -- Payment Method Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Account
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - ACH
+      - Other
+      required: true
+    - id: 9
+      name: bank_account_last_four
+      label: Bank Account Last 4 Digits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: card_last_four
+      label: Card Last 4 Digits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_billing
+      label: -- Billing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: billing_amount
+      label: Recurring Payment Amount
+      hint: Amount to be charged each billing period
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: true
+    - id: 14
+      name: billing_start_date
+      label: First Billing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: billing_end_date
+      label: Billing End Date
+      hint: Leave blank for indefinite
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: section_header_service
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: service_description
+      label: Service or Product Description
+      hint: What is being charged for?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: invoice_email
+      label: Invoice Delivery Email
+      hint: Where should receipts be sent?
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: section_header_consent
+      label: -- Authorization and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: understand_terms
+      label: I understand the payment terms and amounts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: authorize_payment
+      label: I authorize automatic recurring payments as described above
+      hint: null
+      type: select_one
+      options:
+      - I agree and authorize
+      - I do not authorize
+      required: true
+    - id: 22
+      name: acknowledge_cancellation
+      label: I understand I can cancel anytime with written notice
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 23
+      name: acknowledge_privacy
+      label: I consent to payment information being processed securely
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 24
+      name: authorized_signature_name
+      label: Authorized Signature Name
+      hint: Print name to verify consent
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: consent_completion_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

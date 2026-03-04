@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Brew Coffee Pre Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_order
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Desired Order Date
+      hint: When do you want to pick up
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: cold_brew_type
+      label: Cold Brew Type
+      hint: Select your preferred variety
+      type: select_one
+      options:
+      - Original Cold Brew
+      - Chocolate Cold Brew
+      - Vanilla Cold Brew
+      - Maple Cold Brew
+      - Caramel Cold Brew
+      - Dark Roast
+      - Medium Roast
+      - Light Roast
+      required: true
+    - id: 8
+      name: bottle_size
+      label: Bottle Size
+      hint: null
+      type: select_one
+      options:
+      - Small (12 oz)
+      - Medium (16 oz)
+      - Large (32 oz)
+      - Extra Large (64 oz)
+      required: true
+    - id: 9
+      name: quantity
+      label: Number of Bottles
+      hint: How many bottles to order
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_customization
+      label: -- Customization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: milk_preference
+      label: Milk Preference
+      hint: null
+      type: select_one
+      options:
+      - No milk
+      - Regular milk
+      - Skim milk
+      - Soy milk
+      - Almond milk
+      - Oat milk
+      - Coconut milk
+      required: false
+    - id: 12
+      name: sweetness
+      label: Sweetness Level
+      hint: null
+      type: select_one
+      options:
+      - Unsweetened
+      - Lightly sweetened
+      - Medium sweetened
+      - Extra sweetened
+      - As is
+      required: false
+    - id: 13
+      name: ice_preference
+      label: Ice Preference
+      hint: null
+      type: select_one
+      options:
+      - Extra ice
+      - Normal ice
+      - Light ice
+      - No ice
+      required: false
+    - id: 14
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: pickup_location
+      label: Pickup Location
+      hint: Where you will pick up
+      type: select_one
+      options:
+      - Downtown Store
+      - Mall Location
+      - West Side Store
+      - North Store
+      required: true
+    - id: 16
+      name: pickup_time
+      label: Preferred Pickup Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: section_special
+      label: -- Special Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: Any special instructions or preferences
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies or Restrictions
+      hint: Any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Cash at pickup
+      - Mobile payment
+      required: true

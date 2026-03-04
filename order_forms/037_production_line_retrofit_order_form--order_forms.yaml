@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Line Retrofit Order Form
+    pages:
+    - id: 1
+      name: production_line_retrofit_order_form_page
+      label: Production Line Retrofit Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_line_number
+      label: Production Line Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: retrofit_date
+      label: Retrofit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: retrofit_time
+      label: Retrofit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: production_line_location
+      label: Production Line Location
+      hint: null
+      type: select_one
+      options:
+      - '100'
+      - '200'
+      - '300'
+      required: true
+    - id: 6
+      name: production_line_status
+      label: Production Line Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: true
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false

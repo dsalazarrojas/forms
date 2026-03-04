@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Lab Coats Requisition Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lab_coat_type
+      label: Lab coat type
+      hint: null
+      type: select_one
+      options:
+      - Short Sleeve
+      - Long Sleeve
+      required: false
+    - id: 3
+      name: coat_size
+      label: Coat size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      - xlarge
+      required: false
+    - id: 4
+      name: coat_color
+      label: Coat color
+      hint: null
+      type: select_one
+      options:
+      - white
+      - black
+      - blue
+      required: false
+    - id: 5
+      name: lab_coat_quantity
+      label: Lab coat quantity
+      hint: Enter the quantity of lab coats requested
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_requested
+      label: Date requested
+      hint: Date of the lab coat request
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_requested
+      label: Time requested
+      hint: Time of the lab coat request
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - pharmaceutical
+      - research
+      required: false
+    - id: 9
+      name: team_leader
+      label: Team leader
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

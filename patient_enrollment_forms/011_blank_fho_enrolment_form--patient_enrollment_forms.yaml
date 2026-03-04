@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blank FHO Enrolment Form
+    pages:
+    - id: 1
+      name: patient_information_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient full name
+      hint: Legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Patient birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: health_card_number
+      label: Health card number
+      hint: Provincial health identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Street city postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: primary_care_reason
+      label: Primary reason for enrolment
+      hint: Brief explanation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_signature
+      label: Consent signature name
+      hint: Name signing consent
+      type: text
+      options: []
+      required: true

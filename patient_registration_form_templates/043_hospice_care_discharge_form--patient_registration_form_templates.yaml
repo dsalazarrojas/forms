@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Care Discharge Form
+    pages:
+    - id: 1
+      name: patient_registration_form
+      label: Patient Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medications
+      label: Current Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Acetaminophen''}'
+      - '{''value'': ''Albuterol''}'
+      - '{''value'': ''Alprazolam''}'
+      - '{''value'': ''Aspirin''}'
+      - '{''value'': ''Atorvastatin''}'
+      - '{''value'': ''Atenolol''}'
+      - '{''value'': ''Azithromycin''}'
+      - '{''value'': ''Aripiprazole''}'
+      - '{''value'': ''Cetirizine''}'
+      - '{''value'': ''Ceftriaxone''}'
+      - '{''value'': ''Cephalexin''}'
+      - '{''value'': ''Clonazepam''}'
+      - '{''value'': ''Clobetasol''}'
+      required: false
+    - id: 4
+      name: discharge_plans
+      label: Discharge Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: discharge_location
+      label: Discharge Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discharge_status_update
+      label: Discharge Status Update
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

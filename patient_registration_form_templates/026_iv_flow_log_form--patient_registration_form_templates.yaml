@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: IV Flow Log Form
+    pages:
+    - id: 1
+      name: iv_flow_log_form_page_1
+      label: Fluid Administered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: total_fluid_administered
+      label: Total Fluid Administered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: total_fluid_administered_hint
+      label: Total Fluid Administered Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_weight
+      label: patient_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: patient_weight_hint
+      label: patient_weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fluid_administered_rate
+      label: Fluid Administered Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fluid_administered_rate_hint
+      label: Fluid Administered Rate Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: flow_rate
+      label: Flow Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: flow_rate_hint
+      label: Flow Rate Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: duration_in_hours
+      label: Duration In Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: duration_in_hours_hint
+      label: Duration In Hours Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fluid_administered_rate_units
+      label: Units
+      hint: null
+      type: select_one
+      options:
+      - milliliters
+      - liters
+      - gallons
+      required: false
+    - id: 14
+      name: fluid_administered_rate_value
+      label: Value
+      hint: null
+      type: select_multiple
+      options:
+      - '250'
+      - '500'
+      - '750'
+      - '1000'
+      - '1250'
+      - '1500'
+      - '1750'
+      - '2000'
+      required: false
+    - id: 15
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false

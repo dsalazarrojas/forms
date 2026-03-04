@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: IVC Treatment Feedback Form
+    pages:
+    - id: 1
+      name: patient_experience
+      label: patient_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: side_effects
+      label: side effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: provider_rating
+      label: provider rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: provider
+      label: provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Excellent''}'
+      - '{''value'': 2, ''label'': ''Good''}'
+      - '{''value'': 3, ''label'': ''Fair''}'
+      - '{''value'': 4, ''label'': ''Bad''}'
+      required: false
+    - id: 7
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

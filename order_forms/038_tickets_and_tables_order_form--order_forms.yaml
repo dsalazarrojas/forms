@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: tickets_and_tables_order_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Tickets And Tables Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Order Forms
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category2
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Order Forms
+      - Another Category
+      required: false
+    - id: 5
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

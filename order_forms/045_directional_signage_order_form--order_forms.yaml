@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: directional_signage_order_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signage_type
+      label: Signage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Map''}'
+      - '{''label'': ''Directional Arrow''}'
+      - '{''label'': ''Both''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: number_of_signs
+      label: Number of Signs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sign_color
+      label: Sign Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Green''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: font_size
+      label: Font Size
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Small''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Large''}'
+      - '{''label'': ''Extra Large''}'
+      - '{''label'': ''Extra Extra Large''}'
+      required: false
+    - id: 10
+      name: font_style
+      label: Font Style
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bold''}'
+      - '{''label'': ''Italic''}'
+      - '{''label'': ''Underline''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 11
+      name: font_color
+      label: Font Color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Black''}'
+      - '{''label'': ''White''}'
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: arrow_color
+      label: Arrow Color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: arrow_style
+      label: Arrow Style
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Arrow''}'
+      - '{''label'': ''Arrow with Circle''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 14
+      name: arrow_size
+      label: Arrow Size
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Small''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Large''}'
+      - '{''label'': ''Extra Large''}'
+      required: false
+    - id: 15
+      name: arrow_shape
+      label: Arrow Shape
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Rectangle''}'
+      - '{''label'': ''Circle''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: font_family
+      label: Font Family
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Default''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: sign_text
+      label: Sign Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sign_color_fill
+      label: Sign Color Fill
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Solid''}'
+      - '{''label'': ''Gradient''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 19
+      name: orientation
+      label: Orientation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Horizontal''}'
+      - '{''label'': ''Vertical''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 20
+      name: font_weight
+      label: Font Weight
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Bold''}'
+      - '{''label'': ''Italic''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 21
+      name: background_color
+      label: Background Color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: border_color
+      label: Border Color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Black''}'
+      - '{''label'': ''White''}'
+      - '{''label'': ''Gray''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

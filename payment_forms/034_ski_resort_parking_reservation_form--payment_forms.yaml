@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ski Resort Parking Reservation Form
+    pages:
+    - id: 1
+      name: ski_resort_parking_reservation_form
+      label: Parking Reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_time
+      label: Arrival Time
+      hint: 24 hour format
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: reservation_slot
+      label: Reservation Slot
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM - 12:00 PM
+      - 12:00 PM - 3:00 PM
+      - 3:00 PM - 6:00 PM
+      required: false
+    - id: 4
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Bus
+      required: false
+    - id: 5
+      name: vehicle_type_note
+      label: Additional Info (if needed)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: Cash, credit card or other payment methods accepted
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Other
+      required: false
+    - id: 7
+      name: parking_rate
+      label: Parking Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parking_confirmation
+      label: Parking Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false

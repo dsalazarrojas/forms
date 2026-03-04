@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Strips Inventory Order Form
+    pages:
+    - id: 1
+      name: form_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: form_subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Ordered
+      - Shipped
+      - Received
+      - Cancelled
+      required: false
+    - id: 6
+      name: form_priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

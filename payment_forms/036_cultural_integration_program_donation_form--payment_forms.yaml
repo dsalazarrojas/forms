@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Integration Program Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5.1, ''label'': ''Credit Card''}'
+      - '{''id'': ''5.1.assistant'', ''label'': ''PayPal''}'
+      - '{''id'': 5.2, ''label'': ''Apple Pay''}'
+      - '{''id'': ''5.2.assistant'', ''label'': ''Google Pay''}'
+      - '{''id'': 5.3, ''label'': ''Bank Transfer''}'
+      - '{''id'': 5.4, ''label'': ''Stripe''}'
+      - '{''id'': 5.5, ''label'': ''Amazon Pay''}'
+      required: false
+    - id: 6
+      name: amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_donation
+      label: Confirm Donation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8.1, ''label'': True}'
+      - '{''id'': 8.2, ''label'': False}'
+      required: false
+    - id: 9
+      name: confirm_cancellation
+      label: Confirm Cancellation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9.1, ''label'': True}'
+      - '{''id'': 9.2, ''label'': False}'
+      required: false
+    - id: 10
+      name: confirm_receipt
+      label: Confirm Receipt
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10.1, ''label'': True}'
+      - '{''id'': 10.2, ''label'': False}'
+      required: false
+    - id: 11
+      name: confirm_terms
+      label: Confirm Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11.1, ''label'': True}'
+      - '{''id'': 11.2, ''label'': False}'
+      required: false
+    - id: 12
+      name: confirm_donation_date
+      label: Confirm Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: confirm_donation_time
+      label: Confirm Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: confirm_payment_method
+      label: Confirm Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14.1, ''label'': True}'
+      - '{''id'': 14.2, ''label'': False}'
+      required: false
+    - id: 15
+      name: confirm_bank_transfer
+      label: Confirm Bank Transfer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15.1, ''label'': True}'
+      - '{''id'': ''15.1.assistant'', ''label'': False}'
+      required: false
+    - id: 16
+      name: confirm_cancellation_date
+      label: Confirm Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: confirm_cancellation_time
+      label: Confirm Cancellation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: confirm_receipt_date
+      label: Confirm Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: confirm_receipt_time
+      label: Confirm Receipt Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: confirm_bank_transfer_date
+      label: Confirm Bank Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: confirm_bank_transfer_time
+      label: Confirm Bank Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: confirm_cancellation_amount
+      label: Confirm Cancellation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: confirm_payment_amount
+      label: Confirm Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: confirm_donation_amount
+      label: Confirm Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advisory Service Fee Submission
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Company or Individual Name.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Where the receipt will be sent.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_details_header
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: invoice_number
+      label: Invoice Number
+      hint: Enter the invoice number you are paying.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_description
+      label: Service Description
+      hint: Brief description of advisory services provided.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_date
+      label: Service Date
+      hint: Date when service was rendered.
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: amount_due
+      label: Fee Amount ($)
+      hint: Total amount to be paid.
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method_header
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_type
+      label: Select Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 12
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with the payment method.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: Optional message.
+      type: text
+      options: []
+      required: false

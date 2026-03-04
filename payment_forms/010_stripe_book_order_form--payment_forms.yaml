@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Book Order Form
+    pages:
+    - id: 1
+      name: book_title
+      label: book_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_author
+      label: book_author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: book_price
+      label: book_price
+      hint: Please enter the book price.
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: Please select a payment method.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: payment_token
+      label: payment_token
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_token
+      label: form_token
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: book_publisher
+      label: book_publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: book_isbn
+      label: book_isbn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: book_isbn13
+      label: book_isbn13
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: book_isbn10
+      label: book_isbn10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: book_isbn13_ean
+      label: book_isbn13_ean
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: book_isbn10_ean
+      label: book_isbn10_ean
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: book_isbn
+      label: book_isbn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: book_isbn13as
+      label: book_isbn13as
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: book_isbn10as
+      label: book_isbn10as
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: book_format
+      label: book_format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: book_image
+      label: book_image
+      hint: null
+      type: text
+      options: []
+      required: false

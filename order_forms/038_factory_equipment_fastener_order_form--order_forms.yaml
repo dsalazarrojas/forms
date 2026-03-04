@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Equipment Fastener Order Form
+    pages:
+    - id: 1
+      name: machinery_id
+      label: Machinery ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fastener_type
+      label: Fastener Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fastener_quantity
+      label: Fastener Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Order
+      - Cancel
+      required: false
+    - id: 7
+      name: purchasing_team
+      label: Purchasing Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: production_team
+      label: Production Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: maintenance_team
+      label: Maintenance Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

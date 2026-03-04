@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anthology Book Pre Order Form
+    pages:
+    - id: 1
+      name: book_title
+      label: Anthology Title
+      hint: Full title of the anthology
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: editor_name
+      label: Editor or Compiler Name
+      hint: Name of the anthology editor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: publisher_name
+      label: Publisher
+      hint: Publishing house or self-published
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: expected_release_date
+      label: Expected Release Date
+      hint: When will the book be available
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: Full name for order
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for shipping issues
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: book_format
+      label: Book Format
+      hint: Select your preferred format
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - E-book
+      - Audiobook
+      - Deluxe signed edition
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Number of copies to pre-order
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: unit_price
+      label: Unit Price
+      hint: Price per copy
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pre_order_discount
+      label: Pre-order Discount Applied
+      hint: Discount percentage for pre-orders
+      type: select_one
+      options:
+      - No discount
+      - 10 percent early bird
+      - 15 percent bulk order
+      - 20 percent subscriber special
+      required: true
+    - id: 12
+      name: total_amount
+      label: Total Amount
+      hint: Total cost including discounts
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: shipping_address_section
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: shipping_name
+      label: Shipping Name
+      hint: Name for shipping label
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_address
+      label: Street Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipping_state
+      label: State or Province
+      hint: State, province, or region
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_postal_code
+      label: Postal or ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_country
+      label: Country
+      hint: Country of destination
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: true
+    - id: 20
+      name: shipping_method
+      label: Shipping Method
+      hint: Choose shipping speed
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight delivery
+      - International shipping
+      required: true
+    - id: 21
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check by mail
+      required: true
+    - id: 23
+      name: card_number
+      label: Card Number
+      hint: 16-digit card number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: card_expiry
+      label: Expiry Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cvv
+      label: CVV or Security Code
+      hint: 3 or 4 digit code on card
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: billing_address_same
+      label: Billing Address Same as Shipping
+      hint: Is billing address the same
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: special_requests
+      label: Special Requests
+      hint: Gift wrapping, inscription, or other notes
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: newsletter_signup
+      label: Subscribe to Publisher Newsletter
+      hint: Receive updates on new releases
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No thanks
+      required: true
+    - id: 29
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you accept pre-order terms
+      type: select_one
+      options:
+      - Yes, I accept the terms
+      - No, I do not accept
+      required: true
+    - id: 30
+      name: order_date
+      label: Order Date
+      hint: Date of pre-order
+      type: date
+      options: []
+      required: true

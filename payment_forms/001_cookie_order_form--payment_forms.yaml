@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: cookie_order_form
+    pages:
+    - id: 1
+      name: cookie_type
+      label: Cookie Type
+      hint: null
+      type: select_multiple
+      options:
+      - chocolate chip
+      - oatmeal raisin
+      - peanut butter
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: shipping
+      label: Shipping
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - USPS
+      required: false
+    - id: 7
+      name: payment
+      label: Payment
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

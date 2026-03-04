@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pizza Order Form
+    pages:
+    - id: 1
+      name: topping
+      label: Toppings
+      hint: null
+      type: select_multiple
+      options:
+      - Pepperoni
+      - Sausage
+      - Mushroom
+      - Onion
+      - Green Pepper
+      - Extra Cheese
+      - Anchovies
+      - Olive Oil
+      - Spicy Italian
+      required: true
+    - id: 2
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      required: true
+    - id: 3
+      name: crust
+      label: Crust
+      hint: null
+      type: select_one
+      options:
+      - Thin
+      - ประก "Thick"
+      required: true
+    - id: 4
+      name: topping
+      label: Additional Toppings
+      hint: null
+      type: select_multiple
+      options:
+      - Pepperoni
+      - Sausage
+      - Mushroom
+      - Onion
+      - Green Pepper
+      - Extra Cheese
+      - Anchovies
+      - Olive Oil
+      - Spicy Italian
+      required: false
+    - id: 5
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

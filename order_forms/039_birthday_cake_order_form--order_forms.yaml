@@ -1,0 +1,312 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birthday Cake Order Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birthday Cake Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Order your custom birthday cake today
+      hint: Complete this form to place your order
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_address
+      label: Delivery Address
+      hint: Where cake will be delivered
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: cake_size
+      label: Cake Size
+      hint: How many servings
+      type: select_one
+      options:
+      - 6 inch (6-8 servings)
+      - 8 inch (12-16 servings)
+      - 10 inch (20-25 servings)
+      - 12 inch (30-40 servings)
+      - Sheet Cake (40-50 servings)
+      - Custom Size
+      required: true
+    - id: 10
+      name: cake_flavor
+      label: Cake Flavor
+      hint: What flavor do you want
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Funfetti
+      - Marble
+      - Lemon
+      - Strawberry
+      - Carrot Cake
+      - Cheesecake
+      - Other
+      required: true
+    - id: 11
+      name: frosting_flavor
+      label: Frosting Flavor
+      hint: What frosting flavor
+      type: select_one
+      options:
+      - Vanilla Buttercream
+      - Chocolate Buttercream
+      - Cream Cheese
+      - Swiss Meringue
+      - Whipped Cream
+      - Ganache
+      - Other
+      required: true
+    - id: 12
+      name: filling_flavor
+      label: Cake Filling
+      hint: What filling between layers
+      type: select_multiple
+      options:
+      - Buttercream
+      - Ganache
+      - Fruit Jam
+      - Custard
+      - Lemon Curd
+      - Chocolate Mousse
+      - None
+      - Other
+      required: true
+    - id: 13
+      name: cake_decorations
+      label: Decorations and Design
+      hint: How you want cake decorated
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: custom_message
+      label: Custom Message on Cake
+      hint: Any text or saying on cake
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Allergies, vegan, gluten-free, etc.
+      type: select_multiple
+      options:
+      - Gluten-Free
+      - Dairy-Free
+      - Nut-Free
+      - Vegan
+      - Keto-Friendly
+      - Sugar-Free
+      - None
+      - Other
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests or Preferences
+      hint: Any other customizations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: delivery_date
+      label: Desired Delivery Date
+      hint: When do you need the cake
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: delivery_time_preference
+      label: Preferred Delivery Time
+      hint: Morning, afternoon, evening
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Flexible
+      required: true
+    - id: 20
+      name: delivery_method
+      label: Delivery or Pickup
+      hint: How you will get the cake
+      type: select_one
+      options:
+      - Delivery to Address
+      - Pickup at Bakery
+      required: true
+    - id: 21
+      name: delivery_address_detail
+      label: Detailed Delivery Instructions
+      hint: Gate codes, building access, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_pricing
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: base_cake_price
+      label: Base Cake Price
+      hint: Price before extras
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: decoration_price
+      label: Decoration and Customization Fee
+      hint: Additional cost for design
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: delivery_fee
+      label: Delivery Fee
+      hint: Cost for delivery if applicable
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: total_price
+      label: Total Order Price
+      hint: Sum of all costs
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - PayPal
+      - Other
+      required: true
+    - id: 28
+      name: deposit_amount
+      label: Deposit Required
+      hint: Amount needed to secure order
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: payment_deadline
+      label: Final Payment Due Date
+      hint: When balance is due
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: section_birthday_celebrant
+      label: -- Birthday Celebrant --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: birthday_person_name
+      label: Birthday Person's Name
+      hint: Who is the birthday cake for
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: birthday_person_age
+      label: Birthday Person's Age
+      hint: How old are they turning
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: theme_or_interests
+      label: Theme or Interests
+      hint: Party theme or birthday person's interests
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: section_agreement
+      label: -- Agreement and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: cancellation_policy
+      label: I understand the cancellation policy
+      hint: Deposits are non-refundable after 7 days
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 36
+      name: order_confirmation
+      label: I confirm this order
+      hint: Check to place order
+      type: select_one
+      options:
+      - I Confirm This Order
+      - Cancel Order
+      required: true

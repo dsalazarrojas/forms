@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Donation Form
+    pages:
+    - id: 1
+      name: corporate_donation_form
+      label: corporate_donation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 4
+      name: frequency_description
+      label: frequency_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency_unit
+      label: frequency_unit
+      hint: null
+      type: select_multiple
+      options:
+      - months
+      - quarters
+      - years
+      required: false
+    - id: 6
+      name: donation_frequency_start_date
+      label: donation_frequency_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 8
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: corporate_name
+      label: corporate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corporate_address
+      label: corporate_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: corporate_donation_amount
+      label: corporate_donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tax_deductible
+      label: tax_deductible
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: corporate_donation_method
+      label: corporate_donation_method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In Person
+      required: false
+    - id: 18
+      name: corporate_donation_frequency_unit
+      label: corporate_donation_frequency_unit
+      hint: null
+      type: select_multiple
+      options:
+      - months
+      - quarters
+      - years
+      required: false

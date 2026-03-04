@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Supply Order Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: Leave blank if same as billing
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_header
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: required_delivery_date
+      label: Required Delivery Date
+      hint: When do you need the supplies?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: product_name_1
+      label: Product Name
+      hint: First item to order
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: product_quantity_1
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: product_unit_price_1
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: product_name_2
+      label: Additional Product Name
+      hint: Second item (optional)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_quantity_2
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: product_unit_price_2
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: product_name_3
+      label: Additional Product Name
+      hint: Third item (optional)
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_quantity_3
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: product_unit_price_3
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any special requests for this order
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Bank transfer
+      - Purchase order
+      - Other
+      required: true
+    - id: 22
+      name: po_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false

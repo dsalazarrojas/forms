@@ -1,0 +1,330 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Products Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_details
+      label: Shipping details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_order
+      label: Submit order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_status
+      label: Order status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer email
+      hint: Enter customer email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer phone
+      hint: Enter customer phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: Customer address
+      hint: Enter customer address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_1
+      label: Product 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 12
+      name: product_2
+      label: Product 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 13
+      name: product_3
+      label: Product 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 14
+      name: product_4
+      label: Product 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 15
+      name: product_5
+      label: Product 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 16
+      name: product_6
+      label: Product 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 17
+      name: product_7
+      label: Product 7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 18
+      name: product_8
+      label: Product 8
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 19
+      name: product_9
+      label: Product 9
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 20
+      name: product_10
+      label: Product 10
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 21
+      name: product_11
+      label: Product 11
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 22
+      name: product_12
+      label: Product 12
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: true
+    - id: 23
+      name: product_13
+      label: Product 13
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: false
+    - id: 24
+      name: product_14
+      label: Product 14
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: false
+    - id: 25
+      name: product_15
+      label: Product 15
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product_1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product_2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product_3'', ''label'': ''Product 3''}'
+      - '{''value'': ''product_4'', ''label'': ''Product 4''}'
+      - '{''value'': ''product_5'', ''label'': ''Product 5''}'
+      - '{''value'': ''product_6'', ''label'': ''Product 6''}'
+      - '{''value'': ''product_7'', ''label'': ''Product 7''}'
+      - '{''value'': ''product_8'', ''label'': ''Product 8''}'
+      - '{''value'': ''product_9'', ''label'': ''Product 9''}'
+      - '{''value'': ''product_10'', ''label'': ''Product 10''}'
+      required: false

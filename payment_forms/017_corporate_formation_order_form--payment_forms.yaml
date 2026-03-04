@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_formation_order_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: formation_type
+      label: Formation Type
+      hint: Select the type of corporate formation
+      type: select_one
+      options:
+      - Formation of an existing corporation
+      - Formation of a new corporation
+      - Formation of a non-profit
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: Select the payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Account
+      - Check or Money Order
+      required: false
+    - id: 8
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_type
+      label: Company Type
+      hint: Select the type of company
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Sole Proprietorship
+      required: false
+    - id: 15
+      name: officers
+      label: Officers
+      hint: List the company officers
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted
+      label: Submitted
+      hint: Has this order been submitted?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_date_time
+      label: Submitted Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitted_date_time
+      label: Submission Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submission_date_time
+      label: Submission Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: payment_status
+      label: Payment Status
+      hint: Select the payment status
+      type: select_one
+      options:
+      - Payment Pending
+      - Payment Confirmed
+      - Payment Denied
+      required: false

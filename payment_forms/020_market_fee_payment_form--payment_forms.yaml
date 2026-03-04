@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_fee_payment_form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fee_amount
+      label: Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Draft
+      - Check
+      - Wire Transfer
+      - Cash
+      required: false
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fee_status
+      label: Fee Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Partially Paid
+      - Unpaid
+      - Refunded
+      - Cancelled
+      required: false
+    - id: 12
+      name: additional_fees
+      label: Additional Fees
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Specified
+      required: false
+    - id: 13
+      name: payment_terms_and_conditions
+      label: Payment Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: bank_draft_fee
+      label: Bank Draft Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: check_fee
+      label: Check Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: wire_transfer_fee
+      label: Wire Transfer Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: cash_fee
+      label: Cash Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_gateway_fee
+      label: Payment Gateway Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_gateway_fee_percentage
+      label: Payment Gateway Fee Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: event_organizer_fee
+      label: Event Organizer Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: event_organizer_fee_percentage
+      label: Event Organizer Fee Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: market_fee
+      label: Market Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: market_fee_percentage
+      label: Market Fee Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: tax_rate_percentage
+      label: Tax Rate Percentage
+      hint: null
+      type: number
+      options: []
+      required: false

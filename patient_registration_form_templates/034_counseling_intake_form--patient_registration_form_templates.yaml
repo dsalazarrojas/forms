@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship to Patient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_language
+      label: Primary Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 11
+      name: preferred_name
+      label: Preferred Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_policy
+      label: Insurance Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_date
+      label: Medical Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_provider
+      label: Medical Record Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_record_date_of_service
+      label: Medical Record Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: medical_record_number_2
+      label: Medical Record Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_record_provider_2
+      label: Medical Record Provider 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_record_note
+      label: Medical Record Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_record_date_of_service_2
+      label: Medical Record Date of Service 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: primary_care_provider
+      label: Primary Care Provider
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Doe
+      - Dr. Jane Doe
+      required: true
+    - id: 23
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Ibuprofen
+      - Acetaminophen
+      required: true
+    - id: 24
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

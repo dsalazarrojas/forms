@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stablecoin Payment Information Request
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Card number'', ''value'': ''card_number''}'
+      - '{''label'': ''Account number'', ''value'': ''account_number''}'
+      - '{''label'': ''Bank transfer'', ''value'': ''bank_transfer''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payee_details
+      label: Payee Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Individual'', ''value'': ''individual''}'
+      - '{''label'': ''Organization'', ''value'': ''organization''}'
+      required: true

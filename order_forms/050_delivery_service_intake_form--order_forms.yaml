@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Service Intake Form
+    pages:
+    - id: 1
+      name: delivery_service_intake_form_1
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_location_id
+      label: Service Location
+      hint: null
+      type: select_one
+      options:
+      - location_1
+      - location_2
+      required: false
+    - id: 3
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time_frame
+      label: Delivery Time Frame
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of customer
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false

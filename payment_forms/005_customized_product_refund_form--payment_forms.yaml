@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customized Product Refund Form
+    pages:
+    - id: 1
+      name: customer_input
+      label: customer_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: product_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: refund_amount
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipping_info
+      label: shipping_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Bank Transfer''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false

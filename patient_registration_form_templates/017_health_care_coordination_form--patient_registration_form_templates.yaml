@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_care_coordination_form
+    pages:
+    - id: 1
+      name: basic_information
+      label: patient_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_address
+      label: address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_condition
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medication_list
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: next_of_contact
+      label: next_of_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: specialty
+      label: medical_specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_provider_address
+      label: medical_provider_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_provider_phone
+      label: medical_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_provider_email
+      label: medical_provider_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: medical_provider_notes
+      label: medical_provider_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: medical_signature
+      label: medical_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_of_contact_note
+      label: next_of_contact_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_provider_signature
+      label: medical_provider_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: next_of_contact_signature
+      label: next_of_contact_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medical_provider_address_signature
+      label: medical_provider_address_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: medical_provider_phone_signature
+      label: medical_provider_phone_signature
+      hint: null
+      type: note
+      options: []
+      required: false

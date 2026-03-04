@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Order Form Template
+    pages:
+    - id: 1
+      name: customer_details_section
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candy_customer_full_name
+      label: Full Name
+      hint: As it appears on your payment account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candy_customer_email
+      label: Email Address
+      hint: For order tracking and receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candy_customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candy_shipping_address
+      label: Shipping Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: candy_selection_section
+      label: -- Candy Selection --
+      hint: What treats would you like today
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sweets_choice_list
+      label: Choose Your Sweets
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chocolate Bars
+      - Sour Gummies
+      - Hard Candies
+      - Taffy
+      - Caramels
+      - Licorice
+      - Other
+      required: true
+    - id: 8
+      name: item_quantity_description
+      label: Order Quantity per Item
+      hint: e.g. 2 x Taffy, 1 x Caramels
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: box_size_selection
+      label: Total Box Size
+      hint: Choose the overall volume of your order
+      type: select_one
+      options:
+      - Single Bag ($5)
+      - Small Box ($15)
+      - Medium Box ($30)
+      - Large Family Pack ($50)
+      required: true
+    - id: 10
+      name: packaging_style_pref
+      label: Preferred Packaging Style
+      hint: Select the container for your candy
+      type: select_one
+      options:
+      - Eco-Friendly Paper
+      - Plastic Pouch
+      - Gift Box
+      - Tin Case
+      required: true
+    - id: 11
+      name: preferences_section
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions_candy
+      label: Dietary Restrictions
+      hint: Select any that apply to this order
+      type: select_multiple
+      options:
+      - Nut-Free
+      - Gluten-Free
+      - Dairy-Free
+      - Vegan
+      - None
+      required: false
+    - id: 13
+      name: is_gift_check_candy
+      label: Is this a gift
+      hint: Would you like to include a message
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: gift_note_text
+      label: Gift Note
+      hint: Add a personalized message for the recipient
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_payment_info_section
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_delivery_date_candy
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: shipping_method_choice_candy
+      label: Shipping Method
+      hint: Choose the speed of shipment
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Express (2-3 days)
+      - Local Pickup
+      required: true
+    - id: 18
+      name: payment_method_choice_candy
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      - Apple Pay
+      required: true
+    - id: 19
+      name: special_instructions_candy_order
+      label: Special Instructions
+      hint: Any specific delivery or packaging notes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: candy_terms_agreement
+      label: I agree to the terms of service
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: candy_order_date_field
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: true

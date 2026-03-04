@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: CardConnect Furniture Purchase Order Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- CUSTOMER INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Billing address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_state_zip
+      label: State and zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_address
+      label: Delivery address (if different)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_details
+      label: -- ORDER DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: order_number
+      label: Purchase order number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: furniture_category
+      label: Furniture category
+      hint: null
+      type: select_one
+      options:
+      - Seating
+      - Bedroom
+      - Office
+      - Dining
+      - Living Room
+      - Outdoor
+      - Commercial
+      - Custom Build
+      required: true
+    - id: 14
+      name: product_1_description
+      label: Product 1 description
+      hint: Style, model, color, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: product_1_quantity
+      label: Product 1 quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: product_1_price
+      label: Product 1 unit price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: product_2_description
+      label: Product 2 description
+      hint: Style, model, color, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_2_quantity
+      label: Product 2 quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: product_2_price
+      label: Product 2 unit price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: product_3_description
+      label: Product 3 description
+      hint: Style, model, color, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_summary
+      label: -- ORDER SUMMARY --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: tax_amount
+      label: Tax amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_amount
+      label: Total order amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Finance Plan
+      required: true

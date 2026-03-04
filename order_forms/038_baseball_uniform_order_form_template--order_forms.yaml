@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Uniform Order Form Template
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Name of your team
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_manager_name
+      label: Team Manager Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_email
+      label: Manager Email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: manager_phone
+      label: Manager Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: uniform_style
+      label: Uniform Style
+      hint: Select the style
+      type: select_one
+      options:
+      - Traditional button up
+      - Modern pullover
+      - Reversible practice
+      - Custom design
+      required: true
+    - id: 7
+      name: primary_color
+      label: Primary Color
+      hint: Main uniform color
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy blue
+      - Gray
+      - Red
+      - Royal blue
+      - Forest green
+      - Maroon
+      - Orange
+      - Yellow
+      - Custom
+      required: true
+    - id: 8
+      name: secondary_color
+      label: Secondary Color
+      hint: Accent color
+      type: select_one
+      options:
+      - White
+      - Black
+      - Navy blue
+      - Gray
+      - Red
+      - Royal blue
+      - Forest green
+      - Maroon
+      - Orange
+      - Yellow
+      required: true
+    - id: 9
+      name: jersey_quantity
+      label: Total Jersey Quantity
+      hint: Number of jerseys
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pant_quantity
+      label: Total Pant Quantity
+      hint: Number of pants
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: hat_quantity
+      label: Total Hat Quantity
+      hint: Number of hats
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sock_quantity
+      label: Total Sock Quantity
+      hint: Number of socks
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: player_name_jerseys
+      label: Player Names on Jerseys
+      hint: Will jerseys have names
+      type: select_one
+      options:
+      - Yes, all jerseys
+      - Yes, some jerseys
+      - No names
+      required: true
+    - id: 14
+      name: player_number_jerseys
+      label: Player Numbers on Jerseys
+      hint: Will jerseys have numbers
+      type: select_one
+      options:
+      - Yes, all jerseys
+      - Yes, some jerseys
+      - No numbers
+      required: true
+    - id: 15
+      name: jersey_sizes
+      label: Jersey Size Breakdown
+      hint: Quantity per size
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pant_sizes
+      label: Pant Size Breakdown
+      hint: Quantity per size
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: hat_sizes
+      label: Hat Size Breakdown
+      hint: Quantity per size
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: logo_placement
+      label: Logo Placement
+      hint: Where should logo appear
+      type: select_one
+      options:
+      - Front left chest
+      - Front center
+      - Sleeve
+      - Back
+      - Multiple locations
+      required: true
+    - id: 19
+      name: logo_type
+      label: Logo Type
+      hint: What type of logo
+      type: select_one
+      options:
+      - Embroidered
+      - Screen printed
+      - Heat transfer
+      - Patch
+      - None
+      required: true
+    - id: 20
+      name: team_logo_upload
+      label: Upload Team Logo
+      hint: If you have a logo file
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_customization
+      label: Additional Customization
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: piping_color
+      label: Piping Color
+      hint: Trim color
+      type: select_one
+      options:
+      - None
+      - White
+      - Black
+      - Navy
+      - Red
+      - Matching secondary color
+      required: true
+    - id: 23
+      name: belt_color
+      label: Belt Color
+      hint: Belt color
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Navy
+      - Red
+      - White
+      - Gray
+      required: true
+    - id: 24
+      name: delivery_deadline
+      label: Needed By Date
+      hint: When do you need uniforms
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we deliver
+      type: select_one
+      options:
+      - Ship to address
+      - Pickup in store
+      - Deliver to field
+      required: true
+    - id: 26
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Team check
+      - Purchase order
+      required: true
+    - id: 28
+      name: rush_order
+      label: Rush Order
+      hint: Do you need expedited production
+      type: select_one
+      options:
+      - Yes, rush order
+      - No, standard timeline
+      required: true
+    - id: 29
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: total_estimate
+      label: Total Estimate
+      hint: For office use
+      type: number
+      options: []
+      required: false

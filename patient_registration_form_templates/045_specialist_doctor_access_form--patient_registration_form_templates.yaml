@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialist Doctor Access Form
+    pages:
+    - id: 1
+      name: patient_request_appointment
+      label: Request Appointment
+      hint: Enter a date and time to request an appointment
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: kindergarten_parent_teacher_meeting_booking
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_preferences
+      label: Meeting Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''8:00 AM''}'
+      - '{''id'': 2, ''label'': ''9:00 AM''}'
+      - '{''id'': 3, ''label'': ''10:00 AM''}'
+      - '{''id'': 4, ''label'': ''11:00 AM''}'
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_note
+      label: Parent Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

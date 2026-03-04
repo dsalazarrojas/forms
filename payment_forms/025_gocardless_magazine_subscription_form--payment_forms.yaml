@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: GoCardless Magazine Subscription Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stripe''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: true
+    - id: 6
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: true
+    - id: 7
+      name: user_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: subscription_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: subscription_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: custom_field_1
+      label: Custom Field 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: custom_field_2
+      label: Custom Field 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: custom_field_3
+      label: Custom Field 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: custom_field_4
+      label: Custom Field 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: custom_field_5
+      label: Custom Field 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: custom_field_6
+      label: Custom Field 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: subscription_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Biweekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: true
+    - id: 18
+      name: subscription_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Trial''}'
+      required: true
+    - id: 19
+      name: subscription_plan
+      label: Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Monthly Plan''}'
+      - '{''label'': ''Quarterly Plan''}'
+      - '{''label'': ''Annually Plan''}'
+      required: true
+    - id: 20
+      name: user_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

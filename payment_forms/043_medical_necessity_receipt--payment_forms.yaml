@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Necessity Receipt
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: services_provided
+      label: Services Provided
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Primary Care Visit''}'
+      - '{''id'': 2, ''name'': ''Specialist Visit''}'
+      - '{''id'': 3, ''name'': ''Lab or Imaging Procedure''}'
+      required: false
+    - id: 4
+      name: medical_costs
+      label: Medical Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Pending Review''}'
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider_signature
+      label: Medical Provider Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Dr. Smith''}'
+      - '{''id'': 2, ''name'': ''Dr. Johnson''}'
+      - '{''id'': 3, ''name'': ''Dr. Lee''}'
+      required: false

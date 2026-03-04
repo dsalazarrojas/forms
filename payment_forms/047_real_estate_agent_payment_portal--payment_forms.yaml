@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_agent_payment_portal
+    pages:
+    - id: 1
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 3
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 7
+      name: agent_info
+      label: Agent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: broker_info
+      label: Broker Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Pre Order Form
+    pages:
+    - id: 1
+      name: shipping_method
+      label: Shipping method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shipping_rate
+      label: Shipping rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shipping_date
+      label: Shipping date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipping_time
+      label: Shipping time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Bank transfer''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Cash''}'
+      required: false
+    - id: 7
+      name: order_details
+      label: Order details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_name
+      label: Product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false

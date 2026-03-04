@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exclusive Access Refund Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_refund
+      label: Reason For Refund
+      hint: Please explain why you are requesting a refund
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false

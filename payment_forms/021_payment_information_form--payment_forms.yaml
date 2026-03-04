@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Information Form
+    pages:
+    - id: 1
+      name: payment_name
+      label: payment name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mobile_number
+      label: mobile number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facebook_url
+      label: facebook url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_mode
+      label: payment mode
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Mode 1''}'
+      - '{''name'': ''Mode 2''}'
+      - '{''name'': ''Mode 3''}'
+      - '{''name'': ''Mode 4''}'
+      required: false
+    - id: 6
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: scheduling
+      label: scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: payment_mode_details
+      label: payment mode details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_city
+      label: shipping city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_zip
+      label: shipping zip
+      hint: null
+      type: text
+      options: []
+      required: false

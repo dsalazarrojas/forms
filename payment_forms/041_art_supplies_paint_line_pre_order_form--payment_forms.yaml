@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Supplies Paint Line Pre Order Form
+    pages:
+    - id: 1
+      name: pre_order_date
+      label: Pre Order Date
+      hint: Date of pre-order
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: paint_line
+      label: Paint Line
+      hint: Which paint line are you ordering
+      type: select_one
+      options:
+      - Professional Acrylic
+      - Professional Oil
+      - Watercolor
+      - Gouache
+      - Acrylic Gouache
+      - Mixed Media
+      - Complete Set
+      required: true
+    - id: 10
+      name: color_set
+      label: Color Set
+      hint: Select color set
+      type: select_one
+      options:
+      - Warm Primaries Set
+      - Cool Primaries Set
+      - Earth Tones Set
+      - Landscape Set
+      - Portrait Set
+      - Full Studio Set
+      - Custom Selection
+      required: true
+    - id: 11
+      name: tube_size
+      label: Tube Size
+      hint: Preferred tube size
+      type: select_one
+      options:
+      - 15ml Tubes
+      - 37ml Tubes
+      - 60ml Tubes
+      - 120ml Tubes
+      - 200ml Tubes
+      - Mixed Sizes
+      required: true
+    - id: 12
+      name: quantity_sets
+      label: Quantity Sets
+      hint: Number of sets to order
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: individual_colors
+      label: Individual Colors
+      hint: List individual colors if custom
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_products
+      label: Additional Products
+      hint: Select additional products
+      type: select_multiple
+      options:
+      - Brush Set
+      - Palette
+      - Palette Knives
+      - Canvas Panels
+      - Stretched Canvas
+      - Easel
+      - Storage Box
+      - None
+      required: false
+    - id: 15
+      name: pre_order_tier
+      label: Pre Order Tier
+      hint: Select pre-order tier
+      type: select_one
+      options:
+      - Early Bird - 20% Off
+      - Standard Pre-Order - 10% Off
+      - Regular Pre-Order
+      - VIP Bundle
+      required: true
+    - id: 16
+      name: unit_price
+      label: Unit Price
+      hint: Price per set
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: subtotal
+      label: Subtotal
+      hint: Order subtotal
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: discount_applied
+      label: Discount Applied
+      hint: Discount amount
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Shipping fee
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: tax
+      label: Tax
+      hint: Sales tax
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_amount
+      label: Total Amount
+      hint: Total order amount
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: deposit_required
+      label: Deposit Required
+      hint: Deposit amount due now
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: balance_due
+      label: Balance Due
+      hint: Balance due on shipment
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 25
+      name: expected_ship_date
+      label: Expected Ship Date
+      hint: When will order ship
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_accepted
+      label: Terms Accepted
+      hint: I accept pre-order terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

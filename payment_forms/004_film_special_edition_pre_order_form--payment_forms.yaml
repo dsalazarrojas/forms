@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Special Edition Pre-Order Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - PayPal
+      required: false
+    - id: 6
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address_1
+      label: Billing Address 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: billing_address_2
+      label: Billing Address 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - San Francisco
+      - Austin
+      - Dallas
+      - Houston
+      - Seattle
+      required: false
+    - id: 10
+      name: buyer_notes
+      label: Buyer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: film_version
+      label: Film Version
+      hint: null
+      type: select_one
+      options:
+      - 4K
+      - 1080p
+      - 3D
+      - 2K
+      - HD
+      required: false
+    - id: 12
+      name: shipping_type
+      label: Shipping Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Priority
+      - Rush
+      - None
+      required: false
+    - id: 13
+      name: shipping_price
+      label: Shipping Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partial
+      - Unpaid
+      required: false
+    - id: 19
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Unconfirmed
+      - Cancelled
+      - In Progress
+      required: false

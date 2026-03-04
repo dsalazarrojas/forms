@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_book_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_city
+      label: shipping-city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_state
+      label: shipping-state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_zip
+      label: shipping-zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_country
+      label: shipping-country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_phone
+      label: shipping-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_name
+      label: product-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_price
+      label: product-price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_quantity
+      label: product-quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 16
+      name: payment_details
+      label: payment-details
+      hint: null
+      type: text
+      options: []
+      required: false

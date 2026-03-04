@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Quantity Adjustment Request Form
+    pages:
+    - id: 1
+      name: original_order_header
+      label: -- Original Order Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: original_order_number
+      label: Original Order/Invoice Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name_ref
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date_ref
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_adjustments
+      label: -- Requested Adjustments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: previous_guest_count
+      label: Previous Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: new_guest_count
+      label: New Total Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: specific_item_adjustments
+      label: Detailed Item Quantity Changes
+      hint: e.g. Increase sandwiches from 10 to 15
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: adjustment_reason
+      label: Reason for Adjustment
+      hint: null
+      type: select_one
+      options:
+      - Change in RSVPs
+      - Budget Revision
+      - Event Scope Change
+      - Error in Original Order
+      required: true
+    - id: 10
+      name: deadline_check_ack
+      label: I understand that adjustments must be made at least 72 hours prior to
+        the event
+      hint: Requests made after this may not be possible or may incur fees
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 11
+      name: price_change_acknowledgment
+      label: I acknowledge that this change will affect the final invoice amount
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - Other
+      required: true
+    - id: 12
+      name: contact_phone_followup
+      label: Phone Number for Immediate Clarification
+      hint: In case our kitchen needs to talk to you ASAP
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: requested_by_name
+      label: Requested By (Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: internal_approval_status
+      label: Catering Manager Approval (Staff Only)
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Approved with conditions
+      - Denied - Past deadline
+      required: false
+    - id: 17
+      name: staff_notes_internal
+      label: Internal Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false

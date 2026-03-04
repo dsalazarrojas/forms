@@ -1,0 +1,352 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clearpay Furniture Order Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_billing
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Street Address
+      hint: Billing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_shipping
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: same_as_billing
+      label: Shipping Address Same as Billing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: shipping_address
+      label: Street Address
+      hint: Shipping address if different
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_furniture
+      label: -- Furniture Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: item_1_name
+      label: Item 1 - Furniture Name
+      hint: Type and name of furniture
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: item_1_category
+      label: Item 1 - Category
+      hint: Type of furniture
+      type: select_one
+      options:
+      - Sofas and Sectionals
+      - Chairs and Recliners
+      - Tables
+      - Beds
+      - Dressers and Storage
+      - Shelving
+      - Office Furniture
+      - Outdoor Furniture
+      - Other
+      required: true
+    - id: 19
+      name: item_1_style
+      label: Item 1 - Style/Color
+      hint: Style or color preference
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: item_1_material
+      label: Item 1 - Material
+      hint: Primary material (fabric, wood, etc.)
+      type: select_one
+      options:
+      - Fabric
+      - Leather
+      - Wood
+      - Metal
+      - Glass
+      - Upholstered
+      - Mixed Materials
+      required: true
+    - id: 21
+      name: item_1_quantity
+      label: Item 1 - Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: item_1_price
+      label: Item 1 - Price Per Item
+      hint: Price each
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: item_1_delivery_date
+      label: Item 1 - Preferred Delivery Date
+      hint: When would you like it delivered?
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: item_2_name
+      label: Item 2 - Furniture Name
+      hint: Type and name of furniture
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: item_2_category
+      label: Item 2 - Category
+      hint: Type of furniture
+      type: select_one
+      options:
+      - Sofas and Sectionals
+      - Chairs and Recliners
+      - Tables
+      - Beds
+      - Dressers and Storage
+      - Shelving
+      - Office Furniture
+      - Outdoor Furniture
+      - Other
+      required: false
+    - id: 26
+      name: item_2_quantity
+      label: Item 2 - Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: item_3_name
+      label: Item 3 - Furniture Name
+      hint: Type and name of furniture
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: item_3_quantity
+      label: Item 3 - Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: additional_items
+      label: Additional Items
+      hint: List any other furniture needed
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_header_customization
+      label: -- Customization Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: custom_upholstery
+      label: Custom Upholstery Requested?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 32
+      name: custom_details
+      label: Customization Details
+      hint: Describe customizations needed
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_header_pricing
+      label: -- Order Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: subtotal
+      label: Subtotal
+      hint: Total before tax and delivery
+      type: number
+      options: []
+      required: true
+    - id: 35
+      name: delivery_cost
+      label: Delivery Cost
+      hint: Cost of furniture delivery
+      type: number
+      options: []
+      required: true
+    - id: 36
+      name: assembly_cost
+      label: Assembly Cost
+      hint: Cost for assembly if offered
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: tax_amount
+      label: Tax Amount
+      hint: Sales tax
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: discount_code
+      label: Promo or Discount Code
+      hint: Enter code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: total_amount
+      label: Total Order Amount
+      hint: Final amount due
+      type: number
+      options: []
+      required: true
+    - id: 40
+      name: section_header_delivery
+      label: -- Delivery Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: delivery_method
+      label: Delivery Method
+      hint: Select delivery option
+      type: select_one
+      options:
+      - Standard Delivery
+      - Express Delivery
+      - White Glove Delivery
+      - Pickup
+      required: true
+    - id: 42
+      name: assembly_requested
+      label: Assembly Service Requested?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 43
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Clearpay
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 44
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true

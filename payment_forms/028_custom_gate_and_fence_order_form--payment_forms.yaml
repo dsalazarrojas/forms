@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Gate And Fence Order Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_multiple
+      options:
+      - Project Details 1
+      - Project Details 2
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gate_type
+      label: Gate Type
+      hint: null
+      type: select_one
+      options:
+      - Gate Type 1
+      - Gate Type 2
+      - Gate Type 3
+      required: false
+    - id: 4
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - Material Type 1
+      - Material Type 2
+      required: false
+    - id: 5
+      name: fence_type
+      label: Fence Type
+      hint: null
+      type: select_one
+      options:
+      - Fence Type 1
+      - Fence Type 2
+      - Fence Type 3
+      required: false
+    - id: 6
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Order Status 1
+      - Order Status 2
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: Please provide notes for this order.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: gate_length
+      label: Gate Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_status_notes
+      label: Order Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false

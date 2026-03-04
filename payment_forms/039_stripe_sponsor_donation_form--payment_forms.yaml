@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_sponsor_donation_form
+    pages:
+    - id: 1
+      name: donation_form
+      label: Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount_form
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency_form
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One-time
+      - Quarterly
+      required: true
+    - id: 4
+      name: frequency_frequency_form
+      label: Frequency Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Stripe
+      - PayPal
+      required: true

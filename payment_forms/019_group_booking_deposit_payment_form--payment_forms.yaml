@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Booking Deposit Payment Form
+    pages:
+    - id: 1
+      name: payment_amount
+      label: Total Amount Due
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - bank_transfer
+      - cash
+      required: false
+    - id: 3
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: payment_note
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - pending
+      - cancelled
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

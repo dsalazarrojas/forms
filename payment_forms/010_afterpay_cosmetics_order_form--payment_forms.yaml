@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Cosmetics Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: -- Customer Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Recipient full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_list
+      label: Products ordered
+      hint: List product names and shades
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: Total number of items
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: preferred_shade
+      label: Preferred shade
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: afterpay
+      label: Use Afterpay
+      hint: Select yes to split payment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: shipping_address
+      label: Shipping address
+      hint: Street city postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone number
+      hint: For delivery updates
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special requests
+      hint: Allergies or handling instructions
+      type: text
+      options: []
+      required: false

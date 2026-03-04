@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: flower_seeds_order_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: seed_type
+      label: seed type
+      hint: null
+      type: select_one
+      options:
+      - Petunia
+      - Viola
+      - Daffodil
+      required: true
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: flower_type
+      label: flower type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: seed_color
+      label: seed color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: flower_size
+      label: flower size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: seed_count
+      label: seed count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_method
+      label: delivery method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: seed_price
+      label: seed price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_price
+      label: total price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Partially paid
+      - Unpaid
+      required: true
+    - id: 21
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: seed_weight
+      label: seed weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: seed_length
+      label: seed length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: seed_count
+      label: seed count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false

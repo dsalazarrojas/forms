@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Community Center Donation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Online
+      required: false
+    - id: 6
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: false
+    - id: 7
+      name: recurring_donation_interval
+      label: Recurring Donation Interval
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: false
+    - id: 8
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Renewable Energy
+      - Economic Development
+      - Education
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

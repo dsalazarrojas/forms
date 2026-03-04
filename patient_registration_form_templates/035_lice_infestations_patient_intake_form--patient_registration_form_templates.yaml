@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lice Infestations Patient Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_meds
+      label: current_meds
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lice_symptoms
+      label: lice_symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lice_infestations_length
+      label: lice_infestations_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: treatment_start_date
+      label: treatment_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: treatment_end_date
+      label: treatment_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: lice_infestation_description
+      label: lice_infestation_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_notes
+      label: patient_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lice_type
+      label: lice_type
+      hint: null
+      type: select_one
+      options:
+      - head
+      - body
+      - mixed
+      required: true
+    - id: 16
+      name: num_lice
+      label: num_lice
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: num_locations
+      label: num_locations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: num_families_infested
+      label: num_families_infested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: num_lice_treatments
+      label: num_lice_treatments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: lice_control_products_used
+      label: lice_control_products_used
+      hint: null
+      type: select_multiple
+      options:
+      - product1
+      - product2
+      - product3
+      required: false
+    - id: 21
+      name: lice_infestation_outcome
+      label: lice_infestation_outcome
+      hint: null
+      type: select_one
+      options:
+      - resolved
+      - not_resolved
+      - pending
+      required: true
+    - id: 22
+      name: lice_infestation_outcome_notes
+      label: lice_infestation_outcome_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lice_infestation_outcome_date
+      label: lice_infestation_outcome_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: lice_control_outcome_date
+      label: lice_control_outcome_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: lice_infestation_outcome_comments
+      label: lice_infestation_outcome_comments
+      hint: null
+      type: text
+      options: []
+      required: false

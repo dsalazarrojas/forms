@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Shopper Request Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: shopping_session
+      label: Shopping Session
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: false
+    - id: 5
+      name: date_of_shopping
+      label: Date of Shopping
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_shopping_time
+      label: Preferred Shopping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''French''}'
+      required: false
+    - id: 8
+      name: additional_requests
+      label: Additional Requests
+      hint: null
+      type: note
+      options: []
+      required: false

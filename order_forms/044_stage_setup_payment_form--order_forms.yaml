@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Setup Payment Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_name
+      label: Service Name
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: amount_due
+      label: Amount Due
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Failed
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: total_amount_due
+      label: Total Amount Due
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tax_exempt
+      label: Tax Exempt
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method_additional
+      label: Additional Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tax_rate
+      label: Tax Rate
+      hint: Tax rate is 10%
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: remaining_amount
+      label: Remaining Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: false
+    - id: 21
+      name: payment_method_additional_details
+      label: Payment Method Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_status_details
+      label: Payment Status Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes_details
+      label: Notes Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false

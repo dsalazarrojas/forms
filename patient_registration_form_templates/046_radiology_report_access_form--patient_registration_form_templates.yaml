@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: radiology_report_access_form
+    pages:
+    - id: 1
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: access_date
+      label: access_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: radiologist_notes
+      label: radiologist_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: radiology_report_id
+      label: radiology_report_id
+      hint: null
+      type: number
+      options: []
+      required: false

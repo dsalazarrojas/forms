@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Transfer Quotation Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For sending the quote
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_trip
+      label: -- Trip Details for Quote --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dropoff_address
+      label: Drop-off Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: transfer_frequency
+      label: Frequency of Transfer
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 9
+      name: preferred_vehicle
+      label: Preferred Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Executive Sedan
+      - Luxury SUV
+      - Premium Minivan
+      - Coach/Bus
+      required: true
+    - id: 10
+      name: passenger_volume
+      label: Estimated Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: meet_and_greet_option
+      label: Require Meet and Greet Service?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: recurring_travel
+      label: Is this a recurring corporate requirement?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: additional_requirements
+      label: Other Requirements or Special Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quote_urgency
+      label: How soon do you need the quote?
+      hint: null
+      type: select_one
+      options:
+      - Within 1 hour
+      - Within 24 hours
+      - Not urgent
+      required: true
+    - id: 15
+      name: preferred_currency
+      label: Preferred Currency for Quote
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - local currency
+      required: true

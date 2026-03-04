@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Coffee Order Form
+    pages:
+    - id: 1
+      name: coffee_intro
+      label: -- Order Your Coffee --
+      hint: Freshly brewed and delivered to you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: coffee_type
+      label: Coffee Type
+      hint: null
+      type: select_multiple
+      options:
+      - Espresso
+      - Americano
+      - Cappuccino
+      - Latte
+      - Macchiato
+      - Mocha
+      - Flat white
+      - Cold brew
+      required: true
+    - id: 9
+      name: roast_level
+      label: Roast Level
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Medium
+      - Dark
+      - Extra dark
+      required: true
+    - id: 10
+      name: bean_origin
+      label: Bean Origin
+      hint: null
+      type: select_one
+      options:
+      - Colombian
+      - Ethiopian
+      - Brazilian
+      - Indonesian
+      - Kenyan
+      - Mixed blend
+      required: false
+    - id: 11
+      name: grind_size
+      label: Grind Size
+      hint: null
+      type: select_one
+      options:
+      - Whole bean
+      - Fine
+      - Medium
+      - Coarse
+      required: true
+    - id: 12
+      name: quantity_bags
+      label: Number of Bags
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: bag_size
+      label: Bag Size (ounces)
+      hint: null
+      type: select_one
+      options:
+      - 8 oz
+      - 12 oz
+      - 1 lb
+      - 2 lb
+      - 5 lb
+      required: true
+    - id: 14
+      name: flavored_option
+      label: Flavored or Pure?
+      hint: null
+      type: select_one
+      options:
+      - Pure
+      - Vanilla
+      - Hazelnut
+      - Caramel
+      - Mocha
+      required: true
+    - id: 15
+      name: price_per_bag
+      label: Price Per Bag
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_cost
+      label: Total Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

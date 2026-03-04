@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Visitation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: relation
+      label: Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: select_one
+      options:
+      - Visitor
+      - Family
+      - Friend
+      - Other
+      required: false
+    - id: 10
+      name: visitor_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      required: true
+    - id: 11
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_name
+      label: Name on File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: visitor_signature
+      label: Visitor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: visitor_photo_id
+      label: Visitor Photo ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: visitor_photo_front
+      label: Visitor's Photo Front
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: visitor_photo_back
+      label: Visitor's Photo Back
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: photo_taken
+      label: Photo Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: visit_start_time
+      label: Visit Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: visit_end_time
+      label: Visit End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: visitor_notes
+      label: Visitor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: visit_reason
+      label: Visit Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Visit
+      - Non-Emergency Visit
+      required: true
+    - id: 25
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soup Sale Registration
+    pages:
+    - id: 1
+      name: fundraiser_info
+      label: Fundraiser Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_delivery_option
+      label: Pickup or Delivery
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pickup at store''}'
+      - '{''id'': 2, ''label'': ''Delivery to home''}'
+      - '{''id'': 3, ''label'': ''Other ( specify below)''}'
+      required: true
+    - id: 3
+      name: other_pickup_address
+      label: Other Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: soup_info
+      label: Soup Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: soup_name
+      label: Soup Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

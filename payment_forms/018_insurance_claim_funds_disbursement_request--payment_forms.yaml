@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Funds Disbursement Request
+    pages:
+    - id: 1
+      name: claim_info
+      label: Claim Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_info
+      label: Claimant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_contact
+      label: Claimant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_relationship
+      label: Claimant Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: policy_info
+      label: Policy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: claim_submitted
+      label: Claim Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: claim_denied
+      label: Claim Denied
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: claim_resolved
+      label: Claim Resolved
+      hint: null
+      type: date
+      options: []
+      required: false

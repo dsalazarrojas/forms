@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Ticketing Portal Access Form
+    pages:
+    - id: 1
+      name: event_tier
+      label: Event Tier
+      hint: null
+      type: select_one
+      options:
+      - Event Tier
+      - Tier 1
+      - Tier 2
+      - Tier 3
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event Type
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 11
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - Ticket Type
+      - Type 1
+      - Type 2
+      required: false
+    - id: 12
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Payment Method
+      - Method 1
+      - Method 2
+      required: false
+    - id: 16
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Event Status
+      - Status 1
+      - Status 2
+      required: false
+    - id: 17
+      name: attendee_status
+      label: Attendee Status
+      hint: null
+      type: select_one
+      options:
+      - Attendee Status
+      - Status 1
+      - Status 2
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Assigned Tool
+      - Tool 1
+      - Tool 2
+      required: false
+    - id: 19
+      name: ticket_id
+      label: Ticket ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: attendee_id
+      label: Attendee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: event_status_id
+      label: Event Status ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: attendee_status_id
+      label: Attendee Status ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: text
+      options: []
+      required: true

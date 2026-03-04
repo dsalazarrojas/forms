@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: HandMade Bag Order Form Worldpay UK Payment Form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Worldpay UK''}'
+      - '{''name'': ''Other''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Stripe''}'
+      - '{''name'': ''Apple Pay''}'
+      - '{''name'': ''Google Pay''}'
+      - '{''name'': ''Amazon Pay''}'
+      - '{''name'': ''Facebook Pay''}'
+      - '{''name'': ''Cash''}'
+      - '{''name'': ''Bank transfer''}'
+      - '{''name'': ''Cheque''}'
+      - '{''name'': ''Mobile wallet''}'
+      - '{''name'': ''Cryptocurrency''}'
+      required: true
+    - id: 4
+      name: order_type
+      label: Order type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Handmade''}'
+      - '{''name'': ''Handmade and printed''}'
+      - '{''name'': ''Handmade and custom''}'
+      - '{''name'': ''Wholesale''}'
+      - '{''name'': ''Custom''}'
+      required: true
+    - id: 5
+      name: customer_details
+      label: Customer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_total
+      label: Order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''GBP''}'
+      - '{''name'': ''EUR''}'
+      - '{''name'': ''USD''}'
+      - '{''name'': ''CAD''}'
+      - '{''name'': ''AUD''}'
+      - '{''name'': ''CNY''}'
+      - '{''name'': ''INR''}'
+      - '{''name'': ''JPY''}'
+      - '{''name'': ''CNY''}'
+      - '{''name'': ''KRW''}'
+      - '{''name'': ''TWD''}'
+      - '{''name'': ''MXN''}'
+      - '{''name'': ''COP''}'
+      required: true
+    - id: 8
+      name: billing_address
+      label: Billing address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_details
+      label: Delivery details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_method
+      label: Delivery method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Standard''}'
+      - '{''name'': ''Expedited''}'
+      - '{''name'': ''Express''}'
+      - '{''name'': ''Free''}'
+      - '{''name'': ''Other''}'
+      required: true
+    - id: 11
+      name: shipping_cost
+      label: Shipping cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date
+      label: Delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_time
+      label: Delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Pending''}'
+      - '{''name'': ''Paid''}'
+      - '{''name'': ''Cancelled''}'
+      - '{''name'': ''Failed''}'
+      - '{''name'': ''Refunded''}'
+      required: true
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_number
+      label: Order number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: created_date
+      label: Created date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_date
+      label: Updated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_gateway
+      label: Payment gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Stripe''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Square''}'
+      - '{''name'': ''Authorise''}'
+      - '{''name'': ''Payoneer''}'
+      - '{''name'': ''Paymaya''}'
+      - '{''name'': ''Authorise''}'
+      - '{''name'': ''Paymaya''}'
+      - '{''name'': ''Stripe''}'
+      - '{''name'': ''Square''}'
+      required: true
+    - id: 24
+      name: payment_method_other
+      label: Payment method other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_status_other
+      label: Payment status other
+      hint: null
+      type: text
+      options: []
+      required: false

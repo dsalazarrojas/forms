@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Tour Booking Form
+    pages:
+    - id: 1
+      name: traveler_info_header
+      label: -- Traveler Information --
+      hint: Please provide details for the primary contact
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: traveler_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: traveler_email
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: traveler_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tour_selection_header
+      label: -- Tour Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: selected_tour
+      label: Choose Your Tour
+      hint: null
+      type: select_one
+      options:
+      - Historical Old Town Walk (3 hours)
+      - City Highlights Bus Tour (Full Day)
+      - Gastronomy and Nightlife Tour (4 hours)
+      - River Cruise and Sunset Dinner (5 hours)
+      - Hidden Gems Photography Tour (3 hours)
+      required: true
+    - id: 7
+      name: tour_date
+      label: Preferred Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_adults
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: number_of_children
+      label: Number of Children (under 12)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: language_preference
+      label: Preferred Tour Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      required: true
+    - id: 11
+      name: pickup_location
+      label: Hotel for Pickup (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_requirements
+      label: Any dietary restrictions? (For food tours/dinner)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_notice
+      label: Note - Secure payment link will be sent to your email after booking confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_acceptance
+      label: I agree to the cancellation policy (24 hours notice required)
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: booking_date
+      label: Booking Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

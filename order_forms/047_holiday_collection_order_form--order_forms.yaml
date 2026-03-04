@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: holiday_collection_order_form
+    pages:
+    - id: 1
+      name: holiday_collection_order_form_page_1
+      label: holiday_collection_order_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collection_name
+      label: collection name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: select_one_1
+      label: collection type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 10
+      name: select_multiple_1
+      label: product options
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 11
+      name: product_price
+      label: product price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: product_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: product_weight
+      label: product weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: product_weight_unit
+      label: unit weight
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 16
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: order_total
+      label: order total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: customer_message
+      label: customer message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: collection_status
+      label: collection status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 20
+      name: collection_date
+      label: collection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: collection_time
+      label: collection time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: collection_notes
+      label: collection notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: delivery_postal_code
+      label: delivery post code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: delivery_city
+      label: delivery city
+      hint: null
+      type: text
+      options: []
+      required: true

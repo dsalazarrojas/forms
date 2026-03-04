@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: DriveThruMealOrderForm
+    pages:
+    - id: 1
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: Enter a unique order ID
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pickup_type
+      label: Pickup Type
+      hint: Select a pickup type
+      type: select_one
+      options:
+      - '{''name'': ''Pickup Window'', ''value'': ''Pickup Window''}'
+      - '{''name'': ''DriveThru'', ''value'': ''DriveThru''}'
+      - '{''name'': ''Delivery'', ''value'': ''Delivery''}'
+      - '{''name'': ''Curbside'', ''value'': ''Curbside''}'
+      required: false
+    - id: 4
+      name: order_items
+      label: Order Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Hamburger'', ''value'': ''Hamburger''}'
+      - '{''name'': ''Fries'', ''value'': ''Fries''}'
+      - '{''name'': ''Sandwich'', ''value'': ''Sandwich''}'
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Enter a phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: Enter a customer email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: drive_thru_order_form
+      label: DriveThru Order Form
+      hint: null
+      type: text
+      options: []
+      required: false

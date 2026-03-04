@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: E-Commerce Transaction Compliance Verification Form
+    pages:
+    - id: 1
+      name: e_commerce_transaction_form
+      label: E-commerce Transaction Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Stripe''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Authorize.net''}'
+      required: false
+    - id: 4
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''One-time transaction''}'
+      - '{''value'': ''Recurring payment''}'
+      - '{''value'': ''Subscription''}'
+      required: false
+    - id: 5
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: transaction_time
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer E-mail
+      hint: Customer email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: Customer's phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transaction_note
+      label: Transaction Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: merchant_info
+      label: Merchant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transaction_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Declined''}'
+      - '{''value'': ''Cancelled''}'
+      - '{''value'': ''Error''}'
+      - '{''value'': ''Refunded''}'
+      required: false
+    - id: 13
+      name: merchant_email
+      label: Merchant E-mail
+      hint: Merchant email address
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: merchant_phone
+      label: Merchant Phone
+      hint: Merchant's phone number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Declined''}'
+      required: false
+    - id: 17
+      name: merchant_name
+      label: Merchant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: merchant_address
+      label: Merchant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_name
+      label: Customer Name
+      hint: Customer name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_address
+      label: Customer Address
+      hint: Customer address
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: customer_id
+      label: Customer Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: merchant_id
+      label: Merchant Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

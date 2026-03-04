@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_ice_cream_cup_order_form
+    pages:
+    - id: 1
+      name: flavors
+      label: flavors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: toppings
+      label: toppings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: size
+      label: size
+      hint: null
+      type: select_one
+      options:
+      - ice_cream_cup_size
+      - Other
+      required: false
+    - id: 4
+      name: order_notes
+      label: order_notes
+      hint: Add any other notes about your order
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: flavor
+      label: flavor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: Submit your order
+      type: text
+      options: []
+      required: false

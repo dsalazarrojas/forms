@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club House Special Seats Registration
+    pages:
+    - id: 1
+      name: section_attendee
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active member
+      - Guest
+      - VIP member
+      - Supporter
+      - Other
+      required: true
+    - id: 6
+      name: section_event
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_seating
+      label: -- Special Seating Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: seat_type
+      label: Seat Type or Location
+      hint: Select preferred seating area
+      type: select_one
+      options:
+      - Front row - center
+      - Front row - side
+      - Middle section - center
+      - Middle section - side
+      - Back section - center
+      - VIP premium seats
+      - Wheelchair accessible
+      required: true
+    - id: 13
+      name: seat_number
+      label: Specific Seat Number - If Available
+      hint: If seats are pre-assigned
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: companion_seating
+      label: Need Companion Seating
+      hint: Sitting with someone?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: companion_name
+      label: Companion Name
+      hint: If needing seats together
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: companion_email
+      label: Companion Email Address
+      hint: If companion should receive confirmation
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: party_size
+      label: Total Party Size
+      hint: Number of people in your group
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_requirements
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility or Special Needs
+      hint: null
+      type: select_one
+      options:
+      - Wheelchair accessible seating
+      - Mobility assistance
+      - Visual assistance
+      - Hearing assistance
+      - No special needs
+      required: false
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions - If Applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_payment
+      label: -- Registration and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: ticket_price
+      label: Ticket Price - USD
+      hint: Per person
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: total_cost
+      label: Total Cost - USD
+      hint: Party size x Ticket Price
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Complete payment
+      - Payment pending
+      - Need invoice
+      required: true

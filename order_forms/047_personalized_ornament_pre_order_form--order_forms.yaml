@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Ornament Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_multiple
+      options:
+      - Ornament
+      - Decoration
+      - Gift
+      required: false
+    - id: 8
+      name: ornament_type
+      label: Ornament Type
+      hint: null
+      type: select_one
+      options:
+      - Ball Ornament
+      - Tree Ornament
+      - Christmas Ornament
+      required: false
+    - id: 9
+      name: ornament_size
+      label: Ornament Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

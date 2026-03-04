@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation rental billing form
+    pages:
+    - id: 1
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_details
+      label: Rental Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_rent
+      label: Total Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tax_included
+      label: Tax Included
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      required: false
+    - id: 10
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: additional_fees
+      label: Additional Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

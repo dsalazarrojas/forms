@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Stay Invoice
+    pages:
+    - id: 1
+      name: billing_details
+      label: Billing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bill_to
+      label: Bill To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Pay Pal
+      required: false
+    - id: 6
+      name: services_rendered
+      label: Services Rendered
+      hint: null
+      type: note
+      options: []
+      required: false

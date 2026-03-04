@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Deposit Form
+    pages:
+    - id: 1
+      name: deposit_header
+      label: -- Deposit Payment Submission --
+      hint: Required to secure your event date
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name_legal
+      label: Client Name (Individual or Entity)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_title_ref
+      label: Event Name/Reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date_confirmed
+      label: Confirmed Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_financials
+      label: -- Financial Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_quote_amount
+      label: Total Estimated Quote Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: deposit_amount_due
+      label: Deposit Amount Due
+      hint: Typically 50 percent of total
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_method_selection
+      label: Select Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - ACH/Bank Transfer
+      - Corporate Check
+      - Cashier s Check
+      required: true
+    - id: 9
+      name: section_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: billing_street_address
+      label: Billing Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_city_state_zip
+      label: City, State, and Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: billing_email
+      label: Email Address for Receipt
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: section_terms
+      label: -- Deposit Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: refund_policy_ack
+      label: I understand that this deposit is non-refundable if cancelled within
+        30 days of the event
+      hint: null
+      type: select_one
+      options:
+      - I Agree and Understand
+      - Other
+      required: true
+    - id: 15
+      name: date_lock_ack
+      label: I understand that the date is not locked until the deposit is processed
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: payment_authorized_by
+      label: Authorized Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date_payment
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: internal_invoice_link
+      label: Link to Internal Invoice (Staff Only)
+      hint: null
+      type: text
+      options: []
+      required: false

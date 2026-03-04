@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Patient Monitoring Study Registration
+    pages:
+    - id: 1
+      name: patient_registration_form
+      label: Patient Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_details
+      label: Demographic Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_selection
+      label: Study Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I am aware of the purpose and risks associated with this study.''}'
+      - '{''label'': ''I have read and understand the information provided above.''}'
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Child''}'
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Sibling''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_care_provider
+      label: Medical Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: study_start_date
+      label: Study Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: study_end_date
+      label: Study End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: study_duration
+      label: Study Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: study_location
+      label: Study Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: study_inclusion_exclusion_criteria
+      label: Study Inclusion and Exclusion Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: study_inclusion_criteria
+      label: Study Inclusion Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: study_exclusion_criteria
+      label: Study Exclusion Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: patient_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: provider_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

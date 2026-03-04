@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Shipment Check Out Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_category
+      label: Form Category
+      hint: Select a category for your form
+      type: select_one
+      options:
+      - Payment Forms
+      - Other Forms
+      required: false
+    - id: 4
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_time
+      label: Form Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_email
+      label: Form Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_phone
+      label: Form Phone
+      hint: null
+      type: text
+      options: []
+      required: false

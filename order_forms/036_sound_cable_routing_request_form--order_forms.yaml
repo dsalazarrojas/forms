@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sound Cable Routing Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Sound Cable Routing Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sound_cables
+      label: Sound Cables
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: cable_type
+      label: Cable Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Balanced XLR''}'
+      - '{''value'': ''Unbalanced XLR''}'
+      - '{''value'': ''Optical''}'
+      required: false
+    - id: 4
+      name: cable_length
+      label: Cable Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: soundboard
+      label: Soundboard
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Soundboard1''}'
+      - '{''value'': ''Soundboard2''}'
+      required: false
+    - id: 6
+      name: audio_signal
+      label: Audio Signal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: audio_channels
+      label: Audio Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Studio A''}'
+      - '{''value'': ''Studio B''}'
+      - '{''value'': ''Studio C''}'
+      required: false
+    - id: 9
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: installation_status
+      label: Installation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 11
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: cable_type2
+      label: Cable Type 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Balanced XLR''}'
+      - '{''value'': ''Unbalanced XLR''}'
+      required: false
+    - id: 13
+      name: cable_quality
+      label: Cable Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 14
+      name: cable_remarks
+      label: Cable Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cable_color
+      label: Cable Color
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Black''}'
+      - '{''value'': ''Red''}'
+      - '{''value'': ''White''}'
+      required: false
+    - id: 16
+      name: cable_material
+      label: Cable Material
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Copper''}'
+      - '{''value'': ''Fibre''}'
+      required: false
+    - id: 17
+      name: cable_weight
+      label: Cable Weight
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Light''}'
+      - '{''value'': ''Heavy''}'
+      required: false
+    - id: 18
+      name: cable_diameter
+      label: Cable Diameter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Small''}'
+      - '{''value'': ''Large''}'
+      required: false
+    - id: 19
+      name: cable_insulation
+      label: Cable Insulation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''PVC''}'
+      - '{''value'': ''Mylar''}'
+      required: false
+    - id: 20
+      name: cable_length_unit
+      label: Cable Length Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Meter''}'
+      - '{''value'': ''Foot''}'
+      required: false
+    - id: 21
+      name: cable_color2
+      label: Cable Color 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Black''}'
+      - '{''value'': ''Red''}'
+      required: false
+    - id: 22
+      name: cable_material2
+      label: Cable Material 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Copper''}'
+      - '{''value'': ''Fibre''}'
+      required: false
+    - id: 23
+      name: cable_quality2
+      label: Cable Quality 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: cable_insulation2
+      label: Cable Insulation 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''PVC''}'
+      - '{''value'': ''Mylar''}'
+      required: false
+    - id: 25
+      name: cable_weight2
+      label: Cable Weight 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Light''}'
+      - '{''value'': ''Heavy''}'
+      required: false

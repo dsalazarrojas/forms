@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Solution Quotation Form
+    pages:
+    - id: 1
+      name: --client_information--
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Company or individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For sending the quotation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: project_description
+      label: Project description
+      hint: Brief description of needs
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_solution_type
+      label: Preferred solution type
+      hint: Select one
+      type: select_one
+      options:
+      - Custom model development
+      - Managed service
+      - Integration and deployment
+      - Consulting only
+      required: true
+    - id: 6
+      name: expected_scope
+      label: Expected scope of work
+      hint: Estimated number of features or modules
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget_range
+      label: Budget range
+      hint: Select a range
+      type: select_one
+      options:
+      - Under 50k
+      - 50k to 150k
+      - 150k to 500k
+      - Over 500k
+      required: true
+    - id: 8
+      name: timeline
+      label: Desired timeline
+      hint: Target start and completion
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: procurement_requirements
+      label: Procurement requirements
+      hint: Any contractual or vendor onboarding needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Optional
+      type: text
+      options: []
+      required: false

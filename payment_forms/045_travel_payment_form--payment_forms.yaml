@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Payment Form
+    pages:
+    - id: 1
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_type
+      label: travel type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: traveler
+      label: Traveler
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Food
+      - Transportation
+      - Other
+      required: false
+    - id: 5
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_note
+      label: Expense Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: traveler_count
+      label: Traveler Count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_group
+      label: Assigned Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expense_status
+      label: Expense Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      required: false
+    - id: 11
+      name: expense_submitted_by
+      label: Expense Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_payment_amount
+      label: Travel Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false

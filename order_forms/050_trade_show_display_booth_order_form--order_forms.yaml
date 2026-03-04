@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Display Booth Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1001, ''label'': ''Standard Order'', ''value'': ''standard_order''}'
+      - '{''id'': 1002, ''label'': ''Custom Order'', ''value'': ''custom_order''}'
+      required: false
+    - id: 9
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_order_value
+      label: Total Order Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 2001, ''label'': ''Online'', ''value'': ''online''}'
+      - '{''id'': 2002, ''label'': ''Offline'', ''value'': ''offline''}'
+      required: false
+    - id: 12
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3001, ''label'': ''New'', ''value'': ''new''}'
+      - '{''id'': 3002, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''id'': 3003, ''label'': ''Delivered'', ''value'': ''delivered''}'
+      required: false

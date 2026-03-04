@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fee Payment Checklist
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Cheque''}'
+      - '{''label'': ''Bank Transfer''}'
+      - '{''label'': ''Online Payment''}'
+      - '{''label'': ''Others''}'
+      required: false
+    - id: 2
+      name: fee_date
+      label: Fee Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fee_amount
+      label: Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false

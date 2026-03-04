@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Patient Demographic Form
+    pages:
+    - id: 1
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2, ''name'': ''Male''}'
+      - '{''id'': 3, ''name'': ''Female''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: patient_height
+      label: Patient Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_care_provider
+      label: Primary Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_zip
+      label: Patient Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14, ''name'': ''California''}'
+      - '{''id'': 15, ''name'': ''Florida''}'
+      - '{''id'': 16, ''name'': ''Other''}'
+      required: false
+    - id: 15
+      name: patient_country
+      label: Patient Country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''name'': ''United States''}'
+      - '{''id'': 16, ''name'': ''Other''}'
+      required: false
+    - id: 16
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false

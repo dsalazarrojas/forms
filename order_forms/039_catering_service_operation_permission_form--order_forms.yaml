@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Operation Permission Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Your catering business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: operation_type
+      label: Operation Type
+      hint: Type of operation
+      type: select_one
+      options:
+      - New Catering Business
+      - Expansion of Services
+      - Location Change
+      - Menu Expansion
+      - Equipment Addition
+      - Other
+      required: true
+    - id: 8
+      name: operation_location
+      label: Operation Location
+      hint: Where will you operate
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_area
+      label: Service Area
+      hint: Geographic area
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_license
+      label: Business License Number
+      hint: Your license
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: food_service_permit
+      label: Food Service Permit
+      hint: Permit number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: health_permit
+      label: Health Permit Number
+      hint: Health department permit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: liability_insurance
+      label: Liability Insurance
+      hint: Coverage amount
+      type: select_one
+      options:
+      - Up to $1 Million
+      - $1 to $2 Million
+      - Over $2 Million
+      - Not Yet Obtained
+      required: true
+    - id: 14
+      name: food_safety_certification
+      label: Food Safety Certification
+      hint: Do you have certification
+      type: select_one
+      options:
+      - Yes - All Staff
+      - Yes - Manager Only
+      - false
+      required: true
+    - id: 15
+      name: equipment_list
+      label: Equipment List
+      hint: Major equipment you have
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_count
+      label: Number of Staff
+      hint: Total employees
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: service_types
+      label: Service Types
+      hint: What you will offer
+      type: select_multiple
+      options:
+      - Full Service Catering
+      - Drop-off Catering
+      - Buffet Service
+      - Plated Service
+      - Cocktail Reception
+      - Food Truck
+      required: true
+    - id: 18
+      name: cuisine_types
+      label: Cuisine Types
+      hint: What you will serve
+      type: select_multiple
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - French
+      - Fusion
+      required: true
+    - id: 19
+      name: operating_hours
+      label: Operating Hours
+      hint: Your business hours
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: parking_arrangements
+      label: Parking Arrangements
+      hint: For staff and deliveries
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: waste_disposal_plan
+      label: Waste Disposal Plan
+      hint: How will you handle waste
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: noise_control_measures
+      label: Noise Control Measures
+      hint: How will you control noise
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: neighbor_notification
+      label: Neighbors Notified
+      hint: Have you notified neighbors
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 24
+      name: compliance_agreement
+      label: Compliance Agreement
+      hint: Do you agree to comply with regulations
+      type: select_one
+      options:
+      - Yes - I Agree
+      - false
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: ida_moana_jr_musical_production_registration_form
+    pages:
+    - id: 1
+      name: production_name
+      label: Production Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - Children's Theatre
+      - Musical
+      - Other
+      required: false
+    - id: 3
+      name: production_dates
+      label: Production Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: production_address
+      label: Production Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_contact
+      label: Production Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_email
+      label: Production Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: production_description
+      label: Production Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_contact
+      label: Assigned Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 15
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: production_cost
+      label: Production Cost
+      hint: null
+      type: number
+      options: []
+      required: false

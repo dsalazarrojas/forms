@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: prophets
+    pages:
+    - id: 1
+      name: page_1
+      label: patient_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_id
+      label: select_treatment
+      hint: null
+      type: select_one
+      options:
+      - prophets
+      - treatments
+      - other
+      required: true
+    - id: 3
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_multiple
+      options:
+      - goal_of_care
+      - patient_centered
+      - provider_centered
+      required: false
+    - id: 6
+      name: prophets_comments
+      label: patient_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_satisfaction
+      label: patient_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - fairly_satisfied
+      - neutral
+      - dissatisfied
+      required: false
+    - id: 8
+      name: expected_outcomes
+      label: expected_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - met_expectations
+      - did_not_meet_expectations
+      - partially_met_expectations
+      required: false
+    - id: 9
+      name: actual_outcomes
+      label: actual_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - met_expectations
+      - did_not_meet_expectations
+      - partially_met_expectations
+      required: false
+    - id: 10
+      name: improvement_areas
+      label: improvement_areas
+      hint: null
+      type: select_multiple
+      options:
+      - communication
+      - education
+      - care_team
+      required: false
+    - id: 11
+      name: feedback_suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: duration_of_visit
+      label: duration_of_visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: visit_relevant
+      label: visit_relevant
+      hint: null
+      type: select_one
+      options:
+      - very_relevant
+      - somewhat_relevant
+      - not_relevant
+      required: false

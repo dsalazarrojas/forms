@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports League Flag Printing Order Form
+    pages:
+    - id: 1
+      name: league_name
+      label: League Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flag_type
+      label: Flag Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Custom'', ''value'': ''custom''}'
+      - '{''id'': 2, ''label'': ''Stock'', ''value'': ''stock''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Flag'', ''value'': ''flag''}'
+      - '{''id'': 2, ''label'': ''Banner'', ''value'': ''banner''}'
+      - '{''id'': 3, ''label'': ''Banners'', ''value'': ''banners''}'
+      required: false
+    - id: 5
+      name: artwork
+      label: Artwork
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Flag'', ''value'': ''flag''}'
+      - '{''id'': 2, ''label'': ''Number'', ''value'': ''number''}'
+      - '{''id'': 3, ''label'': ''Logo'', ''value'': ''logo''}'
+      required: false
+    - id: 6
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monochrome'', ''value'': ''monochrome''}'
+      - '{''id'': 2, ''label'': ''Multicolor'', ''value'': ''multicolor''}'
+      required: false
+    - id: 7
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Payment'', ''value'': ''payment''}'
+      - '{''id'': 2, ''label'': ''Deposit'', ''value'': ''deposit''}'
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: artwork_size
+      label: Artwork Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small'', ''value'': ''small''}'
+      - '{''id'': 2, ''label'': ''Large'', ''value'': ''large''}'
+      - '{''id'': 3, ''label'': ''Extra Large'', ''value'': ''extra_large''}'
+      required: false
+    - id: 10
+      name: quantity_artwork
+      label: Quantity Artwork
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_name_other
+      label: Team Name Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_name_abbrev
+      label: Team Name Abbrev
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_name_number
+      label: Team Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: team_name_color
+      label: Team Name Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_name_size
+      label: Team Name Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Single'', ''value'': ''single''}'
+      - '{''id'': 2, ''label'': ''Dual'', ''value'': ''dual''}'
+      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
+      required: false
+    - id: 24
+      name: team_name_size_other
+      label: Team Name Size Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

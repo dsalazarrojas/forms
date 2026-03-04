@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Relief Donation Form (Conflict Zones)
+    pages:
+    - id: 1
+      name: conflict_zones_form
+      label: Conflict Zones
+      hint: null
+      type: select_multiple
+      options:
+      - Africa
+      - Asia
+      - Europe
+      - North America
+      required: false
+    - id: 2
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 4
+      name: date_donated
+      label: Date Donated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_donated
+      label: Time Donated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: donation_note
+      label: Donation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

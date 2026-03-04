@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Locker Room Supply Order Form
+    pages:
+    - id: 1
+      name: league_locker_room_supply_order_form_page_1
+      label: league_locker_room_supply_order_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: league_locker_room_supply_order_form_page_2
+      label: league_locker_room_supply_order_form_page_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: league_locker_room_supply_order_form_page_3
+      label: equipment_requests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_schedule
+      label: delivery_schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''delivery''}'
+      - '{''value'': ''pickup''}'
+      required: false
+    - id: 5
+      name: track_orders
+      label: track_orders
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

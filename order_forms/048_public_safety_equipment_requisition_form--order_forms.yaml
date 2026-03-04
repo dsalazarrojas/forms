@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Safety Equipment Requisition Form
+    pages:
+    - id: 1
+      name: section_1
+      label: Section 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_2
+      label: Section 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_3
+      label: Section 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: section_4
+      label: Section 4
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 5
+      name: section_5
+      label: Section 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: section_6
+      label: Section 6
+      hint: null
+      type: email
+      options: []
+      required: true

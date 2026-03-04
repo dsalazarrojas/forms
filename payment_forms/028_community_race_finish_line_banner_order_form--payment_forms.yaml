@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Race Finish Line Banner Order Form
+    pages:
+    - id: 1
+      name: order_info
+      label: Order Information
+      hint: Your contact and order details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When is your race
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: banner_specs
+      label: Banner Specifications
+      hint: Design your banner
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: banner_size
+      label: Banner Size
+      hint: Select dimensions
+      type: select_one
+      options:
+      - 8 ft x 2 ft
+      - 10 ft x 2 ft
+      - 12 ft x 3 ft
+      - 15 ft x 3 ft
+      - 20 ft x 4 ft
+      - Custom Size
+      required: true
+    - id: 10
+      name: custom_width
+      label: Custom Width
+      hint: In feet
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: custom_height
+      label: Custom Height
+      hint: In feet
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: banner_material
+      label: Banner Material
+      hint: null
+      type: select_one
+      options:
+      - 13 oz Vinyl
+      - 18 oz Vinyl
+      - Mesh
+      - Fabric
+      - Eco-Friendly
+      required: true
+    - id: 13
+      name: finish_type
+      label: Finish Type
+      hint: null
+      type: select_one
+      options:
+      - Grommets Every 2 Feet
+      - Grommets Every 1 Foot
+      - Pole Pockets
+      - Hem Only
+      - No Finish
+      required: true
+    - id: 14
+      name: banner_design
+      label: Banner Design
+      hint: Content details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_text
+      label: Primary Text
+      hint: Main message on banner
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: secondary_text
+      label: Secondary Text
+      hint: Additional message
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: include_logo
+      label: Include Logo
+      hint: null
+      type: select_one
+      options:
+      - Yes - Will Upload
+      - Yes - Use Existing
+      - No Logo Needed
+      required: true
+    - id: 18
+      name: background_color
+      label: Background Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Blue
+      - Red
+      - Yellow
+      - Green
+      - Custom
+      required: true
+    - id: 19
+      name: text_color
+      label: Text Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Blue
+      - Red
+      - Yellow
+      - Green
+      - Custom
+      required: true
+    - id: 20
+      name: design_service
+      label: Do You Need Design Services
+      hint: We can design for you
+      type: select_one
+      options:
+      - Yes - Full Design
+      - Yes - Design Review
+      - No - I Have Final Artwork
+      required: true
+    - id: 21
+      name: artwork_upload
+      label: Will You Upload Artwork
+      hint: If you have final design
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 22
+      name: quantity
+      label: Quantity
+      hint: Number of banners
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: rush_order
+      label: Is This a Rush Order
+      hint: Additional fees may apply
+      type: select_one
+      options:
+      - Yes - Need Within 3 Days
+      - Yes - Need Within 1 Week
+      - No - Standard Production
+      required: true
+    - id: 24
+      name: shipping_info
+      label: Shipping Information
+      hint: Delivery details
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Ground
+      - 2-Day Express
+      - Overnight
+      - Will Pick Up
+      required: true
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Purchase Order
+      - Check
+      - Invoice
+      required: true
+    - id: 28
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: total_amount
+      label: Estimated Total
+      hint: Will be confirmed
+      type: number
+      options: []
+      required: false

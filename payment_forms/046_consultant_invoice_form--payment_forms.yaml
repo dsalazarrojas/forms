@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Invoice Form
+    pages:
+    - id: 1
+      name: section_consultant_ident
+      label: -- Consultant and Billing Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_full_name_ident
+      label: Consultant Full Name or Legal Entity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_email_ident
+      label: Consultant Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: invoice_number_auto
+      label: Invoice Reference Number (Internal)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_client_ident
+      label: -- Client Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: client_organization_name
+      label: Client Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_billing_email_ident
+      label: Client Billing Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: project_reference_ident
+      label: Project Reference/Contract ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_billing_period
+      label: -- Billing Period Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: period_start_date_ident
+      label: Billing Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: period_end_date_ident
+      label: Billing Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_service_line_items
+      label: -- Service Line Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_service_description
+      label: Primary Service Description
+      hint: e.g., Strategic Assessment, Implementation Support
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: hours_rendered_ident
+      label: Total Hours Rendered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: hourly_rate_ident
+      label: Standard Hourly Rate ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: subtotal_labor_amount_calc
+      label: Subtotal Labor Amount ($)
+      hint: Automatically calculated (Hours x Rate)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: reimbursable_expenses_amount
+      label: Total Reimbursable Expenses ($)
+      hint: As per contract terms
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_invoice_amount_calc
+      label: Total Invoice Amount ($)
+      hint: Labor plus expenses
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_payment_instructions
+      label: -- Payment and Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_payment_method_ident
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer (ACH/Wire)
+      - Credit/Debit Card
+      - Physical Check via Mail
+      - Internal Account Credit
+      required: true
+    - id: 21
+      name: payment_due_date_ident
+      label: Payment Due Date
+      hint: Standard Net 30 unless specified
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_billing_instructions
+      label: Additional Billing Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_date
+      label: Date of Invoice Submission
+      hint: null
+      type: date
+      options: []
+      required: true

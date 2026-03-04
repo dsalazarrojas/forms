@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Steak Order Form
+    pages:
+    - id: 1
+      name: order_form_steak_preference
+      label: Select Steaks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_form_steak_payment
+      label: Make a Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_form_steak_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

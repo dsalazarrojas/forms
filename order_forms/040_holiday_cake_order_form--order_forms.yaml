@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Cake Order Form
+    pages:
+    - id: 1
+      name: holiday_cake_form_fields
+      label: Holiday Cake Order Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cake_type
+      label: Cake Type
+      hint: Select a delicious holiday cake
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      - Pumpkin
+      required: false
+    - id: 3
+      name: cake_size
+      label: Cake Size
+      hint: Choose cake size
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: Select delivery time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

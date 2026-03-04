@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_access_control_device_order_form
+    pages:
+    - id: 1
+      name: remote_access_control_device_order
+      label: remote_access_control_device_order
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: access_control_device_type
+      label: remote_access_control_device_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: ordering_location
+      label: remote_access_control_device_ordering_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: order_comments
+      label: remote_access_control_device_order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: remote_access_control_device_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: remote_access_control_device_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: remote_access_control_device_order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: remote_access_control_device_order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: remote_access_control_device_order_comments
+      label: remote_access_control_device_order_comments
+      hint: null
+      type: note
+      options: []
+      required: false

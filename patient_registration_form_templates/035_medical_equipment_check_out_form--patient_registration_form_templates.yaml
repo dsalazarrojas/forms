@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_equipment_check_out_form
+    pages:
+    - id: 1
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: checkout_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checked_out_by
+      label: Checked Out By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''User A''}'
+      - '{''value'': ''User B''}'
+      - '{''value'': ''User C''}'
+      required: false
+    - id: 7
+      name: returned_date
+      label: Returned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: returned_by
+      label: Returned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Available''}'
+      - '{''value'': ''In use''}'
+      - '{''value'': ''Lost''}'
+      - '{''value'': ''Broken''}'
+      required: false
+    - id: 11
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: loan_duration
+      label: Loan Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: loan_date
+      label: Loan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: return_by
+      label: Returned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_equipment_number
+      label: Medical Equipment Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: loanor_return
+      label: Loan/Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: equipment_type_2
+      label: Equipment Type 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_status_2
+      label: Equipment Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Available''}'
+      - '{''value'': ''In use''}'
+      - '{''value'': ''Lost''}'
+      - '{''value'': ''Broken''}'
+      required: false
+    - id: 22
+      name: remarks_2
+      label: Remarks 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: loanor_return_2
+      label: Loan/Return 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_equipment_number_2
+      label: Medical Equipment Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false

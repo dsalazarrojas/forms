@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circulatory Health Assessment
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: height
+      label: Height
+      hint: In inches or centimeters
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight
+      label: Weight
+      hint: In pounds or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: blood_pressure
+      label: Recent Blood Pressure Reading
+      hint: If known (systolic/diastolic)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: heart_rate
+      label: Resting Heart Rate
+      hint: Beats per minute
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cholesterol_known
+      label: Do You Know Your Cholesterol Levels
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: cholesterol_total
+      label: Total Cholesterol
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: family_history
+      label: Family History of Heart Disease
+      hint: null
+      type: select_one
+      options:
+      - Yes, immediate family
+      - Yes, extended family
+      - false
+      - Not sure
+      required: true
+    - id: 13
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      - Occasional smoker
+      required: true
+    - id: 14
+      name: smoking_frequency
+      label: How Many Cigarettes Per Day
+      hint: If current smoker
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: exercise_frequency
+      label: How Often Do You Exercise
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times per week
+      - 1-2 times per week
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: exercise_type
+      label: Type of Exercise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Walking
+      - Running
+      - Swimming
+      - Cycling
+      - Weight training
+      - Yoga
+      - Sports
+      - None
+      required: false
+    - id: 17
+      name: diet_quality
+      label: How Would You Rate Your Diet
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: fruits_vegetables
+      label: Daily Servings of Fruits and Vegetables
+      hint: Average per day
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: medical_conditions
+      label: Existing Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High blood pressure
+      - High cholesterol
+      - Diabetes
+      - Heart disease
+      - Stroke
+      - Peripheral artery disease
+      - None
+      required: true
+    - id: 20
+      name: medications
+      label: Current Medications
+      hint: Especially heart or blood pressure meds
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chest pain
+      - Shortness of breath
+      - Palpitations
+      - Dizziness
+      - Leg pain when walking
+      - Swelling in legs
+      - Fatigue
+      - None
+      required: true
+    - id: 22
+      name: stress_level
+      label: Average Stress Level
+      hint: Scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: Drinks per week
+      type: select_one
+      options:
+      - None
+      - 1-3 per week
+      - 4-7 per week
+      - 8-14 per week
+      - More than 14 per week
+      required: true
+    - id: 25
+      name: health_goals
+      label: What Are Your Cardiovascular Health Goals
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychiatrist Information Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: Provide any relevant medical history
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history_1
+      label: Medical History 1
+      hint: Provide any relevant medical history 1
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: family_history
+      label: Family History
+      hint: Provide any relevant family history
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: List any current medications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history_2
+      label: Medical History 2
+      hint: Provide any relevant medical history 2
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history_3
+      label: Medical History 3
+      hint: Provide any relevant medical history 3
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Stable'', ''label'': ''Stable''}'
+      - '{''id'': 2, ''name'': ''Unstable'', ''label'': ''Unstable''}'
+      required: false
+    - id: 9
+      name: mental_status_1
+      label: Mental Status 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Stable'', ''label'': ''Stable''}'
+      - '{''id'': 2, ''name'': ''Unstable'', ''label'': ''Unstable''}'
+      required: false
+    - id: 10
+      name: mental_status_2
+      label: Mental Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Stable'', ''label'': ''Stable''}'
+      - '{''id'': 2, ''name'': ''Unstable'', ''label'': ''Unstable''}'
+      required: false
+    - id: 11
+      name: mental_status_3
+      label: Mental Status 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Stable'', ''label'': ''Stable''}'
+      - '{''id'': 2, ''nameประก'': ''Unstable'', ''label'': ''Unstable''}'
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Information Form
+    pages:
+    - id: 1
+      name: payment_information_form
+      label: payment_information_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mobile_number
+      label: mobile_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facebook_url
+      label: facebook_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_mode
+      label: payment_mode
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: date_of_customer
+      label: date_of_customer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: schedule_payment
+      label: schedule_payment
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: payment_mode_1
+      label: payment_mode
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: schedule_payment_1
+      label: schedule_payment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

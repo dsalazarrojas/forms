@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_greeting_card_design_request
+    pages:
+    - id: 1
+      name: custom_greeting_card_info
+      label: custom_greeting_card_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_style
+      label: design_style
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Cherry
+      required: false
+    - id: 3
+      name: design_image
+      label: design_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_info
+      label: delivery_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_zip
+      label: delivery_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_state
+      label: delivery_state
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      required: false
+    - id: 9
+      name: delivery_city
+      label: delivery_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_phone
+      label: delivery_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: design_note
+      label: design_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: card_size
+      label: card_size
+      hint: null
+      type: select_multiple
+      options:
+      - A6
+      - A7
+      - A8
+      required: false
+    - id: 13
+      name: card_shape
+      label: card_shape
+      hint: null
+      type: select_multiple
+      options:
+      - Rectangle
+      - Square
+      - Circle
+      required: false
+    - id: 14
+      name: paper_type
+      label: paper_type
+      hint: null
+      type: select_one
+      options:
+      - Recycled
+      - Glossy
+      - Matte
+      required: false
+    - id: 15
+      name: card_type
+      label: card_type
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Holiday
+      - Wedding
+      required: true
+    - id: 16
+      name: special_occasion
+      label: special_occasion
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: special_occasion_note
+      label: special_occasion_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: card_message
+      label: card_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_name
+      label: signature_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_message
+      label: signature_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature_image
+      label: signature_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_email
+      label: delivery_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: delivery_notes
+      label: delivery_notes
+      hint: null
+      type: note
+      options: []
+      required: false

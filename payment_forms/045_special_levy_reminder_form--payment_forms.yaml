@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Levy Reminder Form
+    pages:
+    - id: 1
+      name: property_name
+      label: property-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: notice_date
+      label: notice-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: notice_period
+      label: notice-period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: resident_response
+      label: resident-response
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: acknowledgement_date
+      label: acknowledgement-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: acknowledgement_status
+      label: acknowledgement-status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      - Pending
+      required: true
+    - id: 7
+      name: paid_status
+      label: paid-status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: total_due
+      label: total-due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: outstanding_balance
+      label: outstanding-balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: paid_status
+      label: paid-status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: payment_status
+      label: payment-status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      - Pending
+      required: true
+    - id: 12
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Check
+      - Other
+      required: true
+    - id: 13
+      name: payment_date
+      label: payment-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: paid_amount
+      label: paid-amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Parts Order Form
+    pages:
+    - id: 1
+      name: service_parts_order_form
+      label: Service Parts Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_parts_list
+      label: Service Parts List
+      hint: null
+      type: select_multiple
+      options:
+      - Part A
+      - Part B
+      - Part C
+      - Part D
+      - Part E
+      required: false
+    - id: 5
+      name: quantities
+      label: Quantities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: service_center_name
+      label: Service Center Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

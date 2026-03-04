@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_convention_payment_form
+    pages:
+    - id: 1
+      name: convention_details
+      label: Gaming Convention Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''Card Number'': None, ''value'': ''Card Number''}'
+      - '{''CVC'': None, ''value'': ''CVC''}'
+      - '{''Expiration Date'': None, ''value'': ''Expiration Date''}'
+      - '{''Expiration Month'': None, ''value'': ''Expiration Month''}'
+      - '{''Expiration Year'': None, ''value'': ''Expiration Year''}'
+      required: true
+    - id: 7
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

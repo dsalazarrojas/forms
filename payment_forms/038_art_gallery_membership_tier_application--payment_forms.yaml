@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Membership Tier Application
+    pages:
+    - id: 1
+      name: applicant_details_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_email
+      label: Email Address
+      hint: For digital membership card and newsletters
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: member_address
+      label: Mailing Address
+      hint: For physical welcome kit and magazine
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: membership_selection_header
+      label: -- Membership Tier Selection --
+      hint: Choose the level that best fits your interest
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: membership_tier
+      label: Select Your Membership Tier
+      hint: null
+      type: select_one
+      options:
+      - Student - Artist ($40 - year)
+      - Individual Patron ($75 - year)
+      - Dual - Family ($120 - year)
+      - Sustaining Member ($250 - year)
+      - Curator's Circle ($1,000 - year)
+      - Director's Visionary ($5,000 - year)
+      required: true
+    - id: 8
+      name: membership_duration
+      label: Membership Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years (10% Discount)
+      - Lifetime (Available for Curator's Circle and above)
+      required: true
+    - id: 9
+      name: payment_information_header
+      label: -- Payment Information --
+      hint: Payment will be processed securely after form submission
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit - Debit Card
+      - PayPal
+      - Apple Pay - Google Pay
+      - Direct Bank Transfer (Invoice will be sent)
+      required: true
+    - id: 11
+      name: auto_renewal_opt_in
+      label: Enrollment in Auto-Renewal
+      hint: Ensure your benefits never lapse
+      type: select_one
+      options:
+      - Yes - Automatically renew my membership annually
+      - No - I will renew manually
+      required: true
+    - id: 12
+      name: preferences_and_interests_header
+      label: -- Member Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: area_of_interest
+      label: Which areas of the gallery are you most interested in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Contemporary Exhibitions
+      - Educational Workshops
+      - Artist Talks and Lectures
+      - VIP Opening Receptions
+      - Gallery Tours
+      - Film and Digital Media
+      required: true
+    - id: 14
+      name: gift_membership
+      label: Is this a gift membership?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes (Specify recipient details in notes)
+      required: true
+    - id: 15
+      name: gift_recipient_notes
+      label: Gift Recipient Details
+      hint: Name and Email of the recipient if this is a gift
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: agree_to_privacy_policy
+      label: I agree to the Membership Terms and Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

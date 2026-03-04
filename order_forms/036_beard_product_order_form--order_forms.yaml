@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Product Order Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Customer first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Customer last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: beard_oil_qty
+      label: Beard Oil Quantity
+      hint: Number of bottles
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: beard_oil_scent
+      label: Beard Oil Scent
+      hint: Preferred scent
+      type: select_one
+      options:
+      - Cedarwood
+      - Sandalwood
+      - Peppermint
+      - Unscented
+      - Mixed
+      required: false
+    - id: 11
+      name: beard_balm_qty
+      label: Beard Balm Quantity
+      hint: Number of tins
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: beard_balm_scent
+      label: Beard Balm Scent
+      hint: Preferred scent
+      type: select_one
+      options:
+      - Cedarwood
+      - Sandalwood
+      - Peppermint
+      - Unscented
+      - Mixed
+      required: false
+    - id: 13
+      name: beard_wax_qty
+      label: Beard Wax Quantity
+      hint: Number of containers
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: beard_wash_qty
+      label: Beard Wash Quantity
+      hint: Number of bottles
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: comb_qty
+      label: Beard Comb Quantity
+      hint: Number of combs
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: brush_qty
+      label: Beard Brush Quantity
+      hint: Number of brushes
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: gift_message
+      label: Gift Message
+      hint: Optional message
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: gift_wrap
+      label: Gift Wrap Option
+      hint: Do you want gift wrap
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: subtotal
+      label: Subtotal
+      hint: Before tax and shipping
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Delivery fee
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_amount
+      label: Total Amount
+      hint: Final total
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 23
+      name: special_instructions
+      label: Special Instructions
+      hint: Order notes
+      type: text
+      options: []
+      required: false

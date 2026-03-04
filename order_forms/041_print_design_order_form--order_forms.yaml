@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: print_and_design_order_form
+    pages:
+    - id: 1
+      name: print_and_design_order_form_page_1
+      label: Lettering
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: print_and_design_order_form_page_2
+      label: Numbering
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: print_and_design_order_form_page_3
+      label: Coloring
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

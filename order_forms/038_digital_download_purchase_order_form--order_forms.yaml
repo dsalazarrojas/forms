@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_download_purchase_order_form
+    pages:
+    - id: 1
+      name: purchase_order_form
+      label: Purchase Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_download
+      label: product_download
+      hint: null
+      type: select_one
+      options:
+      - Download
+      - Purchase
+      - License
+      required: false
+    - id: 6
+      name: purchase_order_status
+      label: purchase_order_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - Inactive
+      required: false
+    - id: 7
+      name: product_description
+      label: product_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false

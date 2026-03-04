@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Clothing Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Enter your email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Enter your phone number for delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter the complete address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address_same_as_shipping
+      label: Billing Address Same as Shipping
+      hint: Is your billing address the same as your shipping address?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: Enter the complete billing address if different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clothing_items_header
+      label: -- Clothing Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_name
+      label: Item Name
+      hint: Enter the name of the clothing item you wish to order
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_category
+      label: Item Category
+      hint: Select the category of the clothing item
+      type: select_one
+      options:
+      - Tops
+      - Bottoms
+      - Dresses
+      - Outerwear
+      - Footwear
+      - Accessories
+      - Undergarments
+      - Activewear
+      - Formal Wear
+      required: true
+    - id: 10
+      name: item_color
+      label: Color
+      hint: Specify the color of the item
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: item_size
+      label: Size
+      hint: Select the size of the item
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - 3XL
+      - Custom Size
+      required: true
+    - id: 12
+      name: item_quantity
+      label: Quantity
+      hint: How many of this item would you like to order?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: item_price
+      label: Price Range
+      hint: What is your preferred price range for this item?
+      type: select_one
+      options:
+      - Under $25
+      - $25-$50
+      - $50-$100
+      - $100-$150
+      - $150-$200
+      - Over $200
+      required: false
+    - id: 14
+      name: brand_preference
+      label: Brand Preference
+      hint: Do you have a preferred brand for this item?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special fitting requirements or customizations
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_preference
+      label: Shipping Preference
+      hint: Select your preferred shipping method
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Express (2-3 business days)
+      - Next Day
+      - Store Pickup
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: Select Afterpay as your payment method
+      type: select_one
+      options:
+      - Afterpay (Buy Now, Pay Later)
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 18
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to the store's terms and Afterpay conditions?
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

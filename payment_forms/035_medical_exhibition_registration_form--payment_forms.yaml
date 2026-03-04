@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Exhibition Registration Form
+    pages:
+    - id: 1
+      name: exhibitor_details
+      label: Exhibitor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: paypal_account
+      label: PayPal Account
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: amount_to_pay
+      label: Amount to Pay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fee
+      label: Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: false

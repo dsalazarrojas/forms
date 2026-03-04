@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Health Consultation Survey
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: gender
+      label: Gender
+      hint: For medical records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 11
+      name: height
+      label: Height
+      hint: In feet and inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: weight
+      label: Weight
+      hint: In pounds or kg
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: blood_type
+      label: Blood Type
+      hint: If known
+      type: select_one
+      options:
+      - A Positive
+      - A Negative
+      - B Positive
+      - B Negative
+      - AB Positive
+      - AB Negative
+      - O Positive
+      - O Negative
+      - Not Sure
+      required: false
+    - id: 14
+      name: consultation_reason
+      label: Reason for Consultation
+      hint: Why are you seeking care?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: primary_symptoms
+      label: Primary Symptoms
+      hint: What symptoms are you experiencing?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: symptom_duration
+      label: How Long Have You Had These Symptoms?
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - Over 6 months
+      - Chronic
+      required: true
+    - id: 17
+      name: symptom_severity
+      label: Symptom Severity
+      hint: On a scale of 1-10
+      type: select_one
+      options:
+      - Mild (1-3)
+      - Moderate (4-6)
+      - Severe (7-8)
+      - Very Severe (9-10)
+      required: true
+    - id: 18
+      name: current_medications
+      label: Current Medications
+      hint: List all medications and dosages
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Any drug allergies
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: food_allergies
+      label: Food Allergies
+      hint: Any food allergies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_allergies
+      label: Other Allergies
+      hint: Environmental, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_history
+      label: Medical History
+      hint: Past illnesses, surgeries, conditions
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: family_medical_history
+      label: Family Medical History
+      hint: Relevant family conditions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: Diet, exercise, sleep habits
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: smoking_status
+      label: Smoking Status
+      hint: Tobacco use
+      type: select_one
+      options:
+      - Never Smoked
+      - Former Smoker
+      - Current Smoker
+      required: true
+    - id: 26
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How often?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Daily
+      required: true
+    - id: 27
+      name: previous_treatments
+      label: Previous Treatments for This Condition
+      hint: What have you tried?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy ID
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: consent_to_treatment
+      label: I Consent to Medical Consultation and Treatment
+      hint: Treatment authorization
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 33
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 34
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

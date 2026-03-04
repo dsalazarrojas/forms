@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Integration Payment Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: Auto-generated order number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_service
+      label: Product or service being purchased
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unit_price
+      label: Unit price
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: subtotal
+      label: Subtotal
+      hint: Calculated amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: tax_amount
+      label: Tax amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: discount_applied
+      label: Discount or coupon applied
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_amount
+      label: Total payment amount
+      hint: Final amount due
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: billing_address
+      label: Billing address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: billing_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: billing_zipcode
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: billing_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_address_same
+      label: Shipping address same as billing
+      hint: null
+      type: select_one
+      options:
+      - Yes, same address
+      - No, different address
+      required: true
+    - id: 20
+      name: shipping_address
+      label: Shipping address
+      hint: If different from billing
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_method
+      label: Shipping method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight shipping
+      - Digital delivery
+      - Pickup in store
+      - No shipping
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Other
+      required: true
+    - id: 23
+      name: card_type
+      label: Card type
+      hint: If paying by card
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Diners Club
+      - Other
+      required: false
+    - id: 24
+      name: special_instructions
+      label: Special instructions or notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

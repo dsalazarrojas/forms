@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Organization Enrollment Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: organization_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_providers
+      label: healthcare_providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: enrollment_status
+      label: enrollment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: enrollment_date
+      label: enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_count
+      label: patient_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: enrollment_form_submission_date
+      label: enrollment_form_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_zone_offset
+      label: time_zone_offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: patient_count_max
+      label: patient_count_max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: patient_count_max_unit
+      label: patient_count_max_unit
+      hint: null
+      type: text
+      options: []
+      required: false

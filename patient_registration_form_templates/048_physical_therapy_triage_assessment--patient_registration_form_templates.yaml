@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Triage Assessment
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Patient 1'', ''value'': 1}'
+      - '{''label'': ''Patient 2'', ''value'': 2}'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: Please answer the following medical history questions
+      type: select_multiple
+      options:
+      - '{''label'': ''Question 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Question 2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 5
+      name: assessment_questions
+      label: Assessment Questions
+      hint: Please answer the following assessment questions
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Symptom 1'', ''value'': 1}'
+      - '{''label'': ''Symptom 2'', ''value'': 2}'
+      required: false
+    - id: 7
+      name: diagnosis
+      label: Diagnosis
+      hint: Please select a diagnosis
+      type: select_multiple
+      options:
+      - '{''label'': ''Diagnosis 1'', ''value'': 1}'
+      - '{''label'': ''Diagnosis 2'', ''value'': 2}'
+      required: false
+    - id: 8
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: Please sign here
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: Please select a healthcare provider
+      type: select_one
+      options:
+      - '{''label'': ''Provider 1'', ''value'': 1}'
+      - '{''label'': ''Provider 2'', ''value'': 2}'
+      required: false
+    - id: 12
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Staff 1'', ''value'': 1}'
+      - '{''label'': ''Staff 2'', ''value'': 2}'
+      required: false
+    - id: 13
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_comments
+      label: Patient Comments
+      hint: Please enter any additional comments
+      type: text
+      options: []
+      required: false

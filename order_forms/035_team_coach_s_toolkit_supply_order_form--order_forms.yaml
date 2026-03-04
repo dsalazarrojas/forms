@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_coachs_toolkit_supply_order_form
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_multiple
+      options:
+      - Team Equipment
+      - Team Uniforms
+      - Team Gear
+      - Team Apparel
+      required: true
+    - id: 4
+      name: sport
+      label: sport
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: team_coach_id
+      label: team_coach_id
+      hint: null
+      type: select_one
+      options:
+      - assigned
+      - assigned
+      - assigned
+      - assigned
+      required: true
+    - id: 9
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sport_team
+      label: sport_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: school
+      label: school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: school_address
+      label: school_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_city
+      label: school_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_state
+      label: school_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_zip
+      label: school_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_country
+      label: school_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_phone
+      label: school_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_fax
+      label: school_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_email
+      label: school_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: coach_phone
+      label: coach_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: coach_fax
+      label: coach_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: coach_email
+      label: coach_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: team_coach_address
+      label: team_coach_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_coach_city
+      label: team_coach_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: team_coach_state
+      label: team_coach_state
+      hint: null
+      type: text
+      options: []
+      required: false

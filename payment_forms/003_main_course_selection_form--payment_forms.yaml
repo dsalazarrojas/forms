@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Main Course Selection Form
+    pages:
+    - id: 1
+      name: main_course_selection_form_1
+      label: Select a Course
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: main_course_selection_form_2
+      label: Additional Courses
+      hint: Select multiple courses
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Select the date of the event
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: Select the start time of the event
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: Select the end time of the event
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: meal_preferences
+      label: Meal Preferences
+      hint: Select your meal preferences
+      type: select_one
+      options:
+      - Grilled
+      - Vegetarian
+      - Vegan
+      - Seafood
+      - Meat
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: Enter the number of guests
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: Select the method of contact
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: Enter your contact information
+      type: text
+      options: []
+      required: false

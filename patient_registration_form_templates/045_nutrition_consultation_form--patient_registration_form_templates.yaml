@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Consultation Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_weight
+      label: patient_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''diabetes''}'
+      - '{''id'': 2, ''value'': ''high_cholesterol''}'
+      - '{''id'': 3, ''value'': ''obesity''}'
+      required: false
+    - id: 4
+      name: nutrition_goal
+      label: nutrition_goal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''healthy_eating''}'
+      - '{''id'': 2, ''value'': ''weight_loss''}'
+      - '{''id'': 3, ''value'': ''muscle_gains''}'
+      required: false
+    - id: 5
+      name: medical_specialty
+      label: medical_specialty
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''dietician''}'
+      - '{''id'': 2, ''value'': ''nutritionist''}'
+      - '{''id'': 3, ''value'': ''doctor''}'
+      required: false
+    - id: 6
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: ongoing_needs
+      label: ongoing_needs
+      hint: null
+      type: note
+      options: []
+      required: false

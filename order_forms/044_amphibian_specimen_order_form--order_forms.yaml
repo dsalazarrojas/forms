@@ -1,0 +1,494 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amphibian Specimen Order Form
+    pages:
+    - id: 1
+      name: section_order_info
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: For office use only
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_institution_info
+      label: -- Institution Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: institution_name
+      label: Institution Name
+      hint: School, university, museum, etc.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: institution_type
+      label: Institution Type
+      hint: null
+      type: select_one
+      options:
+      - K-12 School
+      - College/University
+      - Museum
+      - Research Laboratory
+      - Zoo/Aquarium
+      - Nature Center
+      - Other
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Biology, Science, etc.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_title
+      label: Contact Title/Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_shipping_address
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ship_street_address
+      label: Street Address
+      hint: Shipping address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: ship_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: ship_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: ship_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: ship_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_specimen_order
+      label: -- Specimen Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: specimen_type
+      label: Type of Specimens
+      hint: null
+      type: select_one
+      options:
+      - Preserved frogs
+      - Preserved toads
+      - Preserved salamanders
+      - Preserved reptiles
+      - Skeleton specimens
+      - Embryological specimens
+      - Mixed collection
+      - Other
+      required: true
+    - id: 22
+      name: frog_species
+      label: Frog Species Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Bullfrog
+      - Leopard frog
+      - Green frog
+      - Tree frog
+      - Toad
+      - Mixed species
+      - No preference
+      required: false
+    - id: 23
+      name: salamander_species
+      label: Salamander Species Requested
+      hint: If applicable
+      type: select_multiple
+      options:
+      - Tiger salamander
+      - Spotted salamander
+      - Newt
+      - Axolotl
+      - Mixed species
+      - Not applicable
+      required: false
+    - id: 24
+      name: reptile_species
+      label: Reptile Species Requested
+      hint: If applicable
+      type: select_multiple
+      options:
+      - Snake
+      - Lizard
+      - Turtle
+      - Mixed species
+      - Not applicable
+      required: false
+    - id: 25
+      name: quantity
+      label: Quantity Needed
+      hint: Number of specimens
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: specimen_size
+      label: Preferred Specimen Size
+      hint: null
+      type: select_one
+      options:
+      - Small (juvenile)
+      - Medium
+      - Large (adult)
+      - Mixed sizes
+      - No preference
+      required: false
+    - id: 27
+      name: preservation_method
+      label: Preservation Method
+      hint: null
+      type: select_one
+      options:
+      - Formalin
+      - Alcohol
+      - Freeze-dried
+      - Skeleton
+      - No preference
+      required: true
+    - id: 28
+      name: section_quality
+      label: -- Quality Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: quality_grade
+      label: Quality Grade
+      hint: null
+      type: select_one
+      options:
+      - Premium - Best quality
+      - Standard - Good for education
+      - Economy - Basic specimens
+      required: true
+    - id: 30
+      name: intact_specimens
+      label: Do Specimens Need to Be Intact
+      hint: No injuries or defects
+      type: select_one
+      options:
+      - Yes - Must be intact
+      - Minor defects acceptable
+      - No preference
+      required: false
+    - id: 31
+      name: labeling_requirements
+      label: Labeling Requirements
+      hint: null
+      type: select_one
+      options:
+      - Species name only
+      - Scientific and common name
+      - Full taxonomic classification
+      - Additional data tags
+      - No labels needed
+      required: false
+    - id: 32
+      name: section_educational_use
+      label: -- Educational Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: select_one
+      options:
+      - Classroom demonstration
+      - Student dissection
+      - Research
+      - Display/exhibit
+      - Collection
+      - Other
+      required: true
+    - id: 34
+      name: grade_level
+      label: Grade/Education Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle school
+      - High school
+      - College/University
+      - Professional
+      - Other
+      required: false
+    - id: 35
+      name: number_of_students
+      label: Approximate Number of Students
+      hint: If for student use
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: section_shipping
+      label: -- Shipping Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard ground
+      - Expedited
+      - Overnight
+      - Will pick up
+      required: true
+    - id: 38
+      name: delivery_date
+      label: Required Delivery Date
+      hint: If specific date needed
+      type: date
+      options: []
+      required: false
+    - id: 39
+      name: special_shipping_instructions
+      label: Special Shipping Instructions
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Purchase order
+      - Credit card
+      - Check
+      - Invoice
+      - Other
+      required: true
+    - id: 42
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: billing_address
+      label: Billing Address
+      hint: If different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: section_permits
+      label: -- Permits and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: permit_required
+      label: Do You Have Required Permits
+      hint: For specimen possession
+      type: select_one
+      options:
+      - Yes - Permits on file
+      - Yes - Will provide
+      - No - Not required
+      - Need information
+      required: true
+    - id: 46
+      name: permit_number
+      label: Permit Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: institutional_approval
+      label: Institutional Approval Obtained
+      hint: If required
+      type: select_one
+      options:
+      - Yes - Approved
+      - No - Not required
+      - Pending
+      required: false
+    - id: 48
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: additional_materials
+      label: Additional Materials Needed
+      hint: Dissection kits, guides, etc.
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: previous_orders
+      label: Have You Ordered From Us Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 52
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Catalog
+      - Colleague referral
+      - Conference
+      - Search engine
+      - Other
+      required: false
+    - id: 53
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 55
+      name: authorized_by
+      label: Authorized By
+      hint: Name of authorized person
+      type: text
+      options: []
+      required: true
+    - id: 56
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 57
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true

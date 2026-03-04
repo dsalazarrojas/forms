@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: pest_control_service_intake_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_request
+      label: service_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pest_type
+      label: pest_type
+      hint: null
+      type: select_one
+      options:
+      - Ants
+      - Bed Bugs
+      - Cockroaches
+      - Fleas
+      - Rats
+      - Spiders
+      - Wasps
+      - Termites
+      - Ticks
+      required: false
+    - id: 12
+      name: pest_description
+      label: pest_description
+      hint: null
+      type: text
+      options: []
+      required: false

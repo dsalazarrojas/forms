@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Safety Certification Order Form
+    pages:
+    - id: 1
+      name: basic_business_info
+      label: Basic Business Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_selection
+      label: Package Selection
+      hint: null
+      type: select_one
+      options:
+      - Safety Package 1
+      - Safety Package 2
+      - Safety Package 3
+      required: true
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

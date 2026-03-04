@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_business_payment_form_on_the_pop_up
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: currency_code
+      label: currency_code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: currency_symbol
+      label: currency_symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: currency_symbol_label
+      label: symbol_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: payment_option
+      label: payment_option
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: address
+      label: address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false

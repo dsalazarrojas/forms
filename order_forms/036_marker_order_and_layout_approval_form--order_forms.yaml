@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marker Order And Layout Approval Form
+    pages:
+    - id: 1
+      name: marker_order
+      label: Marker Order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: layout_name
+      label: Layout Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: layout_description
+      label: Layout Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: marker_layout
+      label: Marker Layout
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 5
+      name: layout_approvals
+      label: Layout Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Reject
+      - Comment
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_rejected
+      label: Date Rejected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_modified
+      label: Date Modified
+      hint: null
+      type: time
+      options: []
+      required: false

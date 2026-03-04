@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Campaign Insertion Order Tracking Log
+    pages:
+    - id: 1
+      name: insertion_order_details_section
+      label: -- Insertion Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: io_number
+      label: IO Number
+      hint: Insertion order number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: campaign_name
+      label: Campaign Name
+      hint: Name of the advertising campaign
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: advertiser_name
+      label: Advertiser Name
+      hint: Name of the advertiser
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agency_name
+      label: Agency Name
+      hint: Name of the advertising agency (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: io_date
+      label: IO Date
+      hint: Date the insertion order was created
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: campaign_dates_section
+      label: -- Campaign Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: When does the campaign start
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: When does the campaign end
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: platform_publication_details
+      label: Platform Publication Details
+      hint: Where will the advertisement be placed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: ad_format_specifications
+      label: Ad Format Specifications
+      hint: What format will the advertisement take
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: budget_and_rates_section
+      label: -- Budget and Rates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_budget
+      label: Total Budget
+      hint: Total budget for the insertion order
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: rate_per_unit
+      label: Rate Per Unit
+      hint: Rate per impression, click, or other unit
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: projected_impressions_clicks
+      label: Projected Impressions Clicks
+      hint: Expected impressions or clicks
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: trafficking_details_section
+      label: -- Trafficking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: creative_due_date
+      label: Creative Due Date
+      hint: When are the creative materials due
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: io_status
+      label: IO Status
+      hint: Current status of the insertion order
+      type: select_one
+      options:
+      - Draft
+      - Pending Approval
+      - Approved
+      - Live
+      - Paused
+      - Completed
+      - Cancelled
+      required: true
+    - id: 19
+      name: notes_comments
+      label: Notes Comments
+      hint: Any additional notes or comments about the IO
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: io_approved_by
+      label: IO Approved By
+      hint: Name of the person who approved the IO
+      type: text
+      options: []
+      required: true

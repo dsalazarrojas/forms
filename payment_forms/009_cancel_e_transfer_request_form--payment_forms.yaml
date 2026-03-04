@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancel E-Transfer Request Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: As registered with your financial institution
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_number
+      label: Bank Account Number
+      hint: Your primary account number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registered_email
+      label: Registered Email Address
+      hint: Use the email linked to your bank account
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: transaction_details_section
+      label: -- Transaction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: transaction_reference
+      label: Transaction Reference Number
+      hint: Found in your e-transfer confirmation notification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recipient_contact
+      label: Recipient Email or Phone
+      hint: The contact info for the original transfer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: transfer_amount
+      label: Amount of Transfer
+      hint: Amount in CAD
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: original_transfer_date
+      label: Date of Original Transfer
+      hint: The date you sent the funds
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: request_info_section
+      label: -- Request Info --
+      hint: Why are you cancelling this transfer
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Select the most accurate reason
+      type: select_one
+      options:
+      - Sent to wrong person
+      - Incorrect amount
+      - Fraudulent activity
+      - Recipient not found
+      - Other
+      required: true
+    - id: 12
+      name: reason_elaboration
+      label: Elaborate on Reason
+      hint: Briefly describe the situation
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: security_answer
+      label: Security Answer Provided
+      hint: The answer you set for the e-transfer recipient
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: confirmation_section
+      label: -- Confirmation --
+      hint: Review and sign
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: authorization_confirm
+      label: I confirm I am the authorized account holder
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: fee_agreement
+      label: Agreement to processing fees
+      hint: Cancellation may incur a standard fee from your bank
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: timeline_ack
+      label: Acknowledgment of processing timeline
+      hint: Funds may take up to 5 business days to reappear in your account
+      type: select_one
+      options:
+      - I understand it may take 3-5 business days
+      - I have concerns about the timeline
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

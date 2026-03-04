@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_claim_form_template
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: claimant_provider_npi
+      label: Claimant Provider NPI
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_provider_medicare_number
+      label: Claimant Provider Medicare Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Claim Type
+      - Medicare Part A
+      - Medicare Part B
+      - Medicare Part C
+      - Medicare Part D
+      - Medicare Part E
+      - Medicare Part F
+      - Medicare Part G
+      required: true
+    - id: 9
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Closed
+      required: true
+    - id: 12
+      name: claim_note
+      label: Claim Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false

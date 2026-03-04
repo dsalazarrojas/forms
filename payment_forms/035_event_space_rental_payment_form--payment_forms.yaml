@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_space_rental_payment_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Select a Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank Transfer
+      - Invoice
+      required: false
+    - id: 2
+      name: card_info
+      label: Card Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cvv
+      label: Card Verification Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

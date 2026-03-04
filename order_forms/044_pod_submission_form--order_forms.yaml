@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: POD Submission Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''T-shirt'', ''value'': ''T-shirt''}'
+      - '{''id'': 2, ''label'': ''Mug'', ''value'': ''Mug''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_size
+      label: product_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''S'', ''value'': ''S''}'
+      - '{''id'': 2, ''label'': ''M'', ''value'': ''M''}'
+      - '{''id'': 3, ''label'': ''L'', ''value'': ''L''}'
+      - '{''id'': 4, ''label'': ''XL'', ''value'': ''XL''}'
+      required: false
+    - id: 7
+      name: file
+      label: file
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: usage
+      label: usage
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: usage_time
+      label: usage_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: confirm_usage
+      label: confirm_usage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Yes''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 11
+      name: quantity_printed
+      label: quantity_printed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: design_file
+      label: design_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_image
+      label: product_image
+      hint: null
+      type: text
+      options: []
+      required: false

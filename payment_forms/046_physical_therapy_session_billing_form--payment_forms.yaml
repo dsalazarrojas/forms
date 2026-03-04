@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Session Billing Form
+    pages:
+    - id: 1
+      name: physical_therapy_session_billing_form
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_insurance
+      label: Patient Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - American Express
+      - Visa
+      - Mastercard
+      - Discover
+      - Check
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_at
+      label: Submission Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: patient_dob_confirmation
+      label: Confirm Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_provider_address
+      label: Insurance Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: insurance_provider_phone
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_provider_insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 23
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_provider
+      label: Billing Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false

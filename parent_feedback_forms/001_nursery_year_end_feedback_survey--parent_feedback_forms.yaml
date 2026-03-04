@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursery Year End Feedback Survey
+    pages:
+    - id: 1
+      name: nursery_year_end_feedback_survey_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nursery_year_end_feedback_survey_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nursery_year_end_feedback_survey_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nursery_year_end_feedback_survey_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nursery_year_end_feedback_survey_experience
+      label: Experience at nursery
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: nursery_year_end_feedback_survey_teaching
+      label: Teaching and care
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: nursery_year_end_feedback_survey_improvement
+      label: What could we improve
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nursery_year_end_feedback_survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

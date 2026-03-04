@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Journalism Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Official Sponsor Name
+      hint: Business name or individual name for recognition
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sponsorship_level
+      label: Desired Sponsorship Level
+      hint: Choose your level of commitment
+      type: select_one
+      options:
+      - Community Patron ($5,000+)
+      - News Sustainer ($2,500)
+      - Reporting Guardian ($1,000)
+      - Local Partner ($500)
+      - Friend of Journalism ($100)
+      required: true
+    - id: 5
+      name: contribution_amount
+      label: Specific Contribution Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: recognition_preference
+      label: How should we recognize your sponsorship?
+      hint: null
+      type: select_one
+      options:
+      - Use individual full name
+      - Use business or organization name
+      - Keep my sponsorship anonymous
+      required: true
+    - id: 7
+      name: initiative_support
+      label: Specific Journalism Initiative to Support
+      hint: You may designate your funds to a specific area
+      type: select_one
+      options:
+      - General Local News Operations
+      - Investigative and Long-form Reporting
+      - Arts, Culture, and Community Events
+      - Youth Journalism and Internships
+      - Environmental and Climate Coverage
+      required: true
+    - id: 8
+      name: newsroom_message
+      label: Message to the Newsroom
+      hint: Why are you supporting local journalism?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: logo_upload_indicator
+      label: Will you be providing a logo for digital recognition?
+      hint: For Patron and Sustainer levels
+      type: select_one
+      options:
+      - Yes, will email to newsroom
+      - Yes, will upload to portal
+      - No logo needed
+      required: false
+    - id: 10
+      name: sponsorship_terms
+      label: I agree to the terms of sponsorship and editorial independence
+      hint: Sponsors do not influence editorial content
+      type: select_one
+      options:
+      - I Agree and Understand
+      - Other
+      required: true
+    - id: 11
+      name: sponsorship_date
+      label: Date of Commitment
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: transaction_issues_report
+    pages:
+    - id: 1
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit
+      - Deposit
+      - Other
+      required: false
+    - id: 2
+      name: date_of_transaction
+      label: date_of_transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: transaction_amount
+      label: transaction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transaction_amount_in_cents
+      label: transaction_amount_in_cents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: transaction_description
+      label: transaction_description
+      hint: Describe the transaction issue
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_category
+      label: issue_category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false

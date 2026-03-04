@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_authorization_declaration_form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: credit_card_details
+      label: Credit Card Details
+      hint: Card number, security code, and expiration date are required
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: credit_card_security_code
+      label: credit card security code
+      hint: The security code is found on the back of your card
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: credit_card_expiration_date
+      label: credit card expiration date
+      hint: The credit card expiration date is required
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: credit_card_card_number
+      label: credit card card number
+      hint: The credit card card number is required
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: total_amount
+      label: total_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_ip
+      label: customer_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: credit_card_type
+      label: credit card type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: credit_card_card_verification_value
+      label: credit card card verification value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

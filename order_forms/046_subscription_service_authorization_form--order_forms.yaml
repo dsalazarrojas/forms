@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: subscriptionServiceAuthorizationForm
+    pages:
+    - id: 1
+      name: customerinformation
+      label: Customer Information
+      hint: Provide accurate information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: paymentinformation
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: paymentmethod
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 5
+      name: paymentamount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: billinginformation
+      label: Billing Information
+      hint: Provide billing information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: subscriptionterm
+      label: Subscription Term
+      hint: Select a subscription term
+      type: select_multiple
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 12 months
+      required: false
+    - id: 8
+      name: paymentfrequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: paymentdate
+      label: Payment Date
+      hint: Select a payment date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: subscriptionstatus
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

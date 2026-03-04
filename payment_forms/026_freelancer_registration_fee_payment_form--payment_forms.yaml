@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freelancer Registration Fee Payment Form
+    pages:
+    - id: 1
+      name: form_step_1
+      label: Freelancer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_step_2
+      label: Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: form_step_3
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Stripe
+      - Bank Transfer
+      - Cash
+      - PayPal
+      required: false
+    - id: 4
+      name: form_step_4
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: form_step_5
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_step_6
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

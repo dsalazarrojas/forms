@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Registration Renewal Form
+    pages:
+    - id: 1
+      name: owner_full_name
+      label: Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_city_state_zip
+      label: City - State - Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: boat_hull_number
+      label: Boat Hull Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: boat_registration_number
+      label: Current Registration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: boat_name
+      label: Boat Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: boat_manufacturer
+      label: Boat Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: boat_model
+      label: Boat Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: boat_year
+      label: Year of Manufacture
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: boat_length
+      label: Boat Length in Feet
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: boat_type
+      label: Type of Boat
+      hint: null
+      type: select_one
+      options:
+      - Sailboat
+      - Motorboat
+      - Yacht
+      - Cabin Cruiser
+      - Speedboat
+      - Fishing Boat
+      - Houseboat
+      - Jet Ski
+      - Pontoon
+      - Catamaran
+      required: true
+    - id: 14
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Hybrid
+      - No Engine
+      required: true
+    - id: 15
+      name: registration_expiry_date
+      label: Current Registration Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: renewal_period
+      label: Renewal Period
+      hint: How long would you like to renew for
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      required: true
+    - id: 17
+      name: vessel_use
+      label: Vessel Use Classification
+      hint: null
+      type: select_one
+      options:
+      - Personal Use
+      - Commercial Use
+      - Charter Use
+      - Fishing Use
+      - Racing Use
+      required: true
+    - id: 18
+      name: moorage_location
+      label: Moorage or Dock Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: registration_fee
+      label: Registration Fee
+      hint: Amount due
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Money Order
+      required: true
+    - id: 21
+      name: cardholder_name
+      label: Cardholder Name
+      hint: If paying by card
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_number
+      label: Card Number
+      hint: Last four digits
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: expiration_date
+      label: Card Expiration Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cvv_code
+      label: CVV Code
+      hint: Three digit security code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

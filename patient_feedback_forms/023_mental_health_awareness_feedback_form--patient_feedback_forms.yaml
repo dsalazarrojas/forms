@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Awareness Feedback Form
+    pages:
+    - id: 1
+      name: mental_health_awareness
+      label: Mental Health Awareness
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_professional
+      label: Medical Professional
+      hint: null
+      type: select_one
+      options:
+      - Psychiatrist
+      - Psychologist
+      - Counselor
+      - Social worker
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false

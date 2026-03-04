@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Company Trade Show Order Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: software_product_1
+      label: Software1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Software Product 1 Option 1''}'
+      - '{''id'': 2, ''label'': ''Software Product 1 Option 2''}'
+      - '{''id'': 3, ''label'': ''Software Product 1 Option 3''}'
+      required: true
+    - id: 9
+      name: software_product_2
+      label: Software2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Software Product 2 Option 1''}'
+      - '{''id'': 2, ''label'': ''Software Product 2 Option 2''}'
+      - '{''id'': 3, ''label'': ''Software Product 2 Option 3''}'
+      required: true
+    - id: 10
+      name: trade_show
+      label: Trade Show
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Trade Show Option 1''}'
+      - '{''id'': 2, ''label'': ''Trade Show Option 2''}'
+      required: true
+    - id: 11
+      name: order_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: order_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

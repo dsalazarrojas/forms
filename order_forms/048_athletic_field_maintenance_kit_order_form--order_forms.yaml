@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Field Maintenance Kit Order Form
+    pages:
+    - id: 1
+      name: customer_details_header
+      label: -- Facility and Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility or School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Street Address
+      hint: Include building number, city, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: kit_selection_header
+      label: -- Maintenance Kit Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_kit_type
+      label: Maintenance Kit Type
+      hint: Select the primary kit needed
+      type: select_one
+      options:
+      - Basic Field Care Kit
+      - Professional Turf Maintenance Kit
+      - Irrigation System Repair Kit
+      - Seasonal Winterization Kit
+      - Game Day Preparation Kit
+      required: true
+    - id: 9
+      name: kit_quantity
+      label: Quantity of Kits Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: supply_addons_header
+      label: -- Individual Supply Add-ons --
+      hint: Select additional items to supplement your kits
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_supplies
+      label: Additional Supplies Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Field Marking Paint (Box of 12)
+      - High-Performance Grass Seed (25kg Bag)
+      - Clay Infield Conditioner
+      - Heavy Duty Net Repair Twine
+      - Perforated Drainage Pipe
+      - Galvanized Turf Staples
+      required: false
+    - id: 12
+      name: paint_quantity
+      label: Quantity of Additional Marking Paint - Boxes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: seed_quantity
+      label: Quantity of Additional Seed - Bags
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: delivery_preferences_header
+      label: -- Delivery Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Ground (5-7 business days)
+      - Expedited Freight (2-3 business days)
+      - Local Depot Pickup
+      required: true
+    - id: 16
+      name: delivery_instructions
+      label: Special Delivery Instructions
+      hint: e.g. Access codes, specific gate numbers, delivery hours
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: required_date
+      label: Required-by Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: billing_payment_header
+      label: -- Billing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: purchase_order_number
+      label: Purchase Order - PO - Number
+      hint: Required for institutional billing
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method_choice
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Invoice - Net-30 Terms
+      - Credit Card
+      - Pre-paid Corporate Account
+      required: true
+    - id: 21
+      name: billing_email
+      label: Billing Email Address
+      hint: For digital invoice delivery
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: submission_date
+      label: Date of Order Submission
+      hint: null
+      type: date
+      options: []
+      required: true

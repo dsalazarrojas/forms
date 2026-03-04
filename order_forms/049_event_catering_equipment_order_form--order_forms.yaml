@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_catering_equipment_order_form
+    pages:
+    - id: 1
+      name: event_catering_equipment_order
+      label: event_catering_equipment_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: catering_equipment_list
+      label: catering_equipment_list
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      required: false
+    - id: 3
+      name: total_number_of_guests
+      label: total_number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: catering_equipment_details
+      label: catering_equipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_confirmation
+      label: order_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 14
+      name: special_request
+      label: special_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature_of_event_planner
+      label: signature_of_event_planner
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 16
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

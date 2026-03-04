@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autopay Change Or Cancellation Request
+    pages:
+    - id: 1
+      name: section_account_info
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: As it appears on your account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: Unique customer or account ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For confirmation purposes
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_request_details
+      label: -- Request Details --
+      hint: Choose the type of change you wish to make
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: request_type
+      label: Nature of Request
+      hint: null
+      type: select_one
+      options:
+      - Update Payment Method
+      - Change Billing Cycle
+      - Cancellation of Autopay
+      required: true
+    - id: 8
+      name: effective_date
+      label: Requested Effective Date
+      hint: When should this take effect?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: change_fields
+      label: Details to be Updated
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Credit/Debit Card Number
+      - Bank Account Information
+      - Expiration Date
+      - Billing Address
+      required: false
+    - id: 10
+      name: update_reason
+      label: Reason for Update or Cancellation
+      hint: Briefly describe why you are making this change
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_authorization
+      label: -- Authorization --
+      hint: Final confirmation
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: signature_authorized
+      label: I authorize this change/cancellation
+      hint: Type your full name as a digital signature
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement_terms
+      label: Do you understand that changes may take 1-2 billing cycles?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need more information
+      required: true

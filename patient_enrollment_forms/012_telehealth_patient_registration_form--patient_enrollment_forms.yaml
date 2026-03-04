@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Patient Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male'', ''label'': ''Male''}'
+      - '{''value'': ''female'', ''label'': ''Female''}'
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''diabetes'', ''label'': ''Diabetes''}'
+      - '{''value'': ''hypertension'', ''label'': ''Hypertension''}'
+      required: true
+    - id: 9
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_provider
+      label: Medical Record Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_id_number
+      label: Patient ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upload_file_label
+      label: Upload File Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: upload_file_type
+      label: Upload File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pdf'', ''label'': ''PDF''}'
+      - '{''value'': ''image'', ''label'': ''Image''}'
+      required: false
+    - id: 23
+      name: upload_file_name
+      label: Upload File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: upload_file_size
+      label: Upload File Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: upload_file_path
+      label: Upload File Path
+      hint: null
+      type: text
+      options: []
+      required: false

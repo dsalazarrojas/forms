@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Safety Assessment Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey questions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_safety_risk_factors
+      label: Patient Safety Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_safety_risk_factors_hints
+      label: Please select all that apply
+      hint: null
+      type: select_one
+      options:
+      - Falls or near falls
+      - Medication errors
+      - Surgical or invasive procedure complications
+      - Surgical site infections
+      - Anesthesia complications
+      - Surgical site complications
+      - Blood clots or embolisms
+      - Other (specify)
+      required: false
+    - id: 4
+      name: patient_safety_risk_factors_other
+      label: Other
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_safety_events
+      label: Patient Safety Events
+      hint: null
+      type: select_one
+      options:
+      - Adverse event occurred
+      - No adverse event occurred
+      - Not sure
+      required: false
+    - id: 6
+      name: patient_safety_event_description
+      label: Describe the event
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_safety_event_location
+      label: Event location
+      hint: null
+      type: select_one
+      options:
+      - In hospital
+      - At home or in a clinic
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: patient_safety_event_location_other
+      label: Other location
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_safety_risk_factors_cause
+      label: Patient Safety Risk Factors Cause
+      hint: null
+      type: select_one
+      options:
+      - Patient factors
+      - Healthcare provider factors
+      - Both
+      - Not sure
+      required: false
+    - id: 10
+      name: patient_safety_risk_factors_cause_other
+      label: Other
+      hint: Please describe
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: order_delivery_concern_contact_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Order Delivery Concern Contact Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_message
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: customer_order_status
+      label: Customer Order Status
+      hint: null
+      type: select_one
+      options:
+      - cancelled
+      - fulfilled
+      - pending
+      required: true
+    - id: 10
+      name: customer_order_type
+      label: Customer Order Type
+      hint: null
+      type: select_multiple
+      options:
+      - online
+      - pickup
+      - in_person
+      required: true
+    - id: 11
+      name: customer_order_source
+      label: Customer Order Source
+      hint: null
+      type: select_one
+      options:
+      - web
+      - phone
+      - social_media
+      required: true
+    - id: 12
+      name: customer_delivery_type
+      label: Customer Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - shipping
+      - pickup
+      - in_person
+      required: true
+    - id: 13
+      name: customer_delivery_source
+      label: Customer Delivery Source
+      hint: null
+      type: select_one
+      options:
+      - store
+      - courier
+      - online
+      required: true
+    - id: 14
+      name: business_delivery_type
+      label: Business Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - shipping
+      - pickup
+      required: false
+    - id: 15
+      name: business_delivery_source
+      label: Business Delivery Source
+      hint: null
+      type: select_one
+      options:
+      - store
+      - store_partner
+      required: false
+    - id: 16
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_multiple
+      options:
+      - delayed
+      - damaged
+      - missing
+      required: true
+    - id: 17
+      name: issue_description_business
+      label: Business Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_issue_description
+      label: Customer Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: business_note
+      label: Business Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_message_business
+      label: Business Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - resolved
+      required: true
+    - id: 23
+      name: business_message
+      label: Business Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: business_signature
+      label: Business Signature
+      hint: null
+      type: text
+      options: []
+      required: false

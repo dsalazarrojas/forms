@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Basket Raffle Ticket Purchase
+    pages:
+    - id: 1
+      name: name
+      label: Gift_Basket_Raffle_Ticket_Purchase_Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Enter_Your_Names
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: quantity
+      label: How_Many_Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount_To_Spend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Payment_Method
+      hint: null
+      type: select_one
+      options:
+      - Payment_method_1
+      - Payment_method_2
+      required: false

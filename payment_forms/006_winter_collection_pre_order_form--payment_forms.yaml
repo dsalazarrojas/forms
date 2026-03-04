@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Collection Pre Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: order form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payment
+      label: payment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''id'': 2, ''label'': ''PayPal'', ''value'': ''paypal''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: delivery_details
+      label: delivery details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In-store pickup'', ''value'': ''store''}'
+      - '{''id'': 2, ''label'': ''Home delivery'', ''value'': ''home''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 4
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_city
+      label: shipping city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_state
+      label: shipping state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_zip
+      label: shipping zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_country
+      label: shipping country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash'', ''value'': ''cash''}'
+      - '{''id'': 2, ''label'': ''Check'', ''value'': ''check''}'
+      - '{''id'': 3, ''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''id'': 4, ''label'': ''PayPal'', ''value'': ''paypal''}'
+      required: false
+    - id: 12
+      name: payment_method_other
+      label: payment method other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_notes
+      label: order notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_note
+      label: customer note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_shipping_name
+      label: customer shipping name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New'', ''value'': ''new''}'
+      - '{''id'': 2, ''label'': ''Shipped'', ''value'': ''shipped''}'
+      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''id'': 4, ''label'': ''Canceled'', ''value'': ''canceled''}'
+      required: false
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

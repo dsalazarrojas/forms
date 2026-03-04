@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Joint Bills Agreement Form
+    pages:
+    - id: 1
+      name: roommate_name
+      label: Roommate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roommate_email
+      label: Roommate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: roommates_count
+      label: Number of Roommates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: billers_name
+      label: Biller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: billers_email
+      label: Biller Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: bills_frequency
+      label: How often bills are paid
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 7
+      name: billers_phone
+      label: Biller Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billers_address
+      label: Biller Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bill_amount
+      label: Bill Amount
+      hint: Please specify the total amount of each bill
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: bill_due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

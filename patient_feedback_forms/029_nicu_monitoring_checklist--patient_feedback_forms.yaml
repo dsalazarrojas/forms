@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: NICU Monitoring Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: heart_rate_monitors
+      label: heart rate monitors
+      hint: null
+      type: select_one
+      options:
+      - Blood Pressure Monitor
+      - Pulse Oximeter
+      - Electrocardiogram
+      required: false
+    - id: 3
+      name: respiratory_monitors
+      label: respiratory monitors
+      hint: null
+      type: select_multiple
+      options:
+      - Resuscitator
+      - Ventilator
+      required: false
+    - id: 4
+      name: temperature_monitors
+      label: temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: blood_gas_monitors
+      label: blood gas monitors
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Gas Analyzer
+      - Capnography
+      required: false
+    - id: 6
+      name: blood_pressure_monitors
+      label: blood pressure monitors
+      hint: null
+      type: select_one
+      options:
+      - Invasive Blood Pressure Monitor
+      - Non Invasive Blood Pressure Monitor
+      required: false
+    - id: 7
+      name: neurologic_monitors
+      label: neurologic
+      hint: null
+      type: select_one
+      options:
+      - EEG
+      - Electroencephalography
+      required: false
+    - id: 8
+      name: cardiac_monitors
+      label: cardiac
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac Catheterization
+      - Cardiac MRI
+      required: false
+    - id: 9
+      name: respiratory_monitors
+      label: respiratory
+      hint: null
+      type: select_multiple
+      options:
+      - Resuscitator
+      - Ventilator
+      required: false
+    - id: 10
+      name: other_monitors
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

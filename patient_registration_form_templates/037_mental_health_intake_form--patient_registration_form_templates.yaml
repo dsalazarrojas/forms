@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Intake Form
+    pages:
+    - id: 1
+      name: patient_medical_history_1
+      label: patient medical history 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_medical_history_2
+      label: patient medical history 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_medical_history_1
+      label: family medical history 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents_1
+      label: supporting documents 1
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: fee_payments_1
+      label: fee payments 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: patient_data_1
+      label: patient data 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_data_2
+      label: patient data 2
+      hint: null
+      type: note
+      options: []
+      required: false

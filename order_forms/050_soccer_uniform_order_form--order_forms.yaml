@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Uniform Order Form
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: order_date
+      hint: Date of order
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online order''}'
+      - '{''value'': ''In-store order''}'
+      - '{''value'': ''Phone order''}'
+      required: false
+    - id: 7
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Square''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank transfer''}'
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Square''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank transfer''}'
+      required: false
+    - id: 10
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_date
+      label: shipping_date
+      hint: Date for shipping
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: order_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

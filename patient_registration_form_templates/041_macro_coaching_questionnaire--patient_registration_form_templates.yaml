@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Macro Coaching Questionnaire
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: diet_type
+      label: diet_type
+      hint: null
+      type: select_one
+      options:
+      - Macro
+      - Keto
+      - Low Carb
+      - High Carb
+      - Vegetarian
+      - Vegan
+      required: true
+    - id: 4
+      name: workout_frequency
+      label: workout_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - 3-4 Times a Week
+      - 1-2 Times a Week
+      - Rarely
+      required: true
+    - id: 5
+      name: macros_goal
+      label: macros_goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: macros_intake
+      label: macros_intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: workout_goal
+      label: workout_goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: weight_goal
+      label: weight_goal
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower Supply Order Form
+    pages:
+    - id: 1
+      name: orderer_name
+      label: Your Name
+      hint: Name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: orderer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: orderer_phone
+      label: Phone Number
+      hint: Contact for order questions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Baby Shower Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive items
+      type: select_one
+      options:
+      - Home Delivery
+      - Store Pickup
+      - Event Venue Delivery
+      - Ship to Address
+      required: true
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: decorations_order
+      label: Decorations
+      hint: Select decoration items
+      type: select_multiple
+      options:
+      - Balloon bouquet
+      - Welcome banner
+      - Table centerpieces
+      - Photo backdrop
+      - Streamers
+      - Confetti
+      - None
+      required: true
+    - id: 8
+      name: tableware_order
+      label: Tableware
+      hint: Select tableware items
+      type: select_multiple
+      options:
+      - Plates, small
+      - Plates, large
+      - Cups
+      - Napkins
+      - Plastic utensils
+      - Tablecloth
+      - Serving trays
+      - None
+      required: true
+    - id: 9
+      name: food_order
+      label: Food Items
+      hint: Select food items
+      type: select_multiple
+      options:
+      - Cupcake set
+      - Cake
+      - Cookie platter
+      - Fruit platter
+      - Vegetable platter
+      - Sandwich platter
+      - Cheese platter
+      - None
+      required: true
+    - id: 10
+      name: beverage_order
+      label: Beverages
+      hint: Select drinks
+      type: select_multiple
+      options:
+      - Punch
+      - Juice boxes
+      - Soda
+      - Water bottles
+      - Coffee
+      - Tea
+      - None
+      required: true
+    - id: 11
+      name: games_order
+      label: Games and Activities
+      hint: Select game supplies
+      type: select_multiple
+      options:
+      - Baby bingo cards
+      - Baby food tasting kit
+      - Diaper raffle tickets
+      - Advice cards
+      - Pen set for games
+      - Prize items
+      - None
+      required: true
+    - id: 12
+      name: party_favors_order
+      label: Party Favors
+      hint: Select favor items
+      type: select_multiple
+      options:
+      - Mini candles
+      - Soap bars
+      - Seed packets
+      - Candy bags
+      - Keychains
+      - Photo frames
+      - None
+      required: true
+    - id: 13
+      name: theme_selection
+      label: Theme Selection
+      hint: Select theme for supplies
+      type: select_one
+      options:
+      - Classic Baby
+      - Rubber Ducky
+      - Teddy Bear
+      - Safari
+      - Storybook
+      - Floral
+      - No specific theme
+      required: true
+    - id: 14
+      name: color_preference
+      label: Color Preference
+      hint: Primary colors
+      type: select_multiple
+      options:
+      - Pink
+      - Blue
+      - Yellow
+      - Green
+      - White
+      - Gold
+      - Silver
+      - Multicolor
+      required: true
+    - id: 15
+      name: guest_count
+      label: Expected Guest Count
+      hint: Number of guests for quantity planning
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Any custom items or notes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Cash on Pickup
+      - Invoice
+      required: true
+    - id: 18
+      name: order_total
+      label: Estimated Order Total
+      hint: Approximate budget
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

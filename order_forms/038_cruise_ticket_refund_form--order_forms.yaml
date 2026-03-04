@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: cruise_ticket_refund_form
+    pages:
+    - id: 1
+      name: passenger_info
+      label: Passenger Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ticket_details
+      label: Ticket Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: select_one
+      options:
+      - Cancellation
+      - Rescheduling
+      - Other
+      required: false
+    - id: 4
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: refund_currency
+      label: Refund Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      required: false
+    - id: 6
+      name: prophets_note
+      label: Prophets Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - EDT
+      - CST
+      - MST
+      - PST
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 17
+      name: order_id
+      label: Order ID
+      hint: null
+      type: select_one
+      options:
+      - '123456'
+      - '789012'
+      - '345678'
+      required: false
+    - id: 18
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: false
+    - id: 19
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: passenger_email
+      label: Passenger Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: passenger_phone
+      label: Passenger Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: passenger_address
+      label: Passenger Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: passenger_city
+      label: Passenger City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: passenger_state
+      label: Passenger State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: passenger_zip
+      label: Passenger Zip
+      hint: null
+      type: text
+      options: []
+      required: false

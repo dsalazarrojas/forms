@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Currency Payment Preference Form
+    pages:
+    - id: 1
+      name: form_group_1
+      label: Payment Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_input_1
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_input_2
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - AUD
+      - INR
+      - GBP
+      - CHF
+      - CNY
+      - CAD
+      - NZD
+      - RUB
+      - MXN
+      required: false
+    - id: 4
+      name: form_group_2
+      label: Additional Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: form_input_5
+      label: Currency Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_group_3
+      label: Payment Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_input_7
+      label: Bank
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_group_4
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

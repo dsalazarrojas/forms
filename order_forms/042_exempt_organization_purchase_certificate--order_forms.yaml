@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: exempt_organization_purchase_certificate
+    pages:
+    - id: 1
+      name: organization
+      label: Exempt Organization
+      hint: null
+      type: select_multiple
+      options:
+      - Nonprofit Organization
+      - Other qualifying organization
+      required: false
+    - id: 2
+      name: vendor
+      label: Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_items
+      label: Purchase Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false

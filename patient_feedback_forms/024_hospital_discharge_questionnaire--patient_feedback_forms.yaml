@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Discharge Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of patient
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of patient
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Patient email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Patient phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: ward
+      label: Ward
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: doctor_name
+      label: Doctor Name
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_title
+      label: Doctor Title
+      hint: Doctor title
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: Additional feedback
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: hospital_name
+      label: Hospital Name
+      hint: Hospital name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discharge_date
+      label: Discharge Date
+      hint: Discharge date
+      type: date
+      options: []
+      required: false

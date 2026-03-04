@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: ski_equipment_rental_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Snowboards
+      - Skis
+      - Snowshoes
+      - Other
+      required: false
+    - id: 3
+      name: equipment_size
+      label: Equipment Size
+      hint: Select all sizes that apply
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      required: false
+    - id: 4
+      name: rental_duration
+      label: Rental Duration
+      hint: Select all durations that apply
+      type: select_multiple
+      options:
+      - 1 day
+      - 2 days
+      - 3 days
+      - 4 days
+      required: false
+    - id: 5
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Debit
+      - Other
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Debit
+      - Other
+      required: false
+    - id: 13
+      name: payment_amount_2
+      label: Payment Amount 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_3
+      label: Payment Method 3
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Debit
+      - Other
+      required: false
+    - id: 15
+      name: payment_amount_3
+      label: Payment Amount 3
+      hint: null
+      type: number
+      options: []
+      required: false

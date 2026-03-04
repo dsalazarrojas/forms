@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinic New Patient Form
+    pages:
+    - id: 1
+      name: personal_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address_section
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_section
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_relationship
+      label: Relationship to Patient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: allergies
+      label: Allergies to medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: chronic_conditions
+      label: Chronic medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: current_medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: surgeries
+      label: Previous surgeries or hospitalizations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_section
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: insurance_id
+      label: Insurance ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: group_number
+      label: Group Number
+      hint: null
+      type: text
+      options: []
+      required: false

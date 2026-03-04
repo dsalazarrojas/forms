@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bulk Return Authorization Order Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Return Request Date
+      hint: When requesting return
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_id
+      label: Customer or Account ID
+      hint: Your account number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: original_order_number
+      label: Original Order Number
+      hint: Order being returned
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: Original Order Date
+      hint: When was order placed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: invoice_number
+      label: Invoice Number
+      hint: Order reference
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purchase_amount
+      label: Original Purchase Amount
+      hint: Order total
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: product_sku
+      label: Product SKU or ID
+      hint: Product code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: product_description
+      label: Product Description
+      hint: What product
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quantity_returned
+      label: Quantity Being Returned
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: return_reason
+      label: Reason for Return
+      hint: Why returning
+      type: select_one
+      options:
+      - Defective or Damaged
+      - Wrong Product Received
+      - Not as Described
+      - Quality Issues
+      - Changed Mind
+      - No Longer Needed
+      - Better Price Found
+      - Other
+      required: true
+    - id: 14
+      name: detailed_reason
+      label: Detailed Explanation
+      hint: More details about return
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: product_condition
+      label: Product Condition
+      hint: Condition of returned items
+      type: select_one
+      options:
+      - Unused - Original Packaging
+      - Unopened
+      - Used But Good Condition
+      - Damaged Packaging
+      - Minor Damage
+      - Significant Damage
+      - Defective
+      required: true
+    - id: 16
+      name: packaging_intact
+      label: Original Packaging Intact
+      hint: Is original box present
+      type: select_one
+      options:
+      - Yes, Complete
+      - Yes, Partial
+      - false
+      required: true
+    - id: 17
+      name: accessories_included
+      label: All Accessories and Manuals Included
+      hint: Original contents
+      type: select_one
+      options:
+      - Yes, All Included
+      - Some Missing
+      - false
+      required: false
+    - id: 18
+      name: warranty_valid
+      label: Within Warranty Period
+      hint: Still under warranty
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 19
+      name: refund_method
+      label: Preferred Refund Method
+      hint: How to refund
+      type: select_one
+      options:
+      - Original Payment Method
+      - Store Credit
+      - Exchange for Same Item
+      - Exchange for Different Product
+      required: true
+    - id: 20
+      name: return_shipping
+      label: Return Shipping
+      hint: Who pays for return
+      type: select_one
+      options:
+      - Customer Pays
+      - Company Pays
+      - Prepaid Label Provided
+      required: false
+    - id: 21
+      name: return_address
+      label: Return Shipping Address
+      hint: Where to send returns
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tracking_number
+      label: Return Tracking Number
+      hint: If already shipped back
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: Photos, receipts attached
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: expected_refund
+      label: Expected Refund Amount
+      hint: Calculated total
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyout Payment Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of buyout payment request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payee_name
+      label: Payee Name
+      hint: Name of person to be paid
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payee_address
+      label: Payee Address
+      hint: Full address for payment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payee_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payee_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payee_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: tax_id
+      label: Tax ID or SSN
+      hint: Payee tax identification
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: buyout_type
+      label: Type of Buyout
+      hint: Select the buyout category
+      type: select_one
+      options:
+      - Employment Buyout
+      - Contract Settlement
+      - Equity Buyout
+      - Lease Termination
+      - Partnership Dissolution
+      - Other
+      required: true
+    - id: 13
+      name: buyout_amount
+      label: Buyout Amount
+      hint: Total payment amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_terms
+      label: Payment Terms
+      hint: How will payment be made
+      type: select_one
+      options:
+      - Lump Sum
+      - Installments
+      - Wire Transfer
+      - Check
+      - Other
+      required: true
+    - id: 15
+      name: payment_timeline
+      label: Payment Timeline
+      hint: When should payment be made
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: supporting_documentation
+      label: Supporting Documentation Attached
+      hint: Agreements, contracts, etc.
+      type: select_one
+      options:
+      - Yes, attached
+      - To be provided
+      - Not applicable
+      required: true
+    - id: 17
+      name: business_justification
+      label: Business Justification
+      hint: Reason for the buyout
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: approval_notes
+      label: Additional Approval Notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: budget_code
+      label: Budget Code or Cost Center
+      hint: For accounting purposes
+      type: text
+      options: []
+      required: false

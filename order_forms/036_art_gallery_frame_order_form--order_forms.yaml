@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frame Order Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: framing_specifications_header
+      label: -- Framing Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: artwork_description
+      label: Description of Artwork
+      hint: e.g., Landscape painting, Portrait photo
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: frame_size
+      label: Frame Size Required
+      hint: e.g., 18x24 inches
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: frame_material
+      label: Preferred Frame Material
+      hint: null
+      type: select_one
+      options:
+      - Solid Wood
+      - Metal - Aluminum
+      - Polystyrene (Eco-friendly)
+      - Ornate Gilded Wood
+      required: true
+    - id: 10
+      name: frame_finish
+      label: Frame Finish or Color
+      hint: null
+      type: select_one
+      options:
+      - Matte Black
+      - Satin White
+      - Natural Oak
+      - Walnut Stain
+      - Brushed Silver
+      - Gold Leaf
+      required: true
+    - id: 11
+      name: matting_options
+      label: Matting Requirements
+      hint: null
+      type: select_one
+      options:
+      - Single Mat
+      - Double Mat
+      - No Mat (Flush mount)
+      - Floating Mount
+      required: true
+    - id: 12
+      name: mat_color
+      label: Mat Color
+      hint: e.g., Off-white, Jet Black, Deep Blue
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: glazing_type
+      label: Glazing (Glass/Acrylic) Selection
+      hint: null
+      type: select_one
+      options:
+      - Standard Picture Glass
+      - Non-Glare Glass
+      - UV Filter Acrylic
+      - Museum Glass (Highest clarity)
+      required: true
+    - id: 14
+      name: order_logistics_header
+      label: -- Order Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: requested_delivery_date
+      label: Requested Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: shipping_method
+      label: How would you like to receive your frame?
+      hint: null
+      type: select_one
+      options:
+      - In-store Pickup
+      - Local Courier
+      - Ground Shipping
+      - Express Shipping
+      required: true
+    - id: 17
+      name: additional_instructions
+      label: Any other specific requests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: customer_confirmation
+      label: I confirm the details above are correct and wish to proceed with the
+        order
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

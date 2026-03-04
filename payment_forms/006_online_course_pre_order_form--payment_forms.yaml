@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Pre Order Form
+    pages:
+    - id: 1
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: learner_name
+      label: Learner Name
+      hint: Learner name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: enrollment_period
+      label: Enrollment Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: enrollment_limit
+      label: Enrollment Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pre-ordering
+      required: true
+    - id: 12
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_multiple
+      options:
+      - One-time
+      - Recurring
+      - Other (one-time)
+      - Other (recurring)
+      required: true
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Unpaid
+      - Paid
+      - Refunded
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: Additional comments for the course
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_form
+      label: Assign Form
+      hint: Select the assigned tool for this form
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 17
+      name: assigned_user
+      label: Assign User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: assigned_date
+      label: Assign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: assigned_time
+      label: Assign Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: comments_2
+      label: Comments 2
+      hint: Additional comments 2
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: enrollment_start_date
+      label: Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: enrollment_end_date
+      label: End Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: price_2
+      label: Price 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: status_2
+      label: Status 2
+      hint: Status 2
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pre-ordering
+      required: false

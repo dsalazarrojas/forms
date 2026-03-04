@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cosmetic Product Reorder Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reorder_items
+      label: Reorder Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: reorder_quantity
+      label: Reorder Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reorder_date
+      label: Reorder Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reorder_price
+      label: Reorder Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: customer_shipping_name
+      label: Shipping Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: customer_order_id
+      label: Customer Order ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 23
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipping_instructions
+      label: Shipping Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

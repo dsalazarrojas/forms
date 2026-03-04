@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: refund_request_verification_form
+    pages:
+    - id: 1
+      name: form_info
+      label: refund_request_verification_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: customer_name
+      hint: Please enter your name.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer_email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: refund_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_id
+      label: order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_status
+      label: order_status
+      hint: The status of the order.
+      type: select_one
+      options:
+      - cancelled
+      - in_progress
+      - delivered
+      required: false
+    - id: 8
+      name: reason
+      label: reason_for_return
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Desktop Calendar Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one_option
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''description'': ''option1''}'
+      - '{''name'': ''option2'', ''description'': ''option2''}'
+      - '{''name'': ''option3'', ''description'': ''option3''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''option1'', ''description'': ''option1''}'
+      - '{''name'': ''option2'', ''description'': ''option2''}'
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: confirm
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''credit'', ''description'': ''credit''}'
+      - '{''name'': ''cash'', ''description'': ''cash''}'
+      - '{''name'': ''paypal'', ''description'': ''paypal''}'
+      required: false
+    - id: 12
+      name: confirm_payment_method
+      label: confirm_payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''confirm_credit'', ''description'': ''confirm_credit''}'
+      - '{''name'': ''confirm_cash'', ''description'': ''confirm_cash''}'
+      - '{''name'': ''confirm_paypal'', ''description'': ''confirm_paypal''}'
+      required: false
+    - id: 13
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: order_type
+      label: order_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ship_address
+      label: ship_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: ship_city
+      label: ship_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ship_state
+      label: ship_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: ship_zip
+      label: ship_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ship_country
+      label: ship_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ship_phone
+      label: ship_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ship_email
+      label: ship_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ship_note
+      label: ship_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ship_date
+      label: ship_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: ship_time
+      label: ship_time
+      hint: null
+      type: time
+      options: []
+      required: false

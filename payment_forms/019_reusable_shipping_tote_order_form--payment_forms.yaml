@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reusable Shipping Tote Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reusable_shipping_tote
+      label: Reusable Tote Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_premium
+      label: Delivery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_preferences
+      label: Delivery Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: return_preferences
+      label: Return Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping
+      label: Shipping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment
+      label: Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total
+      label: Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_tote_quantity
+      label: Tote Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: shipping_tote_color
+      label: Tote Color
+      hint: null
+      type: select_one
+      options:
+      - Tote White
+      - Tote Blue
+      - Tote Red
+      - Tote Green
+      - Tote Yellow
+      - Tote Black
+      - Tote Gray
+      - Tote Brown
+      - Tote Navy Blue
+      - Tote Beige
+      required: false
+    - id: 17
+      name: shipping_tote_size
+      label: Tote Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: false
+    - id: 18
+      name: return_address
+      label: Return Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: return_city
+      label: Return City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: return_state
+      label: Return State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: return_zip
+      label: Return Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: return_country
+      label: Return Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: delivery_comments
+      label: Delivery Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In-Transit
+      - Delivered
+      - Failed
+      - Canceled
+      required: false

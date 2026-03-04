@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_equipment_check_out_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_return
+      label: date_of_return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rental_item
+      label: rental_item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: rental_location
+      label: rental_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: total_charges
+      label: total_charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: payment_method_note
+      label: payment_method_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_form_id
+      label: assigned_form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_category
+      label: form_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false

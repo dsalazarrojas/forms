@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Removal Services Quote Request Form
+    pages:
+    - id: 1
+      name: tree_removal_services_quote_request_form
+      label: Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Tree
+      - Branch
+      - Stump
+      - Root
+      required: false
+    - id: 4
+      name: removal_service_required
+      label: Removal Service Required
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: tree_height
+      label: Tree Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tree_diameter
+      label: Tree Diameter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tree_location
+      label: Tree Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tree_service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false

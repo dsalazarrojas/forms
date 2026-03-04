@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Equipment Check Out Form
+    pages:
+    - id: 1
+      name: checkout_basics_header
+      label: -- Check-Out Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renter_name
+      label: Renter or Event Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization or Catering Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_name_ref
+      label: Event Name/Reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_dates
+      label: -- Rental Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: checkout_date
+      label: Date of Check-Out
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: return_due_date
+      label: Scheduled Return Date
+      hint: Late fees apply after 24 hours
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_equipment_list
+      label: -- Equipment Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: equipment_categories
+      label: Select Equipment Categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chafing Dishes and Fuel
+      - Insulated Food Carriers (Cambros)
+      - Serving Platters and Bowls
+      - Portable Burners
+      - Beverage Dispensers
+      - Coffee Urns
+      - Table Linens
+      required: true
+    - id: 10
+      name: detailed_item_list
+      label: Itemized List and Quantities
+      hint: e.g. 4x Large Chafers, 2x 5-Gal Urns
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: condition_at_checkout
+      label: Condition of Equipment at Check-out
+      hint: Note any existing scratches or dents
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_financials
+      label: -- Fees and Deposits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_rental_fee
+      label: Total Rental Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: security_deposit_amount
+      label: Security Deposit Amount
+      hint: Refundable upon clean return
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid in Full
+      - Deposit Paid - Balance Due
+      - Internal Charge
+      required: true
+    - id: 16
+      name: section_agreement
+      label: -- Terms of Rental --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cleanliness_agreement
+      label: I agree to return equipment clean and dry
+      hint: A cleaning fee of $50 per item applies for unwashed returns
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: liability_agreement
+      label: I accept full responsibility for any loss or damage
+      hint: null
+      type: select_one
+      options:
+      - I Accept Responsibility
+      - Other
+      required: true
+    - id: 19
+      name: renter_signature
+      label: Renter Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: warehouse_staff_name
+      label: Warehouse Staff Witness
+      hint: null
+      type: text
+      options: []
+      required: true

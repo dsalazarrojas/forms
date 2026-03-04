@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customized Corporate Gift Basket Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_option
+      label: Select A Gift
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Gift Box A''}'
+      - '{''id'': 2, ''label'': ''Gift Box B''}'
+      - '{''id'': 3, ''label'': ''Gift Box C''}'
+      required: false
+    - id: 3
+      name: gift_item
+      label: Select Gift Item
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Apple''}'
+      - '{''id'': 2, ''label'': ''Banana''}'
+      - '{''id'': 3, ''label'': ''Orange''}'
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_amount
+      label: Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: true
+    - id: 11
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_option
+      label: Select Shipping Option
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Standard''}'
+      - '{''id'': 2, ''label'': ''Expedited''}'
+      - '{''id'': 3, ''label'': ''Express''}'
+      required: true
+    - id: 14
+      name: order_note
+      label: Order Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

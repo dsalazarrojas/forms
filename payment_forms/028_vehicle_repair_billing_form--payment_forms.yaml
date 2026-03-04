@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Repair Billing Form
+    pages:
+    - id: 1
+      name: vehicle_repair_billing_form_1
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_repair_billing_form_2
+      label: Repair Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_repair_billing_form_3
+      label: Parts Needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vehicle_repair_billing_form_4
+      label: Total Labor Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_repair_billing_form_5
+      label: Labor Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_repair_billing_form_6
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_repair_billing_form_7
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_repair_billing_form_8
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_repair_billing_form_9
+      label: Total Amount Due
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Cash
+      - Check
+      required: true
+    - id: 11
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: payment_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: payment_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_repair_billing_form_16
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_repair_billing_form_17
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_repair_billing_form_18
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_repair_billing_form_19
+      label: Vehicle License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_repair_billing_form_20
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_repair_billing_form_21
+      label: Repair Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_repair_billing_form_22
+      label: Repair Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_repair_billing_form_23
+      label: Repair Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_repair_billing_form_24
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_repair_billing_form_25
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false

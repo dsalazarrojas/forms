@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Garden Maintenance Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: false
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_date
+      label: Date of Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_time
+      label: Time of Payment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 12
+      name: confirmation_date
+      label: Date of Confirmation
+      hint: null
+      type: date
+      options: []
+      required: false

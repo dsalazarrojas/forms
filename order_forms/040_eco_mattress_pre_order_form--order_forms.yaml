@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Mattress Pre Order Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Product Selection
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: Street Address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: update_message
+      label: Update Message
+      hint: null
+      type: text
+      options: []
+      required: false

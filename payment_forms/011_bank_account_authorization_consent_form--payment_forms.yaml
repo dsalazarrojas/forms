@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Authorization Consent Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client / Company Name
+      hint: Legal name of the account holder
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: For payment notifications and receipts
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bank_details_header
+      label: -- Bank Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bank_name
+      label: Name of Financial Institution
+      hint: e.g., Chase, Wells Fargo, etc.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: routing_number
+      label: 9-Digit Routing Number (ABA)
+      hint: Found at the bottom left of your checks
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: Found to the right of the routing number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: account_type
+      label: Bank Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Business Checking
+      - Business Savings
+      required: true
+    - id: 10
+      name: payment_auth_header
+      label: -- Payment Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: authorization_type
+      label: Type of Payment Authorization
+      hint: null
+      type: select_one
+      options:
+      - Recurring Payments (Automatic)
+      - One-Time Payment
+      - Variable Amount (Within Limits)
+      required: true
+    - id: 12
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Only for recurring payments
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 13
+      name: payment_amount
+      label: Payment Amount or Maximum Limit
+      hint: Specify the exact amount or the ceiling for variable payments
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: effective_date
+      label: Authorization Effective Date
+      hint: When should payments begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: consent_acknowledgment_header
+      label: -- Consent and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ach_agreement
+      label: I authorize the business to initiate ACH debit entries to my account
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: error_resolution
+      label: I understand I have the right to dispute unauthorized debits
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 18
+      name: cancellation_policy
+      label: Cancellation Notice Requirement
+      hint: I understand I must provide written notice 10 days before cancellation
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 19
+      name: submission_timestamp
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

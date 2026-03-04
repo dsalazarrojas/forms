@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toll Fee Claim Form
+    pages:
+    - id: 1
+      name: claimant_info
+      label: Claimant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_id
+      label: Claimant Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: claimant_company
+      label: Claimant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: toll_fee_date
+      label: Toll Fee Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: toll_fee_description
+      label: Toll Fee Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: toll_fee_claimed_amount
+      label: Toll Fee Claimed Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: claimant_reimbursed_amount
+      label: Claimant Reimbursed Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: claimant_status
+      label: Claimant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_city
+      label: Submitter City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_province
+      label: Submitter Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter_postal
+      label: Submitter Postal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_country
+      label: Submitter Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: submitter_remarks
+      label: Submitter Remaks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_agree
+      label: Submitter Agree
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

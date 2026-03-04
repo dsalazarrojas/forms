@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Uniform Order Form With Skrill
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Official team name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: Head coach full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_email
+      label: Coach Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: coach_phone
+      label: Coach Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: uniform_style
+      label: Uniform Style
+      hint: Choose uniform design
+      type: select_one
+      options:
+      - Classic Home and Away
+      - Modern Reversible
+      - Elite Performance
+      - Custom Design
+      required: true
+    - id: 6
+      name: primary_color
+      label: Primary Color
+      hint: Main uniform color
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Orange
+      - Purple
+      - Navy
+      - Gray
+      required: true
+    - id: 7
+      name: secondary_color
+      label: Secondary Color
+      hint: Accent color
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Orange
+      - Purple
+      - Navy
+      - Gray
+      required: true
+    - id: 8
+      name: player_1_name
+      label: Player 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: player_1_number
+      label: Player 1 Number
+      hint: Jersey number
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: player_1_size
+      label: Player 1 Size
+      hint: Uniform size
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 11
+      name: player_2_name
+      label: Player 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: player_2_number
+      label: Player 2 Number
+      hint: Jersey number
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: player_2_size
+      label: Player 2 Size
+      hint: Uniform size
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 14
+      name: total_players
+      label: Total Number of Players
+      hint: How many uniforms needed
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: add_shorts
+      label: Add Matching Shorts
+      hint: Include shorts in order
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: add_warmup
+      label: Add Warm-up Suits
+      hint: Include warm-up suits
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: custom_logo
+      label: Custom Logo
+      hint: Upload or describe logo
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: Select payment option
+      type: select_one
+      options:
+      - Skrill
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 19
+      name: skrill_email
+      label: Skrill Email Address
+      hint: Email for Skrill payment
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: delivery_address
+      label: Delivery Address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false

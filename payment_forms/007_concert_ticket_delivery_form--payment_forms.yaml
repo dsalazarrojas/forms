@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Delivery Form
+    pages:
+    - id: 1
+      name: recipient_name
+      label: Recipient name
+      hint: Name receiving the ticket
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_option
+      label: Delivery option
+      hint: Choose delivery method
+      type: select_one
+      options:
+      - Email PDF
+      - Physical mail
+      - Venue pickup
+      required: true
+    - id: 3
+      name: delivery_email
+      label: Delivery email
+      hint: Required if Email PDF chosen
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: delivery_address
+      label: Delivery address
+      hint: Required for physical mail
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: Desired delivery date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: special_handling
+      label: Special handling instructions
+      hint: Fragile, signature required, etc
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone for delivery
+      hint: For courier or pickup updates
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_id
+      label: Order ID
+      hint: Provide the order identifier
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Additional delivery notes
+      hint: Any other relevant instructions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation
+      label: Delivery confirmation note
+      hint: Read only expected delivery window
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Ventilation Filter Order Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: order_time
+      label: Order Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: Additional notes about your order
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_address
+      label: Order Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: ship_to_state
+      label: Ship to State
+      hint: null
+      type: select_multiple
+      options:
+      - AL
+      - AK
+      - AR
+      - AZ
+      - CA
+      - CO
+      - CT
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WV
+      - WY
+      - US
+      required: true
+    - id: 11
+      name: ship_to_zip
+      label: Ship to Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ship_to_city
+      label: Ship to City
+      hint: City Name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: ship_to_state_2
+      label: Ship To State
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: ship_to_country
+      label: Ship To Country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: ship_to_street
+      label: Ship To Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_notes
+      label: Shipping Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: ship_to_province
+      label: Ship to Province
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: ship_to_postal_code
+      label: Ship to Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: ship_to_region
+      label: Ship to Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ship_to_city_2
+      label: Ship to City
+      hint: City Name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ship_to_state_3
+      label: Ship to State
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: ship_to_country_2
+      label: Ship to Country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: ship_to_province_2
+      label: Ship to Province
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: ship_to_region_2
+      label: Ship to Region
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: ship_to_zip_2
+      label: Ship to Zip
+      hint: Zip Code
+      type: text
+      options: []
+      required: false

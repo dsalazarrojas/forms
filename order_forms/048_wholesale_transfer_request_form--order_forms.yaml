@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wholesale Transfer Request Form
+    pages:
+    - id: 1
+      name: wholesale_transfer_request_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: warehouse_location
+      label: Warehouse Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: receiving_warehouse_location
+      label: Receiving Warehouse Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_warehouse_location
+      label: Shipping Warehouse Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: manager_approval_date
+      label: Manager Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: manager_approval_time
+      label: Manager Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: transfer_request_status
+      label: Transfer Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: transfer_request_status_notes
+      label: Transfer Request Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false

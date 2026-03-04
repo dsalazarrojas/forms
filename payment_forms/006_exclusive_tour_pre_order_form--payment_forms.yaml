@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: exclusive_tour_pre_order_form
+    pages:
+    - id: 1
+      name: tour_operator
+      label: tour_operator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tour_operator_email
+      label: tour_operator_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: tour_operator_phone
+      label: tour_operator_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tour_type
+      label: tour_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Land Tour''}'
+      - '{''value'': ''Sea Tour''}'
+      - '{''value'': ''River Tour''}'
+      required: true
+    - id: 9
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: departure_time
+      label: departure_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: return_time
+      label: return_date_time
+      hint: null
+      type: time
+      options: []
+      required: true

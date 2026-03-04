@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Knife Sharpening Service Order Form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jimmy''}'
+      - '{''label'': ''Bob''}'
+      - '{''label'': ''Alice''}'
+      required: false
+    - id: 2
+      name: knife_type
+      label: Knifetype
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': "Chef''s Knife"}'
+      - '{''label'': ''Paring Knife''}'
+      - '{''label'': ''Utility Knife''}'
+      required: false
+    - id: 3
+      name: num_knives
+      label: Number of Knives
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sharpening_service
+      label: Sharpening Service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Premium''}'
+      - '{''label'': ''Delux''}'
+      required: false
+    - id: 5
+      name: pick_up_date
+      label: Pickup Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: drop_off_date
+      label: Drop-off Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pick_up_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: drop_off_time
+      label: Drop-off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: online_payment
+      label: Online Payment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Stripe''}'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

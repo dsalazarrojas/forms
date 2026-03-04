@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Case Review Acknowledgement Form
+    pages:
+    - id: 1
+      name: patient_case_reviewed
+      label: Has your case been reviewed?
+      hint: null
+      type: select_one
+      options:
+      - Case Review
+      - Not yet reviewed
+      required: false
+    - id: 2
+      name: feedback_given
+      label: Have you given feedback on your case?
+      hint: null
+      type: select_one
+      options:
+      - Given
+      - Not given
+      required: false
+    - id: 3
+      name: case_review_process
+      label: How would you rate the case review process?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: communication_clear
+      label: How clear were you about the case review process?
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Mostly clear
+      - Not clear
+      required: false
+    - id: 5
+      name: provider_communication
+      label: How clear were your provider's communications during the case review?
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Mostly clear
+      - Not clear
+      required: false
+    - id: 6
+      name: case_review_timeframe
+      label: How long did the case review take?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 day
+      - 1-2 days
+      - 3-4 days
+      - More than 4 days
+      required: false
+    - id: 7
+      name: provider_attendance
+      label: Was your provider present during the review?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: feedback_requested
+      label: Was feedback requested?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: case_review_conducted
+      label: Was the case review conducted?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: patient_understanding
+      label: Were you understood?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: case_closed
+      label: Has your case been closed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: case_status
+      label: What status of your case?
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Closed
+      - Discharged
+      required: false
+    - id: 13
+      name: case_priority
+      label: What priority of your case?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 14
+      name: case_type
+      label: What type of case?
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Old
+      required: false
+    - id: 15
+      name: patient_status
+      label: What status of your patient?
+      hint: null
+      type: select_multiple
+      options:
+      - Alive
+      - Dead
+      required: false
+    - id: 16
+      name: hospitalization_status
+      label: What hospitalization status of your patient?
+      hint: null
+      type: select_multiple
+      options:
+      - Inpatient
+      - Outpatient
+      required: false
+    - id: 17
+      name: patient_age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: patient_gender
+      label: What is your gender?
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 19
+      name: patient_date_of_birth
+      label: What is your date of birth?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: patient_date_of_last_visit
+      label: What is your last visit date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: patient_last_visit_reason
+      label: What is your last visit reason?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_last_visit_diagnosis
+      label: What is your last visit diagnosis?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: case_review_goals
+      label: What are case review goals?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: provider_comment
+      label: Provider comment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: case_review_acknowledgement
+      label: Case review acknowledgement?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

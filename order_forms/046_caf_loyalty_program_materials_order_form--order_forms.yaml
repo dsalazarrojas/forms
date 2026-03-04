@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Café Loyalty Program Materials Order Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Staff ordering materials
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization name
+      hint: Cafe branch or corporate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: material_type
+      label: Material type
+      hint: Loyalty cards posters or brochures
+      type: select_one
+      options:
+      - Loyalty cards
+      - Posters
+      - Flyers
+      - Stickers
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity required
+      hint: Numeric count
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery address
+      hint: Where items should be sent
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: required_by_date
+      label: Required by date
+      hint: Deadline for materials
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: artwork_attached
+      label: Is artwork attached
+      hint: Provide file reference if yes
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: For delivery queries
+      type: text
+      options: []
+      required: true

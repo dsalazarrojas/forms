@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Satisfaction Post Discharge Assessment Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_discharged
+      label: date discharged
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_survey
+      label: date survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_score
+      label: satisfaction score
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 7
+      name: reason_unhappy
+      label: reason unhappy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_2
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_id
+      label: patient id
+      hint: null
+      type: text
+      options: []
+      required: false

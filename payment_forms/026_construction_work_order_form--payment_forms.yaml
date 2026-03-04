@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Work Order Form
+    pages:
+    - id: 1
+      name: section_client_and_invoice
+      label: -- Client and Invoice Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Client billing name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: invoice_number
+      label: Invoice number
+      hint: Unique invoice identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_description
+      label: Service description
+      hint: Brief description of services provided
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hours_worked
+      label: Hours worked
+      hint: Total hours for billed services
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rate_per_hour
+      label: Rate per hour
+      hint: Hourly rate for services
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_amount_due
+      label: Total amount due
+      hint: Total payable amount for this work order
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_terms
+      label: Payment terms
+      hint: e.g., Net 30, Net 14
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Preferred payment method
+      type: select_one
+      options:
+      - Bank transfer
+      - Check
+      - Credit card
+      required: false

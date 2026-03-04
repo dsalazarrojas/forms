@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_venue_support_donation_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Music Venue Support Donation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Payment Prophets
+      - Payment Forms
+      - Payment Tools
+      - Payment Methods
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatbot
+      - chatty
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      - Credit Card
+      required: false
+    - id: 8
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - One-time Donation
+      - Recurring Donation
+      - Subscription
+      required: false
+    - id: 10
+      name: recurring_frequency
+      label: Recurring Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

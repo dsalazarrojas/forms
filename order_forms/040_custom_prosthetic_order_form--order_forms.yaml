@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Prosthetic Order Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Microprocessor-Controlled Lower Limb''}'
+      - '{''value'': ''Microprocessor-Controlled Upper Limb''}'
+      - '{''value'': ''Microprocessor-Controlled Upper/ Lower Limb''}'
+      required: true
+    - id: 5
+      name: device_color
+      label: Device Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Silver''}'
+      - '{''value'': ''Black''}'
+      - '{''value'': ''Red''}'
+      required: false
+    - id: 6
+      name: prosthetic_size
+      label: Prosthetic Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Small''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Large''}'
+      required: true
+    - id: 7
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Titanium''}'
+      - '{''value'': ''Titanium/Plastic''}'
+      - '{''value'': ''Plastic''}'
+      required: true
+    - id: 8
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_number
+      label: Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

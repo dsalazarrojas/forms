@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_menu_screen_order_form
+    pages:
+    - id: 1
+      name: user_input
+      label: Digital Menu Screen Order Form
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''dine_in'', ''label'': ''dine_in''}'
+      - '{''value'': ''pickup'', ''label'': ''pickup''}'
+      - '{''value'': ''delivery'', ''label'': ''delivery''}'
+      required: true
+    - id: 2
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_time
+      label: Order Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_items
+      label: Select Order Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Measurement Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: measurement_date
+      label: Date of Measurement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: measurer_name
+      label: Person Taking Measurements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: measurement_purpose
+      label: Purpose of Measurements
+      hint: null
+      type: select_one
+      options:
+      - Clothing Fitting
+      - Fitness Tracking
+      - Medical Assessment
+      - Bodybuilding
+      - Fashion Design
+      - Health Monitoring
+      - Other
+      required: true
+    - id: 5
+      name: height_inches
+      label: Height in Inches
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: weight_pounds
+      label: Weight in Pounds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: chest_measurement
+      label: Chest Circumference in Inches
+      hint: Measure at fullest part
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: waist_measurement
+      label: Waist Circumference in Inches
+      hint: Measure at natural waist
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: hip_measurement
+      label: Hip Circumference in Inches
+      hint: Measure at fullest part
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: arm_measurement
+      label: Arm Circumference in Inches
+      hint: Upper arm at widest point
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: thigh_measurement
+      label: Thigh Circumference in Inches
+      hint: Measure at widest point
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: calf_measurement
+      label: Calf Circumference in Inches
+      hint: Measure at widest point
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: neck_measurement
+      label: Neck Circumference in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: forearm_measurement
+      label: Forearm Circumference in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: inseam_measurement
+      label: Inseam Length in Inches
+      hint: From crotch to ankle
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: shoulder_width
+      label: Shoulder Width in Inches
+      hint: From shoulder to shoulder
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: torso_length
+      label: Torso Length in Inches
+      hint: From shoulder to waist
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: body_fat_percentage
+      label: Body Fat Percentage
+      hint: If available from testing
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: body_measurements_notes
+      label: Notes on Measurements
+      hint: Any observations or special notes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: measurement_method
+      label: Measurement Method Used
+      hint: How measurements were taken
+      type: select_one
+      options:
+      - Cloth Tape Measure
+      - Body Composition Scale
+      - Calipers
+      - Professional Measurement
+      - Self-Measured
+      - Other
+      required: false
+    - id: 21
+      name: clothing_size_recommendation
+      label: Recommended Clothing Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comparison_to_previous
+      label: Changes from Previous Measurement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_measurement_date
+      label: Recommended Follow-up Date
+      hint: Next measurement appointment
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: client_acknowledgment
+      label: Client Acknowledges Measurements
+      hint: null
+      type: select_one
+      options:
+      - Confirmed Accurate
+      - Minor Discrepancy Noted
+      - Needs Re-measurement
+      required: true

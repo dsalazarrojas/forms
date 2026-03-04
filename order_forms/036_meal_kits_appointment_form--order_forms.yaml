@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Kits Appointment Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: How would you like to receive your order?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pickup''}'
+      - '{''id'': 2, ''name'': ''Delivery''}'
+      - '{''id'': 3, ''name'': ''Self Pick-up''}'
+      required: true
+    - id: 6
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_info_2
+      label: Additional Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: select_multiple
+      label: Which Meal Kit would you like to order?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Meal Kit A''}'
+      - '{''id'': 2, ''name'': ''Meal Kit B''}'
+      - '{''id'': 3, ''name'': ''Meal Kit C''}'
+      - '{''id'': 4, ''name'': ''Meal Kit D''}'
+      - '{''id'': 5, ''name'': ''Meal Kit E''}'
+      - '{''id'': 6, ''name'': ''Meal Kit F''}'
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false

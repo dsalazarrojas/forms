@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paypal Furniture Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: items_ordered
+      label: Items ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: PayPal or credit card
+      type: select_one
+      options:
+      - PayPal
+      - Credit card
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: confirm_payment
+      label: Confirm payment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: order_total
+      label: Order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: first_name_err
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_name_err
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false

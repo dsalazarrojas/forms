@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Merchandise Payment Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_merchandise
+      label: -- Merchandise Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_1_name
+      label: Item 1 - Product Name
+      hint: What are you ordering
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_1_size
+      label: Item 1 - Size
+      hint: Size if applicable
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - One Size
+      required: false
+    - id: 9
+      name: item_1_quantity
+      label: Item 1 - Quantity
+      hint: How many
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: item_1_price
+      label: Item 1 - Unit Price
+      hint: Price per item
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: item_2_name
+      label: Item 2 - Product Name
+      hint: Optional second item
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_2_quantity
+      label: Item 2 - Quantity
+      hint: How many of item 2
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: item_2_price
+      label: Item 2 - Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_totals
+      label: -- Order Totals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: subtotal
+      label: Subtotal
+      hint: Cost of merchandise
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Delivery charge
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: tax_amount
+      label: Tax Amount
+      hint: Sales tax if applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_amount
+      label: Total Amount Due
+      hint: Final total to pay
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_shipping
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: shipping_address
+      label: Street Address
+      hint: Where to ship
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shipping_city
+      label: City
+      hint: Destination city
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: shipping_state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: shipping_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_payment
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      required: true
+    - id: 26
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

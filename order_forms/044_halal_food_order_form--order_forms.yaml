@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halal Food Order Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Halal Food Order Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: halal_preferred
+      label: Do you prefer Halal?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: special_requests
+      label: Special Requests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true

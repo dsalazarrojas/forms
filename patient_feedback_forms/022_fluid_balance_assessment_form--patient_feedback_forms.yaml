@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fluid Balance Assessment Form
+    pages:
+    - id: 1
+      name: fluid_balance_form_data_1
+      label: Fluid Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: fluid_balance_form_data_2
+      label: Fluid Output
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fluid_balance_form_data_3
+      label: Total Fluid Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fluid_balance_form_data_4
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: fluid_balance_form_data_5
+      label: Fluid Balance Form Complete
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fluid_balance_form_data_6
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: fluid_balance_form_data_7
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: fluid_balance_form_data_8
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fluid_balance_form_data_9
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fluid_balance_form_data_10
+      label: Assessor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fluid_balance_form_data_11
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: fluid_balance_form_data_12
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: fluid_balance_form_data_13
+      label: Review By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: fluid_balance_form_data_14
+      label: Fluid Balance Form Complete
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

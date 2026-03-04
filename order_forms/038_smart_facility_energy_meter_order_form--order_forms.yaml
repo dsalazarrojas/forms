@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Facility Energy Meter Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Office''}'
+      - '{''id'': 2, ''label'': ''Home''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: meter_type
+      label: Meter Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Smart''}'
+      - '{''id'': 2, ''label'': ''Standard''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meter_count
+      label: Meter Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: installation_type
+      label: Installation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-house''}'
+      - '{''id'': 2, ''label'': ''External''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''On-site''}'
+      - '{''id'': 2, ''label'': ''Off-site''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Done''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

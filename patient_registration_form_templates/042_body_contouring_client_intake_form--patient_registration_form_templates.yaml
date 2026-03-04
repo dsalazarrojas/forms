@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Contouring Client Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 7
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_weight
+      label: Current Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: goal_weight
+      label: Goal Weight
+      hint: Target weight
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: occupation
+      label: Occupation
+      hint: What is your job?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend/Family
+      - Advertisement
+      - Previous Client
+      - Other
+      required: false
+    - id: 12
+      name: primary_goal
+      label: Primary Goal
+      hint: What do you want to achieve?
+      type: select_one
+      options:
+      - Fat Reduction
+      - Body Sculpting
+      - Skin Tightening
+      - Cellulite Reduction
+      - Inch Loss
+      - Overall Contouring
+      required: true
+    - id: 13
+      name: treatment_areas
+      label: Treatment Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Abdomen
+      - Flanks/Love Handles
+      - Thighs
+      - Buttocks
+      - Arms
+      - Back
+      - Chin/Neck
+      - Bra Fat
+      - Knees
+      - Calves
+      required: true
+    - id: 14
+      name: previous_body_contouring
+      label: Previous Body Contouring
+      hint: Have you had treatments before?
+      type: select_one
+      options:
+      - No, First Time
+      - Yes, Same Provider
+      - Yes, Different Provider
+      required: true
+    - id: 15
+      name: previous_treatments_list
+      label: Previous Treatments List
+      hint: List previous treatments
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any conditions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: allergies
+      label: Allergies
+      hint: List any allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: surgeries_history
+      label: Surgical History
+      hint: List relevant surgeries
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pregnancy_history
+      label: Pregnancy History
+      hint: Number of pregnancies if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: Diet and exercise habits
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke?
+      type: select_one
+      options:
+      - Non-Smoker
+      - Former Smoker
+      - Current Smoker
+      required: false
+    - id: 23
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How often?
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Moderate
+      - Regular
+      required: false
+    - id: 24
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: When do you prefer?
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Flexible
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any specific needs?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: hipaa_acknowledgment
+      label: HIPAA Acknowledgment
+      hint: I understand my privacy rights
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - false
+      required: true
+    - id: 27
+      name: client_signature
+      label: Client Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of intake
+      type: date
+      options: []
+      required: true

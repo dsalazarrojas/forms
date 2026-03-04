@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmacy_prescription_communication_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prescription_info
+      label: Prescription Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_medication_allergies
+      label: Patient Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pharmacy_info
+      label: Pharmacy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pharmacy_notes
+      label: Pharmacy Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_info
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false

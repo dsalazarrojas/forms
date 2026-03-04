@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quote Correction Submission Form
+    pages:
+    - id: 1
+      name: quote_correction_submission_form
+      label: Quote Correction Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quote_correction_submission_form_fields
+      label: Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quote_id
+      label: Quote ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: quote_client
+      label: Client
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: quote_correction
+      label: Correction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: correction_type
+      label: Correction Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

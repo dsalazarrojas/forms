@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: palliative_care_quotation_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: care_service_request
+      label: Care Service Request
+      hint: null
+      type: select_multiple
+      options:
+      - Home Care
+      - Hospice Care
+      - Other
+      required: true
+    - id: 6
+      name: care_service_request_other
+      label: Other Care Service Requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_specialist
+      label: Medical Specialist
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse Practitioner
+      - Other
+      required: true
+    - id: 8
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Regular
+      - As Needed
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Twice a week
+      - Weekly
+      required: true

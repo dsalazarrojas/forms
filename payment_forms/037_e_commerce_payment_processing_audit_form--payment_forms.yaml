@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_payment_processing_audit_form
+    pages:
+    - id: 1
+      name: e_commerce_payment_info
+      label: E Commerce Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_workflow
+      label: Payment Workflow
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: security_practices
+      label: Security Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reliability_rating
+      label: Reliability Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: internal_reviews
+      label: Internal Reviews
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 6
+      name: payment_gateways
+      label: Payment Gateways
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: audit_time
+      label: Audit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: auditor_signature
+      label: Auditor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 13
+      name: payment_remark
+      label: Payment Remark
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_info
+      label: Reviewer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true

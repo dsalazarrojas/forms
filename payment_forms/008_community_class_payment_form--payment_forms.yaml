@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Class Payment Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Student's legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: Student's legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: class_selection
+      label: Class Selection
+      hint: Which class are you registering for?
+      type: select_one
+      options:
+      - Beginner Guitar Lessons
+      - Intermediate Piano
+      - Voice Training
+      - Drum Lessons
+      - Music Theory
+      - Songwriting Workshop
+      - Band Ensemble
+      required: true
+    - id: 8
+      name: class_schedule
+      label: Preferred Class Schedule
+      hint: When would you like to attend?
+      type: select_one
+      options:
+      - Monday 6 PM - 7 PM
+      - Tuesday 6 PM - 7 PM
+      - Wednesday 6 PM - 7 PM
+      - Thursday 6 PM - 7 PM
+      - Saturday 10 AM - 11 AM
+      - Saturday 2 PM - 3 PM
+      required: true
+    - id: 9
+      name: skill_level
+      label: Current Skill Level
+      hint: How would you describe your ability?
+      type: select_one
+      options:
+      - Complete Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 10
+      name: instrument_owned
+      label: Do You Own an Instrument
+      hint: Will you need to rent or borrow?
+      type: select_one
+      options:
+      - Yes, I Own One
+      - No, Need to Rent
+      - No, Need to Borrow
+      required: true
+    - id: 11
+      name: lesson_type
+      label: Lesson Type
+      hint: Individual or group lessons?
+      type: select_one
+      options:
+      - Individual (30 min)
+      - Individual (60 min)
+      - Group (60 min)
+      - Group (90 min)
+      required: true
+    - id: 12
+      name: session_duration
+      label: Session Duration
+      hint: How many weeks?
+      type: select_one
+      options:
+      - 4 Weeks
+      - 8 Weeks
+      - 12 Weeks
+      - Full Semester (16 Weeks)
+      required: true
+    - id: 13
+      name: total_amount
+      label: Total Amount Due
+      hint: Total cost based on selections
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Cash
+      required: true
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: Enter card number if paying by card
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expiration_date
+      label: Expiration Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cvv
+      label: CVV
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with payment method
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: discount_code
+      label: Discount Code
+      hint: Enter if you have a promo code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: scholarship_application
+      label: Apply for Scholarship
+      hint: Financial assistance available
+      type: select_one
+      options:
+      - Yes, Please Send Information
+      - No Thank You
+      required: true
+    - id: 21
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: I agree to the cancellation and refund policy
+      type: select_one
+      options:
+      - Yes, I Agree
+      - Other
+      required: true

@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Pain Management Survey Form
+    pages:
+      - id: 1
+        name: patient_name_optional
+        label: Patient Name (Optional)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: survey_date
+        label: Date of Survey
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: header_treatment_feedback
+        label: -- Treatment Efficacy --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: current_treatment_plan
+        label: Current Primary Treatment Method
+        hint: e.g., Physical Therapy, Medication, Injections
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: pain_reduction_rating
+        label: Rate the level of pain reduction from current treatment
+        hint: 0% (No reduction) to 100% (Complete relief)
+        type: select_one
+        options: [0-20%, 21-40%, 41-60%, 61-80%, 81-100%]
+        required: true
+      - id: 6
+        name: side_effects_frequency
+        label: How often do you experience side effects from your treatment?
+        hint: null
+        type: select_one
+        options: [Never, Rarely, Occasionally, Frequently, Constantly]
+        required: true
+      - id: 7
+        name: side_effects_description
+        label: Describe any side effects experienced
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: quality_of_life_improvement
+        label: Has your quality of life improved since starting this treatment?
+        hint: null
+        type: select_one
+        options: [Significant Improvement, Slight Improvement, No Change, Worse]
+        required: true
+      - id: 9
+        name: header_provider_interaction
+        label: -- Provider Interaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: provider_listening
+        label: Does your provider listen to your concerns?
+        hint: null
+        type: select_one
+        options: [Always, Usually, Sometimes, Rarely, Never]
+        required: true
+      - id: 11
+        name: treatment_options_explained
+        label: Are all treatment options clearly explained to you?
+        hint: null
+        type: select_one
+        options: [Yes - Very Clearly, Somewhat, No - Not really]
+        required: true
+      - id: 12
+        name: ease_of_scheduling
+        label: How easy is it to schedule follow-up appointments?
+        hint: null
+        type: select_one
+        options: [Very Easy, Easy, Difficult, Very Difficult]
+        required: true
+      - id: 13
+        name: header_goals
+        label: -- Future Goals --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: primary_functional_goal
+        label: What is your main functional goal for the next 3 months?
+        hint: e.g., Walk 1 mile, return to work part-time, sleep through the night
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: additional_feedback
+        label: Any other comments for our medical team?
+        hint: null
+        type: text
+        options: []
+        required: false

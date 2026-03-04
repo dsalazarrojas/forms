@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Monitoring Alarm Setup
+    pages:
+    - id: 1
+      name: patient_registration_form_setup
+      label: Registration Form Setup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: setup_details
+      label: Alarm Setup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: alarm_frequency
+      label: Alarm Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      required: false
+    - id: 4
+      name: alarm_threshold
+      label: Alarm Threshold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: alarm_notification
+      label: Alarm Notification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

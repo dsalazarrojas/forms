@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: used_car_deposit_refund_form
+    pages:
+    - id: 1
+      name: used_car_deposit_refund_form_input
+      label: used_car_deposit_refund_form_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deposit_amount
+      label: deposit_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_refund
+      label: reason_for_refund
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false

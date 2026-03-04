@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Fund Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_description
+      label: Donation Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - General Donations
+      - One-time Donations
+      required: false
+    - id: 7
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 9
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_currency
+      label: Payment Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      required: false
+    - id: 12
+      name: donor_notes
+      label: Donor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: startup_id
+      label: Startup ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      required: false
+    - id: 20
+      name: total_donation
+      label: Total Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: startup_name
+      label: Startup Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: startup_description
+      label: Startup Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: startup_funds_goal
+      label: Startup Funds Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: startup_funds_received
+      label: Startup Funds Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: payment_method_other
+      label: Payment Method Other
+      hint: Enter Payment Method Other
+      type: text
+      options: []
+      required: false

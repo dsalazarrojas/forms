@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Cancellation Form
+    pages:
+    - id: 1
+      name: order_cancellation_form_page_1
+      label: order_cancellation_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: Please select the reason for cancellation
+      type: select_one
+      options:
+      - Cancellation Request
+      - Refund Request
+      - Return Request
+      - Cancel and Refund
+      - Other
+      required: false
+    - id: 3
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_cancellation_details
+      label: reason_for_cancellation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false

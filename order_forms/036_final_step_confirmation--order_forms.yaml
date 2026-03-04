@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: final_step_confirmation
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: Provide payment information
+      type: select_one
+      options:
+      - '{''value'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: order_confirmation
+      label: Order Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_summary
+      label: Order Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''net_30'', ''label'': ''Net 30''}'
+      - '{''value'': ''proforma'', ''label'': ''Proforma''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''paid'', ''label'': ''Paid''}'
+      - '{''value'': ''pending_payment'', ''label'': ''Pending Payment''}'
+      - '{''value'': ''cancelled'', ''label'': ''Cancelled''}'
+      required: false
+    - id: 9
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''completed'', ''label'': ''Completed''}'
+      - '{''value'': ''cancelled'', ''label'': ''Cancelled''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 10
+      name: customer_approval
+      label: Customer Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''value'': ''declined'', ''label'': ''Declined''}'
+      - '{''value'': ''pending_approval'', ''label'': ''Pending Approval''}'
+      required: false

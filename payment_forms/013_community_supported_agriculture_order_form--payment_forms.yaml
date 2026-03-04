@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Supported Agriculture Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer full name
+      hint: Name for order and delivery
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer email
+      hint: Order confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: delivery_address
+      label: Delivery address
+      hint: Address for produce delivery
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subscription_type
+      label: Subscription type
+      hint: Choose your CSA package
+      type: select_one
+      options:
+      - Weekly box
+      - Biweekly box
+      - Monthly box
+      required: true
+    - id: 5
+      name: box_size
+      label: Box size
+      hint: Select preferred box size
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of boxes per selected frequency
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will pay
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Cash on delivery
+      required: true
+    - id: 8
+      name: delivery_instructions
+      label: Delivery instructions
+      hint: Gate codes or preferred drop location
+      type: text
+      options: []
+      required: false

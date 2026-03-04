@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: nail_slay_with_niki_&_co_order_form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_info_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_items
+      label: order_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: customer_info_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_info_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true

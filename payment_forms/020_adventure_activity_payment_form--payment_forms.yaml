@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Activity Payment Form
+    pages:
+    - id: 1
+      name: customer_information_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: activity_details_section
+      label: -- Activity Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: activity_type
+      label: Activity Type
+      hint: Which adventure activity are you booking
+      type: select_one
+      options:
+      - Rock Climbing
+      - Whitewater Rafting
+      - Zip Lining
+      - Mountain Biking
+      - Kayaking
+      - Paragliding
+      - Bungee Jumping
+      - Other
+      required: true
+    - id: 9
+      name: activity_date
+      label: Activity Date
+      hint: Date of the adventure activity
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: activity_time
+      label: Activity Time
+      hint: Time of the adventure activity
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: number_of_participants
+      label: Number of Participants
+      hint: How many people are participating
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: activity_price
+      label: Activity Price
+      hint: Total cost for the activity
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_details_section
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash on Arrival
+      required: true
+    - id: 15
+      name: card_holder_name
+      label: Card Holder Name
+      hint: Name on the credit/debit card
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: card_number
+      label: Card Number
+      hint: Credit/debit card number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expiry_date
+      label: Expiry Date
+      hint: Expiration date of the card
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cvv
+      label: CVV
+      hint: Security code on the back of the card
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with the payment method
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_authorization
+      label: Payment Authorization
+      hint: I authorize the payment for the selected adventure activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

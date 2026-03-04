@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Pool Construction Intake Form
+    pages:
+    - id: 1
+      name: pool_type
+      label: Pool Type
+      hint: null
+      type: select_one
+      options:
+      - Above Ground Pools
+      - In-Ground Pools
+      - In-Ground Pools (Spas)
+      - Semi-In-Ground Pools
+      - Semi-In-Ground Pools (Spas)
+      - In-Ground Pools (Saltwater)
+      - In-Ground Pools (Spas)
+      required: true
+    - id: 2
+      name: pool_size
+      label: Pool Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 3
+      name: pool_shape
+      label: Pool Shape
+      hint: null
+      type: select_one
+      options:
+      - Rectangular
+      - Freeform
+      - Kidney-Shaped
+      - Infinity Pools
+      required: true
+    - id: 4
+      name: pool_color
+      label: Pool Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Green
+      - Black
+      - Gray
+      - Red
+      required: false
+    - id: 5
+      name: pool_features
+      label: Pool Features
+      hint: null
+      type: select_multiple
+      options:
+      - Spas
+      - Tanning Decks
+      - Waterfalls
+      - Waterfalls and Tanning Decks
+      required: true
+    - id: 6
+      name: pool_location
+      label: Location
+      hint: Please enter address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pool_contact
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Landline
+      - Cell
+      - Email
+      required: true
+    - id: 8
+      name: pool_notes
+      label: Pool Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contractor_name
+      label: Contractor Name
+      hint: Please enter name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contractor_contact
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Landline
+      - Cell
+      - Email
+      required: true
+    - id: 11
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - On Hold
+      - Cancelled
+      required: true

@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canvas Print Order Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canvas Print Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Order custom canvas prints today. Select your size, upload your image,
+        and choose finishing options.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: customer_header
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_name
+      label: Company Name (if applicable)
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to ship
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: canvas_specifications_header
+      label: -- Canvas Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: width
+      label: Width (in inches)
+      hint: Width of canvas
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: height
+      label: Height (in inches)
+      hint: Height of canvas
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: preset_size
+      label: Or Select Preset Size
+      hint: Select one
+      type: select_one
+      options:
+      - 8 x 10
+      - 11 x 14
+      - 12 x 16
+      - 16 x 20
+      - 18 x 24
+      - 24 x 36
+      - Custom size
+      required: false
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: Number of prints
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: canvas_material_header
+      label: -- Canvas Material Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: canvas_material
+      label: Canvas Material
+      hint: Select one
+      type: select_one
+      options:
+      - Standard Cotton Canvas
+      - Premium Cotton Canvas
+      - Linen Blend
+      - Poly Cotton
+      - Fine Art Matte
+      - Satin Finish
+      required: true
+    - id: 19
+      name: canvas_weight
+      label: Canvas Weight
+      hint: Select one
+      type: select_one
+      options:
+      - Standard (9 oz)
+      - Medium (12 oz)
+      - Heavy (14 oz)
+      - Extra Heavy (17 oz)
+      required: true
+    - id: 20
+      name: stretching_option
+      label: Stretching and Wrapping
+      hint: Select one
+      type: select_one
+      options:
+      - Pre-stretched on frame
+      - Gallery wrapped
+      - Museum wrapped
+      - Unstretched/rolled
+      - Unstretched/folded
+      required: true
+    - id: 21
+      name: finish_option_header
+      label: -- Finish and Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: surface_finish
+      label: Surface Finish
+      hint: Select one
+      type: select_one
+      options:
+      - Matte
+      - Satin
+      - Gloss
+      - Canvas texture
+      - Metallic
+      required: true
+    - id: 23
+      name: edge_color
+      label: Edge Color (for wrapped edges)
+      hint: Select one
+      type: select_one
+      options:
+      - Black
+      - White
+      - Natural
+      - Match image
+      - Custom color
+      - Not applicable
+      required: false
+    - id: 24
+      name: lamination
+      label: Lamination
+      hint: Select one
+      type: select_one
+      options:
+      - None
+      - Protective laminate
+      - Premium laminate
+      required: true
+    - id: 25
+      name: image_information_header
+      label: -- Image Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: image_description
+      label: Image Description
+      hint: Describe the image
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: image_format
+      label: Image Format
+      hint: Select one
+      type: select_one
+      options:
+      - JPEG
+      - PNG
+      - TIFF
+      - PDF
+      - PSD
+      - Raw
+      - Other
+      required: true
+    - id: 28
+      name: color_profile
+      label: Color Profile
+      hint: Select one
+      type: select_one
+      options:
+      - RGB
+      - CMYK
+      - Color space
+      - Unsure
+      required: false
+    - id: 29
+      name: special_instructions_header
+      label: -- Special Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: color_corrections
+      label: Need Color Corrections?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 31
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Optional instructions
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: order_confirmation
+      label: I confirm this order and agree to the terms
+      hint: Required
+      type: select_one
+      options:
+      - Yes, confirm order
+      - 'No'
+      required: true

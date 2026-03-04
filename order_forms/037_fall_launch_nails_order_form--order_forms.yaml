@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fall Launch Nails Order Form
+    pages:
+    - id: 1
+      name: fall_launch_nails_order_form_page
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fall_launch_product
+      label: Select Products
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: fall_launch_nail_product_name
+      label: Nail Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fall_launch_nail_color
+      label: Nail Color
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: fall_launch_nail_size
+      label: Nail Size
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: fall_launch_nail_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: fall_launch_nail_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fall_launch_nail_discount
+      label: Discount
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fall_launch_nail_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: fall_launch_nail_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: fall_launch_nail_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: fall_launch_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: fall_launch_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fall_launch_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

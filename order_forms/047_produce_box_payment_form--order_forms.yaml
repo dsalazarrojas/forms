@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: produce_box_payment_form
+    pages:
+    - id: 1
+      name: order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: box_type
+      label: box_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''box_type_1'', ''label'': ''Standard''}'
+      - '{''id'': 2, ''name'': ''box_type_2'', ''label'': ''Organic''}'
+      - '{''id'': 3, ''name'': ''box_type_3'', ''label'': ''Custom''}'
+      required: true
+    - id: 3
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''delivery_method_1'', ''label'': ''Weekly''}'
+      - '{''id'': 2, ''name'': ''delivery_method_2'', ''label'': ''Bi-Weekly''}'
+      - '{''id'': 3, ''name'': ''delivery_method_3'', ''label'': ''Monthly''}'
+      required: true
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''payment_method_1'', ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''payment_method_2'', ''label'': ''Cash''}'
+      - '{''id'': 3, ''name'': ''payment_method_3'', ''label'': ''Check''}'
+      required: true
+    - id: 5
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: farm_name
+      label: farm_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false

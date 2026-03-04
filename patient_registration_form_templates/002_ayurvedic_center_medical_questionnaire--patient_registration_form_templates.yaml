@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ayurvedic Center Medical Questionnaire
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: Basic patient details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact number
+      hint: Primary phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: For appointment reminders
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: primary_concern
+      label: Primary health concern
+      hint: Reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_symptoms
+      label: Current symptoms
+      hint: Describe onset frequency severity
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical history summary
+      hint: Include chronic conditions and surgeries
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergies
+      label: Known allergies
+      hint: Include drug and food allergies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_follow_up
+      label: Consent to follow up
+      hint: May be contacted for follow up care
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

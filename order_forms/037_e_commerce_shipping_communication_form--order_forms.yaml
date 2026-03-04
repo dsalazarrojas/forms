@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_shipping_communication_form
+    pages:
+    - id: 1
+      name: shipping_preferences
+      label: Shipping Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_service
+      label: Shipping Service
+      hint: null
+      type: select_one
+      options:
+      - UPS
+      - FedEx
+      - USPS
+      required: false
+    - id: 3
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Placed
+      - Picked
+      - Shipped
+      - Delivered
+      required: false
+    - id: 4
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

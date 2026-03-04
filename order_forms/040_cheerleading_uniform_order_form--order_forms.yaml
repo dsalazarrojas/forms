@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheerleading Uniform Order Form
+    pages:
+    - id: 1
+      name: section_order_id_info
+      label: -- Order and Athlete Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ordering_parent_name
+      label: Parent / Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_name_for_order
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_for_updates
+      label: Contact Email
+      hint: For order status updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: athlete_team_assignment
+      label: Team Assignment
+      hint: null
+      type: select_one
+      options:
+      - Junior Squad
+      - Varsity Squad
+      - Elite Competition Team
+      required: true
+    - id: 6
+      name: section_uniform_sizing
+      label: -- Uniform Sizing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: skirt_size_selection
+      label: Skirt Size
+      hint: null
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult XS
+      - Adult S
+      - Adult M
+      - Adult L
+      required: true
+    - id: 8
+      name: top_shell_size_selection
+      label: Top / Shell Size
+      hint: null
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult XS
+      - Adult S
+      - Adult M
+      - Adult L
+      required: true
+    - id: 9
+      name: briefs_bloomers_size
+      label: Briefs / Bloomers Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      required: true
+    - id: 10
+      name: cheer_shoe_size
+      label: Cheer Shoe Size
+      hint: e.g. Womens 7-5, Youth 3
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: warmup_suit_size_opt
+      label: Warm-up Suit Size (Optional)
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Small
+      - Medium
+      - Large
+      - XL
+      required: false
+    - id: 12
+      name: section_payment_total
+      label: -- Payment and Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_order_amount_calc
+      label: Total Order Amount ($)
+      hint: Calculated based on selections
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_confirmation_code
+      label: Payment Confirmation Number
+      hint: If paid via external portal
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: specific_fitting_concerns
+      label: Special Fitting Notes
+      hint: e.g. need extra length in skirt
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_authorization_sig
+      label: I authorize this order and size selection
+      hint: null
+      type: select_one
+      options:
+      - Order Authorized
+      - Other
+      required: true
+    - id: 17
+      name: date_of_order_entry
+      label: Order Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true

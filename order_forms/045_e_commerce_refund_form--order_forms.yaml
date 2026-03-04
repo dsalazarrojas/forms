@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_refund_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_info
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_returned
+      label: Product Returned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: store_message
+      label: Store Message
+      hint: null
+      type: text
+      options: []
+      required: false

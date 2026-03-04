@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consultation Portal Access Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: appointment_request_date
+      label: Appointment Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_request_time
+      label: Appointment Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: doctor_request
+      label: Doctor Request
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cardiology'', ''label'': ''Cardiology''}'
+      - '{''id'': 2, ''name'': ''Dermatology'', ''label'': ''Dermatology''}'
+      - '{''id'': 3, ''name'': ''Gastroenterology'', ''label'': ''Gastroenterology''}'
+      - '{''id'': 4, ''name'': ''Nephrology'', ''label'': ''Nephrology''}'
+      - '{''id'': 5, ''name'': ''Urology'', ''label'': ''Urology''}'
+      required: false
+    - id: 10
+      name: patient_message
+      label: Patient Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Renewal Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: renewal_date
+      label: Renewal Date
+      hint: Date of renewal
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: original_contract_date
+      label: Original Contract Date
+      hint: When did you start
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_number
+      label: Contract Number
+      hint: Your contract reference
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: What service to renew
+      type: select_one
+      options:
+      - Monthly Catering
+      - Quarterly Catering
+      - Annual Contract
+      - Event Series
+      - Corporate Account
+      required: true
+    - id: 9
+      name: renewal_period
+      label: Renewal Period
+      hint: How long to renew for
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Other
+      required: true
+    - id: 10
+      name: continue_current_menu
+      label: Continue Current Menu
+      hint: Keep the same menu
+      type: select_one
+      options:
+      - Yes - No Changes
+      - Yes - Minor Changes
+      - No - Want New Menu
+      required: true
+    - id: 11
+      name: menu_changes_requested
+      label: Menu Changes Requested
+      hint: What changes do you want
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guest_count_change
+      label: Guest Count Change
+      hint: Will guest count change
+      type: select_one
+      options:
+      - Same
+      - Increase
+      - Decrease
+      required: false
+    - id: 13
+      name: new_guest_count
+      label: New Guest Count
+      hint: Updated number
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: frequency_change
+      label: Frequency Change
+      hint: Change in service frequency
+      type: select_one
+      options:
+      - Same Frequency
+      - More Often
+      - Less Often
+      required: false
+    - id: 15
+      name: new_frequency
+      label: New Frequency
+      hint: How often now
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: budget_change
+      label: Budget Change
+      hint: Any budget adjustments
+      type: select_one
+      options:
+      - Same Budget
+      - Increase Budget
+      - Decrease Budget
+      required: false
+    - id: 17
+      name: new_budget
+      label: New Budget
+      hint: Updated budget amount
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: additional_services
+      label: Additional Services Needed
+      hint: Any new services
+      type: select_multiple
+      options:
+      - Breakfast Service
+      - Lunch Service
+      - Dinner Service
+      - Event Catering
+      - Beverage Service
+      - Equipment Rental
+      - None
+      required: false
+    - id: 19
+      name: services_to_remove
+      label: Services to Remove
+      hint: Any services to cancel
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: satisfaction_rating
+      label: Satisfaction with Current Service
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 21
+      name: issues_to_address
+      label: Issues to Address
+      hint: Any problems to fix
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: Any new requirements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method_change
+      label: Payment Method Change
+      hint: Change in payment
+      type: select_one
+      options:
+      - Same Method
+      - Credit Card
+      - Invoice
+      - Check
+      - Other
+      required: false
+    - id: 24
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you agree to terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

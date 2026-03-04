@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Court Appointed Special Advocate Fund Donation Form
+    pages:
+    - id: 1
+      name: form_information
+      label: form_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_information
+      label: donor_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_2
+      label: address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit card'', ''value'': ''credit-card''}'
+      - '{''label'': ''Check or money order'', ''value'': ''check-or-money-order''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 7
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''One-time'', ''value'': ''one-time''}'
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''label'': ''Quarterly'', ''value'': ''quarterly''}'
+      - '{''label'': ''Annually'', ''value'': ''annually''}'
+      required: false
+    - id: 9
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''One-time'', ''value'': ''one-time''}'
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''label'': ''Quarterly'', ''value'': ''quarterly''}'
+      - '{''label'': ''Annually'', ''value'': ''annually''}'
+      required: false

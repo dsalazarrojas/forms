@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bestseller Book Pre Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: For order updates if needed
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Full address where book should be delivered
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: postal_code
+      label: Postal or ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: Country for delivery
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 9
+      name: book_format
+      label: Book Format
+      hint: Which format would you prefer
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - Kindle or E-book
+      - Audiobook
+      - Deluxe Edition
+      - Signed Copy
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: How many copies would you like to pre-order
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: unit_price
+      label: Unit Price
+      hint: Price per copy
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: personalization
+      label: Would You Like Personalization
+      hint: Would you like the book signed or personalized
+      type: select_one
+      options:
+      - Yes, please personalize
+      - No, standard copy is fine
+      required: true
+    - id: 13
+      name: personalization_name
+      label: Name for Personalization
+      hint: What name should be included in the inscription
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gift_wrap
+      label: Would You Like Gift Wrapping
+      hint: Add gift wrapping for additional fee
+      type: select_one
+      options:
+      - Yes, please gift wrap
+      - No gift wrapping needed
+      required: false
+    - id: 15
+      name: shipping_method
+      label: Shipping Method
+      hint: How would you like your order shipped
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - International Shipping
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank Transfer
+      required: true
+    - id: 17
+      name: card_number
+      label: Card Number
+      hint: Enter your card number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expiry_date
+      label: Expiry Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cvv
+      label: CVV
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: promo_code
+      label: Promotional Code
+      hint: Enter any discount code
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any delivery instructions or notes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: newsletter_signup
+      label: Would You Like to Join Our Newsletter
+      hint: Receive updates about new releases and promotions
+      type: select_one
+      options:
+      - Yes, sign me up
+      - No, thank you
+      required: false
+    - id: 23
+      name: how_heard_about
+      label: How Did You Hear About This Book
+      hint: Where did you learn about this pre-order
+      type: select_one
+      options:
+      - Social Media
+      - Author Website
+      - Bookstore
+      - Friend or Family
+      - Email Newsletter
+      - Online Advertisement
+      - Book Review
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your order
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Gram Order Form
+    pages:
+    - id: 1
+      name: sender_info_section
+      label: -- Sender Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sender_full_name
+      label: Sender Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_email_address
+      label: Sender Email
+      hint: To confirm your order
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sender_phone_number
+      label: Sender Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sender_grade_dept
+      label: Sender Grade or Department
+      hint: e.g. 10th Grade, Admin
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recipient_info_section
+      label: -- Recipient Information --
+      hint: Where should the candy go
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recipient_full_name_gram
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recipient_grade_homeroom
+      label: Recipient Grade or Homeroom
+      hint: To assist with delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: candy_gram_delivery_location
+      label: Delivery Location
+      hint: Preferred drop-off point
+      type: select_one
+      options:
+      - Front Office
+      - Cafeteria
+      - Classroom
+      - Gym
+      - Other
+      required: true
+    - id: 10
+      name: candy_gram_details_section
+      label: -- Candy Gram Details --
+      hint: Choose your treat
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: candy_gram_type_choice
+      label: Candy Gram Type
+      hint: Selection of sweets
+      type: select_one
+      options:
+      - Lollipop Heart ($1)
+      - Chocolate Kiss ($2)
+      - Gummy Bear Pack ($2)
+      - Sour Patch Kids ($3)
+      - Deluxe Mix Bag ($5)
+      required: true
+    - id: 12
+      name: candy_gram_quantity
+      label: Quantity
+      hint: How many grams for this recipient
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: personalized_gram_message
+      label: Personalized Message
+      hint: 150 characters max
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gram_occasion_theme
+      label: Occasion or Theme
+      hint: Why are you sending this gram
+      type: select_one
+      options:
+      - Valentine's Day
+      - Halloween
+      - Graduation
+      - Birthday
+      - Thank You
+      - Other
+      required: true
+    - id: 15
+      name: anonymous_sender_pref
+      label: Anonymous Sender
+      hint: Do you want the recipient to know it was you
+      type: select_one
+      options:
+      - Yes, keep me anonymous
+      - No, include my name
+      required: true
+    - id: 16
+      name: payment_logistics_section
+      label: -- Payment and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: total_gram_amount
+      label: Total Amount
+      hint: Sum of your selection
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: gram_payment_method
+      label: Payment Method
+      hint: Choose how you are paying
+      type: select_one
+      options:
+      - Cash (in envelope)
+      - Venmo
+      - Pre-paid at Booth
+      - Credit Card
+      required: true
+    - id: 19
+      name: preferred_gram_delivery_date
+      label: Preferred Delivery Date
+      hint: When should we deliver the gram
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: school_fundraiser_terms_agreement
+      label: I agree to the school's fundraising terms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: candy_gram_order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

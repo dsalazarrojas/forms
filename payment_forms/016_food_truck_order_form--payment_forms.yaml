@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Truck Order Form
+    pages:
+    - id: 1
+      name: food_truck_order_form_page_1
+      label: Place an Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''PayPal''}'
+      required: false
+    - id: 9
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''New'', ''label'': ''New''}'
+      - '{''id'': 2, ''name'': ''Placed'', ''label'': ''Placed''}'
+      - '{''id'': 3, ''name'': ''Shipped'', ''label'': ''Shipped''}'
+      - '{''id'': 4, ''name'': ''Delivered'', ''label'': ''Delivered''}'
+      - '{''id'': 5, ''name'': ''Cancelled'', ''label'': ''Cancelled''}'
+      required: false
+    - id: 10
+      name: date_of_order
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_order
+      label: Time of Order
+      hint: 'Optional: 24 hour time format'
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Visual Equipment Booking Form
+    pages:
+    - id: 1
+      name: section_org
+      label: -- Organization and Event --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Name of Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_equipment
+      label: -- Equipment Reservation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: visual_equipment
+      label: Visual Equipment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Projector (4K)
+      - Projector Screen (Tripod)
+      - LED Display (65 inch)
+      - Document Camera
+      - Laptop/Macbook
+      required: false
+    - id: 7
+      name: audio_equipment
+      label: Audio Equipment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Powered Speaker Pair
+      - Wireless Handheld Mic
+      - Wireless Lavalier/Lapel Mic
+      - Audio Mixer (8-Channel)
+      - Bluetooth Audio Receiver
+      required: false
+    - id: 8
+      name: quantity_notes
+      label: Please specify quantities for each item selected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: delivery_option
+      label: Pickup or Delivery Choice
+      hint: null
+      type: select_one
+      options:
+      - I will pickup from Warehouse
+      - Request Delivery to Venue
+      - Delivery and Setup required
+      required: true
+    - id: 11
+      name: pickup_date
+      label: Requested Pickup/Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: return_date
+      label: Expected Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: budget_code
+      label: Internal Budget Code
+      hint: For internal billing only
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rental_terms_agreement
+      label: I agree to the AV Equipment Rental Terms
+      hint: includes liability for damage
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 15
+      name: contact_name
+      label: Authorized Representative Name
+      hint: Person responsible for the equipment
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

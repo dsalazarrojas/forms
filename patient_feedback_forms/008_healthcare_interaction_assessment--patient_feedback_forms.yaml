@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_interaction_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_experience
+      label: patient experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_interaction
+      label: provider interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment_questions
+      label: assessment questions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Applicable''}'
+      - '{''label'': ''Mostly Not Applicable''}'
+      - '{''label'': ''Somewhat Applicable''}'
+      - '{''label'': ''Very Applicable''}'
+      - '{''label'': ''Extremely Applicable''}'
+      required: false
+    - id: 5
+      name: assessment_scale
+      label: assessment scale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

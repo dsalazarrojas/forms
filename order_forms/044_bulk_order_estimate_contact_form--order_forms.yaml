@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bulk Order Estimate Contact Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: When submitting inquiry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_title
+      label: Contact Title
+      hint: Job position
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Business phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_zip
+      label: Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: industry
+      label: Industry or Business Type
+      hint: Your industry
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: product_category
+      label: Product Category of Interest
+      hint: What type of products
+      type: select_one
+      options:
+      - Electronics
+      - Office Supplies
+      - Industrial Equipment
+      - Packaging Materials
+      - Raw Materials
+      - Consumables
+      - Custom Products
+      - Other
+      required: true
+    - id: 13
+      name: product_description
+      label: Product Description
+      hint: Detailed product specifications
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: quantity_estimate
+      label: Estimated Quantity Needed
+      hint: How many units
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: Units, boxes, pallets, etc
+      type: select_one
+      options:
+      - Individual Units
+      - Boxes
+      - Cases
+      - Pallets
+      - Tons
+      - Gallons
+      - Custom
+      required: true
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget
+      type: select_one
+      options:
+      - Under 5000
+      - 5000 - 10000
+      - 10000 - 25000
+      - 25000 - 50000
+      - 50000 - 100000
+      - Over 100000
+      required: false
+    - id: 17
+      name: delivery_timeline
+      label: Desired Delivery Timeline
+      hint: When do you need it
+      type: select_one
+      options:
+      - ASAP
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - Flexible
+      required: true
+    - id: 18
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to ship
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: ongoing_orders
+      label: Will This Be an Ongoing Order
+      hint: Regular purchase or one-time
+      type: select_one
+      options:
+      - One-Time Order
+      - Monthly Orders
+      - Quarterly Orders
+      - Annual Orders
+      - Regular Ongoing
+      - Unsure
+      required: false
+    - id: 20
+      name: current_supplier
+      label: Currently Have a Supplier
+      hint: Existing vendor
+      type: select_one
+      options:
+      - true
+      - false
+      - Looking to Compare
+      required: false
+    - id: 21
+      name: comparison_reason
+      label: Why Looking for New Supplier
+      hint: Reason for shopping
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quality_requirements
+      label: Quality or Specification Requirements
+      hint: Any standards needed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Information
+      hint: Any other details
+      type: text
+      options: []
+      required: false

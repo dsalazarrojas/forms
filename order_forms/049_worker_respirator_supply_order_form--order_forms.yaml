@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Respirator Supply Order Form
+    pages:
+    - id: 1
+      name: worker_respirator_supply_order_form_page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: worker_respirator_supply_order_form_page_2
+      label: Respirator Type
+      hint: Select from the dropdown
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: worker_respirator_supply_order_form_page_3
+      label: Quantity Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: worker_respirator_supply_order_form_page_4
+      label: Contact Information
+      hint: Provide your details
+      type: text
+      options: []
+      required: false

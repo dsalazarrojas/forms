@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Box Order Form
+    pages:
+    - id: 1
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: delivery_city
+      label: delivery city
+      hint: null
+      type: select_one
+      options:
+      - '10010'
+      - '1010'
+      - '1001'
+      required: false
+    - id: 3
+      name: delivery_zip
+      label: delivery zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: box_content
+      label: box content
+      hint: null
+      type: select_multiple
+      options:
+      - content 1
+      - content 2
+      - content 3
+      required: false
+    - id: 5
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_delivery_date
+      label: confirm delivery date
+      hint: null
+      type: date
+      options: []
+      required: false

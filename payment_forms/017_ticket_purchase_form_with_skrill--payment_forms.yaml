@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ticket Purchase Form With Skrill
+    pages:
+    - id: 1
+      name: ticket_purchase_form_with_skrill
+      label: Purchase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Regular''}'
+      - '{''id'': 2, ''name'': ''VIP''}'
+      - '{''id'': 3, ''name'': ''Front Row''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ticket_price_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''EUR''}'
+      - '{''id'': 2, ''name'': ''USD''}'
+      - '{''id'': 3, ''name'': ''GBP''}'
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Skrill''}'
+      - '{''id'': 2, ''name'': ''PayPal''}'
+      required: false
+    - id: 11
+      name: payment_method_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method_other_details
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false

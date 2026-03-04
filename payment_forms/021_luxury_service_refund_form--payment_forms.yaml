@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Service Refund Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: refund_details
+      label: Refund Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: refund_request_date
+      label: Refund Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Card
+      - Bank Transfer
+      - Cheque
+      required: false
+    - id: 7
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_provider_comments
+      label: Service Provider Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: service_provider_confirmation
+      label: Service Provider Confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 20
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Refunded
+      required: false

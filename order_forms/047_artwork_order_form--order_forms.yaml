@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artwork Order Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: artwork_title
+      label: Artwork Title or Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artwork_description
+      label: Artwork Description
+      hint: What do you want to order
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: Number of pieces
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: size_options
+      label: Size or Format
+      hint: null
+      type: select_one
+      options:
+      - Small - 8x10
+      - Medium - 11x14
+      - Large - 16x20
+      - Extra Large - 24x36
+      - Custom Size
+      required: true
+    - id: 13
+      name: custom_size_dimensions
+      label: Custom Dimensions (if applicable)
+      hint: Width x Height
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: frame_option
+      label: Frame or Mounting Option
+      hint: null
+      type: select_one
+      options:
+      - Unframed
+      - Standard Frame
+      - Premium Frame
+      - Canvas Wrap
+      - Other
+      required: true
+    - id: 15
+      name: color_options
+      label: Color Preferences or Variations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: printing_method
+      label: Preferred Printing Method
+      hint: null
+      type: select_one
+      options:
+      - Digital Print
+      - Screen Print
+      - Lithograph
+      - Canvas
+      - Other
+      required: false
+    - id: 17
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_price
+      label: Total Order Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

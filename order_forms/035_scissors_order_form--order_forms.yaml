@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: scissors_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scissors_type
+      label: scissors_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 3, ''label'': ''Type A''}'
+      - '{''value'': 4, ''label'': ''Type B''}'
+      - '{''value'': 5, ''label'': ''Type C''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: size
+      label: size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 6, ''label'': ''small''}'
+      - '{''value'': 7, ''label'': ''medium''}'
+      - '{''value'': 8, ''label'': ''large''}'
+      required: false
+    - id: 5
+      name: color
+      label: color
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 9, ''label'': ''red''}'
+      - '{''value'': 10, ''label'': ''blue''}'
+      - '{''value'': 11, ''label'': ''green''}'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

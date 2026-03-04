@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branded Merchandise Requisition Form
+    pages:
+    - id: 1
+      name: requisitioner_header
+      label: -- Requisitioner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dept_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: req_name
+      label: Requisitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: req_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: item_details_header
+      label: -- Item Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: merch_desc
+      label: Merchandise Item Description
+      hint: e.g. Logo T-shirts
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: qty_req
+      label: Quantity Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: logo_placement_select
+      label: Logo Placement
+      hint: null
+      type: select_one
+      options:
+      - Front Center
+      - Left Chest
+      - Back
+      - Sleeve
+      - Custom
+      required: true
+    - id: 9
+      name: sizes_text
+      label: Size Breakdown
+      hint: e.g. 10S, 20M, 5L
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purpose_header
+      label: -- Purpose and Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_merch_status
+      label: Is this for a specific event?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: event_name_val
+      label: If Yes - Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: need_dt
+      label: Required by Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: budget_header
+      label: -- Budget and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: budget_code_val
+      label: Department Budget Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supervisor_sign_name
+      label: Approving Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: req_dt
+      label: Date of Requisition
+      hint: null
+      type: date
+      options: []
+      required: true

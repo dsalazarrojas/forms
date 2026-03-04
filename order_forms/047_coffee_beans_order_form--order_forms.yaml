@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Beans Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_delivery_info
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_coffee_selection
+      label: -- Coffee Bean Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coffee_type_1
+      label: Coffee Bean Variety 1
+      hint: null
+      type: select_one
+      options:
+      - Premium Dark Roast
+      - Medium Roast Blend
+      - Light Roast Ethiopian
+      - French Roast
+      - Colombian Supreme
+      - Brazilian Espresso
+      required: true
+    - id: 13
+      name: quantity_1
+      label: Quantity (pounds)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: coffee_type_2
+      label: Coffee Bean Variety 2
+      hint: Optional
+      type: select_one
+      options:
+      - Premium Dark Roast
+      - Medium Roast Blend
+      - Light Roast Ethiopian
+      - French Roast
+      - Colombian Supreme
+      - Brazilian Espresso
+      - None
+      required: false
+    - id: 15
+      name: quantity_2
+      label: Quantity (pounds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_grind_preference
+      label: -- Grind Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: grind_type
+      label: Grind Type
+      hint: null
+      type: select_one
+      options:
+      - Whole beans
+      - Coarse grind
+      - Medium grind
+      - Fine grind
+      - Extra fine grind
+      required: true
+    - id: 18
+      name: section_roast_date
+      label: -- Roast Date Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: roast_preference
+      label: Roast Date Preference
+      hint: null
+      type: select_one
+      options:
+      - Most recent
+      - 1-2 weeks old
+      - 2-4 weeks old
+      - No preference
+      required: false
+    - id: 20
+      name: section_special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any preferences or customizations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_delivery_method
+      label: -- Delivery Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Priority mail
+      - Local pickup
+      required: true
+    - id: 24
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

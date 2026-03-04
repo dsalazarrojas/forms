@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Association Donation Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: class_year
+      label: Class Year
+      hint: Year you graduated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_college
+      label: School or College
+      hint: Which school did you attend
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: major_field
+      label: Major or Field of Study
+      hint: Your area of study
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_city
+      label: Current City
+      hint: Where you currently live
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_state
+      label: Current State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_amount
+      label: Donation Amount
+      hint: How much do you wish to donate
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: donation_purpose
+      label: Donation Purpose
+      hint: Where should funds be directed
+      type: select_one
+      options:
+      - General Alumni Fund
+      - Scholarship Fund
+      - Infrastructure Improvements
+      - Research
+      - Athletics
+      - Other
+      required: true
+    - id: 12
+      name: donation_frequency
+      label: Donation Frequency
+      hint: Is this one-time or recurring
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 13
+      name: anonymous_donation
+      label: Make Donation Anonymous
+      hint: Hide donor name from publications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      required: true
+    - id: 15
+      name: employer_match
+      label: Employer Matching Available
+      hint: Does your employer match donations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 16
+      name: pledge_type
+      label: Pledge Type
+      hint: How you plan to fulfill donation
+      type: select_one
+      options:
+      - Immediate Payment
+      - Installment Plan
+      - Stock Gift
+      - Legacy Gift
+      - Other
+      required: false
+    - id: 17
+      name: recognition_level
+      label: Desired Recognition Level
+      hint: How you prefer to be recognized
+      type: select_one
+      options:
+      - Yes, list my name
+      - Anonymous
+      - Corporate Listing Only
+      required: false
+    - id: 18
+      name: newsletter_signup
+      label: Sign Up for Newsletter
+      hint: Receive alumni updates
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: event_invitations
+      label: Receive Event Invitations
+      hint: Be invited to alumni events
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: additional_message
+      label: Personal Message
+      hint: Optional message to the school
+      type: text
+      options: []
+      required: false

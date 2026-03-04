@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Payment Authorization Form
+    pages:
+    - id: 1
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: authorization_amount
+      label: Authorization Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: mortgage_id
+      label: Mortgage ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorization_method
+      label: Authorization Method
+      hint: null
+      type: select_one
+      options:
+      - ACH
+      - Wire Transfer
+      - Other
+      required: true
+    - id: 7
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: branch_name
+      label: Branch Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Other
+      required: true
+    - id: 12
+      name: authorization_note
+      label: Authorization Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false

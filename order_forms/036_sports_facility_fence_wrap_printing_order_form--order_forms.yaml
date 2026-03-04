@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Facility Fence Wrap Printing Order Form
+    pages:
+    - id: 1
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artwork_url
+      label: Artwork URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: artwork_upload
+      label: Artwork Upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: print_shop
+      label: Print Shop
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: venue
+      label: Venue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true

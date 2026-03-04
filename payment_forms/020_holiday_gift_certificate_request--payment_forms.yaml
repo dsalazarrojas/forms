@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Gift Certificate Request
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Recipient Name
+      hint: Full name, e.g., John Smith
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: certificate_amount
+      label: Certificate Amount
+      hint: Enter the amount of the gift certificate, e.g., 10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gift_card_type
+      label: Gift Card Type
+      hint: Select a type for the gift card
+      type: select_multiple
+      options:
+      - Gift Card 1
+      - Gift Card 2
+      - Gift Card 3
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      - Square
+      required: false
+    - id: 6
+      name: gift_delivery_date
+      label: Gift Delivery Date
+      hint: Select a date for delivery, e.g., 2024-02-15
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address_1
+      label: Shipping Address 1
+      hint: Enter the city name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address_2
+      label: Shipping Address 2
+      hint: Enter the state and zip
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address_3
+      label: Shipping Address 3
+      hint: Enter the country name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_name
+      label: Billing Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_address_1
+      label: Billing Address 1
+      hint: Enter the city name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_address_2
+      label: Billing Address 2
+      hint: Enter the state and zip
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_address_3
+      label: Billing Address 3
+      hint: Enter the country name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_date
+      label: Delivery Date
+      hint: Select a date for delivery, e.g., 2024-02-15
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

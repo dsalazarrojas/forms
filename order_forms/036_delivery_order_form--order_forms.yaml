@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Order Form
+    pages:
+    - id: 1
+      name: delivery_order_form
+      label: delivery_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_items
+      label: order_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_contact
+      label: delivery_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_notes
+      label: delivery_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_instructions
+      label: delivery_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_instructions_2
+      label: delivery_instructions_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_instructions_3
+      label: delivery_instructions_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_instructions_4
+      label: delivery_instructions_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_notes_2
+      label: delivery_notes_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms_2
+      label: payment_terms_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

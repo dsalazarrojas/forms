@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pizza Hut Order Form
+    pages:
+    - id: 1
+      name: delivery_option
+      label: Delivery Option
+      hint: null
+      type: select_one
+      options:
+      - Pick-up
+      - Delivery
+      - Carry-Out
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_name
+      label: Delivery Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: Please enter in 24 hour format, 0-23
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false

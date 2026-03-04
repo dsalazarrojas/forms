@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: outstanding_payment_tracker
+    pages:
+    - id: 1
+      name: main_page
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Overdue
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_due_date
+      label: Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payer_details
+      label: Payer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_reminders
+      label: Follow-up Reminders
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_reminders_frequency
+      label: Follow-up Reminders Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: follow_up_reminders_email
+      label: Follow-up Reminders Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_reminders_phone
+      label: Follow-up Reminders Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_reminders_message
+      label: Follow-up Reminders Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_reminders_date
+      label: Follow-up Reminders Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_reminders_status
+      label: Follow-up Reminders Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: follow_up_reminders_frequency_status
+      label: Follow-up Reminders Frequency Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: follow_up_reminders_frequency
+      label: Follow-up Reminders Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_reminders_next_reminder_date
+      label: Follow-up Reminders Next Reminder Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_reminders_notes
+      label: Follow-up Reminders Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_reminders_status
+      label: Follow-up Reminders Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: follow_up_reminders_notes
+      label: Follow-up Reminders Notes
+      hint: null
+      type: note
+      options: []
+      required: false

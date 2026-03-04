@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assistive Technology Fund Donation Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Street Address
+      hint: For tax documentation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donor_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donor_state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: donor_zip
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: donor_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: donor_type
+      label: Donor Type
+      hint: Are you an individual or organization?
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - Foundation
+      - Non-profit
+      - Government
+      - Anonymous
+      required: true
+    - id: 11
+      name: organization_name
+      label: Organization Name (if applicable)
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_id
+      label: Tax ID or EIN (if applicable)
+      hint: For corporate donations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: donation_amount
+      label: Donation Amount
+      hint: How much would you like to donate?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring?
+      type: select_one
+      options:
+      - One-Time Donation
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 15
+      name: donation_purpose
+      label: Purpose of Donation
+      hint: What aspect of assistive tech?
+      type: select_one
+      options:
+      - Wheelchair and Mobility Aids
+      - Communication Devices
+      - Vision Aids
+      - Hearing Aids
+      - Computer Accessibility
+      - Smart Home Technology
+      - Prosthetics and Orthotics
+      - General Fund
+      - Other
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Wire Transfer
+      required: true
+    - id: 17
+      name: in_honor_of
+      label: Donation In Honor Of (optional)
+      hint: Name of person if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: in_memory_of
+      label: Donation In Memory Of (optional)
+      hint: Name of person if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notification_preference
+      label: Notify Family Member
+      hint: Send recognition to someone?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 20
+      name: notification_email
+      label: Email to Notify
+      hint: Email to send notification
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: donor_recognition
+      label: Donor Recognition Preference
+      hint: How should we recognize your donation?
+      type: select_one
+      options:
+      - Public Recognition
+      - Private Recognition
+      - Anonymous
+      required: true
+    - id: 22
+      name: newsletter_signup
+      label: Subscribe to Our Newsletter
+      hint: Receive updates about the fund
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: donation_comments
+      label: Additional Comments
+      hint: Any message or special instructions?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tax_deductible_confirmation
+      label: Confirm this donation is tax-deductible
+      hint: I understand the tax implications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: donation_date
+      label: Donation Date
+      hint: Date of this donation
+      type: date
+      options: []
+      required: true

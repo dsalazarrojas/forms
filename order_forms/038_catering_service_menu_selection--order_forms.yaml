@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Menu Selection
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of your event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: guest_count
+      label: Number of Guests
+      hint: Expected guests
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: service_style
+      label: Service Style
+      hint: How to serve
+      type: select_one
+      options:
+      - Buffet
+      - Plated Dinner
+      - Family Style
+      - Cocktail Reception
+      - Food Stations
+      required: true
+    - id: 8
+      name: meal_time
+      label: Meal Time
+      hint: When is the meal
+      type: select_one
+      options:
+      - Breakfast
+      - Brunch
+      - Lunch
+      - Dinner
+      - Late Night
+      required: true
+    - id: 9
+      name: appetizer_selection
+      label: Appetizer Selection
+      hint: Choose appetizers
+      type: select_multiple
+      options:
+      - Bruschetta
+      - Caprese Skewers
+      - Meatballs
+      - Shrimp Cocktail
+      - Spring Rolls
+      - Cheese Platter
+      - Fruit Platter
+      - Vegetable Crudites
+      - None
+      required: false
+    - id: 10
+      name: appetizer_count
+      label: Number of Appetizers
+      hint: How many varieties
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: soup_salad
+      label: Soup or Salad
+      hint: First course selection
+      type: select_one
+      options:
+      - Caesar Salad
+      - Garden Salad
+      - Greek Salad
+      - Tomato Soup
+      - Butternut Squash Soup
+      - French Onion Soup
+      - None
+      required: false
+    - id: 12
+      name: main_course_1
+      label: Main Course Option 1
+      hint: First choice
+      type: select_one
+      options:
+      - Grilled Chicken
+      - Roasted Beef
+      - Baked Salmon
+      - Vegetarian Pasta
+      - Pork Tenderloin
+      - Lamb Chops
+      - Duck Breast
+      required: true
+    - id: 13
+      name: main_course_2
+      label: Main Course Option 2
+      hint: Second choice
+      type: select_one
+      options:
+      - Grilled Chicken
+      - Roasted Beef
+      - Baked Salmon
+      - Vegetarian Pasta
+      - Pork Tenderloin
+      - Lamb Chops
+      - Duck Breast
+      required: false
+    - id: 14
+      name: side_dishes
+      label: Side Dishes
+      hint: Choose sides
+      type: select_multiple
+      options:
+      - Mashed Potatoes
+      - Roasted Vegetables
+      - Rice Pilaf
+      - Steamed Broccoli
+      - Green Beans
+      - Caesar Salad
+      - Dinner Rolls
+      - None
+      required: false
+    - id: 15
+      name: dessert_selection
+      label: Dessert Selection
+      hint: Choose desserts
+      type: select_multiple
+      options:
+      - Chocolate Cake
+      - Cheesecake
+      - Fruit Tart
+      - Tiramisu
+      - Creme Brulee
+      - Ice Cream
+      - Cookie Platter
+      - Fresh Fruit
+      - None
+      required: false
+    - id: 16
+      name: beverage_package
+      label: Beverage Package
+      hint: Select beverages
+      type: select_one
+      options:
+      - Non-Alcoholic Only
+      - Beer and Wine
+      - Full Bar
+      - Coffee and Tea Service
+      - Soft Drinks Only
+      - None
+      required: true
+    - id: 17
+      name: signature_cocktail
+      label: Signature Cocktail Request
+      hint: Custom cocktail
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any restrictions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vegetarian_meals
+      label: Vegetarian Meals Needed
+      hint: Number required
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: vegan_meals
+      label: Vegan Meals Needed
+      hint: Number required
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: gluten_free_meals
+      label: Gluten-Free Meals Needed
+      hint: Number required
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: kids_menu
+      label: Childrens Menu Needed
+      hint: Number of children
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: tasting_requested
+      label: Tasting Session Requested
+      hint: Do you want a tasting
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

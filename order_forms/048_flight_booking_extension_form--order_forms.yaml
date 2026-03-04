@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight_Booking_Extension_Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_options
+      label: payment_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Astrophotography Licensing Agreement
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of licensing agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: agreement_id
+      label: Agreement ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photographer_name
+      label: Photographer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photographer_email
+      label: Photographer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: photographer_phone
+      label: Photographer Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: photographer_company
+      label: Photographer Company/Studio Name
+      hint: Business name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_company
+      label: Client Company (if applicable)
+      hint: Organization name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: image_description
+      label: Image Description
+      hint: Description of astrophotography images
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: image_quantity
+      label: Number of Images Licensed
+      hint: How many images?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: usage_type
+      label: Type of Image Usage
+      hint: How will images be used?
+      type: select_one
+      options:
+      - Commercial
+      - Editorial
+      - Educational
+      - Personal
+      - Promotional
+      - Website
+      - Print
+      - Other
+      required: true
+    - id: 14
+      name: usage_duration
+      label: Duration of License
+      hint: How long can images be used?
+      type: select_one
+      options:
+      - One-time use
+      - 1 year
+      - 2 years
+      - 5 years
+      - Perpetual
+      - Project-specific
+      required: true
+    - id: 15
+      name: usage_territory
+      label: Geographic Territory
+      hint: Where can images be used?
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Worldwide
+      - Specific Countries
+      required: true
+    - id: 16
+      name: exclusive_non_exclusive
+      label: Exclusivity
+      hint: Exclusive or non-exclusive?
+      type: select_one
+      options:
+      - Exclusive License
+      - Non-exclusive License
+      - Limited Exclusive
+      required: true
+    - id: 17
+      name: modification_allowed
+      label: Image Modification Allowed
+      hint: Can client modify images?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Limited Modifications Only
+      required: true
+    - id: 18
+      name: credit_required
+      label: Photographer Credit Required
+      hint: Must photographer be credited?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Optional
+      required: true
+    - id: 19
+      name: licensing_fee
+      label: Licensing Fee
+      hint: Total licensing cost
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will payment be made?
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Invoice
+      required: true
+    - id: 21
+      name: payment_due_date
+      label: Payment Due Date
+      hint: When is payment due?
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: resale_rights
+      label: Resale Rights
+      hint: Can client resell images?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Limited Resale Only
+      required: true
+    - id: 23
+      name: distribution_method
+      label: How Images Will Be Distributed
+      hint: Method of image delivery
+      type: select_one
+      options:
+      - Digital Download
+      - CD/USB
+      - Cloud Storage Link
+      - Email
+      - Physical Print
+      - Other
+      required: true
+    - id: 24
+      name: terms_acceptance
+      label: I agree to the licensing terms
+      hint: Confirm agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: agreement_signature_date
+      label: Agreement Signature Date
+      hint: Date both parties agree
+      type: date
+      options: []
+      required: true

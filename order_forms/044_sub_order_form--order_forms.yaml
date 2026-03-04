@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: sub_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_sub_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3, ''value'': ''sub_sandwich'', ''label'': ''Sub Sandwich''}'
+      - '{''id'': 4, ''value'': ''wrap'', ''label'': ''Wrap''}'
+      - '{''id'': 5, ''value'': ''salad'', ''label'': ''Salad''}'
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''stripe'', ''label'': ''Stripe''}'
+      - '{''id'': 2, ''value'': ''paypal'', ''label'': ''PayPal''}'
+      - '{''id'': 3, ''value'': ''apple_pay'', ''label'': ''Apple Pay''}'
+      - '{''id'': 4, ''value'': ''google_pay'', ''label'': ''Google Pay''}'
+      - '{''id'': 5, ''value'': ''square'', ''label'': ''Square''}'
+      - '{''id'': 6, ''value'': ''authorize'', ''label'': ''Authorize''}'
+      - '{''id'': 7, ''value'': ''charge'', ''label'': ''Charge''}'
+      - '{''id'': 8, ''value'': ''bank_transfer'', ''label'': ''Bank transfer''}'
+      required: false
+    - id: 9
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sub_type
+      label: sub_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''turkey'', ''label'': ''Turkey''}'
+      - '{''id'': 2, ''value'': ''ham'', ''label'': ''Ham''}'
+      - '{''id'': 3, ''value'': ''roast'', ''label'': ''Roast''}'
+      - '{''id'': 4, ''value'': ''veggie'', ''label'': ''Veggies''}'
+      required: false
+    - id: 11
+      name: sub_name
+      label: sub_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sub_price
+      label: sub_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True, ''label'': True}'
+      - '{''id'': 2, ''value'': False, ''label'': False}'
+      required: false
+    - id: 15
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''paid'', ''label'': ''Paid''}'
+      - '{''id'': 2, ''value'': ''unpaid'', ''label'': ''Unpaid''}'
+      - '{''id'': 3, ''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 16
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''stripe'', ''label'': ''Stripe''}'
+      - '{''id'': 2, ''value'': ''paypal'', ''label'': ''PayPal''}'
+      - '{''id'': 3, ''value'': ''apple_pay'', ''label'': ''Apple Pay''}'
+      - '{''id'': 4, ''value'': ''google_pay'', ''label'': ''Google Pay''}'
+      - '{''id'': 5, ''value'': ''square'', ''label'': ''Square''}'
+      - '{''id'': 6, ''value'': ''authorize'', ''label'': ''Authorize''}'
+      - '{''id'': 7, ''value'': ''charge'', ''label'': ''Charge''}'
+      - '{''id'': 8, ''value'': ''bank_transfer'', ''label'': ''Bank transfer''}'
+      required: false
+    - id: 17
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''open'', ''label'': ''Open''}'
+      - '{''id'': 2, ''value'': ''closed'', ''label'': ''Closed''}'
+      required: false
+    - id: 21
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: order_number
+      label: order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_referral
+      label: order_referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_sub_type
+      label: sub_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''turkey'', ''label'': ''Turkey''}'
+      - '{''id'': 2, ''value'': ''ham'', ''label'': ''Ham''}'
+      - '{''id'': 3, ''value'': ''roast'', ''label'': ''Roast''}'
+      required: false
+    - id: 25
+      name: order_sub_type_2
+      label: sub_type_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''turkey'', ''label'': ''Turkey''}'
+      - '{''id'': 2, ''value'': ''ham'', ''label'': ''Ham''}'
+      - '{''id'': 3, ''value'': ''roast'', ''label'': ''Roast''}'
+      required: false

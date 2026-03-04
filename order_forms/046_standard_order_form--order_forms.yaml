@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_number
+      label: Item number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''product1''}'
+      - '{''value'': ''product2''}'
+      - '{''value'': ''product3''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_price
+      label: Unit price
+      hint: null
+      type: number
+      options: []
+      required: false

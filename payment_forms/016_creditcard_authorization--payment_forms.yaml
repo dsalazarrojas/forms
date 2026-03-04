@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: creditcard_authorization
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - visa
+      - mastercard
+      - amex
+      - others
+      required: false
+    - id: 5
+      name: cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exp_year
+      label: Expiration Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exp_month
+      label: Expiration Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cardholder_name
+      label: Cardholder Name
+      hint: null
+      type: text
+      options: []
+      required: false

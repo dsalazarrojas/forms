@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: prepaid_one_time_payment_form
+    pages:
+    - id: 1
+      name: one_time_payment
+      label: one-time-payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: purchase_price
+      label: product-price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: purchase_amount
+      label: purchase-amount
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option-1'', ''label'': ''$20.00''}'
+      - '{''name'': ''option-2'', ''label'': ''$15.00''}'
+      - '{''name'': ''option-3'', ''label'': ''$25.00''}'
+      - '{''name'': ''option-4'', ''label'': ''$30.00''}'
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''option-1'', ''label'': ''Bank Transfer''}'
+      - '{''name'': ''option-2'', ''label'': ''Credit/Debit Card''}'
+      - '{''name'': ''option-3'', ''label'': ''PayPal''}'
+      - '{''name'': ''option-4'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: confirm_payment
+      label: confirm-payment
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option-1'', ''label'': True}'
+      - '{''name'': ''option-2'', ''label'': False}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 Fall T Shirt Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: '--- Customer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order confirmations and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: In case we need to contact you about your order
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: section_order_details
+      label: '--- T-Shirt Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: tshirt_design_name
+      label: Design Name or Reference
+      hint: 'e.g., ''Fall Fest 2020 Logo'' or ''Custom Artwork ID: A123'''
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tshirt_style_type
+      label: T-Shirt Style
+      hint: null
+      type: select_one
+      options:
+      - Unisex Crewneck Tee
+      - Women's V-Neck Tee
+      - Youth Size Tee
+      - Long Sleeve Tee
+      - Pullover Hoodie
+      - Tank Top
+      required: true
+    - id: 9
+      name: tshirt_fabric_material
+      label: Fabric Material
+      hint: null
+      type: select_one
+      options:
+      - 100% Ringspun Cotton
+      - 50/50 Cotton/Poly Blend
+      - Performance Dry-Fit
+      - Organic Cotton
+      required: true
+    - id: 10
+      name: tshirt_colors_desired
+      label: Primary T-Shirt Color(s)
+      hint: e.g., 'Black', 'Heather Grey', 'Navy Blue'. List multiple if variations
+        for same design (max 3).
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: size_quantity_breakdown
+      label: Quantity Breakdown by Size
+      hint: "e.g., S:5, M:10, L:8, XL:5, 2XL:2, 3XL:1. Minimum 5 shirts per order."
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: special_print_instructions
+      label: Special Print Instructions
+      hint: Specify exact print location (front, back, sleeve), size, color changes
+        for your design, or link to design files.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_shipping_delivery
+      label: '--- Shipping & Delivery ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping (3-7 Bus. Days)
+      - Express Shipping (1-2 Bus. Days)
+      - Local Pickup (Store Name)
+      - Event Delivery (Specify Event)
+      required: true
+    - id: 15
+      name: shipping_address_line1
+      label: Shipping Address Line 1
+      hint: Required if shipping is selected. Street address, apartment/suite, P.O.
+        Box.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_city
+      label: City
+      hint: Required for shipping.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_state_province
+      label: State/Province
+      hint: Required for shipping.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_zip_postal_code
+      label: Zip/Postal Code
+      hint: Required for shipping.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_country
+      label: Country
+      hint: Required for shipping.
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Germany
+      - France
+      - Australia
+      - Other
+      required: false
+    - id: 20
+      name: requested_delivery_date
+      label: Requested Delivery Date
+      hint: Please allow 2-3 weeks for production and shipping. Date is not guaranteed.
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: section_payment_agreement
+      label: '--- Payment & Agreement ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_preference
+      label: Preferred Payment Method
+      hint: Final payment will be arranged after order confirmation.
+      type: select_one
+      options:
+      - Credit/Debit Card (Online)
+      - PayPal
+      - Bank Transfer
+      - Invoice (Net 30, for approved accounts)
+      - Cash (for Local Pickup)
+      required: true
+    - id: 23
+      name: promotional_code
+      label: Promotional Code (if any)
+      hint: Enter any valid discount or promotion code here.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agree_terms_conditions
+      label: Agree to Terms & Conditions
+      hint: I have read and agree to the 2020 Fall T-Shirt Order Terms & Conditions
+        (available on our website).
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: additional_order_notes
+      label: Additional Comments or Questions
+      hint: Provide any other information not covered in the form.
+      type: text
+      options: []
+      required: false

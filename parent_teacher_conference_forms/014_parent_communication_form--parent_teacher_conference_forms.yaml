@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Communication Form
+    pages:
+    - id: 1
+      name: conference_topic
+      label: Conference Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: Enter parent name here
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: Enter teacher name here
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_conference
+      label: Date of Conference
+      hint: Choose a date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_conference
+      label: Time of Conference
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: teacher_conference_notes
+      label: Teacher Conference Notes
+      hint: null
+      type: select_multiple
+      options:
+      - Note 1
+      - Note 2
+      - Note 3
+      required: false
+    - id: 10
+      name: parent_conference_notes
+      label: Parent Conference Notes
+      hint: null
+      type: select_one
+      options:
+      - Note 4
+      - Note 5
+      - Note 6
+      required: false

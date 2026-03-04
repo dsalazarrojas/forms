@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Fund Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: donation amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: supporter_name
+      label: supporter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporter_email
+      label: supporter e mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: supporter_phone
+      label: supporter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Cash
+      - Credit Card
+      - Other
+      required: false
+    - id: 6
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: supporter_note
+      label: supporter note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: research_initiative
+      label: research initiative
+      hint: null
+      type: select_multiple
+      options:
+      - Initiative 1
+      - Initiative 2
+      - Initiative 3
+      - Initiative 4
+      - Initiative 5
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

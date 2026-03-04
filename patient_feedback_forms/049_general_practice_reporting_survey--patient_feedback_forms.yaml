@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: General Practice Reporting Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: feedback_time
+      label: Feedback Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: question1
+      label: What is your overall experience with this practice?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question2
+      label: How would you rate the communication skills of the practitioners?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: question3
+      label: How would you rate the knowledge of the practitioner about your health?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Outstanding''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: question4
+      label: How would you rate the overall care you received?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Outstanding''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 10
+      name: question5
+      label: What suggestions do you have to improve the practice?
+      hint: null
+      type: text
+      options: []
+      required: false

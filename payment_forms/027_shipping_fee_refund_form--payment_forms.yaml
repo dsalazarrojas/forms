@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_fee_refund_form
+    pages:
+    - id: 1
+      name: request_refund
+      label: Request Refund
+      hint: null
+      type: select_one
+      options:
+      - Refund Requested
+      - Not Refunded
+      required: false
+    - id: 2
+      name: amount
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shipping_date
+      label: shipping_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false

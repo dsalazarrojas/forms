@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A/R Cleanup Quote Request
+    pages:
+    - id: 1
+      name: section_header_company
+      label: "--- Requestor & Company ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor name
+      hint: Full name of the person requesting quote
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Best address for the quote
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: number_of_open_accounts
+      label: Number of open AR accounts
+      hint: Approximate total outstanding accounts
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: total_ar_balance
+      label: Total accounts receivable balance (USD)
+      hint: Include cents if known
+      type: decimal
+      options: []
+      required: true
+    - id: 8
+      name: average_days_past_due
+      label: Average days past due
+      hint: Round to nearest whole day
+      type: integer
+      options: []
+      required: false
+    - id: 9
+      name: priority_issues
+      label: Priority issues to address (select all)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Duplicate invoices
+        - Incorrect balances
+        - Missing remittance
+        - Unapplied payments
+        - Customer disputes
+        - Aging reconciliation
+      required: false
+    - id: 10
+      name: preferred_engagement_model
+      label: Preferred engagement model
+      hint: null
+      type: select_one
+      options:
+        - Hourly consulting
+        - Fixed-fee project
+        - Contingency-based
+        - Monthly retainer
+      required: true
+    - id: 11
+      name: expected_timeline_weeks
+      label: Expected timeline (weeks)
+      hint: Enter whole number of weeks preferred for completion
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: required_services
+      label: Required service components (select all)
+      hint: Choose the services you want included
+      type: select_multiple
+      options:
+        - Reconciliation
+        - Collections outreach
+        - Reporting & dashboards
+        - Process remediation
+        - Staff training
+      required: true
+    - id: 13
+      name: additional_details
+      label: Additional project details or constraints
+      hint: Use this field to explain nuances or special requirements
+      type: text
+      options: []
+      required: false

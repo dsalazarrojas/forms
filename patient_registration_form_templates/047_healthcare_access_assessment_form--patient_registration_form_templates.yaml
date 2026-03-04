@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Access Assessment Form
+    pages:
+    - id: 1
+      name: page1
+      label: Patient Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_services
+      label: Medical Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: access_barriers
+      label: Access Barriers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

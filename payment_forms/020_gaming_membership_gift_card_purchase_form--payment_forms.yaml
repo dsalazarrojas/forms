@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_membership_gift_card_purchase_form
+    pages:
+    - id: 1
+      name: gift_card_name
+      label: Gift Card Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_card_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Monthly Membership
+      - One-Time Membership
+      required: false
+    - id: 3
+      name: membership_plan_id
+      label: Membership Plan ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gift_card_message
+      label: Gift Card Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      required: false
+    - id: 10
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: exp_month
+      label: Exp Month
+      hint: null
+      type: select_one
+      options:
+      - '01'
+      - '02'
+      - '03'
+      - '04'
+      - '05'
+      - '06'
+      - '07'
+      - 08
+      - 09
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 12
+      name: exp_year
+      label: Exp Year
+      hint: null
+      type: select_one
+      options:
+      - '2022'
+      - '2023'
+      - '2024'
+      - '2025'
+      - '2026'
+      - '2027'
+      - '2028'
+      - '2029'
+      - '2030'
+      - '2031'
+      - '2032'
+      required: false
+    - id: 13
+      name: ccv
+      label: CCV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: Please agree with the terms
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 16
+      name: delivery_details
+      label: Delivery Details
+      hint: Enter delivery details
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: gift_card_status
+      label: Gift Card Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - expired
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - paid
+      - failed
+      required: false
+    - id: 19
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false

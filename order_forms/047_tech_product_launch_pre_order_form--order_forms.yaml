@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_product_launch_pre_order_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Card Number'', ''value'': ''card_number''}'
+      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      required: false
+    - id: 4
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Shipping via Courier'', ''value'': ''shipping_via_courier''}'
+      - '{''label'': ''Shipping via Carrier'', ''value'': ''shipping_via_carrier''}'
+      - '{''label'': ''Shipping via Pickup'', ''value'': ''shipping_via_pickup''}'
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_phone
+      label: Shipping Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_email
+      label: Shipping Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_info
+      label: Product Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

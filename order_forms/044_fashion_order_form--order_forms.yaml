@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: products
+      label: select_products
+      hint: null
+      type: select_multiple
+      options:
+      - Product A
+      - Product B
+      required: false
+    - id: 3
+      name: comments
+      label: add_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping
+      label: shipping_address
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 5
+      name: total
+      label: total_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool_label
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 9
+      name: first_name
+      label: first_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: last_name
+      label: last_name_label
+      hint: null
+      type: text
+      options: []
+      required: false

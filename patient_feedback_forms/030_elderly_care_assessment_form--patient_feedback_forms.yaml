@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elderly Care Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_id
+      label: Medical ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: select_one
+      options:
+      - Blood Pressure
+      - Oxygen Saturation
+      - Pulse Rate
+      - Respiratory Rate
+      - Body Temperature
+      required: false
+    - id: 8
+      name: cognitive_function
+      label: Cognitive Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_history
+      label: Social History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications
+      label: Medications
+      hint: List medications
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history_other
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 14
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medications_side_effects
+      label: Medications Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: social_support
+      label: Social Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: caregiver_information
+      label: Caregiver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: caregiver_relationship
+      label: Relationship to Caregiver
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Son
+      - Daughter
+      - Brother
+      - Sister
+      - Spouse
+      - Friend
+      - Other
+      required: false
+    - id: 21
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false

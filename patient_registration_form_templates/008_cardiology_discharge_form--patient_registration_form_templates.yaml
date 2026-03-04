@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology Discharge Form
+    pages:
+    - id: 1
+      name: discharge_patient_header
+      label: -- Patient Discharge Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: discharge_date_time
+      label: Discharge Date
+      hint: Select the date the patient is leaving the facility
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: cardiac_diagnosis_primary
+      label: Primary Cardiac Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: discharge_medications_section
+      label: -- Discharge Medications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: meds_prescribed_dosage
+      label: Prescribed Medications and Dosages
+      hint: Include frequency and reason for each
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medication_adherence_note
+      label: Important Medication Instructions
+      hint: Side effects, warnings, and when to call the doctor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physical_activity_restrictions_header
+      label: -- Physical Activity & Lifestyle --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: activity_restrictions_list
+      label: Physical Activity Restrictions
+      hint: What the patient SHOULD NOT do
+      type: select_multiple
+      options:
+      - label: No Heavy Lifting (>10 lbs)
+        value: heavy_lifting
+      - label: No Driving
+        value: driving
+      - label: strenuous_exercise
+      - label: Limited Stairs
+        value: limited_stairs
+      required: true
+    - id: 10
+      name: dietary_instructions_cardiac
+      label: Heart-Healthy Diet Instructions
+      hint: Specific diet rules (e.g., Low Sodium)
+      type: select_one
+      options:
+      - label: Standard Cardiac Diet
+        value: cardiac_diet
+      - label: Low Sodium (<2000mg)
+        value: low_sodium
+      - label: Fluid Restricted
+        value: fluid_restricted
+      - label: Diabetic Friendly
+        value: diabetic
+      required: true
+    - id: 11
+      name: follow_up_appointment_header
+      label: -- Follow-up Care --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: Follow-up Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: emergency_symptoms_warning
+      label: Warning Signs - Seek Immediate Help
+      hint: When to call 911 or go to ER
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_number
+      label: Physician or Clinic Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physician_initials_confirm
+      label: Physician Initials to confirm discharge
+      hint: null
+      type: text
+      options: []
+      required: true

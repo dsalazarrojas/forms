@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: refund_request_information_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: order id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_refund
+      label: reason for refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_purchase
+      label: date of purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount_requested
+      label: amount requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: refund_method
+      label: refund method
+      hint: null
+      type: select_one
+      options:
+      - bank transfer
+      - check
+      - store credit
+      required: false
+    - id: 7
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - text message
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: supporting documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_information
+      label: additional information
+      hint: null
+      type: text
+      options: []
+      required: false

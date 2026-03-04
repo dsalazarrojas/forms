@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grocery Delivery Form
+    pages:
+    - id: 1
+      name: user_input_form
+      label: User Input Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_one_product
+      label: Select One Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 3
+      name: select_multiple_products
+      label: Select Multiple Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 4
+      name: date_delivery
+      label: Date of Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_delivery
+      label: Time of Delivery
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note_to_driver
+      label: Note to Driver
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_input
+      label: Email Input
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Credit Card''}'
+      - '{''id'': 3, ''name'': ''PayPal''}'
+      - '{''id'': 4, ''name'': ''Stripe''}'
+      required: false
+    - id: 10
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card Number''}'
+      - '{''id'': 2, ''name'': ''Expiration Date''}'
+      - '{''id'': 3, ''name'': ''CVV''}'
+      - '{''id'': 4, ''name'': ''Card Type''}'
+      - '{''id'': 5, ''name'': ''Bank Name''}'
+      - '{''id'': 6, ''name'': ''Routing Number''}'
+      required: false
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''Refunded''}'
+      required: false

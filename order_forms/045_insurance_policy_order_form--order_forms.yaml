@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_policy_order_form
+    pages:
+    - id: 1
+      name: client_data
+      label: Client Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: policy_coverage
+      label: Policy Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: policy_details
+      label: Policy Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: agent_signature
+      label: Agent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: policy_term
+      label: Policy Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: policy_years_in_force
+      label: Policy Years in Force
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agent_email
+      label: Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

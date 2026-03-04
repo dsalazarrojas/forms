@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Payment Form
+    pages:
+    - id: 1
+      name: payer_full_name
+      label: Payer Full Name
+      hint: Name of person making payment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payer_email
+      label: Email Address
+      hint: For payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: payer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: If paying on behalf of a business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: band_name
+      label: Band Name
+      hint: Which band is this payment for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_type
+      label: Payment Type
+      hint: What is this payment for
+      type: select_one
+      options:
+      - Performance Fee
+      - Deposit
+      - Merchandise Purchase
+      - Recording Session
+      - Lesson or Workshop
+      - Equipment Rental
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of performance or service
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: Venue name and address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: Total amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: currency
+      label: Currency
+      hint: Payment currency
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - AUD - Australian Dollar
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Venmo
+      - Bank Transfer
+      - Check
+      - Cash
+      required: true
+    - id: 12
+      name: card_type
+      label: Card Type
+      hint: Type of credit or debit card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 13
+      name: installment_plan
+      label: Installment Plan
+      hint: Do you want to pay in installments
+      type: select_one
+      options:
+      - Full Payment
+      - 50% Deposit, 50% Balance
+      - Monthly Payments
+      - Custom Arrangement
+      required: true
+    - id: 14
+      name: deposit_amount
+      label: Deposit Amount
+      hint: If paying a deposit
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: balance_due_date
+      label: Balance Due Date
+      hint: When is remaining balance due
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference invoice number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: promo_discount_code
+      label: Promo or Discount Code
+      hint: Apply a discount code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tip_gratuity
+      label: Tip or Gratuity
+      hint: Optional tip amount
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with payment method
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Payment notes or requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: receipt_preference
+      label: Receipt Preference
+      hint: How would you like to receive receipt
+      type: select_one
+      options:
+      - Email Receipt
+      - Printed Receipt at Event
+      - Both
+      - No Receipt Needed
+      required: true
+    - id: 22
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Do you agree to the payment terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 23
+      name: refund_policy_acknowledgment
+      label: Refund Policy Acknowledgment
+      hint: Have you read the refund policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - I have questions
+      required: true
+    - id: 24
+      name: payment_notes
+      label: Additional Payment Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

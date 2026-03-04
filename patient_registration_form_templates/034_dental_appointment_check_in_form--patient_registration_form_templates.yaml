@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Appointment Check In Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: appointment_date
+      label: appointment-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: appointment_start_time
+      label: start-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: appointment_doctor
+      label: doctor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm_appointment
+      label: confirm-appointment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Confirm'', ''value'': True}'
+      - Other
+      required: true

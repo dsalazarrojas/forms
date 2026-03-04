@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult New Patient Enrollment Form
+    pages:
+    - id: 1
+      name: section_demo
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_phone_number
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_email
+      label: Patient Email
+      hint: For appointment reminders and portal access
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: section_ins
+      label: -- Insurance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_insurance_carrier
+      label: Primary Insurance Carrier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: policy_member_id
+      label: Policy Member ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: group_number
+      label: Group Number
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: relationship_to_patient
+      label: Relationship to Patient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_screening
+      label: -- Initial Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_health_conditions
+      label: Current Health Conditions
+      hint: Select all that apply to your history
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Asthma
+      - Heart Disease
+      - Allergies
+      - None
+      required: false
+    - id: 18
+      name: current_medications_list
+      label: Current Medications List
+      hint: Include dosage if known
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: primary_reason_for_visit
+      label: Primary Reason for Visit
+      hint: null
+      type: select_one
+      options:
+      - General Check-up
+      - Acute Illness
+      - Chronic Condition Management
+      - Referral
+      required: true

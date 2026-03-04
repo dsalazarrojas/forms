@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eye Exam Form Template
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Ophthalmology
+      - Cardiology
+      - Dermatology
+      - Dentistry
+      - Endocrinology
+      - Gastroenterology
+      - Nephrology
+      - Neurology
+      - Pulmonology
+      - Urology
+      required: true
+    - id: 6
+      name: referring_doctor
+      label: Referring Doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: select_one
+      options:
+      - New Patient
+      - Follow-up
+      - Emergency
+      - Consultation
+      - Referral
+      - Transfer
+      required: true
+    - id: 8
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: patient_glaucoma
+      label: Glaucoma
+      hint: null
+      type: select_multiple
+      options:
+      - Glaucoma
+      - Cataracts
+      - Diabetes
+      - Hypertension
+      - Macular Degeneration
+      - Myopia
+      - Astigmat
+      required: true
+    - id: 10
+      name: ophthalmologist
+      label: Ophthalmologist
+      hint: null
+      type: select_multiple
+      options:
+      - Glaucoma
+      - Cataracts
+      - Diabetes
+      - Hypertension
+      - Macular Degeneration
+      - Myopia
+      - Astigmat
+      required: true
+    - id: 11
+      name: referral
+      label: Referral
+      hint: null
+      type: select_multiple
+      options:
+      - Referral
+      - Other
+      required: true
+    - id: 12
+      name: diabetes
+      label: Diabetes
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Other
+      required: true
+    - id: 13
+      name: glaucoma
+      label: Glaucoma
+      hint: null
+      type: select_multiple
+      options:
+      - Glaucoma
+      - Other
+      required: true
+    - id: 14
+      name: cataract
+      label: Cataract
+      hint: null
+      type: select_multiple
+      options:
+      - Cataract
+      - Other
+      required: true
+    - id: 15
+      name: hypertension
+      label: Hypertension
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Other
+      required: true
+    - id: 16
+      name: macular_degeneration
+      label: Macular Degeneration
+      hint: null
+      type: select_multiple
+      options:
+      - Macular Degeneration
+      - Other
+      required: true
+    - id: 17
+      name: myopia
+      label: Myopia
+      hint: null
+      type: select_multiple
+      options:
+      - Myopia
+      - Other
+      required: true
+    - id: 18
+      name: astigmat
+      label: Astigmat
+      hint: null
+      type: select_multiple
+      options:
+      - Astigmat
+      - Other
+      required: true
+    - id: 19
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: select_multiple
+      options:
+      - New Patient
+      - Follow-up
+      - Emergency
+      - Consultation
+      - Referral
+      - Transfer
+      required: true
+    - id: 22
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: patient_status_notes
+      label: Patient Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Gift Order Form
+    pages:
+    - id: 1
+      name: gift_selections
+      label: Gift Selections
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_details
+      label: Recipient Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_one
+      options:
+      - Corporate
+      - Individual
+      required: false
+    - id: 4
+      name: gift_card_details
+      label: Gift Card Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Ground
+      - Air
+      - Express
+      required: true
+    - id: 6
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false

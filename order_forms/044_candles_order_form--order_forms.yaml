@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candles Order Form
+    pages:
+    - id: 1
+      name: customer_info_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_customer_name
+      label: Customer Full Name
+      hint: As per your official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_customer_email
+      label: Email Address
+      hint: To send your order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: order_customer_phone
+      label: Phone Number
+      hint: In case we need to contact you about delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_delivery_address
+      label: Delivery Address
+      hint: Full street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_details_section
+      label: -- Order Details --
+      hint: What candles would you like to buy
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: candle_scent_choice
+      label: Select Candle Scent
+      hint: Choose your favorite aroma
+      type: select_one
+      options:
+      - Lavender
+      - Vanilla
+      - Cinnamon
+      - Pine
+      - Rose
+      - Unscented
+      required: true
+    - id: 8
+      name: candle_size_choice
+      label: Select Candle Size
+      hint: Choose the dimensions of the candle
+      type: select_one
+      options:
+      - Small ($5)
+      - Medium ($10)
+      - Large ($18)
+      - 3-Wick ($25)
+      required: true
+    - id: 9
+      name: order_quantity_candle
+      label: Quantity
+      hint: How many candles in this scent and size
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: candle_wick_type
+      label: Preferred Wick Type
+      hint: Choose the core of your candle
+      type: select_one
+      options:
+      - Cotton
+      - Wood Wick
+      - Braided Paper
+      required: true
+    - id: 11
+      name: gift_options_section
+      label: -- Gift Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: is_gift_check
+      label: Is this a gift
+      hint: Choose whether you would like to include a gift message
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: gift_wrap_interest
+      label: Gift Wrap Needed
+      hint: Would you like the order wrapped
+      type: select_one
+      options:
+      - Yes (+$2)
+      - false
+      required: true
+    - id: 14
+      name: gift_message_text
+      label: Gift Message
+      hint: Add a personalized note
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_payment_section
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_delivery_date_val
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: delivery_method_choice
+      label: Delivery Method
+      hint: Choose the speed of shipment
+      type: select_one
+      options:
+      - Standard (3-5 days)
+      - Express (1-2 days)
+      - Store Pickup
+      required: true
+    - id: 18
+      name: order_payment_method_choice
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash on Delivery
+      required: true
+    - id: 19
+      name: delivery_instructions_field
+      label: Special Instructions for Delivery
+      hint: Any gates or drop-off points we should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sales_terms_agreement
+      label: I agree to the terms of sale
+      hint: Final confirmation of order
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: final_order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

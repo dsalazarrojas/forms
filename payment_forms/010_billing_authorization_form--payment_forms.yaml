@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billing Authorization Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: Email for billing notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for billing issues
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_address
+      label: Billing Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_city
+      label: City
+      hint: City for billing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: account_information
+      label: Account Information
+      hint: Enter account details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: account_number
+      label: Account Number
+      hint: Customer account or reference number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: service_type
+      label: Service Type
+      hint: Type of service being authorized
+      type: select_one
+      options:
+      - Utilities
+      - Internet Services
+      - Phone Services
+      - Subscription Service
+      - Medical Services
+      - Legal Services
+      - Consulting Services
+      - Other
+      required: true
+    - id: 13
+      name: service_description
+      label: Service Description
+      hint: Brief description of services
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorization_details
+      label: Authorization Details
+      hint: Specify payment authorization
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: authorization_type
+      label: Authorization Type
+      hint: Type of payment authorization
+      type: select_one
+      options:
+      - One-Time Payment
+      - Recurring Monthly
+      - Recurring Weekly
+      - Recurring Bi-Weekly
+      - Until Cancelled
+      required: true
+    - id: 16
+      name: authorized_amount
+      label: Authorized Amount
+      hint: Dollar amount being authorized
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: is_variable_amount
+      label: Variable Amount
+      hint: Will the amount vary each billing cycle
+      type: select_one
+      options:
+      - Fixed Amount
+      - Variable Amount Based on Usage
+      - Variable Amount Per Invoice
+      required: true
+    - id: 18
+      name: maximum_amount
+      label: Maximum Authorized Amount
+      hint: Maximum amount per transaction if variable
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: start_date
+      label: Authorization Start Date
+      hint: When should billing begin
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: end_date
+      label: Authorization End Date
+      hint: When should billing stop if applicable
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: Select payment type for authorization
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Account ACH
+      - Checking Account
+      - Savings Account
+      required: true
+    - id: 22
+      name: card_type
+      label: Card Type
+      hint: Type of credit or debit card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 23
+      name: card_last_four
+      label: Last Four Digits
+      hint: Last four digits of card or account
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: card_expiration
+      label: Expiration Date
+      hint: Card expiration date
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: bank_name
+      label: Bank Name
+      hint: Name of financial institution
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: routing_number
+      label: Routing Number
+      hint: Bank routing number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Read and accept billing terms
+      type: select_one
+      options:
+      - I accept all terms and conditions of this authorization
+      - I understand I can cancel with written notice
+      required: true
+    - id: 28
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Understand cancellation requirements
+      type: select_one
+      options:
+      - I understand 30-day notice is required for cancellation
+      - I agree to the cancellation policy
+      required: true
+    - id: 29
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Sign to authorize billing
+      type: select_one
+      options:
+      - I authorize the charges described above
+      - I certify I am authorized to provide this payment authorization
+      required: true
+    - id: 30
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: DIY Kit Order Form
+    pages:
+    - id: 1
+      name: form_title
+      label: DIY Kit Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Kit'', ''label'': ''Kits''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe your kit
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_first_name
+      label: Customer First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_last_name
+      label: Customer Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''California'', ''label'': ''CA''}'
+      - '{''value'': ''New York'', ''label'': ''NY''}'
+      - '{''value'': ''Illinois'', ''label'': ''IL''}'
+      required: false
+    - id: 11
+      name: customer_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Credit Card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
+      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 15
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false

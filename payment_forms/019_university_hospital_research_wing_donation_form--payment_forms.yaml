@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Hospital Research Wing Donation Form
+    pages:
+    - id: 1
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_details
+      label: Donor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_details
+      label: Donation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Credit/Debit Card''}'
+      - '{''id'': 12, ''label'': ''Bank Transfer''}'
+      - '{''id'': 13, ''label'': ''Cheque''}'
+      required: true
+    - id: 6
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: donor_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_donation
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_donation
+      label: Time of Donation
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Purchase Payment Form
+    pages:
+    - id: 1
+      name: hardware_purchase_payment_form_1
+      label: Hardware details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hardware_purchase_payment_form_2
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '[''Visa'', ''Mastercard'']'
+      - '[''Amex'', ''Discover'']'
+      required: false
+    - id: 3
+      name: hardware_purchase_payment_form_3
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: hardware_purchase_payment_form_4
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: hardware_purchase_payment_form_5
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false

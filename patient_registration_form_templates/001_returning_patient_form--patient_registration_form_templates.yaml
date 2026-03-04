@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Returning Patient Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dob
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_insurance
+      label: medical insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: medical_insurance_provider
+      label: medical insurance provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_insurance_id
+      label: medical insurance id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_info
+      label: emergency contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_history_provider
+      label: medical history provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication_history
+      label: medication history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_history_date
+      label: medical history date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_notes
+      label: medical notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_doctor
+      label: medical history doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medication_dosage
+      label: medication dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_side_effects
+      label: medication side effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history_diagnosis
+      label: medical history diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_status
+      label: patient status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Suspended''}'
+      required: false
+    - id: 25
+      name: medical_history_surgery
+      label: medical history surgery
+      hint: null
+      type: text
+      options: []
+      required: false

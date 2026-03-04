@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: UBAM Checkout Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      required: true
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Processing
+      - Shipped
+      - Cancelled
+      required: true
+    - id: 12
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
+    - id: 15
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_date_time
+      label: Order Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: order_total_details
+      label: Order Total Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_address_2
+      label: Customer Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_phone_number_2
+      label: Phone Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_status_details
+      label: Order Status Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_name_2
+      label: Customer Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_date_2
+      label: Order Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: order_time_2
+      label: Order Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: customer_email_2
+      label: Customer Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to_2
+      label: Assigned To 2
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 26
+      name: customer_id_2
+      label: Customer ID 2
+      hint: null
+      type: text
+      options: []
+      required: false

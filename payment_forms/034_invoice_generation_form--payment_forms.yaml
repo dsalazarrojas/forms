@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Generation Form
+    pages:
+    - id: 1
+      name: billing_address
+      label: billing address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: total
+      label: total
+      hint: Enter total amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax_rate
+      label: tax_rate
+      hint: Enter tax rate (in percent)
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_amount
+      label: tax_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Credit Card
+      required: false
+    - id: 9
+      name: payment_date
+      label: payment_date
+      hint: Date of payment
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_time
+      label: payment_time
+      hint: Time of payment
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: invoice_note
+      label: invoice_note
+      hint: Add a note to the invoice
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: invoice_number
+      label: invoice_number
+      hint: Invoice number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_company
+      label: billing_company
+      hint: Billing company
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_tax_id
+      label: company_tax_id
+      hint: Company tax ID
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_address
+      label: company_address
+      hint: Company Address
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breakfast Delivery Time Selection
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for delivery
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: When do you need delivery
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time_slot
+      label: Delivery Time Slot
+      hint: Select your preferred time
+      type: select_one
+      options:
+      - Early Morning 6 AM to 7 AM
+      - Morning 7 AM to 8 AM
+      - Mid-Morning 8 AM to 9 AM
+      - Late Morning 9 AM to 10 AM
+      - Brunch 10 AM to 11 AM
+      required: true
+    - id: 6
+      name: delivery_address_line1
+      label: Delivery Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_address_line2
+      label: Delivery Address Line 2
+      hint: Apartment, suite, unit
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_zip
+      label: ZIP Code
+      hint: ZIP or Postal Code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_type
+      label: Order Type
+      hint: Is this regular or one-time
+      type: select_one
+      options:
+      - One-Time Delivery
+      - Weekly Subscription
+      - Bi-Weekly Subscription
+      - Monthly Subscription
+      required: true
+    - id: 12
+      name: number_of_people
+      label: Number of People
+      hint: How many people will be eating
+      type: select_one
+      options:
+      - 1 Person
+      - 2 People
+      - 3-4 People
+      - 5-8 People
+      - 9+ People
+      required: true
+    - id: 13
+      name: breakfast_package
+      label: Breakfast Package
+      hint: Select your package
+      type: select_one
+      options:
+      - Continental Package
+      - Hot Breakfast Package
+      - Healthy Package
+      - Family Package
+      - Custom Package
+      required: true
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any allergies or restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Kosher
+      - Halal
+      required: true
+    - id: 15
+      name: beverage_preference
+      label: Beverage Preference
+      hint: What beverages do you want
+      type: select_multiple
+      options:
+      - Coffee
+      - Tea
+      - Orange Juice
+      - Apple Juice
+      - Milk
+      - Water
+      - None
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Cash on Delivery
+      - Invoice
+      required: true
+    - id: 18
+      name: contactless_delivery
+      label: Contactless Delivery
+      hint: Do you want contactless delivery
+      type: select_one
+      options:
+      - Yes, Contactless
+      - No, Hand Delivery
+      required: true

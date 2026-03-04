@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Department Support Donation Form
+    pages:
+    - id: 1
+      name: donator_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donator_email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donator_phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donator_address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donator_city
+      label: City
+      hint: Enter your city
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donator_state
+      label: State
+      hint: Enter your state
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donator_zip
+      label: Zip
+      hint: Enter your zip code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donator_amount
+      label: Donation Amount
+      hint: Enter the amount of your donation
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donator_payment_type
+      label: Payment Type
+      hint: Select a payment type
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 10
+      name: donator_payment_cc_card_type
+      label: Card Type
+      hint: Select a credit card type
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      required: false
+    - id: 11
+      name: donator_payment_cc_exp
+      label: Card Expiration Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: donator_payment_cc_cvc
+      label: Card Security Code
+      hint: Enter your CVC
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breakfast Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: Pickup or delivery
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: When do you need your order
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: Preferred pickup or delivery time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: main_item
+      label: Main Item
+      hint: Choose your main breakfast item
+      type: select_one
+      options:
+      - Pancake Stack
+      - Waffle
+      - French Toast
+      - Omelette
+      - Scrambled Eggs
+      - Breakfast Sandwich
+      - Breakfast Burrito
+      - Bagel with Cream Cheese
+      - Avocado Toast
+      - Acai Bowl
+      required: true
+    - id: 8
+      name: protein_addition
+      label: Protein Addition
+      hint: Add protein to your order
+      type: select_one
+      options:
+      - None
+      - Bacon
+      - Sausage
+      - Ham
+      - Smoked Salmon
+      - Turkey Bacon
+      - Tofu Scramble
+      required: true
+    - id: 9
+      name: sides
+      label: Sides
+      hint: Choose your sides
+      type: select_multiple
+      options:
+      - Hash Browns
+      - Home Fries
+      - Fresh Fruit Cup
+      - Yogurt
+      - Oatmeal
+      - Cottage Cheese
+      - Apple Slices
+      - None
+      required: true
+    - id: 10
+      name: beverages
+      label: Beverages
+      hint: Choose your drinks
+      type: select_multiple
+      options:
+      - Coffee
+      - Tea
+      - Orange Juice
+      - Apple Juice
+      - Cranberry Juice
+      - Milk
+      - Almond Milk
+      - Soy Milk
+      - Water
+      required: true
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: How many of this order
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: Any dietary needs
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Low-Carb
+      - Keto
+      - Paleo
+      required: true
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special cooking instructions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address if delivery
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_notes
+      label: Delivery Notes
+      hint: Any delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Apple Pay
+      - Google Pay
+      - PayPal
+      required: true
+    - id: 17
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you accept our terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

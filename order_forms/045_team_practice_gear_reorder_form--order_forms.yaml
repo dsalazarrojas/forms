@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_practice_gear_reorder_form
+    pages:
+    - id: 1
+      name: team_practice_gear_reorder_form_1
+      label: team_practice_gear_reorder_form_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: practice_equipment_needs
+      label: practice_equipment_needs
+      hint: null
+      type: select_one
+      options:
+      - '{1: 1}'
+      - '{2: 2}'
+      required: false
+    - id: 3
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: player_phone
+      label: player_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_preference
+      label: delivery_preference
+      hint: null
+      type: select_one
+      options:
+      - '{''Home'': 1}'
+      - '{''School'': 2}'
+      - '{''Practice'': 3}'
+      required: false
+    - id: 6
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reorder_item
+      label: reorder_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reorder_item_id
+      label: reorder_item_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false

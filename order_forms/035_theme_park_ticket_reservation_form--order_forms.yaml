@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theme Park Ticket Reservation Form
+    pages:
+    - id: 1
+      name: theme_park_tickets
+      label: Theme Park Tickets
+      hint: null
+      type: select_multiple
+      options:
+      - Single Day
+      - Multi Day
+      - Season
+      - Membership
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_submit
+      label: Confirm Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_cancel
+      label: Confirm Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: theme_park_tour
+      label: Theme Park Tour
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: theme_park_visit_time
+      label: Theme Park Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false

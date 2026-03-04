@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: MRI Procedure Feedback Form
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: radiologist_name
+      label: Radiologist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technologist_name
+      label: Technologist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Very Poor''}'
+      - '{''label'': ''Not Satisfactory''}'
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: radiologist_signature
+      label: Radiologist Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Authentication Payment Form
+    pages:
+    - id: 1
+      name: document_authentication_payment_form_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type_form_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: document_number_form_number
+      label: Document Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: document_date_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: document_payment_form_payment
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: error_message
+      label: Error Message
+      hint: null
+      type: note
+      options: []
+      required: false

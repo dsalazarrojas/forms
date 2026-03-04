@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: diamond_jewelry_order_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_description
+      label: order-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_total
+      label: order-total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: order_status
+      label: order-status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''shipped''}'
+      - '{''id'': 3, ''name'': ''delivered''}'
+      - '{''id'': 4, ''name'': ''cancelled''}'
+      required: false

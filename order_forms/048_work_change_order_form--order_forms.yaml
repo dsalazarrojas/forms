@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Change Order Form
+    pages:
+    - id: 1
+      name: work_change_order_form_1
+      label: client_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_change_order_form_2
+      label: contractor_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_change_order_form_3
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: work_change_order_form_4
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_change_order_form_5
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: work_change_order_form_6
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 7
+      name: work_change_order_form_7
+      label: tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_change_order_form_8
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Bank
+      required: true
+    - id: 9
+      name: work_change_order_form_9
+      label: order_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 1-100
+      - 101-250
+      - 251-500
+      required: true
+    - id: 10
+      name: work_change_order_form_10
+      label: work_order_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: work_change_order_form_11
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_change_order_form_12
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: work_change_order_form_13
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: work_change_order_form_14
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: work_change_order_form_15
+      label: payment_time
+      hint: null
+      type: time
+      options: []
+      required: false

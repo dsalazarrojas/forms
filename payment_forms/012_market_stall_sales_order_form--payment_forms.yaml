@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Stall Sales Order Form
+    pages:
+    - id: 1
+      name: payment_form
+      label: Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_form
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_form
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_form
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_form
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_form
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_total
+      label: Payment Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: order_subtotal
+      label: Order Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: tax_total
+      label: Tax Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method_form
+      label: Payment Methods
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: item_form
+      label: Item List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

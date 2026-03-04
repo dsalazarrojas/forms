@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Service Subscription Form
+    pages:
+    - id: 1
+      name: section_header_account
+      label: -- Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Your company name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For subscription confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_delivery
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_subscription
+      label: -- Subscription Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: subscription_frequency
+      label: Subscription Frequency
+      hint: How often do you want deliveries?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Custom schedule
+      required: true
+    - id: 15
+      name: delivery_day
+      label: Preferred Delivery Day
+      hint: Which day of the week?
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 16
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Flexible
+      required: true
+    - id: 17
+      name: section_header_beverages
+      label: -- Beverage Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: beverage_categories
+      label: Beverage Categories (Select all that apply)
+      hint: What types of beverages?
+      type: select_multiple
+      options:
+      - Soft drinks
+      - Water
+      - Juices
+      - Sports drinks
+      - Energy drinks
+      - Coffee beverages
+      - Tea beverages
+      - Flavored water
+      - Other
+      required: true
+    - id: 19
+      name: estimated_quantity
+      label: Estimated Monthly Consumption
+      hint: Approximate number of units per month
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: specific_brands
+      label: Specific Brands or Products Preferred
+      hint: Any brand preferences?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions or Preferences
+      hint: Sugar-free, organic, etc.
+      type: select_multiple
+      options:
+      - Low sugar
+      - No sugar
+      - Organic
+      - Natural ingredients
+      - Non-GMO
+      - Vegan
+      - None
+      required: false
+    - id: 22
+      name: section_header_customization
+      label: -- Custom Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: custom_mix
+      label: Do You Want a Custom Product Mix
+      hint: null
+      type: select_one
+      options:
+      - Yes, create custom selection
+      - Yes, use suggested mix
+      - No, use standard package
+      required: true
+    - id: 24
+      name: min_delivery_quantity
+      label: Minimum Delivery Quantity
+      hint: Smallest order you want delivered
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Check
+      - Invoice/Net terms
+      required: true
+    - id: 27
+      name: billing_address_same
+      label: Billing Address Same as Delivery Address
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: billing_address
+      label: Billing Address (if different)
+      hint: Leave blank if same as delivery
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: auto_renewal
+      label: Auto-Renewal Preference
+      hint: null
+      type: select_one
+      options:
+      - Yes, auto-renew monthly
+      - Yes, ask me before each renewal
+      - No, one-time order only
+      required: true
+    - id: 30
+      name: promo_code
+      label: Promotional or Discount Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_acceptance
+      label: I Accept the Subscription Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 32
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false

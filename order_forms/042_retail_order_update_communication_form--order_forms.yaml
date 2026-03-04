@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_order_update_communication_form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''pending''}'
+      - '{''id'': 2, ''label'': ''fulfilled''}'
+      - '{''id'': 3, ''label'': ''cancelled''}'
+      required: false
+    - id: 4
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''standard''}'
+      - '{''id'': 2, ''label'': ''priority''}'
+      - '{''id'': 3, ''label'': ''express''}'
+      required: false
+    - id: 5
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_contact
+      label: Customer Service Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_email
+      label: Customer Service Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: retailer_note
+      label: Retailer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_carrier
+      label: Shipping Carrier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_status_date
+      label: Order Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: shipping_status
+      label: Shipping Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''standard''}'
+      - '{''id'': 2, ''label'': ''priority''}'
+      - '{''id'': 3, ''label'': ''express''}'
+      required: false
+    - id: 14
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: shipping_cost_currency
+      label: Shipping Cost Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: estimated_delivery_date
+      label: Estimated Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Packaging Requisition Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: For order coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Which department is this for
+      type: select_one
+      options:
+      - Production
+      - Operations
+      - Marketing
+      - Sales
+      - Warehouse
+      - Quality Control
+      - Other
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your company or facility
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for packaging delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: ZIP Code
+      hint: Postal code for delivery
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: packaging_type
+      label: Packaging Type Needed
+      hint: What type of packaging do you need
+      type: select_one
+      options:
+      - Bottles
+      - Cans
+      - Cartons
+      - Pouches
+      - Boxes
+      - Labels
+      - Caps and Closures
+      - Shrink Wrap
+      - Shipping Cases
+      - Other
+      required: true
+    - id: 11
+      name: beverage_type
+      label: Beverage Type
+      hint: What beverage will this packaging contain
+      type: select_one
+      options:
+      - Carbonated Soft Drinks
+      - Energy Drinks
+      - Juice
+      - Tea
+      - Coffee
+      - Water
+      - Alcoholic Beverages
+      - Sports Drinks
+      - Dairy Beverages
+      - Other
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity Needed
+      hint: How many units do you need
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: specifications
+      label: Packaging Specifications
+      hint: Describe size, material, color, and other specs
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: required_date
+      label: Required Delivery Date
+      hint: When do you need the packaging
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this requisition
+      type: select_one
+      options:
+      - Emergency - Immediate Need
+      - High Priority - Within 1 Week
+      - Medium Priority - Within 2 Weeks
+      - Low Priority - Within 1 Month
+      required: true
+    - id: 16
+      name: budget_code
+      label: Budget Code
+      hint: Internal budget or account code
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approval_required
+      label: Is Approval Required
+      hint: Does this order need manager approval
+      type: select_one
+      options:
+      - Yes, Approval Needed
+      - No, Pre-Approved
+      - Pending Approval
+      required: true
+    - id: 18
+      name: approver_name
+      label: Approver Name
+      hint: Name of approving manager if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements for this order
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about this requisition
+      type: text
+      options: []
+      required: false

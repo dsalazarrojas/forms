@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Supply Order Form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: Medical Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Bandages'', ''value'': 1}'
+      - '{''label'': ''Gauze'', ''value'': 2}'
+      - '{''label'': ''Gloves'', ''value'': 3}'
+      required: false
+    - id: 2
+      name: form_section_2
+      label: Medical Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_section_3
+      label: Patient Name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Doe'', ''value'': 1}'
+      - '{''label'': ''Jane Doe'', ''value'': 2}'
+      required: false
+    - id: 4
+      name: form_section_4
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_section_5
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_section_6
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_section_7
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_section_8
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

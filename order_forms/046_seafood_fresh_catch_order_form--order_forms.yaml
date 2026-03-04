@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seafood Fresh Catch Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_catch
+      label: date-of-catch
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: catch_type
+      label: catch-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_terms
+      label: payment-terms
+      hint: This is a sample payment terms description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: order_details
+      label: order-details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: order-total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: order_notes
+      label: order-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: text
+      options: []
+      required: false

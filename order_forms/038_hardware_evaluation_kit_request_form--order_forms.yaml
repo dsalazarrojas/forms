@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hardware Evaluation Kit Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_kit_selection
+      label: Evaluation Kit Selection
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: post_code
+      label: Postal/Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - In Stock
+      - On Order
+      - On Production
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      required: false
+    - id: 19
+      name: evaluation_kit_status
+      label: Evaluation Kit Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 20
+      name: evaluation_kit_notes
+      label: Evaluation Kit Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: evaluation_kit_requester
+      label: Evaluation Kit Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: evaluation_kit_approver
+      label: Evaluation Kit Approver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: evaluation_kit_reviewer
+      label: Evaluation Kit Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: evaluation_kit_shipper
+      label: Evaluation Kit Shipper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: evaluation_kit_return_address
+      label: Evaluation Kit Return Address
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Fee Assessment
+    pages:
+    - id: 1
+      name: estimate_delivery_charge
+      label: Estimate Delivery Charge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: logistics_fee_fairness
+      label: logistics_fee_fairness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time_window
+      label: delivery_time_window
+      hint: null
+      type: select_one
+      options:
+      - Within 1-3 hours
+      - Within 1-24 hours
+      - Anytime
+      - Today
+      required: false
+    - id: 4
+      name: customer_feedback_urgency
+      label: customer_feedback_urgency
+      hint: null
+      type: select_one
+      options:
+      - Fair
+      - Unfair
+      - Neutral
+      required: false
+    - id: 5
+      name: delivery_charge
+      label: delivery_charge
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: scheduling_preferences
+      label: scheduling_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 7
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false

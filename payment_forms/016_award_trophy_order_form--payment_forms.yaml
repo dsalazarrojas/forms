@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Award Trophy Order Form
+    pages:
+    - id: 1
+      name: order_type
+      label: Order Type
+      hint: What type of order is this
+      type: select_one
+      options:
+      - New order
+      - Reorder
+      - Rush order
+      - Custom design
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Your name or organization name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: School, company, or team name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: Where should we ship the order
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: trophy_type
+      label: Trophy Type
+      hint: What type of award do you need
+      type: select_one
+      options:
+      - Cup trophy
+      - Column trophy
+      - Plaque
+      - Medal
+      - Ribbon
+      - Crystal award
+      - Acrylic award
+      - Custom design
+      required: true
+    - id: 12
+      name: trophy_size
+      label: Trophy Size
+      hint: Select the size
+      type: select_one
+      options:
+      - Small (6-8 inches)
+      - Medium (10-12 inches)
+      - Large (14-16 inches)
+      - Extra Large (18+ inches)
+      required: true
+    - id: 13
+      name: trophy_material
+      label: Trophy Material
+      hint: What material
+      type: select_one
+      options:
+      - Plastic
+      - Metal
+      - Wood
+      - Crystal
+      - Acrylic
+      - Glass
+      - Marble
+      required: true
+    - id: 14
+      name: trophy_color
+      label: Trophy Color
+      hint: Primary color
+      type: select_one
+      options:
+      - Gold
+      - Silver
+      - Bronze
+      - Blue
+      - Red
+      - Black
+      - Clear
+      - Multi-color
+      required: true
+    - id: 15
+      name: quantity
+      label: Quantity
+      hint: How many do you need
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: engraving_text_line_1
+      label: Engraving Line 1
+      hint: First line of text
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: engraving_text_line_2
+      label: Engraving Line 2
+      hint: Second line of text
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: engraving_text_line_3
+      label: Engraving Line 3
+      hint: Third line of text
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: logo_attachment
+      label: Logo or Design Attachment
+      hint: Upload your logo if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_date
+      label: Event Date
+      hint: When do you need the trophies
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: rush_order
+      label: Is This a Rush Order
+      hint: Do you need expedited service
+      type: select_one
+      options:
+      - No, standard delivery
+      - Yes, rush delivery
+      - Yes, overnight
+      required: true
+    - id: 23
+      name: unit_price
+      label: Unit Price
+      hint: Price per trophy
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_amount
+      label: Total Amount
+      hint: Total order amount
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Check
+      - Purchase order
+      - Invoice me later
+      required: true
+    - id: 26
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: billing_address
+      label: Billing Address
+      hint: If different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Check to agree to terms
+      type: select_one
+      options:
+      - Yes, I accept
+      - Other
+      required: true

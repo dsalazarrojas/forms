@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans Mental Health Program Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''General Donation''}'
+      - Tribute to a Veteran
+      - Monthly Subscription
+      required: true
+    - id: 3
+      name: dedication_message
+      label: Dedications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: anonymous_donor
+      label: Would you like to stay anonymous?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - 'False'
+      required: false
+    - id: 5
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''PayPal''}'
+      - Credit Card
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Bakery Cooperative Order Form
+    pages:
+    - id: 1
+      name: pickup_date
+      label: Pickup date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: pickup_time
+      label: Pickup time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: delivery_address
+      label: Delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bakery_name
+      label: Bakery name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bakery_email
+      label: Bakery email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: bakery_phone
+      label: Bakery phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: special_instructions
+      label: Special instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pickup_instructions
+      label: Pickup instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_instructions
+      label: Delivery instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

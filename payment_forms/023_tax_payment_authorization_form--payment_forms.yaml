@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_payment_authorization_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_id
+      label: tax_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_amount
+      label: tax_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tax_method
+      label: tax_method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - Cash
+      required: false
+    - id: 5
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Tax
+      - Vat Exemption
+      - Other
+      required: false

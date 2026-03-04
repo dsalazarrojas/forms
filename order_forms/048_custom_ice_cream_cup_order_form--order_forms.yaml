@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Ice Cream Cup Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flavor
+      label: Flavor
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Strawberry
+      - Chocolate
+      required: false
+    - id: 3
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: topping_1
+      label: Topping 1
+      hint: null
+      type: select_multiple
+      options:
+      - Sprinkles
+      - Whipped cream
+      - Hot Fudge
+      - Nuts
+      required: false
+    - id: 5
+      name: topping_2
+      label: Topping 2
+      hint: null
+      type: select_multiple
+      options:
+      - Marshmallow
+      - Cookie Dough
+      - Brownie bits
+      required: false
+    - id: 6
+      name: size2
+      label: Size 2
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

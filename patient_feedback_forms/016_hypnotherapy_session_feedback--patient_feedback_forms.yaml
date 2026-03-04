@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hypnotherapy Session Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_effectiveness
+      label: Session Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: therapist_care
+      label: Therapist Care
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Clear''}'
+      - '{2: ''Confusing''}'
+      - '{3: ''Unclear''}'
+      required: false
+    - id: 6
+      name: relaxation_response
+      label: Relaxation Response
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Improved''}'
+      - '{2: ''Unchanged''}'
+      - '{3: ''Deteriorated''}'
+      required: false
+    - id: 8
+      name: anxiety_level
+      label: Anxiety Level
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Low''}'
+      - '{2: ''Medium''}'
+      - '{3: ''High''}'
+      required: false
+    - id: 9
+      name: physical_discomfort
+      label: Physical Discomfort
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''None''}'
+      - '{2: ''Some''}'
+      - '{3: ''Significant''}'
+      required: false
+    - id: 10
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

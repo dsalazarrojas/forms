@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Booking Extension Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - VISA
+      - MASTERCARD
+      - AMEX
+      required: false
+    - id: 9
+      name: credit_card_details
+      label: Credit Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: credit_card_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - VISA
+      - MASTERCARD
+      - AMEX
+      required: false
+    - id: 11
+      name: credit_card_number
+      label: Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: credit_card_expire
+      label: Expiration
+      hint: null
+      type: select_multiple
+      options:
+      - 01/01/2020
+      - 01/02/2020
+      - 01/03/2020
+      required: false
+    - id: 13
+      name: credit_card_cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_details
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: billing_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: shipping_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit and Continue
+      - Cancel
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

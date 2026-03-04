@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Renovation Payment Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: job-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: total_cost
+      label: total-cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank
+      - Credit
+      required: false
+    - id: 5
+      name: payment_due_date
+      label: payment-due-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_amount
+      label: payment-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: payment-status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Partial
+      - Unpaid
+      required: false
+    - id: 11
+      name: user_address
+      label: user-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_message
+      label: user-message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method_hint
+      label: payment-method-hint
+      hint: Enter payment method
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms
+      label: payment-terms
+      hint: Check the terms of service and payment terms carefully before paying
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_terms_link
+      label: payment-terms-link
+      hint: Check the terms of service and payment terms carefully before paying
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms_agreement
+      label: payment-terms-agreement
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 17
+      name: payment_terms_agreement_hint
+      label: payment-terms-agreement-hint
+      hint: Check the terms of service and payment terms carefully before paying
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms_agreement_note
+      label: payment-terms-agreement-note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: client_signature
+      label: client-signature
+      hint: Sign and date your signature below
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_name
+      label: client-name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_date
+      label: client-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: payment_terms_agreement_checkbox
+      label: payment-terms-agreement-checkbox
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 23
+      name: client_address
+      label: client-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms_agreement_checkbox_hint
+      label: payment-terms-agreement-checkbox-hint
+      hint: Check that you agree to the terms of service
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: client_address_hint
+      label: client-address-hint
+      hint: Enter your address
+      type: text
+      options: []
+      required: false

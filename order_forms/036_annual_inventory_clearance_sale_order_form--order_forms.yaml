@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Inventory Clearance Sale Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Customer full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: If business customer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Full billing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sale_year
+      label: Sale Year
+      hint: Which clearance sale?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 8
+      name: customer_type
+      label: Customer Type
+      hint: What type of customer?
+      type: select_one
+      options:
+      - Retail
+      - Wholesale
+      - Business
+      - Reseller
+      - Other
+      required: true
+    - id: 9
+      name: product_category
+      label: Product Category
+      hint: What are you interested in?
+      type: select_multiple
+      options:
+      - Electronics
+      - Clothing
+      - Home Goods
+      - Office Supplies
+      - Tools
+      - Furniture
+      - Seasonal Items
+      - Mixed Lots
+      - Other
+      required: true
+    - id: 10
+      name: item_selection
+      label: Item Selection
+      hint: List items you want
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: quantities
+      label: Quantities
+      hint: Quantity for each item
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: size_color_preferences
+      label: Size and Color Preferences
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: condition_acceptable
+      label: Acceptable Condition
+      hint: What condition is acceptable?
+      type: select_one
+      options:
+      - New Only
+      - New or Open Box
+      - New or Refurbished
+      - Any Condition
+      required: true
+    - id: 14
+      name: minimum_discount
+      label: Minimum Discount
+      hint: What discount are you looking for?
+      type: select_one
+      options:
+      - 25% or more
+      - 50% or more
+      - 75% or more
+      - Any Discount
+      required: false
+    - id: 15
+      name: order_total
+      label: Order Total
+      hint: Estimated total amount
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we deliver?
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Store Pickup
+      - Warehouse Pickup
+      - Freight Delivery
+      required: true
+    - id: 17
+      name: pickup_date
+      label: Preferred Pickup Date
+      hint: If picking up
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: If shipping
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Invoice
+      - Cash on Pickup
+      required: true
+    - id: 20
+      name: payment_terms
+      label: Payment Terms
+      hint: If invoice requested
+      type: select_one
+      options:
+      - Due on Receipt
+      - Net 15
+      - Net 30
+      - Not Applicable
+      required: false
+    - id: 21
+      name: bulk_discount
+      label: Bulk Discount
+      hint: Are you ordering in bulk?
+      type: select_one
+      options:
+      - Yes, Eligible
+      - false
+      required: false
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - false
+      required: true
+    - id: 24
+      name: marketing_opt_in
+      label: Marketing Communications
+      hint: Receive future sale notifications?
+      type: select_one
+      options:
+      - Yes, Please
+      - No, Thank You
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

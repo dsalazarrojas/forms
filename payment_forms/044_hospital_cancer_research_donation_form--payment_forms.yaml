@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Cancer Research Donation Form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_information
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gift_amount
+      label: Gift Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gift_frequency
+      label: Gift Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recognition_preferences
+      label: Donor Recognition Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 13
+      name: gift_date
+      label: Gift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: gift_time
+      label: Gift Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false

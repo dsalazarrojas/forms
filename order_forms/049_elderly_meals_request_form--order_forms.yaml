@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elderly Meals Request Form
+    pages:
+    - id: 1
+      name: elderly_meals_request_form
+      label: Meal Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: senior_name
+      label: Senior Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meal_type
+      label: Meal Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meal_address
+      label: Meal Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meal_request_status
+      label: Meal Request Status
+      hint: null
+      type: select_one
+      options:
+      - Waiting List
+      - In Progress
+      - Approved
+      - Completed
+      - Rejected
+      required: false
+    - id: 8
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Authorize.net
+      - Square
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - ACH
+      - Cash
+      required: false
+    - id: 11
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

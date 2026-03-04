@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Pass Subscription Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Subscription Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subscriber_name
+      label: Subscriber name
+      hint: Full name for the pass
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subscription_type
+      label: Subscription type
+      hint: Select the pass duration
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 4
+      name: start_date
+      label: Subscription start date
+      hint: Date when pass should become active
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment method
+      hint: Select preferred payment method
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Direct debit
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing address
+      hint: Address for invoicing if required
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact email
+      hint: Email for pass confirmation
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: concession_status
+      label: Concession status
+      hint: Select if eligible for concession fare
+      type: select_one
+      options:
+      - None
+      - Student
+      - Senior
+      - Disabled
+      required: false
+    - id: 10
+      name: agree_terms
+      label: Agree to subscription terms
+      hint: Confirm acceptance of the subscription terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

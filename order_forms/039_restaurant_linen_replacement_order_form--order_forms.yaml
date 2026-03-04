@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_linen_replacement_order_form
+    pages:
+    - id: 1
+      name: restaurant_linen_replacement_order
+      label: Restaurant Linen Replacement Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Food & Beverage Order Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category_2
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Food & Beverage Order Forms
+      - Other
+      - Order Forms
+      required: false
+    - id: 5
+      name: tablecloth_count
+      label: Tablecloth Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: napkin_count
+      label: Napkin Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tablecloth_size
+      label: Tablecloth Size
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Half
+      - Quarter
+      required: false
+    - id: 8
+      name: tablecloth_color
+      label: Tablecloth Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Blue
+      - Red
+      required: false
+    - id: 9
+      name: linen_tablecloth_count
+      label: Linen Tablecloth Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: napkin_type
+      label: Napkin Type
+      hint: null
+      type: select_one
+      options:
+      - Paper
+      - Cloth
+      - Tissue
+      required: false
+    - id: 11
+      name: napkins_size
+      label: Napkins Size
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Half
+      - Quarter
+      required: false
+    - id: 12
+      name: tablecloth_size_unit
+      label: Tablecloth Size Unit
+      hint: null
+      type: select_one
+      options:
+      - Count
+      - Square Feet
+      - Square Meters
+      required: false
+    - id: 13
+      name: linen_type
+      label: Linen Type
+      hint: null
+      type: select_one
+      options:
+      - Cotton
+      - Polyester
+      - Linen
+      required: false

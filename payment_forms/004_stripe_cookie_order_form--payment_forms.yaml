@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Cookie Order Form
+    pages:
+    - id: 1
+      name: cookie_order_form
+      label: Cookie Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cookie_type
+      label: cookie_type
+      hint: null
+      type: select_one
+      options:
+      - Oatmeal Raisin
+      - Chocolate Chip
+      - Shortbread
+      - Peanut Butter
+      - Lemon
+      - Snickerdoodle
+      - Gingerbread
+      - Peanut Butter Chocolate Chip
+      - Oatmeal
+      - Snickerdoodle
+      - Shortbread
+      - Peanut Butter
+      - Lemon
+      - Gingerbread
+      required: false
+    - id: 6
+      name: cookie_count
+      label: cookie_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Stripe
+      - Stripe
+      required: false
+    - id: 9
+      name: payment_method_confirmation
+      label: payment_method_confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_confirmation
+      label: order_confirmation
+      hint: null
+      type: note
+      options: []
+      required: false

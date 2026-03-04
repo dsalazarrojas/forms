@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Part Delivery Form
+    pages:
+    - id: 1
+      name: section_header_order
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_company
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_delivery
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_parts
+      label: -- Parts Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: part_count
+      label: Number of Parts in Order
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: part_types
+      label: Types of Parts
+      hint: Brief description of parts ordered
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: packaging_condition
+      label: Packaging Condition Upon Receipt
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Damaged
+      - Missing Items
+      required: true
+    - id: 19
+      name: section_header_delivery_details
+      label: -- Delivery Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: expected_delivery_date
+      label: Expected Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: actual_delivery_date
+      label: Actual Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Local Pickup
+      - Will Call
+      required: true
+    - id: 23
+      name: section_header_condition
+      label: -- Condition and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: received_by
+      label: Received By (Name)
+      hint: Name of person receiving delivery
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: condition_notes
+      label: Any Damage or Issues with Delivery
+      hint: null
+      type: text
+      options: []
+      required: false

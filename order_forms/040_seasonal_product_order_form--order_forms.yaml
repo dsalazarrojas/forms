@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Product Order Form
+    pages:
+    - id: 1
+      name: seasonal_product_order_form_order_form
+      label: order_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: seasonal_product_order_form_customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seasonal_product_order_form_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: seasonal_product_order_form_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seasonal_product_order_form_product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seasonal_product_order_form_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: seasonal_product_order_form_product_price
+      label: product_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: seasonal_product_order_form_order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: seasonal_product_order_form_discount
+      label: discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: seasonal_product_order_form_tax
+      label: tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: seasonal_product_order_form_shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: seasonal_product_order_form_order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Shipping
+      - Processing
+      - Delivered
+      - Canceled
+      required: false
+    - id: 13
+      name: seasonal_product_order_form_payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: seasonal_product_order_form_customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Sports Car Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: car_model
+      label: What model would you like?
+      hint: null
+      type: select_multiple
+      options:
+      - Ferrari 488 GTB
+      - Lamborghini Aventador
+      - Porsche 911
+      - Maserati GranCabrio
+      - McLaren GT
+      required: true
+    - id: 6
+      name: car_color
+      label: What color would you like?
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Silver
+      - Black
+      - Blue
+      - Green
+      required: true
+    - id: 7
+      name: deposit
+      label: Deposit amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_terms
+      label: Would you like to pay a deposit now?
+      hint: null
+      type: select_multiple
+      options:
+      - I'll pay now
+      - I'll pay later
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_phone
+      label: Confirm phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: confirm_email
+      label: Confirm email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: confirm_deposit
+      label: Confirm deposit amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: confirm_payment_method
+      label: Confirm Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: confirm_payment_gateway
+      label: Confirm Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: confirm_payment_terms
+      label: Confirm Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

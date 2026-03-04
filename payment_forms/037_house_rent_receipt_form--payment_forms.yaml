@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Rent Receipt Form
+    pages:
+    - id: 1
+      name: tenant_details
+      label: Tenant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_details
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_rent_received
+      label: Date Rent Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Advance
+      - Security Deposit
+      - Other
+      required: false
+    - id: 6
+      name: rent_period
+      label: Rent Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_issue_rent
+      label: Date Issue Rent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: issue_rent_amount
+      label: Issue Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms_issue_rent
+      label: Payment Terms for Issue Rent
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Advance
+      - Security Deposit
+      - Other
+      required: false
+    - id: 12
+      name: issue_rent_period
+      label: Issue Rent Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

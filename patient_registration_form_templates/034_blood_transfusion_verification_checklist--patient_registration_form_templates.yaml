@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blood Transfusion Verification Checklist
+    pages:
+      - id: 1
+        name: verification_intro
+        label: -- Blood Transfusion Safety Checklist --
+        hint: Pre-transfusion verification procedures
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: patient_id
+        label: Patient ID/Medical Record Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: hospital_number
+        label: Hospital/Unit Number
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: verification_date
+        label: Verification Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: verification_time
+        label: Verification Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 8
+        name: patient_verbal_confirmation
+        label: Patient verbally confirmed identity
+        hint: null
+        type: select_one
+        options: ["Yes", "No", "Unable - unconscious"]
+        required: true
+      - id: 9
+        name: patient_id_band_confirmed
+        label: Patient ID band matches medical record
+        hint: null
+        type: select_one
+        options: ["Yes", "No", "ID band not present"]
+        required: true
+      - id: 10
+        name: blood_type_documented
+        label: Patient's documented blood type on file
+        hint: null
+        type: select_one
+        options: ["O+", "O-", "A+", "A-", "B+", "B-", "AB+", "AB-"]
+        required: true
+      - id: 11
+        name: transfusion_order_reviewed
+        label: Transfusion order reviewed and correct
+        hint: null
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 12
+        name: unit_identification_correct
+        label: Blood unit identification matches patient record
+        hint: null
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 13
+        name: unit_blood_type_matches
+        label: Unit blood type matches patient blood type
+        hint: null
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 14
+        name: crossmatch_label_correct
+        label: Crossmatch label matches unit and patient
+        hint: null
+        type: select_one
+        options: ["Yes", "No"]
+        required: true
+      - id: 15
+        name: unit_appearance_checked
+        label: Unit appearance checked (no clots, discoloration)
+        hint: null
+        type: select_one
+        options: ["Yes", "No", "Unit discarded"]
+        required: true
+      - id: 16
+        name: unit_expiration_checked
+        label: Unit expiration date checked
+        hint: null
+        type: select_one
+        options: ["Yes - valid", "No - expired"]
+        required: true
+      - id: 17
+        name: transfusion_initiated_by
+        label: Name of Person Initiating Transfusion
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: witnessed_by
+        label: Witnessed/Verified By
+        hint: Another healthcare provider
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: notes
+        label: Additional Notes or Concerns
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: checklist_complete
+        label: Verification checklist complete
+        hint: null
+        type: select_one
+        options: ["Yes - safe to proceed", "No - transfusion deferred"]
+        required: true

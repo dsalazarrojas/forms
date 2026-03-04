@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_payment_form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - BRL
+      - RUB
+      required: false
+    - id: 4
+      name: currency_other
+      label: Other Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - Diners
+      - Enrobi
+      required: false
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: select_multiple
+      options:
+      - address1
+      - address2
+      - address3
+      - address4
+      - address5
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: select_multiple
+      options:
+      - address1
+      - address2
+      - address3
+      - address4
+      required: false
+    - id: 10
+      name: shipping_address2
+      label: Shipping Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: card_type2
+      label: Card Type 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: card_expiration_date
+      label: Card Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: cvv2
+      label: CVV 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: billing_address2
+      label: Billing Address 2
+      hint: null
+      type: select_multiple
+      options:
+      - address1
+      - address2
+      - address3
+      - address4
+      required: false
+    - id: 20
+      name: billing_address3
+      label: Billing Address 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_address4
+      label: Billing Address 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_address5
+      label: Billing Address 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_address3
+      label: Shipping Address 3
+      hint: null
+      type: select_multiple
+      options:
+      - address1
+      - address2
+      - address3
+      - address4
+      required: false
+    - id: 24
+      name: shipping_address6
+      label: Shipping Address 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipping_address7
+      label: Shipping Address 7
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Event Expense Claim Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_type
+      label: Expense Type
+      hint: 'null'
+      type: select_one
+      options:
+      - Cash
+      - In-Kind
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe your expense
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_claimed
+      label: Date Claimed
+      hint: The date you claimed reimbursement for
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_expensed
+      label: Date Expensed
+      hint: The date of the event
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: total_claimed
+      label: Total Claimed
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_total
+      label: Event Total
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reimbursed_amount
+      label: Reimbursed Amount
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: 'null'
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 11
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachments
+      label: Attachments
+      hint: Upload receipts or other supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_details_attachments
+      label: Event Details Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: expense_type_attachments
+      label: Expense Type Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: description_attachments
+      label: Description Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_claimed_attachments
+      label: Date Claimed Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_expensed_attachments
+      label: Date Expensed Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: total_claimed_attachments
+      label: Total Claimed Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_total_attachments
+      label: Event Total Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reimbursed_amount_attachments
+      label: Reimbursed Amount Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: status_attachments
+      label: Status Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reason_for_rejection_attachments
+      label: Reason for Rejection Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: Any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachments
+      label: Attachments
+      hint: Upload receipts or other supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submit
+      label: Submit
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: form_submit_attachments
+      label: Attachments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: event_date
+      label: Event Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: total_expenses
+      label: Total Expenses
+      hint: 'null'
+      type: number
+      options: []
+      required: false

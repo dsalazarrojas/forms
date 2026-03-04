@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Research Chemicals Order Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chemical_name
+      label: Chemical Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: chemical_id
+      label: Chemical ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: chemical_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Solids
+      - Liquids
+      - Gases
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purchase_authorization
+      label: Purchase Authorization
+      hint: null
+      type: select_one
+      options:
+      - Faculty
+      - Staff
+      - PI
+      required: false
+    - id: 8
+      name: lab_contact
+      label: Lab Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lab_phone
+      label: Lab Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purchase_request_date
+      label: Purchase Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_form
+      label: Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customs Value Declaration Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: package_info
+      label: Package Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: declaration_info
+      label: Declaration Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipment_value
+      label: Shipment Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - GBP
+      - EUR
+      required: false
+    - id: 7
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - Air
+      - Land
+      - Sea
+      - Customized Shipping Method
+      required: false
+    - id: 8
+      name: customs_clearance_number
+      label: Customs Clearance Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthy Meal Order Form
+    pages:
+    - id: 1
+      name: meal_selection_1
+      label: Breakfast Options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: meal_selection_2
+      label: Snack Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meal_selection_3
+      label: Lunch Options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: meal_selection_4
+      label: Dinner Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

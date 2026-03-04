@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_container_inspection_form
+    pages:
+    - id: 1
+      name: container_type
+      label: Container Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Reefer
+      - Tanker
+      - Flat Rack
+      required: false
+    - id: 2
+      name: container_condition
+      label: Container Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Damaged
+      - Leaky
+      - Clean
+      - Soiled
+      required: false
+    - id: 3
+      name: condition_description
+      label: Condition Description
+      hint: Describe the condition of the container
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weight_capacity
+      label: Weight Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: container_damage
+      label: Container Damage
+      hint: null
+      type: select_multiple
+      options:
+      - No Damage
+      - Scratch
+      - Bend
+      - Dented
+      - Hole
+      required: false
+    - id: 6
+      name: damage_description
+      label: Damage Description
+      hint: Describe the damage
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_features
+      label: Safety Features
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Harness
+      - Fire Extinguisher
+      - Reflective Tape
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments regarding the condition of the container
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: inspector_name
+      label: Inspector's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Stamp
+      required: false
+    - id: 16
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Non-Certified
+      required: false
+    - id: 17
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: certification_expiration
+      label: Certification Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 21
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_one
+      options:
+      - ISPS
+      - ISO
+      - OSHA
+      required: false
+    - id: 22
+      name: additional_comments_2
+      label: Additional Comments 2
+      hint: Any additional comments regarding the certification
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: certification_number_2
+      label: Certification Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certification_date_2
+      label: Certification Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: certification_expiration_2
+      label: Certification Expiration 2
+      hint: null
+      type: date
+      options: []
+      required: false

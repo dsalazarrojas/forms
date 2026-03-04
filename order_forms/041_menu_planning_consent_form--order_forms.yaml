@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Planning Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: special_diets
+      label: Special Diets
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten-free
+      - Vegetarian
+      - Vegan
+      - Pescetarian
+      - Flexitarian
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: food_allergies
+      label: Food Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: food_restrictions
+      label: Food Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_restrictions
+      label: Other Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false

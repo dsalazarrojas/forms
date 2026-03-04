@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment
+      label: Assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Severe''}'
+      - '{''id'': 2, ''name'': ''Moderate''}'
+      - '{''id'': 3, ''name'': ''Mild''}'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Fatigue''}'
+      - '{''id'': 2, ''name'': ''Headache''}'
+      - '{''id'': 3, ''name'': ''Cough''}'
+      required: false
+    - id: 5
+      name: test_results
+      label: Test Results
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment
+      label: Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Physical Therapy''}'
+      - '{''id'': 2, ''name'': ''Medication''}'
+      - '{''id'': 3, ''name'': ''Surgery''}'
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Yes''}'
+      - '{''id'': 2, ''name'': ''No''}'
+      required: false
+    - id: 10
+      name: patient_id
+      label: Patient ID
+      hint: Enter patient ID
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: contact_no
+      label: Contact No
+      hint: null
+      type: text
+      options: []
+      required: false

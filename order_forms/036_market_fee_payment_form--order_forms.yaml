@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Fee Payment Form
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: market_fee
+      label: Market Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Card
+      - Bank Transfer
+      required: true
+    - id: 5
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: card_expiration
+      label: Card Expiration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: card_cvv
+      label: Card CVV
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bank_transfer_details
+      label: Bank Transfer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

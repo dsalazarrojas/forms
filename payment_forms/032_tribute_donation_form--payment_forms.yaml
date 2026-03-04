@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: tribute_donation_form
+    pages:
+    - id: 1
+      name: doner
+      label: Doner
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: tribute_name
+      label: tribute_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gift_amount
+      label: gift_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gift_frequency
+      label: gift_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - One-time
+      required: true
+    - id: 5
+      name: dedication_message
+      label: dedication_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_name
+      label: donor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: donor_phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 10
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gift_frequency_howoften
+      label: gift_frequency_howoften
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One-time
+      required: true
+    - id: 12
+      name: gift_frequency_when
+      label: gift_frequency_when
+      hint: null
+      type: date
+      options: []
+      required: true

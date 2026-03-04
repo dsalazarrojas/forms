@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicare Claim Form Template
+    pages:
+    - id: 1
+      name: medicare_claim_form
+      label: Medicare Claim Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 7
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_notes
+      label: Claim Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 13
+      name: patient_birthdate
+      label: Patient Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: patient_dob
+      label: Patient Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 16
+      name: claim_submitted_by
+      label: Claim Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Provider
+      - Patient
+      - Insurance
+      required: true
+    - id: 17
+      name: claim_deny_reason
+      label: Claim Deny Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: provider_license_number
+      label: Provider License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: claim_fax_number
+      label: Claim Fax Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_medical_record_number
+      label: Patient Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_medical_record_number_type
+      label: Patient Medical Record Number Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: false
+    - id: 22
+      name: provider_tax_id_number
+      label: Provider Tax ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claim_fax_number
+      label: Fax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claim_comments
+      label: Claims Comments
+      hint: null
+      type: text
+      options: []
+      required: true

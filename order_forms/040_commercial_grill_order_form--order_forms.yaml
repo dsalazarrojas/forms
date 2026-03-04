@@ -1,0 +1,300 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Grill Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_grill_selection
+      label: -- Grill Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: grill_type
+      label: Grill Type
+      hint: Type of grill
+      type: select_one
+      options:
+      - Gas Grill
+      - Charcoal Grill
+      - Electric Grill
+      - Pellet Grill
+      - Infrared Grill
+      - Hybrid Grill
+      required: true
+    - id: 7
+      name: grill_size
+      label: Grill Size
+      hint: Cooking area size
+      type: select_one
+      options:
+      - Compact (under 300 sq in)
+      - Small (300-500 sq in)
+      - Medium (500-700 sq in)
+      - Large (700-900 sq in)
+      - Extra Large (900+ sq in)
+      required: true
+    - id: 8
+      name: grill_brand
+      label: Grill Brand
+      hint: Preferred brand
+      type: select_one
+      options:
+      - Weber
+      - Traeger
+      - Napoleon
+      - Broil King
+      - Char-Broil
+      - DCS
+      - Lynx
+      - Other
+      required: true
+    - id: 9
+      name: specific_model
+      label: Specific Model
+      hint: Model number if known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Number of grills
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_features
+      label: -- Features and Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: side_burner
+      label: Side Burner
+      hint: Do you want a side burner
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: rotisserie_kit
+      label: Rotisserie Kit
+      hint: Include rotisserie
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: smoker_box
+      label: Smoker Box
+      hint: Include smoker attachment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: grill_cover
+      label: Grill Cover
+      hint: Include protective cover
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: tool_set
+      label: Grill Tool Set
+      hint: Include tool set
+      type: select_one
+      options:
+      - Yes Basic
+      - Yes Premium
+      - false
+      required: true
+    - id: 17
+      name: section_header_accessories
+      label: -- Additional Accessories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_burners
+      label: Additional Burners
+      hint: Extra burner sets
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: grill_brush
+      label: Grill Brush
+      hint: Include cleaning brush
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: thermometer
+      label: Meat Thermometer
+      hint: Include thermometer
+      type: select_one
+      options:
+      - Yes Basic
+      - Yes Digital
+      - Yes Wireless
+      - false
+      required: true
+    - id: 21
+      name: propane_tank
+      label: Propane Tank
+      hint: Include propane tank
+      type: select_one
+      options:
+      - Yes 20 lb
+      - Yes 40 lb
+      - false
+      - Not Applicable
+      required: true
+    - id: 22
+      name: charcoal
+      label: Charcoal
+      hint: Include charcoal
+      type: select_one
+      options:
+      - Yes 20 lb bag
+      - Yes 40 lb bag
+      - Yes Multiple bags
+      - false
+      - Not Applicable
+      required: true
+    - id: 23
+      name: section_header_delivery
+      label: -- Delivery and Installation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: delivery_method
+      label: Delivery Method
+      hint: How should we deliver
+      type: select_one
+      options:
+      - Standard Delivery
+      - Express Delivery
+      - Store Pickup
+      - White Glove Delivery
+      required: true
+    - id: 26
+      name: installation_service
+      label: Installation Service
+      hint: Do you want professional installation
+      type: select_one
+      options:
+      - Yes Required
+      - No I Will Install
+      required: true
+    - id: 27
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: section_header_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Purchase Order
+      - Wire Transfer
+      - Check
+      - Financing
+      required: true
+    - id: 30
+      name: subtotal
+      label: Subtotal
+      hint: Order subtotal
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: delivery_fee
+      label: Delivery Fee
+      hint: Delivery cost
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: installation_fee
+      label: Installation Fee
+      hint: Installation cost
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: total_amount
+      label: Total Amount
+      hint: Final order total
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false

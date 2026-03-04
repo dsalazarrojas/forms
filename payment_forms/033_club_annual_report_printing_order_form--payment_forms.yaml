@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Annual Report Printing Order Form
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Where to send the printed reports
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_report
+      label: -- Report Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: report_title
+      label: Annual Report Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: report_year
+      label: Report Year
+      hint: Year covered by this annual report
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: page_count
+      label: Total Number of Pages
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: cover_color
+      label: Cover Color Preference
+      hint: null
+      type: select_one
+      options:
+      - Color
+      - Black and white
+      - Two-color
+      - Glossy finish
+      - Matte finish
+      required: true
+    - id: 12
+      name: paper_type
+      label: Paper Type
+      hint: null
+      type: select_one
+      options:
+      - Standard 20lb
+      - Cardstock
+      - Glossy photo paper
+      - Textured paper
+      - Eco-friendly
+      - Other
+      required: true
+    - id: 13
+      name: binding_type
+      label: Binding Type
+      hint: null
+      type: select_one
+      options:
+      - Saddle stitch
+      - Perfect bound
+      - Spiral binding
+      - Comb binding
+      - Wire binding
+      - Unbound
+      required: true
+    - id: 14
+      name: section_printing
+      label: -- Printing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: quantity
+      label: Quantity to Print
+      hint: Number of copies
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: color_printing
+      label: Interior Color Printing
+      hint: null
+      type: select_one
+      options:
+      - Full color
+      - Black and white
+      - Mixed - specify pages
+      required: true
+    - id: 17
+      name: color_pages_range
+      label: Color Pages - If Mixed
+      hint: Example - Pages 1-10, 20-25
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: lamination
+      label: Lamination on Cover
+      hint: null
+      type: select_one
+      options:
+      - Yes - glossy
+      - Yes - matte
+      - No lamination
+      required: false
+    - id: 19
+      name: section_delivery
+      label: -- Delivery Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: delivery_date
+      label: Desired Delivery Date
+      hint: When do you need the reports?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight
+      - Local pickup
+      required: true
+    - id: 22
+      name: section_cost
+      label: -- Cost and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: estimated_cost
+      label: Estimated Total Cost - USD
+      hint: Based on specifications above
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Purchase order
+      - Bank transfer
+      - Check
+      - Other
+      required: true

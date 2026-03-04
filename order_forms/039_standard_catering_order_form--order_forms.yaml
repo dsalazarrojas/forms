@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Catering Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: catering_service
+      label: Catering Service
+      hint: null
+      type: select_multiple
+      options:
+      - Baked Goods
+      - Finger Foods
+      - Desserts
+      - Other
+      required: false
+    - id: 6
+      name: food_type
+      label: Food Type
+      hint: null
+      type: select_one
+      options:
+      - Baked Goods
+      - Finger Foods
+      - Desserts
+      - Other
+      required: false
+    - id: 7
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Burn Unit Expansion Donation Form
+    pages:
+    - id: 1
+      name: section_donor_info
+      label: -- Donor Identification --
+      hint: Thank you for your support
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name_full
+      label: Donor Full Name
+      hint: For tax receipt purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: We will send your receipt here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Contact Phone Number
+      hint: Optional contact for large gift verification
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_donation_details
+      label: -- Gift Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: donation_amount
+      label: Donation Amount (USD)
+      hint: Enter the amount you wish to contribute
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: gift_frequency
+      label: Donation Frequency
+      hint: Consider a recurring gift for sustained impact
+      type: select_one
+      options:
+      - One-time Gift
+      - Monthly Recurring
+      - Quarterly Recurring
+      - Annual Gift
+      required: true
+    - id: 8
+      name: fund_allocation_preference
+      label: Fund Allocation Preference
+      hint: Direct your gift to a specific area of the expansion
+      type: select_one
+      options:
+      - General Expansion Fund
+      - Advanced Equipment Purchase
+      - Patient Rehabilitation Area
+      - Family Support Center
+      - Research and Training
+      required: true
+    - id: 9
+      name: tribute_gift_type
+      label: Is this a tribute gift
+      hint: null
+      type: select_one
+      options:
+      - No, this is a personal gift
+      - In Honor of
+      - In Memory of
+      required: true
+    - id: 10
+      name: tribute_recipient_name
+      label: Tribute Recipient Name
+      hint: Name of the person being honored or remembered
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_billing
+      label: -- Billing Address --
+      hint: Required for card verification
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: billing_street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: billing_city_state_zip
+      label: City, State, and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payment_type_selection
+      label: Preferred Payment Method
+      hint: Secure processing will follow
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - Electronic Check (ACH)
+      - PayPal
+      - Send Check by Mail
+      required: true
+    - id: 15
+      name: anonymous_donation_choice
+      label: Keep my donation anonymous
+      hint: If checked, your name will not appear on public donor lists
+      type: select_one
+      options:
+      - Yes, keep it anonymous
+      - No, I am okay with recognition
+      required: true
+    - id: 16
+      name: donor_message_team
+      label: Message for the Burn Unit Team
+      hint: Words of encouragement or specific notes
+      type: text
+      options: []
+      required: false

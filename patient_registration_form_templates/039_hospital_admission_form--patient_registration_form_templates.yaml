@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospital_admission_form
+    pages:
+    - id: 1
+      name: patient_registration
+      label: Patient Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history2
+      label: medical_history2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition2
+      label: medical_condition2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_allergies2
+      label: medication_allergies2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_insurance_id
+      label: medical_insurance_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hospital_address
+      label: hospital_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: medical_specialist
+      label: medical_specialist
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''name'': ''general_practitioner'', ''label'': ''General Practitioner''}'
+      - '{''id'': 22, ''name'': ''specialist'', ''label'': ''Specialist''}'
+      - '{''id'': 23, ''name'': ''nurse'', ''label'': ''Nurse''}'
+      - '{''id'': 24, ''name'': ''other'', ''label'': ''Other''}'
+      - '{''id'': 25, ''name'': ''unknown'', ''label'': ''Unknown''}'
+      required: false
+    - id: 21
+      name: hospital_department
+      label: hospital_department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 27, ''name'': ''cardiology'', ''label'': ''Cardiology''}'
+      - '{''id'': 28, ''name'': ''general_medicine'', ''label'': ''General Medicine''}'
+      - '{''id'': 29, ''name'': ''neurology'', ''label'': ''Neurology''}'
+      - '{''id'': 30, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_of_admission
+      label: date_of_admission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: doctor_specialist_name
+      label: doctor_specialist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: doctor_phone
+      label: doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: hospital_name
+      label: hospital_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: patient_relationship
+      label: patient_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 39, ''name'': ''father'', ''label'': ''Father''}'
+      - '{''id'': 40, ''name'': ''mother'', ''label'': ''Mother''}'
+      - '{''id'': 41, ''name'': ''brother'', ''label'': ''Brother''}'
+      - '{''id'': 42, ''name'': ''sister'', ''label'': ''Sister''}'
+      - '{''id'': 43, ''name'': ''other'', ''label'': ''Other''}'
+      - '{''id'': 44, ''name'': ''spouse'', ''label'': ''Spouse''}'
+      - '{''id'': 45, ''name'': ''unknown'', ''label'': ''Unknown''}'
+      required: false
+    - id: 30
+      name: patient_relationship_other
+      label: patient_relationship_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: doctor_signature
+      label: doctor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: doctor_title
+      label: doctor_title
+      hint: null
+      type: text
+      options: []
+      required: false

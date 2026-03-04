@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Ordering Form
+    pages:
+    - id: 1
+      name: fashion_ordering_form_page_1
+      label: fashion_ordering_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: delivery_details_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_details
+      label: payment_details_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_message
+      label: customer_message_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: total_cost
+      label: total_cost_label
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotional Counter Stand Order Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Promotional Counter Stand Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artwork
+      label: artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artwork_url
+      label: artwork_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: material
+      label: material
+      hint: null
+      type: select_one
+      options:
+      - Counter stand
+      - Counter stand 1
+      - Counter stand 2
+      required: true
+    - id: 6
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: width
+      label: width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: depth
+      label: depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 10
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Confirmed
+      - Not confirmed
+      required: true
+    - id: 14
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online payment
+      - Offline payment
+      required: true
+    - id: 15
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false

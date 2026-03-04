@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Year Programming Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Team Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: programming_languages
+      label: What are your top 3 favorite programming languages?
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - JavaScript
+      - Java
+      - C++
+      - C#
+      - TypeScript
+      required: false
+    - id: 3
+      name: programming_frameworks
+      label: Which programming frameworks do you use?
+      hint: 'Example: React, Angular, Vue'
+      type: select_multiple
+      options:
+      - React
+      - Angular
+      - Vue
+      - Django
+      - Ruby on Rails
+      - Express
+      required: false
+    - id: 4
+      name: skill_gaps
+      label: What skills do you feel you need to improve?
+      hint: 'Example: communication, problem-solving, teamwork'
+      type: select_multiple
+      options:
+      - Communication
+      - Problem-solving
+      - Teamwork
+      - Time management
+      - Leadership
+      - Productivity
+      required: false
+    - id: 5
+      name: development_strategies
+      label: What development strategies would you like to adopt in the next year?
+      hint: 'Example: Agile, Kanban, Scrum'
+      type: select_multiple
+      options:
+      - Agile
+      - Kanban
+      - Scrum
+      - Waterfall
+      - Extreme Programming
+      - Lean
+      required: false
+    - id: 6
+      name: favorite_tools
+      label: What are your favorite tools for development?
+      hint: 'Example: VS Code, IntelliJ, Sublime'
+      type: select_multiple
+      options:
+      - VS Code
+      - IntelliJ
+      - Sublime
+      - Visual Studio
+      - Eclipse
+      - NetBeans
+      required: false
+    - id: 7
+      name: productivity_boosters
+      label: What productivity boosters do you use?
+      hint: 'Example: coffee, music, exercise'
+      type: select_multiple
+      options:
+      - Coffee
+      - Music
+      - Exercise
+      - Meditation
+      - Fresh air
+      - Healthy snacks
+      required: false
+    - id: 8
+      name: comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: What is your email address?
+      hint: 'Example: john.doe@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: What is your phone number?
+      hint: 'Example: 123-456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: What is your preferred work schedule?
+      hint: 'Example: Monday to Friday, 9am to 5pm'
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: What is your preferred start time?
+      hint: 'Example: 9am, 10am, 11am'
+      type: time
+      options: []
+      required: false

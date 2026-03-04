@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: injection_foam_work_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_request
+      label: Service Request
+      hint: Please enter details about the service required
+      type: select_multiple
+      options:
+      - Foam Injection Service 1
+      - Foam Injection Service 2
+      - Foam Injection Service 3
+      required: false
+    - id: 3
+      name: foam_quantity
+      label: Foam Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: foam_type
+      label: Foam Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Foam
+      - Specialized Foam
+      - Custom Foam
+      required: false
+    - id: 5
+      name: foam_color
+      label: Foam Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Green
+      required: false
+    - id: 6
+      name: foam_size
+      label: Foam Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jill
+      required: false
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

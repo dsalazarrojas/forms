@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscaping Service Intake Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landscaping_needs
+      label: Landscaping Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Yard Size
+      - Landscaping Style
+      - Property Type
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 9
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: landscaping_service
+      label: Landscaping Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Yard Clean-up
+      - Planting
+      - Pruning
+      - Weeding
+      - Mulching
+      - Fertilizing
+      - Irrigation
+      - Seasonal Color
+      - Seasonal Planting
+      - Seasonal Clean-up
+      - Lawn Care
+      - Yard Work
+      - Snow Plowing
+      - Lawn Aeration
+      - Lawn Dethatching
+      - Lawn Fertilization
+      - Lawn Mowing
+      - Lawn Maintenance
+      - Lawn Repair
+      required: true

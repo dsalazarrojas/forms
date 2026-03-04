@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: School Lunch Order Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_mains
+      label: Select mains
+      hint: Select the mains for the lunch order
+      type: select_multiple
+      options:
+      - Chicken nuggets
+      - Ham sammies
+      - Fish sticks
+      - Veggie burger
+      required: false
+    - id: 3
+      name: select_snacks
+      label: Select snacks
+      hint: Select two snacks
+      type: select_multiple
+      options:
+      - Apple
+      - Carrot sticks
+      - Chips
+      required: false
+    - id: 4
+      name: select_drinks
+      label: Select drinks
+      hint: Select a drink
+      type: select_multiple
+      options:
+      - Orange juice
+      - Apple juice
+      - Juice 1
+      required: false
+    - id: 5
+      name: select_juices
+      label: Select juices
+      hint: Select an extra juice
+      type: select_multiple
+      options:
+      - Orange juice
+      - Apple juice
+      required: false
+    - id: 6
+      name: select_fruit
+      label: Select fruit
+      hint: Select an extra fruit
+      type: select_multiple
+      options:
+      - Apple
+      - Banana
+      required: false
+    - id: 7
+      name: select_sides
+      label: Select sides
+      hint: null
+      type: select_one
+      options:
+      - Carrot sticks
+      - Salad
+      - Rice
+      required: false
+    - id: 8
+      name: date_picker
+      label: Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_picker
+      label: Time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: Enter your email address here
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music And Video Package Request
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Music Package
+      - Video Package
+      - Both
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: package_option_0
+      label: Package 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: package_option_1
+      label: Package 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: package_option_2
+      label: Package 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_preference_0
+      label: Package 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_preference_1
+      label: Package 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_preference_2
+      label: Package 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_details_form
+      label: Event Details Form
+      hint: null
+      type: select_one
+      options:
+      - Drag and Drop Form
+      - Code Form
+      - Default Form
+      required: true
+    - id: 11
+      name: client_preferences_0
+      label: Package 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_preferences_1
+      label: Package 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_preferences_2
+      label: Package 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: package_type
+      label: Package Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false

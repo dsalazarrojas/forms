@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Delivery Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Legal name for age verification
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact for delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Gate codes, building info, etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need delivery?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_time_window
+      label: Preferred Time Window
+      hint: Best time for delivery
+      type: select_one
+      options:
+      - 10 AM - 12 PM
+      - 12 PM - 2 PM
+      - 2 PM - 4 PM
+      - 4 PM - 6 PM
+      - 6 PM - 8 PM
+      - 8 PM - 10 PM
+      required: true
+    - id: 9
+      name: beer_selection
+      label: Beer Selection
+      hint: Select beers to order
+      type: select_multiple
+      options:
+      - Domestic Lager (6-pack) - $12
+      - Craft IPA (6-pack) - $15
+      - Imported Beer (6-pack) - $14
+      - Local Brewery Variety (12-pack) - $22
+      - Premium Beer (4-pack) - $16
+      - Non-alcoholic Beer (6-pack) - $10
+      required: false
+    - id: 10
+      name: wine_selection
+      label: Wine Selection
+      hint: Select wines to order
+      type: select_multiple
+      options:
+      - Red Wine - Cabernet - $25
+      - Red Wine - Merlot - $22
+      - Red Wine - Pinot Noir - $28
+      - White Wine - Chardonnay - $24
+      - White Wine - Sauvignon Blanc - $23
+      - Rosé Wine - $20
+      - Sparkling Wine - $35
+      - Wine Variety Pack (6 bottles) - $120
+      required: false
+    - id: 11
+      name: spirits_selection
+      label: Spirits Selection
+      hint: Select spirits to order
+      type: select_multiple
+      options:
+      - Vodka (750ml) - $30
+      - Gin (750ml) - $28
+      - Rum (750ml) - $26
+      - Tequila (750ml) - $35
+      - Whiskey/Bourbon (750ml) - $40
+      - Scotch (750ml) - $50
+      - Cognac (750ml) - $45
+      - Liqueur (750ml) - $32
+      required: false
+    - id: 12
+      name: mixer_selection
+      label: Mixer Selection
+      hint: Select mixers to add
+      type: select_multiple
+      options:
+      - Soda Water (4-pack) - $6
+      - Tonic Water (4-pack) - $7
+      - Cola (6-pack) - $8
+      - Ginger Beer (4-pack) - $9
+      - Juice Variety Pack - $12
+      - Cocktail Garnish Kit - $10
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: Any specific brands or items?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: subtotal
+      label: Order Subtotal
+      hint: Total before fees
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: delivery_fee
+      label: Delivery Fee
+      hint: Based on distance
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: service_fee
+      label: Service Fee
+      hint: Processing fee
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: tip_amount
+      label: Tip Amount
+      hint: Tip for delivery driver
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_amount
+      label: Total Amount
+      hint: Final total
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Cash on Delivery
+      required: true
+    - id: 20
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 21 or older
+      type: select_one
+      options:
+      - Yes, I am 21 or older
+      - No, I am under 21
+      required: true
+    - id: 21
+      name: id_present
+      label: Valid ID Available
+      hint: I will have valid ID at delivery
+      type: select_one
+      options:
+      - Yes, I will present valid ID
+      - false
+      required: true
+    - id: 22
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Do you agree to delivery terms?
+      type: select_one
+      options:
+      - Yes, I agree to all terms
+      - false
+      required: true
+    - id: 23
+      name: promotional_code
+      label: Promotional Code
+      hint: Enter discount code if any
+      type: text
+      options: []
+      required: false

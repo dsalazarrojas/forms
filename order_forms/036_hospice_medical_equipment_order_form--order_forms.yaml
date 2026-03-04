@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Medical Equipment Order Form
+    pages:
+    - id: 1
+      name: order_form_1
+      label: Order Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patientName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: equipment_type
+      label: equipmentType
+      hint: null
+      type: select_one
+      options:
+      - Oxygen
+      - CPAP
+      - BiPAP
+      - Vent
+      - Nebulizer
+      - Other
+      required: false
+    - id: 4
+      name: equipment_count
+      label: equipmentCount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: delivery_date
+      label: deliveryDate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_time
+      label: deliveryTime
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: contact_name
+      label: contactName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: contactPhone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_requests
+      label: specialRequests
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Medical Supplies
+      - Delivery
+      - Setup
+      required: false
+    - id: 12
+      name: special_requests_2
+      label: specialRequests_2
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Setup
+      - Delivery
+      required: false
+    - id: 13
+      name: medical_supplies
+      label: medicalSupplies
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Oxygen Tanks
+      - Oxygen Regulators
+      - Oxygen Sensors
+      - CPAP Machines
+      - BiPAP Machines
+      - Nebulizers
+      - Vents
+      required: false
+    - id: 14
+      name: delivery_instructions
+      label: deliveryInstructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_supplies_2
+      label: medicalSupplies_2
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Oxygen Tanks
+      - Oxygen Regulators
+      - Oxygen Sensors
+      - CPAP Machines
+      - BiPAP Machines
+      - Nebulizers
+      - Vents
+      required: false
+    - id: 16
+      name: medical_supplies_3
+      label: medicalSupplies_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: order_status
+      label: orderStatus
+      hint: null
+      type: select_one
+      options:
+      - In Process
+      - Complete
+      - Cancelled
+      required: false
+    - id: 19
+      name: delivery_status
+      label: deliveryStatus
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 20
+      name: equipment_status
+      label: equipmentStatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Lost
+      required: false
+    - id: 21
+      name: notes_2
+      label: notes_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_staff
+      label: medicalStaff
+      hint: null
+      type: select_multiple
+      options:
+      - RN
+      - LPN
+      - CNA
+      - Other
+      required: false
+    - id: 23
+      name: delivery_date_2
+      label: deliveryDate_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: medical_supplies_4
+      label: medicalSupplies_4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: delivery_time_2
+      label: deliveryTime_2
+      hint: null
+      type: time
+      options: []
+      required: false

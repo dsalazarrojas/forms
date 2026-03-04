@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: T Shirt Deposit Order Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: t_shirt_color
+      label: t-shirt color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: t_shirt_size
+      label: t-shirt size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - large
+      - x-large
+      required: true
+    - id: 6
+      name: t_shirt_style
+      label: t-shirt style
+      hint: null
+      type: select_multiple
+      options:
+      - round-neck
+      - crew-neck
+      required: true
+    - id: 7
+      name: deposit
+      label: deposit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - credit-card
+      - paypal
+      required: true
+    - id: 9
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: true

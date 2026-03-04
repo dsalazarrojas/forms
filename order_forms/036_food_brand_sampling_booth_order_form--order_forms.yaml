@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Brand Sampling Booth Order Form
+    pages:
+    - id: 1
+      name: vendor_request
+      label: Vendors Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: booth_placement
+      label: Booth Placement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: sampling_items
+      label: Sampling Items
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: sampling_dates
+      label: Sampling Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vendor_contact
+      label: Vendor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_team
+      label: Event Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booth_size
+      label: Booth Size
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: sampling_items_notes
+      label: Sampling Items Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_requirements
+      label: Vendor Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

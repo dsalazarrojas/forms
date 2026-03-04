@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Face Mask Customization Order Form
+    pages:
+    - id: 1
+      name: mask_colors
+      label: Select Mask Colors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: mask_sizes
+      label: Choose Mask Size
+      hint: Select a size to fit your face
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: design_pattern
+      label: Select Design Pattern
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

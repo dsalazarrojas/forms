@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: nail_stripes_invoice_request_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_info
+      label: Order Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stripe_info
+      label: Stripe Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stripe_type
+      label: Stripe Type
+      hint: null
+      type: select_one
+      options:
+      - Nail
+      - Nail
+      - Nail
+      required: false
+    - id: 6
+      name: stripe_color
+      label: Stripe Color
+      hint: null
+      type: select_multiple
+      options:
+      - Pink
+      - Blue
+      - Yellow
+      required: false
+    - id: 7
+      name: stripe_size
+      label: Stripe Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: stripe_pattern
+      label: Stripe Pattern
+      hint: null
+      type: select_one
+      options:
+      - Striped
+      - Solid
+      - Striped
+      required: false
+    - id: 9
+      name: stripe_width
+      label: Stripe Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: stripe_length
+      label: Stripe Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: stripe_quantity
+      label: Stripe Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: stripe_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: stripe_total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Completed
+      required: false
+    - id: 17
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: stripe_note
+      label: Stripe Note
+      hint: null
+      type: note
+      options: []
+      required: false

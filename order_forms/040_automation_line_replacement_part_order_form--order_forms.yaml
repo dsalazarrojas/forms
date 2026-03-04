@@ -1,0 +1,459 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Line Replacement Part Order Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automation Line Replacement Part Order Form
+      hint: Order replacement parts for your automation line
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_info
+      label: Requester Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Maintenance
+      - Engineering
+      - Operations
+      - Production
+      - Quality
+      - Other
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_info
+      label: Company Information
+      hint: Your company details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_name
+      label: Facility Name
+      hint: Which facility
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_address
+      label: Facility Address
+      hint: Shipping address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 15
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: automation_line_info
+      label: Automation Line Information
+      hint: Details about the line
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: line_id
+      label: Line ID
+      hint: Line identifier
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: line_name
+      label: Line Name
+      hint: Line name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_type
+      label: Equipment Type
+      hint: What type of equipment
+      type: select_one
+      options:
+      - Conveyor System
+      - Robotic Arm
+      - PLC Controller
+      - HMI Panel
+      - Sensor Array
+      - Motor Drive
+      - Pneumatic System
+      - Hydraulic System
+      - Vision System
+      - Other
+      required: true
+    - id: 20
+      name: equipment_manufacturer
+      label: Equipment Manufacturer
+      hint: Brand name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: equipment_model
+      label: Equipment Model
+      hint: Model number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: equipment_serial
+      label: Equipment Serial Number
+      hint: Serial number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: part_info
+      label: Part Information
+      hint: Details about the part
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: part_name
+      label: Part Name
+      hint: Name of part
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: part_number
+      label: Part Number
+      hint: OEM part number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: part_description
+      label: Part Description
+      hint: Describe the part
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: part_type
+      label: Part Type
+      hint: Category
+      type: select_one
+      options:
+      - Electrical Component
+      - Mechanical Component
+      - Pneumatic Component
+      - Hydraulic Component
+      - Sensor
+      - Controller
+      - Motor
+      - Bearing
+      - Belt or Chain
+      - Filter
+      - Other
+      required: true
+    - id: 28
+      name: quantity_needed
+      label: Quantity Needed
+      hint: How many
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: Each box etc
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Pack
+      - Set
+      - Kit
+      - Roll
+      - Foot
+      - Meter
+      required: true
+    - id: 30
+      name: alternative_parts
+      label: Alternative Part Numbers
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: part_condition
+      label: Part Condition Required
+      hint: What condition
+      type: select_one
+      options:
+      - New OEM
+      - New Aftermarket
+      - Refurbished
+      - Used
+      - Any Condition
+      required: true
+    - id: 32
+      name: urgency
+      label: Order Urgency
+      hint: How soon needed
+      type: select_one
+      options:
+      - Emergency - Same Day
+      - Urgent - 24 Hours
+      - High - 3 Days
+      - Normal - 1 Week
+      - Low - 2 Weeks
+      - Planning - No Rush
+      required: true
+    - id: 33
+      name: reason_for_replacement
+      label: Reason for Replacement
+      hint: Why replacing
+      type: select_one
+      options:
+      - Equipment Failure
+      - Preventive Maintenance
+      - Wear and Tear
+      - Upgrade
+      - Damage
+      - Obsolete
+      - Other
+      required: true
+    - id: 34
+      name: failure_description
+      label: Failure Description
+      hint: Describe the failure
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: downtime_impact
+      label: Downtime Impact
+      hint: Is line down
+      type: select_one
+      options:
+      - Yes Line Down
+      - Yes Reduced Capacity
+      - No Still Running
+      - No Spare Available
+      required: true
+    - id: 36
+      name: shipping_info
+      label: Shipping Information
+      hint: How to ship
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: shipping_method
+      label: Shipping Method
+      hint: How to ship
+      type: select_one
+      options:
+      - Standard Ground
+      - Expedited 2-Day
+      - Overnight
+      - Same Day
+      - Will Call Pickup
+      required: true
+    - id: 38
+      name: shipping_account
+      label: Shipping Account Number
+      hint: FedEx UPS etc
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: special_instructions
+      label: Special Shipping Instructions
+      hint: Any instructions
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: receiving_contact
+      label: Receiving Contact
+      hint: Who will receive
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: receiving_phone
+      label: Receiving Phone
+      hint: Their number
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: pricing_info
+      label: Pricing Information
+      hint: Budget details
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: budget_code
+      label: Budget Code
+      hint: Internal code
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: cost_center
+      label: Cost Center
+      hint: Your cost center
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: purchase_order
+      label: Purchase Order Required
+      hint: Is PO needed
+      type: select_one
+      options:
+      - Yes Will Provide
+      - Yes Attached
+      - false
+      required: true
+    - id: 46
+      name: po_number
+      label: PO Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Expected cost
+      type: select_one
+      options:
+      - Under $100
+      - $100-$500
+      - $500-$1000
+      - $1000-$5000
+      - Over $5000
+      required: false
+    - id: 48
+      name: vendor_preference
+      label: Vendor Preference
+      hint: Preferred vendor
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: requester_signature
+      label: Requester Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: request_date
+      label: Request Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 52
+      name: approval_required
+      label: Approval Required
+      hint: Does this need approval
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 53
+      name: approver_name
+      label: Approver Name
+      hint: Who should approve
+      type: text
+      options: []
+      required: false

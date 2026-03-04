@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: purchase_and_reimbursement_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: Employee's details
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_job_title
+      label: employee job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vendor_name
+      label: vendor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vendor_address
+      label: vendor address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mode_of_payment
+      label: Mode of Payment
+      hint: Select a payment method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: products_involved
+      label: Products Involved
+      hint: List the products involved
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reimbursement_note
+      label: Reimbursement Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: uploaded_reimbursement_note
+      label: Uploaded Reimbursement Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: prepared_by
+      label: Prepared By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prepared_date
+      label: Prepared Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: prepared_time
+      label: Prepared Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vendor_email
+      label: vendor email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: vendor_phone
+      label: vendor phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: employee_email
+      label: employee email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: employee_phone
+      label: employee phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: employee_work_phone
+      label: employee work phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: uploaded_vendor_receipt
+      label: Uploaded Vendor Receipt
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: uploaded_employee_receipt
+      label: Uploaded Employee Receipt
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: uploaded_payment_receipt
+      label: Uploaded Payment Receipt
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: uploaded_reimbursement_note
+      label: Uploaded Reimbursement Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: uploaded_request_form
+      label: Uploaded Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: uploaded_supporting_evidence
+      label: Uploaded Supporting Evidence
+      hint: null
+      type: text
+      options: []
+      required: true

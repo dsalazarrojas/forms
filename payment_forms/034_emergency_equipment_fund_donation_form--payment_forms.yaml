@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_equipment_fund_donation_form
+    pages:
+    - id: 1
+      name: emergency_equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Emergency Equipment
+      - Other
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Card'', ''value'': ''card''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

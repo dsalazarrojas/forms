@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac_system_order_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Order Date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: heating_type
+      label: Heating Type
+      hint: Heating Type
+      type: select_one
+      options:
+      - AC Unit
+      - Furnace
+      - Heat Pump
+      required: false
+    - id: 7
+      name: cooling_type
+      label: Cooling Type
+      hint: Cooling Type
+      type: select_one
+      options:
+      - AC Unit
+      - Furnace
+      - Heat Pump
+      required: false
+    - id: 8
+      name: order_details
+      label: Order Details
+      hint: Order Details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: Payment Method
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Check
+      required: false
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: Total Cost
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customer_comments
+      label: Customer Comments
+      hint: Customer Comments
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Assigned Tool
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: Created By
+      type: text
+      options: []
+      required: false

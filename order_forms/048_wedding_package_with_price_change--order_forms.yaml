@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Package With Price Change
+    pages:
+    - id: 1
+      name: wedding_package_with_price_change_client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: wedding_package_with_price_change_package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wedding_package_with_price_change_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: wedding_package_with_price_change_services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: wedding_package_with_price_change_services_description
+      label: Services Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wedding_package_with_price_change_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true

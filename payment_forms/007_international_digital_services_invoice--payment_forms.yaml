@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_digital_services_invoice
+    pages:
+    - id: 1
+      name: billing_info
+      label: billing_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: billing_amount
+      label: billing_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: billing_status
+      label: billing_status
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 8
+      name: billing_date
+      label: billing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: billing_time
+      label: billing_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: custom_fields
+      label: custom_fields
+      hint: null
+      type: select_multiple
+      options:
+      - option7
+      - option8
+      - option9
+      required: false

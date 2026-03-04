@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_ticket_payment_form
+    pages:
+    - id: 1
+      name: ticket_details
+      label: ticket_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ticket_price
+      label: ticket_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false

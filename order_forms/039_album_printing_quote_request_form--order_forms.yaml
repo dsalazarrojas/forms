@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Album Printing Quote Request Form
+    pages:
+    - id: 1
+      name: section_business_info
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: photographer_studio_name
+      label: Photographer or Studio Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_album_specs
+      label: -- Album Specifications --
+      hint: Provide details for each album in your request
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: album_size
+      label: Preferred Album Size
+      hint: null
+      type: select_one
+      options:
+      - 8x8 inches
+      - 10x10 inches
+      - 12x12 inches
+      - 10x14 inches (Landscape)
+      - Custom (Specify in notes)
+      required: true
+    - id: 6
+      name: number_of_spreads
+      label: Estimated Number of Spreads
+      hint: 1 spread = 2 pages
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cover_material_preference
+      label: Cover Material Preference
+      hint: null
+      type: select_one
+      options:
+      - Genuine Leather
+      - Faux Leather (Vegan)
+      - Linen/Fabric
+      - Photo Wrap (Hardcover)
+      - Acrylic/Crystal Cover
+      required: true
+    - id: 8
+      name: paper_type_request
+      label: Paper Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Photo Paper
+      - Premium Thick Layflat
+      - Fine Art Paper
+      - Cotton Rag
+      required: true
+    - id: 9
+      name: quantity_requested
+      label: Quantity of Albums
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: embossing_debossing
+      label: Custom Embossing or Debossing?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Studio Logo
+      - Client Names/Date
+      - Both
+      required: true
+    - id: 11
+      name: color_preference
+      label: Preferred Color for Cover/Lining
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_timeline
+      label: -- Timeline and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: deadline_requirement
+      label: Do you have a specific deadline?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: shipping_destination
+      label: Shipping Destination (Zip Code or City)
+      hint: For calculating shipping costs
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: budget_per_unit
+      label: Target Budget per Album
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_requests_quote
+      label: Additional Customization Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sample_album_inquiry
+      label: Are you interested in a sample album discount?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

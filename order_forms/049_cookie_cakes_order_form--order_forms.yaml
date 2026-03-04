@@ -1,0 +1,320 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cookie Cakes Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pickup_delivery_date
+      label: Pickup or Delivery Date
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 8
+      name: section_cookie_cake_selection
+      label: -- Cookie Cake Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: cookie_cake_size
+      label: Cookie Cake Size
+      hint: null
+      type: select_one
+      options:
+      - Small - 8 inch
+      - Medium - 10 inch
+      - Large - 12 inch
+      - Extra Large - 14 inch
+      - Custom Size
+      required: true
+    - id: 10
+      name: cookie_flavor
+      label: Cookie Flavor
+      hint: Base flavor for your cookie cake
+      type: select_one
+      options:
+      - Chocolate Chip
+      - Double Chocolate
+      - Sugar Cookie
+      - Red Velvet
+      - Oatmeal Raisin
+      - Peanut Butter
+      - Snickerdoodle
+      - Birthday Cake
+      - Other
+      required: true
+    - id: 11
+      name: frosting_type
+      label: Frosting Type
+      hint: null
+      type: select_one
+      options:
+      - Buttercream
+      - Cream Cheese
+      - Chocolate Ganache
+      - Royal Icing
+      - Whipped Cream
+      - No Frosting
+      required: true
+    - id: 12
+      name: frosting_flavor
+      label: Frosting Flavor
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      - Lemon
+      - Cream Cheese
+      - Mocha
+      - Other
+      required: true
+    - id: 13
+      name: section_customization
+      label: -- Customization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: occasion
+      label: Occasion
+      hint: What is this for
+      type: select_one
+      options:
+      - Birthday
+      - Anniversary
+      - Graduation
+      - Baby Shower
+      - Wedding
+      - Holiday
+      - Thank You
+      - Just Because
+      - Other
+      required: true
+    - id: 15
+      name: message_text
+      label: Message to Write
+      hint: Text to decorate on cake
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: message_color
+      label: Message Color
+      hint: Color of writing
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Red
+      - Blue
+      - Pink
+      - Purple
+      - Green
+      - Gold
+      - Silver
+      - Rainbow
+      required: false
+    - id: 17
+      name: border_design
+      label: Border Design
+      hint: null
+      type: select_one
+      options:
+      - Simple Border
+      - Scalloped Border
+      - Shell Border
+      - Rope Border
+      - No Border
+      - Custom
+      required: false
+    - id: 18
+      name: border_color
+      label: Border Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Chocolate
+      - Pink
+      - Blue
+      - Red
+      - Purple
+      - Green
+      - Rainbow
+      - Other
+      required: false
+    - id: 19
+      name: section_decorations
+      label: -- Decorations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: sprinkles_included
+      label: Include Sprinkles
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: sprinkle_type
+      label: Sprinkle Type
+      hint: If yes
+      type: select_one
+      options:
+      - Rainbow Jimmies
+      - Confetti Sprinkles
+      - Nonpareils
+      - Sanding Sugar
+      - Chocolate Chips
+      - Other
+      required: false
+    - id: 22
+      name: edible_image
+      label: Include Edible Image
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: edible_image_file
+      label: Upload Image
+      hint: If yes - provide image
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_decorations
+      label: Additional Decorations
+      hint: Describe any special decorations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_quantity
+      label: -- Quantity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: quantity
+      label: Quantity
+      hint: Number of cookie cakes
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address if delivery
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Gift Card
+      required: true
+    - id: 32
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: allergen_info
+      label: Allergen Information
+      hint: Any allergies we should know
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

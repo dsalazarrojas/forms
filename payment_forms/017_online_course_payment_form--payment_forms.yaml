@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Payment Form
+    pages:
+    - id: 1
+      name: course_name
+      label: course name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bank transfer''}'
+      - '{''label'': ''Credit card''}'
+      - '{''label'': ''PayPal''}'
+      required: false
+    - id: 3
+      name: amount_paid
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_email
+      label: instructor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: instructor_phone
+      label: instructor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: course_start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: course_end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: course_status
+      label: course status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 13
+      name: course_id
+      label: course id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: course_type
+      label: course type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      - '{''label'': ''Hybrid''}'
+      required: false
+    - id: 15
+      name: course_level
+      label: course level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Beginner''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 16
+      name: course_description
+      label: course description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_comments
+      label: student comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: instructor_comments
+      label: instructor comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: course_price
+      label: course price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Refunded''}'
+      required: false
+    - id: 21
+      name: student_address
+      label: student address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: instructor_address
+      label: instructor address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_image
+      label: course image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: instructor_availability
+      label: instructor availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_completion_date
+      label: form completion date
+      hint: null
+      type: date
+      options: []
+      required: false

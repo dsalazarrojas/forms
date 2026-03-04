@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Security Rail Order Form
+    pages:
+    - id: 1
+      name: retail_store
+      label: Retail Store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: select_multiple
+      options:
+      - Shipping to Address
+      - Shipping to City
+      - Shipping to State
+      - Shipping to ZIP
+      required: false
+    - id: 3
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Cash
+      - Other
+      required: false
+    - id: 5
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_multiple
+      options:
+      - Ground
+      - Air
+      - Other
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - PayPal
+      - Other
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

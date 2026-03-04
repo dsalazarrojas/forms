@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guitar Model Pre Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: model_selection
+      label: Model selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: model_description
+      label: Model description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: deposit
+      label: Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

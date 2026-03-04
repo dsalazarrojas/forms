@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: floral_arrangement_billing_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full-time Florist'', ''value'': ''Full-time Florist''}'
+      - '{''id'': 2, ''name'': ''Part-time Florist'', ''value'': ''Part-time Florist''}'
+      required: false
+    - id: 3
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: materials_cost
+      label: Materials Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: taxes
+      label: Taxes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online Payment'', ''value'': ''Online Payment''}'
+      - '{''id'': 2, ''name'': ''Offline Payment'', ''value'': ''Offline Payment''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

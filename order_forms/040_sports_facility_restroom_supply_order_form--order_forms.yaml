@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Facility Restroom Supply Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restroom_supplies
+      label: restroom_supplies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false

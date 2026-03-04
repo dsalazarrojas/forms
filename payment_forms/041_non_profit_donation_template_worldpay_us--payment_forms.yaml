@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: non_profit_donation_template_worldpay_us
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''once''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''quarterly''}'
+      - '{''value'': ''annually''}'
+      required: false
+    - id: 3
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''one_time_gift''}'
+      - '{''value'': ''recurring_donor''}'
+      - '{''value'': ''recurring_donation''}'
+      required: false
+    - id: 4
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''quarterly''}'
+      - '{''value'': ''annually''}'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exp_month
+      label: Exp. Month
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      - '{''value'': 6}'
+      - '{''value'': 7}'
+      - '{''value'': ''08''}'
+      - '{''value'': ''09''}'
+      - '{''value'': 10}'
+      - '{''value'': 11}'
+      - '{''value'': 12}'
+      required: false
+    - id: 17
+      name: exp_year
+      label: Exp. Year
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 2024}'
+      - '{''value'': 2025}'
+      - '{''value'': 2026}'
+      - '{''value'': 2027}'
+      - '{''value'': 2028}'
+      - '{''value'': 2029}'
+      - '{''value'': 2030}'
+      - '{''value'': 2031}'
+      - '{''value'': 2032}'
+      required: false
+    - id: 18
+      name: exp_month_day
+      label: Exp. Month-Day
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      - '{''value'': 6}'
+      - '{''value'': 7}'
+      - '{''value'': 8}'
+      - '{''value'': 9}'
+      - '{''value'': 10}'
+      - '{''value'': 11}'
+      - '{''value'': 12}'
+      - '{''value'': 13}'
+      - '{''value'': 14}'
+      - '{''value'': 15}'
+      - '{''value'': 16}'
+      - '{''value'': 17}'
+      - '{''value'': 18}'
+      - '{''value'': 19}'
+      - '{''value'': 20}'
+      - '{''value'': 21}'
+      - '{''value'': 22}'
+      - '{''value'': 23}'
+      - '{''value'': 24}'
+      - '{''value'': 25}'
+      - '{''value'': 26}'
+      - '{''value'': 27}'
+      - '{''value'': 28}'
+      - '{''value'': 29}'
+      - '{''value'': 30}'
+      - '{''value'': 31}'
+      required: false
+    - id: 19
+      name: cardholder_name
+      label: Cardholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: custom_fields
+      label: Custom Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_processor_fee
+      label: Payment Processor Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_dollar_amount
+      label: Total Dollar Amount
+      hint: null
+      type: number
+      options: []
+      required: false

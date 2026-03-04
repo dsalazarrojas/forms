@@ -1,0 +1,307 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Training Manual Printing Order Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: School, clinic, or organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Which department is ordering
+      type: select_one
+      options:
+      - Athletics
+      - Sports Medicine
+      - Athletic Training
+      - Education
+      - Other
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email for order communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for order questions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need the manuals
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: manual_title
+      label: Manual Title
+      hint: Title of manual to print
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manual_type
+      label: Manual Type
+      hint: Type of manual
+      type: select_one
+      options:
+      - Training Procedures Manual
+      - Emergency Care Manual
+      - Rehabilitation Guide
+      - Sports Medicine Reference
+      - Custom Manual
+      - Existing Manual Reprint
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Number of copies to print
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: page_count
+      label: Estimated Page Count
+      hint: Number of pages per manual
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: paper_size
+      label: Paper Size
+      hint: Preferred paper size
+      type: select_one
+      options:
+      - Letter (8.5 x 11)
+      - Legal (8.5 x 14)
+      - A4
+      - Half Letter (5.5 x 8.5)
+      - Custom Size
+      required: true
+    - id: 13
+      name: paper_type
+      label: Paper Type
+      hint: Preferred paper quality
+      type: select_one
+      options:
+      - Standard Copy Paper
+      - Premium Bond Paper
+      - Cardstock Cover
+      - Glossy Finish
+      - Matte Finish
+      required: true
+    - id: 14
+      name: color_options
+      label: Color Options
+      hint: Print color preference
+      type: select_one
+      options:
+      - Full Color Throughout
+      - Black and White Only
+      - Color Cover, B and W Inside
+      - Spot Color Only
+      required: true
+    - id: 15
+      name: binding_type
+      label: Binding Type
+      hint: How should manual be bound
+      type: select_one
+      options:
+      - Spiral Bound
+      - Saddle Stitched
+      - Perfect Bound
+      - Three-Hole Punched
+      - Comb Bound
+      - Wire-O Bound
+      required: true
+    - id: 16
+      name: cover_type
+      label: Cover Type
+      hint: Cover preference
+      type: select_one
+      options:
+      - Soft Cover
+      - Hard Cover
+      - Laminated Cover
+      - Cardstock Cover
+      - No Cover
+      required: true
+    - id: 17
+      name: cover_finish
+      label: Cover Finish
+      hint: Finish type for cover
+      type: select_one
+      options:
+      - Glossy
+      - Matte
+      - Soft Touch
+      - No Special Finish
+      required: false
+    - id: 18
+      name: tabs_dividers
+      label: Tabs and Dividers
+      hint: Include section dividers
+      type: select_one
+      options:
+      - Yes - Color Tabs
+      - Yes - White Tabs
+      - 'No'
+      required: false
+    - id: 19
+      name: customization_needed
+      label: Customization Needed
+      hint: Does manual need customization
+      type: select_one
+      options:
+      - No - Print As Is
+      - Yes - Add Organization Name
+      - Yes - Add Logo
+      - Yes - Custom Sections
+      required: true
+    - id: 20
+      name: logo_file
+      label: Logo File
+      hint: Upload logo or describe
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: content_source
+      label: Content Source
+      hint: Where will content come from
+      type: select_one
+      options:
+      - Provide Digital File
+      - Use Existing Template
+      - Need Content Created
+      - Update Previous Version
+      required: true
+    - id: 22
+      name: file_format
+      label: File Format
+      hint: Format of provided files
+      type: select_one
+      options:
+      - PDF
+      - Word Document
+      - InDesign
+      - Other
+      - Not Applicable
+      required: false
+    - id: 23
+      name: proof_required
+      label: Proof Required
+      hint: Do you need to review a proof
+      type: select_one
+      options:
+      - Yes - Email Proof
+      - Yes - Physical Proof
+      - No - Print Directly
+      required: true
+    - id: 24
+      name: unit_price
+      label: Estimated Unit Price
+      hint: Price per manual in USD
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_budget
+      label: Total Budget
+      hint: Total budget for order
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: shipping_method
+      label: Shipping Method
+      hint: How should order be delivered
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Pickup at Print Shop
+      - Local Delivery
+      required: true
+    - id: 27
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to ship
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: budget_code
+      label: Budget or Account Code
+      hint: For billing purposes
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Check
+      - Wire Transfer
+      - Net 30 Account
+      required: true
+    - id: 32
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: rush_order
+      label: Rush Order
+      hint: Is this a rush order
+      type: select_one
+      options:
+      - No - Standard Processing
+      - Yes - Rush Processing
+      required: true

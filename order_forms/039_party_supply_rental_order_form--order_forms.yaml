@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Supply Rental Order Form
+    pages:
+    - id: 1
+      name: party_supply_rental_order
+      label: party_supply_rental_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Balloons
+      - Tablecloths
+      - Napkins
+      required: false
+    - id: 3
+      name: items_needed
+      label: items_needed
+      hint: null
+      type: select_multiple
+      options:
+      - Balloons
+      - Tablecloths
+      - Napkins
+      required: true
+    - id: 4
+      name: party_date
+      label: party_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: party_time
+      label: party_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: party_location
+      label: party_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: party_description
+      label: party_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Cash
+      required: false
+    - id: 12
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_services
+      label: additional_services
+      hint: null
+      type: select_multiple
+      options:
+      - Balloons
+      - Tablecloths
+      - Napkins
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: back
+      label: back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next
+      label: next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: prev
+      label: previous
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_cancel
+      label: form_cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_back
+      label: form_back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_next
+      label: form_next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_prev
+      label: form_prev
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_done
+      label: form_done
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sims Files Purchase Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_info
+      label: Purchase Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: delivery
+      label: Delivery
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - PayPal
+      - Other
+      required: true
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_confirm
+      label: Delivery Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: purchase_confirm
+      label: Purchase Confirm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: form_owner
+      label: Form Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: purchase_status
+      label: None
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Delivered
+      - Cancelled
+      required: true
+    - id: 17
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: purchase_reason
+      label: Purchase Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_id
+      label: Payment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: delivery_status
+      label: None
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Delivered
+      - Cancelled
+      required: true
+    - id: 24
+      name: form_created
+      label: Form Created
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_updated
+      label: Form Updated
+      hint: null
+      type: text
+      options: []
+      required: false

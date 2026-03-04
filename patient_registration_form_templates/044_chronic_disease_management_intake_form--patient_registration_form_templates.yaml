@@ -1,0 +1,365 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Management Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Prefer to self-describe
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For appointment reminders
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - Mail
+      required: true
+    - id: 7
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: address_line1
+      label: Street Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_address
+      label: -- Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Your insurance company
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Member ID number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: group_number
+      label: Group Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Name of your PCP
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: pcp_phone
+      label: PCP Phone Number
+      hint: Doctor office phone
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_insurance
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: chronic_conditions
+      label: Chronic Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Type 1 Diabetes
+      - Type 2 Diabetes
+      - Hypertension
+      - Heart Disease
+      - Heart Failure
+      - COPD
+      - Asthma
+      - Chronic Kidney Disease
+      - Arthritis
+      - Depression
+      - Anxiety
+      - Bipolar Disorder
+      - Obesity
+      - High Cholesterol
+      - Thyroid Disorder
+      - Sleep Apnea
+      - Other
+      required: true
+    - id: 20
+      name: primary_condition
+      label: Primary Condition
+      hint: Main condition for management
+      type: select_one
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart Disease
+      - COPD
+      - Mental Health
+      - Multiple Conditions
+      - Other
+      required: true
+    - id: 21
+      name: condition_duration
+      label: How Long Diagnosed
+      hint: Time since first diagnosis
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 22
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List all current medications
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medication_allergies
+      label: Medication Allergies
+      hint: List any drug allergies
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: other_allergies
+      label: Other Allergies
+      hint: Food, environmental, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: previous_hospitalizations
+      label: Previous Hospitalizations
+      hint: In the past year
+      type: select_one
+      options:
+      - None
+      - 1 time
+      - 2-3 times
+      - 4 or more times
+      required: true
+    - id: 27
+      name: section_medications
+      label: -- Medications and Allergies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: smoking_status
+      label: Smoking Status
+      hint: Current smoking status
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      - Trying to quit
+      required: true
+    - id: 29
+      name: alcohol_use
+      label: Alcohol Use
+      hint: How often do you drink
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Daily
+      required: true
+    - id: 30
+      name: physical_activity
+      label: Physical Activity
+      hint: How active are you
+      type: select_one
+      options:
+      - Sedentary
+      - Light activity
+      - Moderate activity
+      - Very active
+      required: true
+    - id: 31
+      name: section_lifestyle
+      label: -- Lifestyle Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: How are they related to you
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 35
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: main_health_concern
+      label: Main Health Concern
+      hint: What brings you to this program
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: health_goals
+      label: Health Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: barriers_to_care
+      label: Barriers to Care
+      hint: What makes managing health difficult
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: section_goals
+      label: -- Goals and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: consent_to_treat
+      label: Consent to Treat
+      hint: I consent to treatment
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 41
+      name: privacy_acknowledgment
+      label: Privacy Acknowledgment
+      hint: I understand my privacy rights
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need more info
+      required: true
+    - id: 42
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

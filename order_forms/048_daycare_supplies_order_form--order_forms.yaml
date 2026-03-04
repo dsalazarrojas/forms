@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Supplies Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Details
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 2
+      name: delivery_choice
+      label: Select Delivery
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      required: false
+    - id: 3
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: item_id
+      label: Item
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 12
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: delivery_choice_2
+      label: Select Delivery
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: date_of_order
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_of_order
+      label: Time of Order
+      hint: null
+      type: time
+      options: []
+      required: false

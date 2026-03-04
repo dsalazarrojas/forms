@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apprenticeship Support Fund Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_info
+      label: Donation Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_type
+      label: Type of Donation
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Monthly Recurring
+      - Annual
+      required: true
+    - id: 9
+      name: donation_designation
+      label: Donation Designation
+      hint: null
+      type: select_one
+      options:
+      - General Fund
+      - Specific Program
+      - Specific Apprentice
+      - Scholarships
+      required: false
+    - id: 10
+      name: program_area
+      label: Program Area of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Wire Transfer
+      required: true
+    - id: 12
+      name: tax_receipt
+      label: Request Tax Receipt
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: recognition
+      label: How Would You Like to Be Recognized
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client History Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: For medical records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 7
+      name: blood_type
+      label: Blood Type
+      hint: If known
+      type: select_one
+      options:
+      - A Positive
+      - A Negative
+      - B Positive
+      - B Negative
+      - AB Positive
+      - AB Negative
+      - O Positive
+      - O Negative
+      - Not Sure
+      required: false
+    - id: 8
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: Your regular doctor
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: past_medical_conditions
+      label: Past Medical Conditions
+      hint: All diagnosed conditions
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: chronic_conditions
+      label: Chronic Conditions
+      hint: Long-term health issues
+      type: select_multiple
+      options:
+      - Diabetes Type 1
+      - Diabetes Type 2
+      - Hypertension
+      - Heart Disease
+      - Asthma
+      - COPD
+      - Arthritis
+      - Thyroid Disorder
+      - Kidney Disease
+      - Liver Disease
+      - Cancer
+      - Mental Health Condition
+      - None
+      - Other
+      required: true
+    - id: 12
+      name: infectious_diseases
+      label: History of Infectious Diseases
+      hint: Hepatitis, TB, HIV, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hospitalizations
+      label: Hospitalizations
+      hint: List with dates and reasons
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: surgeries
+      label: Surgeries
+      hint: List with dates and types
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: injuries_accidents
+      label: Significant Injuries or Accidents
+      hint: Major trauma, fractures, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: Include dosages and frequency
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: past_medications
+      label: Past Medications of Note
+      hint: Previously taken medications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: drug_allergies
+      label: Drug Allergies
+      hint: Medication allergies and reactions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: food_allergies
+      label: Food Allergies
+      hint: Food allergies and reactions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: environmental_allergies
+      label: Environmental Allergies
+      hint: Pollen, dust, pets, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: family_history
+      label: Family Medical History
+      hint: Parents, siblings, children
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: genetic_conditions
+      label: Genetic Conditions in Family
+      hint: Hereditary conditions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: immunizations
+      label: Immunization History
+      hint: Vaccines received
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: smoking_history
+      label: Smoking History
+      hint: Pack years if applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: alcohol_history
+      label: Alcohol Use History
+      hint: Current and past use
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: drug_use_history
+      label: Recreational Drug Use History
+      hint: Current and past use
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: occupational_history
+      label: Occupational History
+      hint: Jobs with health exposures
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: travel_history
+      label: Recent Travel History
+      hint: International travel past year
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: reproductive_history
+      label: Reproductive History
+      hint: Pregnancies, births, etc.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: mental_health_history
+      label: Mental Health History
+      hint: Depression, anxiety, therapy
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 32
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: true

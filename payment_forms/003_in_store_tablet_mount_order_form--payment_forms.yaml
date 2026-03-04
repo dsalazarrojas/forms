@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Store Tablet Mount Order Form
+    pages:
+    - id: 1
+      name: retailer
+      label: Retailer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tablet_mount_quantity
+      label: Tablet Mount Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Other
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit
+      - Debit
+      - Other
+      required: false
+    - id: 7
+      name: tablet_mount_type
+      label: Tablet Mount Type
+      hint: null
+      type: select_one
+      options:
+      - Wall mount
+      - Floor stand
+      - Table top
+      required: false
+    - id: 8
+      name: tablet_mount_color
+      label: Tablet Mount Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Gray
+      - Other
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: retailer_email
+      label: Retailer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: retailer_phone
+      label: Retailer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

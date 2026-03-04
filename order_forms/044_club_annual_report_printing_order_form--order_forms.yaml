@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Annual Report Printing Order Form
+    pages:
+    - id: 1
+      name: club_name
+      label: Club Name
+      hint: Name of your club or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_document
+      label: -- Document Details --
+      hint: Information about your annual report
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: report_year
+      label: Report Year
+      hint: What year is this report for
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: report_title
+      label: Report Title
+      hint: Title of the annual report
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: document_format
+      label: Document Format
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - Word
+      - InDesign
+      - Other
+      required: true
+    - id: 9
+      name: section_printing
+      label: -- Printing Specifications --
+      hint: Print options and quantities
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Number of Copies
+      hint: How many copies to print
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: page_count
+      label: Approximate Page Count
+      hint: Number of pages in document
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: color_printing
+      label: Color or Black and White
+      hint: null
+      type: select_one
+      options:
+      - Full color
+      - Black and white
+      - Mixed
+      required: true
+    - id: 13
+      name: paper_type
+      label: Paper Type
+      hint: null
+      type: select_one
+      options:
+      - Standard white
+      - Premium white
+      - Colored paper
+      - Glossy stock
+      - Other
+      required: true
+    - id: 14
+      name: section_binding
+      label: -- Binding and Finishing --
+      hint: How to bind and finish
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: binding_type
+      label: Binding Type
+      hint: null
+      type: select_one
+      options:
+      - Stapled
+      - Spiral bound
+      - Perfect bound
+      - Saddle stitched
+      - Other
+      required: true
+    - id: 16
+      name: covers
+      label: Covers
+      hint: null
+      type: select_one
+      options:
+      - No covers
+      - Card stock covers
+      - Laminated covers
+      - Heavy duty covers
+      required: true
+    - id: 17
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: Where and when to deliver
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to send the printed reports
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: delivery_date
+      label: Needed By Date
+      hint: When do you need the reports
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Local pickup
+      - Other
+      required: true
+    - id: 21
+      name: section_cost
+      label: -- Cost and Payment --
+      hint: Pricing information
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Approximate printing cost
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Invoice
+      - Credit card
+      - Check
+      - Cash
+      - Other
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_confirmation
+      label: I confirm this order information is correct
+      hint: null
+      type: select_one
+      options:
+      - Yes, confirmed
+      - false
+      required: true

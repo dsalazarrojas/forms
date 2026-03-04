@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dialysis Patient Discharge Form
+    pages:
+    - id: 1
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_given_name
+      label: Patient Given Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pulse
+      label: Pulse
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Allergie
+      - Allergic Reaction
+      required: true
+    - id: 8
+      name: medication_current
+      label: Current Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Thinners
+      - Insulin
+      - Other
+      required: true
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - Cardiac
+      - Pulmonary
+      - Renal
+      - Other
+      required: true
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: patient_dialyser_model
+      label: Dialyser Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false

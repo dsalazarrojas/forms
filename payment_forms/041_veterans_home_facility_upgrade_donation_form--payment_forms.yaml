@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans' Home Facility Upgrade Donation Form
+    pages:
+    - id: 1
+      name: base_info
+      label: Base Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_info
+      label: Donation Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recurring_donation
+      label: Recurring Donation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: donation_frequency_details
+      label: Donation Frequency Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: donation_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: donation_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_donation
+      label: Additional Donation Info
+      hint: null
+      type: note
+      options: []
+      required: false

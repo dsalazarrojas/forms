@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_donation_form
+    pages:
+    - id: 1
+      name: stripe_donation_form_page_1
+      label: Enter your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: stripe_donation_form_page_2
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stripe_donation_form_page_3
+      label: What would you like to pay for?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stripe_donation_form_page_4
+      label: Additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: stripe_donation_form_page_5
+      label: Payment info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stripe_donation_form_page_6
+      label: Stripe payment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 5, ''value'': 5}'
+      - '{''label'': 10, ''value'': 10}'
+      required: false
+    - id: 7
+      name: stripe_donation_form_page_7
+      label: Stripe token
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 5, ''value'': 5}'
+      - '{''label'': 10, ''value'': 10}'
+      required: false
+    - id: 8
+      name: stripe_donation_form_page_8
+      label: Stripe amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: stripe_donation_form_page_9
+      label: Stripe currency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USD'', ''value'': ''USD''}'
+      - '{''label'': ''EUR'', ''value'': ''EUR''}'
+      required: false
+    - id: 10
+      name: stripe_donation_form_page_10
+      label: Stripe payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''card'', ''value'': ''card''}'
+      - '{''label'': ''bank'', ''value'': ''bank''}'
+      required: false
+    - id: 11
+      name: stripe_donation_form_page_11
+      label: Stripe payment status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''pending'', ''value'': ''pending''}'
+      - '{''label'': ''succeeded'', ''value'': ''succeeded''}'
+      - '{''label'': ''failed'', ''value'': ''failed''}'
+      required: false
+    - id: 12
+      name: stripe_donation_form_page_12
+      label: Stripe payment message
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''success'', ''value'': ''success''}'
+      - '{''label'': ''error'', ''value'': ''error''}'
+      required: false
+    - id: 13
+      name: stripe_donation_form_page_13
+      label: Stripe payment description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stripe_donation_form_page_14
+      label: Stripe payment type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''one-time'', ''value'': ''one-time''}'
+      - '{''label'': ''recurring'', ''value'': ''recurring''}'
+      required: false
+    - id: 15
+      name: stripe_donation_form_page_15
+      label: Stripe payment currency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USD'', ''value'': ''USD''}'
+      - '{''label'': ''EUR'', ''value'': ''EUR''}'
+      required: false
+    - id: 16
+      name: stripe_donation_form_page_16
+      label: Stripe payment status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''pending'', ''value'': ''pending''}'
+      - '{''label'': ''succeeded'', ''value'': ''succeeded''}'
+      - '{''label'': ''failed'', ''value'': ''failed''}'
+      required: false
+    - id: 17
+      name: stripe_donation_form_page_17
+      label: Stripe payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''card'', ''value'': ''card''}'
+      - '{''label'': ''bank'', ''value'': ''bank''}'
+      required: false
+    - id: 18
+      name: stripe_donation_form_page_18
+      label: Stripe payment message
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''success'', ''value'': ''success''}'
+      - '{''label'': ''error'', ''value'': ''error''}'
+      required: false
+    - id: 19
+      name: stripe_donation_form_page_19
+      label: Additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: stripe_donation_form_page_20
+      label: Additional info 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: stripe_donation_form_page_21
+      label: Additional info 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: stripe_donation_form_page_22
+      label: Additional info 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: stripe_donation_form_page_23
+      label: Additional info 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: stripe_donation_form_page_24
+      label: Additional info 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: stripe_donation_form_page_25
+      label: Payment info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: stripe_donation_form_page_26
+      label: Stripe payment info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: stripe_donation_form_page_27
+      label: Additional info 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: stripe_donation_form_page_28
+      label: Additional info 8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: stripe_donation_form_page_29
+      label: Additional info 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: stripe_donation_form_page_30
+      label: Additional info 10
+      hint: null
+      type: note
+      options: []
+      required: false

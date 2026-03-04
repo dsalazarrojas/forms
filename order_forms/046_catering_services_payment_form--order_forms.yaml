@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Services Payment Form
+    pages:
+    - id: 1
+      name: payer_name
+      label: Payer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: payment_type
+      label: Payment Type
+      hint: What are you paying for
+      type: select_one
+      options:
+      - Deposit
+      - Full Payment
+      - Final Balance
+      - Additional Services
+      - Cancellation Fee
+      required: true
+    - id: 10
+      name: subtotal
+      label: Subtotal
+      hint: Amount before fees
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: tax
+      label: Tax
+      hint: Tax amount
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: service_charge
+      label: Service Charge
+      hint: Service fee
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: gratuity
+      label: Gratuity
+      hint: Tip amount
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: discounts
+      label: Discounts Applied
+      hint: Discount amount
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_amount
+      label: Total Amount
+      hint: Total to pay
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: amount_paid
+      label: Amount Paid
+      hint: Payment amount
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How are you paying
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - PayPal
+      required: true
+    - id: 18
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 19
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_address
+      label: Billing Address
+      hint: Card billing address
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms
+      label: Payment Terms Accepted
+      hint: Do you agree to terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 22
+      name: refund_policy
+      label: Refund Policy Accepted
+      hint: Do you understand refund policy
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 23
+      name: receipt_delivery
+      label: Receipt Delivery
+      hint: How to send receipt
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Pickup
+      required: true
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Failed
+      - Refunded
+      required: false
+    - id: 25
+      name: transaction_id
+      label: Transaction ID
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

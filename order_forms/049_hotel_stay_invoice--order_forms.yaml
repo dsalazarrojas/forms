@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_stay_invoice
+    pages:
+    - id: 1
+      name: hotel_id
+      label: hotel_id
+      hint: null
+      type: select_one
+      options:
+      - Hotel A
+      - Hotel B
+      - Hotel C
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_multiple
+      options:
+      - Standard Room
+      - Deluxe Room
+      - Suite
+      required: false
+    - id: 4
+      name: stay_start
+      label: stay_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: stay_end
+      label: stay_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: room_rate
+      label: room_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: room_rate_currency
+      label: room_rate_currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_amount
+      label: total_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: service_charge
+      label: service_charge
+      hint: null
+      type: number
+      options: []
+      required: false

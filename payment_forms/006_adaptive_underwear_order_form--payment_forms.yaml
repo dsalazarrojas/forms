@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Underwear Order Form
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Adaptive Underwear Order Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Valid email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number for delivery questions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: If different from shipping address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: size_waist
+      label: Waist Size (inches)
+      hint: Measure around the narrowest part of your waist
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: size_hip
+      label: Hip Size (inches)
+      hint: Measure around the fullest part of your hips
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: underwear_style
+      label: Underwear Style
+      hint: Select your preferred style
+      type: select_one
+      options:
+      - Briefs
+      - Boxer Briefs
+      - Hipsters
+      - Boyshorts
+      - Thongs
+      - Control Top
+      required: true
+    - id: 10
+      name: fabric_preference
+      label: Fabric Preference
+      hint: Choose your preferred fabric type
+      type: select_one
+      options:
+      - Cotton
+      - Bamboo
+      - Modal
+      - Synthetic Blend
+      - Organic Cotton
+      required: true
+    - id: 11
+      name: special_features
+      label: Special Features Needed
+      hint: Check any special features required
+      type: select_multiple
+      options:
+      - Extra Support
+      - Moisture Wicking
+      - Antimicrobial
+      - Seamless
+      - Tagless
+      - Easy-On Design
+      - Adjustable Waistband
+      required: false
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: Number of pairs to order
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: color_choice
+      label: Color Choice
+      hint: Select preferred color
+      type: select_one
+      options:
+      - White
+      - Black
+      - Nude
+      - Gray
+      - Blue
+      - Multi-Pack
+      required: true
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special fitting or packaging instructions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_condition
+      label: Medical Condition Requiring Adaptive Underwear
+      hint: Brief description of condition (optional)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: caregiver_info
+      label: Caregiver Information
+      hint: If ordering for someone else, provide details
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Is this purchase covered by insurance?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for this order?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Insurance
+      - Other
+      required: true
+    - id: 19
+      name: order_total
+      label: Estimated Order Total
+      hint: Enter the amount you expect to pay
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: order_date
+      label: Desired Delivery Date
+      hint: When would you like to receive your order?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you accept the terms and conditions?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of placing this order
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: customer_signature
+      label: Customer Signature
+      hint: Electronic signature to confirm order
+      type: text
+      options: []
+      required: true

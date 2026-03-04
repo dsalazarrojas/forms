@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Teacher Engagement Monitoring Form
+    pages:
+    - id: 1
+      name: parent_teacher_conference_fields
+      label: parent_teacher_conference_fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_involvement_fields
+      label: parent_involvement_fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_support_fields
+      label: teacher_support_fields
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: parent_feedback_fields
+      label: parent_feedback_fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: school_climate_fields
+      label: school_climate_fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_fields
+      label: communication_fields
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: true
+    - id: 7
+      name: teacher_response_fields
+      label: teacher_response_fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_improvement_fields
+      label: school_improvement_fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: next_steps_fields
+      label: next_steps_fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_fields
+      label: follow_up_fields
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Clothing Order Form
+    pages:
+    - id: 1
+      name: clothing_intro
+      label: -- Order Your Clothing --
+      hint: Browse and purchase from our collection
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_multiple
+      options:
+      - T-Shirt
+      - Jeans
+      - Dress
+      - Jacket
+      - Hoodie
+      - Shorts
+      - Socks
+      - Other
+      required: true
+    - id: 11
+      name: color_preference
+      label: Color Preference
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Blue
+      - Red
+      - Green
+      - Gray
+      - Navy
+      - Other
+      required: true
+    - id: 12
+      name: size_selection
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: material_preference
+      label: Material Preference
+      hint: null
+      type: select_one
+      options:
+      - Cotton
+      - Polyester
+      - Wool
+      - Linen
+      - Cotton blend
+      required: false
+    - id: 15
+      name: unit_price
+      label: Price Per Item
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_amount
+      label: Total Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Express (2-3 days)
+      - Overnight
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: Monogram, alterations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

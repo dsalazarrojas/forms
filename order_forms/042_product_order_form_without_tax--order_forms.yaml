@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Order Form Without Tax
+    pages:
+    - id: 1
+      name: product_order_form
+      label: Product Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: products
+      label: Products
+      hint: null
+      type: select_multiple
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false

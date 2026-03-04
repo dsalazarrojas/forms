@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debt Collection Verification Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_debt_date
+      label: debt date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: user_debt_amount
+      label: debt amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: user_debt_status
+      label: debt status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 8
+      name: user_debt_description
+      label: debt description
+      hint: null
+      type: text
+      options: []
+      required: false

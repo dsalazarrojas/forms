@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Grinder Maintenance Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business or Cafe Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_grinder_info
+      label: -- Grinder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: grinder_brand
+      label: Grinder Brand
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: grinder_model
+      label: Grinder Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: grinder_age
+      label: Approximate Age of Grinder
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 10
+      name: serial_number
+      label: Serial Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_maintenance_needs
+      label: -- Maintenance Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_type
+      label: Type of Maintenance Needed
+      hint: null
+      type: select_one
+      options:
+      - Cleaning and tune-up
+      - Burr replacement
+      - Motor repair
+      - General maintenance
+      - Other
+      required: true
+    - id: 13
+      name: issue_description
+      label: Description of Issues or Concerns
+      hint: What problems are you experiencing?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: grind_consistency
+      label: Grind Consistency Issues
+      hint: Any problems with grinding?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: unusual_sounds
+      label: Unusual Sounds or Vibration
+      hint: Describe any abnormal operation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_service_preferences
+      label: -- Service Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: service_location
+      label: Service Location Preference
+      hint: null
+      type: select_one
+      options:
+      - In-shop service
+      - On-site service
+      - Mail-in service
+      - No preference
+      required: true
+    - id: 18
+      name: preferred_date
+      label: Preferred Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: urgency
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 20
+      name: section_budget
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: budget_constraint
+      label: Do You Have a Budget Limit?
+      hint: Approximate amount willing to spend
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: authorization
+      label: Authorize Repair if Cost Exceeds Budget?
+      hint: null
+      type: select_one
+      options:
+      - Yes, proceed
+      - No, contact me first
+      - Uncertain
+      required: false
+    - id: 23
+      name: section_special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional instructions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: resistor_array_termination_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: array_type
+      label: array_type
+      hint: null
+      type: select_multiple
+      options:
+      - single
+      - array
+      required: true
+    - id: 4
+      name: termination_type
+      label: termination_type
+      hint: null
+      type: select_one
+      options:
+      - Solderable
+      - Waveguide
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: resistor_value
+      label: resistor_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Invoice Generator
+    pages:
+    - id: 1
+      name: service_invoice_generator
+      label: Service Invoice Generator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: invoice_time
+      label: Invoice Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Payment via Bank
+      - Payment via Check
+      - Payment via Bank Transfer
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Not Paid
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hourly_rate
+      label: Hourly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: service_charge
+      label: Service Charge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: service_tax_rate
+      label: Service Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: payment_status_2
+      label: Payment Status 2
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Not Paid
+      required: false
+    - id: 21
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - Payment via Bank
+      - Payment via Check
+      - Payment via Bank Transfer
+      required: false
+    - id: 22
+      name: payment_status_3
+      label: Payment Status 3
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Not Paid
+      required: false
+    - id: 23
+      name: payment_method_3
+      label: Payment Method 3
+      hint: null
+      type: select_one
+      options:
+      - Payment via Bank
+      - Payment via Check
+      - Payment via Bank Transfer
+      required: false
+    - id: 24
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by_2
+      label: Form Submitted By 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Skin Care Wish List
+    pages:
+    - id: 1
+      name: winter_skin_care_wish_list
+      label: Winter Skin Care Wish List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skin_type
+      label: skin_type
+      hint: null
+      type: select_one
+      options:
+      - Normal Skin
+      - Dry Skin
+      - Oily Skin
+      - Combination Skin
+      - Sensitive Skin
+      required: false
+    - id: 6
+      name: skin_concern
+      label: skin_concern
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Aging
+      - Dark spots
+      - Fine lines
+      - Hyper-pigmentation
+      - Pore Size
+      - Redness
+      - Sagging
+      - Scarring
+      - Stretchmarks
+      - Uneven skin tone
+      - Wrinkles
+      required: false
+    - id: 7
+      name: product_preference
+      label: product_preference
+      hint: null
+      type: select_one
+      options:
+      - Moisturizer
+      - Serum
+      - Eye Cream
+      - Face Mask
+      - Face Wash
+      - Sunscreen
+      - Toner
+      - Exfoliant
+      required: false
+    - id: 8
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

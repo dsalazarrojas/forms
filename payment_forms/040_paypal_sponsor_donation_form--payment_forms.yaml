@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_sponsor_donation_form
+    pages:
+    - id: 1
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Sponsor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pay with PayPal''}'
+      - '{''label'': ''Check or bank transfer''}'
+      - '{''label'': ''Other (please specify in comments)''}'
+      required: false
+    - id: 7
+      name: other_payment_method
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false

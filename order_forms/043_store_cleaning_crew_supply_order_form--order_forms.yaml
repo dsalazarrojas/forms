@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Cleaning Crew Supply Order Form
+    pages:
+    - id: 1
+      name: store_cleaning_crew_supply_order_form
+      label: store_cleaning_crew_supply_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: select_one
+      options:
+      - Delivery 1
+      - Delivery 2
+      - Delivery 3
+      required: false
+    - id: 3
+      name: product_request
+      label: requested_products
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaning Product 1
+      - Cleaning Product 2
+      - Cleaning Product 3
+      required: false
+    - id: 4
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - Delivery 1
+      - Delivery 2
+      - Delivery 3
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

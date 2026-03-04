@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Add On Order Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_type
+      label: policy_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: coverage
+      label: coverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: policy_start_date
+      label: policy_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: policy_end_date
+      label: policy_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: agent
+      label: agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client
+      label: client
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: coverage_start_date
+      label: coverage_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: additional_coverage
+      label: additional_coverage
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 11
+      name: coverage_end_date
+      label: coverage_end_date
+      hint: null
+      type: date
+      options: []
+      required: false

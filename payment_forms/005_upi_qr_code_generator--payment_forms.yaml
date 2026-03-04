@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: UPI QR Code Generator
+    pages:
+    - id: 1
+      name: generate_qr_code
+      label: generate_qr_code
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: payer_name
+      label: payer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payer_email
+      label: payer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: payer_phone
+      label: payer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_value
+      label: payment_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_currency
+      label: payment_currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payer_note
+      label: payer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: generate_qr_code_2
+      label: generate_qr_code_2
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: qr_code_url
+      label: qr_code_url
+      hint: null
+      type: text
+      options: []
+      required: false

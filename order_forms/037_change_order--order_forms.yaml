@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Order
+    pages:
+    - id: 1
+      name: change_order_date
+      label: Change Order Date
+      hint: Date change order issued
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: change_order_number
+      label: Change Order Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: original_po_number
+      label: Original Purchase Order Number
+      hint: PO being modified
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: original_po_date
+      label: Original PO Date
+      hint: Date of original order
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: Company or individual ordering
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vendor_name
+      label: Vendor or Supplier Name
+      hint: Company fulfilling order
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_description
+      label: Original Order Description
+      hint: What was originally ordered
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: change_type
+      label: Type of Change
+      hint: Type of modification
+      type: select_one
+      options:
+      - Addition
+      - Deletion
+      - Modification
+      - Substitution
+      - Quantity Change
+      - Scope Change
+      required: true
+    - id: 9
+      name: change_description
+      label: Description of Change
+      hint: What is being changed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: item_affected
+      label: Item or Service Affected
+      hint: Which item is being modified
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: original_quantity
+      label: Original Quantity
+      hint: Original amount
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: new_quantity
+      label: New Quantity
+      hint: Modified amount
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: original_price
+      label: Original Unit Price
+      hint: Original cost per unit
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: new_price
+      label: New Unit Price
+      hint: Modified cost per unit
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: original_total
+      label: Original Total Amount
+      hint: Total original cost
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: new_total
+      label: New Total Amount
+      hint: Total after change
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: cost_impact
+      label: Cost Impact
+      hint: Amount increase or decrease
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why the change is needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - Rejected
+      - Requires Further Review
+      required: true
+    - id: 20
+      name: authorized_by
+      label: Authorized By
+      hint: Who approved the change
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Both Parties Acknowledge
+      hint: Confirm change acceptance
+      type: select_one
+      options:
+      - Agreed
+      - Pending
+      - Disputed
+      required: true

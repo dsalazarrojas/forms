@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount_currency
+      label: Donation Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      - JPY
+      - KRW
+      required: false
+    - id: 6
+      name: donation_amount_currency_option
+      label: Donation Amount (USD)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_multiple
+      options:
+      - General Donation
+      - Recurring Donation
+      required: false
+    - id: 8
+      name: note
+      label: Note (Optional)
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Order Form
+    pages:
+    - id: 1
+      name: sender_info
+      label: Sender Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: receiver_info
+      label: Receiver Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_info
+      label: Delivery Information
+      hint: Delivery date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: flowers
+      label: Select Flowers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: message
+      label: Personal Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: flower_options
+      label: Flower Options
+      hint: null
+      type: select_multiple
+      options:
+      - red_rose
+      - blue_tulip
+      - yellow_sunflower
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: note
+      options: []
+      required: false

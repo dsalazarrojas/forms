@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minimum Payment Calculator Form
+    pages:
+    - id: 1
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: select_one
+      options:
+      - '9.99'
+      - '12.99'
+      - '18.99'
+      - '20.99'
+      - '24.99'
+      required: false
+    - id: 3
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 4
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: minimum_payment
+      label: Minimum Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_interest
+      label: Total Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_paid
+      label: Total Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: field_8
+      label: Field 8
+      hint: null
+      type: text
+      options: []
+      required: false

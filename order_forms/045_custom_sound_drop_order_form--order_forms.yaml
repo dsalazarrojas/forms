@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Sound Drop Order Form
+    pages:
+    - id: 1
+      name: custom_sound_drop_order_form_page_1
+      label: Sound Drop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sound_drop_details
+      label: Sound Drop Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sound_drop_name
+      label: Sound Drop Name
+      hint: Enter the name of the sound drop
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sound_drop_artists
+      label: Artists
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Artist 1'', ''value'': ''Artist 1''}'
+      - '{''label'': ''Artist 2'', ''value'': ''Artist 2''}'
+      required: true
+    - id: 5
+      name: sound_drop_details_2
+      label: Sound Drop Details 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: sound_drop_file
+      label: Sound Drop File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sound_drop_notes
+      label: Sound Drop Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sound_drop_files
+      label: Sound Drop Files
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''File 1'', ''value'': ''File 1''}'
+      - '{''label'': ''File 2'', ''value'': ''File 2''}'
+      required: true
+    - id: 12
+      name: sound_drop_comments
+      label: Sound Drop Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: artist_comments
+      label: Artist Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: studio_comments
+      label: Studio Comments
+      hint: null
+      type: text
+      options: []
+      required: false

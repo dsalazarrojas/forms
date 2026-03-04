@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_service_booth_payment_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_street
+      label: customer street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_city
+      label: customer city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_state
+      label: customer state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_zip
+      label: customer zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_description
+      label: item description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purchase_amount
+      label: purchase amount
+      hint: null
+      type: number
+      options: []
+      required: false

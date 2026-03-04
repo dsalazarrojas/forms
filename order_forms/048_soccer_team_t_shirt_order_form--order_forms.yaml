@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Team T Shirt Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - credit card
+      - bank transfer
+      required: true
+    - id: 8
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_multiple
+      options:
+      - white
+      - black
+      - red
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_sale
+      label: Date of Sale
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: sale_type
+      label: Sale Type
+      hint: null
+      type: select_one
+      options:
+      - game
+      - game winner
+      - merchandise
+      required: true
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tshirt_image
+      label: T-shirt Image
+      hint: null
+      type: text
+      options: []
+      required: false

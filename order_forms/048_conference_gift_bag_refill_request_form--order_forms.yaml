@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Gift Bag Refill Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Person requesting refill
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event name
+      hint: Name of the conference or event
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bag_items_required
+      label: Bag items required
+      hint: List items and quantities needed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: Date items are needed at venue
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_location
+      label: Delivery location
+      hint: Venue dock, room, or contact name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_code
+      label: Budget code
+      hint: Charge code for procurement
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_preference
+      label: Vendor preference
+      hint: Preferred supplier if any
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_required
+      label: Approval required before order
+      hint: Internal approval status
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other instructions for suppliers
+      type: text
+      options: []
+      required: false

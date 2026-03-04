@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Service Order Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Marketing Consulting
+      - Social Media Marketing
+      - Online Marketing
+      - Offline Marketing
+      required: true
+    - id: 3
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Cancelled
+      required: true
+    - id: 7
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_company
+      label: Client Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_contact_name
+      label: Client Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_phone_number
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: marketing_person
+      label: Marketing Person
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing Manager
+      - Marketing Coordinator
+      - Marketing Intern
+      required: false
+    - id: 17
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - Project Manager 1
+      - Project Manager 2
+      required: true
+    - id: 18
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Manager 1
+      - Sales Manager 2
+      required: false
+    - id: 19
+      name: account_manager
+      label: Account Manager
+      hint: null
+      type: select_one
+      options:
+      - Account Manager 1
+      - Account Manager 2
+      required: true
+    - id: 20
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: project_comments
+      label: Project Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: project
+      label: Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: none
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: none
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: none
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false

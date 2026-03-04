@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Branded Hoodie Preorder Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: club_affiliation
+      label: Club or Organization
+      hint: Which club/organization you belong to
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_hoodie
+      label: -- Hoodie Selection --
+      hint: Choose your hoodie preferences
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: hoodie_color
+      label: Hoodie Color Preference
+      hint: null
+      type: select_one
+      options:
+      - Navy blue
+      - Black
+      - Gray
+      - White
+      - Red
+      - Green
+      - Other
+      required: true
+    - id: 7
+      name: hoodie_size
+      label: Hoodie Size
+      hint: null
+      type: select_one
+      options:
+      - Extra small (XS)
+      - Small (S)
+      - Medium (M)
+      - Large (L)
+      - Extra large (XL)
+      - 2X large (XXL)
+      - 3X large (XXXL)
+      required: true
+    - id: 8
+      name: hoodie_style
+      label: Hoodie Style
+      hint: null
+      type: select_one
+      options:
+      - Pullover hoodie
+      - Zip-up hoodie
+      - No preference
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Number of hoodies to order
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_customization
+      label: -- Customization Options --
+      hint: Any custom printing or additions
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: custom_name
+      label: Custom Name on Hoodie
+      hint: Optional - name to print on hoodie
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: custom_number
+      label: Custom Number on Hoodie
+      hint: Optional - number to print
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_sizing
+      label: -- Size Information --
+      hint: Help us get the right fit
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: chest_measurement
+      label: Chest Measurement (inches)
+      hint: For better fit recommendation
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: length_preference
+      label: Length Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard length
+      - Long length
+      - Short length
+      - Not sure
+      required: false
+    - id: 16
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: When and where to deliver
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to ship the hoodie
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: delivery_city_state
+      label: City, State, Zip
+      hint: Shipping location
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: delivery_date
+      label: Expected Delivery Date
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: section_payment
+      label: -- Payment Information --
+      hint: Price and payment details
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: unit_price
+      label: Price Per Hoodie
+      hint: Cost per unit
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: total_cost
+      label: Total Cost
+      hint: Quantity times unit price
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Check
+      - PayPal
+      - Other
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any additional requests
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: preorder_confirmation
+      label: I confirm this preorder and will complete payment
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Power Distribution Unit Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: unit_type
+      label: unit_type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - PayPal
+      required: false
+    - id: 8
+      name: unit_quantity
+      label: unit_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: unit_cost
+      label: unit_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - PayPal
+      required: false
+    - id: 16
+      name: order_date
+      label: order_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false

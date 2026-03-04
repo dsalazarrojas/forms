@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Access Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee name
+        hint: Enter full name as on ticket
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: ticket_number
+        label: Ticket number or order ID
+        hint: Provide your ticket or order identifier
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email used to purchase
+        hint: For verification and access updates
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: access_type
+        label: Access type requested
+        hint: Choose how you want to receive your ticket
+        type: select_one
+        options:
+          - Mobile entry
+          - Print at home
+          - Will call pickup
+        required: true
+      - id: 5
+        name: id_verification
+        label: ID verification method
+        hint: Bring matching ID for will call
+        type: select_one
+        options:
+          - Driver license
+          - Passport
+          - Government ID
+        required: false
+      - id: 6
+        name: delivery_address
+        label: Delivery address
+        hint: For physical ticket delivery if selected
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: pickup_location
+        label: Preferred will call pickup location
+        hint: Select pickup desk or venue entrance
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: accessibility_needs
+        label: Accessibility needs
+        hint: Provide any accommodations required
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: additional_contacts
+        label: Additional contact names and phones
+        hint: People in your party
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: notes
+        label: Additional notes
+        hint: Any other instructions for access
+        type: text
+        options: []
+        required: false

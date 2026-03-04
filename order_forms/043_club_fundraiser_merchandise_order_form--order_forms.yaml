@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Fundraiser Merchandise Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Order confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_id
+      label: Student ID Number
+      hint: If applicable for member pricing
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_merchandise
+      label: -- Merchandise Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_type
+      label: Item Type
+      hint: What item are you purchasing?
+      type: select_one
+      options:
+      - T-shirt
+      - Sweatshirt
+      - Hat or cap
+      - Mug
+      - Water bottle
+      - Tote bag
+      - Sticker
+      - Bracelet
+      - Multiple items
+      required: true
+    - id: 8
+      name: item_description
+      label: Item Description
+      hint: Color, size, specific design
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - One size fits all
+      - N/A
+      required: false
+    - id: 10
+      name: color
+      label: Color Choice
+      hint: Available color options
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: Number of items to order
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: unit_price
+      label: Unit Price - USD
+      hint: Price per item
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: line_total
+      label: Line Total - USD
+      hint: Quantity x Unit Price
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_additional_items
+      label: -- Additional Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_items
+      label: Ordering Additional Items
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: item2_description
+      label: Second Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item2_quantity
+      label: Second Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item2_price
+      label: Second Item Unit Price - USD
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_costs
+      label: -- Order Totals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: subtotal
+      label: Subtotal - USD
+      hint: Sum of all items
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: discount
+      label: Discount or Promo Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: discount_amount
+      label: Discount Amount - USD
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: total
+      label: Total Due - USD
+      hint: Final amount to pay
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: section_payment
+      label: -- Payment and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive items?
+      type: select_one
+      options:
+      - Club event pickup
+      - Campus mailroom
+      - Mailed to address
+      - Local pickup location
+      - Digital - download
+      required: true

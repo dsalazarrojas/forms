@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Song Creation Form
+    pages:
+    - id: 1
+      name: contact_info_section
+      label: "--- Contact Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: creator_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: creator_email
+      label: Email Address
+      hint: Your song files will be sent to this address.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: song_specs_section
+      label: "--- Song Specifications ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: song_title
+      label: Song Title
+      hint: Provide a title or a working name for your track.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: musical_genre
+      label: Musical Genre
+      hint: Select the primary style for the song.
+      type: select_one
+      options:
+      - Pop
+      - Rock / Indie
+      - Jazz / Soul
+      - Lo-fi / Chill
+      - Hip-hop / Rap
+      - Cinematic / Orchestral
+      - Electronic / EDM
+      - Country / Folk
+      required: true
+    - id: 7
+      name: song_mood
+      label: Mood / Atmosphere
+      hint: Select up to 3 moods.
+      type: select_multiple
+      options:
+      - Happy / Uplifting
+      - Sad / Melancholic
+      - Energetic / Hype
+      - Relaxing / Calm
+      - Dark / Intense
+      - Romantic / Sweet
+      - Nostalgic
+      required: true
+    - id: 8
+      name: vocal_type
+      label: Vocal Type
+      hint: null
+      type: select_one
+      options:
+      - Male Vocals
+      - Female Vocals
+      - Duet (Male & Female)
+      - Group/Choir
+      - Instrumental Only
+      required: true
+    - id: 9
+      name: song_tempo
+      label: Song Tempo
+      hint: null
+      type: select_one
+      options:
+      - Slow / Ballad
+      - Moderate / Mid-tempo
+      - Fast / Up-tempo
+      required: true
+    - id: 10
+      name: content_lyrics_section
+      label: "--- Content & Lyrics ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: song_theme
+      label: Main Topic / Theme of the Song
+      hint: What is the song about? (e.g., A birthday, a breakup, a new car)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: specific_keywords
+      label: Specific Keywords or Names to Include
+      hint: Enter names, places, or phrases you want in the lyrics.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lyrics_source
+      label: Do you have existing lyrics?
+      hint: null
+      type: select_one
+      options:
+      - "Yes - I will provide my own lyrics"
+      - "No - AI should generate the lyrics for me"
+      - "Partially - I have some lines, AI should finish them"
+      required: true
+    - id: 14
+      name: lyrics_content
+      label: Your Lyrics (if applicable)
+      hint: Paste your lyrics or starting lines here.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_usage_section
+      label: "--- Delivery & Usage ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: select_one
+      options:
+      - Personal Use (Gift, Hobby)
+      - Social Media Content (YouTube, TikTok)
+      - Commercial / Advertising
+      - Podcast / Stream Intro
+      - Video Game / App Soundtrack
+      required: true
+    - id: 17
+      name: song_length
+      label: Desired Song Length
+      hint: null
+      type: select_one
+      options:
+      - Short (under 1 minute)
+      - Standard (2 to 3 minutes)
+      - Full Length (3 to 5 minutes)
+      required: true
+    - id: 18
+      name: delivery_deadline
+      label: Deadline for Delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: delivery_format
+      label: Preferred File Format
+      hint: null
+      type: select_one
+      options:
+      - MP3 (High Quality)
+      - WAV (Uncompressed)
+      - MIDI (Notes Only)
+      required: true
+    - id: 20
+      name: additional_directions
+      label: Additional Creative Directions
+      hint: Describe any specific musical references or artist styles to emulate.
+      type: text
+      options: []
+      required: false

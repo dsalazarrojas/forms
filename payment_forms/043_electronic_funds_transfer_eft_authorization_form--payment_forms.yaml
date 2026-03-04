@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Funds Transfer (EFT) Authorization Form
+    pages:
+    - id: 1
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ACH''}'
+      - '{''id'': 2, ''label'': ''Wire''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transfer_amount
+      label: Transfer Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: transfer_timezone
+      label: Transfer Timezone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''EST''}'
+      - '{''id'': 2, ''label'': ''CST''}'
+      - '{''id'': 3, ''label'': ''MST''}'
+      required: false
+    - id: 10
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_address
+      label: Account Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transfer_description
+      label: Transfer Description
+      hint: null
+      type: text
+      options: []
+      required: false

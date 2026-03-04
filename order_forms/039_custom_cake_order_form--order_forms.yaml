@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_cake_order_form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: cake_type
+      label: Cake Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Cake'': ''Cake''}'
+      - '{''Frosting'': ''Frosting''}'
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      required: false
+    - id: 11
+      name: accepted
+      label: Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_total
+      label: Payment Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Authorize
+      required: false
+    - id: 17
+      name: accepted_at
+      label: Accepted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms_at
+      label: Payment Terms At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: payment_total_at
+      label: Payment Total At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: cake_design
+      label: Cake Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cake_size
+      label: Cake Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 22
+      name: cake_flavor
+      label: Cake Flavor
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      required: false
+    - id: 23
+      name: cake_message
+      label: Cake Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cake_price
+      label: Cake Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cake_image
+      label: Cake Image
+      hint: null
+      type: text
+      options: []
+      required: false

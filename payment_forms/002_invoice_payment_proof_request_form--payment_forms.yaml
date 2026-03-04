@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Payment Proof Request Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: proof_type
+      label: Proof Type
+      hint: null
+      type: select_one
+      options:
+      - Invoice
+      - Credit Note
+      - Debit Note
+      - Cash
+      - Cheque
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 3
+      name: proof_date
+      label: Proof Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: proof_value
+      label: Proof Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: proof_amount
+      label: Proof Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: proof_method
+      label: Proof Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Cheque
+      - Cash
+      - Credit Card
+      - Other
+      required: false
+    - id: 7
+      name: proof_number
+      label: Proof Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: proof_image
+      label: Proof Image
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Strategy Payment Form
+    pages:
+    - id: 1
+      name: invoice_details_header
+      label: -- Client and Invoice Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_company_name
+      label: Client / Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: invoice_no
+      label: Invoice Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pay_dt
+      label: Today Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: svc_details_header
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: svc_desc
+      label: Description of Brand Strategy Service
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pay_type_select
+      label: Payment For
+      hint: null
+      type: select_one
+      options:
+      - Project Deposit
+      - Monthly Retainer
+      - Final Project Payment
+      - Workshop Fee
+      required: true
+    - id: 8
+      name: pay_amt_header
+      label: -- Payment Amount --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: due_amt
+      label: Amount Due - USD
+      hint: Currency amount
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pay_meth_header
+      label: -- Payment Method --
+      hint: secure transaction
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: card_select
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      required: true
+    - id: 12
+      name: bill_zip
+      label: Billing Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ack_header
+      label: -- Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: receipt_req
+      label: Would you like a receipt sent to your email?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: pay_notes
+      label: Additional Payment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pay_closing
+      label: Thank you for your business!
+      hint: null
+      type: note
+      options: []
+      required: false

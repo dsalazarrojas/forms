@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Order Status Check Form
+    pages:
+    - id: 1
+      name: service_order_status_check_form
+      label: Service Order Status Check Form
+      hint: null
+      type: select_multiple
+      options:
+      - Service Status
+      - Order Number
+      - Order Type
+      - Other
+      required: true
+    - id: 2
+      name: service_order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: team_assignment
+      label: Team Assignment
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: service_order_status
+      label: Service Order Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true

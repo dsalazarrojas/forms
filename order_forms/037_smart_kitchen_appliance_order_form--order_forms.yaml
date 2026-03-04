@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Kitchen Appliance Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: kitchen_gadgets
+      label: Kitchen Gadget
+      hint: Select up to 3 kitchen gadgets.
+      type: select_multiple
+      options:
+      - KitchenAid
+      - Bosch
+      - KitchenAid
+      - Breville
+      - Instant Pot
+      required: false
+    - id: 3
+      name: appliances
+      label: Appliances
+      hint: Select up to 2 appliances.
+      type: select_multiple
+      options:
+      - Fridge
+      - Stove
+      - Oven
+      - Dishwasher
+      required: false
+    - id: 4
+      name: quantities
+      label: Quantities
+      hint: Select quantities for the above items.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: kitchen_gadgets_quantities
+      label: Kitchen Gadget Quantities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: kitchen_gadgets_0
+      label: Kitchen Gadget 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: kitchen_gadgets_1
+      label: Kitchen Gadget 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: kitchen_gadgets_2
+      label: Kitchen Gadget 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: appliances_quantities
+      label: Appliances Quantities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appliances_0
+      label: Appliance 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: appliances_1
+      label: Appliance 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: appliances_2
+      label: Appliance 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_form_total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: order_form_comments
+      label: Comments
+      hint: Add any comments or instructions.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_form_email
+      label: Email
+      hint: Enter your email address.
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: order_form_phone
+      label: Phone
+      hint: Enter your phone number.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_form_notes
+      label: Notes
+      hint: Add any additional notes.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: order_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

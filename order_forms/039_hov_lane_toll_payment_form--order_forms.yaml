@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: HOV Lane Toll Payment Form
+    pages:
+    - id: 1
+      name: hov_lane_toll_payment
+      label: HOV Lane Toll Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hov_lanes
+      label: HOV Lanes
+      hint: null
+      type: select_one
+      options:
+      - HOV Lanes 1
+      - HOV Lanes 2
+      - HOV Lanes 3
+      - HOV Lanes 4
+      required: false
+    - id: 3
+      name: hov_lanes_hov
+      label: HOV Lanes HOV
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: toll_payments
+      label: Toll Payments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_fees
+      label: Total Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 8
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: trip_time
+      label: Trip Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: trip_duration
+      label: Trip Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bike
+      - Truck
+      - Bus
+      - Other
+      required: false
+    - id: 12
+      name: vehicle_number_plate
+      label: Vehicle Number Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trip_start
+      label: Trip Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: trip_end
+      label: Trip End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: toll_operator
+      label: Toll Operator
+      hint: null
+      type: select_one
+      options:
+      - Operator 1
+      - Operator 2
+      - Other
+      required: false
+    - id: 16
+      name: toll_gates
+      label: Toll Gates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: toll_payments_details
+      label: Toll Payments Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: hov_lanes_2
+      label: HOV Lanes 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 21
+      name: hov_lanes_3
+      label: HOV Lanes 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: payment_status_2
+      label: Payment Status 2
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 23
+      name: payment_status_3
+      label: Payment Status 3
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 24
+      name: payment_status_4
+      label: Payment Status 4
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 25
+      name: hov_lanes_4
+      label: HOV Lanes 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

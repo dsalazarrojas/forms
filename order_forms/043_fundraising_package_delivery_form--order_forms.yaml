@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: fundraising_package_delivery_form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fundraising_package
+      label: Fundraising Package
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: package_id
+      label: Package ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_zip
+      label: Delivery Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''name'': ''check'', ''label'': ''Check''}'
+      - '{''name'': ''online_payment'', ''label'': ''Online Payment''}'
+      required: false
+    - id: 12
+      name: package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''new_order'', ''label'': ''New Order''}'
+      - '{''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''name'': ''shipped'', ''label'': ''Shipped''}'
+      - '{''name'': ''delivered'', ''label'': ''Delivered''}'
+      required: false
+    - id: 16
+      name: delivery_date_ship
+      label: Delivery Date Ship
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time_ship
+      label: Delivery Time Ship
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: delivery_zip_ship
+      label: Delivery Zip Ship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_address_ship
+      label: Delivery Address Ship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method_ship
+      label: Payment Method Ship
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''name'': ''check'', ''label'': ''Check''}'
+      - '{''name'': ''online_payment'', ''label'': ''Online Payment''}'
+      required: false
+    - id: 21
+      name: package_details_ship
+      label: Package Details Ship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_instructions_ship
+      label: Delivery Instructions Ship
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments_ship
+      label: Additional Comments Ship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Health Plan Billing Information Form
+    pages:
+    - id: 1
+      name: employer_details
+      label: Employer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_contact
+      label: Billing Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: plan_details
+      label: Plan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Option 1''}'
+      - '{''id'': 12, ''label'': ''Option 2''}'
+      - '{''id'': 13, ''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14, ''label'': ''Option 1''}'
+      - '{''id'': 15, ''label'': ''Option 2''}'
+      - '{''id'': 16, ''label'': ''Option 3''}'
+      required: false
+    - id: 9
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

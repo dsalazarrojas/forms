@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Designer Chair Pre Order Form
+    pages:
+    - id: 1
+      name: model_selection
+      label: Select Model
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chair-1''}'
+      - '{''value'': ''chair-2''}'
+      - '{''value'': ''chair-3''}'
+      required: false
+    - id: 2
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''in-store''}'
+      - '{''value'': ''in-home''}'
+      required: false
+    - id: 3
+      name: deposit
+      label: Deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

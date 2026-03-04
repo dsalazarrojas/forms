@@ -1,0 +1,327 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camping Accessories Order Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: Customer First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Customer Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tent_stakes_quantity
+      label: Tent Stakes Quantity
+      hint: Number of packs
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tent_stakes_price
+      label: Tent Stakes Price
+      hint: Per pack
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: camping_lantern_quantity
+      label: Camping Lantern Quantity
+      hint: Number of lanterns
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: camping_lantern_type
+      label: Camping Lantern Type
+      hint: Select type
+      type: select_one
+      options:
+      - LED battery
+      - LED rechargeable
+      - Solar
+      - Propane
+      - Candle
+      required: false
+    - id: 13
+      name: sleeping_bag_quantity
+      label: Sleeping Bag Quantity
+      hint: Number of bags
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: sleeping_bag_temperature
+      label: Sleeping Bag Temperature Rating
+      hint: Select rating
+      type: select_one
+      options:
+      - Summer (30F and above)
+      - 3-season (15-30F)
+      - Winter (0-15F)
+      - Extreme (below 0F)
+      required: false
+    - id: 15
+      name: camping_chair_quantity
+      label: Camping Chair Quantity
+      hint: Number of chairs
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: camping_table_quantity
+      label: Camping Table Quantity
+      hint: Number of tables
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: cooler_quantity
+      label: Cooler Quantity
+      hint: Number of coolers
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: cooler_size
+      label: Cooler Size
+      hint: Select size
+      type: select_one
+      options:
+      - Small (under 30 qt)
+      - Medium (30-50 qt)
+      - Large (50-70 qt)
+      - Extra large (70+ qt)
+      required: false
+    - id: 19
+      name: camp_stove_quantity
+      label: Camp Stove Quantity
+      hint: Number of stoves
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: camp_stove_type
+      label: Camp Stove Type
+      hint: Select type
+      type: select_one
+      options:
+      - Single burner
+      - Double burner
+      - Triple burner
+      - Backpacking stove
+      required: false
+    - id: 21
+      name: fuel_canister_quantity
+      label: Fuel Canister Quantity
+      hint: Number of canisters
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: cookware_set_quantity
+      label: Cookware Set Quantity
+      hint: Number of sets
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: water_filter_quantity
+      label: Water Filter Quantity
+      hint: Number of filters
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: first_aid_kit_quantity
+      label: First Aid Kit Quantity
+      hint: Number of kits
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: flashlight_quantity
+      label: Flashlight Quantity
+      hint: Number of flashlights
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: headlamp_quantity
+      label: Headlamp Quantity
+      hint: Number of headlamps
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: camping_hammock_quantity
+      label: Camping Hammock Quantity
+      hint: Number of hammocks
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: tarp_quantity
+      label: Tarp Quantity
+      hint: Number of tarps
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: rope_quantity
+      label: Rope Quantity
+      hint: Number of ropes
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: fire_starter_quantity
+      label: Fire Starter Quantity
+      hint: Number of packs
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: camping_utensil_set_quantity
+      label: Camping Utensil Set Quantity
+      hint: Number of sets
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: portable_shower_quantity
+      label: Portable Shower Quantity
+      hint: Number of showers
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: order_subtotal
+      label: Order Subtotal
+      hint: Before shipping
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: shipping_method
+      label: Shipping Method
+      hint: Select method
+      type: select_one
+      options:
+      - Standard (5-7 days) - $9.99
+      - Express (2-3 days) - $19.99
+      - Overnight - $39.99
+      - Free pickup in store
+      required: true
+    - id: 35
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Calculated
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: order_total
+      label: Order Total
+      hint: Final amount
+      type: number
+      options: []
+      required: true
+    - id: 37
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 38
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: order_notes
+      label: Order Notes
+      hint: Special instructions
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 41
+      name: customer_signature
+      label: Customer Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: signature_date
+      label: Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true

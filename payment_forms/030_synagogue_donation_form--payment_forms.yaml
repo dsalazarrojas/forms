@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Synagogue Donation Form
+    pages:
+    - id: 1
+      name: general_donation
+      label: General Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_donation
+      label: Event Donation
+      hint: null
+      type: select_one
+      options:
+      - Synagogue Event
+      - Synagogue Program
+      - Synagogue Fund
+      required: false
+    - id: 3
+      name: recurring_donation
+      label: Recurring Donation
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Recurring
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every Week
+      - Every 2 Weeks
+      - Every Month
+      required: false
+    - id: 7
+      name: end_frequency
+      label: End Frequency
+      hint: null
+      type: select_one
+      options:
+      - No End Date
+      - Specific Date
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_monitoring_device_order_form
+    pages:
+    - id: 1
+      name: form_title
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider
+      label: healthcare provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: device_selection
+      label: device selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false

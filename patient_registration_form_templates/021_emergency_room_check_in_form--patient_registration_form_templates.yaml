@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Room Check In Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_injury
+      label: Date Of Injury
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: description_of_injury
+      label: Description Of Injury
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - Brother
+      - Sister
+      - Husband
+      - Wife
+      required: true
+    - id: 10
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_city
+      label: Emergency Contact City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_state
+      label: Emergency Contact State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_zip
+      label: Emergency Contact Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Heart Failure
+      - High Blood Pressure
+      - Asthma
+      - Diabetes
+      - Stroke
+      - Cancer
+      - Severe Allergic Reaction
+      - Severe Anaphylaxis
+      - Other (please describe)
+      required: true
+    - id: 15
+      name: date_of_last_visit
+      label: Date Of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time_of_last_visit
+      label: Time Of Last Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: reason_for_visit
+      label: Reason For Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - Brother
+      - Sister
+      - Husband
+      - Wife
+      required: false
+    - id: 19
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: patient_medical_record
+      label: Patient Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_group
+      label: Insurance Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_of_next_visit
+      label: Date Of Next Visit
+      hint: null
+      type: date
+      options: []
+      required: false

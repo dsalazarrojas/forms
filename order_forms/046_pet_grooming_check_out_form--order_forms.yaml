@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Grooming Check Out Form
+    pages:
+    - id: 1
+      name: pet_owner_info
+      label: Pet Owner Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_rendered
+      label: Services Rendered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - Check
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: false
+    - id: 5
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_tips
+      label: Service Tips
+      hint: null
+      type: number
+      options: []
+      required: false

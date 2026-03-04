@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sender and recipient information form
+    pages:
+    - id: 1
+      name: sender_info
+      label: sender_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sender_name
+      label: sender name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sender_email
+      label: sender email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: recipient_info
+      label: recipient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recipient_name
+      label: recipient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recipient_email
+      label: recipient email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: recipient_phone
+      label: recipient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recipient_notes
+      label: recipient notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: delivery_details
+      label: delivery details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: delivery_method
+      label: delivery method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''delivery_method1''}'
+      - '{''id'': 2, ''label'': ''delivery_method2''}'
+      - '{''id'': 3, ''label'': ''delivery_method3''}'
+      - '{''id'': 4, ''label'': ''delivery_method4''}'
+      - '{''id'': 5, ''label'': ''delivery_method5''}'
+      required: false
+    - id: 13
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sender_company
+      label: sender company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recipient_company
+      label: recipient company
+      hint: null
+      type: text
+      options: []
+      required: false

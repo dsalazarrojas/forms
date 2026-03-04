@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Accessories Subscription Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Month-to-Month''}'
+      - '{''id'': 2, ''label'': ''Yearly''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      required: false
+    - id: 5
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Weekly''}'
+      - '{''id'': 2, ''label'': ''Bi-Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      - '{''id'': 5, ''label'': ''One-Time''}'
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Card''}'
+      - '{''id'': 2, ''label'': ''Bank Transfer''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: delivery_frequency_text
+      label: Delivery Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_cycle_start
+      label: Billing Cycle Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: billing_cycle_end
+      label: Billing Cycle End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: billing_cycle_length
+      label: Billing Cycle Length
+      hint: null
+      type: number
+      options: []
+      required: false

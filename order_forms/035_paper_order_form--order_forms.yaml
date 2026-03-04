@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paper Order Form
+    pages:
+    - id: 1
+      name: paper_order_form_page_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: paper_order_form_page_1
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: paper_order_form_page_1
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: paper_order_form_page_1
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: paper_order_form_page_2
+      label: order_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: paper_order_form_page_1
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: paper_order_form_page_1
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: paper_order_form_page_2
+      label: paper_type
+      hint: Please select a paper size
+      type: select_one
+      options:
+      - Paper Size A
+      - Paper Size B
+      - Paper Size C
+      required: true
+    - id: 9
+      name: paper_order_form_page_2
+      label: paper_color
+      hint: Please select a paper color
+      type: select_one
+      options:
+      - Color 1
+      - Color 2
+      - Color 3
+      required: true
+    - id: 10
+      name: paper_order_form_page_2
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: paper_order_form_page_2
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: paper_order_form_page_2
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: paper_order_form_page_2
+      label: payment_method
+      hint: Please select a payment method
+      type: select_one
+      options:
+      - Payment 1
+      - Payment 2
+      - Payment 3
+      required: true
+    - id: 14
+      name: paper_order_form_page_2
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: paper_order_form_page_3
+      label: paper_status
+      hint: Paper status
+      type: select_one
+      options:
+      - Status A
+      - Status B
+      required: true
+    - id: 16
+      name: paper_order_form_page_3
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: paper_order_form_page_3
+      label: delivery_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: paper_order_form_page_3
+      label: delivery_email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: paper_order_form_page_3
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: paper_order_form_page_3
+      label: delivery_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: paper_order_form_page_4
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: paper_order_form_page_4
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: paper_order_form_page_4
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: paper_order_form_page_4
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: paper_order_form_page_4
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: true

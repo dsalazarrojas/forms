@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: science_lab_check_out_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_out
+      label: Date Out
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_out
+      label: Time Out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_number
+      label: Item Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity_out
+      label: Quantity Out
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_return
+      label: Date Return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_return
+      label: Time Return
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Checked Out
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

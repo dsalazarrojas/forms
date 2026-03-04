@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Sticker Order Form
+    pages:
+    - id: 1
+      name: custom_sticker_order_form_page_1
+      label: custom_sticker_order_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_preferences
+      label: design_preferences_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sticker_size
+      label: sticker_size_label
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Small''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Large''}'
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone_label
+      hint: null
+      type: text
+      options: []
+      required: false

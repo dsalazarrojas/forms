@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Card Dispute Claim Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - VISA
+      - Mastercard
+      - American Express
+      - Discover
+      required: true
+    - id: 2
+      name: billing_address
+      label: Billing address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_dispute
+      label: Date of dispute
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: amount_of_dispute
+      label: Amount of dispute
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: dispute_description
+      label: Dispute description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: merchant_information
+      label: Merchant information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_signature
+      label: Customer signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_signature
+      label: Employee signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dispute_resolution
+      label: Dispute resolution
+      hint: null
+      type: note
+      options: []
+      required: false

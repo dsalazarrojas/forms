@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Training Check Out Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_city
+      label: participant_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_state
+      label: participant_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_zip
+      label: participant_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_date
+      label: training_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_time
+      label: training_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Payment Option 1'', ''value'': ''payment_option_1''}'
+      - '{''label'': ''Payment Option 2'', ''value'': ''payment_option_2''}'
+      - '{''label'': ''Payment Option 3'', ''value'': ''payment_option_3''}'
+      required: false
+    - id: 11
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false

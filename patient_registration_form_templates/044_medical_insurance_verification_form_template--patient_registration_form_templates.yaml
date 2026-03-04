@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Insurance Verification Form Template
+    pages:
+    - id: 1
+      name: medical_insurance_verification_form
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_registration_info
+      label: Patient Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_info
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_insurance_type
+      label: Medical Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false

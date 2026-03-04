@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Refund Timeline Request Form
+    pages:
+    - id: 1
+      name: customer_refund_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_refund
+      label: Reason For Refund
+      hint: null
+      type: select_one
+      options:
+      - Refund for a faulty product
+      - Refund for a wrong order
+      - Refund for products not as described
+      required: false
+    - id: 3
+      name: requested_refund_amount
+      label: Requested Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: false
+    - id: 5
+      name: preferred_refund_method
+      label: Preferred Refund Method
+      hint: null
+      type: select_one
+      options:
+      - Refund in Store Credit
+      - Refund to original payment method
+      required: false
+    - id: 6
+      name: refund_status
+      label: Refund Status
+      hint: null
+      type: select_one
+      options:
+      - Processing
+      - Approved
+      - Rejected
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_refund_request_date
+      label: Customer Refund Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

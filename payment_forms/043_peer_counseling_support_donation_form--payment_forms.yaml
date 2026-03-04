@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: peer_counseling_support_donation_form
+    pages:
+    - id: 1
+      name: form_info
+      label: form_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''One-time'', ''label'': ''One-time''}'
+      - '{''value'': ''Recurring'', ''label'': ''Recurring''}'
+      required: false
+    - id: 5
+      name: recurring_frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily'', ''label'': ''Daily''}'
+      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      required: false
+    - id: 6
+      name: donation_date
+      label: donation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: donor_phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Card'', ''label'': ''Card''}'
+      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
+      - '{''value'': ''Bank'', ''label'': ''Bank''}'
+      required: false
+    - id: 10
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_submit
+      label: form_submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

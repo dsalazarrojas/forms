@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aromatherapy Client Intake Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_medications
+      label: Current Medications
+      hint: List all medications you are taking
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - High blood pressure
+      - Heart condition
+      - Asthma
+      - Skin conditions
+      - Allergies
+      - Autoimmune disorder
+      - Pregnancy
+      - Diabetes
+      - Cancer history
+      - Other
+      required: true
+    - id: 10
+      name: condition_details
+      label: Details About Your Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: surgery_history
+      label: Recent Surgery or Injuries
+      hint: null
+      type: select_one
+      options:
+      - No recent surgery
+      - Within 6 months
+      - Within 1 year
+      - Yes - describe
+      required: true
+    - id: 12
+      name: surgery_details
+      label: Details of Surgery or Injury
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_allergies
+      label: -- Allergies and Sensitivities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: known_allergies
+      label: Known Allergies
+      hint: Food, environmental, medication, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: essential_oil_allergies
+      label: Allergies to Essential Oils
+      hint: Specific oils you are allergic to
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: scent_sensitivities
+      label: Scent Sensitivities or Triggers
+      hint: Smells that cause discomfort
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_skin_health
+      label: -- Skin and Dermatological Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 19
+      name: skin_conditions
+      label: Current Skin Conditions
+      hint: Eczema, psoriasis, acne, rashes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: skin_product_sensitivity
+      label: Sensitive to Any Skin Care Products
+      hint: null
+      type: select_one
+      options:
+      - No sensitivity
+      - Yes - list below
+      required: true
+    - id: 21
+      name: sensitive_products
+      label: Products That Cause Sensitivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_contraindications
+      label: -- Treatment Contraindications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: pregnancy_status
+      label: Are You Currently Pregnant or Breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Pregnant
+      - Breastfeeding
+      - Prefer not to answer
+      required: true
+    - id: 24
+      name: epilepsy_seizures
+      label: History of Epilepsy or Seizures
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 25
+      name: section_preferences
+      label: -- Treatment Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: oil_application_preference
+      label: Oil Application Preference
+      hint: null
+      type: select_one
+      options:
+      - Topical application
+      - Diffusion only
+      - Inhalation
+      - No preference
+      required: true
+    - id: 27
+      name: preferred_strength
+      label: Preferred Scent Strength
+      hint: null
+      type: select_one
+      options:
+      - Light and subtle
+      - Medium strength
+      - Strong
+      - Very strong
+      required: false
+    - id: 28
+      name: consent_treatment
+      label: I understand the treatment and give my consent
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 29
+      name: additional_info
+      label: Additional Health Information
+      hint: Anything else the therapist should know
+      type: text
+      options: []
+      required: false

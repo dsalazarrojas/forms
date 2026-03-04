@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_reconciliation_support_contact_form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue
+      label: Issue
+      hint: Please describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document
+      label: Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Discrepancy''}'
+      - '{''label'': ''Reconciliation''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_document2
+      label: Document 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Delivery Cost Calculator
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_cost
+      label: Delivery Cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cost_currency
+      label: Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - AUD
+      - USD
+      - EUR
+      - CAD
+      - JPY
+      - GBP
+      - CNY
+      required: false
+    - id: 5
+      name: cost_type
+      label: Cost Type
+      hint: null
+      type: select_one
+      options:
+      - Flat Rate
+      - Distance-Based
+      - Zone-Based
+      - Weight-Based
+      - Other
+      required: false
+    - id: 6
+      name: estimated_delivery_cost
+      label: Estimated Delivery Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: actual_delivery_cost
+      label: Actual Delivery Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: chat
+      label: Chat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

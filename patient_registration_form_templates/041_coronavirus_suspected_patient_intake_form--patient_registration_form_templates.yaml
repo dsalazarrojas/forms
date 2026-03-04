@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Suspected Patient Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - COVID-19 symptoms
+      - Common cold
+      - Other
+      required: true
+    - id: 6
+      name: medical_group
+      label: Medical group
+      hint: null
+      type: select_multiple
+      options:
+      - Primary care physician
+      - Specialist
+      - Other
+      required: true
+    - id: 7
+      name: medical_group_other
+      label: Other medical group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_last_seen_doctor
+      label: Date last seen doctor
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_last_seen_doctor
+      label: Time last seen doctor
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: last_seen_doctor_name
+      label: Last seen doctor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 13
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: insurance_provider
+      label: Insurance provider
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Medicare
+      - Medicaid
+      - Other
+      required: true
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relation
+      label: Emergency contact relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_email
+      label: Emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_address
+      label: Emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_note
+      label: Medical note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: consent_to_share
+      label: Consent to share
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: consent_to_share_note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: consent_to_share_note_2
+      label: Note 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_signature
+      label: Patient signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: doctor_signature
+      label: Doctor signature
+      hint: null
+      type: note
+      options: []
+      required: true

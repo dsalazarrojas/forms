@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Bill Pay
+    pages:
+    - id: 1
+      name: customer_bill_pay_page
+      label: Customer Bill Pay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: biller_name
+      label: Biller Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bill_amount
+      label: Bill Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''AK'', ''value'': ''AK''}'
+      - '{''label'': ''AL'', ''value'': ''AL''}'
+      - '{''label'': ''AR'', ''value'': ''AR''}'
+      - '{''label'': ''AZ'', ''value'': ''AZ''}'
+      - '{''label'': ''CA'', ''value'': ''CA''}'
+      - '{''label'': ''CO'', ''value'': ''CO''}'
+      - '{''label'': ''CT'', ''value'': ''CT''}'
+      - '{''label'': ''DC'', ''value'': ''DC''}'
+      - '{''label'': ''DE'', ''value'': ''DE''}'
+      - '{''label'': ''FL'', ''value'': ''FL''}'
+      - '{''label'': ''GA'', ''value'': ''GA''}'
+      - '{''label'': ''HI'', ''value'': ''HI''}'
+      - '{''label'': ''ID'', ''value'': ''ID''}'
+      - '{''label'': ''IL'', ''value'': ''IL''}'
+      - '{''label'': ''IN'', ''value'': ''IN''}'
+      - '{''label'': ''IA'', ''value'': ''IA''}'
+      - '{''label'': ''KS'', ''value'': ''KS''}'
+      - '{''label'': ''KY'', ''value'': ''KY''}'
+      - '{''label'': ''LA'', ''value'': ''LA''}'
+      - '{''label'': ''MA'', ''value'': ''MA''}'
+      - '{''label'': ''MD'', ''value'': ''MD''}'
+      - '{''label'': ''ME'', ''value'': ''ME''}'
+      - '{''label'': ''MI'', ''value'': ''MI''}'
+      - '{''label'': ''MN'', ''value'': ''MN''}'
+      - '{''label'': ''MO'', ''value'': ''MO''}'
+      - '{''label'': ''MS'', ''value'': ''MS''}'
+      - '{''label'': ''MT'', ''value'': ''MT''}'
+      - '{''label'': ''NC'', ''value'': ''NC''}'
+      - '{''label'': ''ND'', ''value'': ''ND''}'
+      - '{''label'': ''NE'', ''value'': ''NE''}'
+      - '{''label'': ''NH'', ''value'': ''NH''}'
+      - '{''label'': ''NJ'', ''value'': ''NJ''}'
+      - '{''label'': ''NM'', ''value'': ''NM''}'
+      - '{''label'': ''NV'', ''value'': ''NV''}'
+      - '{''label'': ''NY'', ''value'': ''NY''}'
+      - '{''label'': ''OH'', ''value'': ''OH''}'
+      - '{''label'': ''OK'', ''value'': ''OK''}'
+      - '{''label'': ''OR'', ''value'': ''OR''}'
+      - '{''label'': ''PA'', ''value'': ''PA''}'
+      - '{''label'': ''RI'', ''value'': ''RI''}'
+      - '{''label'': ''SC'', ''value'': ''SC''}'
+      - '{''label'': ''SD'', ''value'': ''SD''}'
+      - '{''label'': ''TN'', ''value'': ''TN''}'
+      - '{''label'': ''TX'', ''value'': ''TX''}'
+      - '{''label'': ''UT'', ''value'': ''UT''}'
+      - '{''label'': ''VA'', ''value'': ''VA''}'
+      - '{''label'': ''VT'', ''value'': ''VT''}'
+      - '{''label'': ''WA'', ''value'': ''WA''}'
+      - '{''label'': ''WI'', ''value'': ''WI''}'
+      - '{''label'': ''WV'', ''value'': ''WV''}'
+      - '{''label'': ''WY'', ''value'': ''WY''}'
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_fine_payment_form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: Choose a payment method
+      type: select_one
+      options:
+      - '{''name'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''name'': ''paypal'', ''label'': ''PayPal''}'
+      - '{''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''name'': ''check'', ''label'': ''Check''}'
+      - '{''name'': ''eCheck'', ''label'': ''E-Check''}'
+      required: true
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: fine_details
+      label: Fine Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: Optional note for the fine
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

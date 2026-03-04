@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Designer Chair Pre Order Form
+    pages:
+    - id: 1
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 2
+      name: model_selection
+      label: chair_model
+      hint: null
+      type: select_one
+      options:
+      - Chair A
+      - Chair B
+      required: false
+    - id: 3
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: deposit
+      label: deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: delivery_time_window
+      label: delivery_time_window
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false

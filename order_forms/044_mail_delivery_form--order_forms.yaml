@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: mail_delivery_form
+    pages:
+    - id: 1
+      name: shipping_name
+      label: Shipping Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_phone
+      label: Shipping Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_email
+      label: Shipping Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: package_description
+      label: Package Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: package_weight
+      label: Package Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: package_length
+      label: Package Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: package_width
+      label: Package Width
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: package_height
+      label: Package Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_zip_code
+      label: Shipping Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recipient_zip_code
+      label: Recipient Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recipient_phone
+      label: Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recipient_email
+      label: Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: delivery_date_time
+      label: Delivery Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Express
+      - UPS
+      - USPS
+      - FedEx
+      required: false
+    - id: 20
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Delivered
+      - In Transit
+      - Pending
+      required: false

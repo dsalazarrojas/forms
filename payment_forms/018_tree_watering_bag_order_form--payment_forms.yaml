@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Watering Bag Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: product_id
+      label: product id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''credit card''}'
+      - '{''name'': ''paypal''}'
+      - '{''name'': ''bank transfer''}'
+      required: false
+    - id: 10
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''pending''}'
+      - '{''name'': ''approved''}'
+      - '{''name'': ''declined''}'
+      required: false
+    - id: 11
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''chatjimmy''}'
+      - '{''name'': ''chatjimmy2''}'
+      required: false
+    - id: 15
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''pending''}'
+      - '{''name'': ''shipped''}'
+      - '{''name'': ''received''}'
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: form_submitted_by
+      label: form submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted_on
+      label: form submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_submitted_at
+      label: form submitted at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: form_ip_address
+      label: form ip address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_user_agent
+      label: form user agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_browser
+      label: form browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_platform
+      label: form platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_device
+      label: form device
+      hint: null
+      type: text
+      options: []
+      required: false

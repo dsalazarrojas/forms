@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_bunny_photo_order_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_multiple
+      options:
+      - portrait
+      - landscape
+      - squares
+      required: false
+    - id: 5
+      name: photo_size
+      label: Photo Size
+      hint: null
+      type: select_one
+      options:
+      - 4x6
+      - 5x7
+      - 8x10
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: photo_notes
+      label: Photo Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_filename
+      label: Output Filename
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Waste Disposal Service Order Form
+    pages:
+    - id: 1
+      name: facility_address
+      label: Facility Address
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Pharmaceutical
+      - Biological
+      - Sharps
+      - Anatomical
+      - Infectious
+      required: true
+    - id: 3
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

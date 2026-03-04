@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: personalized_necklace_order_form
+    pages:
+    - id: 1
+      name: necklace_type
+      label: Necklace Type
+      hint: null
+      type: select_multiple
+      options:
+      - Chain with Pendant
+      - Chain without Pendant
+      - Custome Made Necklace
+      required: true
+    - id: 2
+      name: length
+      label: Length
+      hint: Select a length from below
+      type: select_one
+      options:
+      - 14 inches
+      - 16 inches
+      - 18 inches
+      - 20 inches
+      required: true
+    - id: 3
+      name: material
+      label: Material
+      hint: null
+      type: select_one
+      options:
+      - Gold
+      - Silver
+      - Platinum
+      - Stainless Steel
+      required: true
+    - id: 4
+      name: clasp_type
+      label: Clasp Type
+      hint: null
+      type: select_one
+      options:
+      - Chain with Clasp
+      - Chain without Clasp
+      - Spring Ring Clasp
+      required: true
+    - id: 5
+      name: chain_type
+      label: Chain Type
+      hint: null
+      type: select_one
+      options:
+      - Single Chain
+      - Double Chain
+      - Triple Chain
+      required: false
+    - id: 6
+      name: pendant_type
+      label: Pendant Style
+      hint: null
+      type: select_one
+      options:
+      - Heart-Shaped
+      - Oval-Shaped
+      - Round-Shaped
+      required: true
+    - id: 7
+      name: engraving
+      label: Engraving
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: custom_order
+      label: Custom Order
+      hint: null
+      type: text
+      options: []
+      required: false

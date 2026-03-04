@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Conference Gift Box Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or School
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Athletic Event or Conference
+      hint: Name of event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: gift_box_type
+      label: Gift Box Type
+      hint: Select box type
+      type: select_one
+      options:
+      - Standard Gift Box
+      - Premium Gift Box
+      - Deluxe Gift Box
+      - Custom Gift Box
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Number of gift boxes
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: box_contents
+      label: Box Contents Selection
+      hint: Select items to include
+      type: select_multiple
+      options:
+      - Branded Water Bottle
+      - Energy Bars
+      - Sports Towel
+      - Conference Program
+      - Commemorative Pin
+      - Sticker Pack
+      - Pen and Notepad
+      - Lanyard
+      - T-Shirt
+      - Hat or Cap
+      - Custom Items
+      required: true
+    - id: 11
+      name: custom_items_description
+      label: Custom Items Description
+      hint: Describe any custom items
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: branding_options
+      label: Branding Options
+      hint: Select branding preferences
+      type: select_multiple
+      options:
+      - Conference Logo
+      - School Logo
+      - Event Name
+      - Custom Message
+      - No Branding
+      required: true
+    - id: 13
+      name: custom_message
+      label: Custom Message
+      hint: Text for custom message
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: packaging_color
+      label: Packaging Color
+      hint: Preferred color scheme
+      type: select_one
+      options:
+      - Standard Conference Colors
+      - School Colors
+      - Neutral
+      - Custom
+      required: true
+    - id: 15
+      name: ribbon_color
+      label: Ribbon Color
+      hint: Ribbon preference
+      type: select_one
+      options:
+      - Conference Colors
+      - School Colors
+      - Gold
+      - Silver
+      - No Ribbon
+      required: false
+    - id: 16
+      name: gift_message_card
+      label: Gift Message Card
+      hint: Include a message card
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: gift_message
+      label: Gift Message
+      hint: Message to include on card
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: unit_price
+      label: Price Per Box
+      hint: Price in USD
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: subtotal
+      label: Subtotal
+      hint: Before tax and shipping
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: shipping_method
+      label: Shipping Method
+      hint: How should order be shipped
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Pickup at Event
+      - Local Delivery
+      required: true
+    - id: 21
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Shipping fee in USD
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to ship
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tax
+      label: Tax
+      hint: Sales tax if applicable
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_amount
+      label: Total Amount
+      hint: Total in USD
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Purchase Order
+      - Check
+      - Wire Transfer
+      required: true
+    - id: 27
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: rush_order
+      label: Rush Order
+      hint: Is this a rush order
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Additional Fees Apply
+      required: true

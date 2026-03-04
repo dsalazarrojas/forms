@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Sampling Counter Order Form
+    pages:
+    - id: 1
+      name: retail_sampling_counter_order_form_page_1
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Product'', ''value'': ''Product''}'
+      - '{''id'': 2, ''label'': ''Sample'', ''value'': ''Sample''}'
+      required: true
+    - id: 3
+      name: customer_details
+      label: Customer Details
+      hint: Enter customer details
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Address
+      hint: Enter customer address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: Enter contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter Email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: Enter order date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: order_time
+      label: Order Time
+      hint: Enter order time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_details
+      label: Order Details
+      hint: Enter order details
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''Completed''}'
+      - '{''id'': 4, ''label'': ''Cancelled'', ''value'': ''Cancelled''}'
+      required: true
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy'', ''value'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''John'', ''value'': ''John''}'
+      required: true
+    - id: 13
+      name: assigned_date
+      label: Assigned Date
+      hint: Enter prophets assigned date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: assigned_time
+      label: Assigned Time
+      hint: Enter assigned time
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user_note
+      label: Assigned User Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: true
+    - id: 17
+      name: retail_store_details
+      label: Retail Store Details
+      hint: Enter retail store details
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: store_name
+      label: Store Name
+      hint: Enter store name
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Store 1'', ''value'': ''Store 1''}'
+      - '{''id'': 2, ''label'': ''Store 2'', ''value'': ''Store 2''}'
+      required: true
+    - id: 19
+      name: store_address
+      label: Store Address
+      hint: Enter store address
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: store_phone
+      label: Store Phone
+      hint: Enter store phone number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: store_email
+      label: Store Email
+      hint: Enter store email address
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: store_website
+      label: Store Website
+      hint: Enter store website
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: store_manager
+      label: Store Manager
+      hint: Enter store manager
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_manager_phone
+      label: Store Manager Phone
+      hint: Enter store manager phone
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: store_manager_email
+      label: Store Manager Email
+      hint: Enter store manager email
+      type: email
+      options: []
+      required: false

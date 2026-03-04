@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post-Surgery Patient Feedback Questionnaire
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: true
+    - id: 3
+      name: follow_up_services
+      label: Follow-up Services
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Follow-up Phone Calls
+      - Text Messaging
+      - Email Communication
+      - Mail Communication
+      required: false
+    - id: 4
+      name: communication_quality
+      label: Communication Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

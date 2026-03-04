@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Therapeutics Pilot Registration Form
+    pages:
+    - id: 1
+      name: patient_enrollment_form
+      label: Patient Enrolment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_history
+      label: Medication History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition_notes
+      label: Medical Condition Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition_previous_tx
+      label: Previous Tx
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 8
+      name: medication_treatment_plan
+      label: Medication Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_plan_dosage
+      label: Treatment Plan Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_plan_frequency
+      label: Treatment Plan Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition_treatment_plan_notes
+      label: Medical Condition Treatment Plan Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition_treatment_plan_side_effects
+      label: Treatment Plan Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 13
+      name: medical_condition_treatment_plan_expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Improved''}'
+      - '{''id'': 2, ''label'': ''Unchanged''}'
+      - '{''id'': 3, ''label'': ''Deteriorated''}'
+      required: true
+    - id: 14
+      name: medical_condition_treatment_plan_previous_outcome
+      label: Previous Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Improved''}'
+      - '{''id'': 2, ''label'': ''Unchanged''}'
+      - '{''id'': 3, ''label'': ''Deteriorated''}'
+      required: true
+    - id: 15
+      name: medical_condition_treatment_plan_expected_duration
+      label: Expected Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: medical_condition_treatment_plan_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: medication_tx
+      label: Medication Tx
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: treatment_plan_notes
+      label: Treatment Plan Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition_treatment_plan_medication_dosage
+      label: Medical Condition Treatment Plan Medication Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_condition_treatment_plan_medication_frequency
+      label: Medical Condition Treatment Plan Medication Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition_treatment_plan_medication_side_effects
+      label: Medical Condition Treatment Plan Medication Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_condition_treatment_plan_medication_previous_tx
+      label: Medical Condition Treatment Plan Medication Previous Tx
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 23
+      name: medical_condition_treatment_plan_medication_dosage_amount
+      label: Medical Condition Treatment Plan Medication Dosage Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_condition_treatment_plan_medication_frequency_quantity
+      label: Medical Condition Treatment Plan Medication Frequency Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_condition_treatment_plan_medication_side_effects_previous_tx
+      label: Medical Condition Treatment Plan Medication Side Effects Previous Tx
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false

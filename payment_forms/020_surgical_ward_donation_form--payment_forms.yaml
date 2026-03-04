@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Ward Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Interac
+      - PayPal
+      required: false
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One-Time
+      - Monthly
+      - Annually
+      required: false
+    - id: 7
+      name: giftaid
+      label: Gift Aid
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: giftaid_amount
+      label: Gift Aid Amount
+      hint: null
+      type: number
+      options: []
+      required: false

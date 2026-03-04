@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Commission Intake Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_found_artist
+      label: How did you find my work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_project_vision
+      label: -- Commission Vision and Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Describe Your Commission Vision
+      hint: What do you want created
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inspiration_references
+      label: Inspiration or Reference Images
+      hint: URL links or descriptions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: style_preference
+      label: Artistic Style Preference
+      hint: Realistic, abstract, modern, traditional, etc.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_specifications
+      label: -- Artwork Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: artwork_medium
+      label: Preferred Medium
+      hint: Painting, sculpture, digital, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dimensions_width
+      label: Preferred Width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: dimensions_height
+      label: Preferred Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: dimensions_unit
+      label: Unit of Measurement
+      hint: null
+      type: select_one
+      options:
+      - Inches
+      - Centimeters
+      - Feet
+      - Meters
+      required: true
+    - id: 16
+      name: color_preferences
+      label: Color Preferences or Palette
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: subject_matter
+      label: Subject Matter or Theme
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_timeline_budget
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: deadline
+      label: When do you need this completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 500
+      - 500-1000
+      - 1000-2500
+      - 2500-5000
+      - 5000-10000
+      - 10000+
+      - Open to discussion
+      required: true
+    - id: 21
+      name: payment_schedule
+      label: Preferred Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - Full payment upfront
+      - 50 percent deposit, 50 percent upon completion
+      - 33 percent increments
+      - Monthly installments
+      - Other arrangement
+      required: true
+    - id: 22
+      name: section_revision_policy
+      label: -- Revisions and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: revision_expectations
+      label: Revision Expectations
+      hint: Number of revision rounds acceptable
+      type: select_one
+      options:
+      - 1 round
+      - 2 rounds
+      - 3 rounds
+      - Unlimited
+      - To be discussed
+      required: true
+    - id: 24
+      name: approval_process
+      label: How will approval process work
+      hint: In-person meetings, digital proofs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

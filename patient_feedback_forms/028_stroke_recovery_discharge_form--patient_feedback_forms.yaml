@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Stroke Recovery Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_disposition
+      label: Patient Disposition
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Rehabilitation
+      - Hospitalization
+      - Other
+      required: false
+    - id: 4
+      name: expected_rehabilitation_start
+      label: Expected Rehab Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: next_contact
+      label: Next Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Warfarin
+      - Ibuprofen
+      - Other
+      required: false
+    - id: 7
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - Alert
+      - Unresponsive
+      required: false
+    - id: 8
+      name: next_contact_provider
+      label: Next Contact Provider
+      hint: null
+      type: select_one
+      options:
+      - Family Doctor
+      - Neurologist
+      - Other
+      required: false
+    - id: 9
+      name: next_contact_location
+      label: Next Contact Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Hospital
+      - Clinic
+      - Other
+      required: false
+    - id: 10
+      name: next_contact_method
+      label: Next Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Other
+      required: false

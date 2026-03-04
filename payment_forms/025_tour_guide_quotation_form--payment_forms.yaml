@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Guide Quotation Form
+    pages:
+    - id: 1
+      name: quotation_date
+      label: Quotation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: tour_operator
+      label: Tour Operator
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''operator1'', ''id'': 1}'
+      - '{''name'': ''operator2'', ''id'': 2}'
+      - '{''name'': ''operator3'', ''id'': 3}'
+      required: false
+    - id: 3
+      name: tour_type
+      label: Tour Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''type1'', ''id'': 1}'
+      - '{''name'': ''type2'', ''id'': 2}'
+      - '{''name'': ''type3'', ''id'': 3}'
+      required: false
+    - id: 4
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tour_price
+      label: Tour Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agency_note
+      label: Agency Note
+      hint: null
+      type: note
+      options: []
+      required: false

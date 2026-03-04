@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertise Of Adfreeposting.com Classifieds
+    pages:
+    - id: 1
+      name: advertiser_information_section
+      label: -- Advertiser Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Name of the person responsible for advertising
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Complete address of your business
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: advertisement_details_section
+      label: -- Advertisement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ad_type
+      label: Ad Type
+      hint: What type of advertisement do you want
+      type: select_one
+      options:
+      - Banner Ad
+      - Text Ad
+      - Image Ad
+      - Video Ad
+      - Featured Listing
+      required: true
+    - id: 9
+      name: banner_size
+      label: Banner Size
+      hint: If selecting banner ad, what size do you prefer
+      type: select_one
+      options:
+      - 728x90 (Leaderboard)
+      - 468x60 (Full Banner)
+      - 300x250 (Medium Rectangle)
+      - 160x600 (Wide Skyscraper)
+      - Custom Size
+      required: false
+    - id: 10
+      name: ad_duration
+      label: Ad Duration
+      hint: How long do you want your ad to run
+      type: select_one
+      options:
+      - 1 Week
+      - 2 Weeks
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      required: true
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: Who is your target audience
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: When should your ad campaign start
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: creative_content_section
+      label: -- Creative Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ad_message
+      label: Ad Message
+      hint: What message do you want to convey in your ad
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: call_to_action
+      label: Call to Action
+      hint: What action do you want viewers to take
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: logo_or_image_upload
+      label: Logo or Image Upload
+      hint: Upload your logo or ad image (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements for your advertisement
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pricing_package_section
+      label: -- Pricing Package --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: selected_package
+      label: Selected Package
+      hint: Which advertising package are you selecting
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Enterprise
+      - Custom Quote
+      required: true
+    - id: 20
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to the terms and conditions of advertising
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

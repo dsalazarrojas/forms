@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Salmon Order Form
+    pages:
+    - id: 1
+      name: salmon_order_form_page_1
+      label: salmon_order_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_info
+      label: vendor_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''vendor_name'', ''label'': ''vendor name'', ''hint'':
+        None, ''type'': ''text'', ''options'': [], ''required'': True}'
+      - '{''id'': 2, ''name'': ''contact_email'', ''label'': ''contact email'', ''hint'':
+        None, ''type'': ''email'', ''options'': [], ''required'': True}'
+      - '{''id'': 3, ''name'': ''contact_phone'', ''label'': ''contact phone'', ''hint'':
+        None, ''type'': ''phone'', ''options'': [], ''required'': True}'
+      required: false
+    - id: 3
+      name: salmon_info
+      label: salmon info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_details
+      label: order details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_info
+      label: delivery info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: payment info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_message
+      label: vendor message
+      hint: null
+      type: text
+      options: []
+      required: false

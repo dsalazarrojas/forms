@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-restaurant-order-pad
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_and_time
+      label: date and time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: order number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: customer_quantity
+      label: customer quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_items
+      label: order items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: order_comment
+      label: order comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Mary
+      required: true
+    - id: 9
+      name: waiter_comment
+      label: waiter comment
+      hint: null
+      type: text
+      options: []
+      required: false

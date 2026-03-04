@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Admission Billing Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: billing_details
+      label: billing_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''patient_name''}'
+      - '{''id'': 2, ''name'': ''patient_dob''}'
+      - '{''id'': 3, ''name'': ''billing_address''}'
+      - '{''id'': 4, ''name'': ''billing_city''}'
+      - '{''id'': 5, ''name'': ''billing_state''}'
+      - '{''id'': 6, ''name'': ''billing_country''}'
+      - '{''id'': 7, ''name'': ''billing_zip''}'
+      required: false
+    - id: 3
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Aetna''}'
+      - '{''id'': 2, ''name'': ''Blue Cross''}'
+      - '{''id'': 3, ''name'': ''UnitedHealth''}'
+      required: false
+    - id: 5
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''Bank Transfer''}'
+      - Other
+      required: false
+    - id: 7
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: billing_date
+      label: billing_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: billing_time
+      label: billing_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Male''}'
+      - '{''id'': 2, ''name'': ''Female''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 12
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_notes
+      label: billing_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_notes
+      label: payment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''name'': ''Payment Due Next 10 Days''}'
+      - Other
+      required: false
+    - id: 17
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: medical_license
+      label: medical_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_license_number
+      label: medical_license_number
+      hint: null
+      type: text
+      options: []
+      required: false

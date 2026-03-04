@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdfunding Pledge Claim Form
+    pages:
+    - id: 1
+      name: crowdfunding_pledge_claim_form
+      label: Pledge Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: amount_captured
+      label: Amount Captured
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: amount_requested
+      label: Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: supporter_details
+      label: Supporter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporter_name
+      label: Supporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporter_email
+      label: Supporter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: supporter_phone
+      label: Supporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporter_address
+      label: Supporter Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supporter_note
+      label: Supporter Note
+      hint: null
+      type: note
+      options: []
+      required: false

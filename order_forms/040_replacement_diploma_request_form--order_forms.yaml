@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: replacement_diploma_request_form
+    pages:
+    - id: 1
+      name: replacement_request
+      label: Replacement Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fee_payment_method
+      label: Fee Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Account Transfer
+      - Wire Transfer
+      required: false
+    - id: 9
+      name: fee_amount
+      label: Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fee_cvv
+      label: Fee CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: student@email.com
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

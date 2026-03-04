@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Payment Receipt
+    pages:
+    - id: 1
+      name: service_payment_receipt_form
+      label: Service Payment Receipt Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_charge
+      label: Service Charge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: total_payment
+      label: Total Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Card
+      required: false
+    - id: 9
+      name: receipt_notes
+      label: Receipt Notes
+      hint: null
+      type: note
+      options: []
+      required: false

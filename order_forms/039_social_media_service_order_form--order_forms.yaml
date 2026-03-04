@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Service Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Social Media Management
+      - Social Media Advertising
+      - Social Media Marketing
+      - Social Media Consulting
+      - Social Media Analytics
+      required: false
+    - id: 3
+      name: service_duration
+      label: service_duration
+      hint: null
+      type: select_one
+      options:
+      - One hour
+      - One day
+      - One week
+      - One month
+      required: false
+    - id: 4
+      name: service_frequency
+      label: service_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: service_price
+      label: service_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Authorizenet
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Pay with Card
+      - Pay with Account
+      required: false

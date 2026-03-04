@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Package Delivery Billing Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_cost
+      label: Delivery Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_phone
+      label: Billing Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_email
+      label: Billing Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: billing_notes
+      label: Billing Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: delivery_service
+      label: Delivery Service
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: package_status
+      label: Package Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: billing_terms
+      label: Billing Terms
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: package_weight
+      label: Package Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: delivery_distance
+      label: Delivery Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: delivery_fees
+      label: Delivery Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: delivery_tax
+      label: Delivery Tax
+      hint: null
+      type: number
+      options: []
+      required: false

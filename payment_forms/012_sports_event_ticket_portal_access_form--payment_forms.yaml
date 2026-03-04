@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Ticket Portal Access Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triple
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: payment_card_number
+      label: Payment Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_card_expiration
+      label: Payment Card Expiration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_card_security_code
+      label: Payment Card Security Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_bank_name
+      label: Payment Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ticket_id
+      label: Ticket ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_organizer_address
+      label: Event Organizer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_organizer_notes
+      label: Event Organizer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: ticket_status
+      label: Ticket Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

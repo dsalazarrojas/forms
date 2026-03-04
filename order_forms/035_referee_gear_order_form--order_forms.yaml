@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Gear Order Form
+    pages:
+    - id: 1
+      name: contact_form_data
+      label: Contact Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: Address for shipping
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_method
+      label: Shipping Method
+      hint: Ground, air, or other
+      type: select_one
+      options:
+      - Ground
+      - Air
+      - Other
+      required: false
+    - id: 4
+      name: shipping_details
+      label: Shipping Details
+      hint: Additional shipping details
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_order
+      label: Equipment Order
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: uniform_order
+      label: Uniform Order
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shipping_terms
+      label: Shipping Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_terms
+      label: Order Terms
+      hint: Terms of the sale
+      type: select_one
+      options:
+      - I have read and agreed
+      - I have not read and agreed
+      required: false
+    - id: 9
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Cost of shipping
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipping_cost_currency
+      label: Shipping Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - AUD
+      - JPY
+      - CNY
+      required: false
+    - id: 11
+      name: shipping_address_2
+      label: Shipping Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: Payment terms
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_date
+      label: Shipping Date
+      hint: Expected shipping date
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_details
+      label: Payment Details
+      hint: Payment details
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms_2
+      label: Payment Terms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipping_method_2
+      label: Shipping Method 2
+      hint: null
+      type: select_one
+      options:
+      - Ground
+      - Air
+      - Other
+      required: false
+    - id: 21
+      name: shipping_terms_2
+      label: Shipping Terms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_terms_2
+      label: Order Terms 2
+      hint: null
+      type: select_one
+      options:
+      - I have read and agreed
+      - I have not read and agreed
+      required: false
+    - id: 23
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

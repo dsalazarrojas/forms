@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Cake Order Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cake_flavor
+      label: Cake Flavor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''chocolate''}'
+      - '{''label'': ''vanilla''}'
+      - '{''label'': ''strawberry''}'
+      - '{''label'': ''red velvet''}'
+      - '{''label'': ''carrot''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 10
+      name: date_delivery
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_delivery
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: birthday
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 17
+      name: gift
+      label: Gift
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 18
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_state
+      label: Delivery State
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Alabama''}'
+      - '{''label'': ''Alaska''}'
+      - '{''label'': ''Arizona''}'
+      - '{''label'': ''Arkansas''}'
+      - '{''label'': ''California''}'
+      - '{''label'': ''Colorado''}'
+      - '{''label'': ''Connecticut''}'
+      - '{''label'': ''Delaware''}'
+      - '{''label'': ''District of Columbia''}'
+      - '{''label'': ''Florida''}'
+      - '{''label'': ''Georgia''}'
+      - '{''label'': ''Hawaii''}'
+      - '{''label'': ''Idaho''}'
+      - '{''label'': ''Illinois''}'
+      - '{''label'': ''Indiana''}'
+      - '{''label'': ''Iowa''}'
+      - '{''label'': ''Kansas''}'
+      - '{''label'': ''Kentucky''}'
+      - '{''label'': ''Louisiana''}'
+      - '{''label'': ''Maine''}'
+      - '{''label'': ''Maryland''}'
+      - '{''label'': ''Massachusetts''}'
+      - '{''label'': ''Michigan''}'
+      - '{''label'': ''Minnesota''}'
+      - '{''label'': ''Mississippi''}'
+      - '{''label'': ''Missouri''}'
+      - '{''label'': ''Montana''}'
+      - '{''label'': ''Nebraska''}'
+      - '{''label'': ''Nevada''}'
+      - '{''label'': ''New Hampshire''}'
+      - '{''label'': ''New Jersey''}'
+      - '{''label'': ''New York''}'
+      - '{''label'': ''North Carolina''}'
+      - '{''label'': ''North Dakota''}'
+      - '{''label'': ''Ohio''}'
+      - '{''label'': ''Oklahoma''}'
+      - '{''label'': ''Oregon''}'
+      - '{''label'': ''Pennsylvania''}'
+      - '{''label'': ''Rhode Island''}'
+      - '{''label'': ''South Carolina''}'
+      - '{''label'': ''South Dakota''}'
+      - '{''label'': ''Tennessee''}'
+      - '{''label'': ''Texas''}'
+      - '{''label'': ''Utah''}'
+      - '{''label'': ''Vermont''}'
+      - '{''label'': ''Virginia''}'
+      - '{''label'': ''Washington''}'
+      - '{''label'': ''West Virginia''}'
+      - '{''label'': ''Wisconsin''}'
+      - '{''label'': ''Wyoming''}'
+      required: false
+    - id: 22
+      name: delivery_zip_code
+      label: Delivery Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: cake_design
+      label: Cake Design
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''round''}'
+      - '{''label'': ''heart''}'
+      - '{''label'': ''star''}'
+      - '{''label'': ''flower''}'
+      - '{''label'': ''animal''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 24
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false

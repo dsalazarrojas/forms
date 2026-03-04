@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Receipt
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: receipt_number
+      label: Receipt Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_payment
+      label: Reason for Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: receiver_name
+      label: Receiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Bank Transfer''}'
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

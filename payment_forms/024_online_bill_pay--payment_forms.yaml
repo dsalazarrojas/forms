@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_bill_pay
+    pages:
+    - id: 1
+      name: invoice_form
+      label: Payment Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: amount
+      label: Pay Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: invoice_number
+      label: Invoice Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: pay_method
+      label: Pay Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: pay_status
+      label: Pay Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: pay_result
+      label: Pay Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: error_message
+      label: Error Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: gateway_response
+      label: Gateway Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: merchant_id
+      label: Merchant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 19
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: shipping_fee
+      label: Shipping Fee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

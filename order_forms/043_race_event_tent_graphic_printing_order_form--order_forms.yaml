@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: race_event_tent_graphic_printing_order_form
+    pages:
+    - id: 1
+      name: race_event_info
+      label: race event details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: graphic_info
+      label: graphic details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: graphic_printing_info
+      label: graphic printing info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_start_time
+      label: event start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: event location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Chicago
+      - Los Angeles
+      required: true
+    - id: 11
+      name: graphic_designer
+      label: graphic designer
+      hint: null
+      type: select_one
+      options:
+      - Designer 1
+      - Designer 2
+      - Designer 3
+      required: true
+    - id: 12
+      name: graphic_file
+      label: graphic file
+      hint: null
+      type: select_multiple
+      options:
+      - file1
+      - file2
+      - file3
+      required: true
+    - id: 13
+      name: graphic_size
+      label: graphic size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: graphic_color
+      label: graphic color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 15
+      name: graphic_orientation
+      label: graphic orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Portrait
+      - Landscape
+      required: true
+    - id: 16
+      name: graphic_finish
+      label: graphic finish
+      hint: null
+      type: select_multiple
+      options:
+      - Matte
+      - Glossy
+      - Lamination
+      required: true

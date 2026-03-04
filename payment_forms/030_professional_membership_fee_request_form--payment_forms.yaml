@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Membership Fee Request Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fee_type
+      label: Fee Type
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''name'': ''Annual''}'
+      - Quarterly
+      - Monthly
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: Requested By
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

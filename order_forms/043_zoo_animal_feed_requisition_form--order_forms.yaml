@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: zoo_animal_feed_requisition_form
+    pages:
+    - id: 1
+      name: species
+      label: Species
+      hint: null
+      type: select_multiple
+      options:
+      - Zebra
+      - Gorilla
+      - Kangaroo
+      required: false
+    - id: 2
+      name: habitat
+      label: Habitat
+      hint: null
+      type: select_multiple
+      options:
+      - Grassland
+      - Jungle
+      - Desert
+      required: false
+    - id: 3
+      name: species_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: needed_by_date
+      label: Needed By Date.reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: feed_type
+      label: Feed Type
+      hint: null
+      type: select_multiple
+      options:
+      - Dry Food
+      - Green Food
+      - Meat Food
+      required: false
+    - id: 6
+      name: feed_frequency
+      label: Feed Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 1st
+      - Every 2nd
+      - Every 3rd
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false

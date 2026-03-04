@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Addiction Recovery Discharge Form
+    pages:
+    - id: 1
+      name: discharge_header
+      label: -- Patient Discharge Summary --
+      hint: Documentation for completion of rehabilitation program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: admission_date
+      label: Date of Admission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: discharge_date
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Completed Program Successfully
+      - Transferred to Higher Level of Care
+      - Discharged Against Medical Advice (AMA)
+      - Administrative Discharge
+      - Other
+      required: true
+    - id: 6
+      name: progress_summary_header
+      label: -- Treatment Progress --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: goals_achieved
+      label: Summary of Clinical Goals Achieved
+      hint: Describe major milestones reached during treatment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: relapse_prevention_plan
+      label: Relapse Prevention Plan Status
+      hint: Has the patient completed their personalized plan?
+      type: select_one
+      options:
+      - Completed and Reviewed
+      - In Progress
+      - Not Completed
+      required: true
+    - id: 9
+      name: follow_up_header
+      label: -- Aftercare and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: level_of_care_recommended
+      label: Recommended Aftercare Level
+      hint: null
+      type: select_one
+      options:
+      - Intensive Outpatient (IOP)
+      - Standard Outpatient Counseling
+      - Sober Living Environment
+      - Support Groups Only (AA/NA)
+      - Specialized Medical Follow-up
+      required: true
+    - id: 11
+      name: aftercare_provider_name
+      label: Designated Aftercare Provider / Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: follow_up_appointment_date
+      label: First Follow-up Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: discharge_medications
+      label: Medications at Discharge
+      hint: List all prescribed medications and dosages
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: support_network
+      label: Primary Support Contacts
+      hint: List family or peers involved in aftercare
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: practitioner_signature_ack
+      label: I certify that the discharge plan has been reviewed with the patient
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 16
+      name: patient_ack_signature
+      label: Patient Acknowledgment of Discharge Instructions
+      hint: null
+      type: select_one
+      options:
+      - I Understand and Accept Instructions
+      - Other
+      required: true

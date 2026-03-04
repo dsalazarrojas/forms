@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcareDigitalTwinResearchRegistration
+    pages:
+    - id: 1
+      name: generalinformation
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contactinformation
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: medicalhistory
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: researchconsent
+      label: Research Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participantdetails
+      label: Participant Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contactperson
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

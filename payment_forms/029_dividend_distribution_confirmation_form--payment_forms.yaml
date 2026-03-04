@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dividend Distribution Confirmation Form
+    pages:
+    - id: 1
+      name: distribution_form
+      label: Distribution Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: distribution_date
+      label: Distribution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shareholder_name
+      label: Shareholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dividend_amount
+      label: Dividend Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: field_6
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method from the below options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_method_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bank_account
+      label: Bank Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: iban
+      label: IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shareholder_number
+      label: Shareholder Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shareholder_number_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: Country
+      hint: Select a country from the below options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: country_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: postal_code_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: country_code
+      label: Country Code
+      hint: Select a country code from the below options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: country_code_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

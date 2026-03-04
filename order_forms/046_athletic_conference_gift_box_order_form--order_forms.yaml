@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Conference Gift Box Order Form
+    pages:
+    - id: 1
+      name: order_event_header
+      label: -- Event and Order Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: conference_name
+      label: Conference or Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: box_selection_header
+      label: -- Gift Box Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: box_tier
+      label: Gift Box Tier
+      hint: Select the base level for your gift boxes
+      type: select_one
+      options:
+      - Essential Tier
+      - Premium Tier
+      - Elite Executive Tier
+      - Custom Bespoke Package
+      required: true
+    - id: 8
+      name: total_quantity
+      label: Total Quantity Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: base_items
+      label: Base Items to be Included
+      hint: Select all that apply to your chosen tier
+      type: select_multiple
+      options:
+      - Stainless Steel Water Bottle
+      - Branded Performance T-Shirt
+      - Executive Notebook and Pen Set
+      - Branded Baseball Cap
+      - Premium Snack and Energy Pack
+      required: true
+    - id: 10
+      name: premium_addons
+      label: Premium Add-on Items
+      hint: Additional costs apply per unit
+      type: select_multiple
+      options:
+      - Bluetooth Portable Speaker
+      - Insulated 30oz Tumbler
+      - Quarter-Zip Embroidered Pullover
+      - Premium Coffee and Mug Set
+      required: false
+    - id: 11
+      name: sizing_breakdown
+      label: Apparel Sizing Breakdown
+      hint: e.g. 20-S, 40-M, 40-L, 10-XL
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: branding_header
+      label: -- Branding and Customization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: logo_placement_choice
+      label: Primary Logo Placement
+      hint: null
+      type: select_one
+      options:
+      - Printed on Box Lid Only
+      - Engraved on Individual Items
+      - Both Box and Individual Items
+      required: true
+    - id: 14
+      name: custom_card_message
+      label: Custom Message for Inclusion Card
+      hint: Max 200 characters
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: box_aesthetic
+      label: Box Color and Aesthetic Theme
+      hint: null
+      type: select_one
+      options:
+      - Minimalist White
+      - Executive Matte Black
+      - Natural Kraft Paper
+      - Custom Team Color Theme
+      required: true
+    - id: 16
+      name: logistics_header
+      label: -- Logistics and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: delivery_address
+      label: Delivery Street Address
+      hint: Full address including city and zip code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: required_delivery_date
+      label: Requested Delivery Date
+      hint: We recommend 2 days prior to event start
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: shipping_method_preference
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Freight (3-5 days)
+      - Priority Overnight
+      - Local White Glove Delivery to Venue
+      required: true
+    - id: 20
+      name: payment_header
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_method_choice
+      label: Preferred Billing Method
+      hint: null
+      type: select_one
+      options:
+      - Corporate Invoice (Net-30)
+      - Credit Card Payment
+      - Pre-existing Corporate Account
+      required: true
+    - id: 22
+      name: order_submission_date
+      label: Date of Order Submission
+      hint: null
+      type: date
+      options: []
+      required: true

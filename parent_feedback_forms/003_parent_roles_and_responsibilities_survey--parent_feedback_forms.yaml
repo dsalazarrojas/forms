@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Roles And Responsibilities Survey
+    pages:
+    - id: 1
+      name: parent_roles_and_responsibilities_survey
+      label: Parent Roles And Responsibilities Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_roles_and_responsibilities_1
+      label: What role does the student play in their family?
+      hint: null
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - Grandparent
+      - Other
+      required: false
+    - id: 3
+      name: parent_roles_and_responsibilities_2
+      label: What is the student's relationship to the parent/guardian?
+      hint: null
+      type: select_one
+      options:
+      - Child
+      - Grandchild
+      - Sibling
+      - Other
+      required: false
+    - id: 4
+      name: parent_roles_and_responsibilities_3
+      label: How often do you interact with the teacher?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: parent_roles_and_responsibilities_4
+      label: How many people in the household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: parent_roles_and_responsibilities_5
+      label: Is there a stay-at-home parent in the household?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: parent_roles_and_responsibilities_6
+      label: How many children are there in the household?
+      hint: null
+      type: number
+      options: []
+      required: false

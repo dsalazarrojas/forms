@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Services Billing Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Where to send invoice
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: invoice_date
+      label: Invoice Date
+      hint: Date of invoice
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: Name of event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: Type of service
+      type: select_one
+      options:
+      - Full Service Catering
+      - Drop-off Catering
+      - Buffet Service
+      - Plated Service
+      - Cocktail Reception
+      required: true
+    - id: 11
+      name: guest_count
+      label: Number of Guests
+      hint: Total guests served
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: food_cost
+      label: Food Cost
+      hint: Cost for food
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: beverage_cost
+      label: Beverage Cost
+      hint: Cost for beverages
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: staff_cost
+      label: Staff Cost
+      hint: Cost for service staff
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: equipment_rental_cost
+      label: Equipment Rental Cost
+      hint: Cost for rentals
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: delivery_fee
+      label: Delivery Fee
+      hint: Delivery charge
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: setup_fee
+      label: Setup Fee
+      hint: Setup charge
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: service_charge
+      label: Service Charge
+      hint: Service fee percentage
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tax_amount
+      label: Tax Amount
+      hint: Applicable taxes
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: gratuity
+      label: Gratuity
+      hint: Tip amount
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: discounts_applied
+      label: Discounts Applied
+      hint: Any discounts
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_amount
+      label: Total Amount Due
+      hint: Final total
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Amount already paid
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: balance_due
+      label: Balance Due
+      hint: Remaining amount
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payment_due_date
+      label: Payment Due Date
+      hint: When payment is due
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 27
+      name: payment_status
+      label: Payment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Unpaid
+      - Pending
+      required: true
+    - id: 28
+      name: billing_notes
+      label: Billing Notes
+      hint: Any special billing instructions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

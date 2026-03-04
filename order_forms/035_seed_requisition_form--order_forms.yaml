@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seed Requisition Form
+    pages:
+    - id: 1
+      name: seed_requisition_form
+      label: Seed Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_code
+      label: Product Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: seed_type
+      label: Seed Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: seed_description
+      label: Seed Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: seed_image
+      label: Seed Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: seed_status
+      label: Seed Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Old
+      - Damaged
+      - Missing
+      required: true
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

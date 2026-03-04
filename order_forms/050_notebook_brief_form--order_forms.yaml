@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notebook Brief Form
+    pages:
+    - id: 1
+      name: notebook_brief_form
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_tool
+      required: true
+    - id: 6
+      name: form_id
+      label: Form Id
+      hint: null
+      type: select_one
+      options:
+      - '13278'
+      - Other
+      required: true

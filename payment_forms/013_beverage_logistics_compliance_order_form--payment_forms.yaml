@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Logistics Compliance Order Form
+    pages:
+    - id: 1
+      name: section_header_buyer
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer Name
+      hint: Person authorized to place this order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_title
+      label: Title or Position
+      hint: Role in organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: buyer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Business placing the order
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_license
+      label: Distributor License Number
+      hint: Required for compliance
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_expiry
+      label: License Expiration Date
+      hint: When is your license valid until?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Business tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should this order be shipped?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_postal
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: When do you need this delivered?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: section_header_order
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: product_types
+      label: Beverage Product Types Ordered
+      hint: What types of beverages (Select all that apply)?
+      type: select_multiple
+      options:
+      - Non-alcoholic beverages
+      - Beer
+      - Wine
+      - Spirits
+      - Cider
+      - Kombucha
+      - Energy drinks
+      - Other
+      required: true
+    - id: 20
+      name: order_quantity
+      label: Total Order Quantity
+      hint: Number of units or cases
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: temperature_control
+      label: Temperature Control Required
+      hint: null
+      type: select_one
+      options:
+      - Refrigerated
+      - Room temperature
+      - Frozen
+      - Mixed - some refrigerated
+      required: true
+    - id: 22
+      name: hazmat_declaration
+      label: Does This Order Contain Hazardous Materials
+      hint: null
+      type: select_one
+      options:
+      - Yes, alcoholic beverages
+      - Yes, energy drinks with caffeine
+      - Yes, other hazardous materials
+      - false
+      required: true
+    - id: 23
+      name: section_header_compliance
+      label: -- Compliance Declarations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: age_verification
+      label: Age Verification Capability
+      hint: Do you have ability to verify age for restricted products?
+      type: select_one
+      options:
+      - Yes, fully equipped
+      - Yes, partial capability
+      - false
+      required: true
+    - id: 25
+      name: labeling_compliance
+      label: All Products Have Required Labeling
+      hint: Nutrition facts, ingredients, warnings, etc.
+      type: select_one
+      options:
+      - Yes, confirmed
+      - Yes, I understand requirement
+      - false
+      required: true
+    - id: 26
+      name: export_compliance
+      label: If International - Export Compliance Status
+      hint: Are you aware of export requirements?
+      type: select_one
+      options:
+      - Domestic order only
+      - Yes, export compliant
+      - Need export assistance
+      - Unsure
+      required: false
+    - id: 27
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      - Wire transfer
+      - Other
+      required: true
+    - id: 29
+      name: billing_address
+      label: Billing Address (if different from delivery)
+      hint: Leave blank if same as delivery address
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: purchase_order
+      label: Purchase Order Number (if applicable)
+      hint: Your internal PO number
+      type: text
+      options: []
+      required: false

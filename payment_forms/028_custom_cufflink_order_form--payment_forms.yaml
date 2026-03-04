@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Cufflink Order Form
+    pages:
+    - id: 1
+      name: custom_cufflink_form
+      label: Custom Cufflink Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient
+      label: recipient
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: recipient_relationship
+      label: recipient_relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': None}'
+      - '{''option_2'': None}'
+      required: false
+    - id: 4
+      name: cufflink_type
+      label: cufflink_type
+      hint: null
+      type: select_one
+      options:
+      - silver_cufflink
+      - gold_cufflink
+      required: false
+    - id: 5
+      name: cufflink_size
+      label: cufflink_size
+      hint: null
+      type: select_one
+      options:
+      - small_cufflink
+      - medium_cufflink
+      - large_cufflink
+      required: false
+    - id: 6
+      name: cufflink_color
+      label: cufflink_color
+      hint: null
+      type: select_one
+      options:
+      - blue_cufflink
+      - red_cufflink
+      - green_cufflink
+      - black_cufflink
+      - white_cufflink
+      required: false
+    - id: 7
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: select_one
+      options:
+      - alabama
+      - alaska
+      - arizona
+      - arkansas
+      - california
+      - colorado
+      - connecticut
+      - delaware
+      - florida
+      - georgia
+      - hawaii
+      - idaho
+      - illinois
+      - indiana
+      - iowa
+      - louisiana
+      - maine
+      - maryland
+      - massachusetts
+      - michigan
+      - minnesota
+      - missouri
+      - mississippi
+      - missouri
+      - montana
+      - nebraska
+      - nevada
+      - new_hampshire
+      - new_jersey
+      - new_mexico
+      - new_york
+      - north_carolina
+      - north_dakota
+      - northern_marianas
+      - oklahoma
+      - oregon
+      - pennsylvania
+      - rhode_island
+      - south_carolina
+      - south_dakota
+      - tennessee
+      - texas
+      - utah
+      - vermont
+      - virginia
+      - washington
+      - west_virginia
+      - wisconsin
+      - wyoming
+      required: false
+    - id: 10
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_price
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

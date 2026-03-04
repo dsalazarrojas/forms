@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Services Payment Form
+    pages:
+    - id: 1
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference invoice number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_address
+      label: Project Address
+      hint: Site location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contractor_name
+      label: Contractor Name
+      hint: Company or individual providing services
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contractor_address
+      label: Contractor Address
+      hint: Mailing address for payment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contractor_email
+      label: Contractor Email
+      hint: Email for payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contractor_phone
+      label: Contractor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contractor_tax_id
+      label: Contractor Tax ID or SSN
+      hint: For tax reporting purposes
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_period_start
+      label: Service Period Start
+      hint: Start date of billing period
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: service_period_end
+      label: Service Period End
+      hint: End date of billing period
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: service_description
+      label: Description of Services
+      hint: Detailed description of work performed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: labor_amount
+      label: Labor Amount
+      hint: Total labor charges
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: labor_hours
+      label: Labor Hours
+      hint: Total hours worked
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: materials_amount
+      label: Materials Amount
+      hint: Total materials charges
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: equipment_amount
+      label: Equipment Amount
+      hint: Equipment rental or usage charges
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: subcontractor_amount
+      label: Subcontractor Amount
+      hint: Subcontractor charges if applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: other_charges
+      label: Other Charges
+      hint: Any additional charges
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: subtotal
+      label: Subtotal
+      hint: Sum of all charges before adjustments
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: retainage_percentage
+      label: Retainage Percentage
+      hint: Percentage withheld if applicable
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: retainage_amount
+      label: Retainage Amount
+      hint: Amount being withheld
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: previous_payments
+      label: Previous Payments
+      hint: Total paid to date on this project
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: change_orders
+      label: Change Order Adjustments
+      hint: Net change order amount
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_due
+      label: Total Due This Period
+      hint: Amount due for this invoice
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How should payment be made
+      type: select_one
+      options:
+      - Check
+      - Wire Transfer
+      - ACH Transfer
+      - Credit Card
+      - Online Payment
+      required: true
+    - id: 26
+      name: payment_terms
+      label: Payment Terms
+      hint: When is payment due
+      type: select_one
+      options:
+      - Due on Receipt
+      - Net 15 Days
+      - Net 30 Days
+      - Net 45 Days
+      - Net 60 Days
+      required: true
+    - id: 27
+      name: lien_waiver
+      label: Lien Waiver Provided
+      hint: Is lien waiver included
+      type: select_one
+      options:
+      - Yes, Conditional
+      - Yes, Unconditional
+      - Will Provide Upon Payment
+      - false
+      required: true
+    - id: 28
+      name: certified_payroll
+      label: Certified Payroll Provided
+      hint: Required for prevailing wage projects
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 29
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List attached documentation
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: authorized_by
+      label: Authorized By
+      hint: Name of person authorizing payment
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

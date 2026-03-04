@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Holiday Collection Pre Order Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: '--- Customer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter the customer's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter a valid email for order confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside domestic region
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing address
+      hint: Street, city, state/province, postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order date
+      hint: Select the date the pre-order is placed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_order
+      label: '--- Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_name
+      label: Item or product name
+      hint: Enter the product title exactly as advertised
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_sku
+      label: Item SKU or code
+      hint: Use supplier SKU to avoid ambiguity (optional)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Enter number of units to pre-order
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: unit_price
+      label: Unit price (USD)
+      hint: Price per single unit in USD, include decimals
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: estimated_total
+      label: Estimated total price (USD)
+      hint: 'Auto-calc: quantity × unit price; enter if manual adjustment needed'
+      type: decimal
+      options: []
+      required: true
+    - id: 13
+      name: discount_code
+      label: Discount or promo code
+      hint: Enter code if applicable; leave blank otherwise
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Choose how you'd like to receive the order
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Store pickup
+      - Local delivery
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery address
+      hint: Required for shipping or local delivery; leave blank for pickup
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: requested_delivery_date
+      label: Requested delivery date
+      hint: Preferred date for delivery or pickup
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: Gift messages, engraving text, or packaging requests
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment method
+      hint: Payment will be processed according to selected method and store policy
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      - Invoice (business accounts)
+      - Cash on pickup
+      required: true
+    - id: 19
+      name: order_fulfillment_options
+      label: Additional fulfillment options
+      hint: Select any extra services required
+      type: select_multiple
+      options:
+      - Gift wrap
+      - Rush fulfillment
+      - Signature on delivery
+      - Saturday delivery
+      - Consolidated shipping
+      required: false
+    - id: 20
+      name: terms_and_conditions_ack
+      label: I acknowledge the pre-order terms, deposit and estimated ship windows
+      hint: Customer must agree to proceed with pre-order
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Use this field for any other information not captured above
+      type: text
+      options: []
+      required: false

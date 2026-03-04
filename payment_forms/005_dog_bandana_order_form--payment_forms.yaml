@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Bandana Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: bandana_type
+      label: Bandana Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Custom
+      required: true
+    - id: 5
+      name: design_type
+      label: Design Type
+      hint: null
+      type: select_multiple
+      options:
+      - Pawprint
+      - Name
+      - Monogram
+      - Monogram with Name
+      required: true
+    - id: 6
+      name: custom_message
+      label: Custom Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: custom_design_file
+      label: Custom Design File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      required: true
+    - id: 9
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true

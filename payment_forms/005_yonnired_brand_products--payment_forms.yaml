@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: YonniRed Brand Products
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash App
+      - PayPal
+      - Stripe
+      required: true
+    - id: 4
+      name: send_total
+      label: Send Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: receive_total
+      label: Receive Total
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Pending
+      - Cancelled
+      required: true
+    - id: 7
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: send_message
+      label: Send Message
+      hint: null
+      type: select_multiple
+      options:
+      - Customer
+      - Shopkeeper
+      required: false
+    - id: 9
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_user
+      label: Payment User
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_status_note
+      label: Payment Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      required: true
+    - id: 21
+      name: customer_province
+      label: Customer Province
+      hint: null
+      type: select_one
+      options:
+      - Province 1
+      - Province 2
+      required: true
+    - id: 22
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method_note
+      label: Payment Method Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: thank_you_insert_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Customer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: Please provide any feedback or comments about your experience with us.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 5
+      name: order_photos
+      label: Order Photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Attach Photos''}'
+      - '{''label'': ''Attach Videos''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: 123-456-1234
+      type: text
+      options: []
+      required: false

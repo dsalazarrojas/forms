@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Figurine Pre Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 5
+      name: figurine_name
+      label: Figurine Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pre_order_date
+      label: Pre-Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: figurine_price
+      label: Figurine Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: false

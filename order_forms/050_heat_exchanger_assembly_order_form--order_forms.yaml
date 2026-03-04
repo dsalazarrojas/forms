@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Exchanger Assembly Order Form
+    pages:
+    - id: 1
+      name: heat_exchanger_order_form_page_1
+      label: heat exchanger assembly order form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_id
+      label: product id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_note
+      label: delivery note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: heat_exchanger_part_details
+      label: heat exchanger part details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Done
+      - On Hold
+      - Cancelled
+      required: true
+    - id: 13
+      name: order_type
+      label: order type
+      hint: null
+      type: select_multiple
+      options:
+      - Repair
+      - Return
+      - Refund
+      required: false
+    - id: 14
+      name: heat_exchanger_serial_number
+      label: heat exchanger serial number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: customer_order_reference
+      label: customer order reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: order_notes
+      label: order notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: order_notes
+      label: order notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_notes
+      label: delivery notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_instructions
+      label: delivery instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_comments
+      label: customer comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_person
+      label: delivery person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: heat_exchanger_model
+      label: heat exchanger model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: true

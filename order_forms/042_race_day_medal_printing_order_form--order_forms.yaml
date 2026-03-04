@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Race Day Medal Printing Order Form
+    pages:
+    - id: 1
+      name: race_day_medal_text
+      label: Race Day Medal Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medal_designs
+      label: Medal Designs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity_per_medal
+      label: Quantity per Medal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_medals_ordered
+      label: Total Medals Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: false
+    - id: 10
+      name: order_submitted_by
+      label: Order Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

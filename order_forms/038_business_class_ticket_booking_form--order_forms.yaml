@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Class Ticket Booking Form
+    pages:
+    - id: 1
+      name: traveler_info
+      label: Traveler Information
+      hint: Passenger details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Name as on passport or ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: frequent_flyer_number
+      label: Frequent Flyer Number
+      hint: Loyalty program number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: passport_number
+      label: Passport Number
+      hint: For international travel
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trip_details
+      label: Trip Details
+      hint: Travel information
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: trip_type
+      label: Trip Type
+      hint: One way or round trip
+      type: select_one
+      options:
+      - One Way
+      - Round Trip
+      - Multi-City
+      - Open Jaw
+      required: true
+    - id: 10
+      name: departure_city
+      label: Departure City
+      hint: Where are you departing from
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: arrival_city
+      label: Arrival City
+      hint: Your destination
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: departure_date
+      label: Departure Date
+      hint: When do you want to leave
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: return_date
+      label: Return Date
+      hint: When do you want to return
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_airline
+      label: Preferred Airline
+      hint: Any airline preference
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cabin_class
+      label: Cabin Class
+      hint: Class of service
+      type: select_one
+      options:
+      - Business Class
+      - First Class
+      - Premium Economy
+      - Flexible
+      required: true
+    - id: 16
+      name: flight_preferences
+      label: Flight Preferences
+      hint: Your preferences
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: seat_preference
+      label: Seat Preference
+      hint: Where do you want to sit
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Middle
+      - No Preference
+      required: true
+    - id: 18
+      name: meal_preference
+      label: Meal Preference
+      hint: Dietary requirements
+      type: select_one
+      options:
+      - No Preference
+      - Vegetarian
+      - Vegan
+      - Kosher
+      - Halal
+      - Gluten-Free
+      - Low Sodium
+      - Diabetic
+      - Other
+      required: true
+    - id: 19
+      name: special_meal_notes
+      label: Special Meal Notes
+      hint: Any specific dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: baggage_requirements
+      label: Baggage Requirements
+      hint: How much luggage
+      type: select_one
+      options:
+      - Carry-On Only
+      - 1 Checked Bag
+      - 2 Checked Bags
+      - 3+ Checked Bags
+      required: true
+    - id: 21
+      name: lounge_access
+      label: Lounge Access
+      hint: Do you want airport lounge access
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 22
+      name: ground_transport
+      label: Ground Transportation
+      hint: Do you need airport transfers
+      type: select_one
+      options:
+      - false
+      - Pickup Only
+      - Drop-off Only
+      - Both Pickup and Drop-off
+      required: true
+    - id: 23
+      name: hotel_booking
+      label: Hotel Booking
+      hint: Do you need hotel accommodation
+      type: select_one
+      options:
+      - false
+      - Yes - Need Booking
+      - Yes - Have Own Booking
+      required: true
+    - id: 24
+      name: travel_insurance
+      label: Travel Insurance
+      hint: Do you want travel insurance
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: budget_range
+      label: Budget Range
+      hint: Expected price range
+      type: select_one
+      options:
+      - Economy
+      - Moderate
+      - Flexible
+      - Premium - Best Available
+      required: true
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Corporate Credit Card
+      - Personal Credit Card
+      - Bank Transfer
+      - Invoice
+      - Company Account
+      required: true
+    - id: 28
+      name: billing_address
+      label: Billing Address
+      hint: Address for billing
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_travelers
+      label: Additional Travelers
+      hint: Is anyone else traveling
+      type: text
+      options: []
+      required: false

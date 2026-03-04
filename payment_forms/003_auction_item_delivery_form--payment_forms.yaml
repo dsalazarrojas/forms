@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Item Delivery Form
+    pages:
+    - id: 1
+      name: purchaser_full_name
+      label: Purchaser Full Name
+      hint: Legal name of the item purchaser
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: purchaser_email
+      label: Email Address
+      hint: For delivery notifications and tracking
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: purchaser_phone
+      label: Phone Number
+      hint: Contact number for delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: auction_event_name
+      label: Auction Event Name
+      hint: Name of the auction where item was purchased
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: auction_date
+      label: Auction Date
+      hint: Date when the auction took place
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: invoice_number
+      label: Invoice Number
+      hint: Your auction invoice or receipt number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_lot_number
+      label: Item Lot Number
+      hint: Lot number of purchased item
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_description
+      label: Item Description
+      hint: Brief description of the purchased item
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_method
+      label: Delivery Method
+      hint: How would you like to receive your item?
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - White Glove Delivery
+      - In-Person Pickup
+      - Freight Shipping
+      required: true
+    - id: 10
+      name: delivery_address_line1
+      label: Delivery Address Line 1
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_address_line2
+      label: Delivery Address Line 2
+      hint: Apartment, suite, unit, or building
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_state
+      label: State or Province
+      hint: State or province for delivery
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_zip_code
+      label: ZIP or Postal Code
+      hint: ZIP or postal code for delivery
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_country
+      label: Country
+      hint: Country for delivery
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 16
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: Select your preferred delivery date
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time_preference
+      label: Delivery Time Preference
+      hint: Preferred time window for delivery
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 5pm)
+      - Evening (5pm - 8pm)
+      - No preference
+      required: false
+    - id: 18
+      name: special_delivery_instructions
+      label: Special Delivery Instructions
+      hint: Gate codes, building access, or other instructions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_required
+      label: Signature Required
+      hint: Does delivery require a signature?
+      type: select_one
+      options:
+      - Yes, signature required
+      - No, leave at door
+      required: true
+    - id: 20
+      name: insurance_option
+      label: Shipping Insurance
+      hint: Add insurance for your item during transit
+      type: select_one
+      options:
+      - Yes, add insurance
+      - No, decline insurance
+      required: true

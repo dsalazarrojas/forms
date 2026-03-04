@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regulatory Violation Payment Form
+    pages:
+    - id: 1
+      name: regulatory_violation_payment_form
+      label: Regulatory Violation Payment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: regulatory_violation_date
+      label: Regulatory Violation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: Choose your payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 4
+      name: amount_received
+      label: Amount Received
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: regulatory_violation_description
+      label: Regulatory Violation Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: Payment status
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Failed
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: regulatory_violation_type
+      label: Regulatory Violation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 13
+      name: regulatory_violation_id
+      label: Regulatory Violation ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: submitter_details
+      label: Submitter Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: paid_amount
+      label: Paid Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: regulatory_violation_notes
+      label: Regulatory Violation Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: regulatory_violation_fines
+      label: Regulatory Violation Fines
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: regulatory_violation_fees
+      label: Regulatory Violation Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: regulatory_violation_fines_total
+      label: Regulatory Violation Fines Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: regulatory_violation_fees_total
+      label: Regulatory Violation Fees Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: regulatory_violation_payment_method
+      label: Regulatory Violation Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: regulatory_violation_payment_status
+      label: Regulatory Violation Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Failed
+      required: true
+    - id: 25
+      name: regulatory_violation_payment_date
+      label: Regulatory Violation Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true

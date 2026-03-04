@@ -1,0 +1,222 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bakery Order Inquiry Form
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Bakery Order Inquiry --
+        hint: Submit your inquiry for a bakery quote
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inquirer_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inquirer_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: inquirer_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: organization
+        Label: Organization or Company (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_event
+        label: -- Event Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: event_type
+        Label: Type of Event or Occasion
+        hint: null
+        type: select_one
+        options:
+          - Wedding
+          - Birthday
+          - Corporate Event
+          - Holiday Party
+          - Graduation
+          - Anniversary
+          - Fundraiser
+          - Other
+        required: true
+      - id: 8
+        name: event_date
+        Label: Event Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: guest_count
+        Label: Number of Guests
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 10
+        name: section_product
+        label: -- Product Inquiry --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: product_interested
+        Label: Products Interested In
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Cakes
+          - Cupcakes
+          - Cookies
+          - Pastries
+          - Bread
+          - Custom Creations
+          - Other
+        required: true
+      - id: 12
+        name: product_description
+        Label: Detailed Product Description
+        hint: What are you looking for?
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: quantity_estimate
+        Label: Estimated Quantity
+        hint: Number of servings or pieces
+        type: integer
+        options: []
+        required: true
+      - id: 14
+        name: flavor_ideas
+        Label: Flavor Ideas or Preferences
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: design_ideas
+        Label: Design or Decoration Ideas
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_customization
+        label: -- Customization Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: dietary_requirements
+        Label: Dietary Requirements or Allergies
+        hint: Vegan, gluten-free, nut-free, etc.
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: custom_requests
+        Label: Custom Requests or Special Accommodations
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: section_logistics
+        label: -- Delivery and Budget --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: delivery_location
+        Label: Delivery Location
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: budget_range
+        Label: Budget Range
+        hint: null
+        type: select_one
+        options:
+          - Under 100
+          - 100 - 250
+          - 250 - 500
+          - 500 - 1000
+          - 1000+
+          - Not Sure
+        required: false
+      - id: 22
+        name: timeline
+        Label: Timeline for Quote
+        hint: How soon do you need a quote?
+        type: select_one
+        options:
+          - Urgent
+          - Within 1 week
+          - Within 2 weeks
+          - Within 1 month
+          - No specific timeline
+        required: false
+      - id: 23
+        name: section_followup
+        label: -- Follow-up Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: contact_preference
+        Label: Preferred Contact Method
+        hint: null
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Text Message
+        required: false
+      - id: 25
+        name: inquiry_submission
+        Label: I Submit This Inquiry and Await a Quote
+        hint: null
+        type: select_one
+        options:
+          - Submit Inquiry
+          - Save for Later
+        required: true

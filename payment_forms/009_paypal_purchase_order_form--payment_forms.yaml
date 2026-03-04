@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Purchase Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: total_items
+      label: Total items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: unit_price
+      label: Unit price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: shipping_cost
+      label: Shipping cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: payment_method_options
+      label: Payment method options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: paypal_email
+      label: PayPal email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: paypal_password
+      label: PayPal password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: paypal_token
+      label: PayPal token
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirm_email
+      label: Confirm email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: confirm_password
+      label: Confirm password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirm_token
+      label: Confirm token
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirm_total
+      label: Confirm total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: confirm_ship_cost
+      label: Confirm ship cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: confirm_pay_method
+      label: Confirm payment method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: confirm_pay_method_options
+      label: Confirm payment method options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm_paypal_email
+      label: Confirm PayPal email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: confirm_paypal_password
+      label: Confirm PayPal password
+      hint: null
+      type: text
+      options: []
+      required: false

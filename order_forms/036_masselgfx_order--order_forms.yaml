@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Masselgfx Order
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: graphic_type
+      label: Graphic Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Image''}'
+      - '{''id'': 2, ''name'': ''Graphic''}'
+      - '{''id'': 3, ''name'': ''Logo''}'
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

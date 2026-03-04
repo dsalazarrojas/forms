@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_window_lightbox_order_form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Enter the order date
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: order_time
+      label: Order Time
+      hint: Enter the order time
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: customer_info
+      label: Customer Info
+      hint: Enter customer information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_notes
+      label: Order Notes
+      hint: Enter any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: Order Type
+      hint: Select the order type
+      type: select_one
+      options:
+      - typeA
+      - typeB
+      - typeC
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter contact phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: Select the payment method
+      type: select_one
+      options:
+      - credit
+      - cash
+      - other
+      required: false
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter shipping address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_city
+      label: Shipping City
+      hint: Enter shipping city
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_state
+      label: Shipping State
+      hint: Enter shipping state
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_zip
+      label: Shipping Zip
+      hint: Enter shipping zip
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_country
+      label: Shipping Country
+      hint: Enter shipping country
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_comments
+      label: Order Comments
+      hint: Enter any additional comments
+      type: text
+      options: []
+      required: false

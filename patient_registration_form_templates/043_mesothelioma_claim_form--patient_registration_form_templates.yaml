@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mesothelioma Claim Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_of_diagnosis
+      label: Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: diagnosis_date_of_diagnosis
+      label: Diagnosis Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: insurance_name
+      label: Insurance Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: insurance_id
+      label: Insurance ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Asbestos
+      - Other
+      - Mesothelioma
+      required: true
+    - id: 13
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Reconsider
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: reviewed
+      label: Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: completed
+      label: Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: claim_closed
+      label: Claim Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: mesothelioma_type
+      label: Mesothelioma Type
+      hint: null
+      type: select_multiple
+      options:
+      - Pleural Mesothelioma
+      - Peritoneal Mesothelioma
+      - Peritoneal Mesothelioma (epithelial)
+      - Cystic Mesothelioma
+      - Malignant Mesothelioma
+      - Malignant Peritoneal Mesothelioma
+      - Malignant Pleural Mesothelioma
+      - Malignant Cystic Mesothelioma
+      required: false
+    - id: 25
+      name: asbestos_exposure
+      label: Asbestos Exposure
+      hint: null
+      type: select_multiple
+      options:
+      - Asbestos in the work-place
+      - Asbestos in the home
+      - Asbestos in the environment
+      - Other
+      required: false

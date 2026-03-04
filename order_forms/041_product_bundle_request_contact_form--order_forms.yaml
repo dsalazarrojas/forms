@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Bundle Request Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: use_case
+      label: Use Case
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_bundle
+      label: Product Bundle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: saas_provider
+      label: SaaS Provider
+      hint: null
+      type: select_one
+      options:
+      - SaaS Provider 1
+      - SaaS Provider 2
+      required: true
+    - id: 8
+      name: agency
+      label: Agency
+      hint: null
+      type: select_multiple
+      options:
+      - Agency 1
+      - Agency 2
+      required: true
+    - id: 9
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - Team 1
+      - Team 2
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lead_qualification
+      label: Lead Qualification
+      hint: null
+      type: select_one
+      options:
+      - Lead Qualification 1
+      - Lead Qualification 2
+      required: true

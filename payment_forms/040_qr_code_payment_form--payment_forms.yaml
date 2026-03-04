@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: qr_code_payment_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_amount
+      label: Total amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Paid''}'
+      - '{''value'': ''Unpaid''}'
+      - '{''value'': ''Partially paid''}'
+      required: false

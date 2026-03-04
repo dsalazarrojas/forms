@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Service Booth Payment Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form-data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: payment-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_button
+      label: submit-button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_errors
+      label: form-errors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_notes
+      label: customer-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_telephone
+      label: customer-telephone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: customer-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_city
+      label: customer-city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_state
+      label: customer-state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_postal_code
+      label: customer-postal-code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_description
+      label: order-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_total
+      label: order-total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: order_status
+      label: order-status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_type
+      label: payment-type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank Transfer''}'
+      required: false
+    - id: 18
+      name: order_total_currency
+      label: order-total-currency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''USD''}'
+      - '{''value'': ''CAD''}'
+      - '{''value'': ''EUR''}'
+      required: false
+    - id: 19
+      name: date_of_purchase
+      label: date-of-purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_of_purchase
+      label: time-of-purchase
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: customer_signature
+      label: customer-signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_note
+      label: customer-note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_note
+      label: form-note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit_notice
+      label: submit-notice
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms
+      label: payment-terms
+      hint: null
+      type: note
+      options: []
+      required: false

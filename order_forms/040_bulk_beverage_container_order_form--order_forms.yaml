@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bulk Beverage Container Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: When placing this order
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business or Establishment Name
+      hint: Restaurant, bar, venue, etc
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: What type of business
+      type: select_one
+      options:
+      - Restaurant
+      - Bar or Nightclub
+      - Catering Service
+      - Event Venue
+      - Hotel
+      - Hospital
+      - Corporate
+      - Other
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: billing_zip
+      label: Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to deliver
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_city
+      label: Delivery City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: container_type
+      label: Container Type
+      hint: What type of containers
+      type: select_one
+      options:
+      - Plastic Cups
+      - Glass Bottles
+      - Cans
+      - Thermal Containers
+      - Dispensers
+      - Kegs
+      - Carafe Sets
+      - Other
+      required: true
+    - id: 14
+      name: container_size
+      label: Container Size
+      hint: Volume or capacity
+      type: select_one
+      options:
+      - Small - 8-12 oz
+      - Medium - 16-20 oz
+      - Large - 24-32 oz
+      - Extra Large - 40 oz plus
+      - Multiple Sizes
+      - Custom
+      required: true
+    - id: 15
+      name: material_type
+      label: Material Type
+      hint: What material
+      type: select_one
+      options:
+      - Plastic
+      - Glass
+      - Aluminum
+      - Paper
+      - Biodegradable
+      - Mixed
+      required: true
+    - id: 16
+      name: quantity_amount
+      label: Quantity
+      hint: Number of containers
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: unit_type
+      label: Unit Type
+      hint: Individual, case, pallet
+      type: select_one
+      options:
+      - Individual Containers
+      - Cases
+      - Cartons
+      - Pallets
+      - Skids
+      required: true
+    - id: 18
+      name: beverage_type
+      label: Intended Beverage Type
+      hint: Coffee, soda, juice, alcohol, etc
+      type: select_multiple
+      options:
+      - Hot Beverages
+      - Cold Beverages
+      - Soda or Carbonated
+      - Juice or Smoothies
+      - Alcohol or Beer
+      - Water
+      - Specialty Drinks
+      required: false
+    - id: 19
+      name: branding
+      label: Custom Branding or Printing
+      hint: Do you need custom printing
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: branding_details
+      label: Branding Details
+      hint: Logo, colors, text
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: unit_price
+      label: Unit Price
+      hint: Price per container
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_cost
+      label: Total Estimated Cost
+      hint: Approximate total
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: How to deliver
+      type: select_one
+      options:
+      - Standard Delivery
+      - Expedited Delivery
+      - Next Day Delivery
+      - Will Pickup
+      required: true
+    - id: 25
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: Time window
+      type: select_one
+      options:
+      - Morning 8am-12pm
+      - Afternoon 12pm-5pm
+      - Evening 5pm-9pm
+      - Flexible
+      required: false
+    - id: 26
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Any special needs
+      type: text
+      options: []
+      required: false

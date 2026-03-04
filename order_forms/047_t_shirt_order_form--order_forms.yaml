@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: T Shirt Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_select
+      label: Product Select
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''T Shirt'', ''label'': ''T Shirt''}'
+      - '{''id'': 2, ''name'': ''T Shirt'', ''label'': ''T Shirt''}'
+      - '{''id'': 3, ''name'': ''T Shirt'', ''label'': ''T Shirt''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

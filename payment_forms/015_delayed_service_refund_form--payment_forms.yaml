@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delayed Service Refund Form
+    pages:
+    - id: 1
+      name: delayed_service_refund_form
+      label: Service Not Delivered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_delayed_service
+      label: Reason For Delayed Service
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: true

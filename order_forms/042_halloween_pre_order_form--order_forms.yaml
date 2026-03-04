@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: halloween_pre_order_form
+    pages:
+    - id: 1
+      name: product
+      label: product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: shipping_cost
+      label: shipping
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_name
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: order
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_name
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: nail_arts
+      label: nail
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: product_id
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 13
+      name: custom_fields
+      label: custom
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

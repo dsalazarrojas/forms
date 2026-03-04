@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Appraisal CW
+    pages:
+    - id: 1
+      name: payment_form
+      label: Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_amount
+      label: Amount
+      hint: Amount
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Wire Transfer
+      - Other
+      required: false
+    - id: 5
+      name: payment_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Pending
+      - Declined
+      required: false
+    - id: 6
+      name: trade_id
+      label: Trade ID
+      hint: Trade ID
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Net 30
+      - Net 60
+      - Other
+      required: false
+    - id: 9
+      name: payment_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_email
+      label: Email
+      hint: Email
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_certification_assistance_donation_form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: Enter user details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_details
+      label: Donation Details
+      hint: Enter donation details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_information
+      label: Payment Information
+      hint: Enter payment information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Enter first name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Enter last name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_email
+      label: Donor Email
+      hint: Enter donor email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter donation amount
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: Frequency of Donations
+      hint: Select frequency of donations
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Enter notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: donation_frequency_other
+      label: Other
+      hint: Enter other
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donation_frequency_note
+      label: Note
+      hint: Enter note
+      type: text
+      options: []
+      required: false

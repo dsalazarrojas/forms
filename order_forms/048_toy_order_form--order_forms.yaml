@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toy Order Form
+    pages:
+    - id: 1
+      name: soft_toy_input
+      label: Soft Toy Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_input
+      label: Book Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: board_game_input
+      label: Board Game Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''value'': ''option1_value1''}'
+      - '{''name'': ''option2'', ''value'': ''option2_value2''}'
+      - '{''name'': ''option3'', ''value'': ''option3_value3''}'
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

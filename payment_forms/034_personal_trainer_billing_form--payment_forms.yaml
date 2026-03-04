@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Trainer Billing Form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank Transfer
+      required: false
+    - id: 9
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: expiration_month
+      label: Expiration Month
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: expiration_year
+      label: Expiration Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: cvv_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Other
+      required: false
+    - id: 15
+      name: cvv_type_other
+      label: Other Card Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expiration_date_time
+      label: Expiration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false

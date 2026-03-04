@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: teacher_request_form
+    pages:
+    - id: 1
+      name: student_details
+      label: student_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject
+      label: subject
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''math''}'
+      - '{''value'': ''english''}'
+      - '{''value'': ''science''}'
+      - '{''value'': ''history''}'
+      - '{''value'': ''art''}'
+      - '{''value'': ''music''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 3
+      name: date_time
+      label: date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_name
+      label: student_name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''3rd''}'
+      - '{''value'': ''4th''}'
+      - '{''value'': ''5th''}'
+      - '{''value'': ''6th''}'
+      - '{''value'': ''7th''}'
+      - '{''value'': ''8th''}'
+      - '{''value'': ''9th''}'
+      - '{''value'': ''10th''}'
+      - '{''value'': ''11th''}'
+      required: false
+    - id: 6
+      name: parent_details
+      label: parent_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_details
+      label: teacher_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false

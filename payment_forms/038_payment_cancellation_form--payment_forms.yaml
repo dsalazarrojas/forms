@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_cancellation_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: cancel_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason
+      label: cancel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: cancel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: cancel_amount
+      hint: null
+      type: number
+      options: []
+      required: false

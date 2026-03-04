@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibition_booth_payment_form
+    pages:
+    - id: 1
+      name: exhibition_booth_payment_form_form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: exhibition_booth_payment_form_exhibitor_name
+      label: Exhibitor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exhibition_booth_payment_form_exhibitor_id
+      label: Exhibitor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: exhibition_booth_payment_form_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exhibition_booth_payment_form_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: exhibition_booth_payment_form_additional_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exhibition_booth_payment_form_exhibitor_address
+      label: Exhibitor Address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''address1'', ''label'': ''Address 1''}'
+      - '{''value'': ''address2'', ''label'': ''Address 2''}'
+      - '{''value'': ''address3'', ''label'': ''Address 3''}'
+      required: false
+    - id: 8
+      name: exhibition_booth_payment_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: exhibition_booth_payment_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: exhibition_booth_payment_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Support Payment Declaration Form
+    pages:
+    - id: 1
+      name: section_declaration_info
+      label: -- Declaration Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payer_name
+      label: Name of Parent Making Payment
+      hint: Payor full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payee_name
+      label: Name of Parent Receiving Payment
+      hint: Payee full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_payment_details
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: amount_paid
+      label: Total Amount Paid
+      hint: Numeric currency value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_date
+      label: Date of Payment
+      hint: When was the funds sent?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: payment_method_select
+      label: Payment Method
+      hint: Select the mode of transfer
+      type: select_one
+      options:
+      - label: Cash Payment
+        value: cash
+      - label: Personal or Cashier Check
+        value: check
+      - label: Bank Transfer (ACH)
+        value: bank
+      - label: Money Order
+        value: money_order
+      required: true
+    - id: 8
+      name: section_period_covered
+      label: -- Period Covered --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: period_start
+      label: Payment Period Start
+      hint: Beginning of coverage
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: period_end
+      label: Payment Period End
+      hint: End of coverage
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_declaration_statement
+      label: -- Declaration Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_declaration_ack
+      label: I declare that this payment was made in full for the period stated
+      hint: Legal confirmation
+      type: select_one
+      options:
+      - label: Yes - Confirmed
+        value: true
+      - label: No - Partial Payment
+        value: false
+      required: true
+    - id: 13
+      name: payment_notes
+      label: Additional notes regarding the payment
+      hint: Share any details on transfer or receipts
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: declaration_date
+      label: Date of Declaration
+      hint: Today date
+      type: date
+      options: []
+      required: true

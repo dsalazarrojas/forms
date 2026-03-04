@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Recommendation Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Conference
+      - Private Party
+      - Holiday Party
+      - Other
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: guest_count
+      label: Number of Guests
+      hint: Expected guests
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: budget_range
+      label: Budget Range
+      hint: Your budget per person
+      type: select_one
+      options:
+      - Under $25
+      - $25 to $50
+      - $50 to $75
+      - $75 to $100
+      - $100 to $150
+      - Over $150
+      required: true
+    - id: 8
+      name: cuisine_preferences
+      label: Cuisine Preferences
+      hint: What type of food do you like
+      type: select_multiple
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - French
+      - Indian
+      - Fusion
+      required: false
+    - id: 9
+      name: service_style_preference
+      label: Service Style Preference
+      hint: How would you like food served
+      type: select_one
+      options:
+      - Buffet
+      - Plated Dinner
+      - Family Style
+      - Cocktail Reception
+      - Food Stations
+      - No Preference
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: favorite_foods
+      label: Favorite Foods
+      hint: What foods do you love
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: foods_to_avoid
+      label: Foods to Avoid
+      hint: Any dislikes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: beverage_preference
+      label: Beverage Preference
+      hint: What drinks do you prefer
+      type: select_one
+      options:
+      - Full Bar
+      - Beer and Wine
+      - Non-Alcoholic
+      - Coffee and Tea
+      - No Preference
+      required: false
+    - id: 14
+      name: formality_level
+      label: Formality Level
+      hint: How formal is the event
+      type: select_one
+      options:
+      - Very Formal
+      - Semi-Formal
+      - Casual
+      - Very Casual
+      required: true
+    - id: 15
+      name: time_of_day
+      label: Time of Day
+      hint: When is the event
+      type: select_one
+      options:
+      - Morning
+      - Midday
+      - Afternoon
+      - Evening
+      - Late Night
+      required: true
+    - id: 16
+      name: venue_type
+      label: Venue Type
+      hint: Where is the event
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Both
+      - Not Sure Yet
+      required: false
+    - id: 17
+      name: season
+      label: Season
+      hint: Time of year
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      required: false
+    - id: 18
+      name: special_occasion
+      label: Special Occasion Details
+      hint: Any special significance
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: past_catering_experience
+      label: Past Catering Experience
+      hint: What have you liked before
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: inspiration_sources
+      label: Inspiration Sources
+      hint: Pinterest - magazines - etc
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recommendation_type
+      label: What Recommendations Do You Need
+      hint: Menu - service style - etc
+      type: select_multiple
+      options:
+      - Menu Suggestions
+      - Service Style
+      - Beverage Pairing
+      - Presentation Ideas
+      - Budget Optimization
+      - Full Planning
+      required: true
+    - id: 22
+      name: decision_timeline
+      label: When Do You Need Recommendations
+      hint: Your deadline
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

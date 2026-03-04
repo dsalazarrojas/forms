@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Subscription Fulfillment Order Form
+    pages:
+    - id: 1
+      name: gift_subscription_fulfillment_order_form_1
+      label: Gift Subscription Fulfillment Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: gift_type
+      label: gift type
+      hint: null
+      type: select_one
+      options:
+      - Subscription with Gift Box
+      - Subscription without Gift Box
+      - Subscription with Gift Subscription
+      required: true
+    - id: 4
+      name: subscription_period
+      label: subscription period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: subscription_start_date
+      label: subscription start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gift_value
+      label: gift value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: gift_note
+      label: gift note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: gift_message
+      label: gift message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_email
+      label: business email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: business_phone
+      label: business phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: gift_recipient_name
+      label: gift recipient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: gift_recipient_email
+      label: gift recipient email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: gift_recipient_phone
+      label: gift recipient phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: gift_subscription_status
+      label: gift subscription status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Processing
+      - Completed
+      - Cancelled
+      required: true
+    - id: 15
+      name: form_submitted_by
+      label: form submitted by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_url
+      label: business url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gift_order_id
+      label: gift order id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: gift_order_note
+      label: gift order note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: gift_order_value
+      label: gift order value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: gift_order_status
+      label: gift order status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Processing
+      - Completed
+      - Cancelled
+      required: true
+    - id: 21
+      name: gift_order_date
+      label: gift order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: gift_order_value_status
+      label: gift order value status
+      hint: null
+      type: select_one
+      options:
+      - Unpaid
+      - Partial
+      - Paid
+      required: true
+    - id: 23
+      name: order_note
+      label: order note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: gift_subscription_fulfillment_note
+      label: gift subscription fulfillment note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: gift_subscription_id
+      label: gift subscription id
+      hint: null
+      type: number
+      options: []
+      required: false

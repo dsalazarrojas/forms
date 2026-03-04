@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Cutlery Supply Booking Form
+    pages:
+    - id: 1
+      name: cutlery_order_header
+      label: -- Cutlery Rental Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_name_ref
+      label: Client or Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_logistics
+      label: -- Rental Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: delivery_pickup_choice
+      label: Delivery or Pickup Preference
+      hint: null
+      type: select_one
+      options:
+      - Delivery to Venue
+      - Client Pickup from Warehouse
+      required: true
+    - id: 6
+      name: delivery_address_field
+      label: Delivery Address (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rental_start_date
+      label: Requested Rental Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: rental_return_date
+      label: Requested Return/Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_supplies
+      label: -- Cutlery and Tableware Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cutlery_style
+      label: Cutlery Style Selection
+      hint: null
+      type: select_one
+      options:
+      - Standard Stainless Steel
+      - Modern Polished Chrome
+      - Elegant Gold Finish
+      - Classic Matte Black
+      - Premium Silverware
+      - Disposable Eco-friendly (Bamboo)
+      required: true
+    - id: 11
+      name: forks_quantity
+      label: Quantity of Dinner Forks
+      hint: Ordered in packs of 10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: knives_quantity
+      label: Quantity of Dinner Knives
+      hint: Ordered in packs of 10
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: spoons_quantity
+      label: Quantity of Soup/Table Spoons
+      hint: Ordered in packs of 10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: dessert_spoons_quantity
+      label: Quantity of Dessert/Teaspoons
+      hint: Ordered in packs of 10
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: salad_forks_quantity
+      label: Quantity of Salad/Appetizer Forks
+      hint: Ordered in packs of 10
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_cleaning
+      label: -- Return Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cleaning_service_requested
+      label: Would you like to add the cleaning service
+      hint: If no, cutlery must be returned washed and dried
+      type: select_one
+      options:
+      - Yes, add cleaning fee
+      - No, I will clean them
+      required: true
+    - id: 18
+      name: replacement_cost_ack
+      label: I acknowledge that lost or broken items will be charged at replacement
+        cost
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 19
+      name: total_estimated_rental_fee
+      label: Estimated Total Rental Fee
+      hint: Final quote will be sent after review
+      type: number
+      options: []
+      required: false

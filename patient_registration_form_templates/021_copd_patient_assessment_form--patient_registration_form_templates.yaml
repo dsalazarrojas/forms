@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: COPD Patient Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For appointment reminders
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: copd_diagnosis_date
+      label: COPD Diagnosis Date
+      hint: When were you diagnosed
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: copd_stage
+      label: COPD Stage
+      hint: If known
+      type: select_one
+      options:
+      - Stage 1 - Mild
+      - Stage 2 - Moderate
+      - Stage 3 - Severe
+      - Stage 4 - Very Severe
+      - Unknown
+      required: false
+    - id: 11
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Shortness of breath
+      - Chronic cough
+      - Wheezing
+      - Chest tightness
+      - Excess mucus production
+      - Fatigue
+      - Frequent respiratory infections
+      - None currently
+      required: true
+    - id: 12
+      name: symptom_severity
+      label: Symptom Severity
+      hint: Overall severity
+      type: select_one
+      options:
+      - Mild - Minimal impact
+      - Moderate - Some limitation
+      - Severe - Significant limitation
+      - Very Severe - Unable to perform activities
+      required: true
+    - id: 13
+      name: smoking_history
+      label: Smoking History
+      hint: Your smoking status
+      type: select_one
+      options:
+      - Current smoker
+      - Former smoker - quit within 1 year
+      - Former smoker - quit 1-5 years ago
+      - Former smoker - quit 5+ years ago
+      - Never smoked
+      required: true
+    - id: 14
+      name: pack_years
+      label: Pack Years
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current Respiratory Medications
+      hint: List all inhalers and medications
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: oxygen_therapy
+      label: Oxygen Therapy
+      hint: Do you use supplemental oxygen
+      type: select_one
+      options:
+      - Yes - Continuous
+      - Yes - As needed
+      - Yes - During sleep only
+      - false
+      required: true
+    - id: 17
+      name: hospitalizations_past_year
+      label: Hospitalizations Past Year
+      hint: For respiratory issues
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: exacerbations_past_year
+      label: Exacerbations Past Year
+      hint: Flare-ups requiring treatment
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: pulmonary_rehab
+      label: Pulmonary Rehabilitation
+      hint: Have you completed rehab
+      type: select_one
+      options:
+      - Yes - Completed
+      - Yes - Currently enrolled
+      - No - Never enrolled
+      - No - Not interested
+      required: true
+    - id: 20
+      name: activity_limitation
+      label: Activity Limitation
+      hint: How much does COPD limit you
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Severely
+      - Completely limited
+      required: true
+    - id: 21
+      name: mMRC_dyspnea_scale
+      label: mMRC Dyspnea Scale
+      hint: Breathlessness grade
+      type: select_one
+      options:
+      - Grade 0 - No breathlessness except strenuous exercise
+      - Grade 1 - Short of breath when hurrying
+      - Grade 2 - Walk slower than peers due to breathlessness
+      - Grade 3 - Stop for breath after 100 meters
+      - Grade 4 - Too breathless to leave house
+      required: true
+    - id: 22
+      name: comorbidities
+      label: Comorbidities
+      hint: Other health conditions
+      type: select_multiple
+      options:
+      - Heart disease
+      - Hypertension
+      - Diabetes
+      - Anxiety or depression
+      - Osteoporosis
+      - Sleep apnea
+      - None
+      required: true
+    - id: 23
+      name: inhaler_technique
+      label: Inhaler Technique
+      hint: Assessed by clinician
+      type: select_one
+      options:
+      - Good
+      - Fair - Needs reminders
+      - Poor - Needs retraining
+      - Not assessed
+      required: false
+    - id: 24
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Flu and pneumonia vaccines
+      type: select_multiple
+      options:
+      - Flu vaccine - Current year
+      - Pneumococcal vaccine - Up to date
+      - COVID-19 vaccine - Up to date
+      - Tdap - Up to date
+      - Overdue for vaccinations
+      required: true
+    - id: 25
+      name: action_plan
+      label: COPD Action Plan
+      hint: Do you have a written plan
+      type: select_one
+      options:
+      - Yes - Have and understand
+      - Yes - Have but unclear
+      - No - Need one
+      required: true
+    - id: 26
+      name: quality_of_life_impact
+      label: Quality of Life Impact
+      hint: How COPD affects daily life
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: patient_goals
+      label: Patient Goals
+      hint: What would you like to improve
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: clinician_notes
+      label: Clinician Notes
+      hint: Assessment observations
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: When should patient return
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2-4 weeks
+      - Within 3 months
+      - Within 6 months
+      - As needed
+      required: true
+    - id: 30
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: clinician_signature
+      label: Clinician Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

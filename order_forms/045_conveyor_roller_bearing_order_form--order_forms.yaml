@@ -1,0 +1,374 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conveyor Roller Bearing Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary email for order communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_shipping_address
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_billing_address
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: billing_same_as_shipping
+      label: Is billing address same as shipping
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: billing_address
+      label: Billing Address
+      hint: If different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_product_selection
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: bearing_type
+      label: Bearing Type
+      hint: Type of bearing needed
+      type: select_one
+      options:
+      - Ball Bearing
+      - Roller Bearing
+      - Tapered Roller Bearing
+      - Spherical Roller Bearing
+      - Cylindrical Roller Bearing
+      - Needle Roller Bearing
+      - Other
+      required: true
+    - id: 17
+      name: bearing_model
+      label: Bearing Model Number
+      hint: Specific model if known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: bearing_size
+      label: Bearing Size
+      hint: Dimensions if known
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: roller_diameter
+      label: Roller Diameter
+      hint: In mm or inches
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: roller_length
+      label: Roller Length
+      hint: In mm or inches
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shaft_diameter
+      label: Shaft Diameter
+      hint: Compatible shaft size
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_quantity
+      label: -- Quantity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: null
+      type: select_one
+      options:
+      - Each
+      - Pair
+      - Set
+      - Box
+      - Pallet
+      required: true
+    - id: 25
+      name: section_specifications
+      label: -- Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: load_capacity
+      label: Required Load Capacity
+      hint: In kg or lbs
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: speed_rating
+      label: Speed Rating
+      hint: RPM if known
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: operating_temperature
+      label: Operating Temperature Range
+      hint: Min and max temperature
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: application_type
+      label: Application Type
+      hint: What will this be used for
+      type: select_one
+      options:
+      - Conveyor System
+      - Industrial Machinery
+      - Automotive
+      - Agricultural Equipment
+      - Mining Equipment
+      - Food Processing
+      - Other
+      required: true
+    - id: 30
+      name: environment_conditions
+      label: Environment Conditions
+      hint: Operating environment
+      type: select_multiple
+      options:
+      - Standard Indoor
+      - Outdoor
+      - High Temperature
+      - Low Temperature
+      - Corrosive
+      - Dusty
+      - Wet
+      - Food Grade Required
+      required: true
+    - id: 31
+      name: section_material
+      label: -- Material --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: material_preference
+      label: Material Preference
+      hint: null
+      type: select_one
+      options:
+      - Chrome Steel
+      - Stainless Steel
+      - Carbon Steel
+      - Ceramic
+      - Plastic
+      - No Preference
+      required: false
+    - id: 33
+      name: seal_type
+      label: Seal Type
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Shielded
+      - Sealed
+      - No Preference
+      required: false
+    - id: 34
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: order_priority
+      label: Order Priority
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Rush
+      - Urgent
+      required: true
+    - id: 36
+      name: required_delivery_date
+      label: Required Delivery Date
+      hint: When do you need this by
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Ground
+      - Express
+      - Overnight
+      - Freight
+      - International
+      required: true
+    - id: 38
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Bank Transfer
+      - Check
+      - Account Credit
+      required: true
+    - id: 40
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: account_number
+      label: Account Number
+      hint: If you have an existing account
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: technical_drawing
+      label: Do you have a technical drawing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 44
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

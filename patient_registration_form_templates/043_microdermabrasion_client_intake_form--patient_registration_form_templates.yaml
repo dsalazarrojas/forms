@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microdermabrasion Client Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - Allergies
+      - Asthma
+      - Blood Pressure
+      - Diabetes
+      - Heart Conditions
+      - High Cholesterol
+      - High Blood Pressure
+      - Obesity
+      - Other Medical Conditions
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Prescription
+      - Non-Prescription
+      - Over the Counter
+      - Other
+      required: false
+    - id: 7
+      name: medical_practitioner
+      label: Medical Practitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Skin Cancer
+      - Skin Conditions
+      - Other Conditions
+      required: false
+    - id: 9
+      name: treatment_area
+      label: Treatment Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expected_treatment_date
+      label: Expected Treatment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: microdermabrasion_frequency
+      label: Microdermabrasion Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: microdermabrasion_downtime
+      label: Microdermabrasion Downtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

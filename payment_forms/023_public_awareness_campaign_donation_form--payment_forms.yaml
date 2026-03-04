@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_awareness_campaign_donation_form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One-time
+      required: true
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - card
+      - paypal
+      - apple_pay
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: flexible_frequency_options
+      label: Flexible Frequency Options
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - annual
+      required: false
+    - id: 8
+      name: recurring_donation_start_date
+      label: Recurring Donation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: recurring_donation_frequency
+      label: Recurring Donation Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: recurring_donation_period
+      label: Recurring Donation Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: recurring_donation_end_date
+      label: Recurring Donation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: recurring_donation_note
+      label: Recurring Donation Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frame Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For invoice and receipt
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: order_items
+      label: Order items
+      hint: List items and prices
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subtotal
+      label: Subtotal amount
+      hint: Pre tax amount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: tax
+      label: Tax amount
+      hint: Tax applied to order
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_amount
+      label: Total amount
+      hint: Total charged to customer
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment method
+      hint: Choose preferred payment method
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Cash on pickup
+      required: true
+    - id: 8
+      name: transaction_id
+      label: Transaction ID
+      hint: Payment transaction reference
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pickup_or_delivery
+      label: Pickup or delivery
+      hint: How customer will receive order
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

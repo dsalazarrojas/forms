@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Subscription Order Form
+    pages:
+    - id: 1
+      name: meal_subscription
+      label: meal_subscription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_dietary
+      label: customer_dietary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meal_selection
+      label: select_meals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_schedules
+      label: delivery_schedules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: total_meals
+      label: total_meals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false

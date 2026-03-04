@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Order Form
+    pages:
+    - id: 1
+      name: customer_basics_header
+      label: -- Customer Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_event_info
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_date_order
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_method_selection
+      label: Delivery or Pickup
+      hint: null
+      type: select_one
+      options:
+      - Delivery to My Location
+      - Pickup from Kitchen
+      required: true
+    - id: 8
+      name: delivery_address_details
+      label: Delivery Address (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requested_delivery_time
+      label: Requested Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: section_menu_ordering
+      label: -- Menu Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: products_selected
+      label: Select Food Items
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sandwich Platter (Serves 10)
+      - Gourmet Salad Bowl (Serves 5)
+      - Hot Pasta Tray (Serves 12)
+      - Artisanal Bread Basket
+      - Fruit Skewers (Dozen)
+      - Assorted Cookies (Dozen)
+      required: true
+    - id: 12
+      name: quantities_per_item
+      label: Quantity for each selected item
+      hint: e.g. 2x Sandwich, 1x Pasta
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: special_dietary_requests
+      label: Special Dietary Requests
+      hint: e.g. Nut free, Vegan options
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_additional
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: disposable_ware_needed
+      label: Do you need disposable plates and cutlery
+      hint: $1.50 per person
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: drinks_package_add_on
+      label: Add Beverage Package
+      hint: Assorted sodas and water
+      type: select_one
+      options:
+      - None
+      - Small (10 people)
+      - Large (25 people)
+      required: false
+    - id: 17
+      name: payment_method_pref
+      label: Preferred Payment Method
+      hint: We will send an invoice after reviewing the order
+      type: select_one
+      options:
+      - Credit Card Online
+      - Cash on Delivery
+      - Company Check
+      required: true
+    - id: 18
+      name: order_comments
+      label: Additional Comments or Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toy Prototype Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Toy Prototype Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: design_requirements
+      label: Design Requirements
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: true

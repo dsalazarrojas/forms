@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Truck Loan Payment Tracker
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: loan_number
+      label: Loan Number
+      hint: Enter loan number as it appears on loan documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_date
+      label: Loan Date
+      hint: Enter loan date in mm/dd/yyyy format
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: loan_amount
+      label: Loan Amount
+      hint: Enter loan amount in dollars
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: borrower_name
+      label: Borrower Name
+      hint: Enter borrower's name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - commercial
+      - lease
+      - personal
+      required: true
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - overdue
+      - current
+      - late
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: next_payment_date
+      label: Next Payment Date
+      hint: null
+      type: text
+      options: []
+      required: true

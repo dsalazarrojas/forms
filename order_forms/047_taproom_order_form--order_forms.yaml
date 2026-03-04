@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Taproom Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: beer_type
+      label: Beer Type
+      hint: null
+      type: select_one
+      options:
+      - Lager
+      - IPA
+      - Ale
+      - Pilsner
+      - Sour
+      required: false
+    - id: 3
+      name: beer_size
+      label: Beer Size
+      hint: null
+      type: select_one
+      options:
+      - 16oz
+      - 32oz
+      - 64oz
+      - 128oz
+      required: false
+    - id: 4
+      name: glassware
+      label: Glassware
+      hint: null
+      type: select_one
+      options:
+      - pint
+      - mug
+      - growler
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: name_on_card
+      label: Name on Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false

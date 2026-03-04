@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beach Parking Payment Form
+    pages:
+    - id: 1
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_state
+      label: Vehicle State or Province
+      hint: Where registered
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What type of vehicle
+      type: select_one
+      options:
+      - Car
+      - SUV
+      - Truck
+      - Motorcycle
+      - RV or Camper
+      - Bus
+      required: true
+    - id: 4
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Primary color
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parking_date
+      label: Parking Date
+      hint: Date of parking
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: When did you arrive
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: parking_duration
+      label: Parking Duration
+      hint: How long will you park
+      type: select_one
+      options:
+      - 0-2 Hours
+      - 2-4 Hours
+      - 4-8 Hours
+      - Full Day
+      - Overnight
+      - Multi-Day
+      required: true
+    - id: 8
+      name: parking_zone
+      label: Parking Zone
+      hint: Which zone
+      type: select_one
+      options:
+      - Zone A - Main Beach
+      - Zone B - North Beach
+      - Zone C - South Beach
+      - Zone D - Overflow
+      - Zone E - VIP
+      required: true
+    - id: 9
+      name: parking_rate
+      label: Parking Rate
+      hint: Selected rate
+      type: select_one
+      options:
+      - $5 - 2 Hours
+      - $10 - 4 Hours
+      - $20 - Full Day
+      - $35 - Overnight
+      - $50 - Multi-Day
+      required: true
+    - id: 10
+      name: total_amount
+      label: Total Amount Due
+      hint: Total to pay
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Mobile Pay
+      - Cash at Kiosk
+      - Season Pass
+      required: true
+    - id: 12
+      name: card_number
+      label: Card Number
+      hint: Last 4 digits only
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: expiry_date
+      label: Expiry Date
+      hint: MM slash YY
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email_receipt
+      label: Email Address for Receipt
+      hint: Where to send receipt
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: season_pass_holder
+      label: Are You a Season Pass Holder
+      hint: Do you have a pass
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: season_pass_number
+      label: Season Pass Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_services
+      label: Additional Services
+      hint: Add ons
+      type: select_multiple
+      options:
+      - Beach Chair Rental
+      - Umbrella Rental
+      - Locker Rental
+      - Shower Access
+      - None
+      required: false
+    - id: 19
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Must accept to proceed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

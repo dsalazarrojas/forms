@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Payment Request Form
+    pages:
+    - id: 1
+      name: referee_payment_request_form
+      label: Payment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referee_name
+      label: Referee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referee_email
+      label: Referee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: referee_phone
+      label: Referee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referee_address
+      label: Referee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referee_pay_rate
+      label: Referee Pay Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: referee_pay_rate_currency
+      label: Referee Pay Rate Currency
+      hint: null
+      type: select_one
+      options:
+      - AUD
+      - USD
+      - EUR
+      required: false
+    - id: 8
+      name: referee_payment_date
+      label: Referee Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: referee_payment_status
+      label: Referee Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Declined
+      required: false
+    - id: 10
+      name: referee_note
+      label: Referee Note
+      hint: null
+      type: note
+      options: []
+      required: false

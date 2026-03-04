@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Tape And Wrap Supply Order Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: School, clinic, or organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Which department is ordering
+      type: select_one
+      options:
+      - Athletics
+      - Sports Medicine
+      - Athletic Training
+      - Physical Therapy
+      - Other
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email for order communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for order questions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need the supplies
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: athletic_tape_type
+      label: Athletic Tape Type
+      hint: Select tape types needed
+      type: select_multiple
+      options:
+      - Standard White Tape
+      - Premium White Tape
+      - Colored Tape
+      - Water-Resistant Tape
+      - Elastic Tape
+      - Cohesive Bandage
+      - Kinesiology Tape
+      - Foam Underwrap
+      required: true
+    - id: 9
+      name: tape_width_preference
+      label: Tape Width Preference
+      hint: Preferred tape width
+      type: select_one
+      options:
+      - Half Inch
+      - One Inch
+      - One and a Half Inch
+      - Two Inch
+      - Mixed Widths
+      required: false
+    - id: 10
+      name: tape_quantity
+      label: Tape Quantity
+      hint: Number of rolls needed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: wrap_type
+      label: Wrap Type
+      hint: Select wrap types needed
+      type: select_multiple
+      options:
+      - ACE Bandage
+      - Self-Adherent Wrap
+      - Compression Wrap
+      - Elastic Wrap
+      - Gauze Wrap
+      - Cohesive Wrap
+      - Pre-Wrap
+      required: true
+    - id: 12
+      name: wrap_size
+      label: Wrap Size
+      hint: Preferred wrap size
+      type: select_one
+      options:
+      - 2 Inch
+      - 3 Inch
+      - 4 Inch
+      - 6 Inch
+      - Mixed Sizes
+      required: false
+    - id: 13
+      name: wrap_quantity
+      label: Wrap Quantity
+      hint: Number of wraps needed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: additional_supplies
+      label: Additional Supplies Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Scissors
+      - Tape Remover
+      - Skin Prep
+      - Adhesive Spray
+      - Moleskin
+      - Felt Pads
+      - Ice Bags
+      - Elastic Straps
+      - Safety Pins
+      - Gauze Pads
+      - Medical Gloves
+      - None
+      required: false
+    - id: 15
+      name: brand_preference
+      label: Brand Preference
+      hint: Any preferred brands
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: color_preference
+      label: Color Preference
+      hint: For colored tape or wraps
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Pink
+      - Purple
+      - Orange
+      - No Preference
+      required: false
+    - id: 17
+      name: estimated_unit_price
+      label: Estimated Unit Price
+      hint: Price per unit in USD
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_budget
+      label: Total Budget
+      hint: Total budget for order
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: shipping_method
+      label: Shipping Method
+      hint: How should order be delivered
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Pickup at Warehouse
+      - Local Delivery
+      required: true
+    - id: 20
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to ship
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: budget_code
+      label: Budget or Account Code
+      hint: For billing purposes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Check
+      - Wire Transfer
+      - Net 30 Account
+      required: true
+    - id: 25
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: rush_order
+      label: Rush Order
+      hint: Is this a rush order
+      type: select_one
+      options:
+      - No - Standard Processing
+      - Yes - Rush Processing
+      required: true

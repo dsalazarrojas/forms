@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialized Audio System Order Form
+    pages:
+    - id: 1
+      name: form_information
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_preferences
+      label: customer_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Audio
+      - Visual
+      - Both
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Open for Processing
+      - In Progress
+      - Shipped
+      - Cancelled
+      required: false
+    - id: 8
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

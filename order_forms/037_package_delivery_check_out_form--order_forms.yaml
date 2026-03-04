@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Package Delivery Check Out Form
+    pages:
+    - id: 1
+      name: package_delivery_check_out_form
+      label: delivery_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: package_id
+      label: package_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      - On-site
+      required: false
+    - id: 7
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: package_weight
+      label: package_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipping_method_details
+      label: shipping_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_confirmation
+      label: signature_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not required
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: package_type
+      label: package_type
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Express
+      - Economy
+      required: false
+    - id: 16
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time_window
+      label: delivery_time_window
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_note
+      label: delivery_note
+      hint: null
+      type: text
+      options: []
+      required: false

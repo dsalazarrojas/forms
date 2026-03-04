@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Grease Trap Cleaning Order Form
+    pages:
+    - id: 1
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Oil and Grease
+      - Food Waste
+      - Sewage
+      required: true
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: next_service_date
+      label: Next Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: grease_trap_description
+      label: Grease Trap Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_location
+      label: Service Location
+      hint: null
+      type: select_one
+      options:
+      - Kitchen
+      - Bathroom
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

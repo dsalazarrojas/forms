@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Florist Sales Order Form
+    pages:
+    - id: 1
+      name: florist_sales_order_form_form_input
+      label: Order Flowers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flower_type
+      label: Flowers Type
+      hint: null
+      type: select_one
+      options:
+      - Rose
+      - Orchid
+      - Carnation
+      - Tulip
+      - Lilac
+      - Violet
+      - Bouquet
+      required: false
+    - id: 3
+      name: occasion
+      label: Occasion
+      hint: null
+      type: select_one
+      options:
+      - Birthdays
+      - Valentines
+      - Anniversaries
+      - Other
+      - Funeral
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Transfer
+      - Bank Account
+      required: false

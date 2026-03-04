@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Colorful Cupcake Order Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Cupcake Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For confirmation and pickup details
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: flavor_selection
+      label: Flavor selection
+      hint: Choose flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red velvet
+      - Lemon
+      - Assorted
+      required: true
+    - id: 5
+      name: cupcake_count
+      label: Cupcake count
+      hint: Number of cupcakes required
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: decoration_notes
+      label: Decoration notes
+      hint: Custom messages or themes
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pickup_or_delivery
+      label: Pickup or delivery
+      hint: Choose delivery option
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 8
+      name: delivery_address
+      label: Delivery address
+      hint: If delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_date
+      label: Preferred pickup or delivery date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment method
+      hint: How will payment be made
+      type: select_one
+      options:
+      - Cash
+      - Card on pickup
+      - Online payment
+      required: true

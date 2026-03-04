@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Racing Bikes Pre Order Form
+    pages:
+    - id: 1
+      name: bike_selection
+      label: Select a bike
+      hint: null
+      type: select_multiple
+      options:
+      - Road Bike
+      - Mountain Bike
+      - Hybrid Bike
+      - Electric Bike
+      required: false
+    - id: 2
+      name: customization_request
+      label: Customization request
+      hint: Enter any requests or modifications
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_preference
+      label: Preferred delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: Additional info
+      hint: Enter any additional information about the order
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_submission
+      label: Form submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_confirmation
+      label: Order confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Any comments about this order
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_location
+      label: Delivery location
+      hint: null
+      type: select_one
+      options:
+      - Store
+      - Home
+      - Office
+      required: false
+    - id: 12
+      name: payment_confirmation
+      label: Payment confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: special_request
+      label: Special request
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_number
+      label: Order number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      required: false
+    - id: 17
+      name: payment_amount
+      label: Payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: bike_color
+      label: Bike color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Red
+      - Blue
+      required: false
+    - id: 19
+      name: bike_size
+      label: Bike size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 20
+      name: bike_type
+      label: Bike type
+      hint: null
+      type: select_one
+      options:
+      - Road Bike
+      - Mountain Bike
+      - Hybrid Bike
+      required: false
+    - id: 21
+      name: delivery_status
+      label: Delivery status
+      hint: null
+      type: select_one
+      options:
+      - Delivered
+      - Pending
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: Any comments about this delivery
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_comments
+      label: Delivery comments
+      hint: Any comments about delivery
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_note
+      label: Order note
+      hint: Any order notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submission_comments
+      label: Form submission comments
+      hint: Any additional comments about this form submission
+      type: text
+      options: []
+      required: false

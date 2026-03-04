@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Season Pass Access Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''season_pass'', ''label'': ''Season Pass''}'
+      - '{''value'': ''guest_pass'', ''label'': ''Guest Pass''}'
+      - '{''value'': ''membership_pass'', ''label'': ''Membership Pass''}'
+      required: false
+    - id: 5
+      name: season_start
+      label: Season Start
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''january'', ''label'': ''January''}'
+      - '{''value'': ''february'', ''label'': ''February''}'
+      - '{''value'': ''march'', ''label'': ''March''}'
+      - '{''value'': ''april'', ''label'': ''April''}'
+      - '{''value'': ''may'', ''label'': ''May''}'
+      - '{''value'': ''june'', ''label'': ''June''}'
+      - '{''value'': ''july'', ''label'': ''July''}'
+      - '{''value'': ''august'', ''label'': ''August''}'
+      - '{''value'': ''september'', ''label'': ''September''}'
+      required: false
+    - id: 6
+      name: season_end
+      label: Season End
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''june'', ''label'': ''June''}'
+      - '{''value'': ''july'', ''label'': ''July''}'
+      - '{''value'': ''august'', ''label'': ''August''}'
+      - '{''value'': ''september'', ''label'': ''September''}'
+      required: false
+    - id: 7
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''abc corp'', ''label'': ''ABC Corp''}'
+      - '{''value'': ''def corp'', ''label'': ''DEF Corp''}'
+      - '{''value'': ''ghi corp'', ''label'': ''GHI Corp''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: season_pass_id
+      label: Season Pass ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: season_name
+      label: Season Name
+      hint: null
+      type: text
+      options: []
+      required: false

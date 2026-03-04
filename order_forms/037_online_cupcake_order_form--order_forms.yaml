@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Cupcake Order Form
+    pages:
+    - id: 1
+      name: customer_contact
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_delivery
+      label: Pick up or Delivery
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pick up
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pickup_time
+      label: Pick up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: flavor
+      label: Flavor
+      hint: null
+      type: select_multiple
+      options:
+      - vanilla
+      - chocolate
+      - strawberry
+      - blueberry
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Online
+      required: false
+    - id: 10
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Multiple
+      required: false
+    - id: 11
+      name: details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pickup_details
+      label: Pick up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pickup_instructions
+      label: Pick up Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - In Transit
+      - Delivered
+      - Missed Pickup
+      required: false
+    - id: 21
+      name: delivery_time_window
+      label: Delivery Time Window
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: pickup_location
+      label: Pick up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_contact
+      label: Delivery Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

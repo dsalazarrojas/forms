@@ -1,0 +1,400 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Payment Compliance Application Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sender
+      label: Sender Information
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: foreign_payment_details
+      label: Foreign Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: foreign_payment_amount
+      label: Foreign Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: approval_person
+      label: Approval Person
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: approval_date_time
+      label: Approval Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: foreign_country
+      label: Foreign Country
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: foreign_currency
+      label: Foreign Currency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: foreign_currency_rate
+      label: Foreign Currency Rate
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: bank
+      label: Bank
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: bank_branch
+      label: Bank Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: bank_aba
+      label: Bank ABA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      required: false
+    - id: 22
+      name: payment_description
+      label: Payment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_notes
+      label: Approval Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: foreign_bank
+      label: Foreign Bank
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 25
+      name: foreign_swift
+      label: Foreign Swift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: approval_date_range
+      label: Approval Date Range
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 27
+      name: payment_date_range
+      label: Payment Date Range
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 28
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: foreign_bic
+      label: Foreign BIC
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 30
+      name: approval_date_range_time
+      label: Approval Date Range Time
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 31
+      name: foreign_account_number
+      label: Foreign Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: foreign_routing_number
+      label: Foreign Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: approval_date_range_time_range
+      label: Approval Date Range Time Range
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 34
+      name: foreign_bic_code
+      label: Foreign BIC Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: approval_date_range_time_range_range
+      label: Approval Date Range Time Range Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: foreign_currency_rate_code
+      label: Foreign Currency Rate Code
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 37
+      name: approval_person_notes
+      label: Approval Person Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: foreign_country_code
+      label: Foreign Country Code
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 39
+      name: foreign_country_abbreviation
+      label: Foreign Country Abbreviation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 40
+      name: foreign_currency_abbreviation
+      label: Foreign Currency Abbreviation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 41
+      name: foreign_currency_code
+      label: Foreign Currency Code
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 42
+      name: foreign_bank_code
+      label: Foreign Bank Code
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 43
+      name: foreign_bank_abbreviation
+      label: Foreign Bank Abbreviation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 44
+      name: foreign_swift_code
+      label: Foreign Swift Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: foreign_swift_abbreviation
+      label: Foreign Swift Abbreviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: foreign_ibic
+      label: Foreign I-BIC
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

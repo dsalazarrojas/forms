@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grill Box Order Form
+    pages:
+    - id: 1
+      name: delivery_option
+      label: delivery_option
+      hint: null
+      type: select_one
+      options:
+      - delivery
+      - pickup
+      - catering
+      required: true
+    - id: 2
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - Burgers
+      - Sandwiches
+      - Salads
+      - Desserts
+      - Specialties
+      required: true
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: pickup_time
+      label: pickup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pickup_address
+      label: pickup_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: catering_location
+      label: catering_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: catering_number
+      label: catering_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: catering_special_instructions
+      label: catering_special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_request
+      label: special_request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: catering_special_instruct
+      label: catering_special_instruct
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: delivery_note
+      label: delivery_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: pickup_note
+      label: pickup_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: catering_note
+      label: catering_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: billing_city
+      label: billing_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_state
+      label: billing_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: billing_zip
+      label: billing_zip
+      hint: null
+      type: text
+      options: []
+      required: false

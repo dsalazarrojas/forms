@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Priority Boarding Purchase Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booking_reference
+      label: Booking Reference (PNR)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_boarding_option
+      label: -- Priority Boarding Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: upgrade_type
+      label: Priority Level Requested
+      hint: null
+      type: select_one
+      options:
+      - Standard Priority (Zone 2)
+      - Business Priority (Zone 1)
+      - First Class Priority (Early Boarding)
+      required: true
+    - id: 8
+      name: number_of_passengers
+      label: Number of Passengers for Upgrade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_payment
+      label: -- Payment Details --
+      hint: Secure payment processing
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: amount_to_pay
+      label: Calculated Amount ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      required: true
+    - id: 12
+      name: cardholder_name
+      label: Cardholder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agree_terms
+      label: I agree to the terms and conditions of priority boarding purchase
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 15
+      name: notification_opt_in
+      label: Send payment confirmation to my email
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

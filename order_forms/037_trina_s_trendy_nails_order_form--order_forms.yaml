@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trina_s_Trendy_Nails_Order_Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Acrylic
+      - Gel
+      - Nail art
+      required: false
+    - id: 3
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: number_of_customers
+      label: Number of Customers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: number_of_customers
+      label: Number of Customers
+      hint: null
+      type: number
+      options: []
+      required: false

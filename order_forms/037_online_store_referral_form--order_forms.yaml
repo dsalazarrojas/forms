@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_store_referral_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_referral_link
+      label: customer_referral_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_referral_name
+      label: customer_referral_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: store_email
+      label: store_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: store_phone
+      label: store_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_referral_message
+      label: customer_referral_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_referral_message
+      label: store_referral_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_referral_link
+      label: store_referral_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_referral_type
+      label: customer_referral_type
+      hint: null
+      type: select_multiple
+      options:
+      - Online Store
+      - Social Media
+      - Email
+      - Word of Mouth
+      - Other
+      required: true
+    - id: 14
+      name: customer_referral_source
+      label: customer_referral_source
+      hint: null
+      type: select_one
+      options:
+      - Friend
+      - Family
+      - Colleague
+      - Online Community
+      - Offline Event
+      required: true
+    - id: 15
+      name: customer_referral_frequency
+      label: customer_referral_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Several times
+      - Regularly
+      required: true
+    - id: 16
+      name: customer_referral_frequency_other
+      label: customer_referral_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_referral_frequency_other_description
+      label: customer_referral_frequency_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_referral_frequency
+      label: store_referral_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Several times
+      - Regularly
+      required: true
+    - id: 19
+      name: store_referral_frequency_other
+      label: store_referral_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: store_referral_frequency_other_description
+      label: store_referral_frequency_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: store_referral_source
+      label: store_referral_source
+      hint: null
+      type: select_multiple
+      options:
+      - Friend
+      - Family
+      - Colleague
+      - Online Community
+      - Offline Event
+      required: true
+    - id: 22
+      name: store_referral_source_other
+      label: store_referral_source_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: store_referral_source_other_description
+      label: store_referral_source_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: store_referral_message_to
+      label: store_referral_message_to
+      hint: null
+      type: select_multiple
+      options:
+      - Customer
+      - Customer Service Team
+      - Sales Team
+      required: false
+    - id: 25
+      name: store_referral_message_to_other
+      label: store_referral_message_to_other
+      hint: null
+      type: text
+      options: []
+      required: false

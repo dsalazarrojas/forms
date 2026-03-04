@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post-Surgery Physiotherapy Evaluation Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pain_level
+      label: pain_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mobility_level
+      label: mobility_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pain_location
+      label: pain_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pain_location_options
+      label: pain location options
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''name'': ''head'', ''label'': ''head'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 7, ''name'': ''neck'', ''label'': ''neck'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 8, ''name'': ''back'', ''label'': ''back'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 9, ''name'': ''arms'', ''label'': ''arms'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 10, ''name'': ''legs'', ''label'': ''legs'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 11, ''name'': ''stomach'', ''label'': ''stomach'', ''hint'': None,
+        ''type'': ''object'', ''options'': []}'
+      - '{''id'': 12, ''name'': ''hands'', ''label'': ''hands'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 13, ''name'': ''feet'', ''label'': ''feet'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 6
+      name: mobility_level_options
+      label: mobility level options
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''name'': ''excellent'', ''label'': ''excellent'', ''hint'':
+        None, ''type'': ''object'', ''options'': []}'
+      - '{''id'': 16, ''name'': ''good'', ''label'': ''good'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 17, ''name'': ''fair'', ''label'': ''fair'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      - '{''id'': 18, ''name'': ''bad'', ''label'': ''bad'', ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      required: false
+    - id: 7
+      name: medication_info
+      label: medication_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_appointments
+      label: follow_up_appointments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up_appointments_options
+      label: follow up appointments options
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 22, ''name'': True, ''label'': True, ''hint'': None, ''type'': ''object'',
+        ''options'': []}'
+      - '{''id'': 23, ''name'': False, ''label'': False, ''hint'': None, ''type'':
+        ''object'', ''options'': []}'
+      required: false

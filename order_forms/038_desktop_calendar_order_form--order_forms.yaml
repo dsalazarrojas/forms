@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Desktop Calendar Order Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User first name
+      hint: First name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: User email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: Date of Birth
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: Order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_name
+      label: Product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: price
+      label: Price
+      hint: Price of each item
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 12
+      name: order_total
+      label: Order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_status
+      label: Order status
+      hint: Status of the order
+      type: select_multiple
+      options:
+      - Shipped
+      - Pending
+      - Cancelled
+      required: false
+    - id: 14
+      name: shipping_address
+      label: Shipping address
+      hint: Shipping address of the customer
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_date_shippped
+      label: Order date shippped
+      hint: Date of shipment
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: customer_id
+      label: Customer ID
+      hint: ID number of the customer
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_note
+      label: Customer note
+      hint: Customer note for the merchant
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_details
+      label: Payment details
+      hint: Payment details of the customer
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_date_shippped_hh
+      label: Order date shippped
+      hint: Date of shipment
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_notes
+      label: Order notes
+      hint: Notes about the order
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_comments
+      label: Order comments
+      hint: Comments about the order
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_total2
+      label: Order total2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: order_status2
+      label: Order status2
+      hint: Status of the order
+      type: select_multiple
+      options:
+      - Shipped
+      - Pending
+      - Cancelled
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tiny Home Purchase Order
+    pages:
+    - id: 1
+      name: model_name
+      label: Model Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: model_year
+      label: Model Year
+      hint: Tiny home model year
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: price_range
+      label: Price Range ($)
+      hint: Price range for tiny home
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: features
+      label: Features
+      hint: List of features for tiny home
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: buyer_email
+      label: Buyer's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: buyer_name
+      label: Buyer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: buyer_phone
+      label: Buyer's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: Date for tiny home delivery
+      type: date
+      options: []
+      required: false

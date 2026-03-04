@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Souvenir Booklet Advertising Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: souvenir_ad_size
+      label: select_ad_size
+      hint: null
+      type: select_one
+      options:
+      - 100x100
+      - 150x150
+      - 200x200
+      required: false
+    - id: 3
+      name: business_details
+      label: select_business
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: select_payment_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method_notes
+      label: payment_method_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_of_advert
+      label: date_of_advert
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_advert
+      label: time_of_advert
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: advert_image
+      label: advert_image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: advert_description
+      label: advert_description
+      hint: null
+      type: text
+      options: []
+      required: true

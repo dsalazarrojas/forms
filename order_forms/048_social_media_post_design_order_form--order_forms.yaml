@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Post Design Order Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_social_media_platforms
+      label: Preferred Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Pinterest
+      - TikTok
+      required: false
+    - id: 4
+      name: design_preferences
+      label: Design Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: design_color_scheme
+      label: Design Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Dark
+      - Minimal
+      - Bright
+      required: false
+    - id: 6
+      name: design_style
+      label: Design Style
+      hint: null
+      type: select_multiple
+      options:
+      - Modern
+      - Retro
+      - Abstract
+      - Minimal
+      required: false
+    - id: 7
+      name: background_pattern
+      label: Background Pattern
+      hint: null
+      type: select_one
+      options:
+      - Solid
+      - Textured
+      - Gradient
+      - Pattern
+      required: false
+    - id: 8
+      name: content_text_color
+      label: Content Text Color
+      hint: null
+      type: select_one
+      options:
+      - Default
+      - Dark
+      - White
+      - Custom
+      required: false
+    - id: 9
+      name: upload_images
+      label: Upload Images
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: image_upload_type
+      label: Image Upload Type
+      hint: null
+      type: select_one
+      options:
+      - Upload 3 Files
+      - Upload 1 File
+      - Upload 2 Files
+      - Upload None
+      required: false
+    - id: 11
+      name: image_upload_1
+      label: Image Upload 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: image_upload_2
+      label: Image Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: image_upload_3
+      label: Image Upload 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: image_upload_4
+      label: Image Upload 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: note
+      options: []
+      required: false

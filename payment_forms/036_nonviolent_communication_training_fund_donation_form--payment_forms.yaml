@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonviolent Communication Training Fund Donation Form
+    pages:
+    - id: 1
+      name: donator_details
+      label: Donor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Pay With
+      hint: null
+      type: select_one
+      options:
+      - 'Pay With: Card'
+      - 'Pay With: Bank Transfer'
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false

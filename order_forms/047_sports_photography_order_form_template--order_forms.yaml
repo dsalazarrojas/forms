@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_photography_order_form_template
+    pages:
+    - id: 1
+      name: package_selection
+      label: Package Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_summary
+      label: Order Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_confirmation
+      label: Order Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false

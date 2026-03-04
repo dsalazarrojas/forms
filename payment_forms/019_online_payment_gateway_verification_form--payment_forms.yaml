@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_payment_gateway_verification_form
+    pages:
+    - id: 1
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: gateway_type
+      label: gateway_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: api_key
+      label: api_key
+      hint: API Key
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: api_secret
+      label: api_secret
+      hint: API Secret
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: merchant_id
+      label: merchant_id
+      hint: Merchant ID
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: test_transaction
+      label: test_transaction
+      hint: Test Transaction
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transaction_amount
+      label: transaction_amount
+      hint: Transaction Amount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transaction_type
+      label: transaction_type
+      hint: Transaction Type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: currency
+      label: currency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: transaction_status
+      label: transaction_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: transaction_date
+      label: transaction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: transaction_time
+      label: transaction_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: payment_method_status
+      label: payment_method_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

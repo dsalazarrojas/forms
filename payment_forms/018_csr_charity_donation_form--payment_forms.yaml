@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSR Charity Donation Form
+    pages:
+    - id: 1
+      name: donor_info_header
+      label: -- Donor Information --
+      hint: Thank you for your support
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: for receipt and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Mailing Address
+      hint: needed for tax receipt
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donation_details_header
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: designation
+      label: Where should we apply your donation
+      hint: null
+      type: select_one
+      options:
+      - General Fund
+      - Education Programs
+      - Community Outreach
+      - Emergency Relief
+      - Specific Project
+      required: true
+    - id: 10
+      name: tribute_gift
+      label: Is this a tribute gift
+      hint: in honor or memory of someone
+      type: select_one
+      options:
+      - false
+      - In Honor of
+      - In Memory of
+      required: false
+    - id: 11
+      name: tribute_name
+      label: Tribute Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employer_matching
+      label: Does your employer match donations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - I don't know
+      required: false
+    - id: 13
+      name: payment_method_header
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Check by Mail
+      required: true
+    - id: 15
+      name: anonymous_donation
+      label: I wish to remain anonymous
+      hint: Your name will not be published in our annual report
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: subscribe_newsletter
+      label: Subscribe to our newsletter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: donor_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

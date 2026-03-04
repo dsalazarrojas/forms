@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Donation Form
+    pages:
+    - id: 1
+      name: family_name
+      label: family_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''id'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 4
+      name: bank_transfer_details
+      label: bank_transfer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_details
+      label: donation_details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Session Invoice
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Photography Session
+      - Portrait Session
+      - Wedding Session
+      required: false
+    - id: 5
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Credit Card
+      required: false
+    - id: 7
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: invoice_sent_to
+      label: invoice_sent_to
+      hint: null
+      type: select_multiple
+      options:
+      - Electronic
+      - Printed
+      required: false

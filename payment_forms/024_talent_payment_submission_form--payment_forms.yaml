@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: talent_payment_submission_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Payment 1''}'
+      - '{''label'': ''Payment 2''}'
+      - '{''label'': ''Payment 3''}'
+      required: true
+    - id: 2
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: currency
+      label: Currency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''USD''}'
+      - '{''label'': ''EUR''}'
+      - '{''label'': ''JPY''}'
+      - '{''label'': ''CNY''}'
+      required: false
+    - id: 4
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: talent_name
+      label: Talent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Refunded''}'
+      required: false
+    - id: 9
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: talent_id
+      label: Talent ID
+      hint: null
+      type: number
+      options: []
+      required: false

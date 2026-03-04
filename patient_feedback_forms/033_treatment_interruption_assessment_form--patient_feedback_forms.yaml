@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treatment Interruption Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: What is a treatment interruption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: treatment_dose
+      label: Treatment Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_interruption
+      label: Reason for interruption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: provider_outcome
+      label: Provider Outcome
+      hint: null
+      type: text
+      options: []
+      required: false

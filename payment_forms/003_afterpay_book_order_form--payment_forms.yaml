@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Book Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your full name as it appears on your identification
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Enter your email address for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Enter your phone number for delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter the complete address where books should be delivered
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address_same
+      label: Billing Address Same as Shipping
+      hint: Check if billing address is the same as shipping address
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: Enter the complete billing address if different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: book_selection_header
+      label: -- Book Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: book_title
+      label: Book Title
+      hint: Enter the title of the book you wish to order
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: author_name
+      label: Author Name
+      hint: Enter the name of the book's author
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: isbn_number
+      label: ISBN Number
+      hint: Enter the ISBN if known (optional)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: book_quantity
+      label: Quantity
+      hint: How many copies of this book would you like to order?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: book_condition_preference
+      label: Book Condition Preference
+      hint: What condition of the book do you prefer?
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Very Good
+      - Good
+      - Acceptable
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: Any special instructions for your order
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: Select Afterpay as your payment method
+      type: select_one
+      options:
+      - Afterpay (Buy Now, Pay Later)
+      - Credit Card
+      - Debit Card
+      required: true
+    - id: 15
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to the Afterpay terms and conditions?
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

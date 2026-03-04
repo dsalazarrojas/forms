@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cocktail Menu Selection
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: party_size
+      label: Number of People in Your Party
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_dietary
+      label: -- Dietary Restrictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: alcohol_restrictions
+      label: Can You Consume Alcohol?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Non-alcoholic only
+      required: true
+    - id: 9
+      name: section_cocktail_selection
+      label: -- Cocktail Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: first_choice
+      label: First Cocktail Choice
+      hint: Your preferred selection
+      type: select_one
+      options:
+      - Classic Margarita
+      - Mojito
+      - Manhattan
+      - Cosmopolitan
+      - Daiquiri
+      - Piña Colada
+      - Old Fashioned
+      - Martini
+      - Negroni
+      - Other
+      required: true
+    - id: 11
+      name: second_choice
+      label: Second Cocktail Choice
+      hint: Alternative selection
+      type: select_one
+      options:
+      - Classic Margarita
+      - Mojito
+      - Manhattan
+      - Cosmopolitan
+      - Daiquiri
+      - Piña Colada
+      - Old Fashioned
+      - Martini
+      - Negroni
+      - Other
+      required: false
+    - id: 12
+      name: spirit_preference
+      label: Preferred Spirit
+      hint: null
+      type: select_one
+      options:
+      - Vodka
+      - Gin
+      - Rum
+      - Tequila
+      - Whiskey
+      - Brandy
+      - No preference
+      required: false
+    - id: 13
+      name: sweetness_level
+      label: Preferred Sweetness Level
+      hint: null
+      type: select_one
+      options:
+      - Very sweet
+      - Sweet
+      - Balanced
+      - Dry
+      - Very dry
+      - No preference
+      required: false
+    - id: 14
+      name: section_non_alcoholic
+      label: -- Non-Alcoholic Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: non_alcoholic_choice
+      label: Non-Alcoholic Drink Choice
+      hint: null
+      type: select_one
+      options:
+      - Mocktail - Fruit based
+      - Mocktail - Herbal
+      - Juice
+      - Soft drink
+      - Water
+      - Coffee or tea
+      - Other
+      required: false
+    - id: 16
+      name: section_servings
+      label: -- Servings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: drink_servings
+      label: Number of Drinks per Person
+      hint: Estimated quantity
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: glass_preference
+      label: Glass Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Coupe glass
+      - Rocks glass
+      - Highball glass
+      - Margarita glass
+      - Martini glass
+      - No preference
+      required: false
+    - id: 19
+      name: section_ice
+      label: -- Ice and Garnish --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: ice_preference
+      label: Ice Preference
+      hint: null
+      type: select_one
+      options:
+      - Cubed ice
+      - Crushed ice
+      - Shaved ice
+      - No preference
+      required: false
+    - id: 21
+      name: garnish_preference
+      label: Garnish Preference
+      hint: Select all preferred garnishes
+      type: select_multiple
+      options:
+      - Citrus twist
+      - Fresh mint
+      - Berries
+      - Olives
+      - Cherries
+      - Herbs
+      - None
+      required: false
+    - id: 22
+      name: section_special
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any customizations?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: selection_date
+      label: Selection Date
+      hint: null
+      type: date
+      options: []
+      required: true

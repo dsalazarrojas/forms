@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aromatherapy Client Consultation Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_wellness_goals
+      label: -- Wellness Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_goal
+      label: Primary Wellness Goal
+      hint: What would you like to achieve
+      type: select_one
+      options:
+      - Stress relief and relaxation
+      - Better sleep quality
+      - Pain management
+      - Energy and vitality
+      - Emotional balance
+      - Respiratory support
+      - Skin health
+      - General wellness
+      required: true
+    - id: 9
+      name: secondary_goals
+      label: Secondary Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Mood improvement
+      - Mental clarity
+      - Immune support
+      - Inflammation reduction
+      - Hormonal balance
+      - Other wellness interests
+      required: false
+    - id: 10
+      name: section_lifestyle
+      label: -- Lifestyle and Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: stress_level
+      label: Current Stress Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: true
+    - id: 12
+      name: sleep_pattern
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times per week
+      - 1-2 times per week
+      - Rarely
+      - Never
+      required: false
+    - id: 14
+      name: section_health_history
+      label: -- Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_health_conditions
+      label: Current Health Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Anxiety or depression
+      - Chronic pain
+      - Headaches
+      - Sleep disorders
+      - High blood pressure
+      - Skin conditions
+      - Respiratory issues
+      - Other
+      required: false
+    - id: 16
+      name: medication_list
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known Allergies
+      hint: Including essential oil allergies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: scent_sensitivities
+      label: Scent Sensitivities or Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_aromatherapy_exp
+      label: -- Aromatherapy Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: aromatherapy_experience
+      label: Previous Aromatherapy Experience
+      hint: null
+      type: select_one
+      options:
+      - None - first time
+      - Limited experience
+      - Some experience
+      - Frequent user
+      required: true
+    - id: 21
+      name: essential_oils_used
+      label: Essential Oils You Have Used Before
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: favorite_scents
+      label: Your Favorite Scents or Aromas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_preferences
+      label: -- Treatment Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: preferred_application
+      label: Preferred Application Method
+      hint: null
+      type: select_multiple
+      options:
+      - Diffusion
+      - Topical massage
+      - Inhalation
+      - Bath or soak
+      - Personal care product
+      - Other
+      required: true
+    - id: 25
+      name: treatment_frequency
+      label: Desired Treatment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time consultation
+      - Weekly sessions
+      - Bi-weekly sessions
+      - Monthly sessions
+      - As needed
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

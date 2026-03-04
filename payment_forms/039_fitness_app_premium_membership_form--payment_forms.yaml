@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness App Premium Membership Form
+    pages:
+    - id: 1
+      name: plan_selection
+      label: Plan Selection
+      hint: null
+      type: select_one
+      options:
+      - -ประก Plan A -ประก Plan B -ประก Plan C
+      - Other
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: billing_country
+      label: Billing Country
+      hint: null
+      type: select_one
+      options:
+      - -ประเทศไทย -Singapore -United States
+      - Other
+      required: false
+    - id: 6
+      name: onboarding_details
+      label: Onboarding Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_multiple
+      options:
+      - -1 month -3 months -6 months
+      - Other
+      required: false
+    - id: 8
+      name: billing_name
+      label: Billing Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_phone
+      label: Billing Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_email
+      label: Billing Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: plan_pricing
+      label: Plan Pricing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: billing_zip
+      label: Billing Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: onboarding_time
+      label: Onboarding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: membership_plan_type
+      label: Membership Plan Type
+      hint: null
+      type: select_one
+      options:
+      - -Monthly -Yearly -Lifelong
+      - Other
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - -Bank Transfer -Credit Card -PayPal
+      - Other
+      required: false
+    - id: 17
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_notes
+      label: Billing Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: membership_plan_price
+      label: Membership Plan Price
+      hint: null
+      type: number
+      options: []
+      required: false

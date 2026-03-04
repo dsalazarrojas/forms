@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Fulfillment Communication Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: Enter order ID here
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - chat
+      required: true
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - placed
+      - processing
+      - fulfilled
+      - cancelled
+      required: true
+    - id: 5
+      name: customer_message
+      label: customer message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_signature
+      label: customer signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: fulfillment_message
+      label: fulfillment message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fulfillment_status
+      label: Fulfillment Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - fulfilled
+      - not_fulfilled
+      required: true
+    - id: 9
+      name: reason_for_non_fulfillment
+      label: Reason for non-fulfillment
+      hint: null
+      type: select_one
+      options:
+      - not_found
+      - out_of_stock
+      - customer_refused
+      required: false
+    - id: 10
+      name: date_ordered
+      label: Date ordered
+      hint: null
+      type: date
+      options: []
+      required: true

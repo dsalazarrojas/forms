@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Newsletter Subscription Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: format
+      label: Format
+      hint: null
+      type: select_multiple
+      options:
+      - Digital
+      - Print
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      required: false
+    - id: 6
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

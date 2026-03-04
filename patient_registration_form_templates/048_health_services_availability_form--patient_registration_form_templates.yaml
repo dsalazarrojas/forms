@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: health_services_availability_form
+    pages:
+    - id: 1
+      name: service_name
+      label: Services Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_category
+      label: Services Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''General''}'
+      - '{''value'': ''Specialist''}'
+      required: true
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mon''}'
+      - '{''value'': ''Tue''}'
+      - '{''value'': ''Wed''}'
+      - '{''value'': ''Thu''}'
+      - '{''value'': ''Fri''}'
+      - '{''value'': ''Sat''}'
+      - '{''value'': ''Sun''}'
+      required: true
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

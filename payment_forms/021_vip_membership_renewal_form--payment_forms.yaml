@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_membership_renewal_form
+    pages:
+    - id: 1
+      name: membership_details
+      label: membership_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: Please fill out this information for your contact info.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_terms
+      label: agreement_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_details
+      label: payment_details
+      hint: Select payment method.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: membership_plan
+      label: membership_plan
+      hint: Select your membership plan.
+      type: select_one
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: false
+    - id: 6
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expiration_month
+      label: expiration_month
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: membership_plan_price
+      label: membership_plan_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 10
+      name: cvv
+      label: cvv
+      hint: Please enter your CVV for verification purposes only.
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: cvv_cvv
+      label: cvv_cvv
+      hint: Please enter your CVV for verification purposes only.
+      type: number
+      options: []
+      required: false

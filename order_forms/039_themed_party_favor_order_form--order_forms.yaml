@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Themed Party Favor Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zip
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: name_2
+      label: Name of Guest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: number_of_favors
+      label: Number of Favors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: favor_type
+      label: Favor Type
+      hint: null
+      type: select_one
+      options:
+      - Balloons
+      - Gift
+      - Pinata
+      required: false
+    - id: 13
+      name: party_theme
+      label: Party Theme
+      hint: null
+      type: select_multiple
+      options:
+      - Themed Party
+      - Birthday Party
+      - Holiday Party
+      required: false
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: Please provide any additional instructions or requests here
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order
+      label: Order
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Ordered
+      - Not Ordered
+      required: false
+    - id: 19
+      name: date_of_order
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_of_order
+      label: Time of Order
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 25
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true

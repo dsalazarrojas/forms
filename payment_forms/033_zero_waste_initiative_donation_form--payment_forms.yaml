@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zero Waste Initiative Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      - Monthly
+      - Annually
+      required: false

@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chicken Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Your full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: If ordering for a business
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Delivery Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need the order
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: customer_type
+      label: Customer Type
+      hint: What type of customer are you
+      type: select_one
+      options:
+      - Individual
+      - Restaurant
+      - Catering company
+      - Food service
+      - Retail store
+      - Institution
+      - Other
+      required: true
+    - id: 9
+      name: chicken_type
+      label: Type of Chicken
+      hint: What type of chicken
+      type: select_one
+      options:
+      - Broiler/Fryer
+      - Roaster
+      - Whole chicken
+      - Chicken parts
+      - Organic
+      - Free-range
+      - Kosher
+      - Halal
+      required: true
+    - id: 10
+      name: chicken_parts
+      label: Chicken Parts
+      hint: Select parts needed
+      type: select_multiple
+      options:
+      - Whole chicken
+      - Breast
+      - Thighs
+      - Drumsticks
+      - Wings
+      - Back
+      - Necks
+      - Giblets
+      - Feet
+      - Mixed parts
+      required: true
+    - id: 11
+      name: fresh_frozen
+      label: Fresh or Frozen
+      hint: Preference for fresh or frozen
+      type: select_one
+      options:
+      - Fresh
+      - Frozen
+      - Either
+      required: true
+    - id: 12
+      name: skin_on_off
+      label: Skin Preference
+      hint: Skin on or off
+      type: select_one
+      options:
+      - Skin on
+      - Skin off
+      - No preference
+      required: true
+    - id: 13
+      name: bone_in_out
+      label: Bone Preference
+      hint: Bone-in or boneless
+      type: select_one
+      options:
+      - Bone-in
+      - Boneless
+      - No preference
+      required: true
+    - id: 14
+      name: quantity_pounds
+      label: Quantity in Pounds
+      hint: Total pounds needed
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: quantity_pieces
+      label: Quantity in Pieces
+      hint: Total pieces if applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: packaging_preference
+      label: Packaging Preference
+      hint: How should it be packaged
+      type: select_one
+      options:
+      - Bulk packaging
+      - Individual packaging
+      - Family packs
+      - No preference
+      required: true
+    - id: 17
+      name: grade_quality
+      label: Grade or Quality
+      hint: Quality grade preferred
+      type: select_one
+      options:
+      - Grade A
+      - Grade B
+      - Premium
+      - Standard
+      - No preference
+      required: true
+    - id: 18
+      name: brand_preference
+      label: Brand Preference
+      hint: Preferred brand if any
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_method
+      label: Delivery Method
+      hint: How should order be delivered
+      type: select_one
+      options:
+      - Standard delivery
+      - Express delivery
+      - Scheduled delivery
+      - Pickup
+      required: true
+    - id: 20
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: storage_requirements
+      label: Storage Requirements
+      hint: Any special storage needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Bank transfer
+      - Cash on delivery
+      - Account billing
+      required: true
+    - id: 23
+      name: account_number
+      label: Account Number
+      hint: If you have an account with us
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recurring_order
+      label: Is This a Recurring Order
+      hint: Will you order regularly
+      type: select_one
+      options:
+      - Yes, weekly
+      - Yes, bi-weekly
+      - Yes, monthly
+      - No, one-time
+      required: true
+    - id: 26
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true

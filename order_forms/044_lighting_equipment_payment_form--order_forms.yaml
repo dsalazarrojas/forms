@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: lighting_equipment_payment_form
+    pages:
+    - id: 1
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Online
+      - Other
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Online Payment Gateway
+      - Other
+      required: false
+    - id: 3
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Partially Paid
+      - Other
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - LED
+      - Incandescent
+      - Halogen
+      - Other
+      required: false
+    - id: 14
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false

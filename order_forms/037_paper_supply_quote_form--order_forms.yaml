@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paper Supply Quote Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_phone
+      label: business phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: paper_type
+      label: paper type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A4''}'
+      - '{''label'': ''Letter''}'
+      - '{''label'': ''Legal''}'
+      - '{''label'': ''Ledger''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Black''}'
+      - '{''label'': ''White''}'
+      - '{''label'': ''Color''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: size
+      label: size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: orientation
+      label: orientation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Portrait''}'
+      - '{''label'': ''Landscape''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: finish
+      label: finish
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Gloss''}'
+      - '{''label'': ''Matte''}'
+      - '{''label'': ''Matt''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: paper_supply_quote
+      label: paper supply quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_notes
+      label: additional notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quote_date
+      label: quote date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: required
+      label: required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true

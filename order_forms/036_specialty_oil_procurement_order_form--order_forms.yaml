@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialty Oil Procurement Order Form
+    pages:
+    - id: 1
+      name: specialty_oil_order_form
+      label: Specialty Oil Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: oil_type
+      label: oil type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''oil_type_1''}'
+      - '{''label'': ''oil_type_2''}'
+      - '{''label'': ''oil_type_3''}'
+      required: true
+    - id: 6
+      name: customer_contact
+      label: customer contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: order_details
+      label: order details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: total_oil_ordered
+      label: total oil ordered
+      hint: null
+      type: number
+      options: []
+      required: false

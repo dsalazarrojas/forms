@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Progress Billing Tracker
+    pages:
+    - id: 1
+      name: section_billing_ident
+      label: -- Billing Period Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_id
+      label: Project ID or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: billing_period_number
+      label: Billing Period Number
+      hint: e.g., Period 1, Period 12
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: period_start_date
+      label: Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: period_end_date
+      label: Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_financial_summary
+      label: -- Financial Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: original_contract_amount
+      label: Original Contract Amount ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: net_change_orders
+      label: Net Value of Change Orders ($)
+      hint: Use negative for credits
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_contract_to_date
+      label: Revised Total Contract Amount ($)
+      hint: Original plus net change orders
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_work_completed
+      label: -- Work Completed and Stored --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_work_to_date
+      label: Total Work Completed and Stored to Date ($)
+      hint: Includes current period
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: previous_work_to_date
+      label: Previous Work Completed and Stored to Date ($)
+      hint: Amount from previous billing period
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: current_period_work
+      label: Total Work Completed this Period ($)
+      hint: Difference between total work to date and previous
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_retainage
+      label: -- Retainage and Balance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: retainage_percentage
+      label: Retainage Percentage (%)
+      hint: Usually 5% or 10%
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_retainage_to_date
+      label: Total Retainage Amount to Date ($)
+      hint: Current retainage withheld
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_earned_less_retainage
+      label: Total Earned Less Retainage ($)
+      hint: Net amount earned to date
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: net_payment_due_period
+      label: Net Amount Due this Period ($)
+      hint: Amount requested for current payment
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: balance_to_finish
+      label: Balance to Finish ($)
+      hint: Total contract less total earned less retainage
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_auth_confirmation
+      label: -- Authorization and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: billing_manager_name
+      label: Billing Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submission_date
+      label: Date of Billing Submission
+      hint: null
+      type: date
+      options: []
+      required: true

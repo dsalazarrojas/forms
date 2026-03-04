@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Billing Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: total_classes
+      label: Total Classes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tuition_fees
+      label: Tuition Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method_profits
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: payment_due_date
+      label: Payment Due Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_contact
+      label: Billing Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_notes
+      label: Billing Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: additional_fees
+      label: Additional Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_terms_details
+      label: Payment Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms_due_date
+      label: Payment Terms Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

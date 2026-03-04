@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paw Some Color Street Preorder
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info_1
+      label: Shipping Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': ''Option 1 Value 1''}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': ''Option 2 Value 1''}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': ''Option 3 Value 1''}'
+      required: false
+    - id: 3
+      name: shipping_info_2
+      label: Shipping Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shipping_info_3
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: doodle_notebook_dummy_form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: customer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: doodle_notebook_type
+      label: doodle notebook type
+      hint: null
+      type: select_one
+      options:
+      - Doodle 1
+      - Doodle 2
+      - Doodle 3
+      - Doodle 4
+      - Doodle 5
+      - Doodle 6
+      - Doodle 7
+      - Doodle 8
+      required: false
+    - id: 8
+      name: doodle_notebook_size
+      label: doodle notebook size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 9
+      name: doodle_notebook_color
+      label: doodle notebook color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - black
+      required: false
+    - id: 10
+      name: doodle_notebook_cover_type
+      label: doodle notebook cover type
+      hint: null
+      type: select_one
+      options:
+      - plain
+      - embossed
+      - debossed
+      required: false
+    - id: 11
+      name: doodle_notebook_paper_type
+      label: doodle notebook paper type
+      hint: null
+      type: select_one
+      options:
+      - recycled
+      - non-recycled
+      - eco-friendly
+      required: false

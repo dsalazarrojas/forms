@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_cookie_tin_order_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tin_type
+      label: Tin Type
+      hint: null
+      type: select_one
+      options:
+      - Tin A
+      - Tin B
+      - Tin C
+      required: false
+    - id: 4
+      name: cookie_type
+      label: Cookie Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cookie A
+      - Cookie B
+      - Cookie C
+      - Cookie D
+      required: false
+    - id: 5
+      name: tin_size
+      label: Tin Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 6
+      name: tin_color
+      label: Tin Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 7
+      name: cookie_color
+      label: Cookie Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 8
+      name: tin_design
+      label: Tin Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tin_message
+      label: Tin Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tin_quantity
+      label: Tin Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

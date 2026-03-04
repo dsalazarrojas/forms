@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Cable Tray Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cable_tray_details
+      label: Cable Tray Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: material_type
+      label: Material Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cable_size
+      label: Cable Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cable_color
+      label: Cable Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 7
+      name: cable_length
+      label: Cable Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cable_gauge
+      label: Cable Gauge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cable_type
+      label: Cable Type
+      hint: null
+      type: select_multiple
+      options:
+      - Aluminum
+      - Copper
+      - Copper-clad
+      required: false
+    - id: 10
+      name: application
+      label: Application
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturing
+      - Construction
+      - Electrical
+      - Plumbing
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

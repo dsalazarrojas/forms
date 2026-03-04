@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Future Medical Contact Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_information_to_share
+      label: Medical Information to Share
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sharing_permission
+      label: Sharing Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_signature_date
+      label: Contact Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: contact_signed_by
+      label: Contact Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

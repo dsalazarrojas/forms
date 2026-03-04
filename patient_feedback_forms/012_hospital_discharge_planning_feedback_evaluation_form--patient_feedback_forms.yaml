@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Discharge Planning Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: discharge_planning_form
+      label: Discharge Planning Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_rating
+      label: Overall Experience Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 1}'
+      - '{''id'': 2, ''value'': 2}'
+      - '{''id'': 3, ''value'': 3}'
+      - '{''id'': 4, ''value'': 4}'
+      - '{''id'': 5, ''value'': 5}'
+      required: false
+    - id: 3
+      name: feedback_questions
+      label: What did you find most useful in this discharge planning experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''phone''}'
+      - '{''id'': 2, ''value'': ''email''}'
+      - '{''id'': 3, ''value'': ''address''}'
+      required: false
+    - id: 6
+      name: communication_style
+      label: How would you rate our communication style?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''very_effective''}'
+      - '{''id'': 2, ''value'': ''somewhat_effective''}'
+      - '{''id'': 3, ''value'': ''not_effective''}'
+      required: false
+    - id: 7
+      name: time_spent
+      label: Time Spent with the Healthcare Team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_spent_hospital
+      label: Time Spent at Hospital
+      hint: null
+      type: number
+      options: []
+      required: false

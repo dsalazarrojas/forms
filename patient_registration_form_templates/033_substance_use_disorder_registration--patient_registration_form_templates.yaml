@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substance Use Disorder Registration
+    pages:
+    - id: 1
+      name: individual_details
+      label: individual_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: substance_use_status
+      label: substance_use_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: intake_questions
+      label: intake_questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mental_health_history
+      label: mental_health_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_goals
+      label: treatment_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

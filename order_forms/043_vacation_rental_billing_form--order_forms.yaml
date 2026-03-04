@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Rental Billing Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 5
+      name: payment_method_other
+      label: payment_method_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_details
+      label: rental_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_amount
+      label: order_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: tax
+      label: tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: discount
+      label: discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      - Pending
+      required: true
+    - id: 14
+      name: payment_method_payment_id
+      label: payment_method_payment_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method_payment_date
+      label: payment_method_payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_method_transaction_id
+      label: payment_method_transaction_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method_transaction_date
+      label: payment_method_transaction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: payment_method_transaction_id_2
+      label: payment_method_transaction_id_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method_transaction_amount
+      label: payment_method_transaction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_method_transaction_date_2
+      label: payment_method_transaction_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_method_transaction_id_3
+      label: payment_method_transaction_id_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method_transaction_id_4
+      label: payment_method_transaction_id_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method_transaction_id_5
+      label: payment_method_transaction_id_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method_transaction_id_6
+      label: payment_method_transaction_id_6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false

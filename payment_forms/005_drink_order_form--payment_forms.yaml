@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drink Order Form
+    pages:
+    - id: 1
+      name: drink_order_form
+      label: Drink Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drink_size_large
+      label: large
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Large''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''Small''}'
+      required: false
+    - id: 6
+      name: drink_type
+      label: drink_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Coffee''}'
+      - '{''name'': ''Juice''}'
+      - '{''name'': ''Water''}'
+      required: false
+    - id: 7
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false

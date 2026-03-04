@@ -1,0 +1,61 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Rare Disease Patient Feedback
+    pages:
+    - id: 1
+      name: disease_name
+      label: Rare Disease Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptom_management
+      label: Symptom Management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Pain''}'
+      - '{''id'': 2, ''name'': ''Fatigue''}'
+      - '{''id'': 3, ''name'': ''Nausea''}'
+      required: false
+    - id: 3
+      name: treatment_challenges
+      label: Treatment Challenges
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Side effects''}'
+      - '{''id'': 2, ''name'': ''Cost''}'
+      - '{''id'': 3, ''name'': ''Access''}'
+      required: false
+    - id: 4
+      name: support_satisfaction
+      label: Support Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very good''}'
+      - '{''id'': 2, ''name'': ''Somewhat good''}'
+      - '{''id'': 3, ''name'': ''Not very good''}'
+      - '{''id'': 4, ''name'': ''Not good at all''}'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

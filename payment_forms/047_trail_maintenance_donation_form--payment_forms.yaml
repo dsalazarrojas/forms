@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trail Maintenance Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 3
+      name: frequency_duration
+      label: Frequency Duration
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Quarter
+      - Year
+      required: false

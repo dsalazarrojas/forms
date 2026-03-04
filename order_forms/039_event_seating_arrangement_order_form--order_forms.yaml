@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Seating Arrangement Order Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_time
+      label: Date Time
+      hint: The date and time of the event
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: seat_type
+      label: Seat Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Table
+      required: true
+    - id: 4
+      name: seat_number
+      label: Seat Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: special_request
+      label: Special Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: seat_arrangement
+      label: Seat Arrangement
+      hint: null
+      type: select_multiple
+      options:
+      - Window Table
+      - Window Table with Partition
+      - Window with Bar
+      - Window
+      required: true
+    - id: 13
+      name: seat_arrangement_details
+      label: Seat Arrangement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meal_option
+      label: Meal Option
+      hint: null
+      type: select_one
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - None
+      required: true
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility
+      label: Accessibility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: signature_time
+      label: Signature Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

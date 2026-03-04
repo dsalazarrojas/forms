@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Cleaning Chemical Order Form
+    pages:
+    - id: 1
+      name: supplier
+      label: Supplier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_selections
+      label: Product Selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: terms_acknowledgment
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false

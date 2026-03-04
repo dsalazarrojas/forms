@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fireproof Cabinet Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cabinet_selections
+      label: Cabinet Selections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payments
+      label: Payments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_delivery_address
+      label: Customer Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WV
+      - WY
+      required: false
+    - id: 8
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Australia
+      - India
+      - China
+      - Japan
+      - South Africa
+      - Germany
+      - France
+      - Italy
+      - Spain
+      - Portugal
+      - Brazil
+      - Russia
+      - Turkey
+      - Poland
+      - Netherlands
+      - Belgium
+      - Sweden
+      - Switzerland
+      required: false
+    - id: 9
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: cabinet_type
+      label: Cabinet Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Deluxe
+      required: false
+    - id: 13
+      name: cabinet_color
+      label: Cabinet Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      required: false
+    - id: 14
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 18
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: confirm_terms
+      label: Confirm Terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: false
+    - id: 21
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: select_one
+      options:
+      - Pay now
+      - Pay later
+      required: false
+    - id: 22
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm_cabinet
+      label: Confirm Cabinet
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: false
+    - id: 25
+      name: confirm_delivery
+      label: Confirm Delivery
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: false

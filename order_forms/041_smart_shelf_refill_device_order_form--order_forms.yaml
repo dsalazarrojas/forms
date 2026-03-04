@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Shelf Refill Device Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: device_order_date
+      label: Device Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: device_order_time
+      label: Device Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: operation
+      label: Operation
+      hint: null
+      type: select_one
+      options:
+      - Operations Manager
+      - Store Manager
+      - Inventory Manager
+      - Warehouse Manager
+      - Delivery Manager
+      - Other
+      required: true
+    - id: 10
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_multiple
+      options:
+      - Standard Delivery
+      - Express Delivery
+      - Same Day Delivery
+      required: true
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting
+      - In Progress
+      - Completed
+      required: true
+    - id: 15
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: device_serial_number
+      label: Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: true

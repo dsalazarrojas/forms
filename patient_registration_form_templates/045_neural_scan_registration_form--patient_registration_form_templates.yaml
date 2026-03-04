@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: neural_scan_registration_form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: Second Page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: third_page
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: fourth_page
+      label: Scan Appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: fifth_page
+      label: Scan Time
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: homeless-shelter-improvement-donation-form
+    pages:
+    - id: 1
+      name: homeless_shelter_improvement_donation_form
+      label: One-time or Recurring Gift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shelter_upgrades
+      label: Shelter Upgrades
+      hint: null
+      type: select_multiple
+      options:
+      - Building
+      - Furniture
+      - Technology
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: Donation Frequency
+      hint: Choose how often youd like to gift
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: false
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

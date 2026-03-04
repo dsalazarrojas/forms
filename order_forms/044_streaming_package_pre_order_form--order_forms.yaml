@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streaming Package Pre Order Form
+    pages:
+    - id: 1
+      name: streaming_package_pre_order
+      label: streaming_package_pre_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: streaming_package
+      label: streaming_package
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pre_order_details
+      label: pre_order_details
+      hint: null
+      type: note
+      options: []
+      required: false

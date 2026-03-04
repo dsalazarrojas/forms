@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home And Garden Item Search Request
+    pages:
+    - id: 1
+      name: product_search
+      label: Product Search
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_request_details
+      label: Product Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: product_request_priority
+      label: Product Request Priority
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true

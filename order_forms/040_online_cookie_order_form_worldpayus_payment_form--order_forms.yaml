@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Cookie Order Form WorldPayUS Payment Form
+    pages:
+    - id: 1
+      name: cookie_order_form
+      label: Cookie order form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: type
+      label: Cookie type
+      hint: null
+      type: select_one
+      options:
+      - Chocolate Chip
+      - Oatmeal Raisin
+      - Peanut Butter
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - WorldPay US
+      - Stripe
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_time
+      label: Order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: confirm_phone
+      label: Confirm phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_total
+      label: Order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: confirm_email
+      label: Confirm email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: confirm_phone
+      label: Confirm phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_status
+      label: Order status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Processing
+      - Shipped
+      - Cancelled
+      required: false

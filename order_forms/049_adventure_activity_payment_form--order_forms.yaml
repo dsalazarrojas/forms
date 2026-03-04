@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Activity Payment Form
+    pages:
+    - id: 1
+      name: section_cust
+      label: -- Customer and Activity Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_name
+      label: Activity Name
+      hint: e.g. Rock Climbing, Kayaking
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: number_of_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_pay
+      label: -- Payment Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: unit_price_per_participant
+      label: Unit Price per Participant
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: equipment_rental_fee
+      label: Equipment Rental Fee
+      hint: enter 0 if none
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: insurance_surcharge
+      label: Insurance Surcharge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_payment_amount
+      label: Total Payment Amount
+      hint: automatically calculated
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_meth
+      label: -- Payment Method --
+      hint: secure checkout
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: mode_of_payment
+      label: Mode of Payment
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      - Apple Pay
+      required: true
+    - id: 13
+      name: billing_address
+      label: Billing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_conf
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: receipt_delivery_email
+      label: Receipt Delivery Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: agree_to_refund_policy
+      label: Agree to Refund Policy
+      hint: no refunds within 24 hours of activity
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

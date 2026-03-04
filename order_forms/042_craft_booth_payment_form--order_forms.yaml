@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Craft Booth Payment Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: craft_booth_id
+      label: craft_booth_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method_id
+      label: payment_method_id
+      hint: null
+      type: select_one
+      options:
+      - Apple Pay
+      - Bank Transfer
+      - Credit Card
+      - Google Pay
+      - PayPal
+      - Venmo
+      required: false
+    - id: 5
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_amount
+      label: tax_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: Additional information about the transaction
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_note
+      label: customer_note
+      hint: Comments or notes about the customer
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 16
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: deleted_at
+      label: deleted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: created_by
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - Google Pay
+      - PayPal
+      required: false
+    - id: 22
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 23
+      name: transaction_reference
+      label: transaction_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_reference
+      label: customer_reference
+      hint: Optional customer reference number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_id
+      label: payment_id
+      hint: null
+      type: note
+      options: []
+      required: false

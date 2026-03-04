@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Services Billing Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - paypal
+      - bank_transfer
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_details
+      label: event_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_details
+      label: service_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_status
+      label: service_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 11
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_city
+      label: billing_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_country
+      label: billing_country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 14
+      name: payment_method_id
+      label: payment_method_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_details_2
+      label: service_details_2
+      hint: null
+      type: note
+      options: []
+      required: false

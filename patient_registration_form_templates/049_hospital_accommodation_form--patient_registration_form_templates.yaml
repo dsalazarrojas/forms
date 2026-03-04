@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Accommodation Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accommodation_needs
+      label: Accommodation Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_room_type
+      label: Preferred Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Double
+      - Triple
+      - Family
+      - Suite
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Inpatient
+      - Outpatient
+      - Observation
+      required: false
+    - id: 7
+      name: doctor_info
+      label: Doctor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergy_intolerances
+      label: Allergies & Intolerances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_photo
+      label: Patient Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accommodation_arrival
+      label: Accommodation Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: accommodation_departure
+      label: Accommodation Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false

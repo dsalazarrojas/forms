@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Donation Form
+    pages:
+    - id: 1
+      name: section_donor_info_don
+      label: -- Donor Information --
+      hint: Thank you for your support of our community center!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_full_name_don
+      label: Full Name of Donor
+      hint: Or Organization Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email_don
+      label: Email Address
+      hint: For donation receipt and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone_don
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address_don
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_donation_details_don
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_type_don
+      label: Type of Donation
+      hint: null
+      type: select_one
+      options:
+      - One-Time Gift
+      - Recurring Monthly Gift
+      - Annual Pledge
+      - Memorial/Honorary Gift
+      required: true
+    - id: 8
+      name: donation_amount_don
+      label: Donation Amount
+      hint: In USD
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: donation_fund_selection_don
+      label: Which fund should your donation support
+      hint: null
+      type: select_one
+      options:
+      - General Operations
+      - Youth Programs
+      - Senior Services
+      - Facility Renovation
+      - Arts and Culture Programs
+      - Scholarshop Fund
+      required: true
+    - id: 10
+      name: memorial_honorary_details_don
+      label: If this is a memorial or honorary gift, please provide details
+      hint: Name of the person being honored
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: anonymous_donation_check_don
+      label: I wish to remain anonymous
+      hint: My name will not be published in donor lists
+      type: select_one
+      options:
+      - Yes, I wish to be anonymous
+      - No, I am okay with being listed
+      required: true
+    - id: 12
+      name: section_payment_method_don
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_payment_method_don
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card (Online)
+      - PayPal
+      - Personal Check (to be mailed)
+      - Bank Transfer
+      required: true
+    - id: 14
+      name: donation_comments_don
+      label: Any Additional Comments or Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_submission_acknowledgment_don
+      label: -- Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: donation_submission_date_don
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: newsletter_opt_in_don
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 18
+      name: tax_receipt_acknowledgment_don
+      label: I understand that a tax-deductible receipt will be sent to my email
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true

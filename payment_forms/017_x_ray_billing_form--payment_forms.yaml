@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: X Ray Billing Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: x_ray_service
+      label: x_ray_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_phone
+      label: billing_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit'', ''label'': ''Credit''}'
+      - '{''id'': 2, ''name'': ''Check'', ''label'': ''Check''}'
+      - '{''id'': 3, ''name'': ''Online'', ''label'': ''Online''}'
+      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
+      required: false

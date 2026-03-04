@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Membership Gift Card Purchase Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - yearly
+      - lifetime
+      required: false
+    - id: 6
+      name: card_value
+      label: Card Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: card_quantity
+      label: Card Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: card_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: card_expiration
+      label: Card Expiration
+      hint: If monthly, select last day of month
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banquet Event Order Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_organization
+      label: Organization
+      hint: Company or group
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: What is the event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: Category
+      type: select_one
+      options:
+      - Wedding Reception
+      - Corporate Event
+      - Birthday Celebration
+      - Anniversary
+      - Graduation
+      - Holiday Party
+      - Fundraiser
+      - Conference
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: Begin time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_end_time
+      label: Event End Time
+      hint: End time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: Headcount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: venue_selection
+      label: Venue Selection
+      hint: Which room
+      type: select_one
+      options:
+      - Grand Ballroom
+      - Conference Center
+      - Garden Terrace
+      - Rooftop Venue
+      - Private Dining Room
+      - Outdoor Pavilion
+      required: true
+    - id: 12
+      name: meal_service
+      label: Meal Service
+      hint: Type of service
+      type: select_one
+      options:
+      - Plated Dinner
+      - Buffet Style
+      - Family Style
+      - Cocktail Reception
+      - Boxed Lunch
+      required: true
+    - id: 13
+      name: menu_selection
+      label: Menu Selection
+      hint: Choose menu
+      type: select_one
+      options:
+      - Premium Menu
+      - Standard Menu
+      - Budget Menu
+      - Custom Menu
+      required: true
+    - id: 14
+      name: appetizers
+      label: Appetizers
+      hint: Starter options
+      type: select_multiple
+      options:
+      - Bruschetta
+      - Shrimp Cocktail
+      - Caprese Salad
+      - Meatballs
+      - Vegetable Platter
+      - Cheese Board
+      - None
+      required: false
+    - id: 15
+      name: entree_options
+      label: Entree Options
+      hint: Main courses
+      type: select_multiple
+      options:
+      - Grilled Salmon
+      - Prime Rib
+      - Chicken Marsala
+      - Vegetarian Pasta
+      - Beef Tenderloin
+      - Duck Confit
+      required: false
+    - id: 16
+      name: dessert_selection
+      label: Dessert Selection
+      hint: Sweet options
+      type: select_one
+      options:
+      - Wedding Cake
+      - Dessert Bar
+      - Plated Dessert
+      - Ice Cream Station
+      - No Dessert
+      required: true
+    - id: 17
+      name: beverage_package
+      label: Beverage Package
+      hint: Drink options
+      type: select_one
+      options:
+      - Non-Alcoholic Only
+      - Beer and Wine
+      - Full Bar - 4 Hours
+      - Full Bar - Unlimited
+      - Cash Bar
+      - Custom Package
+      required: true
+    - id: 18
+      name: table_setup
+      label: Table Setup
+      hint: Seating arrangement
+      type: select_one
+      options:
+      - Round Tables (8-10 guests)
+      - Long Tables
+      - Classroom Style
+      - Theater Style
+      - Cocktail Tables
+      - Custom Layout
+      required: true
+    - id: 19
+      name: linens_color
+      label: Linens Color
+      hint: Tablecloth color
+      type: select_one
+      options:
+      - White
+      - Ivory
+      - Black
+      - Navy
+      - Burgundy
+      - Gold
+      - Silver
+      - Custom
+      required: false
+    - id: 20
+      name: centerpieces
+      label: Centerpieces
+      hint: Table decorations
+      type: select_one
+      options:
+      - Floral Arrangements
+      - Candles
+      - Custom Centerpieces
+      - None Required
+      required: false
+    - id: 21
+      name: audio_visual_needs
+      label: Audio Visual Needs
+      hint: Equipment needed
+      type: select_multiple
+      options:
+      - Microphone
+      - Projector
+      - Screen
+      - Speakers
+      - Lighting
+      - Stage
+      - None
+      required: false
+    - id: 22
+      name: entertainment
+      label: Entertainment
+      hint: Music or表演
+      type: select_one
+      options:
+      - DJ
+      - Live Band
+      - String Quartet
+      - Playlist Only
+      - None
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Initial payment
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: total_budget
+      label: Total Budget
+      hint: Estimated total
+      type: select_one
+      options:
+      - Under $5000
+      - $5000-$10000
+      - $10000-$25000
+      - $25000-$50000
+      - Over $50000
+      required: false
+    - id: 26
+      name: payment_schedule
+      label: Payment Schedule
+      hint: How to pay
+      type: select_one
+      options:
+      - Full Payment Upfront
+      - 50% Deposit, 50% Before Event
+      - Monthly Installments
+      - Custom Schedule
+      required: true
+    - id: 27
+      name: cancellation_policy_acknowledgment
+      label: Cancellation Policy
+      hint: Do you understand
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, please explain
+      required: true
+    - id: 28
+      name: contract_signature_date
+      label: Signature Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: payment_summary_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payments_received
+      label: Payments Received
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: payments_made
+      label: Payments Made
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: date_of_last_transaction
+      label: Date Of Last Transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_last_transaction
+      label: Time Of Last Transaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payments_status
+      label: Payments Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: payment_amount_received
+      label: Payment Amount Received
+      hint: null
+      type: number
+      options: []
+      required: false

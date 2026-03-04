@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult ADHD Investigator Symptom Rating Scale
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: clinician_name
+      label: Clinician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: instructions_header
+      label: Rating Instructions
+      hint: Rate each symptom from 0 (Not Present) to 3 (Severe)
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: symptom_1_inattention
+      label: Difficulty giving attention to details or careless errors
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 8
+      name: symptom_2_sustained_attention
+      label: Difficulty sustaining attention in conversations or reading
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 9
+      name: symptom_3_listening
+      label: Appears not to listen when spoken to directly
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 10
+      name: symptom_4_instructions
+      label: Difficulty following through on instructions or completing tasks
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 11
+      name: symptom_5_organization
+      label: Difficulty with organization and managing time
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 12
+      name: symptom_6_avoidance
+      label: Avoidance or reluctance to engage in tasks requiring sustained effort
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 13
+      name: symptom_7_fidgeting
+      label: Fidgeting with hands or feet, or squirming in seat
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 14
+      name: symptom_8_leaving_seat
+      label: Difficulty remaining seated when expected
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 15
+      name: symptom_9_excessive_activity
+      label: Feeling restless or excessive activity
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 16
+      name: symptom_10_talking
+      label: Excessive talking or difficulty waiting turn to speak
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 17
+      name: symptom_11_interrupting
+      label: Interrupting or intruding on others
+      hint: null
+      type: select_one
+      options:
+      - 0 - Not Present
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: true
+    - id: 18
+      name: symptom_onset_age
+      label: Approximate age when symptoms began
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: duration_months
+      label: Duration of symptoms in months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: functional_impairment
+      label: Do symptoms cause functional impairment at home, work, or social situations?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significant
+      - Yes, moderate
+      - Minimal
+      - false
+      required: true
+    - id: 21
+      name: total_score
+      label: Total AISRS Score
+      hint: Sum of all symptom ratings
+      type: number
+      options: []
+      required: false

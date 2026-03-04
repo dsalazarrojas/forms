@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel New Property Order Request Form
+    pages:
+    - id: 1
+      name: new_property_request
+      label: New Property Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor
+      label: Vendor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Vendor A''}'
+      - '{''value'': ''Vendor B''}'
+      - '{''value'': ''Vendor C''}'
+      required: false
+    - id: 3
+      name: internal_stakeholder
+      label: Internal Stakeholder
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Internal Stakeholder 1''}'
+      - '{''value'': ''Internal Stakeholder 2''}'
+      - '{''value'': ''Internal Stakeholder 3''}'
+      required: false
+    - id: 4
+      name: project_needs
+      label: Project Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Team A''}'
+      - '{''value'': ''Team B''}'
+      - '{''value'': ''Team C''}'
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Property Type 1''}'
+      - '{''value'': ''Property Type 2''}'
+      - '{''value'': ''Property Type 3''}'
+      required: false
+    - id: 7
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 9
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

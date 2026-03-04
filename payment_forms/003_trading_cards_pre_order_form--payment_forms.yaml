@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trading Cards Pre Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_total
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_options
+      label: shipping_options
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Shipping via USPS'', ''value'': ''usps''}'
+      - '{''label'': ''Shipping via UPS'', ''value'': ''ups''}'
+      - '{''label'': ''Shipping via FedEx'', ''value'': ''fedex''}'
+      - '{''label'': ''Shipping via DHL'', ''value'': ''dhl''}'
+      required: false
+    - id: 7
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false

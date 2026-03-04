@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Billing Form
+    pages:
+      - id: 1
+        name: payer_name
+        label: Payer name
+        hint: Name on billing statement
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: billing_email
+        label: Billing email
+        hint: Email for receipt
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: billing_address
+        label: Billing address
+        hint: Street address and postal code
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: city_state
+        label: City and state
+        hint: City and state for billing
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: country
+        label: Country
+        hint: Billing country
+        type: select_one
+        options:
+          - United States
+          - Canada
+          - United Kingdom
+          - Other
+        required: true
+      - id: 6
+        name: card_type
+        label: Card type
+        hint: Select the card used for payment
+        type: select_one
+        options:
+          - Visa
+          - Mastercard
+          - American Express
+          - Discover
+        required: true
+      - id: 7
+        name: last_four_digits
+        label: Last four digits of card
+        hint: For verification only
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: invoice_reference
+        label: Invoice or order reference
+        hint: Optional internal reference
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: refund_policy_ack
+        label: Refund policy acknowledgement
+        hint: Read only summary of refund policy
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: additional_instructions
+        label: Additional instructions
+        hint: Any special billing instructions
+        type: text
+        options: []
+        required: false

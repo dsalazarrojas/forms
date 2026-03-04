@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: refund_appeal_request_form
+    pages:
+    - id: 1
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_refund
+      label: reason_for_refund
+      hint: Enter a clear reason for your refund request
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_service_request
+      label: Customer Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_status
+      label: Order Status
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: refund_method
+      label: Refund Method
+      hint: null
+      type: select_one
+      options:
+      - Refund Method
+      - Email
+      - Call
+      - Mail
+      - SMS
+      required: false
+    - id: 9
+      name: customer_message
+      label: Customer Message
+      hint: Enter any additional information that will help us process your refund
+        request
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billboard Traffic Service Form By Asiah Amsterdamm
+    pages:
+    - id: 1
+      name: business_info_header
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Please enter the legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will use this for all campaign communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billboard_details_header
+      label: -- Billboard Advertising Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: billboard_location
+      label: Preferred Billboard Location
+      hint: Specific intersection or city area
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: campaign_start_date
+      label: Advertising Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      required: true
+    - id: 10
+      name: artwork_header
+      label: -- Artwork and Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: artwork_status
+      label: Do you have existing artwork?
+      hint: null
+      type: select_one
+      options:
+      - Yes - ready to upload
+      - No - I need design services
+      required: true
+    - id: 12
+      name: additional_notes
+      label: Special Requirements or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Wire Transfer
+      - PayPal
+      required: true

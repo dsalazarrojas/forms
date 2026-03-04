@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Gift Wrapping Set Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_wrapping_sets
+      label: Gift Wrapping Sets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Set 1''}'
+      - '{''id'': 2, ''label'': ''Set 2''}'
+      - '{''id'': 3, ''label'': ''Set 3''}'
+      required: false
+    - id: 3
+      name: wrapping_size
+      label: Wrapping Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      required: false
+    - id: 4
+      name: wrapping_style
+      label: Wrapping Style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Solid''}'
+      - '{''id'': 2, ''label'': ''Faux Fur''}'
+      - '{''id'': 3, ''label'': ''Glitter''}'
+      - '{''id'': 4, ''label'': ''Metallic''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts Program Donation Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_name
+      label: Organization Name (if donating on behalf of org)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: donation_type
+      label: Type of Donation
+      hint: null
+      type: select_one
+      options:
+      - One-Time Donation
+      - Monthly Recurring
+      - Quarterly Gift
+      - Annual Pledge
+      required: true
+    - id: 12
+      name: fund_allocation
+      label: Which Program Should Receive Your Donation
+      hint: null
+      type: select_one
+      options:
+      - Youth Arts Education
+      - Community Outreach
+      - Artist Support
+      - General Fund
+      - Specific Project
+      required: true
+    - id: 13
+      name: specific_project
+      label: Specific Project Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donation_frequency
+      label: Preferred Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      required: true
+    - id: 16
+      name: gift_recognition
+      label: Public Recognition Preference
+      hint: null
+      type: select_one
+      options:
+      - Yes - List My Name
+      - Anonymous
+      - No Preference
+      required: false
+    - id: 17
+      name: tax_deductible
+      label: Request Tax Receipt
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: newsletter_subscription
+      label: Subscribe to Program Newsletter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Message
+      hint: null
+      type: text
+      options: []
+      required: false

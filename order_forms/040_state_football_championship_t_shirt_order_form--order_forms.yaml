@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: state_football_championship_t_shirt_order_form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: state_championship_year
+      label: state_championship_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: t_shirt_size
+      label: t_shirt_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 5
+      name: shirt_color
+      label: t_shirt_color
+      hint: null
+      type: select_one
+      options:
+      - black
+      - white
+      - gray
+      required: false
+    - id: 6
+      name: order_quantity
+      label: order_quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

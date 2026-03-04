@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customized Apron Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: apron_style
+      label: apron_style
+      hint: null
+      type: select_one
+      options:
+      - apron_style_1
+      - apron_style_2
+      - apron_style_3
+      required: false
+    - id: 4
+      name: apron_color
+      label: apron_color
+      hint: null
+      type: select_multiple
+      options:
+      - apron_color_1
+      - apron_color_2
+      - apron_color_3
+      - apron_color_4
+      - apron_color_5
+      - apron_color_6
+      - apron_color_7
+      - apron_color_8
+      required: false
+    - id: 5
+      name: size
+      label: size
+      hint: null
+      type: select_one
+      options:
+      - size_1
+      - size_2
+      - size_3
+      - size_4
+      - size_5
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: material
+      label: material
+      hint: null
+      type: select_one
+      options:
+      - material_1
+      - material_2
+      - material_3
+      required: false
+    - id: 8
+      name: custom_message
+      label: custom_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: custom_message_type
+      label: custom_message_type
+      hint: null
+      type: select_multiple
+      options:
+      - custom_message_type_1
+      - custom_message_type_2
+      - custom_message_type_3
+      - custom_message_type_4
+      - custom_message_type_5
+      required: false
+    - id: 10
+      name: custom_message_text
+      label: custom_message_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_note
+      label: order_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - payment_method_1
+      - payment_method_2
+      - payment_method_3
+      required: false
+    - id: 21
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - order_status_1
+      - order_status_2
+      - order_status_3
+      - order_status_4
+      required: false
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - payment_status_1
+      - payment_status_2
+      - payment_status_3
+      - payment_status_4
+      required: false
+    - id: 25
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - assigned_to_1
+      - assigned_to_2
+      - assigned_to_3
+      required: false

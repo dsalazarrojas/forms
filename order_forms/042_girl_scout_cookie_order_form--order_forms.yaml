@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Girl Scout Cookie Order Form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Order Online
+      - Order Offline
+      required: false
+    - id: 3
+      name: cookie_type
+      label: Cookie Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: cookie_description
+      label: Cookie Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cookie_size
+      label: Cookie Size
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - King-Size
+      - Single
+      required: false
+    - id: 13
+      name: cookie_type
+      label: Cookie Type
+      hint: null
+      type: select_multiple
+      options:
+      - Chocolate Chip
+      - Peanut Butter
+      - Oatmeal Raisin
+      required: false
+    - id: 14
+      name: cookie_price
+      label: Cookie Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Debit
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 21
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false

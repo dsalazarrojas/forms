@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant POS System Refill Order Form
+    pages:
+    - id: 1
+      name: restaurant_pos_system_refill_order_form_1
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product name
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

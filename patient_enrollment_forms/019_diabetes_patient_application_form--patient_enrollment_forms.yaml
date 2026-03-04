@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diabetes Patient Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_record_id
+      label: Medical Record ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: diabetes_type
+      label: Diabetes Type
+      hint: null
+      type: select_one
+      options:
+      - type_1
+      - type_2
+      - type_3
+      - type_4
+      - type_5
+      required: true
+    - id: 9
+      name: diabetes_medication
+      label: Diabetes Medication
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: height
+      label: Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: weight
+      label: Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: blood_sugar_levels
+      label: Blood Sugar Levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: diabetes_complications
+      label: Diabetes Complications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: treatment_outcomes
+      label: Treatment Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_appointments
+      label: Follow-up Appointments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

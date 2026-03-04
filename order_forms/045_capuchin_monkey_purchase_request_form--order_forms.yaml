@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capuchin Monkey Purchase Request Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capuchin Monkey Purchase Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Submit your inquiry for capuchin monkey acquisition. We conduct thorough
+        screening to ensure proper care and ethical placement.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: buyer_info_header
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: experience_header
+      label: -- Primate Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: experience_level
+      label: Experience with Primates
+      hint: Select one
+      type: select_one
+      options:
+      - No experience
+      - Minimal experience
+      - Moderate experience
+      - Extensive experience
+      - Professional experience
+      required: true
+    - id: 15
+      name: specific_experience
+      label: Describe Your Experience with Primates
+      hint: Detail your background
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: other_animals
+      label: Other Animals Currently Owned
+      hint: List animals
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: references_header
+      label: -- Professional References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: veterinary_reference
+      label: Veterinary Reference
+      hint: Veterinarian name and contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: primate_specialist
+      label: Primate Specialist Reference (if available)
+      hint: Optional specialist contact
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facilities_header
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: housing_type
+      label: Type of Housing Available
+      hint: Select one
+      type: select_one
+      options:
+      - Single family home
+      - Apartment
+      - Farm/acreage
+      - Facility/sanctuary
+      - Other
+      required: true
+    - id: 22
+      name: indoor_space
+      label: Indoor Space Available (sq ft)
+      hint: Approximate area
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: outdoor_space
+      label: Outdoor Space Available (sq ft)
+      hint: Approximate area
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: enclosure_details
+      label: Enclosure Details and Features
+      hint: Describe setup
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: enrichment_plan
+      label: Enrichment and Activity Plan
+      hint: How will monkey be enriched
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: care_header
+      label: -- Care Capabilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: veterinary_care
+      label: Access to Primate-Experienced Veterinary Care?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 28
+      name: financial_ability
+      label: Financial Ability to Support Animal Long-term?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Maybe
+      - 'No'
+      required: true
+    - id: 29
+      name: commitment_header
+      label: -- Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: commitment_length
+      label: Commitment to Lifetime Care (20-45 years)?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, fully committed
+      - Yes, probably
+      - Unsure
+      - 'No'
+      required: true
+    - id: 31
+      name: travel_plan
+      label: Plan for Care During Travel/Absence?
+      hint: How will monkey be cared for
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: agreement_confirmation
+      label: I understand and agree to all ethical animal care standards
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      required: true

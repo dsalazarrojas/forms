@@ -1,0 +1,241 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Prototype Order Form
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: '--- Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company name
+      hint: If ordering on behalf of a company, enter legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: Order confirmations and invoices will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code (e.g., +1)
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: section_header_order
+      label: '--- Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: item_name
+      label: Item or product name
+      hint: Describe the model or part (SKU or project name)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: material
+      label: Primary material
+      hint: Choose the material best suited for the prototype
+      type: select_one
+      options:
+      - PLA
+      - ABS
+      - Resin
+      - PETG
+      - Nylon
+      - Metal
+      required: true
+    - id: 10
+      name: finish
+      label: Desired surface finish
+      hint: Leave blank for raw prints
+      type: select_one
+      options:
+      - Raw
+      - Matte
+      - Gloss
+      - Sanded
+      - Polished
+      - Painted
+      required: false
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: Enter number of identical units
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: unit_price
+      label: Unit price (USD)
+      hint: Price per item in US dollars
+      type: decimal
+      options: []
+      required: true
+    - id: 13
+      name: section_header_dimensions
+      label: '--- Part Dimensions (mm) ---'
+      hint: Provide maximum part extents and recommended wall thickness
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: length_mm
+      label: Length (mm)
+      hint: Longest dimension of the part
+      type: decimal
+      options: []
+      required: true
+    - id: 15
+      name: width_mm
+      label: Width (mm)
+      hint: Null if not applicable
+      type: decimal
+      options: []
+      required: true
+    - id: 16
+      name: height_mm
+      label: Height (mm)
+      hint: Null if not applicable
+      type: decimal
+      options: []
+      required: true
+    - id: 17
+      name: wall_thickness_mm
+      label: Recommended wall thickness (mm)
+      hint: Minimum recommended (e.g., 1.0)
+      type: decimal
+      options: []
+      required: false
+    - id: 18
+      name: fabrication_options
+      label: Fabrication options (select all that apply)
+      hint: Select any additional production requirements
+      type: select_multiple
+      options:
+      - Support removal required
+      - Hollow with drain holes
+      - Threading or inserts
+      - Glue/assembly required
+      - Dimensional inspection
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: List tolerances, critical surfaces, or color requests
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_shipping_payment
+      label: '--- Shipping & Payment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Choose how you want the parts delivered
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup
+      - Local delivery
+      required: true
+    - id: 22
+      name: delivery_address
+      label: Delivery address
+      hint: Street, city, state/province, postal code
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date
+      label: Requested delivery date
+      hint: Preferred arrival date (optional)
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment method
+      hint: Invoices available on request
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 25
+      name: order_total
+      label: Order total (USD)
+      hint: Calculated as quantity × unit price; confirm before payment
+      type: decimal
+      options: []
+      required: true
+    - id: 26
+      name: lead_time_days
+      label: Estimated lead time (days)
+      hint: Typical production time in business days
+      type: integer
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information helpful for production or delivery
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_and_conditions
+      label: Payment terms and lead time summary
+      hint: null
+      type: note
+      options: []
+      required: false

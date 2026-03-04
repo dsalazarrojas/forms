@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: puppy_training_purchase_form
+    pages:
+    - id: 1
+      name: payment_form
+      label: Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: training_schedule
+      label: Training Schedule
+      hint: null
+      type: select_one
+      options:
+      - option_4
+      - option_5
+      - option_6
+      required: true
+    - id: 4
+      name: client_booking
+      label: Client Booking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option_7
+      - option_8
+      - option_9
+      required: false
+    - id: 6
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_cost
+      label: Training Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trainer_info
+      label: Trainer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

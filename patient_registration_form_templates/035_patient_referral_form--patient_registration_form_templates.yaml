@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Referral Form
+    pages:
+    - id: 1
+      name: patient_referral_form_page_1
+      label: Patient Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referred_to_physician_name
+      label: Referred To Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referred_to_department
+      label: Referred To Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      - '{''option4'': ''Option 4''}'
+      required: false
+    - id: 14
+      name: referring_doctor_name
+      label: Referring Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renovation Budget Estimation Form
+    pages:
+    - id: 1
+      name: renovation_budget_form_page_1
+      label: renovation_budget_form_page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contractor_selection
+      label: select_contractor
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: project_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: estimated_cost
+      label: estimated_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: budget_breakdown
+      label: budget_breakdown
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: renovation_area
+      label: renovation_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: materials_costs
+      label: materials_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: labor_costs
+      label: labor_costs
+      hint: null
+      type: number
+      options: []
+      required: false

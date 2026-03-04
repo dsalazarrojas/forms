@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Rapid Antibody Test Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_shipping_address
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_postal_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_order_details
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: quantity
+      label: Number of Test Kits
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - IgM Antibody Test
+      - IgG Antibody Test
+      - Combined IgM-IgG Test
+      - Other
+      required: true
+    - id: 16
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Expedited Shipping
+      - Overnight Shipping
+      required: true
+    - id: 17
+      name: section_customer_health
+      label: -- Customer Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: test_reason
+      label: Reason for Testing
+      hint: null
+      type: select_one
+      options:
+      - Personal screening
+      - Workplace requirement
+      - Travel requirement
+      - Healthcare provider recommendation
+      - Recent exposure
+      - Other
+      required: true
+    - id: 19
+      name: previous_covid
+      label: Have you had COVID-19 previously?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: false
+    - id: 20
+      name: current_symptoms
+      label: Do you currently have COVID-19 symptoms?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: false
+    - id: 21
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Boosted
+      required: false
+    - id: 22
+      name: section_payment
+      label: -- Order Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: unit_price
+      label: Unit Price per Test
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_price
+      label: Total Order Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: section_acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: understand_test_purpose
+      label: I understand the purpose and use of this antibody test
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: agree_terms
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

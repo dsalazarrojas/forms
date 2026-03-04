@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Installment Payment Form
+    pages:
+    - id: 1
+      name: payer_name
+      label: Payer Name
+      hint: Full name or company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payer_email
+      label: Payer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: payer_phone
+      label: Payer Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: payer_address
+      label: Payer Address
+      hint: Billing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contract_number
+      label: Contract Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_description
+      label: Contract Description
+      hint: What is this for?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: total_contract_amount
+      label: Total Contract Amount
+      hint: Full contract value
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: installment_plan
+      label: Installment Plan
+      hint: Selected plan
+      type: select_one
+      options:
+      - 2 payments
+      - 3 payments
+      - 4 payments
+      - 6 payments
+      - 12 payments
+      - Custom plan
+      required: true
+    - id: 10
+      name: installment_number
+      label: Installment Number
+      hint: Which payment is this?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: installment_amount
+      label: Installment Amount
+      hint: Payment amount
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: amount_paid_to_date
+      label: Amount Paid to Date
+      hint: Total paid so far
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: remaining_balance
+      label: Remaining Balance
+      hint: Amount still owed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: next_payment_due_date
+      label: Next Payment Due Date
+      hint: When is next payment?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How are you paying?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Check
+      - Cash
+      - PayPal
+      - Other
+      required: true
+    - id: 16
+      name: credit_card_type
+      label: Credit Card Type
+      hint: Card brand
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not applicable
+      required: false
+    - id: 17
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_cycle
+      label: Billing Cycle
+      hint: Payment frequency
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 19
+      name: autopay_enrollment
+      label: Autopay Enrollment
+      hint: Enable automatic payments?
+      type: select_one
+      options:
+      - Yes, enroll me
+      - No, manual payments
+      required: true
+    - id: 20
+      name: late_payment_fee_acknowledgment
+      label: Late Payment Fee Acknowledgment
+      hint: I understand late fees may apply
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any payment notes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: receipt_preference
+      label: Receipt Preference
+      hint: How to send receipt?
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Both
+      - None
+      required: true
+    - id: 23
+      name: terms_acceptance
+      label: Terms Acceptance
+      hint: I agree to the payment terms
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true

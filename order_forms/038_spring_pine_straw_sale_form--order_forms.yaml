@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: spring_pine_straw_sale_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Spring Pine Straw Sale Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - BSA Logo
+      - Order Forms
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_output_file
+      label: Output File
+      hint: The name of the file to export data to
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_bsa_logo
+      label: BSA Logo
+      hint: null
+      type: select_multiple
+      options:
+      - BSA Logo 1
+      - BSA Logo 2
+      - BSA Logo 3
+      required: false
+    - id: 6
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_required_fields
+      label: Required Fields
+      hint: null
+      type: select_multiple
+      options:
+      - Required Field 1
+      - Required Field 2
+      - Required Field 3
+      required: false
+    - id: 9
+      name: form_optional_fields
+      label: Optional Fields
+      hint: null
+      type: select_multiple
+      options:
+      - Optional Field 1
+      - Optional Field 2
+      - Optional Field 3
+      required: false

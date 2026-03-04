@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Before And After School Care Information Form
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - Other
+      required: true
+    - id: 7
+      name: section_parent
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_first_name
+      label: Parent/Guardian First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_last_name
+      label: Parent/Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Phone Number
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_care
+      label: -- Care Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: before_school_care
+      label: Needs Before School Care
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: after_school_care
+      label: Needs After School Care
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: care_start_date
+      label: Care Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: pick_up_time
+      label: Usual Pick-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: authorized_pickups
+      label: Authorized Persons for Pick-up
+      hint: Names and relationships
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: allergies
+      label: Food Allergies or Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false

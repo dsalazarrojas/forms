@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Popcorn Pickup Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_time
+      label: pickup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: pickup_date
+      label: pickup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: school_info
+      label: school_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pickup_time_comment
+      label: pickup_time_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policies
+      label: policies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: policies_info
+      label: policies_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: order_type_info
+      label: order_type_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: confirm_phone
+      label: confirm_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_email_sent
+      label: confirm_email_sent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: confirm_phone_sent
+      label: confirm_phone_sent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: pickup_confirmation
+      label: pickup_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

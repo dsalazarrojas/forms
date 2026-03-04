@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health History Form
+    pages:
+    - id: 1
+      name: patient_personal
+      label: patient personal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_details
+      label: contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - diabetes
+      - hypertension
+      - high blood pressure
+      - high cholesterol
+      - asthma
+      - cancer
+      - allergies
+      - other ( specify)
+      required: true
+    - id: 5
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - medication 1
+      - medication 2
+      - medication 3
+      - medication 4
+      - medication 5
+      - other ( specify)
+      required: true
+    - id: 6
+      name: surgical_history
+      label: surgical history
+      hint: null
+      type: select_multiple
+      options:
+      - surgery 1
+      - surgery 2
+      - surgery 3
+      - surgery 4
+      - surgery 5
+      - other ( specify)
+      required: true
+    - id: 7
+      name: medical_tests
+      label: medical tests
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: medical_test_results
+      label: medical test results
+      hint: null
+      type: select_multiple
+      options:
+      - result 1
+      - result 2
+      - result 3
+      - result 4
+      - result 5
+      - other ( specify)
+      required: true
+    - id: 9
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - allergy 1
+      - allergy 2
+      - allergy 3
+      - allergy 4
+      - allergy 5
+      - other ( specify)
+      required: true
+    - id: 10
+      name: family_history
+      label: family history
+      hint: null
+      type: select_multiple
+      options:
+      - family history 1
+      - family history 2
+      - family history 3
+      - family history 4
+      - family history 5
+      - other ( specify)
+      required: true
+    - id: 11
+      name: personal_history
+      label: personal history
+      hint: null
+      type: select_multiple
+      options:
+      - personal history 1
+      - personal history 2
+      - personal history 3
+      - personal history 4
+      - personal history 5
+      - other ( specify)
+      required: true
+    - id: 12
+      name: patient_goals
+      label: patient goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: patient_status
+      label: patient status
+      hint: null
+      type: select_multiple
+      options:
+      - status 1
+      - status 2
+      - status 3
+      - status 4
+      - status 5
+      - other ( specify)
+      required: true
+    - id: 14
+      name: patient_status_date
+      label: patient status date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: patient_status_time
+      label: patient status time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: patient_status_location
+      label: patient status location
+      hint: null
+      type: select_multiple
+      options:
+      - location 1
+      - location 2
+      - location 3
+      - location 4
+      - location 5
+      - other ( specify)
+      required: true
+    - id: 17
+      name: patient_status_location_other
+      label: other location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_status_other
+      label: other status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_status_other_details
+      label: other status details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: health_provider
+      label: health provider
+      hint: null
+      type: select_multiple
+      options:
+      - provider 1
+      - provider 2
+      - provider 3
+      - provider 4
+      - provider 5
+      - other ( specify)
+      required: false
+    - id: 21
+      name: healthcare_worker
+      label: healthcare worker
+      hint: null
+      type: select_multiple
+      options:
+      - worker 1
+      - worker 2
+      - worker 3
+      - worker 4
+      - worker 5
+      - other ( specify)
+      required: false
+    - id: 22
+      name: family_members
+      label: family members
+      hint: null
+      type: select_multiple
+      options:
+      - family 1
+      - family 2
+      - family 3
+      - family 4
+      - family 5
+      - other ( specify)
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_phone_number
+      label: emergency phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_signature
+      label: patient signature
+      hint: null
+      type: text
+      options: []
+      required: true

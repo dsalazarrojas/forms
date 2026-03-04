@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: video_recording_purchase_order
+    pages:
+    - id: 1
+      name: title
+      label: Video Recording Purchase Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Audio Recording
+      - Video Recording
+      - Live Streaming
+      required: false
+    - id: 4
+      name: service_info
+      label: Service Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recording_date
+      label: Recording Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 9
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: ice_cream_freezer_maintenance_order_form
+    pages:
+    - id: 1
+      name: freezer_type
+      label: Freezer Type
+      hint: null
+      type: select_one
+      options:
+      - Ice Cream Freezer
+      - Ice Block
+      - Ice Cube
+      required: false
+    - id: 2
+      name: equipment_model
+      label: equipment_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_request
+      label: Maintenance Request
+      hint: Describe the issue with the freezer
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment
+      label: Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: technician
+      label: Technician
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 7
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

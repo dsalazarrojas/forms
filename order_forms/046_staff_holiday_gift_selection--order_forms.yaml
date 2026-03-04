@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Holiday Gift Selection
+    pages:
+    - id: 1
+      name: gift_preferences
+      label: gift_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: delivery_choices
+      label: delivery_choices
+      hint: null
+      type: select_one
+      options:
+      - Gift 1
+      - Gift 2
+      - Gift 3
+      required: false
+    - id: 3
+      name: confirm_delivery
+      label: confirm_delivery
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: gift_message
+      label: gift_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: gift_amount
+      label: gift_amount
+      hint: null
+      type: number
+      options: []
+      required: false

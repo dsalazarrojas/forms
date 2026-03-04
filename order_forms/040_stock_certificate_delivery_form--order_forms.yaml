@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Certificate Delivery Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of shareholder
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of shareholder
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: Company name of shareholder
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address1
+      label: Address 1
+      hint: Address 1 of shareholder
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''9-1'', ''value'': ''California''}'
+      - '{''id'': ''9-2'', ''value'': ''New York''}'
+      - '{''id'': ''9-3'', ''value'': ''Texas''}'
+      required: false
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: certificate_number
+      label: Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: certificate_series
+      label: Certificate Series
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: certificate_type
+      label: Certificate Type
+      hint: null
+      type: select_one
+      options:
+      - -.reported.reported - reported - unreported
+      - Other
+      required: false
+    - id: 18
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''18-1'', ''value'': ''Email''}'
+      - '{''id'': ''18-2'', ''value'': ''Mail''}'
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: certificate_status
+      label: Certificate Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''20-1'', ''value'': ''Issued''}'
+      - '{''id'': ''20-2'', ''value'': ''Cancelled''}'
+      - '{''id'': ''20-3'', ''value'': ''Voided''}'
+      required: false
+    - id: 21
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''21-1'', ''value'': ''Delivered''}'
+      - '{''id'': ''21-2'', ''value'': ''Not Delivered''}'
+      required: false
+    - id: 22
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature_note
+      label: Signature Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certificate_note
+      label: Certificate Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

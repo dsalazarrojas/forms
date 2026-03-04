@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheesecake Order Form
+    pages:
+    - id: 1
+      name: section_customer_contact
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name_order
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email_order
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone_order
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_order_fulfillment
+      label: -- Fulfillment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fulfillment_method_selection
+      label: Pickup or Delivery
+      hint: null
+      type: select_one
+      options:
+      - In-Store Pickup
+      - Home Delivery
+      required: true
+    - id: 7
+      name: order_event_date
+      label: Date Needed
+      hint: Please allow at least 48 hours notice
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_address_full_opt
+      label: Delivery Address
+      hint: Required only for delivery orders
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_cake_specs
+      label: -- Cheesecake Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cheesecake_base_flavor
+      label: Cheesecake Base Flavor
+      hint: null
+      type: select_one
+      options:
+      - Classic New York Style
+      - Belgian Chocolate
+      - Strawberry Swirl
+      - Salted Caramel
+      - Pumpkin Spice (Seasonal)
+      required: true
+    - id: 11
+      name: cheesecake_size_selection
+      label: Cake Size
+      hint: null
+      type: select_one
+      options:
+      - 6-inch (Serves 4-6)
+      - 8-inch (Serves 8-12)
+      - 10-inch (Serves 14-18)
+      required: true
+    - id: 12
+      name: selected_extra_toppings
+      label: Extra Toppings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fresh Berries
+      - Whipped Cream
+      - Chocolate Ganache
+      - Caramel Drizzle
+      - Crushed Nuts
+      required: false
+    - id: 13
+      name: personal_cake_message
+      label: Message on Cake
+      hint: e.g. Happy Birthday Sarah
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_quantity_integer
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: dietary_requests_special
+      label: Special Dietary Requests
+      hint: e.g. gluten-free crust, sugar-free
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_estimated_total
+      label: Estimated Total ($)
+      hint: Final price confirmed on contact
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: order_auth_signature
+      label: I confirm my order details are correct
+      hint: null
+      type: select_one
+      options:
+      - Order Confirmed
+      - Other
+      required: true
+    - id: 18
+      name: order_entry_timestamp
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: true

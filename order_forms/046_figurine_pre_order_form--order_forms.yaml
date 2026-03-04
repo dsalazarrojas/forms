@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: figurine_pre_order_form
+    pages:
+    - id: 1
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - Figurine Type 1
+      - Figurine Type 2
+      - Figurine Type 3
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - fairly_satisfied
+      - neutral
+      - fairly_dissatisfied
+      - very_dissatisfied
+      required: false
+    - id: 9
+      name: figurine_details
+      label: figurine_details
+      hint: null
+      type: select_multiple
+      options:
+      - details_1
+      - details_2
+      - details_3
+      required: false

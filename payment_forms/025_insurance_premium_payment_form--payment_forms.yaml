@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_premium_payment_form
+    pages:
+    - id: 1
+      name: form_1
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      required: false
+    - id: 3
+      name: amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

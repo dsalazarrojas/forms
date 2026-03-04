@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Notebook and Pen Order Form
+    pages:
+    - id: 1
+      name: custom_notebook_and_pen_order_form_page1
+      label: Custom Notebooks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pen_color
+      label: pen_color
+      hint: null
+      type: select_one
+      options:
+      - blue
+      - red
+      - green
+      required: false
+    - id: 3
+      name: pen_size
+      label: pen_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 4
+      name: notebook_size
+      label: notebook_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 5
+      name: notebook_cover_type
+      label: notebook_cover_type
+      hint: null
+      type: select_multiple
+      options:
+      - plain
+      - glossy
+      - matte
+      required: false
+    - id: 6
+      name: notebook_cover_color
+      label: notebook_cover_color
+      hint: null
+      type: select_one
+      options:
+      - white
+      - black
+      - blue
+      required: false
+    - id: 7
+      name: notebook_paper_type
+      label: paper_type
+      hint: null
+      type: select_one
+      options:
+      - plain
+      - lined
+      - grid
+      required: false
+    - id: 8
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: custom_notebook_and_pen_order_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: custom_notebook_and_pen_order_form_submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

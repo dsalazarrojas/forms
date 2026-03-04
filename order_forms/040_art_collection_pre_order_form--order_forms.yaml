@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Collection Pre Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: select_one
+      options:
+      - Individual collector
+      - Gallery or dealer
+      - Institution or museum
+      - Corporate buyer
+      - Other
+      required: true
+    - id: 7
+      name: section_artwork_selection
+      label: -- Artwork Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artwork_code
+      label: Artwork Code or Product Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: artwork_medium
+      label: Medium or Type
+      hint: Print, original, limited edition, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_edition_size
+      label: Edition Size or Limited Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: artwork_dimensions
+      label: Dimensions or Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_quantity_pricing
+      label: -- Quantity and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_price
+      label: Total Price
+      hint: Automatically calculated
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - Other
+      required: true
+    - id: 19
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: expected_delivery
+      label: Expected Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Expedited shipping
+      - Local pickup
+      required: true
+    - id: 24
+      name: insurance_interest
+      label: Interested in Shipping Insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - PayPal
+      - Check
+      - Wire transfer
+      - Other
+      required: true
+    - id: 27
+      name: deposit_percentage
+      label: Deposit Percentage to Reserve
+      hint: Percentage or full payment
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: section_special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: customization_request
+      label: Any Customization Requests
+      hint: Framing, sizing, variations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

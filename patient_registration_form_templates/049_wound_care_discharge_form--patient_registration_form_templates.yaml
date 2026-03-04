@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wound Care Discharge Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wound_info
+      label: Wound Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: follow_up_care
+      label: Follow-up Care
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Daily
+      - Every other day
+      - Every 3 days
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false

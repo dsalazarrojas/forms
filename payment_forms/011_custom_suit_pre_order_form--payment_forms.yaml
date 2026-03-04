@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_suit_pre_order_form
+    pages:
+    - id: 1
+      name: custom_suit_form
+      label: Custom Suit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: measurements
+      label: Measurements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: Please provide a date for the delivery
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: Please enter a time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_details
+      label: Customer Details
+      hint: Please enter customer details
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_type
+      label: Order Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''label'': ''Option 1''}'
+      - '{''id'': 8, ''label'': ''Option 2''}'
+      - '{''id'': 9, ''label'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

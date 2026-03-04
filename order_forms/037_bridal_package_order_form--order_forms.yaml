@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Package Order Form
+    pages:
+    - id: 1
+      name: bride_name
+      label: Bride Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: wedding_date
+      label: Wedding Date
+      hint: Date of your wedding
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: package_selection
+      label: Bridal Package Selection
+      hint: Choose your package
+      type: select_one
+      options:
+      - Bride Makeup Only - 150
+      - Bride Plus 3 Attendants - 350
+      - Bride Plus 5 Attendants - 550
+      - Full Bridal Party - Custom quote
+      - Premium Glam Package - 250
+      - Deluxe Package with trial - 300
+      required: true
+    - id: 6
+      name: additional_attendants
+      label: Additional Attendants
+      hint: Number of extra people
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hair_services
+      label: Hair Services Included
+      hint: What hair services do you want
+      type: select_one
+      options:
+      - No hair services
+      - Hair styling only
+      - Hair and makeup bundle
+      - Full hair package
+      required: true
+    - id: 8
+      name: trial_session
+      label: Trial Session
+      hint: Do you want a trial
+      type: select_one
+      options:
+      - No trial needed
+      - Trial session included
+      - Trial session additional fee
+      required: true
+    - id: 9
+      name: trial_date
+      label: Preferred Trial Date
+      hint: If trial is selected
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_date
+      label: Wedding Day Service Date
+      hint: When is your service scheduled
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: service_time
+      label: Service Start Time
+      hint: What time should we arrive
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: service_location
+      label: Service Location
+      hint: Where will services be performed
+      type: select_one
+      options:
+      - Studio location
+      - Bride's home
+      - Wedding venue
+      - Hotel
+      - Other location
+      required: true
+    - id: 13
+      name: location_address
+      label: Service Location Address
+      hint: Full address for service
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendant_names
+      label: Names of Attendants
+      hint: List names of bridesmaids etc
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: makeup_preferences
+      label: Makeup Style Preferences
+      hint: Describe your desired makeup
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: inspiration_photos
+      label: Inspiration or Reference Photos
+      hint: Bring photos to consultation
+      type: select_one
+      options:
+      - Yes, will provide photos
+      - No reference photos
+      - Will discuss during trial
+      required: false
+    - id: 17
+      name: skin_type
+      label: Skin Type
+      hint: For makeup planning
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Acne-prone
+      required: false
+    - id: 18
+      name: allergies
+      label: Makeup Allergies or Sensitivities
+      hint: Any product allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: touchup_service
+      label: Touchup Service During Event
+      hint: Should we stay for touch-ups
+      type: select_one
+      options:
+      - No touch-ups
+      - Limited touch-ups
+      - Full day coverage
+      - As needed
+      required: false
+    - id: 20
+      name: total_package_cost
+      label: Total Package Cost
+      hint: Your package total
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: additional_add_ons
+      label: Additional Add-Ons
+      hint: Select any extras
+      type: select_multiple
+      options:
+      - Lash extensions
+      - Spray tan
+      - Skincare facial
+      - Makeup touch-up kit
+      - Full makeup artist day rate
+      - None
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Cash
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 23
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When will payment be made
+      type: select_one
+      options:
+      - Full payment upfront
+      - 50% deposit now, 50% day of
+      - Payment due day of service
+      - Payment after service
+      - Custom arrangement
+      required: true
+    - id: 24
+      name: cancellation_policy
+      label: I understand the cancellation policy
+      hint: Agree to terms
+      type: select_one
+      options:
+      - Yes, I understand
+      - Need clarification
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

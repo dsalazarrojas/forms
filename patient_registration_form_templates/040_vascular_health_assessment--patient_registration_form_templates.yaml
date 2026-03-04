@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: vascular_health_assessment
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Hyperlipidemia
+      - Heart disease
+      - Stroke
+      required: false
+    - id: 4
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_one
+      options:
+      - High blood pressure
+      - Smoking
+      - Physical inactivity
+      - Family history
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: List all current medications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vascular_problems
+      label: Vascular Problems
+      hint: null
+      type: select_multiple
+      options:
+      - Carotid artery stenosis
+      - Cerebrovascular accident
+      - Coronary artery disease
+      - Peripheral artery disease
+      - Venous disease
+      required: false
+    - id: 7
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Referred
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Information
+      hint: Provide a contact method for patient follow-up
+      type: text
+      options: []
+      required: false

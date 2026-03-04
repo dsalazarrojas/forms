@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dispatch And Receipt Form
+    pages:
+    - id: 1
+      name: dispatch_and_receipt_form
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dispatch_date
+      label: dispatch_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: dispatch_time
+      label: dispatch_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: item_details
+      label: item_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_status
+      label: item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: item_quantity
+      label: item_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: receipt_date
+      label: receipt_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: receipt_time
+      label: receipt_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: receipt_details
+      label: receipt_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: item_id
+      label: item_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: dispatching_party
+      label: dispatching_party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: receiving_party
+      label: receiving_party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

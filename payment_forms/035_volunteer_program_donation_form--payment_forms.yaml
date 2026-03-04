@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteer_program_donation_form
+    pages:
+    - id: 1
+      name: volunteer_program_donation_form_page_1
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_frequency
+      label: frequency_of_donations
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - one_time
+      - recurring
+      required: false
+    - id: 3
+      name: volunteer_program
+      label: volunteer_program
+      hint: null
+      type: select_one
+      options:
+      - volunteer_program_1
+      - volunteer_program_2
+      - volunteer_program_3
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - paypal
+      - bank_transfer
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - payment_forms
+      - Other
+      required: false
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - 035_volunteer_program_donation_form--payment_forms
+      - Other
+      required: true

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: CPR Certification Check Out Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: As shown on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: Receipt will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: course_date
+      label: Course date
+      hint: Scheduled training date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment method
+      hint: Select payment option
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Invoice
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing address
+      hint: Street, city, postal code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: certification_level
+      label: Certification level requested
+      hint: Choose level of certification
+      type: select_one
+      options:
+      - Basic life support
+      - Advanced cardiac life support
+      - Pediatric advanced life support
+      required: true
+    - id: 7
+      name: total_amount
+      label: Total amount paid
+      hint: Enter numeric value in local currency
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: special_requirements
+      label: Special requirements or accessibility needs
+      hint: Dietary or mobility needs
+      type: text
+      options: []
+      required: false

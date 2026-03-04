@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bloom Custom Order Form
+    pages:
+    - id: 1
+      name: order_intro
+      label: -- Custom Cake Order --
+      hint: Design your perfect custom cake
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Corporate Event
+      - Baby Shower
+      - Graduation
+      - Other
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: cake_size
+      label: Cake Size
+      hint: null
+      type: select_one
+      options:
+      - 6 inch
+      - 8 inch
+      - 10 inch
+      - 12 inch
+      - 14 inch
+      - Multiple tiers
+      required: true
+    - id: 8
+      name: servings_needed
+      label: Number of Servings Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: cake_flavor
+      label: Cake Flavor
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Strawberry
+      - Carrot Cake
+      - Lemon
+      - Customized
+      required: true
+    - id: 10
+      name: frosting_type
+      label: Frosting Type
+      hint: null
+      type: select_one
+      options:
+      - Buttercream
+      - Ganache
+      - Fondant
+      - Cream cheese
+      - Whipped cream
+      required: true
+    - id: 11
+      name: frosting_flavor
+      label: Frosting Flavor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: frosting_color
+      label: Frosting Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Chocolate
+      - Vanilla
+      - Custom color
+      - Ombre
+      required: true
+    - id: 13
+      name: filling_options
+      label: Filling Options
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Buttercream
+      - Chocolate ganache
+      - Fresh fruit
+      - Custard
+      - Caramel
+      - None
+      required: true
+    - id: 14
+      name: decoration_style
+      label: Decoration Style
+      hint: null
+      type: select_one
+      options:
+      - Simple and elegant
+      - Floral design
+      - Themed/Character
+      - Metallic accents
+      - Custom design
+      required: true
+    - id: 15
+      name: custom_design_description
+      label: Custom Design Description
+      hint: Describe your design ideas
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests or Dietary Restrictions
+      hint: Gluten-free, nut allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-4pm)
+      - Evening (4pm-8pm)
+      - Early morning (before 8am)
+      required: true
+    - id: 19
+      name: order_deadline
+      label: Order Placement Date
+      hint: null
+      type: date
+      options: []
+      required: true

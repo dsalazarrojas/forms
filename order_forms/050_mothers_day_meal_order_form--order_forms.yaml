@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mothers Day Meal Order Form
+    pages:
+    - id: 1
+      name: mother_s_day_meal_order_form
+      label: main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: delivery_date
+      hint: Please provide the delivery date
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meal_details
+      label: meal_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_multiple
+      options:
+      - '[''Breakfast'', ''Lunch'', ''Dinner'']'
+      - Other
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_instructions
+      label: additional_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false

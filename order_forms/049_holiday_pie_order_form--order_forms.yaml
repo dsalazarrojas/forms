@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Pie Order Form
+    pages:
+    - id: 1
+      name: holiday_pie_order_form
+      label: holiday pie order form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pie_type
+      label: pie type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Apple''}'
+      - '{''id'': 2, ''label'': ''Cherry''}'
+      - '{''id'': 3, ''label'': ''Blueberry''}'
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: special_instructions
+      label: special instructions
+      hint: null
+      type: text
+      options: []
+      required: false

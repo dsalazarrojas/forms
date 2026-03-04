@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Nonprofit Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - First Time
+      - Recurring
+      required: true
+    - id: 3
+      name: first_time_donation_amount
+      label: First Time Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recurring_donation_frequency
+      label: Recurring Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 5
+      name: frequency_recurring_donation_amount
+      label: Frequency Recurring Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false

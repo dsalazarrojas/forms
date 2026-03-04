@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: HOV Lane Toll Payment Form
+    pages:
+    - id: 1
+      name: hov_lane_info
+      label: hov_lane_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_plate
+      label: vehicle_plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Truck''}'
+      - '{''id'': 3, ''label'': ''Bus''}'
+      required: false
+    - id: 8
+      name: driver_name
+      label: driver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_phone
+      label: driver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 11
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_time
+      label: payment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: toll_station
+      label: toll_station
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trip_distance
+      label: trip_distance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trip_time
+      label: trip_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: toll_cost
+      label: toll_cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Paid''}'
+      - '{''id'': 2, ''label'': ''Not Paid''}'
+      required: false
+    - id: 18
+      name: payment_notes
+      label: payment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: driver_notes
+      label: driver_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_license_number
+      label: vehicle_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_weight
+      label: vehicle_weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: total_amount
+      label: total_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Stripe''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      required: false
+    - id: 24
+      name: payment_currency
+      label: payment_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - Other
+      required: false
+    - id: 25
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: false

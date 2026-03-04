@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Jar Order Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer name
+      hint: For order confirmation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: jar_flavor
+      label: Jar flavor
+      hint: Select flavor
+      type: select_one
+      options:
+      - Chocolate
+      - Vanilla
+      - Caramel
+      - Seasonal
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity of jars
+      hint: Number of jars to order
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pickup_or_delivery
+      label: Pickup or delivery
+      hint: Choose fulfillment method
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 6
+      name: delivery_address
+      label: Delivery address
+      hint: Required if delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_pickup_date
+      label: Preferred pickup date
+      hint: Date for pickup or delivery
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: special_instructions
+      label: Special instructions
+      hint: Allergy notes or packaging requests
+      type: text
+      options: []
+      required: false

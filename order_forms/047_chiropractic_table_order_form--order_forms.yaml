@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Table Order Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Clinic or purchaser name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: table_model
+      label: Table Model
+      hint: Select table model
+      type: select_one
+      options:
+      - Standard Adjustment Table
+      - Portable Folding Table
+      - Hydraulic Adjustment Table
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: Number of tables to order
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: Delivery address for the order
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_date_preference
+      label: Delivery Date Preference
+      hint: Preferred delivery date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - Bank Transfer
+      required: true
+    - id: 8
+      name: installation_required
+      label: Installation Required
+      hint: Choose if professional installation is needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

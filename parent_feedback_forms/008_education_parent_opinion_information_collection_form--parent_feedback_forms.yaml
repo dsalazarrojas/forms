@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Parent Opinion Information Collection Form
+    pages:
+    - id: 1
+      name: education_parent_opinion_information_collection_form_page_1
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_parent_satisfaction_with_school
+      label: school_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Unsatisfied''}'
+      - '{''label'': ''Unsatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 3
+      name: education_parent_satisfaction_with_teachers
+      label: teachers_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: education_parent_satisfaction_with_facilities
+      label: facilities_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Unsatisfied''}'
+      - '{''label'': ''Unsatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 5
+      name: education_parent_communication_with_teachers
+      label: teachers_communication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: education_parent_communication_with_parents
+      label: parents_communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Rarely''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Very Often''}'
+      required: false
+    - id: 7
+      name: education_parent_communication_with_school_admin
+      label: school_admin_communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Often''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 8
+      name: education_parent_opinion
+      label: parent_opinion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 9
+      name: education_parent_suggestions
+      label: parent_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: education_parent_additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: education_parent_email_address
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: education_parent_phone_number
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education_parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_parent_program
+      label: parent_program
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Grade 1''}'
+      - '{''label'': ''Grade 2''}'
+      - '{''label'': ''Grade 3''}'
+      - '{''label'': ''Grade 4''}'
+      - '{''label'': ''Grade 5''}'
+      - '{''label'': ''Grade 6''}'
+      - '{''label'': ''Grade 7''}'
+      - '{''label'': ''Grade 8''}'
+      - '{''label'': ''Grade 9''}'
+      - '{''label'': ''Grade 10''}'
+      required: false
+    - id: 15
+      name: education_parent_program_group
+      label: parent_program_group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      - '{''label'': ''C''}'
+      - '{''label'': ''D''}'
+      - '{''label'': ''E''}'
+      required: false
+    - id: 16
+      name: education_parent_opinion_source
+      label: parent_opinion_source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Teacher''}'
+      - '{''label'': ''School Admin''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: education_parent_opinion_frequency
+      label: parent_opinion_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Rarely''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Very Often''}'
+      required: false
+    - id: 18
+      name: education_parent_opinion_importance
+      label: parent_opinion_importance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Unimportant''}'
+      - '{''label'': ''Unimportant''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Important''}'
+      - '{''label'': ''Very Important''}'
+      required: false
+    - id: 19
+      name: education_parent_satisfaction_with_counselors
+      label: counselors_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Unsatisfied''}'
+      - '{''label'': ''Unsatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false

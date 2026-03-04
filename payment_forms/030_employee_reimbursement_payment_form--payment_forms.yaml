@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reimbursement Payment Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: payment_date
+      label: Payment Date
+      hint: Enter the payment date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Cash
+      - Credit Card
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: Enter a brief description of the expense
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

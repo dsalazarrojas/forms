@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Cake Order Form
+    pages:
+    - id: 1
+      name: cake_intro
+      label: -- Order Your Cake --
+      hint: Freshly baked cakes for every occasion
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Occasion
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Graduation
+      - Corporate event
+      - Baby shower
+      - Other
+      required: true
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: cake_servings
+      label: Number of Servings
+      hint: null
+      type: select_one
+      options:
+      - 10-15 servings
+      - 15-20 servings
+      - 20-30 servings
+      - 30-50 servings
+      - 50+ servings
+      required: true
+    - id: 9
+      name: cake_flavor
+      label: Cake Flavor
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red velvet
+      - Carrot cake
+      - Cheesecake
+      - Lemon
+      - Strawberry
+      - Custom
+      required: true
+    - id: 10
+      name: frosting_type
+      label: Frosting Type
+      hint: null
+      type: select_one
+      options:
+      - Buttercream
+      - Cream cheese
+      - Chocolate ganache
+      - Fondant
+      required: true
+    - id: 11
+      name: frosting_flavor
+      label: Frosting Flavor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cake_design
+      label: Design/Theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_dietary_needs
+      label: Dietary Restrictions
+      hint: Gluten-free, vegan, nut allergies
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: price_per_serving
+      label: Price Per Serving
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Cash on delivery
+      required: true
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_placement_date
+      label: Order Placement Date
+      hint: null
+      type: date
+      options: []
+      required: true

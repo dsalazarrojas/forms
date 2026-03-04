@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: one_time_payment_template_braintree
+    pages:
+    - id: 1
+      name: one_time_payment_template_braintree_page
+      label: one_time_payment_template_braintree_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: one_time_payment_template_braintree_payment_method
+      label: one_time_payment_template_braintree_payment_method
+      hint: null
+      type: select_one
+      options:
+      - braintree
+      - stripe
+      - paypal
+      - venmo
+      - apple
+      - google
+      - amazon
+      required: false
+    - id: 3
+      name: one_time_payment_template_braintree_amount
+      label: one_time_payment_template_braintree_amount
+      hint: Enter amount
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: one_time_payment_template_braintree_currency
+      label: one_time_payment_template_braintree_currency
+      hint: null
+      type: select_one
+      options:
+      - usd
+      - eur
+      - gbp
+      - jpy
+      required: false
+    - id: 5
+      name: one_time_payment_template_braintree_description
+      label: one_time_payment_template_braintree_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: one_time_payment_template_braintree_email
+      label: one_time_payment_template_braintree_email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: one_time_payment_template_braintree_phone
+      label: one_time_payment_template_braintree_phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: one_time_payment_template_braintree_date
+      label: one_time_payment_template_braintree_date
+      hint: Enter date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: one_time_payment_template_braintree_time
+      label: one_time_payment_template_braintree_time
+      hint: Enter time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: one_time_payment_template_braintree_note
+      label: one_time_payment_template_braintree_note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: one_time_payment_template_braintree_status
+      label: one_time_payment_template_braintree_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - declined
+      - cancelled
+      required: false
+    - id: 12
+      name: one_time_payment_template_braintree_status_note
+      label: one_time_payment_template_braintree_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: one_time_payment_template_braintree_recurring_status
+      label: one_time_payment_template_braintree_recurring_status
+      hint: null
+      type: select_one
+      options:
+      - one_time
+      - recurring
+      required: false
+    - id: 14
+      name: one_time_payment_template_braintree_recurring_note
+      label: one_time_payment_template_braintree_recurring_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: one_time_payment_template_braintree_additional_info
+      label: one_time_payment_template_braintree_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: one_time_payment_template_braintree_additional_info_2
+      label: one_time_payment_template_braintree_additional_info_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: one_time_payment_template_braintree_additional_info_3
+      label: one_time_payment_template_braintree_additional_info_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: one_time_payment_template_braintree_additional_info_4
+      label: one_time_payment_template_braintree_additional_info_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: one_time_payment_template_braintree_additional_info_5
+      label: one_time_payment_template_braintree_additional_info_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: one_time_payment_template_braintree_additional_info_6
+      label: one_time_payment_template_braintree_additional_info_6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: one_time_payment_template_braintree_additional_info_7
+      label: one_time_payment_template_braintree_additional_info_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: one_time_payment_template_braintree_additional_info_8
+      label: one_time_payment_template_braintree_additional_info_8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: one_time_payment_template_braintree_additional_info_9
+      label: one_time_payment_template_braintree_additional_info_9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: one_time_payment_template_braintree_additional_info_10
+      label: one_time_payment_template_braintree_additional_info_10
+      hint: null
+      type: text
+      options: []
+      required: false

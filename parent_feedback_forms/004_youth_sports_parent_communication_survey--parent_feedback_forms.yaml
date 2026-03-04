@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Parent Communication Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_quality
+      label: Communication Quality
+      hint: How would you rate the quality of our communication?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: parent_updates
+      label: How often do you receive updates from your child's coaches?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 4
+      name: preferred_communication_method
+      label: What is your preferred method of communication?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      required: false
+    - id: 5
+      name: preferred_communication_time
+      label: What time of day do you prefer to receive updates?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: communication_improvements
+      label: What can we improve on our communication?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: coaching_feedback
+      label: Coaching Feedback
+      hint: What do you think of our coaching staff?
+      type: select_multiple
+      options:
+      - Great Job!
+      - Needs Improvement
+      - Unsatisfied
+      required: false
+    - id: 8
+      name: team_feedback
+      label: Team Feedback
+      hint: What do you think of our teams?
+      type: select_one
+      options:
+      - Great Job!
+      - Needs Improvement
+      - Unsatisfied
+      required: false
+    - id: 9
+      name: other_feedback
+      label: Other Feedback
+      hint: Is there anything else you would like to suggest or provide feedback on?
+      type: select_one
+      options:
+      - Great Job!
+      - Needs Improvement
+      - Unsatisfied
+      required: false
+    - id: 10
+      name: parent_participation
+      label: Do you feel your child's parents feel involved in their team?
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree or Disagree
+      required: false
+    - id: 11
+      name: volunteer_opportunities
+      label: Do you want opportunities to volunteer for your child's team?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely!
+      - Maybe
+      - 'No'
+      required: false
+    - id: 12
+      name: feedback_frequency
+      label: How frequent would you like to receive feedback about your child's team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: feedback_method
+      label: What method would you like to receive feedback about your child's team?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      required: false
+    - id: 14
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parent_satisfaction
+      label: How satisfied are you with our current communication process?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Unsatisfied
+      required: false
+    - id: 16
+      name: communication_method
+      label: What would you like to change about our communication process?
+      hint: null
+      type: select_multiple
+      options:
+      - More Information
+      - Fewer Informational Emails
+      - Change of Format
+      required: false
+    - id: 17
+      name: parent_info
+      label: Do you want more information on our team activities and events?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please!
+      - Maybe
+      - 'No'
+      required: false
+    - id: 18
+      name: coach_info
+      label: Do you want to receive information on our coaches and coaches' schedules?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please!
+      - Maybe
+      - 'No'
+      required: false
+    - id: 19
+      name: team_info
+      label: Do you want to receive information on your child's team schedule and
+        team events?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please!
+      - Maybe
+      - 'No'
+      required: false
+    - id: 20
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_info_2
+      label: Other Information 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_events
+      label: Which team events would you be interested in attending or getting more
+        information about?
+      hint: null
+      type: select_multiple
+      options:
+      - Game Schedules
+      - Practice Schedules
+      - Team Meetings
+      - Other
+      required: false
+    - id: 23
+      name: volunteer
+      label: Are you interested in volunteering for your child's team?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely!
+      - Maybe
+      - 'No'
+      required: false
+    - id: 24
+      name: parent_volunteer
+      label: Are you interested in volunteering for your child's team?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely!
+      - Maybe
+      - 'No'
+      required: false

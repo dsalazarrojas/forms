@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Cylinder Order Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Enter business name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cylinder_width
+      label: Cylinders Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cylinder_height
+      label: Cylinders Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: material
+      label: Material
+      hint: null
+      type: select_one
+      options:
+      - Acrylic
+      - Aluminum
+      - Glass
+      - Plastic
+      - Steel
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment method
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 10
+      name: features
+      label: Features
+      hint: Enter features
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm
+      label: Confirm
+      hint: Confirm your details
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: order_confirmation
+      label: Order Confirmation
+      hint: Enter order confirmation
+      type: text
+      options: []
+      required: false

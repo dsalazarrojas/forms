@@ -1,0 +1,305 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservation Tracking Devices Requisition Form
+    pages:
+    - id: 1
+      name: requisition_date
+      label: Requisition Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requisition_id
+      label: Requisition ID Number
+      hint: Unique request identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Name of person requesting
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Name of research project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_id
+      label: Project ID Number
+      hint: Project identifier if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: principal_investigator
+      label: Principal Investigator
+      hint: Lead researcher name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: device_type
+      label: Type of Tracking Device
+      hint: Select device category
+      type: select_one
+      options:
+      - GPS collar
+      - GPS tag
+      - Radio transmitter
+      - Satellite tag
+      - Geolocator
+      - Accelerometer
+      - Camera trap
+      - Acoustic monitor
+      - Other
+      required: true
+    - id: 11
+      name: device_type_other
+      label: Other Device Type
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: species
+      label: Target Species
+      hint: What species will be tracked
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: quantity_requested
+      label: Quantity Requested
+      hint: Number of devices needed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: quantity_available
+      label: Quantity Available in Inventory
+      hint: Check inventory first
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: quantity_to_purchase
+      label: Quantity to Purchase
+      hint: Number needing purchase
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: device_specifications
+      label: Required Specifications
+      hint: Technical requirements
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: battery_life_required
+      label: Required Battery Life
+      hint: Minimum battery duration
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 to 12 months
+      - 1 to 2 years
+      - 2 to 5 years
+      - 5 plus years
+      required: true
+    - id: 18
+      name: weight_limit
+      label: Weight Limit
+      hint: Maximum device weight
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: attachment_method
+      label: Attachment Method
+      hint: How will device be attached
+      type: select_one
+      options:
+      - Collar
+      - Harness
+      - Glue or epoxy
+      - Implant
+      - Leg band
+      - Other
+      required: true
+    - id: 20
+      name: deployment_location
+      label: Deployment Location
+      hint: Where will devices be used
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: deployment_date
+      label: Expected Deployment Date
+      hint: When will devices be deployed
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: retrieval_date
+      label: Expected Retrieval Date
+      hint: When will devices be recovered
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: data_transmission
+      label: Data Transmission Method
+      hint: How will data be received
+      type: select_one
+      options:
+      - Satellite
+      - Cellular
+      - Radio telemetry
+      - Manual download
+      - Other
+      required: true
+    - id: 24
+      name: data_plan_needed
+      label: Data Plan Required
+      hint: Will you need service plan
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: data_plan_duration
+      label: Data Plan Duration
+      hint: Length of service needed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: budget_code
+      label: Budget Code
+      hint: Account or grant number
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Total estimated expense
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: funding_source
+      label: Funding Source
+      hint: Grant or funding name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: urgency
+      label: Urgency Level
+      hint: How soon is needed
+      type: select_one
+      options:
+      - Routine - 4 weeks
+      - Standard - 2 weeks
+      - Urgent - 1 week
+      - Critical - Immediate
+      required: true
+    - id: 30
+      name: justification
+      label: Justification for Request
+      hint: Why are these devices needed
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: previous_devices
+      label: Have You Used These Devices Before
+      hint: Prior experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: training_needed
+      label: Is Training Needed
+      hint: Do you need device training
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: additional_equipment
+      label: Additional Equipment Needed
+      hint: Accessories or other items
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: special_requirements
+      label: Special Requirements
+      hint: Any特殊 needs
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Supervisor name for approval
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: approval_status
+      label: Approval Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Pending approval
+      - Approved
+      - Denied
+      - Ordered
+      - Received
+      required: true

@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Follow Up Form
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_device
+      label: Medical Device
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''device_type_1'', ''label'': ''Device 1''}'
+      - '{''id'': 2, ''name'': ''device_type_2'', ''label'': ''Device 2''}'
+      - '{''id'': 3, ''name'': ''device_type_3'', ''label'': ''Device 3''}'
+      required: true
+    - id: 3
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: device_type_1_description
+      label: Device 1 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: device_type_2_description
+      label: Device 2 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: device_type_3_description
+      label: Device 3 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_care_instructions
+      label: Follow Up Care Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: communication_channel
+      label: Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''email'', ''label'': ''email''}'
+      - '{''id'': 2, ''name'': ''phone'', ''label'': ''phone''}'
+      - '{''id'': 3, ''name'': ''phone'', ''label'': ''phone''}'
+      required: false
+    - id: 11
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''completed'', ''label'': ''Completed''}'
+      - '{''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''cancelled'', ''label'': ''Cancelled''}'
+      required: true

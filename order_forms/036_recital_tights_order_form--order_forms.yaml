@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: recital_tights_order_form
+    pages:
+    - id: 1
+      name: studio_name
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: number_of_students
+      label: Number of Students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: type_of_product
+      label: Type of Product
+      hint: null
+      type: select_multiple
+      options:
+      - tights
+      - shorts
+      - skirt
+      required: false
+    - id: 6
+      name: product_color
+      label: Product Color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      required: false
+    - id: 7
+      name: product_size
+      label: Product Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 8
+      name: order_comment
+      label: Order Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: studio_email
+      label: Studio Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: studio_phone
+      label: Studio Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in_progress
+      - completed
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

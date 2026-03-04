@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Getaway Package Order Form
+    pages:
+    - id: 1
+      name: geteway_package_order_form_page_1
+      label: package_selections
+      hint: null
+      type: select_multiple
+      options:
+      - Package A
+      - Package B
+      - Package C
+      required: false
+    - id: 2
+      name: geteway_package_booking_form
+      label: booking_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: geteway_package_payment_form
+      label: payment_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: geteway_package_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: geteway_package_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: geteway_package_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: geteway_package_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 8
+      name: geteway_package_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false

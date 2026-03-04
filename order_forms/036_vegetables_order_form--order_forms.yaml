@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: vegetables_order_form
+    pages:
+    - id: 1
+      name: product_selection
+      label: Select products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_info
+      label: Delivery info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity_selection
+      label: Select quantity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_address
+      label: Delivery address
+      hint: null
+      type: text
+      options: []
+      required: false

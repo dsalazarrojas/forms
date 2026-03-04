@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_event_access_subscription_form
+    pages:
+    - id: 1
+      name: payment_type
+      label: payment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_start_date
+      label: event_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_organizer_name
+      label: event_organizer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false

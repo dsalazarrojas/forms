@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Womens Fashion Order Form Paypal Invoicing
+    pages:
+    - id: 1
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: order_subtotal
+      label: Order Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '5'
+      - '20'
+      required: true
+    - id: 8
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true

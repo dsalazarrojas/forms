@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Clinic Performance Assessment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Welcome to the dental clinic performance assessment form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_service_quality
+      label: How would you rate the quality of our staff
+      hint: Please rate on a scale from 1-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_with_staff
+      label: How would you rate the communication with our staff
+      hint: Please rate on a scale from 1-10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cleanliness_of_clinic
+      label: How would you rate the cleanliness of the clinic
+      hint: null
+      type: select_one
+      options:
+      - Very Clean
+      - Somewhat Clean
+      - Not Clean
+      required: false
+    - id: 5
+      name: appointment_scheduling
+      label: How would you rate the effectiveness of your appointment scheduling experience
+      hint: null
+      type: select_multiple
+      options:
+      - On time
+      - Early
+      - Late
+      required: false
+    - id: 6
+      name: billing_and_financials
+      label: How would you rate the clarity of our billing and financials
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Somewhat Clear
+      - Not Clear
+      required: false
+    - id: 7
+      name: pain_management
+      label: How would you rate the effectiveness of our pain management
+      hint: null
+      type: select_multiple
+      options:
+      - Effective
+      - Somewhat Effective
+      - Not Effective
+      required: false
+    - id: 8
+      name: overall_experience
+      label: What was your overall experience at the dental clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: will_return
+      label: Would you return to our clinic in the future
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Possibly
+      required: false

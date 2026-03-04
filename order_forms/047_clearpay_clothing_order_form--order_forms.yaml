@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clearpay Clothing Order Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_shipping
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Street Address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_country
+      label: Country
+      hint: Country of delivery
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_items
+      label: -- Clothing Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: item_1_description
+      label: Item 1 - Description
+      hint: Type and details of clothing item
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: item_1_size
+      label: Item 1 - Size
+      hint: XS, S, M, L, XL, etc.
+      type: select_one
+      options:
+      - XS (Extra Small)
+      - S (Small)
+      - M (Medium)
+      - L (Large)
+      - XL (Extra Large)
+      - XXL (2X Large)
+      - XXXL (3X Large)
+      - One Size Fits All
+      required: true
+    - id: 14
+      name: item_1_color
+      label: Item 1 - Color
+      hint: Color selection
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: item_1_quantity
+      label: Item 1 - Quantity
+      hint: Number of this item
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: item_1_price
+      label: Item 1 - Price Per Unit
+      hint: Price for each item
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: item_2_description
+      label: Item 2 - Description
+      hint: Type and details of clothing item
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: item_2_size
+      label: Item 2 - Size
+      hint: XS, S, M, L, XL, etc.
+      type: select_one
+      options:
+      - XS (Extra Small)
+      - S (Small)
+      - M (Medium)
+      - L (Large)
+      - XL (Extra Large)
+      - XXL (2X Large)
+      - XXXL (3X Large)
+      - One Size Fits All
+      required: false
+    - id: 19
+      name: item_2_quantity
+      label: Item 2 - Quantity
+      hint: Number of this item
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: item_3_description
+      label: Item 3 - Description
+      hint: Type and details of clothing item
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_3_quantity
+      label: Item 3 - Quantity
+      hint: Number of this item
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: additional_items
+      label: Additional Items
+      hint: Any other items to order
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_pricing
+      label: -- Order Summary and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: subtotal
+      label: Subtotal
+      hint: Total before tax and shipping
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Cost of delivery
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: tax_amount
+      label: Tax Amount
+      hint: Sales tax
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: discount_code
+      label: Discount or Promo Code
+      hint: Enter code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: discount_amount
+      label: Discount Amount
+      hint: Amount discounted
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: total_amount
+      label: Total Order Amount
+      hint: Final amount due
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Clearpay
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 32
+      name: shipping_method
+      label: Shipping Method
+      hint: Select preferred shipping option
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Pickup
+      required: true
+    - id: 33
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true

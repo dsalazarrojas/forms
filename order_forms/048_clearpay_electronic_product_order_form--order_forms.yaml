@@ -1,0 +1,293 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clearpay Electronic Product Order Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation and delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_billing
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Street Address
+      hint: Billing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_shipping
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: same_as_billing
+      label: Shipping Address Same as Billing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: shipping_address
+      label: Street Address
+      hint: Shipping address if different
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_products
+      label: -- Electronic Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: product_1_name
+      label: Product 1 - Name
+      hint: Name or model of electronic product
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: product_1_category
+      label: Product 1 - Category
+      hint: Type of electronic product
+      type: select_one
+      options:
+      - Smartphones
+      - Laptops
+      - Tablets
+      - Cameras
+      - Audio Equipment
+      - Gaming Devices
+      - Smart Home
+      - Accessories
+      - Other
+      required: true
+    - id: 19
+      name: product_1_model
+      label: Product 1 - Model Number
+      hint: Specific model or SKU
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: product_1_color
+      label: Product 1 - Color
+      hint: Color or finish selection
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_1_warranty
+      label: Product 1 - Warranty
+      hint: Select warranty option
+      type: select_one
+      options:
+      - Standard Warranty
+      - Extended Warranty
+      - No Warranty
+      required: true
+    - id: 22
+      name: product_1_quantity
+      label: Product 1 - Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: product_1_price
+      label: Product 1 - Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: product_2_name
+      label: Product 2 - Name
+      hint: Name or model of electronic product
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: product_2_quantity
+      label: Product 2 - Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: product_3_name
+      label: Product 3 - Name
+      hint: Name or model of electronic product
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: product_3_quantity
+      label: Product 3 - Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: section_header_pricing
+      label: -- Order Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: subtotal
+      label: Subtotal
+      hint: Total before tax and shipping
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Cost of delivery
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: tax_amount
+      label: Tax Amount
+      hint: Sales tax or VAT
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: discount_code
+      label: Promo or Discount Code
+      hint: Enter code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: discount_amount
+      label: Discount Amount
+      hint: Amount discounted
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: total_amount
+      label: Total Order Amount
+      hint: Final amount due
+      type: number
+      options: []
+      required: true
+    - id: 35
+      name: section_header_delivery
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: shipping_method
+      label: Shipping Method
+      hint: Select preferred shipping
+      type: select_one
+      options:
+      - Standard Shipping (5-7 days)
+      - Express Shipping (2-3 days)
+      - Overnight Shipping
+      - In-Store Pickup
+      required: true
+    - id: 37
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Clearpay
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 38
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Computing Subscription Renewal Form
+    pages:
+    - id: 1
+      name: subscription_account_id
+      label: Subscription Account ID
+      hint: Your current account identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_service
+      label: Current Service Plan
+      hint: Select your subscription level
+      type: select_one
+      options:
+      - Basic
+      - Professional
+      - Enterprise
+      - Custom
+      required: true
+    - id: 7
+      name: current_monthly_cost
+      label: Current Monthly Subscription Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: renewal_date
+      label: Current Renewal Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: renewal_period
+      label: Desired Renewal Period
+      hint: Select billing cycle
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annual
+      - 2 Years
+      - 3 Years
+      required: true
+    - id: 10
+      name: plan_change
+      label: Are You Changing Your Plan
+      hint: null
+      type: select_one
+      options:
+      - No Change
+      - Upgrade
+      - Downgrade
+      - Custom Modification
+      required: true
+    - id: 11
+      name: new_plan
+      label: New Plan if Changing
+      hint: Select if upgrading or downgrading
+      type: select_one
+      options:
+      - Basic
+      - Professional
+      - Enterprise
+      - Custom
+      required: false
+    - id: 12
+      name: estimated_new_cost
+      label: Estimated New Monthly Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: number_of_users
+      label: Number of Users
+      hint: Expected users for this renewal
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: storage_requirement
+      label: Storage Requirement
+      hint: Total storage needed in GB
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: Select preferred payment option
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Purchase Order
+      - Wire Transfer
+      required: true
+    - id: 16
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: special_requests
+      label: Special Requests or Negotiations
+      hint: Any custom terms or requirements
+      type: text
+      options: []
+      required: false

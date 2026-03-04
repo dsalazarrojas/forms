@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Test Result Communication Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_date
+      label: test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: test_result
+      label: test_result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_comments
+      label: patient_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: doctor_comments
+      label: doctor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: test_status
+      label: test_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 7
+      name: follow_up_instructions
+      label: follow_up_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Catering Order Form
+    pages:
+    - id: 1
+      name: student_catering_order_form
+      label: Menu
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: total_guests
+      label: Total Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: catering_option
+      label: Catering Option
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: special_dietary_requirements
+      label: Special Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

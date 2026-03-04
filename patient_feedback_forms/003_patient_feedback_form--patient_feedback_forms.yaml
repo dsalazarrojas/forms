@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Feedback Form
+    pages:
+    - id: 1
+      name: patient_feedback_form
+      label: What was the length of time you waited in the waiting room?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: doctor_care_provided
+      label: How would you rate the doctor's care and professionalism?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 3
+      name: clinic_service
+      label: How would you rate the overall service provided?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 4
+      name: clinic_environment
+      label: What was the cleanliness of the clinic's environment?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very Clean''}'
+      - '{''value'': 2, ''label'': ''Somewhat Clean''}'
+      - '{''value'': 3, ''label'': ''Somewhat Unclean''}'
+      - '{''value'': 4, ''label'': ''Not Very Clean''}'
+      - '{''value'': 5, ''label'': ''Not Clean At All''}'
+      required: false
+    - id: 5
+      name: clinic_environment_hygiene
+      label: Was the clinic's environment well-maintained?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: false
+    - id: 6
+      name: doctor_friendliness
+      label: How would you rate the doctor's friendliness?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 7
+      name: appointment_scheduling
+      label: How easy was the appointment scheduling process?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very Easy''}'
+      - '{''value'': 2, ''label'': ''Somewhat Easy''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat Difficult''}'
+      - '{''value'': 5, ''label'': ''Very Difficult''}'
+      required: false
+    - id: 8
+      name: doctor_communication
+      label: How would you rate the doctor's communication skills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 9
+      name: doctor_listening_skills
+      label: How would you rate the doctor's listening skills?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 10
+      name: doctor_diagnosis
+      label: How would you rate the doctor's diagnosis?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 11
+      name: doctor_treatment
+      label: How would you rate the doctor's treatment of your condition?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false
+    - id: 12
+      name: overall_experience
+      label: What was your overall experience with the clinic?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      - '{''value'': 4, ''label'': 4}'
+      - '{''value'': 5, ''label'': 5}'
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Feasts Template
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_list
+      label: Guest List
+      hint: null
+      type: select_multiple
+      options:
+      - Guest 1
+      - Guest 2
+      - Guest 3
+      required: true
+    - id: 3
+      name: main_dish
+      label: Main Dish
+      hint: null
+      type: select_one
+      options:
+      - Turkey
+      - Ham
+      - Fish
+      required: true
+    - id: 4
+      name: side_dish_1
+      label: Side Dish 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: side_dish_2
+      label: Side Dish 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dessert
+      label: Dessert
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

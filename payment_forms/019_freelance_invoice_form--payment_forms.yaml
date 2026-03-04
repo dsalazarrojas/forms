@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freelance Invoice Form
+    pages:
+    - id: 1
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: services_rendered
+      label: Services Rendered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hourly_rate
+      label: Hourly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: freelance_invoice_number
+      label: Freelance Invoice
+      hint: Automatically generated invoice number via Unique ID widget
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_amount
+      label: Total Amount
+      hint: Calculated via Form Calculation Widget
+      type: number
+      options: []
+      required: false

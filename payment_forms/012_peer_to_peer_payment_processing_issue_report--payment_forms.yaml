@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer To Peer Payment Processing Issue Report
+    pages:
+    - id: 1
+      name: payment_issue_info
+      label: Payment Issue Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''ACH''}'
+      - '{''option2'': ''Wire''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 3
+      name: amount_involled
+      label: Amount Involved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: screenshot
+      label: Screenshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: screenshot_description
+      label: Screenshot Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''New''}'
+      - '{''option2'': ''In Progress''}'
+      - '{''option3'': ''Resolved''}'
+      required: false
+    - id: 11
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Low''}'
+      - '{''option2'': ''Medium''}'
+      - '{''option3'': ''High''}'
+      required: false
+    - id: 12
+      name: support_info
+      label: Support Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''ChatJimmy''}'
+      - '{''option2'': ''JohnDoe''}'
+      required: false
+    - id: 14
+      name: support_team_description
+      label: Support Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: resolution_info
+      label: Resolution Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: payment_provider
+      label: Payment Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_provider_info
+      label: Payment Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: bank_branch
+      label: Bank Branch
+      hint: null
+      type: text
+      options: []
+      required: false

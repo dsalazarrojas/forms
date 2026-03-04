@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: valentines_day_flower_order_form_template
+    pages:
+    - id: 1
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''flower_bouquet''}'
+      - '{''id'': 20, ''name'': ''plant''}'
+      - '{''id'': 30, ''name'': ''gift_basket''}'
+      required: false
+    - id: 6
+      name: delivery_contact
+      label: Delivery Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 40, ''name'': ''pending''}'
+      - '{''id'': 50, ''name'': ''delivered''}'
+      - '{''id'': 60, ''name'': ''cancelled''}'
+      required: false

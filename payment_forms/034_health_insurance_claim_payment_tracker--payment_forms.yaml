@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Payment Tracker
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Denied
+      required: true
+    - id: 6
+      name: document_update
+      label: Document Update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_ups
+      label: Follow-ups
+      hint: null
+      type: select_multiple
+      options:
+      - Follow up 1
+      - Follow up 2
+      - Follow up 3
+      required: false

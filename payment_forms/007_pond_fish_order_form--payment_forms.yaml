@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pond Fish Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: delivery_date
+      hint: When to deliver
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: select_one
+      options:
+      - Address 1
+      - Address 2
+      - Address 3
+      required: false
+    - id: 6
+      name: add_ons
+      label: add_ons
+      hint: null
+      type: select_multiple
+      options:
+      - Add-on 1
+      - Add-on 2
+      - Add-on 3
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Payment 1
+      - Payment 2
+      - Payment 3
+      required: false
+    - id: 10
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_assigned
+      label: Form Assigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_output_file
+      label: Form Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_uploads
+      label: Form Uploads
+      hint: null
+      type: select_one
+      options:
+      - Upload 1
+      - Upload 2
+      - Upload 3
+      required: false
+    - id: 21
+      name: form_output_path
+      label: Form Output Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_output_type
+      label: Form Output Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 23
+      name: form_output_format
+      label: Form Output Format
+      hint: null
+      type: select_one
+      options:
+      - Format 1
+      - Format 2
+      - Format 3
+      required: false
+    - id: 24
+      name: form_output_location
+      label: Form Output Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 25
+      name: form_output_filename
+      label: Form Output Filename
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holistic Health Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_one
+      options:
+      - General Medicine
+      - Cardiology
+      - Neurology
+      - Nephrology
+      - Endocrinology
+      - Pulmonology
+      - Gastroenterology
+      - Rheumatology
+      - Dermatologist
+      - Ophthalmology
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

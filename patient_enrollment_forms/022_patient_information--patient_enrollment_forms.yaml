@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Information
+    pages:
+    - id: 1
+      name: new_patient
+      label: New Patient
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caffe Ibis Coffee Orders
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: For order confirmation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact phone
+      hint: For delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_details
+      label: Order details
+      hint: Specify coffee type size and extras
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pickup_time
+      label: Pickup time
+      hint: Preferred pickup time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment method
+      hint: Card cash or app
+      type: select_one
+      options:
+      - Card
+      - Cash
+      - Mobile app
+      required: true
+    - id: 6
+      name: special_instructions
+      label: Special instructions
+      hint: Allergies or custom requests
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: loyalty_member
+      label: Loyalty program member
+      hint: Provide membership id if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_reference
+      label: Internal order reference
+      hint: For staff use
+      type: text
+      options: []
+      required: false

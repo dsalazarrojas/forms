@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban-loft-suite-booking-form
+    pages:
+    - id: 1
+      name: booking_info
+      label: booking-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_details
+      label: guest-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: special_requests
+      label: special-requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

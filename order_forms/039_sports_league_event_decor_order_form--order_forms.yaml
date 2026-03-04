@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports League Event Decor Order Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Sports League Event Decor Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: decor_select
+      label: Select Decor Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_currency
+      label: Payment Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: thank_you
+      label: Thank You
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: error_message
+      label: Error Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: back_to_prev_step
+      label: Back to Previous Step
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_info_back_to_prev_step
+      label: Back to Previous Step
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: event_attendees
+      label: Event Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_external_links
+      label: Event External Links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_file_uploads
+      label: Event File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_email
+      label: Event Email
+      hint: null
+      type: email
+      options: []
+      required: false

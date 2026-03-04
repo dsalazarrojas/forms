@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Logistics Compliance Order Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name of order contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: For order coordination
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: license_number
+      label: Business License Number
+      hint: Your business license or permit number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tax_id
+      label: Tax ID Number
+      hint: Business tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State for delivery
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: ZIP Code
+      hint: Postal code for delivery
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: beverage_category
+      label: Beverage Category
+      hint: What type of beverages are you ordering
+      type: select_one
+      options:
+      - Alcoholic Beverages
+      - Non-Alcoholic Beverages
+      - Mixed Selection
+      - Specialty Beverages
+      required: true
+    - id: 12
+      name: order_items
+      label: Order Items
+      hint: List the products you want to order
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: quantities
+      label: Quantities
+      hint: Specify quantity for each item
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need delivery
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: What time works best
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: age_verification
+      label: Age Verification Statement
+      hint: Confirm you are authorized to order
+      type: select_one
+      options:
+      - I Confirm I Am 21 or Older
+      - I Confirm I Am Authorized
+      required: true
+    - id: 17
+      name: compliance_acknowledgment
+      label: Compliance Acknowledgment
+      hint: Do you acknowledge compliance requirements
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - No, I Do Not Acknowledge
+      required: true
+    - id: 18
+      name: storage_compliance
+      label: Storage Compliance
+      hint: Do you have proper storage facilities
+      type: select_one
+      options:
+      - Yes, Fully Compliant
+      - Partially Compliant
+      - Need Guidance
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Purchase Order
+      - Invoice Account
+      - Wire Transfer
+      required: true
+    - id: 20
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any special requirements for delivery
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your order
+      type: text
+      options: []
+      required: false

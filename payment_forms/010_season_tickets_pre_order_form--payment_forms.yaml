@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: season_tickets_pre_order_form
+    pages:
+    - id: 1
+      name: reservation_id
+      label: reservation_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_type
+      label: ticket_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Season Ticket''}'
+      - '{''label'': ''Half-Season Ticket''}'
+      - '{''label'': ''Single Game Ticket''}'
+      required: true
+    - id: 6
+      name: seat_number
+      label: seat_number
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Row 1''}'
+      - '{''label'': ''Row 2''}'
+      - '{''label'': ''Row 3''}'
+      required: false
+    - id: 7
+      name: game_date
+      label: game_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: true
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: season_tickets
+      label: season_tickets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: season_ticket_price
+      label: season_ticket_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: game_time
+      label: game_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: ticket_type_price
+      label: ticket_type_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: season_ticket_total
+      label: season_ticket_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: season_ticket_discount
+      label: season_ticket_discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: discount_type
+      label: discount_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Percentage''}'
+      - '{''label'': ''Flat''}'
+      - '{''label'': ''Tiered''}'
+      required: true
+    - id: 21
+      name: discount_amount
+      label: discount_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: season_ticket_note
+      label: season_ticket_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: season_ticket_status
+      label: season_ticket_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Unpaid''}'
+      - '{''label'': ''Paid''}'
+      required: true
+    - id: 25
+      name: team_logo
+      label: team_logo
+      hint: null
+      type: text
+      options: []
+      required: true

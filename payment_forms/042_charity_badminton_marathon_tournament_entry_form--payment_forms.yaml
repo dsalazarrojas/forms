@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Badminton Marathon Tournament Entry Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Tournament Entry --
+      hint: Register participants and collect entry fees for the tournament
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: team name
+      hint: optional team or doubles partner name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: contact for schedule and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: emergency contact during event
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: tournament division
+      type: select_one
+      options:
+      - Singles
+      - Doubles
+      - Mixed doubles
+      required: true
+    - id: 7
+      name: skill_level
+      label: skill level
+      hint: approximate playing level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 8
+      name: entry_fee_paid
+      label: entry fee paid
+      hint: payment status for entry fee
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Exempt
+      required: true
+    - id: 9
+      name: medical_conditions
+      label: medical conditions
+      hint: any medical conditions organizers should know
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: waiver_agreement
+      label: waiver agreement
+      hint: confirm acceptance of event waiver
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

@@ -1,0 +1,426 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Supply Order Form
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting supplies
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_id
+      label: Requester ID Number
+      hint: Employee or staff ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - Housekeeping
+      - Janitorial
+      - Facilities Management
+      - Maintenance
+      - Environmental Services
+      - Administration
+      - Other
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Work Location or Building
+      hint: Where are supplies needed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: Date of this order request
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need these supplies
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_header_supplies
+      label: -- Cleaning Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: all_purpose_cleaner
+      label: All-Purpose Cleaner
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: glass_cleaner
+      label: Glass Cleaner
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: bathroom_cleaner
+      label: Bathroom Cleaner or Disinfectant
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: floor_cleaner
+      label: Floor Cleaner
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: carpet_cleaner
+      label: Carpet Cleaner or Shampoo
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: disinfectant
+      label: Disinfectant or Sanitizer
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: degreaser
+      label: Degreaser
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_paper_products
+      label: -- Paper Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: toilet_paper
+      label: Toilet Paper
+      hint: Quantity needed (rolls or cases)
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: paper_towels
+      label: Paper Towels
+      hint: Quantity needed (rolls or cases)
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facial_tissue
+      label: Facial Tissue
+      hint: Quantity needed (boxes or cases)
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: napkins
+      label: Napkins
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_tools
+      label: -- Cleaning Tools and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: trash_bags
+      label: Trash Bags
+      hint: Quantity needed (boxes or rolls)
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cleaning_cloths
+      label: Cleaning Cloths or Rags
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: microfiber_cloths
+      label: Microfiber Cloths
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: sponges
+      label: Sponges
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: scrub_brushes
+      label: Scrub Brushes
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: brooms
+      label: Brooms
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: dustpans
+      label: Dustpans
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: mops
+      label: Mops
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: mop_heads
+      label: Mop Heads or Refills
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: buckets
+      label: Buckets
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: gloves
+      label: Cleaning Gloves
+      hint: Quantity needed (pairs or boxes)
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: vacuum_bags
+      label: Vacuum Bags
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: vacuum_filters
+      label: Vacuum Filters
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: section_header_safety
+      label: -- Safety Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: safety_goggles
+      label: Safety Goggles
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: face_masks
+      label: Face Masks
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: hand_sanitizer
+      label: Hand Sanitizer
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: wet_floor_signs
+      label: Wet Floor Signs
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: first_aid_supplies
+      label: First Aid Supplies
+      hint: Quantity needed
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: section_header_additional
+      label: -- Additional Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: additional_items
+      label: Additional Items Not Listed
+      hint: List any other supplies needed
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: item_specifications
+      label: Item Specifications or Brand Preferences
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: section_header_justification
+      label: -- Order Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: reason_for_order
+      label: Reason for Order
+      hint: Why are these supplies needed
+      type: select_one
+      options:
+      - Routine Restock
+      - Low Inventory
+      - Out of Stock
+      - New Building or Area
+      - Special Event
+      - Emergency or Urgent Need
+      - Other
+      required: true
+    - id: 48
+      name: current_inventory_status
+      label: Current Inventory Status
+      hint: Describe current supply level
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgently are supplies needed
+      type: select_one
+      options:
+      - Low - Can Wait 2 Weeks
+      - Medium - Within 1 Week
+      - High - Within 3 Days
+      - Urgent - Within 24 Hours
+      required: true
+    - id: 50
+      name: budget_code
+      label: Budget Code or Account Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: estimated_cost
+      label: Estimated Cost
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: section_header_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 54
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of approving supervisor
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - Approved with Modifications
+      - Rejected
+      required: true
+    - id: 56
+      name: requester_signature
+      label: Requester Signature (Type Full Name)
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 57
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true

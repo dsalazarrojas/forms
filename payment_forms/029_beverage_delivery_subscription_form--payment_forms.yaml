@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Delivery Subscription Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will send subscription updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for beverage delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: ZIP Code
+      hint: Postal code for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: subscription_type
+      label: Subscription Type
+      hint: Choose your subscription plan
+      type: select_one
+      options:
+      - Weekly Delivery
+      - Bi-Weekly Delivery
+      - Monthly Delivery
+      - Quarterly Delivery
+      - Custom Schedule
+      required: true
+    - id: 10
+      name: beverage_package
+      label: Beverage Package
+      hint: Select your preferred beverage package
+      type: select_one
+      options:
+      - Water Only
+      - Soft Drinks Mix
+      - Juice Selection
+      - Energy Drinks
+      - Sports Drinks
+      - Variety Pack
+      - Custom Selection
+      - Premium Package
+      required: true
+    - id: 11
+      name: delivery_quantity
+      label: Delivery Quantity
+      hint: How many items per delivery
+      type: select_one
+      options:
+      - 12 items
+      - 24 items
+      - 36 items
+      - 48 items
+      - 72 items
+      - Custom Quantity
+      required: true
+    - id: 12
+      name: preferred_delivery_day
+      label: Preferred Delivery Day
+      hint: Which day works best for delivery
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - No Preference
+      required: true
+    - id: 13
+      name: delivery_window
+      label: Preferred Delivery Window
+      hint: What time works best for you
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      - Any Time
+      required: true
+    - id: 14
+      name: start_date
+      label: Subscription Start Date
+      hint: When should deliveries begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 16
+      name: card_number
+      label: Card Number
+      hint: Enter your card number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expiry_date
+      label: Expiry Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cvv
+      label: CVV
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: If different from delivery address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Delivery Instructions
+      hint: Any special instructions for the delivery team
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pause_option
+      label: Would You Like the Option to Pause Deliveries
+      hint: Can we pause deliveries when you are away
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: terms_accepted
+      label: I Accept the Terms and Conditions
+      hint: Do you agree to the subscription terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your subscription
+      type: text
+      options: []
+      required: false

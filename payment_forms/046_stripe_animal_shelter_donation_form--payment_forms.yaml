@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_animal_shelter_donation_form
+    pages:
+    - id: 1
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Once'', ''label'': ''Once''}'
+      - '{''id'': 2, ''name'': ''Reoccurring'', ''label'': ''Reoccurring''}'
+      - '{''id'': 3, ''name'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''id'': 4, ''name'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
+      - '{''id'': 5, ''name'': ''Weekly'', ''label'': ''Weekly''}'
+      required: false
+    - id: 6
+      name: frequency_repeats
+      label: Frequency Repeats
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Never'', ''label'': ''Never''}'
+      - '{''id'': 2, ''name'': ''1 month'', ''label'': ''1 month''}'
+      - '{''id'': 3, ''name'': ''2 months'', ''label'': ''2 months''}'
+      - '{''id'': 4, ''name'': ''3 months'', ''label'': ''3 months''}'
+      - '{''id'': 5, ''name'': ''4 months'', ''label'': ''4 months''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_opt_out
+      label: Email Opt Out
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Opt in'', ''label'': ''Opt in''}'
+      - '{''id'': 2, ''name'': ''Opt Out'', ''label'': ''Opt Out''}'
+      required: false

@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beach Supply Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: When ordering
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: beach_chairs_qty
+      label: Beach Chairs Quantity
+      hint: Number of chairs
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: beach_umbrellas_qty
+      label: Beach Umbrellas Quantity
+      hint: Number of umbrellas
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: beach_towels_qty
+      label: Beach Towels Quantity
+      hint: Number of towels
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: coolers_qty
+      label: Coolers Quantity
+      hint: Number of coolers
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: boogie_boards_qty
+      label: Boogie Boards Quantity
+      hint: Number of boards
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: surfboards_qty
+      label: Surfboards Quantity
+      hint: Number of surfboards
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: snorkel_sets_qty
+      label: Snorkel Sets Quantity
+      hint: Number of sets
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: beach_toys_qty
+      label: Beach Toys Quantity
+      hint: Number of toy sets
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: sunscreen_qty
+      label: Sunscreen Quantity
+      hint: Number of bottles
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: other_items
+      label: Other Items
+      hint: List any other items
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: subtotal
+      label: Subtotal
+      hint: Before tax and shipping
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Delivery fee
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_amount
+      label: Total Amount
+      hint: Final total
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Invoice
+      required: true
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Delivery notes
+      type: text
+      options: []
+      required: false

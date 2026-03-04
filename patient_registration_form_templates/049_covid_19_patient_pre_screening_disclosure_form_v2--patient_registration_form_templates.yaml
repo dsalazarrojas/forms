@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Pre Screening Disclosure Form V2
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: health_section
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: covid_symptoms
+      label: COVID-19 symptoms or signs in past 14 days
+      hint: Fever - Cough - Shortness of breath - Loss of taste or smell - Fatigue
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: symptom_onset
+      label: Symptom onset date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: positive_test
+      label: Have you tested positive for COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: true
+    - id: 11
+      name: positive_test_date
+      label: Date of positive test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: exposure_recent
+      label: Known exposure to confirmed COVID-19 case
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 13
+      name: close_contact_date
+      label: Date of close contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: vaccination_header
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Say
+      required: true
+    - id: 16
+      name: vaccine_type
+      label: Vaccine Type Received
+      hint: null
+      type: select_multiple
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Other
+      - None
+      required: false
+    - id: 17
+      name: first_dose_date
+      label: First Dose Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: second_dose_date
+      label: Second Dose Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: booster_received
+      label: Booster Dose Received
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: booster_date
+      label: Booster Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: risk_header
+      label: -- Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: high_risk
+      label: High-risk conditions or immunocompromised
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: risk_conditions
+      label: Describe risk conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: clearance_section
+      label: -- Health Clearance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: clearance
+      label: Cleared for health facility or service
+      hint: null
+      type: select_one
+      options:
+      - Yes, Cleared
+      - No, Not Cleared
+      - Conditional
+      required: true

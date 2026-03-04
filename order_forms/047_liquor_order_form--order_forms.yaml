@@ -1,0 +1,34 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liquor Order Form
+    pages:
+    - id: 1
+      name: liquors_list
+      label: Liquor List
+      hint: null
+      type: select_multiple
+      options:
+      - Bourbon
+      - Vodka
+      - Whiskey
+      - Rum
+      - Gin
+      - Tequila
+      required: false
+    - id: 2
+      name: quantities
+      label: Quantities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

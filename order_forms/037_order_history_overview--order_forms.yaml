@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: order_history_overview
+    pages:
+    - id: 1
+      name: order_history
+      label: order_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: order_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - completed
+      - cancelled
+      required: false
+    - id: 4
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false

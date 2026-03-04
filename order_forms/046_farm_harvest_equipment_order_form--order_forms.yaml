@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: farm_harvest_equipment_order_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - Farm
+      - Co-op
+      - Supplier
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      - Bank Transfer
+      required: true
+    - id: 11
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Screening Check Out Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Heart''}'
+      - '{''value'': ''Lung''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 3
+      name: health_issues
+      label: Health Issues
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Diabetes''}'
+      - '{''value'': ''Heart Condition''}'
+      - '{''value'': ''Lung Condition''}'
+      required: false
+    - id: 4
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: discharge_info
+      label: Discharge Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Home''}'
+      - '{''value'': ''Hospital''}'
+      - '{''value'': ''None''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: follow_up_care
+      label: Follow-up Care
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''0 Days''}'
+      - '{''value'': ''1 Week''}'
+      - '{''value'': ''2 Weeks''}'
+      - '{''value'': ''3 Weeks''}'
+      - '{''value'': ''4 Weeks''}'
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''None''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Family History''}'
+      - '{''value'': ''Social History''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''None''}'
+      - '{''value'': ''Penicillin''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: medical_history_additional
+      label: Additional Medical Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_history_other
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history_other_notes
+      label: Other Medical History Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_info_other
+      label: Other Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_info_other_notes
+      label: Other Patient Information Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_additional_date
+      label: Additional Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: medical_history_additional_time
+      label: Additional Medical History Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: medical_history_additional_notes
+      label: Additional Medical History Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: patient_info_additional
+      label: Additional Patient Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Medical History''}'
+      - '{''value'': ''Social History''}'
+      - '{''value'': ''Family History''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 24
+      name: patient_info_additional_notes
+      label: Additional Patient Information Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_history_other_date
+      label: Other Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: false

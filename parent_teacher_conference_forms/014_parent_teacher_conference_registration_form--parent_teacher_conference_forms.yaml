@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Teacher Conference Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: home_phone
+      label: home_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_relationship
+      label: parent_relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_year
+      label: school_year
+      hint: null
+      type: select_one
+      options:
+      - Current
+      - Next
+      - Prior
+      required: true
+    - id: 7
+      name: conference_date
+      label: conference_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: conference_time
+      label: conference_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: conference_location
+      label: conference_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_message
+      label: parent_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: select_one
+      options:
+      - K
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: true
+    - id: 13
+      name: student_birth_date
+      label: student_birth_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: teacher_title
+      label: teacher_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: teacher_school
+      label: teacher_school
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: teacher_subject
+      label: teacher_subject
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - English
+      - Reading
+      - History
+      required: true
+    - id: 22
+      name: teacher_note
+      label: teacher_note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: parent_attendance
+      label: parent_attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: parent_note
+      label: parent_note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: true

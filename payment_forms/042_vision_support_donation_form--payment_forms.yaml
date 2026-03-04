@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vision Support Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One Time
+      required: false
+    - id: 3
+      name: frequency_interval
+      label: Interval
+      hint: How often you want to receive the donation
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 4
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Project
+      - Event
+      required: false
+    - id: 5
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: donation_time
+      label: Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: frequency_frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false

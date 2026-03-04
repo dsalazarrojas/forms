@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Information Form
+    pages:
+      - id: 1
+        name: entity_info_header
+        label: -- Account Holder Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: entity_name
+        label: Individual or Business Name
+        hint: As registered with your financial institution
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: tax_id_number
+        label: Tax Identification Number (SSN or EIN)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: physical_address
+        label: Registered Mailing Address
+        hint: Full address associated with the account
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: primary_email
+        label: Primary Contact Email
+        hint: For confirmation and secure communication
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: banking_details_header
+        label: -- Financial Institution Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: institution_name
+        label: Bank Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: routing_number
+        label: Routing Number (9 Digits)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: account_number
+        label: Account Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: account_type
+        label: Type of Account
+        hint: null
+        type: select_one
+        options:
+          - Checking
+          - Savings
+          - Money Market
+        required: true
+      - id: 11
+        name: currency_type
+        label: Account Currency
+        hint: Select the primary currency for this account
+        type: select_one
+        options:
+          - USD - US Dollar
+          - CAD - Canadian Dollar
+          - EUR - Euro
+          - GBP - British Pound
+          - Other
+        required: true
+      - id: 12
+        name: purpose_of_collection_header
+        label: -- Purpose of Account Collection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: collection_purpose
+        label: What will this account be used for?
+        hint: null
+        type: select_one
+        options:
+          - Direct Deposit (Payroll)
+          - Vendor Payments (Accounts Payable)
+          - Customer Reimbursements
+          - Automated Billing (Accounts Receivable)
+        required: true
+      - id: 14
+        name: security_confirmation
+        label: Verification and Accuracy Statement
+        hint: null
+        type: select_multiple
+        options:
+          - I confirm the banking details provided are correct
+          - I authorize the verification of this account via test deposit
+        required: true
+      - id: 15
+        name: verification_date
+        label: Effective Date
+        hint: Date these banking details become active
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: authorized_signer
+        label: Authorized Signer Name
+        hint: Person authorized to provide these details
+        type: text
+        options: []
+        required: true

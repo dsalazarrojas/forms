@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Sports Uniforms Requisition Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sport_name
+      label: Sport Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_number
+      label: Team Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sport_number
+      label: Sport Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - Extra Small
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: true
+    - id: 7
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      required: true
+    - id: 8
+      name: sleeve_type
+      label: Sleeve Type
+      hint: null
+      type: select_multiple
+      options:
+      - Short Sleeve
+      - Long Sleeve
+      - None
+      required: false
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false

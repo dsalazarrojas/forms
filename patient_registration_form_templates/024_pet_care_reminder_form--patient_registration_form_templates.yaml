@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Care Reminder Form
+    pages:
+    - id: 1
+      name: pet_care_reminder_form
+      label: pet_care_reminder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reminder_date
+      label: reminder_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reminder_time
+      label: reminder_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: procedure_id
+      label: procedure_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: procedure_date
+      label: procedure_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: procedure_time
+      label: procedure_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true

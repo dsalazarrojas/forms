@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Transfer Acknowledgment Form
+    pages:
+    - id: 1
+      name: transfer_info_section
+      label: -- Transfer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: transfer_date
+      label: Transfer Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: transfer_time
+      label: Transfer Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: transfer_number
+      label: Transfer Number or Reference ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: transfer_amount
+      label: Transfer Amount
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: sender_section
+      label: -- Sender Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sender_name
+      label: Sender Name
+      hint: Person sending the cash
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sender_phone
+      label: Sender Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sender_department
+      label: Sender Department or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sender_address
+      label: Sender Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: receiver_section
+      label: -- Receiver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: receiver_name
+      label: Receiver Name
+      hint: Person receiving the cash
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: receiver_phone
+      label: Receiver Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: receiver_department
+      label: Receiver Department or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: receiver_address
+      label: Receiver Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transfer_details_section
+      label: -- Transfer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: transfer_purpose
+      label: Purpose of Transfer
+      hint: Why is this cash being transferred?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: transfer_type
+      label: Type of Transfer
+      hint: null
+      type: select_one
+      options:
+      - Cash Advance
+      - Reimbursement
+      - Loan
+      - Payment
+      - Deposit
+      - Withdrawal
+      - Other
+      required: true
+    - id: 19
+      name: currency
+      label: Currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: method_of_transfer
+      label: Method of Transfer
+      hint: null
+      type: select_one
+      options:
+      - Hand-to-hand
+      - Bank Transfer
+      - Courier
+      - Wire Transfer
+      - Check
+      - Other
+      required: true
+    - id: 21
+      name: condition_section
+      label: -- Condition and Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: cash_condition
+      label: Condition of Cash
+      hint: null
+      type: select_one
+      options:
+      - New or Good Condition
+      - Worn but Usable
+      - Damaged
+      - Mixed Denominations
+      - Other
+      required: true
+    - id: 23
+      name: receipt_given
+      label: Receipt Given to Receiver?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Verbal Acknowledgment Only
+      required: true
+    - id: 24
+      name: verification_section
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: verified_by
+      label: Verified By (Independent Party)
+      hint: Name of witness or verifier
+      type: text
+      options: []
+      required: false

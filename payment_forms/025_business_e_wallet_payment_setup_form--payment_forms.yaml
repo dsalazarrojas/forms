@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business E Wallet Payment Setup Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Type of business
+      type: select_one
+      options:
+      - Retail
+      - E-Commerce
+      - Services
+      - Food and Beverage
+      - Healthcare
+      - Other
+      required: true
+    - id: 4
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal tax ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_phone
+      label: Business Phone
+      hint: Main business number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_contact
+      label: Primary Contact Name
+      hint: Name of authorized contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Title
+      hint: Position in company
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ewallet_setup
+      label: -- E-Wallet Setup Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ewallet_provider
+      label: E-Wallet Provider
+      hint: Which provider?
+      type: select_one
+      options:
+      - Apple Pay
+      - Google Pay
+      - PayPal
+      - Square Cash
+      - Venmo
+      - Other
+      required: true
+    - id: 14
+      name: processing_volume
+      label: Expected Monthly Processing Volume
+      hint: Approximate monthly transactions
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: average_transaction
+      label: Average Transaction Amount
+      hint: Average amount per transaction
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: transaction_types
+      label: Types of Transactions
+      hint: What will you process?
+      type: select_multiple
+      options:
+      - In-Store Purchases
+      - Online Purchases
+      - Subscriptions
+      - Bill Payments
+      - Refunds
+      - Other
+      required: true
+    - id: 17
+      name: merchant_services
+      label: -- Merchant Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_processor
+      label: Current Payment Processor
+      hint: Who processes payments now?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: setup_timeline
+      label: Desired Setup Timeline
+      hint: When do you need this?
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - Flexible
+      required: true
+    - id: 20
+      name: system_compatibility
+      label: System Compatibility
+      hint: What POS system do you use?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: security_compliance
+      label: PCI Compliance Status
+      hint: Are you PCI compliant?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Partial Compliance
+      - Not Compliant
+      - Unsure
+      required: true
+    - id: 22
+      name: approval_authorization
+      label: -- Approval and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: authorized_signature
+      label: Authorized By
+      hint: Name of authorizing officer
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: authorization_date
+      label: Authorization Date
+      hint: When authorized?
+      type: date
+      options: []
+      required: true

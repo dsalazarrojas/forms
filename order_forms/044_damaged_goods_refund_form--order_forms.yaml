@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damaged Goods Refund Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Product 1''}'
+      - '{''label'': ''Product 2''}'
+      - '{''label'': ''Product 3''}'
+      required: false
+    - id: 4
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: images
+      label: Images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: refund_request_date
+      label: Refund Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: return_reason
+      label: Return Reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Damaged''}'
+      - '{''label'': ''Defective''}'
+      - '{''label'': ''Not as Described''}'
+      required: false
+    - id: 8
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_signature_required
+      label: Customer Signature Required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 10
+      name: business_signature
+      label: Business Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: business_signature_required
+      label: Business Signature Required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_name_required
+      label: Business Name Required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 16
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: business_address_required
+      label: Business Address Required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 18
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes_required
+      label: Notes Required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 22
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: proof_of_purchase
+      label: Proof of Purchase
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Proof of Payment''}'
+      - '{''label'': ''Proof of Delivery''}'
+      - '{''label'': ''Proof of Return''}'
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes_required
+      label: Additional Notes Required
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

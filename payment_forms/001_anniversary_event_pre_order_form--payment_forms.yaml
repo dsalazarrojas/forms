@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Event Pre Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your full name as it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: We will send order confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: Select the date of your anniversary event
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: What type of anniversary event is this?
+      type: select_one
+      options:
+      - Wedding Anniversary
+      - Business Anniversary
+      - Organization Anniversary
+      - Other
+      required: true
+    - id: 6
+      name: guest_count
+      label: Expected Guest Count
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: venue_name
+      label: Venue Name
+      hint: Name of the event venue
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: catering_selection
+      label: Catering Package Selection
+      hint: Choose your preferred catering package
+      type: select_one
+      options:
+      - Basic Package
+      - Standard Package
+      - Premium Package
+      - Custom Package
+      required: true
+    - id: 9
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Nut Allergies
+      required: true
+    - id: 10
+      name: beverage_package
+      label: Beverage Package
+      hint: Select beverage preferences
+      type: select_one
+      options:
+      - Non-Alcoholic Only
+      - Beer and Wine
+      - Full Bar
+      - Custom Selection
+      required: true
+    - id: 11
+      name: decoration_package
+      label: Decoration Package
+      hint: Choose decoration style
+      type: select_one
+      options:
+      - No Decorations
+      - Basic Decorations
+      - Standard Decorations
+      - Premium Decorations
+      - Custom Design
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: Any additional requirements or preferences
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When should items be delivered?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: Select preferred delivery window
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Invoice (Business Accounts)
+      required: true
+    - id: 16
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Required deposit to secure order
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: billing_address
+      label: Billing Address
+      hint: Full billing address for payment
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms and conditions
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Ticket Payment Form
+    pages:
+    - id: 1
+      name: payer_full_name
+      label: Payer full name
+      hint: Name on payment method
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email for receipt
+      hint: Enter email to receive payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: order_id
+      label: Order ID
+      hint: Reference from ticket order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: amount
+      label: Payment amount
+      hint: Total charged amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment method
+      hint: Select the payment method used
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for payment queries
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: promo_code
+      label: Promo code applied
+      hint: Optional promotional code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fraud_notice
+      label: Fraud prevention notice
+      hint: Read only guidance regarding safe payments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other payment related comments
+      type: text
+      options: []
+      required: false

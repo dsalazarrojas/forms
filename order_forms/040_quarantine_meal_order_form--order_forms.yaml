@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarantine Meal Order Form
+    pages:
+    - id: 1
+      name: quarantinemalorder
+      label: Quarantine Meal Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: orderdate
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: orderformcategory
+      label: Form Category
+      hint: Select a category
+      type: select_one
+      options:
+      - Food Type
+      - Diet Type
+      - Other
+      required: false
+    - id: 4
+      name: fooditem
+      label: Food Item
+      hint: Select an item
+      type: select_one
+      options:
+      - Pizza
+      - Burgers
+      - Salads
+      - Sandwiches
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: specialrequest
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: orderfrom
+      label: Order From
+      hint: Select an option
+      type: select_one
+      options:
+      - School Nurse
+      - Hospital
+      - Self-Ordered
+      required: false

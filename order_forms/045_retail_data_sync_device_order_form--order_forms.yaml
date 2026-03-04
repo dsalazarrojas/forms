@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Data Sync Device Order Form
+    pages:
+    - id: 1
+      name: retail_data_sync_device_order_form_page_1
+      label: retail_data_sync_device_order_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_city
+      label: shipping_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_state
+      label: shipping_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_zip
+      label: shipping_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipping_country
+      label: shipping_country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 8
+      name: shipping_phone
+      label: shipping_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_email
+      label: shipping_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: device_order_details
+      label: device_order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: device_order_type
+      label: device_order_type
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      required: false
+    - id: 12
+      name: internal_order
+      label: internal_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: internal_comments
+      label: internal_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: device_type
+      label: device_type
+      hint: null
+      type: select_one
+      options:
+      - Device 1
+      - Device 2
+      - Device 3
+      required: false
+    - id: 15
+      name: retail_data_sync
+      label: retail_data_sync
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: retail_data_sync_1
+      label: retail_data_sync_1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: retail_data_sync_1_time
+      label: retail_data_sync_1_time
+      hint: null
+      type: time
+      options: []
+      required: false

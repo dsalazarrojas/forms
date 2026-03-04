@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Clothing Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_city
+      label: shipping city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_state
+      label: shipping state
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Alabama''}'
+      - '{''options'': ''Alaska''}'
+      - '{''options'': ''American Samoa''}'
+      - '{''options'': ''Arizona''}'
+      - '{''options'': ''Arkansas''}'
+      - '{''options'': ''California''}'
+      - '{''options'': ''Colorado''}'
+      - '{''options'': ''Connecticut''}'
+      - '{''options'': ''Delaware''}'
+      - '{''options'': ''Washington''}'
+      - '{''options'': ''Wisconsin''}'
+      - '{''options'': ''Wyoming''}'
+      - '{''options'': ''Other''}'
+      required: false
+    - id: 8
+      name: shipping_zip
+      label: shipping zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_total
+      label: order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: items_ordered
+      label: items ordered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': 1}'
+      - '{''option'': 2}'
+      - '{''option'': 3}'
+      - '{''option'': 4}'
+      - '{''option'': 5}'
+      - '{''option'': 6}'
+      - '{''option'': 7}'
+      - '{''option'': 8}'
+      - '{''option'': 9}'
+      - '{''option'': 10}'
+      required: false

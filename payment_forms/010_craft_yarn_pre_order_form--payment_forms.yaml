@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: craft_yarn_pre_order_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''Yarn Pre-order Payment'': ''Cash''}'
+      - '{''Yarn Pre-order Payment'': ''Credit/Debit''}'
+      - '{''Yarn Pre-order Payment'': ''PayPal''}'
+      - '{''Yarn Pre-order Payment'': ''Bank Transfer''}'
+      required: false
+    - id: 2
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - Delivery at pickup
+      - Delivery to store
+      - Delivery to home
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_instructions
+      label: shipping_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_instructions
+      label: delivery_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      required: false
+    - id: 14
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - In stock
+      - Out of stock
+      - Unknown
+      required: false
+    - id: 15
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms_note
+      label: payment_terms_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_terms
+      label: delivery_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_note
+      label: payment_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false

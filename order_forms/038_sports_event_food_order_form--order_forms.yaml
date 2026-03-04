@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Food Order Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: food_type
+      label: Food Type
+      hint: null
+      type: select_one
+      options:
+      - Hot Dogs
+      - Burgers
+      - Nachos
+      - Popcorn
+      - Water
+      - Soda
+      required: true
+    - id: 6
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true

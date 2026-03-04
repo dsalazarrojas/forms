@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Package Order Form
+    pages:
+    - id: 1
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Package A'', ''value'': ''A''}'
+      - '{''label'': ''Package B'', ''value'': ''B''}'
+      - '{''label'': ''Package C'', ''value'': ''C''}'
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false

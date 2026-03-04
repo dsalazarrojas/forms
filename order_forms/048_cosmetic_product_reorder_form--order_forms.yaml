@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cosmetic Product Reorder Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reorder_date
+      label: Reorder Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reorder_time
+      label: Reorder Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_reorder
+      label: Reason For Reorder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reorder_frequency
+      label: Reorder Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 9
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Ship Now
+      - Ship Later
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

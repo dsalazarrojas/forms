@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elite Club Refund Form
+    pages:
+    - id: 1
+      name: elite_club_refund_form_1
+      label: refund_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: refund_date
+      label: refund_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: refund_method
+      label: refund_method
+      hint: null
+      type: select_one
+      options:
+      - Full Refund
+      - Partial Refund
+      - Store Credit
+      required: true
+    - id: 4
+      name: refund_amount
+      label: refund_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reasons_for_refund
+      label: reasons_for_refund
+      hint: null
+      type: select_multiple
+      options:
+      - Product was not as described
+      - Product didn't match my needs
+      - Order was cancelled
+      - I just don't want it
+      - Other reason
+      required: true

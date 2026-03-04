@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candy Bouquet Order Form
+    pages:
+    - id: 1
+      name: customer_details_section
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bouquet_customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bouquet_customer_email
+      label: Email Address
+      hint: For order status updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: bouquet_customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bouquet_delivery_address
+      label: Delivery Address
+      hint: Full street address for bouquet delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customization_section
+      label: -- Bouquet Customization --
+      hint: What should the bouquet look like
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bouquet_size_choice
+      label: Bouquet Size
+      hint: Choose the scale of the bouquet
+      type: select_one
+      options:
+      - Small ($25)
+      - Medium ($45)
+      - Large ($65)
+      - Deluxe ($85)
+      required: true
+    - id: 8
+      name: primary_candy_selections
+      label: Primary Candy Types
+      hint: Select the types of sweets to include
+      type: select_multiple
+      options:
+      - Chocolate Bars
+      - Gummy Bears
+      - Sour Candies
+      - Hard Candies
+      - Lollipops
+      - Other
+      required: true
+    - id: 9
+      name: bouquet_color_theme
+      label: Preferred Color Theme
+      hint: Overall aesthetic of the bouquet
+      type: select_one
+      options:
+      - Rainbow
+      - Pastel
+      - Red or Pink
+      - Blue or Gold
+      - Seasonal
+      - Custom
+      required: true
+    - id: 10
+      name: bouquet_container_type
+      label: Container Type
+      hint: What should the candy be held in
+      type: select_one
+      options:
+      - Ceramic Mug
+      - Basket
+      - Decorative Box
+      - Glass Vase
+      required: true
+    - id: 11
+      name: occasion_gifting_section
+      label: -- Occasion and Gifting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: bouquet_occasion_type
+      label: Occasion
+      hint: Why are you sending this bouquet
+      type: select_one
+      options:
+      - Birthday
+      - Anniversary
+      - Get Well Soon
+      - Thank You
+      - Graduation
+      - Other
+      required: true
+    - id: 13
+      name: bouquet_gift_message
+      label: Gift Message
+      hint: Add a personalized card
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recipient_full_name
+      label: Recipient Name
+      hint: Who are we delivering to
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recipient_phone_number
+      label: Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_payment_info_section
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: bouquet_delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: delivery_time_slot
+      label: Preferred Delivery Time
+      hint: Choose a window for drop-off
+      type: select_one
+      options:
+      - Morning (9 AM-12 PM)
+      - Afternoon (12 PM-4 PM)
+      - Evening (4 PM-7 PM)
+      required: true
+    - id: 19
+      name: bouquet_delivery_method
+      label: Delivery Method
+      hint: How would you like the bouquet sent
+      type: select_one
+      options:
+      - Local Delivery ($10)
+      - Curbside Pickup (Free)
+      required: true
+    - id: 20
+      name: bouquet_payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash on Delivery
+      required: true
+    - id: 21
+      name: special_bouquet_instructions
+      label: Special Instructions for Bouquet
+      hint: Any particular candy brands or design notes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergen_acknowledgment
+      label: I understand the ingredients may contain allergens
+      hint: We handle nuts, dairy, and soy
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 23
+      name: final_order_timestamp
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

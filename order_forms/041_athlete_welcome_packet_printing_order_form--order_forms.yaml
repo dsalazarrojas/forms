@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Welcome Packet Printing Order Form
+    pages:
+    - id: 1
+      name: order_info_header
+      label: -- Client and Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Team or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: delivery_date_required
+      label: Required Delivery Date
+      hint: Please allow 5-7 business days for production
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: packet_specs_header
+      label: -- Packet Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: packet_quantity
+      label: Total Number of Packets Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: packet_components
+      label: Included Packet Components
+      hint: Select all items to be included in each packet
+      type: select_multiple
+      options:
+      - Welcome Letter and Introduction
+      - Team Rules and Code of Conduct
+      - Annual Training and Event Schedule
+      - Medical and Insurance Forms
+      - Sponsorship Vouchers and Coupons
+      - Apparel and Gear Order Form
+      required: true
+    - id: 9
+      name: paper_quality
+      label: Paper Quality and Weight
+      hint: null
+      type: select_one
+      options:
+      - Standard 80gsm Bond
+      - Premium 120gsm Silk
+      - Eco-Friendly Recycled Stock
+      - High Gloss Photo Paper
+      required: true
+    - id: 10
+      name: binding_type
+      label: Binding or Assembly Type
+      hint: null
+      type: select_one
+      options:
+      - Stapled Corner
+      - Plastic Spiral Bound
+      - Presentation Folder with Inserts
+      - Three-Ring Binder (Small)
+      required: true
+    - id: 11
+      name: cover_options
+      label: Cover Page Printing Options
+      hint: null
+      type: select_one
+      options:
+      - Full Color with Team Branding
+      - Black and White High Contrast
+      - Minimalist - Logo Only
+      required: true
+    - id: 12
+      name: customization_header
+      label: -- Customization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: personalization_required
+      label: Is individual personalization required?
+      hint: Each packet printed with a specific athlete name
+      type: select_one
+      options:
+      - No - All packets are generic
+      - Yes - Individual names on covers
+      required: true
+    - id: 14
+      name: roster_file_link
+      label: Link to Athlete Roster Data
+      hint: Required if personalization is selected (e.g. Google Sheet or Dropbox
+        link)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_printing_instructions
+      label: Special Printing or Finishing Instructions
+      hint: e.g. Double-sided, laminated covers, specific collation order
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_billing_header
+      label: -- Shipping and Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address, city, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: billing_address
+      label: Billing Address
+      hint: Enter - Same as shipping - if applicable
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Ground (3-5 days)
+      - Express Overnight
+      - Local Courier Delivery
+      - In-store Pickup
+      required: true
+    - id: 20
+      name: order_date
+      label: Date of Order Submission
+      hint: null
+      type: date
+      options: []
+      required: true

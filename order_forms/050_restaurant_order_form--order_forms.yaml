@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_order_form
+    pages:
+    - id: 1
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_option
+      label: Delivery Option
+      hint: null
+      type: select_multiple
+      options:
+      - Delivery
+      - Pickup
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 9
+      name: payment_online_options
+      label: Online Options
+      hint: null
+      type: select_multiple
+      options:
+      - Card Number
+      - PayPal
+      required: false
+    - id: 10
+      name: payment_online_note
+      label: Online Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_offline_options
+      label: Offline Options
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Bank Transfer
+      required: false
+    - id: 12
+      name: payment_offline_note
+      label: Offline Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: restaurant_id
+      label: Restaurant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: payment_online_total
+      label: Online Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_offline_total
+      label: Offline Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      required: false

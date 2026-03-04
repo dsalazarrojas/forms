@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Theater Play Development Donation Form
+    pages:
+    - id: 1
+      name: donor_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: For receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donor_address
+      label: Mailing Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_type
+      label: Donor Type
+      hint: Are you donating as an individual or organization?
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Business
+      - Foundation
+      - Organization
+      - Anonymous
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization Name (if applicable)
+      hint: Business or foundation name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: play_title
+      label: Which play development are you supporting?
+      hint: Select the production
+      type: select_one
+      options:
+      - New Works Festival 2026
+      - Spring Play Development
+      - Summer New Play Lab
+      - Fall Play Development
+      - Winter Reading Series
+      - General Play Development Fund
+      - Where Most Needed
+      required: true
+    - id: 8
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount you wish to donate
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: donation_level
+      label: Donor Level
+      hint: Based on your donation amount
+      type: select_one
+      options:
+      - Supporter ($1-$49)
+      - Friend ($50-$99)
+      - Patron ($100-$249)
+      - Benefactor ($250-$499)
+      - Producer ($500-$999)
+      - Angel ($1,000-$4,999)
+      - Major Donor ($5,000+)
+      required: true
+    - id: 10
+      name: donation_frequency
+      label: Is this a one-time or recurring donation?
+      hint: Donation schedule
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Quarterly recurring
+      - Annual recurring
+      required: true
+    - id: 11
+      name: donation_purpose
+      label: What aspect of play development should your donation support?
+      hint: Specific area of interest
+      type: select_one
+      options:
+      - Script Development
+      - Playwright Stipends
+      - Director Support
+      - Actor Stipends
+      - Design and Production
+      - Workshop Performances
+      - Marketing and Outreach
+      - Where Most Needed
+      required: true
+    - id: 12
+      name: recognition_preference
+      label: How would you like to be recognized?
+      hint: Donor acknowledgment
+      type: select_multiple
+      options:
+      - Name in program
+      - Name on donor wall
+      - Name on website
+      - Social media acknowledgment
+      - Press release mention
+      - Invitation to donor events
+      - Prefer anonymous recognition
+      - No recognition needed
+      required: true
+    - id: 13
+      name: name_display
+      label: How should your name appear in recognition?
+      hint: Exactly as you want it displayed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Cash
+      - Stock Transfer
+      - Donor Advisised Fund
+      required: true
+    - id: 15
+      name: credit_card_type
+      label: Credit Card Type
+      hint: If paying by card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not applicable
+      required: false
+    - id: 16
+      name: billing_address
+      label: Billing Address
+      hint: If different from mailing address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tribute_donation
+      label: Is this donation in honor or memory of someone?
+      hint: Tribute giving
+      type: select_one
+      options:
+      - false
+      - In Honor Of
+      - In Memory Of
+      required: true
+    - id: 18
+      name: tribute_name
+      label: If yes, who is being honored or remembered?
+      hint: Name of honoree
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tribute_notification
+      label: Should we notify the honoree or family?
+      hint: Send acknowledgment card
+      type: select_one
+      options:
+      - false
+      - Yes, send card
+      - Yes, send email
+      required: false
+    - id: 20
+      name: tribute_contact
+      label: Tribute Contact Address
+      hint: Where to send notification
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employer_match
+      label: Does your employer offer matching gifts?
+      hint: Corporate matching
+      type: select_one
+      options:
+      - false
+      - Yes, I will submit
+      - Yes, need information
+      required: false
+    - id: 22
+      name: tax_receipt
+      label: How would you like to receive your tax receipt?
+      hint: Receipt delivery method
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Both
+      required: true
+    - id: 23
+      name: tax_id_number
+      label: Tax ID or EIN (for organizations)
+      hint: For tax documentation
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: newsletter_signup
+      label: Would you like to receive our theater newsletter?
+      hint: Updates on productions and events
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: true
+    - id: 25
+      name: volunteer_interest
+      label: Are you interested in volunteering?
+      hint: Beyond financial support
+      type: select_one
+      options:
+      - No, just donating
+      - Yes, please contact me
+      - Maybe, send me information
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Any additional comments or dedications?
+      hint: Special messages
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: donation_date
+      label: Donation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: terms_agreement
+      label: I agree to the terms and conditions of donation
+      hint: Acknowledgment of terms
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true

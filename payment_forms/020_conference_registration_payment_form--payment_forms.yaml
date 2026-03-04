@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Payment Form
+    pages:
+    - id: 1
+      name: payer_name
+      label: Payer Full Name
+      hint: Name of person making payment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registration_id
+      label: Registration ID
+      hint: If already registered
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_name
+      label: Attendee Name
+      hint: Who is attending
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_type
+      label: Payment Type
+      hint: What are you paying for
+      type: select_one
+      options:
+      - Full Conference Registration
+      - Partial Payment
+      - Workshop Only
+      - Event Add-On
+      - Group Registration
+      - Balance Due
+      required: true
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount to pay
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: currency
+      label: Currency
+      hint: Payment currency
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - AUD - Australian Dollar
+      - Other
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Wire Transfer
+      required: true
+    - id: 11
+      name: card_type
+      label: Card Type
+      hint: Select card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - JCB
+      - Diners Club
+      required: false
+    - id: 12
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: expiration_month
+      label: Expiration Month
+      hint: MM
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: expiration_year
+      label: Expiration Year
+      hint: YYYY
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: security_code
+      label: Security Code CVV
+      hint: 3 or 4 digit code
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: billing_address
+      label: Billing Address
+      hint: Card billing address
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_city
+      label: Billing City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_state
+      label: Billing State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_zip
+      label: Billing ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_country
+      label: Billing Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: false
+    - id: 22
+      name: payment_notes
+      label: Payment Notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: receipt_preference
+      label: Receipt Preference
+      hint: How to receive receipt
+      type: select_one
+      options:
+      - Email Receipt
+      - Mail Physical Receipt
+      - Both
+      required: true
+    - id: 24
+      name: authorization
+      label: I Authorize This Payment
+      hint: Confirm payment authorization
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true

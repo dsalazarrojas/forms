@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: ITIN Preparation Service Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tin_number
+      label: TIN Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_application
+      label: Reason for Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: primary_citizenship_status
+      label: Primary Citizenship Status
+      hint: null
+      type: select_one
+      options:
+      - US Citizen
+      - Non-Resident Alien
+      - US National
+      - Other
+      required: false
+    - id: 9
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      required: false
+    - id: 10
+      name: tin_application_type
+      label: TIN Application Type
+      hint: null
+      type: select_one
+      options:
+      - Form 486
+      - Form 5500
+      - Form W-8
+      - Other
+      required: false
+    - id: 11
+      name: tin_application_status
+      label: TIN Application Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Other
+      required: false
+    - id: 12
+      name: tin_status_update
+      label: TIN Status Update
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 13
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: select_multiple
+      options:
+      - Valid
+      - Invalid
+      required: false
+    - id: 14
+      name: tin_frozen
+      label: TIN Frozen
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: tin_suspended
+      label: TIN Suspended
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: tin_canceled
+      label: TIN Canceled
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: tin_amended
+      label: TIN Amended
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: tin_duplicate
+      label: TIN Duplicate
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: tin_voided
+      label: TIN Voided
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: tin_inactivated
+      label: TIN Inactivated
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: tax_year_end
+      label: Tax Year End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: tax_filing_status
+      label: Tax Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married Filing Joint
+      - Married Filing Separate
+      - Qualifying Widow(er)
+      required: false
+    - id: 23
+      name: address1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: address3
+      label: Address 3
+      hint: null
+      type: text
+      options: []
+      required: false

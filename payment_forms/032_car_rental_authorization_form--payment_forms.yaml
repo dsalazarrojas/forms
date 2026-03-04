@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Authorization Form
+    pages:
+    - id: 1
+      name: authorization_header
+      label: -- Rental Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renter_full_name_auth
+      label: Renter Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_email_auth
+      label: Email Address
+      hint: For authorization status updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: renter_phone_auth
+      label: Phone Number
+      hint: Primary contact for the authorization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_driver_license_auth
+      label: Driver's License Number
+      hint: (Valid state license)
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_details_header_auth
+      label: -- Vehicle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make_model_auth
+      label: Car Make and Model
+      hint: Describe the car you will be renting
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year_auth
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rental_pickup_date_auth
+      label: Pickup Date
+      hint: Select the day for pickup
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: rental_return_date_auth
+      label: Return Date
+      hint: Select the day for return
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: credit_card_info_header
+      label: -- Credit Card Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cardholder_name
+      label: Cardholder Full Name
+      hint: As it appears on the credit card
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: credit_card_type
+      label: Credit Card Type
+      hint: Select the type of credit card
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      required: true
+    - id: 14
+      name: credit_card_number_masked
+      label: Last 4 Digits of Credit Card Number
+      hint: For security purposes
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: credit_card_expiration_date
+      label: Credit Card Expiration Date (MM/YY)
+      hint: Select the expiration date
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: authorization_amount
+      label: Authorized Amount ($)
+      hint: Amount to be pre-authorized
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: authorization_verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: authorization_acknowledgement_rental
+      label: I acknowledge the car rental authorization terms and credit card charge
+        authorization
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: signature_confirmation_auth
+      label: Type your name for rental authorization confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_auth_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the authorization
+      type: text
+      options: []
+      required: false

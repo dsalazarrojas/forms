@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bulk Bag Order Request Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: When placing this order
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_zip
+      label: Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: Where to send order
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_city
+      label: Shipping City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_state
+      label: Shipping State
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shipping_zip
+      label: Shipping Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: bag_type
+      label: Bag Type
+      hint: What type of bags
+      type: select_one
+      options:
+      - Polypropylene
+      - Plastic
+      - Paper
+      - Kraft
+      - Laminated
+      - Custom
+      - Other
+      required: true
+    - id: 15
+      name: bag_size
+      label: Bag Size
+      hint: Dimensions or volume
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: bag_quantity
+      label: Quantity of Bags
+      hint: How many bags
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: unit_type
+      label: Unit Type
+      hint: Bags, pallets, boxes, etc
+      type: select_one
+      options:
+      - Individual Bags
+      - Cartons
+      - Pallets
+      - Skids
+      - Bulk Container
+      required: true
+    - id: 18
+      name: color
+      label: Bag Color
+      hint: Preferred color
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: imprinting
+      label: Bag Imprinting or Printing
+      hint: Do you need printing
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: printing_details
+      label: Printing Details
+      hint: Logo, text, design details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: unit_price
+      label: Unit Price per Bag
+      hint: Price estimate needed
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_estimate
+      label: Estimated Total Cost
+      hint: Approximate total
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: How to ship
+      type: select_one
+      options:
+      - Standard Delivery
+      - Expedited Delivery
+      - Next Day
+      - Will Pickup
+      - To Be Determined
+      required: true
+    - id: 25
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false

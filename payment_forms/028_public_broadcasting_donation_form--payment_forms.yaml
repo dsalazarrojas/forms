@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_broadcasting_donation_form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: supporter_name
+      label: Supporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Monthly''}'
+      - '{''option'': ''One-time''}'
+      required: false
+    - id: 8
+      name: preferred_medium
+      label: Preferred Medium
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Email''}'
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Mail''}'
+      required: false
+    - id: 9
+      name: message_to_admin
+      label: Message to Admin
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Send Now''}'
+      - '{''option'': ''Save for Later''}'
+      - '{''option'': "Don\\''t Send"}'
+      required: false
+    - id: 10
+      name: send_reminders
+      label: Send Reminders
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 11
+      name: send_thank_you_email
+      label: Send Thank You Email
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 12
+      name: send_donation_summary
+      label: Send Donation Summary
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 13
+      name: send_supporter_info
+      label: Send Supporter Info
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 14
+      name: supporter_info
+      label: Supporter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supporter_email
+      label: Supporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: supporter_phone
+      label: Supporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supporter_message
+      label: Supporter Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Bank Transfer''}'
+      - '{''option'': ''Credit Card''}'
+      - '{''option'': ''PayPal''}'
+      required: false
+    - id: 19
+      name: payment_method_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method_other_details
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporter_frequency
+      label: Supporter Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Monthly''}'
+      - '{''option'': ''One-time''}'
+      required: false
+    - id: 22
+      name: supporter_preferred_medium
+      label: Supporter Preferred Medium
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Email''}'
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Mail''}'
+      required: false
+    - id: 23
+      name: admin_message
+      label: Admin Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: bank_transfer_info
+      label: Bank Transfer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supporter_frequency_info
+      label: Supporter Frequency Info
+      hint: null
+      type: text
+      options: []
+      required: false

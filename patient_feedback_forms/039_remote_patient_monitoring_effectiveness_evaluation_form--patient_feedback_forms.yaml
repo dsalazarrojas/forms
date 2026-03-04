@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Patient Monitoring Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: patient_feedback_form
+      label: Patient Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: remote_monitoring_impact
+      label: Remote Monitoring Impact
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 3
+      name: patient_outcomes
+      label: Patient Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider_feedback
+      label: Healthcare Provider Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_monitors
+      label: Patient Monitors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: remote_monitoring_outcomes
+      label: Remote Monitoring Outcomes
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false

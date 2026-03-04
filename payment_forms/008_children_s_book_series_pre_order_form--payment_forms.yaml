@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Book Series Pre Order Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Name of person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Buyer Email
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: book_title
+      label: Book Title
+      hint: Select title to pre-order
+      type: select_one
+      options:
+      - The Little Explorer
+      - Night Sky Adventures
+      - Forest Friends
+      - Ocean Tales
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: Number of copies to pre-order
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gift_option
+      label: Gift Option
+      hint: Select if this is a gift
+      type: select_one
+      options:
+      - false
+      - Yes include gift wrap
+      - Yes do not include price
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment option
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: Delivery notes or personalized message
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agree_terms
+      label: Agree to Terms and Conditions
+      hint: Confirmation of pre-order policy
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Automation Chipset Order Form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: chipset_selection
+      label: Chipset Selection
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Microchip''}'
+      - '{2: ''Powerchip''}'
+      - '{3: ''High-Performance Chipset''}'
+      - '{4: ''Low-Power Chipset''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: chipset_quantity
+      label: Chipset Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

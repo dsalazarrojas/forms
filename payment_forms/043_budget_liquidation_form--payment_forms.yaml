@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Liquidation Form
+    pages:
+    - id: 1
+      name: borrower_name
+      label: Borrower Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: borrower_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: borrower_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: loan_number
+      label: Loan Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: loan_amount
+      label: Original Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: outstanding_balance
+      label: Outstanding Loan Balance
+      hint: Current amount owed
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: liquidation_purpose
+      label: Purpose of Liquidation
+      hint: Why are assets being liquidated
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_type
+      label: Type of Asset Being Liquidated
+      hint: null
+      type: select_multiple
+      options:
+      - Real Estate
+      - Investments
+      - Business Assets
+      - Personal Property
+      - Vehicles
+      - Equipment
+      - Other
+      required: true
+    - id: 10
+      name: asset_description
+      label: Asset Description
+      hint: Detailed description of assets
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: asset_value_estimated
+      label: Estimated Total Asset Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: liquidation_timeline
+      label: Proposed Liquidation Timeline
+      hint: When will assets be sold
+      type: select_one
+      options:
+      - Immediately
+      - Within 30 days
+      - Within 90 days
+      - Within 6 months
+      - Within 1 year
+      required: true
+    - id: 13
+      name: expected_proceeds
+      label: Expected Proceeds from Liquidation
+      hint: How much you expect to receive
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_plan
+      label: Proposed Payment Plan
+      hint: How will funds be applied to loan
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: intermediary_company
+      label: Sale Through Intermediary or Broker
+      hint: Any third party involved
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: broker_commission
+      label: Estimated Broker or Intermediary Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: appraisal_completed
+      label: Professional Appraisal Completed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 18
+      name: financial_hardship
+      label: Financial Hardship Claim
+      hint: Is this due to financial hardship
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

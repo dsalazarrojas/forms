@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Diaper Delivery Order Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_delivery_info
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_zip
+      label: State and ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone_at_delivery
+      label: Phone Number at Delivery Address
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_delivery_day
+      label: Preferred Delivery Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 11
+      name: preferred_delivery_time
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Anytime
+      required: false
+    - id: 12
+      name: section_diaper_details
+      label: -- Diaper Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: diaper_brand
+      label: Preferred Diaper Brand
+      hint: null
+      type: select_one
+      options:
+      - Pampers
+      - Huggies
+      - Luvs
+      - Seventh Generation
+      - Other
+      - No preference
+      required: false
+    - id: 14
+      name: diaper_size
+      label: Diaper Size Needed
+      hint: null
+      type: select_one
+      options:
+      - Newborn
+      - Size 1
+      - Size 2
+      - Size 3
+      - Size 4
+      - Size 5
+      - Size 6
+      required: true
+    - id: 15
+      name: diaper_type
+      label: Diaper Type
+      hint: null
+      type: select_one
+      options:
+      - Disposable
+      - Eco-friendly
+      - Overnight
+      - Pull-ups
+      - Mixed
+      required: false
+    - id: 16
+      name: quantity_packages
+      label: Number of Packages
+      hint: How many packages to deliver?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: quantity_per_package
+      label: Count per Package
+      hint: Diapers per pack
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_pricing
+      label: -- Pricing and Checkout --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: unit_price
+      label: Unit Price per Package
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: subtotal
+      label: Subtotal
+      hint: Calculated total
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: delivery_fee
+      label: Delivery Fee
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_amount
+      label: Total Amount Due
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: recurring_order
+      label: Is This a Recurring Order?
+      hint: Do you want regular deliveries?
+      type: select_one
+      options:
+      - Yes, weekly
+      - Yes, bi-weekly
+      - Yes, monthly
+      - No, one-time order
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash on Delivery
+      required: true
+    - id: 25
+      name: special_instructions
+      label: Special Instructions
+      hint: Placement instructions, entry details, etc.
+      type: text
+      options: []
+      required: false

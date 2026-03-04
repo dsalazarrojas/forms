@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthy prophets form with paysafe
+    pages:
+    - id: 1
+      name: order_form
+      label: healthy-juice-order-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: customer-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: order_type
+      label: order-type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: resources
+      label: resources
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: order-time
+      hint: null
+      type: time
+      options: []
+      required: false

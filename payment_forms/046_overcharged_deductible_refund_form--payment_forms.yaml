@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overcharged Deductible Refund Form
+    pages:
+    - id: 1
+      name: overcharged_deductible_refund_form
+      label: Overcharged Deductible Refund Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_claim
+      label: Date of Claim
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amount_overcharged
+      label: Amount Overcharged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: amount_refund
+      label: Amount Refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Provider A
+      - Provider B
+      - Provider C
+      required: false
+    - id: 10
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

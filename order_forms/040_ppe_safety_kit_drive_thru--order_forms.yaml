@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: PPE Safety Kit Drive Thru
+    pages:
+    - id: 1
+      name: ppe_safety_kit_drive_thru
+      label: PPE Safety Kit Drive Thru
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Order Forms''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Please provide a description of the PPE Safety Kit
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''chatjim''}'
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: ppe_kits
+      label: PPE Kits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ppe_kits_ordered
+      label: PPE Kits Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorize.Net Product Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Where to send order
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Shipping city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: Shipping state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: ZIP or Postal Code
+      hint: Shipping postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Shipping country
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_name
+      label: Product Name
+      hint: What product are you ordering
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: product_sku
+      label: Product SKU or Code
+      hint: Product identification number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: How many units
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: unit_price
+      label: Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: product_size
+      label: Product Size (if applicable)
+      hint: Size or variation
+      type: select_one
+      options:
+      - Extra Small
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - One Size
+      - N/A
+      required: false
+    - id: 16
+      name: product_color
+      label: Product Color (if applicable)
+      hint: Color choice
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customization_options
+      label: Customization or Special Options
+      hint: Any custom requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: subtotal
+      label: Subtotal
+      hint: Product cost before taxes
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: tax_amount
+      label: Tax Amount
+      hint: Applicable sales tax
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: shipping_method
+      label: Shipping Method
+      hint: How should order be shipped
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - Local Pickup
+      - International Shipping
+      required: true
+    - id: 21
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Cost of shipping
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: discount_code
+      label: Discount or Coupon Code
+      hint: If you have a code
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: discount_amount
+      label: Discount Amount
+      hint: Amount of discount applied
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_amount
+      label: Total Order Amount
+      hint: Final total to be charged
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card - Visa
+      - Credit Card - Mastercard
+      - Credit Card - Amex
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true

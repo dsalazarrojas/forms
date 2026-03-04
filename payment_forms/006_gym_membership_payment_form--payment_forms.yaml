@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Payment Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: plan_duration
+      label: Plan Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_terms_other
+      label: Other Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: membership_id
+      label: Membership ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method_id
+      label: Payment Method ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method_type
+      label: Payment Method Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_terms_other_description
+      label: Other Payment Terms Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms_other_frequency
+      label: Other Payment Terms Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms_other_amount
+      label: Other Payment Terms Amount
+      hint: null
+      type: number
+      options: []
+      required: false

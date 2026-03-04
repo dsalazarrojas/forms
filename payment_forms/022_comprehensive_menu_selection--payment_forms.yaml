@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comprehensive Menu Selection
+    pages:
+    - id: 1
+      name: order_id
+      label: Order ID
+      hint: Unique order identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dining_option
+      label: Dining Option
+      hint: How will you dine
+      type: select_one
+      options:
+      - Dine In
+      - Takeout
+      - Delivery
+      - Catering Event
+      required: true
+    - id: 7
+      name: party_size
+      label: Party Size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reservation_date
+      label: Reservation Date
+      hint: Date for reservation or pickup
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reservation_time
+      label: Reservation Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: table_preference
+      label: Table Preference
+      hint: Seating preference
+      type: select_one
+      options:
+      - No Preference
+      - Window Seating
+      - Outdoor Patio
+      - Private Room
+      - Bar Seating
+      - Quiet Area
+      - Not Applicable
+      required: false
+    - id: 11
+      name: appetizer_selection
+      label: Appetizer Selection
+      hint: Choose your appetizer
+      type: select_multiple
+      options:
+      - Caesar Salad
+      - Bruschetta
+      - Calamari
+      - Soup of the Day
+      - Shrimp Cocktail
+      - Cheese Plate
+      - None
+      required: false
+    - id: 12
+      name: main_course_selection
+      label: Main Course Selection
+      hint: Choose your main course
+      type: select_one
+      options:
+      - Grilled Salmon
+      - Ribeye Steak
+      - Chicken Parmesan
+      - Vegetarian Pasta
+      - Seafood Platter
+      - Lamb Chops
+      - Duck Confit
+      - Mushroom Risotto
+      - Chef Special
+      required: true
+    - id: 13
+      name: cooking_temperature
+      label: Cooking Temperature
+      hint: How would you like your meat cooked
+      type: select_one
+      options:
+      - Not Applicable
+      - Rare
+      - Medium Rare
+      - Medium
+      - Medium Well
+      - Well Done
+      required: false
+    - id: 14
+      name: side_dish_selection
+      label: Side Dish Selection
+      hint: Choose your side dish
+      type: select_one
+      options:
+      - Mashed Potatoes
+      - Roasted Vegetables
+      - French Fries
+      - Rice Pilaf
+      - Steamed Broccoli
+      - Garden Salad
+      - Coleslaw
+      required: true
+    - id: 15
+      name: dessert_selection
+      label: Dessert Selection
+      hint: Choose your dessert
+      type: select_one
+      options:
+      - Tiramisu
+      - Chocolate Cake
+      - Cheesecake
+      - Ice Cream
+      - Fruit Tart
+      - Creme Brulee
+      - No Dessert
+      required: false
+    - id: 16
+      name: beverage_selection
+      label: Beverage Selection
+      hint: Choose your beverage
+      type: select_multiple
+      options:
+      - Water
+      - Soft Drink
+      - Fresh Juice
+      - Coffee
+      - Tea
+      - Wine
+      - Beer
+      - Cocktail
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select any dietary restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Kosher
+      - Halal
+      - Low Sodium
+      required: true
+    - id: 18
+      name: allergy_information
+      label: Allergy Information
+      hint: Please list any food allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests for your meal
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sauce_preferences
+      label: Sauce Preferences
+      hint: Sauce on side or specific requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: occasion
+      label: Occasion
+      hint: What is the occasion
+      type: select_one
+      options:
+      - Regular Dining
+      - Birthday Celebration
+      - Anniversary
+      - Business Dinner
+      - Date Night
+      - Family Gathering
+      - Other
+      required: false
+    - id: 22
+      name: promotional_code
+      label: Promotional Code
+      hint: Enter promo code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Gift Card
+      - Mobile Payment
+      required: true
+    - id: 24
+      name: tip_percentage
+      label: Tip Percentage
+      hint: Select tip amount
+      type: select_one
+      options:
+      - 15 Percent
+      - 18 Percent
+      - 20 Percent
+      - 22 Percent
+      - Custom Amount
+      required: false
+    - id: 25
+      name: total_amount
+      label: Total Amount
+      hint: Total order amount
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: order_status
+      label: Order Status
+      hint: Current order status
+      type: select_one
+      options:
+      - Received
+      - Confirming
+      - Preparing
+      - Ready
+      - Served
+      - Completed
+      required: true

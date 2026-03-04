@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_registration_form_name
+      label: patient_registration_form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_registration_form_dob
+      label: patient_registration_form_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: patient_registration_form_gender
+      label: patient_registration_form_gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_registration_form_race
+      label: patient_registration_form_race
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_registration_form_tribe
+      label: patient_registration_form_tribe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_registration_form_phone
+      label: patient_registration_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_registration_form_email
+      label: patient_registration_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_registration_form_address
+      label: patient_registration_form_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_registration_form_city
+      label: patient_registration_form_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_registration_form_state
+      label: patient_registration_form_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_registration_form_postal_code
+      label: patient_registration_form_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_registration_form_country
+      label: patient_registration_form_country
+      hint: null
+      type: text
+      options: []
+      required: false

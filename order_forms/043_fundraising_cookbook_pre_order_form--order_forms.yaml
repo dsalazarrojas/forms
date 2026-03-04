@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Cookbook Pre Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: Enter supporter email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter supporter phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_type
+      label: Order type
+      hint: null
+      type: select_one
+      options:
+      - Book
+      - Cookbook
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Enter the quantity
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: price
+      label: Price
+      hint: Enter the price
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Pay with credit card
+      - Pay with PayPal
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order date
+      hint: Order date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: order_time
+      label: Order time
+      hint: Order time
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: shipping_address
+      label: Shipping address
+      hint: Enter shipping address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: Enter city
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: Enter state
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: Zip
+      hint: Enter zip
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: Country
+      hint: Enter country
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: supporter_email
+      label: Supporter email
+      hint: Supporter email
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: supporter_phone
+      label: Supporter phone
+      hint: Supporter phone
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporter_address
+      label: Supporter address
+      hint: Supporter address
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supporter_city
+      label: Supporter city
+      hint: Supporter city
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supporter_state
+      label: Supporter state
+      hint: Supporter state
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supporter_zip
+      label: Supporter zip
+      hint: Supporter zip
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supporter_country
+      label: Supporter country
+      hint: Supporter country
+      type: text
+      options: []
+      required: true

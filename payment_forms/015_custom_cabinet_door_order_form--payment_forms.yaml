@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Cabinet Door Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: style_and_sizing
+      label: Style and Sizing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: confirm_order
+      label: Confirm Order
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Confirm''}'
+      - '{''value'': ''Cancel''}'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pickup''}'
+      - '{''value'': ''Delivery''}'
+      - '{''value'': ''Shipping''}'
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online Payment''}'
+      - '{''value'': ''Offline Payment''}'
+      required: false
+    - id: 11
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: style
+      label: Style
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Style 1''}'
+      - '{''value'': ''Style 2''}'
+      - '{''value'': ''Style 3''}'
+      required: false
+    - id: 14
+      name: sizing
+      label: Sizing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Size 1''}'
+      - '{''value'': ''Size 2''}'
+      - '{''value'': ''Size 3''}'
+      required: false

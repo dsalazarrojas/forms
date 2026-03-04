@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Online Order Form
+    pages:
+    - id: 1
+      name: meal_type
+      label: meal_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: diet_type
+      label: dietary_restrictions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: temperature
+      label: temperature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment
+      label: payment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: delivery
+      label: delivery_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_online
+      label: order_online
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Detailing Payment Form
+    pages:
+    - id: 1
+      name: service_summary_header
+      label: -- Service and Payment Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For receipt delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_rendered
+      label: Service Rendered
+      hint: Select the detailing package completed
+      type: select_one
+      options:
+      - Basic Exterior Wash
+      - Full Interior Detail
+      - Standard Full Detail
+      - Premium Full Detail
+      - Ceramic Coating
+      - Other Special Service
+      required: true
+    - id: 6
+      name: vehicle_details_payment
+      label: Vehicle (Make/Model/Year)
+      hint: Briefly describe the vehicle serviced
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_date
+      label: Date of Payment
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_amount_due
+      label: Total Amount Due ($)
+      hint: Final amount after any discounts or extras
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method_detailing
+      label: Preferred Payment Method
+      hint: How are you paying today?
+      type: select_one
+      options:
+      - Credit Card (Online)
+      - Debit Card (Online)
+      - PayPal
+      - Cash (In-Person)
+      - Check (In-Person)
+      required: true
+    - id: 10
+      name: transaction_id
+      label: Transaction ID / Reference Number
+      hint: Provided after successful payment
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: promo_code_applied
+      label: Promotional Code
+      hint: Enter code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_detailing_header
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_rating
+      label: Rate the Quality of Service
+      hint: Scale of 1 to 5 (5 being Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_permission
+      label: May we contact you for future promotions?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: true
+    - id: 15
+      name: payment_acknowledgement
+      label: I acknowledge that this payment is non-refundable
+      hint: See terms of service
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: digital_signature_payment
+      label: Digital Signature
+      hint: Type your full name to confirm payment
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_payment_notes
+      label: Any additional notes or requests?
+      hint: null
+      type: text
+      options: []
+      required: false

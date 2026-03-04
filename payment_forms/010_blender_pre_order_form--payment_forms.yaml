@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blender Pre Order Form
+    pages:
+    - id: 1
+      name: preorder_intro
+      label: -- Blender Pre-Order --
+      hint: Secure your blender before general release
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: blender_model
+      label: Blender Model
+      hint: null
+      type: select_one
+      options:
+      - Professional Pro 3000
+      - Home Chef 2000
+      - Smoothie Master 1500
+      - Compact Blend 800
+      required: true
+    - id: 12
+      name: blender_color
+      label: Preferred Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Stainless Steel
+      - Red
+      - Blue
+      required: true
+    - id: 13
+      name: quantity
+      label: Number of Units
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: accessories
+      label: Optional Accessories
+      hint: null
+      type: select_multiple
+      options:
+      - Extra container
+      - Recipe book
+      - Travel mug kit
+      - Cleaning brush set
+      - Extended warranty
+      required: false
+    - id: 15
+      name: unit_price
+      label: Price Per Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_amount
+      label: Total Pre-Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: deposit_amount
+      label: Deposit Amount Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: expected_delivery
+      label: Expected Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Apple Pay
+      required: true
+    - id: 20
+      name: terms_accepted
+      label: I accept the pre-order terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: preorder_date
+      label: Pre-Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

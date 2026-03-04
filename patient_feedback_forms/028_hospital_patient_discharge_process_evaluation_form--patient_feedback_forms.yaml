@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Patient Discharge Process Evaluation Form
+    pages:
+    - id: 1
+      name: patient_discharge_process_evaluation
+      label: Patient Discharge Process Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 3
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: nurse_discharge_summary
+      label: Nurse Discharge Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discharge_process
+      label: Discharge Process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: discharge_summary
+      label: Discharge Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_staff
+      label: Assigned Staff
+      hint: Name of the healthcare provider that assigned the form
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: unit
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_staff_name
+      label: Assigned Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_height
+      label: Patient Height
+      hint: null
+      type: text
+      options: []
+      required: false

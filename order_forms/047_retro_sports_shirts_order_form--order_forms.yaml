@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retro Sports Shirts Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bank Transfer''}'
+      - '{''id'': 2, ''label'': ''Credit Card''}'
+      - '{''id'': 3, ''label'': ''PayPal''}'
+      required: false
+    - id: 4
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      - '{''id'': 4, ''label'': ''X-Large''}'
+      required: false
+    - id: 5
+      name: color_choice
+      label: Color Choice
+      hint: Select a color
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Blue''}'
+      - '{''id'': 2, ''label'': ''Green''}'
+      - '{''id'': 3, ''label'': ''Red''}'
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

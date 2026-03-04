@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: order_history_review_form
+    pages:
+    - id: 1
+      name: order_history_review_form_page
+      label: review_order_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: order_amount
+      label: order_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_status
+      label: order_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_score
+      label: feedback_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_comment
+      label: feedback_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

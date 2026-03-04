@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Single Plane Engine Intake Order Form
+    pages:
+    - id: 1
+      name: plane_type
+      label: Plane Type
+      hint: null
+      type: select_one
+      options:
+      - Aircraft 1
+      - Aircraft 2
+      - Aircraft 3
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: engine_number
+      label: Engine Number
+      hint: null
+      type: select_multiple
+      options:
+      - Engine 1
+      - Engine 2
+      - Engine 3
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false

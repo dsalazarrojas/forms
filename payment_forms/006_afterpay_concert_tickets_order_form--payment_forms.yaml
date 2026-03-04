@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Concert Tickets Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your full name as it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Enter your email for ticket confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Enter your phone number for important updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: concert_details_header
+      label: -- Concert Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: artist_band_name
+      label: Artist or Band Name
+      hint: Enter the name of the performing artist or band
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: concert_date
+      label: Concert Date
+      hint: Select the date of the concert
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: concert_time
+      label: Concert Time
+      hint: What time does the concert start?
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: venue_name
+      label: Venue Name
+      hint: Enter the name of the concert venue
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: venue_address
+      label: Venue Address
+      hint: Enter the complete address of the venue
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ticket_details_header
+      label: -- Ticket Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ticket_type
+      label: Ticket Type
+      hint: Select the type of ticket you want to purchase
+      type: select_one
+      options:
+      - General Admission
+      - VIP
+      - Premium Seating
+      - Balcony
+      - Floor Seating
+      - Box Seats
+      required: true
+    - id: 12
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: How many tickets would you like to purchase?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: seating_preferences
+      label: Seating Preferences
+      hint: Do you have any seating preferences?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_needs_accommodations
+      label: Special Needs Accommodations
+      hint: Do you require any special accommodations?
+      type: select_multiple
+      options:
+      - Wheelchair Accessible
+      - Hearing Assistance
+      - Visual Assistance
+      - Companion Seat
+      - None
+      required: false
+    - id: 15
+      name: delivery_method
+      label: Delivery Method
+      hint: How would you like to receive your tickets?
+      type: select_one
+      options:
+      - Digital (Email)
+      - Mobile App
+      - Will Call
+      - Mail
+      - Pick Up at Venue
+      required: true
+    - id: 16
+      name: delivery_address
+      label: Delivery Address
+      hint: If mailing tickets, enter the complete address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: Select Afterpay as your payment method
+      type: select_one
+      options:
+      - Afterpay (Buy Now, Pay Later)
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 18
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to the event terms and Afterpay conditions?
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 years or older?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

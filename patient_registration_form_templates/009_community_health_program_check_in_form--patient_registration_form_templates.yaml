@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Program Check In Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: health_concern
+      label: Primary Health Concern for Today Visit
+      hint: Briefly describe why you are checking in
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_medications
+      label: Current Medications
+      hint: List all prescriptions and over-the-counter meds
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Known Allergies
+      hint: Food, medication, or environmental
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pain_scale
+      label: Current Pain Level
+      hint: 0 - No Pain, 10 - Extreme Pain
+      type: select_one
+      options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 7
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you for follow-up?
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - SMS Text
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consent_to_treatment
+      label: I consent to receive health services today
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - Other
+      required: true

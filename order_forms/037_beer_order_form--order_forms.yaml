@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beer Order Form
+    pages:
+    - id: 1
+      name: section_age_verification
+      label: -- Age Verification --
+      hint: You must be of legal drinking age to order
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: birth_date_verification
+      label: Your Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_customer_info
+      label: -- Customer and Delivery Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: customer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_product_selection
+      label: -- Beer Selection --
+      hint: Select your favorite brews
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pilsner_qty_6pack
+      label: Classic Pilsner - 6 Pack (Quantity)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: ipa_qty_6pack
+      label: West Coast IPA - 6 Pack (Quantity)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: stout_qty_6pack
+      label: Oatmeal Stout - 6 Pack (Quantity)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: wheat_beer_qty_6pack
+      label: Hefeweizen - 6 Pack (Quantity)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: mixed_case_qty
+      label: Brewer's Choice Mixed Case - 24 Bottles (Quantity)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: growler_fill_option
+      label: Would you like to add a 64oz Growler Fill?
+      hint: Select style if yes
+      type: select_one
+      options:
+      - false
+      - Yes - Pilsner
+      - Yes - IPA
+      - Yes - Seasonal Tap
+      required: true
+    - id: 15
+      name: section_payment_checkout
+      label: -- Payment and Checkout --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_payment_gateway
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Google Pay
+      - In-Store Pickup (Pay at Counter)
+      required: true
+    - id: 17
+      name: delivery_instructions_beer
+      label: Special Delivery Instructions
+      hint: e.g. Side door, Leave with neighbor (must be 21+)
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_consent_statement
+      label: I understand that a valid ID must be presented upon delivery
+      hint: null
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 19
+      name: order_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Presentation Plate Order Form
+    pages:
+    - id: 1
+      name: order_preferences
+      label: Order preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: food_items
+      label: Food items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantities
+      label: Quantities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_name
+      label: Client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name_hint
+      label: Client name hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

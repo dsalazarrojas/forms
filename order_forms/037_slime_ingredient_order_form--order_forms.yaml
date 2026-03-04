@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Slime Ingredient Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1''}'
+      - '{''id'': 2, ''name'': ''option2''}'
+      - '{''id'': 3, ''name'': ''option3''}'
+      required: true
+    - id: 6
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''option1''}'
+      - '{''id'': 2, ''name'': ''option2''}'
+      - '{''id'': 3, ''name'': ''option3''}'
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1''}'
+      - '{''id'': 2, ''name'': ''option2''}'
+      - '{''id'': 3, ''name'': ''option3''}'
+      required: false
+    - id: 11
+      name: order_submitted
+      label: Order Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      required: true
+    - id: 12
+      name: shipping_status
+      label: Shipping Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''status1''}'
+      - '{''id'': 2, ''name'': ''status2''}'
+      - '{''id'': 3, ''name'': ''status3''}'
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1''}'
+      - '{''id'': 2, ''name'': ''option2''}'
+      - '{''id'': 3, ''name'': ''option3''}'
+      required: true
+    - id: 14
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: shipping_id
+      label: Shipping ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1''}'
+      - '{''id'': 2, ''name'': ''option2''}'
+      required: true
+    - id: 22
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_method_details
+      label: Shipping Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1''}'
+      - '{''id'': 2, ''name'': ''option2''}'
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

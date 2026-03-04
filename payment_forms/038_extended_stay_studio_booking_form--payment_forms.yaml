@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extended Stay Studio Booking Form
+    pages:
+    - id: 1
+      name: reservation_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triple
+      required: true
+    - id: 2
+      name: room_type
+      label: Room
+      hint: null
+      type: select_multiple
+      options:
+      - Studio
+      - Studio 2
+      - Studio 3
+      - Studio 4
+      required: true
+    - id: 3
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Credit Card
+      required: true
+    - id: 11
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true

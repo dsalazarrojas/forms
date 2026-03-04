@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Create Taxi Receipts
+    pages:
+    - id: 1
+      name: pickup_location
+      label: pickup location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dropoff_location
+      label: dropoff location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: driver_info
+      label: driver info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_license
+      label: driver license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: driver_license_number
+      label: driver license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: receipt_number
+      label: receipt number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: passenger_name
+      label: passenger name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: passenger_address
+      label: passenger address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: passenger_phone
+      label: passenger phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: passenger_email
+      label: passenger email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - credit card
+      - debit card
+      required: false
+    - id: 14
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false

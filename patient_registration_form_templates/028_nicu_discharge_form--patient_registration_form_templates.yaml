@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: NICU Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: infant_name
+      label: Infant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birth_weight
+      label: Birth Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feeding_instructions
+      label: Feeding Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: discharge_caregiver
+      label: Discharge Caregiver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

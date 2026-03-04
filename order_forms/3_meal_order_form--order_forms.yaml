@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3 Meal Order Form
+    pages:
+    - id: 1
+      name: section_header_order
+      label: "--- Order Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Contact phone
+      hint: Include area code
+      type: phone
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Contact email
+      hint: For order confirmation (optional)
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery address
+      hint: Street, city, ZIP/postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_date
+      label: Delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_time
+      label: Preferred delivery time
+      hint: "e.g., 12:30"
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: breakfast_choice
+      label: Breakfast selection
+      hint: Choose one breakfast per order slot
+      type: select_one
+      options:
+        - Continental (pastry, fruit)
+        - Full English
+        - Vegan Bowl
+        - Pancake Stack
+      required: true
+    - id: 9
+      name: breakfast_quantity
+      label: Breakfast quantity
+      hint: Number of portions
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: lunch_choice
+      label: Lunch selection
+      hint: Choose one
+      type: select_one
+      options:
+        - Grilled Chicken Plate
+        - Veggie Wrap
+        - Pasta Primavera
+        - Sushi Box
+      required: true
+    - id: 11
+      name: lunch_quantity
+      label: Lunch quantity
+      hint: Number of portions
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: dinner_choice
+      label: Dinner selection
+      hint: Choose one
+      type: select_one
+      options:
+        - Salmon Fillet
+        - Steak & Vegetables
+        - Buddha Bowl
+        - Tofu Stir-fry
+      required: true
+    - id: 13
+      name: dinner_quantity
+      label: Dinner quantity
+      hint: Number of portions
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: add_ons
+      label: Optional add-ons (select all that apply)
+      hint: Small extras for the order
+      type: select_multiple
+      options:
+        - Extra sauce
+        - Side salad
+        - Fruit cup
+        - Dessert
+        - Extra protein
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special instructions or dietary requirements
+      hint: e.g., allergies, no nuts, gluten-free
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_total
+      label: Order total
+      hint: Total price (e.g., 29.99)
+      type: decimal
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment method
+      hint: Select how you will pay
+      type: select_one
+      options:
+        - Cash on delivery
+        - Card on delivery
+        - Online payment (link)
+      required: true

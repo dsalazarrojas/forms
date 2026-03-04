@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Platform Integration Order Form
+    pages:
+    - id: 1
+      name: integration_request
+      label: Integration Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: platform_name
+      label: Platform Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Shopify''}'
+      - '{''id'': ''2'', ''label'': ''Woocommerce''}'
+      - '{''id'': ''3'', ''label'': ''BigCommerce''}'
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: integration_method
+      label: Integration Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': ''API''}'
+      - '{''id'': ''2'', ''label'': ''API''}'
+      - '{''id'': ''3'', ''label'': ''API''}'
+      required: true
+    - id: 6
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: api_credentials
+      label: API Credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_url
+      label: Store URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: integration_type
+      label: Integration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Full Integration''}'
+      - '{''id'': ''2'', ''label'': ''Partial Integration''}'
+      - '{''id'': ''3'', ''label'': ''Full Integration''}'
+      required: true
+    - id: 12
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': ''New''}'
+      - '{''id'': ''2'', ''label'': ''Pending''}'
+      - '{''id'': ''3'', ''label'': ''Cancelled''}'
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Card''}'
+      - '{''id'': ''2'', ''label'': ''PayPal''}'
+      - '{''id'': ''3'', ''label'': ''Bank''}'
+      required: true
+    - id: 14
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: store_language
+      label: Store Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''English''}'
+      - '{''id'': ''2'', ''label'': ''Spanish''}'
+      - '{''id'': ''3'', ''label'': ''French''}'
+      required: true
+    - id: 16
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: store_id
+      label: Store ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: api_version
+      label: API Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: api_credentials
+      label: API Credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: store_url
+      label: Store URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''New''}'
+      - '{''id'': ''2'', ''label'': ''Pending''}'
+      - '{''id'': ''3'', ''label'': ''Cancelled''}'
+      required: true
+    - id: 24
+      name: integration_type
+      label: Integration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Full Integration''}'
+      - '{''id'': ''2'', ''label'': ''Partial Integration''}'
+      - '{''id'': ''3'', ''label'': ''Full Integration''}'
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Card''}'
+      - '{''id'': ''2'', ''label'': ''PayPal''}'
+      - '{''id'': ''3'', ''label'': ''Bank''}'
+      required: true

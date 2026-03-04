@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crawfish Preorder Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_items
+      label: order_items
+      hint: Please select order items from the list below.
+      type: select_multiple
+      options:
+      - crawfish_small
+      - crawfish_medium
+      - crawfish_large
+      - crawfish_extra_large
+      required: false
+    - id: 5
+      name: shipping_date
+      label: shipping_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shipping_time
+      label: shipping_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_quantity
+      label: order_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_price
+      label: order_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: Please select a payment method.
+      type: select_one
+      options:
+      - bank_transfer
+      - credit_card
+      - cash
+      required: false
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_note
+      label: vendor_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vendor_message
+      label: vendor_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - confirmed
+      - cancelled
+      required: false

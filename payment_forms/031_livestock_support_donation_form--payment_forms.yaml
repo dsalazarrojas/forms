@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: livestock_support_donation_form
+    pages:
+    - id: 1
+      name: donatenow
+      label: Don't Have a Donkey?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: amount_donate
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: name_donor
+      label: Name of Donor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

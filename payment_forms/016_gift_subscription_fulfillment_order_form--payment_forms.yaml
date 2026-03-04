@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Subscription Fulfillment Order Form
+    pages:
+    - id: 1
+      name: gift_subscription_fulfillment_form
+      label: Gift Subscription Fulfillment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_subscriber_name
+      label: Gift Subscriber Name
+      hint: Enter the name of the gift subscriber
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gift_subscription_name
+      label: Gift Subscription Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: fulfillment_date
+      label: Fulfillment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      - '{''label'': ''Check'', ''value'': ''check''}'
+      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      required: true
+    - id: 8
+      name: order_status
+      label: Order Status
+      hint: Select order status
+      type: select_one
+      options:
+      - '{''label'': ''Unfulfilled'', ''value'': ''unfilled''}'
+      - '{''label'': ''Fulfillment Complete'', ''value'': ''fulfilled''}'
+      - '{''label'': ''Canceled'', ''value'': ''canceled''}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

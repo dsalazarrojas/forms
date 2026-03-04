@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: vaccination_status_and_verification_form
+    pages:
+    - id: 1
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: verification_records
+      label: Verification Records
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: verification_time
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: verification_method
+      label: Verification Method
+      hint: Please select verification method from the list.
+      type: select_one
+      options:
+      - Immunization Record
+      - Birth Certificate
+      - Medical Records
+      - Other
+      required: false
+    - id: 7
+      name: verification_provider
+      label: Verification Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_file
+      label: Uploaded File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: uploaded_file_name
+      label: File Name
+      hint: File name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_file_size
+      label: File Size
+      hint: File size
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: uploaded_file_type
+      label: File Type
+      hint: File type
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: uploaded_file_date
+      label: File Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: uploaded_file_description
+      label: File Description
+      hint: File description
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: uploaded_file_tags
+      label: File Tags
+      hint: File tags
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: uploaded_file_mimetype
+      label: File Mimetype
+      hint: File mimetype
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: uploaded_file_location
+      label: File Location
+      hint: File location
+      type: text
+      options: []
+      required: false

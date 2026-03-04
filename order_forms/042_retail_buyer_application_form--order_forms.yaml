@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Buyer Application Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Retail Buyer Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buyer_email
+      label: Buyer Email
+      hint: Buyer's email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_multiple
+      options:
+      - In-store pickup
+      - Delivery
+      - Mail
+      required: false
+    - id: 6
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_address
+      label: Store Address
+      hint: Store's address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 9
+      name: order_comments
+      label: Order Comments
+      hint: Any special order comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

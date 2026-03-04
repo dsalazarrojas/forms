@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Palette Pre Order Form
+    pages:
+    - id: 1
+      name: palette_pre_order_form
+      label: Palette Pre-Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: palette_type
+      label: Palette Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: palette_image
+      label: Palette Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: palette_name
+      label: Palette Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: palette_description
+      label: Palette Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: palette_pre_order_date
+      label: Pre-Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: palette_pre_order_time
+      label: Pre-Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: palette_pre_order_notes
+      label: Pre-Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: palette_pre_order_comments
+      label: Pre-Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: palette_pre_order_address
+      label: Pre-Order Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: palette_pre_order_city
+      label: Pre-Order City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: palette_pre_order_state
+      label: Pre-Order State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: palette_pre_order_zip
+      label: Pre-Order Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: palette_pre_order_country
+      label: Pre-Order Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

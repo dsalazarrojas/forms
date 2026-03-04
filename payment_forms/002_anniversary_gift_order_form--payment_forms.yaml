@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Gift Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For order confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: anniversary_type
+      label: Anniversary Type
+      hint: What anniversary are you celebrating?
+      type: select_one
+      options:
+      - Wedding Anniversary
+      - Work Anniversary
+      - Relationship Anniversary
+      - Business Anniversary
+      - Other
+      required: true
+    - id: 5
+      name: anniversary_year
+      label: Anniversary Year/Milestone
+      hint: Which year or milestone?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gift_category
+      label: Gift Category
+      hint: Select the type of gift
+      type: select_one
+      options:
+      - Jewelry
+      - Personalized Items
+      - Experience Gifts
+      - Home Decor
+      - Flowers and Plants
+      - Gift Baskets
+      - Custom Gift
+      required: true
+    - id: 7
+      name: gift_selection
+      label: Specific Gift Selection
+      hint: Describe the specific item or package
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: personalization_text
+      label: Personalization Text
+      hint: Text for engraving, printing, or custom message
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gift_wrap_option
+      label: Gift Wrap Option
+      hint: Choose gift wrapping style
+      type: select_one
+      options:
+      - No Gift Wrap
+      - Standard Wrap
+      - Premium Wrap
+      - Gift Box
+      - Eco-Friendly Wrap
+      required: true
+    - id: 10
+      name: greeting_card_message
+      label: Greeting Card Message
+      hint: Message to include with the gift
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_type
+      label: Delivery Type
+      hint: How should the gift be delivered?
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Same Day Delivery
+      - Store Pickup
+      - International Shipping
+      required: true
+    - id: 12
+      name: delivery_date
+      label: Desired Delivery Date
+      hint: When should the gift arrive?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: recipient_name
+      label: Recipient Name
+      hint: Full name of the gift recipient
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: recipient_address
+      label: Delivery Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Contact number for delivery
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any specific delivery requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_quantity
+      label: Quantity
+      hint: Number of items to order
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank Transfer
+      required: true
+    - id: 19
+      name: gift_receipt
+      label: Include Gift Receipt
+      hint: Should a gift receipt be included?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: marketing_opt_in
+      label: Marketing Communications
+      hint: Receive updates on new products and offers
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: false

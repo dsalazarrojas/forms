@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Storage Container Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_city
+      label: Billing City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_state
+      label: Billing State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_zip
+      label: Billing ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_city
+      label: Shipping City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_state
+      label: Shipping State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_zip
+      label: Shipping ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: container_type
+      label: Container Type
+      hint: Select container type
+      type: select_one
+      options:
+      - Insulated Shipping Box
+      - Refrigerated Container
+      - Freezer Container
+      - Cooler with Gel Packs
+      - Dry Ice Container
+      - Phase Change Material Container
+      - Vacuum Insulated Panel
+      - Custom Solution
+      required: true
+    - id: 14
+      name: container_size
+      label: Container Size
+      hint: Select size
+      type: select_one
+      options:
+      - Small (up to 5 liters)
+      - Medium (5-15 liters)
+      - Large (15-30 liters)
+      - Extra Large (30-50 liters)
+      - Custom Size
+      required: true
+    - id: 15
+      name: temperature_requirement
+      label: Temperature Requirement
+      hint: Required temperature range
+      type: select_one
+      options:
+      - Frozen (below 0°F)
+      - Deep Freeze (-10°F to 0°F)
+      - Frozen (0°F to 10°F)
+      - Refrigerated (32°F to 40°F)
+      - Cool (40°F to 50°F)
+      - Controlled (50°F to 60°F)
+      - Custom Range
+      required: true
+    - id: 16
+      name: duration_needed
+      label: Duration of Temperature Maintenance
+      hint: How long must temperature be maintained
+      type: select_one
+      options:
+      - Up to 24 hours
+      - 24-48 hours
+      - 48-72 hours
+      - 3-5 days
+      - 5-7 days
+      - Over 7 days
+      required: true
+    - id: 17
+      name: quantity
+      label: Quantity
+      hint: Number of containers
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: accessories_needed
+      label: Accessories Needed
+      hint: Select additional items
+      type: select_multiple
+      options:
+      - Gel Packs
+      - Dry Ice
+      - Phase Change Materials
+      - Temperature Data Logger
+      - Temperature Indicator
+      - Insulated Liners
+      - Dividers
+      - Labels
+      - None
+      required: true
+    - id: 19
+      name: data_logger_required
+      label: Temperature Data Logger Required
+      hint: For monitoring during transit
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: custom_labeling
+      label: Custom Labeling Required
+      hint: Special labels or branding
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need the containers
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery speed
+      type: select_one
+      options:
+      - Standard Ground
+      - Express 2-Day
+      - Overnight
+      - Same Day
+      - Will Call Pickup
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Purchase Order
+      - Company Account
+      required: true
+    - id: 24
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 25
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: card_expiry
+      label: Card Expiry Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: card_cvv
+      label: CVV Security Code
+      hint: 3 or 4 digit code
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If using PO
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: special_instructions
+      label: Special Instructions or Comments
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_accepted
+      label: Terms and Conditions Acceptance
+      hint: I agree to the terms and conditions
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true

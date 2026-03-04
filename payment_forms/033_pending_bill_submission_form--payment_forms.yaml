@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: pending_bill_submission_form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Sales''}'
+      required: false
+    - id: 3
+      name: project
+      label: project
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Marketing Campaign''}'
+      - '{''value'': ''Product Launch''}'
+      required: false
+    - id: 4
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department_notes
+      label: Department Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Consultation Registration Form
+    pages:
+    - id: 1
+      name: consultation_date
+      label: Consultation Date Requested
+      hint: Preferred date for consultation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: consultation_time
+      label: Preferred Time
+      hint: Preferred time for consultation
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: caregiver_first_name
+      label: Caregiver First Name
+      hint: Legal first name of the caregiver
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: caregiver_last_name
+      label: Caregiver Last Name
+      hint: Legal last name of the caregiver
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: caregiver_relationship
+      label: Relationship to Child
+      hint: Your relationship to the child
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Foster parent
+      - Other relative
+      - Other
+      required: true
+    - id: 10
+      name: caregiver_email
+      label: Caregiver Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: caregiver_phone
+      label: Caregiver Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: consultation_type
+      label: Type of Consultation Needed
+      hint: Select the type of consultation you are seeking
+      type: select_one
+      options:
+      - Initial assessment
+      - Behavioral consultation
+      - Developmental evaluation
+      - Educational guidance
+      - Family counseling
+      - Other
+      required: true
+    - id: 13
+      name: reason_for_consultation
+      label: Reason for Consultation
+      hint: Briefly describe the reason for seeking consultation
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: previous_consultations
+      label: Previous Consultations
+      hint: Has the child had previous consultations?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List any current medications the child is taking
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of your insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Your insurance policy or member number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you prefer to be contacted?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Any method
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional information you would like to share
+      type: text
+      options: []
+      required: false

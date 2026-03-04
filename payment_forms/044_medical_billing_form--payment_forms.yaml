@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_billing_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Medicaid
+      - Private
+      required: false
+    - id: 4
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Plan A
+      - Plan B
+      - Plan C
+      required: true
+    - id: 5
+      name: insurance_id
+      label: Insurance ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_claim
+      label: Medical Claim
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: medical_claim_date
+      label: Medical Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Check
+      required: true
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: billing_provider
+      label: Billing Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 14
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

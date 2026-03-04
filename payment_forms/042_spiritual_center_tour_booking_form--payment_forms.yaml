@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spiritual Center Tour Booking Form
+    pages:
+    - id: 1
+      name: tour_reservations
+      label: Tour Reservations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_schedule
+      label: Visit Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payments
+      label: Payments
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''id'': 2, ''label'': ''PayPal'', ''value'': ''paypal''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

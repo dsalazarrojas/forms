@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Helpline Report
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Call Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: call_date
+      label: Call Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: call_time
+      label: Call Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: helpline_operator
+      label: Helpline Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: call_duration_minutes
+      label: Call Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Caller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: caller_name
+      label: Caller Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: caller_age
+      label: Caller Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: caller_phone
+      label: Caller Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: caller_email
+      label: Caller Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: covid_diagnosis
+      label: COVID-19 Diagnosis Status
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending
+      - Suspected
+      - Unknown
+      required: true
+    - id: 13
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Difficulty breathing
+      - Fatigue
+      - Sore throat
+      - Loss of taste or smell
+      - Nausea
+      - None
+      required: true
+    - id: 14
+      name: symptom_duration
+      label: Duration of Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_concerns
+      label: Primary Health Concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_4
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: chronic_conditions
+      label: Chronic Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Recommendation and Action --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: treatment_provided
+      label: Treatment or Advice Provided
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: referral_needed
+      label: Referral to Medical Facility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: referral_details
+      label: Referral Details
+      hint: Where and why
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_required
+      label: Follow-up Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

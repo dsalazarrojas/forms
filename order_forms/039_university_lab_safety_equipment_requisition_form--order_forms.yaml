@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Lab Safety Equipment Requisition Form
+    pages:
+    - id: 1
+      name: lab_name
+      label: Lab Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lab_contact
+      label: Lab Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Approval
+      - Approved
+      - Declined
+      required: false
+    - id: 9
+      name: reason_declined
+      label: Reason Declined
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - admin
+      - other
+      required: false
+    - id: 11
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: false

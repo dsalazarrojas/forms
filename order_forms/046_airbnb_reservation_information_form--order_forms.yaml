@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Reservation Information Form
+    pages:
+    - id: 1
+      name: reservation_name
+      label: Reservation name
+      hint: Name on the reservation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reservation_number
+      label: Reservation number
+      hint: Booking reference ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: check_in_date
+      label: Check in date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: check_out_date
+      label: Check out date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: guests
+      label: Number of guests
+      hint: Total guests in the reservation
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_status
+      label: Payment status
+      hint: Indicate whether payment is complete
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Refund requested
+      required: true
+    - id: 7
+      name: special_requests
+      label: Special requests
+      hint: Any additional booking requests
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For reservation updates
+      type: email
+      options: []
+      required: true

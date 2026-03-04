@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Asset Sale Registration
+    pages:
+    - id: 1
+      name: sale_registration
+      label: Sale Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sale_price
+      label: Sale Price
+      hint: The sale price of the equipment
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sale_status
+      label: Sale Status
+      hint: Select sale status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: buyer_name
+      label: Buyer Name
+      hint: Buyer name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: buyer_email
+      label: Buyer Email
+      hint: Buyer email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: sale_status_details
+      label: Sale Status Details
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: seller_details
+      label: Seller Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

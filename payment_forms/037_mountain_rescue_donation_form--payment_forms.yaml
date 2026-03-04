@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mountain Rescue Donation Form
+    pages:
+    - id: 1
+      name: donatable_amount
+      label: Donatable Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Donations''}'
+      - Donation
+      - Payment
+      required: true
+    - id: 3
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''One-Time Donation''}'
+      - recurring_donation
+      - Other
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Bank Transfer''}'
+      - PayPal
+      - Credit
+      - Cash
+      required: true
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: donor_details
+      label: Donor Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false

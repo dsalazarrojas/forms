@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Gateway Pricing Inquiry Form
+    pages:
+    - id: 1
+      name: form_1
+      label: payment_gateway_pricing_inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gateway_type
+      label: payment_gateway_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: business_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: business_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: business_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: payment_gateway_pricing_inquiry_form
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: business_hours
+      hint: null
+      type: select_multiple
+      options:
+      - Mon-Thu, 10:00-15:00
+      - Fri-Sun, 10:00-13:00
+      required: false

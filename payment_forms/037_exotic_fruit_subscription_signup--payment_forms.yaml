@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exotic Fruit Subscription Signup
+    pages:
+    - id: 1
+      name: signup_form
+      label: signup_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit_card'', ''label'': ''Credit Card''}'
+      - '{''value'': ''paypal'', ''label'': ''PayPal''}'
+      - '{''value'': ''banktransfer'', ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 3
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_frequency
+      label: delivery_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      required: false
+    - id: 5
+      name: payment_frequency
+      label: payment_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''one_time'', ''label'': ''One Time Payment''}'
+      - '{''value'': ''recurring'', ''label'': ''Recurring Payment''}'
+      required: false
+    - id: 6
+      name: payment_frequency_2
+      label: payment_frequency_2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''one_time'', ''label'': ''One Time Payment''}'
+      - '{''value'': ''recurring'', ''label'': ''Recurring Payment''}'
+      required: false
+    - id: 7
+      name: delivery_day
+      label: delivery_day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: delivery_note
+      label: delivery_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fruit_box
+      label: fruit_box
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: delivery_zip
+      label: delivery_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

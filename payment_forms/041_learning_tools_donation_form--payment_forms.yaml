@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Tools Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Recurring
+      - In-Kind
+      required: true
+    - id: 3
+      name: recurring_donation_frequency
+      label: Recurring Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_comments
+      label: Donation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: custom_jotform_id
+      label: Custom JotForm ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: custom_jotform_api_key
+      label: Custom JotForm API Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_description_en
+      label: Form Description (English)
+      hint: null
+      type: text
+      options: []
+      required: false

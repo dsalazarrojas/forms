@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Time And Billing Form
+    pages:
+    - id: 1
+      name: payment_forms
+      label: Payment Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: time_tracking_forms
+      label: Time Tracking Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: total_hours_worked
+      label: Total Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_billable_hours
+      label: Total Billable Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: calculate_totals
+      label: Calculate Totals
+      hint: null
+      type: note
+      options: []
+      required: false

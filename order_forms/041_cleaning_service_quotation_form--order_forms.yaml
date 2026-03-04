@@ -1,0 +1,390 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Quotation Form
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_property
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: What type of property needs cleaning
+      type: select_one
+      options:
+      - Residential - House
+      - Residential - Apartment
+      - Residential - Condo
+      - Residential - Townhouse
+      - Commercial - Office
+      - Commercial - Retail
+      - Commercial - Restaurant
+      - Commercial - Medical Facility
+      - Commercial - School
+      - Industrial or Warehouse
+      - Other
+      required: true
+    - id: 9
+      name: property_size
+      label: Property Size
+      hint: Approximate square footage
+      type: select_one
+      options:
+      - Under 1,000 sq ft
+      - 1,000 - 2,000 sq ft
+      - 2,001 - 3,500 sq ft
+      - 3,501 - 5,000 sq ft
+      - 5,001 - 10,000 sq ft
+      - Over 10,000 sq ft
+      required: true
+    - id: 10
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: Total rooms or areas
+      type: select_one
+      options:
+      - 1-3 Rooms
+      - 4-6 Rooms
+      - 7-10 Rooms
+      - 11-15 Rooms
+      - Over 15 Rooms
+      - Open Floor Plan
+      required: false
+    - id: 11
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: If applicable
+      type: select_one
+      options:
+      - 1 Bathroom
+      - 2 Bathrooms
+      - 3 Bathrooms
+      - 4 Bathrooms
+      - 5 or more Bathrooms
+      - Not Applicable
+      required: false
+    - id: 12
+      name: floors_in_property
+      label: Number of Floors
+      hint: How many floors need cleaning
+      type: select_one
+      options:
+      - Single Floor
+      - 2 Floors
+      - 3 Floors
+      - 4 or more Floors
+      required: true
+    - id: 13
+      name: section_header_service
+      label: -- Service Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: cleaning_type
+      label: Type of Cleaning Needed
+      hint: What type of cleaning do you need
+      type: select_one
+      options:
+      - Standard Cleaning
+      - Deep Cleaning
+      - Move-In or Move-Out Cleaning
+      - Post-Construction Cleaning
+      - Spring Cleaning
+      - Office Cleaning
+      - Retail Cleaning
+      - Medical Facility Cleaning
+      - Other
+      required: true
+    - id: 15
+      name: service_frequency
+      label: Service Frequency
+      hint: How often do you need cleaning
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - One-Time Only
+      - Not Sure
+      required: true
+    - id: 16
+      name: additional_services
+      label: Additional Services Required
+      hint: Select any extra services
+      type: select_multiple
+      options:
+      - Carpet Cleaning
+      - Window Cleaning
+      - Oven Cleaning
+      - Refrigerator Cleaning
+      - Cabinet Cleaning
+      - Baseboard Cleaning
+      - Wall Washing
+      - Light Fixture Cleaning
+      - Blinds Cleaning
+      - Upholstery Cleaning
+      - Floor Stripping and Waxing
+      - Pressure Washing
+      - Sanitization or Disinfection
+      - None
+      required: true
+    - id: 17
+      name: section_header_condition
+      label: -- Current Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_cleanliness
+      label: Current Cleanliness Level
+      hint: How would you describe the current condition
+      type: select_one
+      options:
+      - Very Clean - Maintenance cleaning
+      - Generally Clean - Regular upkeep
+      - Moderately Dirty - Needs thorough cleaning
+      - Very Dirty - Deep cleaning required
+      - Extremely Dirty - Intensive cleaning needed
+      required: true
+    - id: 19
+      name: last_professional_cleaning
+      label: When Was Last Professional Cleaning
+      hint: How long ago
+      type: select_one
+      options:
+      - Within 1 Month
+      - 1-3 Months Ago
+      - 3-6 Months Ago
+      - 6-12 Months Ago
+      - Over 1 Year Ago
+      - Never
+      required: true
+    - id: 20
+      name: special_circumstances
+      label: Special Circumstances
+      hint: Any special conditions affecting cleaning
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_scheduling
+      label: -- Scheduling Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When would you like service to begin
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      - After Hours
+      - Flexible
+      required: true
+    - id: 24
+      name: preferred_days
+      label: Preferred Days of Week
+      hint: Which days work best
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - No Preference
+      required: true
+    - id: 25
+      name: section_header_quote
+      label: -- Quotation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: quote_delivery_method
+      label: How Should We Send Your Quote
+      hint: Preferred method to receive quote
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - In-Person Estimate
+      required: true
+    - id: 27
+      name: budget_range
+      label: Expected Budget Range
+      hint: What is your expected budget per cleaning
+      type: select_one
+      options:
+      - Under $100
+      - $100 - $200
+      - $201 - $350
+      - $351 - $500
+      - $501 - $1,000
+      - Over $1,000
+      - Not Sure
+      required: false
+    - id: 28
+      name: timeline_for_decision
+      label: When Do You Need Service
+      hint: How soon do you need cleaning
+      type: select_one
+      options:
+      - As Soon as Possible
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - Just Planning or Browsing
+      required: true
+    - id: 29
+      name: competing_quotes
+      label: Are You Getting Other Quotes
+      hint: Are you comparing services
+      type: select_one
+      options:
+      - Yes - Comparing multiple quotes
+      - Yes - Have one other quote
+      - No - You are the only company
+      - Not Sure
+      required: false
+    - id: 30
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: pets_in_property
+      label: Do You Have Pets
+      hint: Any pets in the property
+      type: select_one
+      options:
+      - No Pets
+      - Yes - Dogs
+      - Yes - Cats
+      - Yes - Other
+      - Yes - Multiple Types
+      required: true
+    - id: 32
+      name: allergies_or_sensitivities
+      label: Allergies or Chemical Sensitivities
+      hint: Any allergies we should know about
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: special_instructions
+      label: Special Instructions or Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: access_information
+      label: Property Access Information
+      hint: How will cleaners access the property
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: parking_availability
+      label: Parking Availability
+      hint: Is parking available for our team
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family Referral
+      - Online Search
+      - Advertisement
+      - Direct Mail
+      - Other
+      required: false
+    - id: 37
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: request_date
+      label: Quote Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

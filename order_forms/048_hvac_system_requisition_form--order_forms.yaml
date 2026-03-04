@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac_system_requisition_form
+    pages:
+    - id: 1
+      name: requisition_details
+      label: Requisition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - Cooling System
+      - Heating System
+      - Both
+      required: false
+    - id: 3
+      name: system_size
+      label: System Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low Temperature
+      - High Temperature
+      - Neutral
+      required: false
+    - id: 5
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Home
+      - Restaurant
+      required: false
+    - id: 6
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: system_requirements
+      label: System Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

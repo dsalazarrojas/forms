@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Franchise POS Terminal Order Form
+    pages:
+    - id: 1
+      name: food_franchise_pos_terminal_order_form_page_1
+      label: Food Franchise POS Terminal Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: terminal_id
+      label: terminal id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: store_id
+      label: store id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_type
+      label: order type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Order''}'
+      - '{''id'': 2, ''label'': ''Phone Order''}'
+      - '{''id'': 3, ''label'': ''In Store Order''}'
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

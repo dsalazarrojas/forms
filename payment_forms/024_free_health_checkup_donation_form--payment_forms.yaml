@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Health Checkup Donation Form
+    pages:
+    - id: 1
+      name: donation_details
+      label: donation details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Other
+      required: true
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

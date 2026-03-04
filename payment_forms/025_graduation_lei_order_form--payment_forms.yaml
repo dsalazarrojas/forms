@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Lei Order Form
+    pages:
+    - id: 1
+      name: pickup_or_delivery
+      label: Pickup or Delivery
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: Enter student name in first and last name format
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: school_name
+      hint: Enter school name (e.g. University of California)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_date
+      label: delivery_date
+      hint: Enter delivery date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_method
+      label: delivery_method
+      hint: Select delivery method
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: false
+    - id: 6
+      name: pickup_time
+      label: pickup_time
+      hint: "Enter pickup time (e.g. 2:00 PM)"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: Enter school or pickup address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: Select payment method
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: false

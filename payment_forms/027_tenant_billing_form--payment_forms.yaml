@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Billing Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Landlord
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rent_amount
+      label: Rent Amount
+      hint: Enter the rent amount
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: Choose a payment method
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Online Payment
+      required: true
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Pending
+      - Overdue
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tenant_address
+      label: Address
+      hint: Enter the tenant address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: landlord_address
+      label: Landlord Address
+      hint: Enter the landlord address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false

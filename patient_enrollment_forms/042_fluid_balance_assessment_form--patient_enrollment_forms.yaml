@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fluid Balance Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: intake
+      label: Intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: output
+      label: Output
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: balance
+      label: Balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications_history
+      label: Medications History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications_allergies
+      label: Medications Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications_interactions
+      label: Medications Interactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications_dosage
+      label: Medications Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fluid_balance
+      label: Fluid Balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications_effectiveness
+      label: Medications Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_outcome_risk_factors
+      label: Patient Outcome Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fluid_intake
+      label: Fluid Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: fluid_intake_unit
+      label: Fluid Intake Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fluid_output
+      label: Fluid Output
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: fluid_output_unit
+      label: Fluid Output Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: balance_result
+      label: Balance Result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: target_balance
+      label: Target Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: balance_status
+      label: Balance Status
+      hint: Select Positive or Negative
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      required: true
+    - id: 22
+      name: balance_risk
+      label: Balance Risk
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 23
+      name: medications_administration
+      label: Medications Administration
+      hint: null
+      type: select_multiple
+      options:
+      - Parenteral
+      - Oral
+      required: true
+    - id: 24
+      name: patient_dose
+      label: Patient Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: patient_dose_unit
+      label: Patient Dose Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: patient_height
+      label: Patient Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: patient_bmi
+      label: Patient BMI
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: fluid_balance_risk
+      label: Fluid Balance Risk
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Moderate
+      required: true
+    - id: 30
+      name: balance_risk_factors
+      label: Balance Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Moderate
+      required: true
+    - id: 31
+      name: medications_frequency
+      label: Medications Frequency
+      hint: Select a frequency
+      type: select_one
+      options:
+      - As Needed
+      - Daily
+      - Every other day
+      - Weekly
+      required: true
+    - id: 32
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Critical
+      required: true
+    - id: 33
+      name: fluid_status
+      label: Fluid Status
+      hint: Select Adequate or Inadequate
+      type: select_one
+      options:
+      - Inadequate
+      - Adequate
+      - Borderline
+      required: true
+    - id: 34
+      name: target_status
+      label: Target Status
+      hint: Select Adequate or Inadequate
+      type: select_one
+      options:
+      - Inadequate
+      - Adequate
+      - Borderline
+      required: true

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Incubator Mentorship Donation Form
+    pages:
+    - id: 1
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: false
+    - id: 4
+      name: donor_name
+      label: Donor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_email
+      label: Donor's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: donor_phone
+      label: Donor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_donation_frequency
+      label: Frequency of Form Donation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: form_donation_interval
+      label: Donation Interval
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 10
+      name: form_donation_amount
+      label: Amount of Form Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_donation_type
+      label: Type of Form Donation
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: false
+    - id: 12
+      name: form_donor_name
+      label: Name of Form Donor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_donor_email
+      label: Email of Form Donor
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: form_donor_phone
+      label: Phone of Form Donor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_notes
+      label: Notes of Form Donor
+      hint: null
+      type: note
+      options: []
+      required: false

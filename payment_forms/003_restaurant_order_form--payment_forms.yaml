@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_order_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank Transfer
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: select_multiple
+      options:
+      - Now
+      - Within 1 hour
+      - Within 2 hours
+      - Within 3 hours
+      - Pickup
+      required: false
+    - id: 3
+      name: pickup_location
+      label: Pickup Location
+      hint: Enter pickup location
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false

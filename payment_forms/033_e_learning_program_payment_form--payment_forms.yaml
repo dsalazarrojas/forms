@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Learning Program Payment Form
+    pages:
+    - id: 1
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: method
+      label: method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: price
+      label: price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_time
+      label: payment_time
+      hint: null
+      type: time
+      options: []
+      required: false

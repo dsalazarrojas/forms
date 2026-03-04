@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_newsletter_subscription_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: format_pref
+      label: format_pref
+      hint: null
+      type: select_one
+      options:
+      - digital
+      - print
+      required: false
+    - id: 3
+      name: subscription_duration
+      label: Subscription duration
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      required: false
+    - id: 4
+      name: subscription_frequency
+      label: Subscription frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

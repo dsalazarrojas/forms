@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: pay_stub_information_collection_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pay_cycle
+      label: Pay Cycle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_multiple
+      options:
+      - Pay Period 1
+      - Pay Period 2
+      - Pay Period 3
+      required: false
+    - id: 4
+      name: date_last_pay
+      label: Date Last Pay
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_last_pay
+      label: Time Last Pay
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: gross_pay
+      label: Gross Pay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_fed
+      label: Tax Fed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax_state
+      label: Tax State
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tax_local
+      label: Tax Local
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: net_pay
+      label: Net Pay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: benefits
+      label: Benefits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address1
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address2
+      label: Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Semi-Monthly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 19
+      name: pay_method
+      label: Pay Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: pay_type
+      label: Pay Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: pay_status
+      label: Pay Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: bank_info
+      label: Bank Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false

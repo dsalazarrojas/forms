@@ -1,0 +1,332 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Payment Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_service
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_date
+      label: Date of Service
+      hint: When was the cleaning performed
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: service_address
+      label: Service Address
+      hint: Address where service was provided
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: service_type
+      label: Type of Service
+      hint: What type of cleaning was performed
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Move-In or Move-Out Cleaning
+      - Post-Construction Cleaning
+      - Spring Cleaning
+      - Office Cleaning
+      - Other
+      required: true
+    - id: 14
+      name: invoice_number
+      label: Invoice Number
+      hint: Invoice or reference number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_charges
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: base_service_charge
+      label: Base Service Charge
+      hint: Base cleaning fee
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_services_charge
+      label: Additional Services Charge
+      hint: Fee for extra services
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supplies_charge
+      label: Cleaning Supplies Charge
+      hint: Fee for supplies if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_fee
+      label: Travel Fee
+      hint: Travel or transportation fee
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: discount_applied
+      label: Discount Applied
+      hint: Any discounts
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tax_amount
+      label: Tax Amount
+      hint: Applicable taxes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: total_amount_due
+      label: Total Amount Due
+      hint: Total payment amount
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_header_payment
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_type
+      label: Payment Type
+      hint: Type of payment
+      type: select_one
+      options:
+      - One-Time Payment
+      - Recurring Payment
+      - Deposit
+      - Final Payment
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer or ACH
+      - Check
+      - Cash
+      - Online Payment Platform
+      required: true
+    - id: 26
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Other
+      required: false
+    - id: 27
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: card_number
+      label: Card Number
+      hint: Card number
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: expiration_month
+      label: Expiration Month
+      hint: MM
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: expiration_year
+      label: Expiration Year
+      hint: YYYY
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: cvv
+      label: CVV or Security Code
+      hint: 3 or 4 digit code
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_header_recurring
+      label: -- Recurring Payment Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: recurring_payment
+      label: Authorize Recurring Payments
+      hint: Do you authorize recurring charges
+      type: select_one
+      options:
+      - Yes - Authorize recurring charges
+      - No - One-time payment only
+      required: true
+    - id: 34
+      name: recurring_frequency
+      label: Recurring Frequency
+      hint: How often should charges occur
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Not Applicable
+      required: false
+    - id: 35
+      name: recurring_start_date
+      label: Recurring Payment Start Date
+      hint: When should recurring charges begin
+      type: date
+      options: []
+      required: false
+    - id: 36
+      name: section_header_authorization
+      label: -- Payment Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: authorization_statement
+      label: Payment Authorization
+      hint: By signing, you authorize the charge
+      type: select_one
+      options:
+      - I Authorize This Charge
+      - I Do Not Authorize
+      required: true
+    - id: 38
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you agree to the payment terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - No - I Do Not Accept
+      required: true
+    - id: 39
+      name: customer_signature
+      label: Customer Signature (Type Full Name)
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 41
+      name: section_header_notes
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: payment_notes
+      label: Payment Notes or Comments
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

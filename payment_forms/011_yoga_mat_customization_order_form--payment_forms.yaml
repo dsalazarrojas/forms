@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Mat Customization Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mat_info
+      label: Mat Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: size
+      label: Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: color
+      label: Color
+      hint: Select a color from below
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Green''}'
+      - '{''id'': 2, ''value'': ''Blue''}'
+      - '{''id'': 3, ''value'': ''Red''}'
+      required: false
+    - id: 5
+      name: material
+      label: Material
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Cotton''}'
+      - '{''id'': 2, ''value'': ''Rubber''}'
+      - '{''id'': 3, ''value'': ''PVC''}'
+      required: false
+    - id: 6
+      name: pattern
+      label: Pattern
+      hint: Select a pattern from below
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Solid''}'
+      - '{''id'': 2, ''value'': ''Striped''}'
+      - '{''id'': 3, ''value'': ''Polka Dots''}'
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Credit Card''}'
+      - '{''id'': 2, ''value'': ''PayPal''}'
+      - '{''id'': 3, ''value'': ''Bank Transfer''}'
+      required: false
+    - id: 10
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false

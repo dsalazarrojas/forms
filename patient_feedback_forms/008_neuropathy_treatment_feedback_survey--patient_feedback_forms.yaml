@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: neuropathy_treatment_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Neuropathy Treatment Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pain_level
+      label: How would you rate your current pain level?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: medication_side_effects
+      label: Have you experienced any side effects from your medication?
+      hint: null
+      type: select_multiple
+      options:
+      - Numbness or tingling sensations
+      - Muscle weakness or cramps
+      - Fatigue or drowsiness
+      - Dizziness or lightheadedness
+      - Increased heart rate or blood pressure
+      - Other
+      required: false
+    - id: 4
+      name: satisfaction_with_treatment
+      label: How satisfied are you with your treatment?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 5
+      name: overall_outcome
+      label: How would you rate the overall outcome of your treatment?
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Worsened
+      - Much worse
+      required: false
+    - id: 6
+      name: recommendation
+      label: Would you recommend this treatment to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Is there anything else you would like to add?
+      hint: null
+      type: note
+      options: []
+      required: false

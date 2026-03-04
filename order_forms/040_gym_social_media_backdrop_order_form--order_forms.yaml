@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Social Media Backdrop Order Form
+    pages:
+    - id: 1
+      name: backdrop_type
+      label: Backdrop Type
+      hint: null
+      type: select_one
+      options:
+      - Backdrop
+      - Logo
+      - Both
+      - Other
+      required: false
+    - id: 2
+      name: backdrop_image
+      label: Backdrop Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: backdrop_image_alt
+      label: Backdrop Image Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: logo_image
+      label: Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: logo_image_alt
+      label: Logo Image Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Other
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: gym_name
+      label: Gym Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false

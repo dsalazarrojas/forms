@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Sign Order Form
+    pages:
+    - id: 1
+      name: road_sign_order_form
+      label: Custom Road Sign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_artwork
+      label: Artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: true
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

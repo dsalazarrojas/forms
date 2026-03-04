@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 PPE Order Form
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_id
+      label: Order ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_header
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Nursing Home
+      - School
+      - Business
+      - Government
+      - Non-Profit
+      - Other
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: items_header
+      label: -- PPE Items to Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: masks_n95
+      label: N95 Respirator Masks
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: masks_surgical
+      label: Surgical Masks
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: face_shields
+      label: Face Shields
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: gloves
+      label: Gloves
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: gowns
+      label: Protective Gowns
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: head_covers
+      label: Head Covers
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: foot_covers
+      label: Foot Covers
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: goggles
+      label: Safety Goggles
+      hint: Quantity
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: hand_sanitizer
+      label: Hand Sanitizer
+      hint: Quantity in liters
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: surface_disinfectant
+      label: Surface Disinfectant
+      hint: Quantity in liters
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_items
+      label: Other PPE Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: delivery_date
+      label: Required Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: urgency
+      label: Order Urgency
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Expedited
+      - Emergency
+      required: true

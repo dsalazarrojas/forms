@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Household Products Order Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Enter your email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Enter your phone number for delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter the complete address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address_same_as_shipping
+      label: Billing Address Same as Shipping
+      hint: Is your billing address the same as your shipping address?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: Enter the complete billing address if different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_category_header
+      label: -- Product Category --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_category
+      label: Product Category
+      hint: Select the category of household products you're interested in
+      type: select_one
+      options:
+      - Cleaning Supplies
+      - Kitchen Essentials
+      - Bathroom Products
+      - Laundry Items
+      - Home Organization
+      - Bedding
+      - Furniture
+      - Appliances
+      - Decorative Items
+      - Pet Supplies
+      - Other
+      required: true
+    - id: 9
+      name: specific_product_name
+      label: Specific Product Name
+      hint: Enter the name of the specific household product you want to order
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: brand_preference
+      label: Brand Preference
+      hint: Do you have a preferred brand for this product?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_size_quantity
+      label: Product Size or Quantity
+      hint: Specify the size, count, or quantity you want to order
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: How many units would you like to order?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: eco_friendly_preference
+      label: Eco-Friendly Preference
+      hint: Do you prefer eco-friendly or sustainable products?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - No Preference
+      required: false
+    - id: 14
+      name: allergy_sensitive_requirements
+      label: Allergy/Sensitive Requirements
+      hint: Do you have any allergy or sensitivity considerations?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_features
+      label: Desired Features
+      hint: What specific features are important for this product?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: What is your budget for this purchase?
+      type: select_one
+      options:
+      - Under $25
+      - $25-$50
+      - $50-$100
+      - $100-$200
+      - Over $200
+      required: false
+    - id: 17
+      name: frequency_of_purchase
+      label: Frequency of Purchase
+      hint: How often do you typically purchase this type of product?
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: false
+    - id: 18
+      name: shipping_preference
+      label: Shipping Preference
+      hint: Select your preferred shipping method
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Express (2-3 business days)
+      - Subscription Delivery
+      - Store Pickup
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: Select Afterpay as your payment method
+      type: select_one
+      options:
+      - Afterpay (Buy Now, Pay Later)
+      - Credit Card
+      - Debit Card
+      - PayPal
+      required: true
+    - id: 20
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to the store's terms and Afterpay conditions?
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
